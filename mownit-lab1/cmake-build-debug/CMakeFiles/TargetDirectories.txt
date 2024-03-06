@@ -1,0 +1,3 @@
+/home/jesienin/Desktop/git-repos/MOWNIT/mownit-lab1/cmake-build-debug/CMakeFiles/mownit_lab1.dir
+/home/jesienin/Desktop/git-repos/MOWNIT/mownit-lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jesienin/Desktop/git-repos/MOWNIT/mownit-lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
