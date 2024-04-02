@@ -1,0 +1,3 @@
+/home/jesienin/Desktop/git-repos/MOWNIT/lab4MOWNIT/Binary-images/cmake-build-debug/CMakeFiles/Binary_images.dir
+/home/jesienin/Desktop/git-repos/MOWNIT/lab4MOWNIT/Binary-images/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jesienin/Desktop/git-repos/MOWNIT/lab4MOWNIT/Binary-images/cmake-build-debug/CMakeFiles/rebuild_cache.dir
