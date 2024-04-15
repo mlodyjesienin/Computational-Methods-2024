@@ -1,0 +1,18 @@
+const int NUM_NGHB = 8;
+const int NEIGHBOURHOOD[] = {0,1,    1,1,    1,0,    1,-1,    0,-1,    -1,-1,    -1,0,    -1,1};
+const float PERCENTAGE_OF_BLACK = 0.4;
+
+const int IMAGE_SIZE = 128;
+const int MAX_ITER = 20000;
+
+const double INITIAL_TEMPERATURE = 10;
+const double ALPHA_COEFFICIENT = 0.99;
+
+const int FRAMES_DIVISOR = 50;
+const int PLOT_DIVISOR = 1;
+
+EnergyFunction const   ENERGY = diff_energy;
+EnergyUpdate const ENERGY_UPDATE = update_diff_energy;
+
+starting cost: 26464
+final cost: 15992

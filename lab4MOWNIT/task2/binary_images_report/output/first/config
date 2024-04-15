@@ -1,0 +1,16 @@
+const int NUM_NGHB = 8;
+const  int NEIGHBOURHOOD[] = {0,1,    1,1,    1,0,    1,-1,    0,-1,    -1,-1,    -1,0,    -1,1};
+const float PERCENTAGE_OF_BLACK = 0.3;
+
+const int IMAGE_SIZE = 50;
+const int MAX_ITER = 50000;
+
+const double INITIAL_TEMPERATURE = 200;
+const double ALPHA_COEFFICIENT = 0.999;
+
+const int FRAMES_DIVISOR = 100;
+const int PLOT_DIVISOR = 10;
+
+EnergyFunction const   ENERGY = unity_energy;
+EnergyUpdate const ENERGY_UPDATE = update_unity_energy;
+

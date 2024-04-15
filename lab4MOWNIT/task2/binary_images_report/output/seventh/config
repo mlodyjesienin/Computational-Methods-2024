@@ -1,0 +1,15 @@
+const int NEIGHBOURHOOD[] = {0, 1, 1, 1, 1, 0, 1, -1, 0, -1, -1, -1, -1, 0, -1, 1, 0, 2, 1, 2, 2, 1, 2, 0, 2, -1, 1, -2, 0, -2};
+const int NUM_NGHB = 15;
+const float PERCENTAGE_OF_BLACK = 0.4;
+
+const int IMAGE_SIZE = 512;
+const int MAX_ITER = 100000;
+
+const double INITIAL_TEMPERATURE = 500;
+const double ALPHA_COEFFICIENT = 0.9997;
+
+const int FRAMES_DIVISOR = 100;
+const int PLOT_DIVISOR = 10;
+
+EnergyFunction const   ENERGY = parabola_energy;
+EnergyUpdate const ENERGY_UPDATE = update_parabola_energy;
