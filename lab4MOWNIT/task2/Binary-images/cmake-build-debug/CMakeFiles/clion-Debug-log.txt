@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/265/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -G Ninja -S /home/jesienin/Desktop/git-repos/MOWNIT/lab4MOWNIT/Binary-images -B /home/jesienin/Desktop/git-repos/MOWNIT/lab4MOWNIT/Binary-images/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/jesienin/Desktop/git-repos/MOWNIT/lab4MOWNIT/Binary-images/cmake-build-debug
