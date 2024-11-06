@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+Probability theory | Fundamental concepts
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+StatLect
+
+
+
+
+
+Index
+
+
+
+
+
+Fundamentals of probability theory
+This is an introduction to the fundamental concepts of probability theory. Each lecture contains detailed proofs and derivations of all the main results, as well as solved exercises.
+Probability and events
+
+
+
+
+Zero-probability events
+
+
+Events having zero probability, almost sure events, almost sure properties
+
+
+
+
+
+Probability
+
+
+Sample space, sample points, events, probability and its fundamental properties
+
+
+
+
+
+
+
+Bayes' rule
+
+
+Prior probability, posterior probability, updating
+
+
+
+
+
+Conditional probability
+
+
+How to revise probabilities when new information arrives
+
+
+
+
+
+
+
+Independent events
+
+
+Definition and explanation of independence and mutual independence
+
+
+
+
+
+
+Random variables and random vectors
+
+
+
+
+Random vectors
+
+
+Joint distributions, marginal distributions
+
+
+
+
+
+Random variables
+
+
+Discrete and continuous random variables, probability mass and density functions
+
+
+
+
+
+
+
+Expected value and the Lebesgue integral
+
+
+A rigorous definition of expected value, based on the theory of Lebesgue integration
+
+
+
+
+
+Expected value
+
+
+The mean of a random variable, how to compute it, its properties
+
+
+
+
+
+
+
+Variance
+
+
+Dispersion around the mean, definition, interpretation, fundamental properties
+
+
+
+
+
+Properties of the expected value
+
+
+Linearity of the expected value, expectation of positive random variables, other properties
+
+
+
+
+
+
+
+Linear correlation
+
+
+Another measure of association between random variables
+
+
+
+
+
+Covariance
+
+
+Association between random variables, definition, interpretation, properties
+
+
+
+
+
+
+
+Indicator functions
+
+
+Equal to one when an event happens and zero otherwise
+
+
+
+
+
+Covariance matrix
+
+
+A multivariate generalization of the concept of variance
+
+
+
+
+
+
+
+Quantile
+
+
+Cut-off point of a distribution that leaves to its left a given proportion of the distribution
+
+
+
+
+
+
+Conditional distributions and independence
+
+
+
+
+Conditional probability distributions
+
+
+How to update the distribution of a random variable after receiving some information
+
+
+
+
+
+Rigorous conditional probability
+
+
+A more rigorous presentation of conditional probability based on the theory of sigma-algebras
+
+
+
+
+
+
+
+Independent random variables
+
+
+Definition and characterization of independence between random variables
+
+
+
+
+
+Conditional expectation
+
+
+How to compute the expected value of a random variable after observing the value of another
+
+
+
+Inequalities
+
+
+
+
+Chebyshev's inequality
+
+
+A fundamental inequality derived from Markov's inequality
+
+
+
+
+
+Markov's inequality
+
+
+Provides an upper bound to the probability that a random variable will exceed a threshold
+
+
+
+
+
+
+
+Jensen's inequality
+
+
+Concerns the expected value of convex and concave transformations of a random variable
+
+
+
+
+
+
+More about probability mass and density functions
+
+
+
+
+Legitimate probability density functions
+
+
+Properties of probability density functions and how to construct them
+
+
+
+
+
+Legitimate probability mass functions
+
+
+Properties of probability mass functions and how to construct them
+
+
+
+
+
+
+
+Factorization of joint pdfs
+
+
+Factorization into marginal and conditional probability density function
+
+
+
+
+
+Factorization of joint pmfs
+
+
+Factorization into marginal and conditional probability mass function
+
+
+
+Transformations of random variables
+
+
+
+
+Functions of random vectors
+
+
+How to derive the joint distribution of a function of a random vector
+
+
+
+
+
+Functions of random variables
+
+
+How to derive the distribution of Y=g(X) from the distribution of X
+
+
+
+
+
+
+
+Sums of independent random variables
+
+
+How to derive the distribution of a sum from the distributions of the summands
+
+
+
+
+
+
+Moments
+
+
+
+
+Cross-moments
+
+
+Definition of cross-moment and central cross-moment of a random vector
+
+
+
+
+
+Moments
+
+
+Definition of moment and central moment of a random variable
+
+
+
+Moment generating and characteristic functions
+
+
+
+
+Joint moment generating function
+
+
+Generalizes the concept of moment generating function to random vectors
+
+
+
+
+
+Moment generating function
+
+
+Definition, computation of moments, characterization of distributions
+
+
+
+
+
+
+
+Joint characteristic function
+
+
+Generalizes the concept of characteristic function to random vectors
+
+
+
+
+
+Characteristic function
+
+
+Definition, computation of moments, characterization of distributions
+
+
+
+
+
+
+
+Cumulant generating function
+
+
+The logarithm of the moment generating function has some interesting properties
+
+
+
+
+
+
+Information-theoretic concepts
+
+
+
+
+Kullback-Leibler divergence
+
+
+A measure of the dissimilarity between two probability distributions
+
+
+
+Revise what you studied
+
+
+
+
+Probability questions
+
+
+200 probability questions to check your knowledge of probability theory
+
+
+
+
+
+
+
+
+
+The books
+Most of the learning materials found on this website are now available in a traditional textbook format.
+Probability and statisticsMatrix algebra
+
+
+
+Featured pages
+
+Central Limit Theorem
+Binomial distribution
+Combinations
+Normal distribution
+Mean square convergence
+Multinomial distribution
+
+Explore
+
+Student t distribution
+Permutations
+Exponential distribution
+
+
+
+Main sections
+
+Mathematical tools
+Fundamentals of probability
+Probability distributions
+Asymptotic theory
+Fundamentals of statistics
+Glossary
+
+About
+
+About Statlect
+Contacts
+Cookies, privacy and terms of use
+
+
+
+Glossary entries
+
+Mean squared error
+Continuous random variable
+Type II error
+IID sequence
+Factorial
+Estimator
+
+Share
+
+To enhance your privacy,
+we removed the social buttons,
+but don't forget to share.
+
+
+
+
+
+
+
+

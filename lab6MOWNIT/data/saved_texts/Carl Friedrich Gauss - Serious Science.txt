@@ -1,0 +1,407 @@
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carl Friedrich Gauss - Serious Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+videos
+talks
+FAQ
+people
+themes
+work with us
+
+
+AI
+Energy
+Space
+Climate
+Neuroscience
+Deep Tech
+Biotech
+Impact
+
+
+
+
+Carl Friedrich Gauss
+Mathematician and Historian of Mathematics Jeremy Gray on the theory of quadratic forms, the rediscovery of Ceres, and non-Euclidian geometry
+
+faq | October 6, 2016 
+
+ Eduard Ritmüller's portrait of Gauss on the terrace of Göttingen observatory //Carl Friedrich Gauss: Titan of Science by G. Waldo Dunnington, Jeremy Gray, Fritz-Egbert Dohse 
+
+
+0
+
+
+Share
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carl Friedrich Gauss was a German mathematician and astronomer. He was born to poor parents in Brunswick in 1777 and died in Göttingen in Germany, in 1855, by which time he was regarded by all who knew him as one of the greatest mathematicians of all time.
+Learning about Gauss
+Prime NumbersMathematician James Maynard on the Riemann Hypothesis, Euclid's proof, and the problems of Paul ErdősHow do we study Carl Friedrich Gauss? Well, when it comes to his early life, we have to rely on family stories that his mother shared when he became famous. Of course, those stories are prone to exaggeration, but his remarkable talent was, in fact, noticed when he was in his early teens. From then on, we have more and more records concerning his life.
+As Gauss grew up and became noticed, we started to have letters about him from people who knew him, as well as official records of various sorts. We also have a long memoir by a friend of his, written on the basis of conversations they had towards the end of Gauss’s life. We have his publications, we have a great many of his letters to other people, and a lot of material he wrote but never published. And, finally, we have obituaries of him.
+Early Life and the Path to Mathematics
+Gauss’s father had various jobs, such as a laborer, a building site foreman, and a merchant’s assistant. His mother was intelligent but barely literate and was devoted to Gauss until her death at the age of 97. It seems that Gauss had been spotted as a gifted pupil while still at school, and his father was persuaded to send him to the local academic school when he was eleven rather than set him to work. The Duke of Brunswick at the time was keen to modernize the State of Brunswick, and he wanted to bring in talented people to help him do so. When Gauss was fifteen, the Duke had him brought to the Collegium Carolinum for his higher education, although by then, Gauss had already taught himself to a high level in Latin and Mathematics. At the age of eighteen, he went to Göttingen University, and at twenty-one, he had already written his doctorate.
+
+Gauss had originally intended to study philology, a high-status subject in Germany at the time, but he had also been conducting extensive investigations into the algebraic side of the construction of regular polygons. The connection is given by the fact that the vertices of a regular polygon of n sides are given by the solution of the equation x^n – 1 = 0 (these are the numbers e^{2ki \pi/17} = cos(2k \pi/17) + i sin(2k \pi/17), k =0, 1, . . . 16). Gauss discovered that when n = 17 the equation factorizes in such a way that the regular 17-sided polygon can be constructed by ruler and compass alone. This was an entirely new result, Greek geometers had had no inkling of it, and the discovery caused a small sensation – news of it was even published in the town newspaper. This success, which came when he was barely nineteen, made him decide to study mathematics.
+But what made him famous were two entirely different things in 1801. The first was the publication of his book called The Disquisitiones Arithmeticae (Arithmetical Researches), which completely rewrote the theory of numbers and led to it becoming one of the central subjects of mathematics, which it still is. It includes the theory of equations of the form x^n – 1, which was both highly original and yet easy to appreciate, and also the much harder theory of what is called quadratic forms. This had already attracted the interest of two of the leading French mathematicians, Joseph Louis Lagrange and Adrien Marie Legendre, and their recognition that Gauss had gone far beyond what they had done counted for a lot.
+Ceres, photo taken Dawn, May 4th 2015
+The second momentous event was Gauss’s rediscovery of the first known asteroid. It was found in 1800 by the Italian astronomer Giuseppe Piazzi, who had called it Ceres after the Roman goddess of agriculture. He observed it for 41 nights before it disappeared behind the Sun. It was a very exciting discovery, and astronomers wanted to know where it would reappear. Only Gauss got it right, none of the professionals did, and this made his name known as an astronomer, which is what he remained for many years to come.
+Later Life and Family
+Gauss’s first job was as a mathematician at Göttingen, but after the discovery of Ceres and, later on, other asteroids as well, he steadily switched his interests over to astronomy and in 1897 became the Director of the Göttingen Observatory, a post he held almost until his death. He remained a Professor of Mathematics at the University of Göttingen, but this does not seem to have required him to do much teaching, and the record of his contact with younger generations is rather slight. In fact, he seems to have been an aloof figure, more comfortable and sociable with astronomers than the few good mathematicians around in his lifetime.
+How to Determine One's Ancestry Using DNA Tests?Geneticist George Busby on mutations, African and European genomes, and genetic markersIn the 1820s, he directed a massive survey of northern Germany and southern Denmark and in the course of doing so, rewrote the theory of the geometry of surfaces, or differential geometry, as it is called today.
+Gauss married twice, the first time quite happily, but when his wife Johanna died in childbirth in 1809, he married again to Minna Waldeck, and that marriage was less successful; she died in 1831. He had three sons, two of whom emigrated to the United States, most likely because their relationships with their father were troubled. As a result, there is an active group of people in the States who celebrate their descent from Gauss. He also had two daughters, one by each marriage.
+Greatest Contributions to Mathematics
+When considering Gauss’s contributions to the field, we can start with the method of least squares in statistics, which he invented to make sense of Piazzi’s data and find the asteroid Ceres. This was a breakthrough in averaging lots of observations, all of them imprecise, in order to produce the most reliable information from them. As for number theory, there is almost too much to say, but he made remarkable discoveries about what numbers can be expressed by quadratic forms, which are expressions of form 3x^2 + 5xy + 6y^2. You may not think this is important, but Gauss turned what was a collection of scattered results into a systematic theory and showed that many simple and natural conjectures have proofs that lie in what look like other branches of mathematics altogether. Some of the techniques he invented turned out to matter in other branches of mathematics as well, but Gauss discovered them even before those branches were properly studied: group theory is a case in point.
+His work on equations of the form x^n – 1 = 0 and, more surprisingly, on deep features of the theory of quadratic forms opened up the use of complex numbers, for example, to prove results about the integers. This suggested that a lot was going on under the surface of the subject.
+Later, in the 1820s, he discovered that there is a concept of the curvature of a surface that is intrinsic to the surface. This explains why some surfaces cannot be copied exactly on others, just the way we cannot make an exact map of the Earth on a piece of paper. This freed the study of surfaces from the study of solids: you can have apple peel without having to imagine an apple underneath it.
+Surface with negative curvature, where the sum of the angles of the triangle is less than that of a plain triangle //source:Wikipedia
+In the 1840s, independently of the English mathematician George Green, he invented the subject of potential theory, which is a huge extension of calculus to functions of several variables. This is the right mathematics for studying gravitation and electromagnetism, and has been used every day in many branches of applied mathematics ever since.
+And we should also remember what Gauss discovered but did not publish, which is quite a lot. No one really knows why he kept so much to himself, but one theory is that the flood of new ideas he kept having was more exciting. He convinced himself that Euclidean geometry was not necessarily true and that at least one other geometry was logically possible. The glory for this discovery went to two other mathematicians, Bolyai in Romania-Hungary and Lobachevskii in Russia, but only after they had died – so controversial was it at the time. And he did a lot of work on what is called elliptic functions – you can think of them as generalizations of the sine and cosine functions of trigonometry, but, more precisely, they are complex functions of a complex variable, and Gauss invented a whole theory of them. A decade later, Abel and Jacobi became famous for doing much the same thing, unaware of what Gauss had done.
+Work in Other Fields
+Kuiper BeltAstronomer David Jewitt on his discovery of the first Kuiper Belt object, origins of comets, and planetary migrationAfter his rediscovery of the first asteroid, Gauss did a lot of work on finding others and calculating their orbits. This was complicated work in the era before computers, but it appealed to his talents, and he seems to have felt that it enabled him to pay back his debt to the Prince and the society that had given him his education.
+In addition to that, while surveying northern Germany, he invented the heliotrope for accurate surveying work, and in the 1840s, he helped design and build the first electric telegraph. If he had thought of amplifiers as well, he might be remembered for this too, but without them, signals couldn’t travel very far.
+Lasting Legacy
+There are many reasons why Carl Friedrich Gauss is still so relevant today. First of all, number theory has become a huge subject with a reputation for difficulty. Ever since, some of the best mathematicians have gravitated to it, and Gauss gave them a way of approaching it. Naturally, some of the problems he could not solve attracted attention, and so you can say that he created a whole field of research. It turns out to have deep connections with elliptic function theory, too.
+In addition, his discovery of the intrinsic concept of curvature enriched the whole study of surfaces and inspired all the work that came after it for generations. Anyone who studies surfaces, from adventurous modern architects to mathematicians, is in his debt.
+The intrinsic geometry of surfaces extends to the idea of the intrinsic geometry of higher-dimensional objects, such as three-dimensional space and four-dimensional space-time. Einstein’s general theory of relativity and all of modern cosmology, including the study of black holes, became possible because Gauss made that breakthrough. And the idea of non-Euclidean geometry, so shocking in its day, made people realize that there can be many kinds of rigorous mathematics, some of which may be more accurate or useful – or just plain interesting – than the ones we thought we knew.
+Non-Euclidian geometry //source: Numberphile
+The Man Behind the Legend
+Gauss’s life has inspired many stories and anecdotes. For instance, however implausibly, his mother liked to say that no one had taught Gauss basic arithmetic, but he had mastered it on his own by overhearing his father at work. It is certainly the case that he was one of the few mathematicians with an extraordinary capacity for mental arithmetic and could conduct long calculations quickly and accurately in his head. It was also reported that his sons would say that he had discouraged them from pursuing careers in science because “he did not want the name of Gauss associated with second-rate work.”
+In the same vein, he had a chilling habit of telling people that he knew already what they had just discovered. Most famously, when his old university friend Farkas Bolyai wrote to him enclosing a copy of his son János’s discovery of non-Euclidean geometry, Gauss replied that he could not praise the work “because to do so would be to praise me”. Not only did this exaggerate what Gauss knew in 1831, but he also did nothing to help the younger Bolyai win recognition for his work, and János became so disillusioned that he never published again.
+Sophie Germain
+However, you shouldn’t get the impression that Gauss was a disagreeable man. He was a principled person, he was happy to accept Sophie Germain as a serious mathematician at a time when women were excluded from higher education, and he always sought to put his talents to productive use. But his were exceptional talents, and while we can celebrate them, it is likely that they made him more than usually lonely.
+Edited by Alina Shubina
+
+
+Jeremy Gray
+PhD, Emeritus Professor of the History of Mathematics, The Open University
+
+
+astronomybiographygeometryhistoryhistory of sciencemathematicsnumber theory
+
+
+Did you like it? Share it with your friends!
+
+0
+
+
+Share
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    	    /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+       	 
+
+
+
+ 
+
+Read more
+ 
+
+
+faq
+Marie Curie
+Biographer and historian of science Naomi Pasachoff on the discovery of radium and polonium, acquaintance with Einstein, and Curie's double Nobel award  
+ 
+
+
+videos
+The Mathematical Structure of Our Universe
+Physicist Max Tegmark on using mathematics to explain the Universe, and how we could develop software to map all mathematical structures 
+
+
+
+
+
+
+random video
+
+
+
+
+
+
+
+Published items
+0783
+
+
+To be published soon
++92
+
+
+
+Most viewed
+
+1
+
+
+Peer Fischer
+How Nanorobots Are Used in Medicine?
+
+
+
+
+2
+
+
+Diana Omigie
+Musical Taste
+
+
+
+
+3
+
+
+Patrick Haggard
+Voluntary Action
+
+
+
+
+4
+
+
+Ugo Moschella
+The Big Bang Theory
+
+
+
+
+5
+
+
+David Adger
+The Nature of Language
+
+
+
+
+6
+
+
+Karl Friston
+Karl Friston: “The hallmark of a good scientist is asking questions that no-one has asked before”
+
+
+
+
+7
+
+
+Ruth Penfold-Mounce
+Ruth Penfold-Mounce: ‘We’re seeing death as a form of entertainment rather than being disturbed by what we’re witnessing’
+
+
+
+
+8
+
+
+Peter Jones
+History of Laughter
+
+
+
+
+9
+
+
+Gareth Jones
+Undecidable Problems
+
+
+
+
+
+
+New
+
+
+longreads
+X-Ray Radiation
+Mysterious rays that changed the world
+
+
+
+
+WTFact
+X-Ray Tube
+Where do X-rays come from?
+
+
+
+
+faq
+Machine Learning, AI, Neural Networks: How Do They Differ from Each Other?
+A method, a function, a technology: which is which?
+
+
+
+
+WTFact
+What is Critical Thinking?
+A critical thinker doubts everything — including himself
+
+
+
+
+videos
+Academic Freedom in Medieval Universities
+Historian Peter Jones on Peter Abelard, logical analysis of the Scripture and what was the role of the universities in the Middle Ages
+
+
+
+
+
+
+about
+videos
+talks
+FAQ
+people
+themes
+work with us
+ 
+
+
+
+
+
+ 
+  
+
+		© Serious Science, 2013-2024.
+
+
+
+
+
+
+
+
+
+

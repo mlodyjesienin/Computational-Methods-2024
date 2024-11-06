@@ -1,0 +1,677 @@
+
+
+
+Musical Harmony - Music and Math
+
+
+
+
+ 
+The Mathematics of Musical Harmony
+Why do we think some musical notes
+    have a pleasant sound
+  (a harmonious sound) when they're played together?
+It's due to  four characteristics of music:
+• A musical instrument produces sound waves, with air vibrating at a particular frequency.
+   A musical note's pitch (is it a “low note” or “high note”?) is determined
+  by its
+  rate
+  of vibration.
+• When a tone (a note) with
+  frequency "x" is produced, it's a "package deal"
+    that includes overtones at multiples
+of x (i.e. at 2x, 3x, 4x, 5x, 6x,
+7x, ...).
+For example, when a “low” fundamental  tone is produced by air vibrating  24 times per second,
+it also will have overtones with sound waves vibrating at 48, 72, 96, 120,
+144,
+168,
+192, ...
+• A Major Chord is
+  formed by playing
+the 1-and-3-and-5 notes
+of a major scale at
+the same time.
+{ below you'll discover WHY a major chord has these three notes }
+• In a just-tuned  Major Scale, the
+  ratios between its 1-note and the other notes of the scale are
+1/1     9/8     5/4     4/3     3/2     5/3     15/8     2/1
+  so if the 1-note is produced by sound waves vibrating at 24 times per second,
+  the
+  seven scale-notes
+  are:
+24      27      30      32      36      40      45      48
+ because 24(9/8) = 27, and 24(5/4) = 30, and so on. 
+also:  Of all possible two-note combinations,* the smallest  ratios occur for
+the 4th and 5th notes of the scale, with 4th/1st = 4/3, and 5th/1st = 3/2.
+These interactions produce a pleasant sound-and-feeling of consonance 
+when these notes (1st & 4th, or 1st & 5th) are played  simultaneously.
+This consonance is one of  two main reasons (the other is artistry) that
+these three chords (1,4,5)  are used in most chord progressions.
+{* 4/3 and 3/2 are the  smallest ratios for “different” notes, i.e. if we don't 
+include the ratio of 2/1  for the 1-notes in different octaves, as with 48/24. }
+ 
+Based on these facts, here is a question:
+  Can you discover a mathematical relationship
+  between the overtones (2x, 3x, 4x, 5x,...) of the
+ 1st & 3rd & 5th notes, with frequencies of 24 & 30 & 36 ?
+   You can play with the numbers and do  detective work,
+then look at the yellow table below.  Or first...
+use a visually-logical structure to help you discover;  draw a table like this one and
+fill the white-blanks by calculating the overtones (1x & 2x as shown, plus 3x, 4x,...)
+  for each fundamental tone (for 24, 30, 36),  and then compare the overtones.
+
+
+  1st  
+ 24 
+ 
+ 
+ 48 
+ 
+ 
+ 
+    
+ 
+    
+   
+   
+ etc 
+
+
+3rd
+ 
+ 30 
+ 
+ 
+ 60 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ etc 
+
+
+5th
+ 
+ 
+ 36 
+ 
+ 
+ 72 
+ 
+ 
+    
+ 
+ 
+ 
+ etc 
+
+
+
+ 
+  And there are important differences between
+   Just Tuning and Equal-Tempered Tuning:
+In modern Western Music, we commonly use  two kinds of tuning.
+    The math above (with fraction-ratios between tones) is just tuning.
+    The last part of this page describes the differences between
+just tuning and well-tempered tuning, and the reasons
+  why both are used, because each has pros & cons.
+   
+
+ 
+In this table, notice  the “matching up” of some overtones:
+in the "match" row these are labeled 15, 13,... 35,...  135.
+
+
+1st
+24
+ 
+ 
+48
+ 
+72
+ 
+96
+ 
+120
+144
+ 
+168
+ 
+192
+ 
+216
+240
+ 
+264
+ 
+288
+ 
+312
+ 
+ 
+336
+360
+  etc 
+
+
+3rd
+ 
+30
+ 
+ 
+60
+ 
+90
+ 
+ 
+120
+ 
+150
+ 
+180
+ 
+210
+ 
+240
+ 
+ 
+270
+ 
+300
+ 
+ 
+330
+ 
+360
+etc
+
+
+5th
+ 
+ 
+36
+ 
+ 
+72
+ 
+ 
+108
+ 
+144
+ 
+ 
+180
+ 
+ 
+216
+ 
+252
+ 
+ 
+288
+ 
+ 
+324
+ 
+ 
+360
+etc
+
+
+ match 
+ 
+ 
+ 
+ 
+ 
+15
+ 
+ 
+ 
+13
+15
+ 
+ 
+35
+ 
+ 
+15
+13
+ 
+ 
+ 
+15
+ 
+ 
+ 
+ 
+ 
+135
+ etc 
+
+
+ 
+  When a musical note is produced, most sound-sources (voice, trumpet, flute,...) also produce
+  all of its
+overtones.*  For example, when we play a note at 24 vibrations/second, it's a “package deal”
+that also includes its overtones
+at 48, 72, 96,... and these contribute to the harmony we hear.
+  When two or more chord-notes (1st, 3rd, 5th, 1st, 3rd,...) are played simultaneously,
+  each note produces its own overtones, and our ears-and-minds perceive the
+“matching up” of their overtone-waves (at 72, 120, 144, 180,...)
+  as being a
+  pleasant-sounding 
+harmony.
+* Although "most sound-producers (voice, trumpet, flute,...) also produce all of its overtones,"
+  each source  produces a different mixture of overtones;  with each instrument the overtones (48, 72,...)
+  have different loudness.  For example, with a trumpet the 48 will be louder (compared with its 24)
+  than the 48 of a flute (compared with its fundamental of 24).  We hear these differences, which let us
+  distinguish between a trumpet & flute that are playing a tone with the same fundamental pitch-frequency.
+{ The basics are explained by Wikipedia's Timbre in their introduction, Synonyms, ASA Definition. }
+also:  Each person's voice has its own distinctive combination of overtones, and
+this lets us distinguish between the voice of one person and another person.
+more:  You can explore the physiology of harmony,
+  and how our perceptions of it are influenced by culture,
+in Wikipedia's descriptions of Chords & Tension and Perception –
+Physiological Basis and In History of Western Music – Chord Progressions.
+
+ 
+Due to the differing physiology of hearing and vision,
+  when we “mix notes” or “mix colors” there is a difference;
+  our ears hear simultaneous notes as musical harmony,
+  but our
+  eyes see simultaneous colors as a new color.
+ 
+In other pages – like my "splitting out the white" page –
+you can learn more about the science of music  and color.
+    
+
+ 
+Just Tuning and Equal-Tempered Tuning
+a summary:  When we do Just Tuning for the key of C Major,
+  it's possible (amazingly) to get perfect harmonies – with frequency
+  ratios of exactly 1.250 (=5/4) for "thirds" and 1.500 (=3/2) for "fifths" –
+  in 5 of the 6 main chords (especially I, IV, V, and also iii, vi) but not  ii.
+Similarly,  a just-tuned A Minor has perfect ratios for only 5 of its 6 chords.
+By contrast with these perfect harmonies (1.250 & 1.500), the commonly
+used Equal-Tempered Tuning produces imperfect harmonies (1.260 & 1.498),
+and a third  ratio (5-note/3-note) is 1.200 with Just, but 1.189 for Even-Tempered.
+Comparing ratios of Just (1.500, 1,250, 1.200) and Tempered (1.498, 1.260, 1.189),
+Tempered is "off" by -.002 (=1.498-1.500), +.010 (=1.260-1.250), -.011 (=1.189-1.200).
+ 
+iou – Soon (probably in mid-November 2023) I'll write...
+  • an introduction about the many possible ways to tune — a large number,
+  with some more useful than others (below I use one from Wikipedia) — along with
+  some history, 
+  pros & cons of the two most common tunings (Just & Equal Temperament),
+  • a description of Just Diatonic (Major & Minor), as in the tables below (based on Wikipedia),
+  • making Major Chords (minor third, major third)  and Minor Chords (major third, minor third),
+• options for coping with  problems of Just Tuning (getting 5 chords with perfect harmony,
+  but 1 chord without harmony) in C Major or A Minor, in a system that is almost perfect.
+Here are some ideas (from my page about Musical Improvisation) that will be in a section-introduction:
+     Physics-and-Physiology produces Harmony
+     {quoting from a section about Harmonious Music} - We can make harmonious music by using simultaneous harmony (in chords) and sequential harmony (in a melody).  What produces harmony?  It's caused by the interaction of musical physics with human physiology.  My page about Music and Math [it's this page] explains [at its beginning] the basic physics of music (i.e. every note is actually a combination of notes, is a “package deal” that includes a tone plus its overtones) and mathematics of music (how a chord with perfectly-tuned notes will produce perfectly-consonant harmonies, because the chord's notes have some overtones that “match up” perfectly, and this produces a sound-and-feeling of harmony).  We think  music sounds “harmonious” when the chord-notes  are played simultaneously in a chord (due to physics-and-physiology) and sequentially in a melody (due to physics-and-physiology-plus-memory).  Both harmonies are blended when we make harmony-based music that combines harmonious chords &  melodies.
+     dis-harmony that is intentional and common:  Due to cultural decisions – that are made for rational reasons, that  produce important musical benefits – the harmonies are not perfectly consonant  in most of the music we hear, even in music that's played by the best musicians.  This is because most musical instruments use a system of 12-Tone Equal Tempered Tuning (12-TET) in which the tuning is “close enough” for our ears-and-minds to accept as being “in tune” even though it's a little out-of-tune by the standards of perfect consonance with perfect harmony.  And because we hear this tuning so often,  we may think (based on our  personal experience) that “this is the way music should sound.”  How much out of tune?  If a major chord (formed by a scale's 1st, 3rd, and 5th notes) is made by playing  perfectly harmonious notes that are perfectly  consonant (with Just Tuning) the ratios are 5/4 (=1.250) for the ratio of 3rd/1st, and 6/4 (=1.500) for  the ratio of 5th/1st, plus 6/5 (=1.200) for the ratio of 5th/3rd.  But with less-harmonious Equal Tempered Tuning these ratios will be (1.260, 1.498, 1.189) instead of the more-harmonious (1.250, 1.500, 1.200) with Just Tuning.  The equal-tempered ratios are harmoniously-incorrect by .010 (=1.250–1.260) for 1st-and-3rd, and .002 (=1.500–1.498) for 1st-and-5th, and .011 (=1.200–1.189) for 3rd-and-5th.  Notice that harmonies involving the 3rd are much more out-of-tune (.010and .011) than the harmony without it (.002).   /   Or these ratios can be expressed in a different way;  if the 1st-note has a frequency of 400 Hz (= 400 vibrations/second), with Just Tuning the chord notes (for 1st, 3rd, 5th, 1st) are (400.00, 500.00, 600.00, 800.00) but are (400.00, 503.97, 599.32, 800.00) with Equal-Tempered Tuning.  As with the numerical ratios, notice that again the 3rd is much more out-of-tune (instead of 500.0 it's 504.0) than is the 5th (600.0 vs 599.3).  And the octave (it's 800.0 in both Just and Equal-Tempered) is perfectly consonant in both tunings.
+    two kinds of mathematical elegance:  With a Just Scale, notes have frequency-ratios with small numbers (5/4, 3/2, 6/5,...) and this elegance produces beautiful harmonies.  With an Even-Tempered Scale, the ratio between any two semitones is always the same (1.059463...) and due to this elegance the ratios of notes (and thus of chords) remain the same when music is played in any key;  the harmony is always “a little bit off” but never “way off.”  By contrast,  Just Tuning must be done for  a particular key, and even in this key  there are harmonious small-number ratios for only 5 of the key's 6 common chords (for all of its 3 major chords, and 2 of its 3 minor chords);  and for other keys there is even less consistency in chord-harmonies, with less harmony in chords that are “far away” in The Circle of Fifths, so in a far-away key the harmony can be “way off” as in a wolf fifth that [[ iou – later, but maybe not until September, I'll finish this sentence, and add other ideas to this section.]]
+     terms:  A piano that is perfectly tuned (with  Equal-Tempered Tuning that's done correctly) is not perfectly consonant, because the overtones  of its chord-notes are not perfectly matched.
+     the way it should be:  It would be easy to make an electronic keyboard (although not an acoustic piano) that can play in either Just Tuning or Tempered Tuning, that shifts between them with the push of a button.*  I think  all keyboards should have these two options-for-tuning.   /   a pet peeve:  It's difficult for me to tell a person “when you play only the red-notes (the 1-3-5 of a chord) it will sound beautifully harmonious” when their ears are telling them something different.  What do they hear?  Because  their keyboard has Tempered Tuning,  they can hear  the ugly  “warbling beats”
+when they simultaneously play a 1st-and-3rd or  3rd-and-5th.  This warbling is un-harmonious and un-beautiful, compared with the beautiful harmony they would hear with Just Tuning when they play a 1st-and-3rd or  3rd-and-5th.   /   * A wise keyboard player would choose Tempered Tuning when playing in a group that includes fixed-pitch instruments like guitar or trumpet, instead of only variable-pitch instruments (like voice, violin, or trombone) that are played in-tune by skillful musicians.
+This  table shows  mathematical relationships IF we define C(1) to be 72 vibrations/second — which is musically incorrect  (a C-note could be 65.4 or 130.8, but not 72.0) — because 72.0 is mathematically convenient, giving whole-number Results (81, 90,...)  when  72 is multiplied by the Ratios.   /   Notice that for 5 of the 6 chords, tone-ratios are perfectly harmonious (i.e. they have small-number ratios) — the frequency ratio of 5-note/1-note is 1.500 (=3/2), with 3-note/1-note & 5-note/3-note being 1.250 (=5/4) & 1.200 (=6/5) for major chords, and 1.200 & 1.250 for minor chords — but the tone-ratios are far off (with a wolf-howly sound?) for D-minor.  These dis-harmonies for the chord-notes of D-minor (and for interactions of passing notes with chord-notes for two other chords) are  examined below the table.
+
+
+Major
+ Tuning
+C (1)
+D (2)
+E (3)
+F (4)
+G (5)
+A (6)
+B (7)
+C (2)
+D (2)
+E (3)
+F (4)
+
+
+72
+81
+90
+96
+108
+120
+135
+144
+162
+180
+192
+
+
+Ratios 
+1.000
+1.125
+1.250
+1.333
+1.500
+1.667
+1.875
+2.000
+
+
+
+
+
+1:1
+9:8
+5:4
+4:3
+3:2
+5:3
+15:8
+2:1
+
+
+
+
+
+ 
+C (1)
+D (2)
+E (3)
+F (4)
+G (5)
+A (6)
+B (7)
+C (1)
+D (2)
+E (3)
+F (4)
+
+
+Results
+72
+81
+90
+96
+108
+120
+135
+144
+162
+180
+192
+
+
+CHORD
+      5th / 1st
+      (= ratio)
+       
+      5th / 3rd
+      (= ratio)
+       
+      3rd / 1st
+      (= ratio)
+ 
+C Major
+      108 / 72
+      = 1.500
+       
+      108 / 90
+      = 1.200
+       
+      90 / 72
+      = 1.250
+d minor
+        120 / 81
+        = 1.481
+  
+120 / 96
+= 1.250
+ 
+  96 / 81
+  = 1.185
+e minor
+        135 / 90
+        = 1.500
+ 
+135 / 108
+= 
+1.250
+ 
+      108 / 90
+    = 1.200
+F Major
+      144 / 96
+      = 1.500
+    
+   144 / 120
+
+= 1.200
+ 
+      120 / 96
+    = 1.250
+G Major
+162 / 108
+      = 1.500
+    
+162 / 135
+= 1.200
+ 
+      135 / 108
+    = 1.250
+a minor
+        180 / 120
+        = 1.500
+   
+180 / 144
+= 1.250
+  
+      144 / 120
+    = 1.200
+b - dim
+      192 / 135
+      = 1.422
+         
+  192 / 162
+= 1.185
+ 
+162 / 135
+    = 1.200
+
+
+
+
+
+
+
+ok
+WOLF
+ok
+ok
+ok
+ok
+m - m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.000
+1.125
+1.200
+1.333
+1.500
+1.600
+1.800
+2.000
+
+
+
+
+
+
+1 : 1
+9 : 8
+6 : 5
+4 : 3
+3 : 2
+8 : 5
+9 : 5
+2 : 1
+
+
+
+
+
+minor
+    tuning 
+A (1)
+B (2)
+C (3)
+D (4)
+E (5)
+F (6)
+G (7)
+A (1)
+B (2)
+C (3)
+D (4)
+
+
+120
+135
+144
+160
+180
+192
+216
+240
+270
+288
+320
+
+
+CHORD
+5th / 1st
+(= ratio)
+ 
+5th / 3rd
+(= ratio)
+ 
+3rd / 1st
+(= ratio)
+a minor
+      180 / 120
+      = 1.500
+  
+180 / 144
+= 1.250
+ 
+      144 / 120
+      = 1.200
+b - dim
+        192 / 135
+        = 1.422
+         
+192 / 160
+= 1.200
+ 
+      160 / 135
+= 1.185
+C Major
+      216 / 144
+      = 1.500
+        
+216 / 180
+= 1.200
+ 
+      180 / 144
+      = 1.250
+d minor
+            240 / 160
+      = 1.500
+  
+240 / 192
+= 1.250
+ 
+      192 / 160
+    = 1.200
+e minor
+270 / 180
+      = 1.500
+  
+270 / 216
+= 1.250
+ 
+      216 / 180
+    = 1.200
+F Major
+      288 / 192
+      = 1.500
+        
+288 / 240
+= 1.200
+ 
+      240 / 192
+      = 1.250
+G Major
+320 / 216
+      = 1.481
+       
+      320 / 270
+      = 1.185
+  
+      270 / 216
+      = 1.250
+
+
+
+
+
+
+ 
+ok
+m - m
+ok
+ok
+ok
+ok
+WOLF
+ 
+ 
+ 
+ 
+
+
+     a problem – with Just Tuning, there is a non-harmonious chord when D=81.  Why?  In the table, you see that with "Major Tuning" (in top half of table) if  D is "81" the chord of G-Major is perfectly harmonious — with small whole-number ratios of 3/2, 5/4, 6/5 (= 1.500, 1.250, 1.200) — but there are "wolf howls" for a chord of D-minor because its 5-note/1-note  (A-note/D-note) is 1.481 instead of 1.500 (a difference of -.019, worse than the even-tempered ratios involving 1-and-3 or 3-and-5, that are off by -.002, +.010, or -.011);  also, its  3-note/1-note (F/D) is 1.185, not 1.200 (so it's off by -.015).   /   When the D-note is "81" it causes two kinds of musical problems:  1) Obviously when a D-minor Chord is used in a chord progression, as in the common "ii V I" that "is a staple of virtually every type of [Western] popular music, including jazz, R&B, pop, rock, and country."   And also, I think (but am not certain),  2) less obvious - and less serious - when in a melody the 81-D is used  as a Passing Note during a chord of F-Major (when D is the 6th note of an F-Major Scale) or A-minor (when D is the 4th note of an A-minor Scale).
+     options for a solution –  in three ways,* the non-harmonies of D=81 can be fixed by sometimes (but not always) causing it to be D=80.  The horrible harmonies can  be fixed by changing D=81 to D=80 while playing a D-minor Chord.  And D=80 also converts D into a more-harmonious Passing Note during a chord of F-Major or A-minor.  How can this "81 becoming 80" solution be actualized?  Recently I've heard about I've heard about "adaptive Just Tuning"  by using a software program that does real-time analyzing of what is happening during music;  because the program knows "what is happening" it can adjust by causing  D=80 whenever it recognizes "D-minor Chord" (to fix the Chord with D=80) and probably also "F-Major Chord" and "A-minor Chord" (to make D more-harmonious when it's used as an important Passing Note), but during other chords (especially Gmajor) it could cause D=81.   [[ iou – soon, probably November 7-11, I'll make links to forum-threads that describe "what these programs do, and how." ]]
+       * Why are there "three ways" to solve the musical problems?  Because the 81-to-80 conversions (by a software program) can be controlled by doing it "on the fly" with real-time adjustments by the software,  or with pre-planned adjustments that are pre-programmed,  or with a hybrid combination of pre-programming (for modes of D=81 and D=80) plus manual action with a person choosing the mode by pressing a "D-81 button" or "D-80 button" during the chord progression.  With control-of-software  in any of these ways — by automatic adjusting in real-time, or with pre-programming, or with pre-programming plus manual choosing — here are three musical examples:   during a progression of "I-IV-V-I" a software program would cause D=80 only during the IV-Chord (F-Major Chord);   or with "ii-V-I" it would cause D=80 only for the ii-Chord (D-minor Chord) to fix this Chord;   and with a 50s Progression of "I-vi-IV-V" it would cause D=80 only during the vi-Chord (A-minor Chord, with ACE) and IV-Chord (F-Major Chord, with FAC) to make D more-harmonious when it's used as a Passing Tone in a melody, to avoid the clashing of A-with-D (ratio of 1.481) during an A-minor Chord, and to avoid the clashing of F-with-D (ratio of 1.185) and of A-with-D (ratio of 1.481) during an F-Major Chord. 
+ 
+
+ 
+This page is
+  https://asa3.org/ASA/education/teach/harmony-cr.htm
+Copyright ©1998-2022 by Craig Rusbult, all rights reserved
+ 
+
+

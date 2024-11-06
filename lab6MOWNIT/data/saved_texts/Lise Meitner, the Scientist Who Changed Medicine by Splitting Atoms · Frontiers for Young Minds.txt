@@ -1,0 +1,726 @@
+
+
+
+
+
+
+
+
+
+
+
+Lise Meitner, the Scientist Who Changed Medicine by Splitting Atoms · Frontiers for Young Minds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontiers for Young Minds
+
+Frontiers for Young Minds
+
+
+Menu
+
+Main navigation
+
+
+
+                            Articles
+                        
+
+
+
+                                Collections
+                            
+
+
+
+                            Participate
+                        
+
+
+
+                                    Author Guidelines
+                                
+
+
+
+                                    Young Minds
+                                
+
+
+
+                                    Editors & Mentors
+                                
+
+
+
+                                    Teachers & Parents
+                                
+
+
+
+
+
+                            Sections
+                        
+
+
+
+        Astronomy and Physics
+
+
+
+        Biodiversity
+
+
+
+        Chemistry and Materials
+
+
+
+        Earth Sciences
+
+
+
+        Engineering and Technology
+
+
+
+        Human Health
+
+
+
+        Mathematics and Economics
+
+
+
+        Neuroscience and Psychology
+
+
+
+
+
+                            About
+                        
+
+
+
+                                    Journal
+                                
+
+
+
+                                    Sponsors
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Download PDF
+                                
+
+
+
+
+
+
+Core Concept
+
+Human Health
+
+
+Collection Article
+
+Published: March 14, 2022
+
+Lise Meitner, the Scientist Who Changed Medicine by Splitting Atoms
+
+Authors and reviewers
+
+Authors
+
+
+
+
+Rebecca Drake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rebecca Drake
+
+
+
+                        I am a first-year RadNet City of London Ph.D., student, based at the Barts Cancer Institute, Queen Mary University of London, UK. My Ph.D., project aims to investigate how radiotherapy alters the growth and functioning of blood vessels supplying the tumor. I am using mouse models of breast cancer and 3D cell cultures to understand sensitivity to radiation, including the role of DNA damage responses within the cells lining the tumor blood vessels. Our overall goal is to overcome radiotherapy resistance by modulating signals produced by tumor blood vessels, in hope of improving treatment outcomes. r.j.g.drake@qmul.ac.uk
+
+
+
+
+
+
+
+
+
+
+Samantha Y. A. Terry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samantha Y. A. Terry
+
+
+
+                        I am a senior lecturer in radiobiology at King’s College London, London, UK. There, I not only teach undergraduates and master’s students about the use of radioactivity in imaging and treating disease, but I also run a research group that works in the lab determining how different types of radioactivity can be best used in the clinic. Questions we try to answer include: “Are radioisotopes used for imaging safe for healthy tissues?,” “How can we make this radioisotope only irradiate cancer cells?,” and “Is this radioisotope best at killing small or large tumors?” *samantha.terry@kcl.ac.uk
+
+
+
+
+
+
+
+
+
+
+Sophie Langdon
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sophie Langdon
+
+
+                        I am a first-year RadNet City of London Ph.D., student based between King’s College London and University College London, UK. My research focusses on assessing combinations of radiotherapy and immunotherapy to help treat head and neck cancers. I use a variety of techniques to examine the effects of different combinations to understand how we can best help patients. Our overall goal is to improve understanding of how these treatments work together and to use this knowledge to improve patient outcomes. sophie.langdon@kcl.ac.uk
+
+
+
+
+
+
+
+
+Young Reviewers
+
+
+
+
+Mayesha
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mayesha
+Age: 12
+
+
+                        Hi! My name is Mayesha. I am in 6th grade and 12 years old. I have one little cute sister. I am interested in scientific innovations and fictional stories. I love swimming and biking. I like to play legos and listen to stories. In my sparetime I spend a lot of time playing with my sister. My favorite subject in school is Mathematics.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+The splitting of atoms, also known as nuclear fission, produces radiation and radioactivity. Dr Lise Meitner discovered how radioactivity could be produced in 1939. She found that firing a small particle called a neutron into another atom could cause radiation to be released. Radioactive atoms created in this way can be useful for detecting cancer or checking whether the body’s organs are working properly. When radioactive atoms are injected into the blood of a patient, they travel through the body and release radiation that can be detected using special cameras, creating images or videos of the body’s tissues. In this way, radiation helps doctors to better diagnose and treat patients. Unfortunately, Dr Meitner faced many obstacles and was never credited officially for her key discovery of nuclear fission.
+
+Atoms and Nuclear Reactions
+Everything and everyone we see in the world around us is made of tiny atoms. Within the center of every atom is the nucleus, containing even smaller particles called neutrons and protons (Figure 1). Negatively charged electrons constantly move around the nucleus. Electrons are attracted to protons in the nucleus, which are positively charged, similar to the way magnets are attracted to each other. Electrons also allow bonds to form between individual atoms, creating molecules [1]1. Nuclear reactions refer to reactions that happen in an atom’s nucleus. Nuclear reactions can produce certain kinds of energy or new radioactive atoms, which have many uses in medicine. These energies are known as radiation, because the energy “radiates” from the atom, just like heat radiates from the sun or a radiator to you.
+
+
+
+
+
+
+Figure 1 - The structure of an atom.
+Atoms consist of a nucleus surrounded by negatively charged electrons. Protons (positively charged) and neutrons (no charge) are found within the nucleus (Figure created with BioRender.com).
+
+
+
+Nuclear Fission and Radioactivity
+Radioactive atoms emit energy in the form of radiation. This energy is released because of an imbalance in the numbers of protons and neutrons in the nucleus, which makes the atom unstable. Releasing energy makes the atom more stable. So, radiation is energy released from unstable atoms in the form of high-energy particles or energy waves.
+More than 100 years ago, Marie Curie famously discovered naturally occurring radioactivity. However, we now know how to make radioactivity using machines that fire neutrons into another atom. These machines, called nuclear reactors, cause nuclear fission reactions, which split the atoms and release radioactive energy and more neutrons (Figure 2). Meitner was a nuclear physicist whose research explained how unstable atoms produce radiation. Her discovery of nuclear fission in 1939 led to developments in medicine that are still used today [2]2.
+
+
+
+
+
+
+Figure 2 - The nuclear fission reaction.
+When a fast-moving neutron is fired into the nucleus of an atom, the nucleus becomes unstable and splits into smaller parts, while also releasing neutrons and energy in the form of radiation. The fission products are atoms that can also become unstable and thus continue releasing radiation, in a chain reaction (Figure created with BioRender.com).
+
+
+
+Lise Meitner’s Scientific Contribution
+In 1913, scientists already knew that the balance of numbers of protons, neutrons, and electrons within an atom affected its stability, and that radioactivity came from the nucleus. Dr Meitner and her colleague, German chemist Otto Hahn, were involved in the search for new radioactive elements. In 1918, they identified Protactinium-231 which is a radioactive atom called a radioisotope [3].
+While living in Sweden, Dr Meitner and her nephew Otto Frisch worked together to create a theory explaining the splitting of an atom’s nucleus into smaller parts. They called the smaller parts fission fragments. They calculated the energy released and named this reaction nuclear fission. Despite all this work, the Nobel Prize for nuclear fission was awarded to Dr Meitner’s old colleague, Hahn. He relied on Dr Meitner’s knowledge of nuclear physics to make sense of his own chemistry findings. Sadly, as Hahn was first to publish these ideas, Dr Meitner and her nephew received little credit for the discovery [4].
+Radioisotopes for Imaging Disease
+The discovery of nuclear fission led to many medical advances (Figure 3). Radioisotopes enable doctors to perform medical imaging of the body, which helps them to diagnose and treat diseases. Radioisotopes are given to a patient either by injection or through food or drink provided at the hospital. As the radioisotope travels inside the body, special cameras outside the body can detect the radiation. This creates an image or video of the body’s bones and soft tissues. For example, these images can tell us if a kidney is not working properly, but more than that, they can even tell doctors which kidney and also which part of the kidney is malfunctioning. Medical images can also help identify the precise sizes and locations of cancers.
+
+
+
+
+
+
+Figure 3 - Nuclear fission reactions release various kinds of radiation, including radioisotopes, radiation waves, and high-energy particles, each with a variety of medical uses.
+Radioisotopes can be used in medical research, cancer treatment, and for medical imaging, which is useful for planning and monitoring therapy. Gamma rays can be used to sterilize medical tools for surgery or to decontaminate foods and beauty products to ensure they are hygienic. High-energy particles, such as protons and electrons, can be used as external beams, positioned to target, and kill tumor cells (Figure created with BioRender.com).
+
+
+
+Radiotherapy
+Radiation can also be used to treat disease. This is called radiotherapy. The aim of radiotherapy treatment of cancer is to damage the DNA of the cancer cells. DNA is the code for all the building blocks, cells, that make up the body. By damaging DNA in a cancer cell, that cell no longer knows how to keep itself alive, so it dies. The result is reduced cancer growth or even complete elimination of the cancer. Doctors decide which type of radiotherapy to use depending on the size, type, and location(s) of cancer in the body. The treatment schedule is carefully planned by calculating the target area of the cancer, the amount of radiation needed, and the length and number of treatment sessions.
+Most radiotherapy is delivered from outside the body, using a more sophisticated and powerful version of an X-ray. This is called external radiotherapy. However, certain radioactive sources can be used inside the body. This is known as internal radiotherapy. Just like for imaging purposes, radioisotopes used in internal radiotherapy are injected into a patient and travel around the body. However, the type of radiation used is different because doctors need to ensure that the radiation only travels a short distance within the body, so that no healthy cells are damaged. For this reason, particles called alpha and beta particles are used for internal radiotherapy, rather than X-rays. Also, radioactivity can be attached to certain compounds that carry the radiation to where the tumor is located. Internal radiotherapy using radioisotopes is very good at irradiating and killing tumors located in multiple sites within the body. This decreases the likelihood of the cancer coming back. These kinds of tumors can not be treated with external radiotherapy.
+Other Uses of Radiation
+Radiation is also used to sterilize the medical tools (needles, scalpels, and syringes) required for surgery (Figure 3). This is important to prevent germs from entering the patient’s body. In food production, radiation is used to kill infectious microbes like salmonella. This helps foods to last longer without contaminating or changing them, like chemicals do. Radiation is sometimes used to control large numbers of pests, like mosquitos, by making them unable to breed.
+The Obstacles Lise Meitner Faced
+Lise Meitner was born in 1878, to a Jewish family of 8 children in Vienna, Austria. Being a woman in science was challenging at the time, but Dr Meitner managed to prove her worth in a male-dominated field. She built a successful career and made several breakthroughs for women. When she attended the University of Vienna in 1901, she was one of only four women allowed to join. She was only the second woman to be awarded a doctorate from the University in 1905[4]. In Berlin, when she worked closely with Otto Hahn at the Institute of Chemistry, Hahn found a space for her in the basement—even though women were not allowed in the building. After 14 years contributing to radioactivity research, Dr Meitner became the first female physics professor in Germany, 1926 [4]. She spent most of her life working in Berlin but had to flee from Nazi Germany in 1938 and moved to Sweden [4].
+Albert Einstein called Dr Meitner the “German Madame Curie” because of her pioneering work. However, at the time, she did not receive the praise she deserved. Her experimental work was key to Niels Bohr’s model of atomic structure, for which he received the full credit, with a Nobel Prize in 1922. Today, in many German museums, Dr Meitner’s achievements are barely recognized, and she is almost invisible in all of Hahn’s work and autobiographies. It is likely that the political situation at the time and Dr Meitner’s escape from Nazi Germany as a Jew made it more difficult for Hahn to acknowledge their teamwork [4].
+Despite the obstacles Lise Meitner faced during her career, she dedicated her life fully to nuclear physics. She never married and continued her work until the age of 81 [3]. Sadly, scientific discoveries can lead to unwanted consequences, such as the development of nuclear weapons. This deeply upset Dr Meitner, who turned down a job working on an atomic bomb with the British Scientific delegation [4]. Being a peaceful person, Dr Meitner would have been most pleased about the great medical achievements based on nuclear fission. Dr Meitner retired in Cambridge (England) with her nephew and died in 1968, at the age of 90 [4]. In 1992, the element Meitnerium was named after her, to finally honour her contributions to nuclear science [5].
+Glossary
+Atom: ↑ These are the small particles, containing a nucleus and electrons, which make up everything in the universe, including humans, food, trees, and buildings.
+Radiation: ↑ The release of energy from a (radioactive) source in the form of waves, beams, or particles.
+Nuclear Fission: ↑ Splitting of an atom’s nucleus into two lighter nuclei, simultaneously releasing energy in the form of radiation.
+Radioisotope: ↑ A radioactive atom that has an unstable nucleus and too much energy, which it releases as radiation in the form of particles or waves.
+Imaging: ↑ This is when radiation is used in hospitals to take pictures of a patients’ bones, organs, or teeth to understand more about what is going on inside the body.
+Radiotherapy: ↑ The use of radiation waves, or beams of particles to kill unhealthy cells such as cancer cells in a patient.
+Conflict of Interest
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Acknowledgments
+RD and SL are supported by the Radiation Research Unit at the Cancer Research UK City of London Centre Award [C7893/A28990]. ST was supported by EPSRC Programme Grant “MITHRAS” [EP/S032789/1]. Authors would like to thank Z.Butt for her excellent feedback during manuscript preparation despite being only 9 years of age.
+
+References
+[1] ↑ Satchler, G. R. 1990. “Introduction to nuclear reactions,” in Introduction to Nuclear Reactions, ed G. R. Satchler (London: Palgrave Macmillan). p. 21–88. doi: 10.1007/978-1-349-20531-8_2
+[2] ↑ Meitner, L., and Frisch, O. R. 1939. Products of the fission of the uranium nucleus. Nature. 143:471–2. doi: 10.1038/143471a0
+[3] ↑ Martinez, N. E. 2017. Contributions from women to the radiation sciences: a brief history. Health Phys. 112:376–83. doi: 10.1097/HP.0000000000000646
+[4] ↑ Sime, R. 2002. Lise Meitner: a 20th century life in physics. Endeavour. 26:27–31. doi: 10.1016/S0160-9327(00)01397-1
+[5] ↑ Dingle, A. 2017. Meitnerium in tribute. Nat. Chem. 9:830. doi: 10.1038/nchem.2833
+
+
+
+Footnotes
+[1] ↑ For more information on Nuclear Physics, see http://nupex.eu/
+[2] ↑ For more information on Lise Meitner, see: https://www.sciencesmuseum.org.uk/objects-and-stories/women-physics
+
+
+
+
+Article information
+Citation
+
+                        
+                            Drake R, Terry SYA and Langdon S (2022) Lise Meitner, the Scientist Who Changed Medicine by Splitting Atoms. Front. Young Minds. 10:722112. doi: 10.3389/frym.2022.722112
+                        
+                
+Editor
+
+Pasquale Maffia
+
+Science Mentors
+
+Hasibur Rehman 
+
+Publishing dates
+
+                        Submitted: June 8, 2021; Accepted: February 14, 2022;
+                    Published online: March 14, 2022.
+                
+
+                        Copyright © 2022 Drake, Terry and Langdon
+                
+
+This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+June 12, 2024
+Core Concept
+
+Treating Cancer From the Inside Out
+In this article, we will talk about a special treatment that doctors can use to help people who have cancer. This kind...
+
+
+
+Authors
+                    Jessica M. Fagerstrom, Samantha Van Nest
+                
+Young Reviewers
+
+
+
+
+
+
+Sanya
+Age: 10
+
+
+
+
+
+
+
+Tappan Middle
+Age: 12–13
+
+
+
+
+
+
+
+Victor
+Age: 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 21, 2024
+Core Concept
+
+“Building” Human Health: When Doctors and...
+In this article, we explore the importance of cooperation in science. Just as various construction trades must work...
+
+
+
+Authors
+                    Susan J. Debad, Magdalena Kowalska
+                
+Young Reviewers
+
+
+
+
+
+
+Filip
+Age: 13
+
+
+
+
+
+
+
+Mia Aurelia
+Age: 11
+
+
+
+
+
+
+
+The Future Leaders of STEM
+Age: 8–12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March 6, 2024
+Core Concept
+
+Meet BioSentinel: The First Biological Experiment...
+Recently, NASA launched a rocket called Artemis-I toward the Moon! The mission objective was to test the safety of the...
+
+
+
+Authors
+                    Shirin Rahmanian, Tony Slaba, Tore Straume, Sharmila Bhattacharya, Sergio R. Santa Maria
+                
+Young Reviewers
+
+
+
+
+
+
+Abyan
+Age: 13
+
+
+
+
+
+
+
+Bairon
+Age: 10
+
+
+
+
+
+
+
+Ranjai
+Age: 14
+
+
+
+
+
+
+
+Ranvir
+Age: 14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 29, 2024
+Core Concept
+
+Does the Heart Age Faster in Space?
+Living in space is not as simple as living on Earth. The environment in space is harmful for humans. Astronauts...
+
+
+
+Authors
+                    Emil Rehnberg, Bjorn Baselet, Lorenzo Moroni, Sarah Baatout, Kevin Tabury
+                
+Young Reviewers
+
+
+
+
+
+
+Clara
+Age: 11
+
+
+
+
+
+
+
+Eleanor
+Age: 14
+
+
+
+
+
+
+
+
+
+
+
+
+                        View all Articles
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontiers Home
+
+
+Blog
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © 2024 Frontiers Media S.A.
+            All Rights Reserved
+
+Privacy policy
+|
+Terms and conditions
+
+
+
+
+
+
+
+Additional navigation
+
+
+
+
+
+
+
+
+
+
+
+
+

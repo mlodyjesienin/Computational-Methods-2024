@@ -1,0 +1,1022 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Theory of Differential Equations: Classical and Qualitative | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            The Theory of Differential Equations
+        
+Classical and Qualitative
+
+Textbook
+© 2010
+
+
+Latest edition
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Walter G. Kelley
+0, 
+                        
+
+Allan C. Peterson
+1
+
+
+
+
+
+
+Walter G. Kelley
+
+
+
+                                    
+                                        , Department of Mathematics, University of Oklahoma, Norman, USA
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+Allan C. Peterson
+
+
+
+                                    
+                                        Dept. Mathematics, University of Nebraska-Lincoln, Lincoln, USA
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+Elegant and carefully written, with many examples and exercises throughout the book
+Contains up-to-date material as well as classical topics
+Includes topics not normally discussed in most books in the subject area, such as perturbation methods and differential equations in Mathematica
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Universitext (UTX)
+                    
+
+
+
+
+
+
+
+
+
+48k Accesses
+
+
+
+
+68 
+Citations
+
+
+
+
+
+12
+                    
+Altmetric
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 58.84 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 74.89 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+About this book
+
+For over 300 years, differential equations have served as an essential tool for describing and analyzing problems in many scientific disciplines. This carefully-written textbook provides an introduction to many of the important topics associated with ordinary differential equations. Unlike most textbooks on the subject, this text includes nonstandard topics such as perturbation methods and differential equations and Mathematica. In addition to the nonstandard topics, this text also contains contemporary material in the area as well as its classical topics.
+This second edition is updated to be compatible with Mathematica, version 7.0. It also provides 81 additional exercises, a new section in Chapter 1 on the generalized logistic equation, an additional theorem in Chapter 2 concerning fundamental matrices, and many more other enhancements to the first edition.
+This book can be used either for a second course in ordinary differential equations or as an introductory course for well-prepared students. The prerequisites for this book are three semesters of calculus and a course in linear algebra, although the needed concepts from linear algebra are introduced along with examples in the book. An undergraduate course in analysis is needed for the more theoretical subjects covered in the final two chapters.
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Differential Equations
+                                        
+
+
+Chapter
+© 2023
+
+
+
+
+
+
+
+
+
+Ordinary differential equations
+                                        
+
+
+Chapter
+© 2014
+
+
+
+
+
+
+
+
+
+General Systems of Differential Equations
+                                        
+
+
+Chapter
+© 2016
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+BVP
+
+
+
+
+Banach fixed-point theorem
+
+
+
+
+Boundary value problem
+
+
+
+
+Floquet theory
+
+
+
+
+Mathematica
+
+
+
+
+Mathematica 7.0
+
+
+
+
+Maximum
+
+
+
+
+Sturm-Lioville theory
+
+
+
+
+calculus
+
+
+
+
+differential equation
+
+
+
+
+differential equations
+
+
+
+
+existence and uniqueness theo
+
+
+
+
+exponential function
+
+
+
+
+periodic solutions
+
+
+
+
+stability theory
+
+
+
+
+ordinary differential equations
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+Table of contents (8 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-xi
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+First-Order Differential Equations
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 1-22
+
+
+
+
+
+
+
+
+Linear Systems
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 23-86
+
+
+
+
+
+
+
+
+Autonomous Systems
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 87-160
+
+
+
+
+
+
+
+
+Perturbation Methods
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 161-191
+
+
+
+
+
+
+
+
+The Self-Adjoint Second-Order Differential Equation
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 192-280
+
+
+
+
+
+
+
+
+Linear Differential Equations of Order n
+
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 281-308
+
+
+
+
+
+
+
+
+BVPs for Nonlinear Second-Order DEs
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 309-344
+
+
+
+
+
+
+
+
+Existence and Uniqueness Theorems
+
+
+Walter G. Kelley, Allan C. Peterson
+
+Pages 345-401
+
+
+
+
+
+
+
+Back Matter
+Pages 403-423
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Reviews
+
+From the reviews of the second edition:“A very good book on Differential Equations. It is the kind of book I would use in the classroom as well as recommend to a student for independent study. I can see it used as textbook for a course in Differential Equations … or in a one semester course for math majors. … instructors would enjoy teaching from this book, and that students would be able to study from it … at a good pace. And they would learn a lot about differential equations.” (Florin Catrina, The Mathematical Association of America, November, 2010)
+                
+
+
+Authors and Affiliations
+
+
+
+
+                                        , Department of Mathematics, University of Oklahoma, Norman, USA
+                                    
+
+                                    
+                                        Walter G. Kelley
+                                    
+                                
+
+
+
+                                        Dept. Mathematics, University of Nebraska-Lincoln, Lincoln, USA
+                                    
+
+                                    
+                                        Allan C. Peterson
+                                    
+                                
+
+
+
+
+
+Bibliographic Information
+
+
+
+Book Title: The Theory of Differential Equations
+Book Subtitle: Classical and Qualitative
+Authors: Walter G. Kelley, Allan C. Peterson
+Series Title: 
+
+Universitext
+
+DOI: https://doi.org/10.1007/978-1-4419-5783-2
+Publisher: Springer New York, NY
+eBook Packages: 
+
+Mathematics and Statistics, Mathematics and Statistics (R0)
+
+Copyright Information: Springer-Verlag New York 2010
+Softcover ISBN: 978-1-4419-5782-5Published: 22 April 2010
+eBook ISBN: 978-1-4419-5783-2Published: 15 April 2010
+Series ISSN: 
+ 0172-5939 
+Series E-ISSN: 
+ 2191-6675 
+Edition Number: 2
+Number of Pages: XI, 423
+Number of Illustrations: 68 b/w illustrations
+Additional Information: Originally published by Prentice Hall, 2004
+Topics: 
+
+Analysis, 
+Ordinary Differential Equations, 
+Dynamical Systems and Ergodic Theory
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 58.84 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 74.89 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

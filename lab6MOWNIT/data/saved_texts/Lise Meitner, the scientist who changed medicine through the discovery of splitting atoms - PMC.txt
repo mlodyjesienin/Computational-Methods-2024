@@ -1,0 +1,731 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lise Meitner, the scientist who changed medicine through the discovery of splitting atoms - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+                        Preview improvements coming to the PMC website in October 2024.
+                        Learn More or
+                        Try it out now.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Europe PMC Author Manuscripts
+
+
+                    PMC7616009
+                
+
+
+
+
+
+Other Formats
+
+PDF (729K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Europe PMC Author Manuscripts
+
+
+                    PMC7616009
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    Learn more:
+    PMC Disclaimer
+    |
+    
+        PMC Copyright Notice
+    
+
+
+
+
+
+Front Young Minds. Author manuscript; available in PMC 2024 May 29.Published in final edited form as:Front Young Minds. 2022 Mar 14; 10: 722112. Published online 2022 Mar 14.  PMCID: PMC7616009EMSID: EMS196219PMID: 38812470Lise Meitner, the scientist who changed medicine through the discovery of splitting atomsRebecca Drake,1 Samantha YA Terry,2 and  Sophie Langdon2Rebecca Drake
+1Centre for Tumour Microenvironment, Barts Cancer Institute, Queen Mary University of London, London, United KingdomFind articles by Rebecca DrakeSamantha YA Terry
+2Department of Imaging Chemistry and Biology, School of Biomedical Engineering and Imaging Sciences, King’s College London, London, United KingdomFind articles by Samantha YA TerrySophie Langdon
+2Department of Imaging Chemistry and Biology, School of Biomedical Engineering and Imaging Sciences, King’s College London, London, United KingdomFind articles by Sophie LangdonAuthor information Copyright and License information PMC Disclaimer
+1Centre for Tumour Microenvironment, Barts Cancer Institute, Queen Mary University of London, London, United Kingdom
+2Department of Imaging Chemistry and Biology, School of Biomedical Engineering and Imaging Sciences, King’s College London, London, United KingdomPMC Copyright notice The publisher's final edited version of this article is available  at Front Young MindsAbstractThe splitting of atoms, also known as nuclear fission, is the physics behind radiation and radioactivity. Dr Lise Meitner discovered how radioactivity could be produced in 1939. She realised firing a small particle present in the nucleus of all atoms, a neutron, at another atom could release energy in the form of radiation. Radioactive atoms can also be created in this way and are useful in detecting cancer or checking if the brain and heart are working properly. This is because when radioactive atoms are injected into the blood vein of a patient, they travel through the body and release radiation that is detected using special cameras. This creates images or videos of tumours or normal tissues inside the body. Radiation therefore helps doctors diagnose and treat patients better. Unfortunately, Dr Meitner was never credited officially for her key discovery of nuclear fission.Keywords: radiation, radioactivity, womanAtoms and Nuclear ReactionsEverything we see in the world around us, even us humans, is made of tiny atoms. Within the centre of every atom is a nucleus, containing even smaller particles called neutrons and protons (Figure 1). Around the nucleus are negatively-charged electrons that constantly move within a shell. Electrons are attracted to positively-charged protons in the nucleus, in a similar way as magnets are attracted to each other. Electrons also allow bonds to form between individual atoms, creating molecules made of different atoms (1)a. Nuclear reactions refer to reactions that happen in the atom nucleus, producing different kinds of energy or new radioactive atoms that have many uses in medicine. These energies are known as radiation, so called because the energy radiates from the atom source, just like how heat from the sun or a radiator radiates from the source to you.Open in a separate windowFigure 1The structure of an atom.Atoms consist of a nucleus surrounded by shells containing negatively-charged electrons. Protons and neutrons are found within the nucleus. Figure created with BioRender.com.Elements, are made of atoms and vary in number of protons, neutrons, and electrons. Hydrogen is an element from the Big Bang that created our whole Universe of planets, stars, galaxies, and space. Other important elements include carbon, nitrogen and oxygen, which are made by the stars in a reaction called nuclear fusion. Nuclear fusion is the opposite to nuclear fission. Fusion happens when the nuclei of two atoms come together to make a bigger atom; now making a new element (1). In the stars, nuclear fusion of hydrogen and helium atoms releases heat and visible light, which we can see from Earth.Nuclear Fission and RadioactivityRadioactive atoms emit energy in the form of radiation. This is because of an imbalance in numbers of protons and neutrons in the nucleus, making the atom unstable. To become more stable, the atom must release some energy. This release is in the form of high-energy particles or energy waves is radiation, and each kind of radiation has a different medical use.More than 100 years ago, Marie Curie famously discovered naturally-occurring radioactivity. However, we now know how to make radioactivity using machines which fire a a small particle present in the nucleus of all atoms, a neutron, into another atom. These machines, or nuclear reactors, cause nuclear fission reactions, which release radioactive energy and more neutrons (Figure 2). Dr Lise Meitner was a nuclear physicist whose research explained how unstable atoms produced radiation. Her discovery of nuclear fission in 1939 led to developments in medical imaging technology and radiotherapy still used today (2)b.Open in a separate windowFigure 2The nuclear fission reaction.When a fast-moving neutron is fired into the nucleus of an atom, it becomes unstable and splits into smaller parts whilst also releasing neutrons and energy in the form of radiation. The ‘fission products’ are atoms that can also become unstable and thus continue releasing radiation in a chain reaction. Figure created with BioRender.com.Lise Meitner’s Scientific ContributionIn 1913, scientists already knew that the balance of numbers of protons, neutrons and electrons affected its stability, and that radioactivity came from the nucleus. Lise and her colleague, German chemist Otto Hahn, were involved in the search for new radioactive elements. In 1918, they identified Protactinium-231 which is a radioactive atom called a radioisotope. It was however still stable compared to other radioactive elements discovered later; it did not have any useful applications (3).Whilst living in Sweden, Lise and her nephew Otto Frisch worked together to define a theory explaining the splitting of an atomic nucleus into smaller parts. They called the smaller parts produced ‘fission fragments’. They calculated the energy released and named this reaction ‘nuclear fission’. Despite this, the Nobel Prize for nuclear fission was awarded to her old colleague Hahn. He relied on Lise’s knowledge in nuclear physics to make sense of his own chemistry findings. Sadly, as Hahn was first to publish these ideas, Lise and her nephew received little credit for the discovery (4).Medical Uses of Nuclear FissionSadly, scientific discoveries can lead to unwanted consequences, such as the development of nuclear weapons. This deeply upset Lise, who had turned down a job working on an atomic bomb with the British Scientific delegation (4). Being a peaceful person, Lise would have been most pleased about the great medical achievements based on nuclear fission shown below (Figure 3).Open in a separate windowFigure 3The applications of nuclear fission.Nuclear fission reactions release different kinds of radiation with a variety of medical uses. Radioisotopes produced by big machines can be used in medical research, cancer treatment and in taking images, which are useful in planning or monitoring therapy. Radiation waves such as gamma rays can also be used to sterilise medical tools for surgery or decontaminate foods and beauty products to ensure they are hygienic. High energy particles, such as protons and electrons, can be used as external beams positioned to target and kill tumour cells. Figure created with BioRender.com; cyclotron image from IBA industrial websitec.Imaging DiseaseRadioisotopes enable us to image disease. Radioactivity is given to a patient by either injection or through food or drink provided at the hospital. As the radioisotope travels inside the body, special cameras can detect the radiation from outside the body. This creates an image or video of bones and soft tissues in the body. These images can for example tell us if a kidney is not working properly, but will also let us know which kidney and also which part of that particular kidney is malfunctioning. The images created can also help identify the precise size and location of cancers before treatment.RadiotherapyRadiation can also be used to treat disease. This is called radiotherapy. The aim in radiotherapy treatment of cancer is to damage the DNA of only the cancer cells. DNA is the code for all the building blocks, cells, that make up our body; you may also call it the blueprint of human beings. By damaging DNA in a cancer cell, it no longer knows how to keep itself alive and thus it dies. The result is reduced cancer growth or even complete removal by killing all the cancerous cells.The majority of radiotherapy is delivered from outside the body, as a more sophisticated and powerful version of an X-ray (external radiotherapy). However, certain radioactive sources produce radiation waves or high-energy particles that can also be used for radiotherapy. This is known as internal radiotherapy as a tumour is irradiated from the inside-out.Just like for imaging purposes, the radioisotope is injected into a patient and travels round the body. However, the type of radiation used is different as we need to ensure that the kind of radiation produced only travels a very small distance within the body. In this way, no healthy cells are damaged. For this reason, we use alpha and beta particles, rather than X-rays. Also, radioactivity can be attached to certain compounds that make the radiation only travel to where the tumour is located. What is possible with the use of internal radiotherapy using isotopes, that is not possible with external radiotherapy, is that the isotopes are very good at irradiating and killing tumours located in multiple sites in the body. This decreases the likelihood of a cancer coming back.Doctors will decide which type of radiotherapy to use depending on the size, type and location or multiple locations of cancer in the body. The treatment schedule is carefully planned by calculating the target area of the cancer, amount of radiation needed and length or number of treatment sessions.Other Uses of RadiationRadiation is also used to sterilise medical tools (needles, scalpels and syringes) required for surgery (Figure 3). This is important to prevent germs entering the body. In food production, radiation is used to kill infectious microbes like salmonella. This helps the food to last longer without contaminating or changing the product like chemicals do. Radiation is sometimes used to control large numbers of pests, like mosquitos, by making them unable to breed.The Obstacles Lise Meitner FacedLise Meitner was born in 1878, to a Jewish family of 8 children in Vienna (Austria). She spent most of her life working in Berlin but had to flee from Nazi Germany in 1938 and moved to Sweden (4).Being a woman in science was challenging at the time, but Lise managed to prove her worth in a male-dominated field. She built a successful career and made several breakthroughs for women. When she attended the University of Vienna in 1901, she was one of only four women allowed to join, She was only the second woman to be awarded a doctorate (Dr title) from the University in 1905 (4).In Berlin, she worked closely with Otto Hahn at the Institute of Chemistry. Although women were not allowed in the building, Hahn found a space for her in the basement. After 14 years of contribution towards radioactivity research, Lise became the first female physics professor in Germany, 1926 (4).Albert Einstein called Lise the “German Madame Curie” because of her pioneering work. However, at the time she did not receive the praise she deserved. Her experimental work was key to Niels Bohr’s model of atomic structure, which he received the full credit with a Nobel Prize in 1922. Today, in many German museums, Lise’s achievements are barely recognised, and she is almost invisible in all of Hahn’s work and autobiographies. It is likely that the political situation at the time and Lise’s escape from Nazi Germany as a Jew, made it more difficult for Hahn to acknowledge their teamwork (4).Despite the obstacles Lise faced during her career, being a Jewish woman, she dedicated her life fully to nuclear physics. She never married and continued her work until the age of 81 (3). She retired in Cambridge (England) with her nephew and died in 1968, at the age of 90d. In 1992, the element ‘Meitnerium’ was named after her to honour her contributions to nuclear science (5).GlossaryElement: a chemical substance identified by the number of protons in the nucleus of its atoms. Elements are the key materials which everything is made up of, e.g. carbon, hydrogen or oxygen.Nuclei: more than one nucleus (plural).Nuclear fission reaction: when a neutron is fired at an atom with a heavy nucleus this causes instability in the atom and it splitting into two lighter nuclei, simultaneously releasing energy in the form of radiation.Radioisotope: a radioactive atom which has an unstable nucleus and too much energy; it thus goes on to emit radiation as a particle or a wave.Radiotherapy: the use of radiation waves, beams, or particles to kill unhealthy cells in a patient, e.g. cancer cells.AcknowledgmentsAuthors would like to thank Z.Butt for her excellent feedback during manuscript preparation despite being only 9 years of age.FundingRebecca Drake and Sophie Langdon are supported by the Radiation Research Unit at the Cancer Research UK City of London Centre Award [C7893/A28990]”. Samantha YA Terry is supported by EPSRC Programme Grant [EP/S032789/1].Author Biographies
+Rebecca Drake
+ I am a first year RadNet City of London PhD student, based at the Barts Cancer Institute, Queen Mary University of London., UK My PhD project aims to investigate how radiotherapy alters the growth and functioning of blood vessels supplying the tumour. I am using mouse models of breast cancer and 3D cell cultures to improve understanding of the mechanisms regulating sensitivity to radiation, including the role of DNA damage responses within the cells lining the tumour blood vessels. Our overall goal is to overcome radiotherapy resistance by modulating signals produced by tumour blood vessels, in hope of improving treatment outcomes.Email: ku.ca.lumq@ekard.g.j.r
+Samantha YA Terry
+ I am a Senior Lecturer in Radiobiology at King’s College London, London, UK. There, I not only teach undergraduates and Master’s students about the use of radioactivity in imaging and treating disease, but I also run a research group who work in the lab determining how different types of radioactivity can be used best used in the clinic. Questions we try to answer include: ‘Are radioisotopes used for imaging really safe for healthy tissues?’, ‘How can we make this radioisotope only irradiate cancer cells?’, and ‘Is this radioisotope best at killing small or large tumours?.Email: ku.ca.lck@yrret.ahtnamas
+Sophie Langdon
+ I am a first year RadNet City of London PhD student based between King’s College London and University College London, UK. My research focusses on assessing combinations of radiotherapy and immunotherapy to help treat head and neck cancers. I use a variety of techniques to examine the effects of different combinations in order to understand how we can maximise patient benefit. Our overall goal is to help improve understanding of how these treatment types work together and to use this knowledge to improve patient outcomes.Email: ku.ca.lck@nodgnal.eihpos FootnotesaNUPEX Nuclear Physics Experience 2020 [Available from: http://nupex.eu. Accessed:16th May 2021bLise Meitner: co-discoverer of nuclear fission (Women in Physics): Science Museum; 2020 [Available from: https://www.sciencesmuseum.org.uk/objects-and-stories/women-physics. Accessed: 16th May 2021chttps://www.iba-industrial.com (accessed 22 May 2021).dFrisch OR. Lise Meitner, 1878-1968. Biographical Memoirs of Fellows of the Royal Society. 1970;16:405-20.
+Conflict of Interest
+The authors declare that there are no commercial or financial relationships that could be construed as a potential conflict of interest.References1. Satchler GR.  In: Introduction to Nuclear Reactions. Satchler GR, editor. Palgrave Macmillan UK; London: 1990. pp. 21–88. Introduction to Nuclear Reactions. [Google Scholar]2. Meitner L, Frisch OR. Products of the Fission of the Uranium Nucleus. Nature. 1939;143(3620):471–2. [Google Scholar]3. Martinez NE. Contributions from Women to the Radiation Sciences: A Brief History. Health physics. 2017;112(4):376–83. [PubMed] [Google Scholar]4. Sime R. Lise Meitner: a 20th century life in physics. Endeavour. 2002;26:27–31. [Google Scholar]5. Dingle A. Meitnerium in tribute. Nature Chemistry. 2017;9(8):830. [PubMed] [Google Scholar]
+
+
+
+
+
+Other Formats
+
+PDF (729K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

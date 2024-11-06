@@ -1,0 +1,3910 @@
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Exploring Linear Algebra with Python and NumPy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+
+
+
+                Accept
+                
+
+                Reject
+                
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                Agree & Join LinkedIn
+              
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+                Sign in to view more content
+              
+
+                  Create your free account or sign in to continue your search
+                
+ 
+
+
+
+            Sign in
+        
+
+
+
+ 
+
+
+
+
+
+
+
+                Welcome back
+            
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+          Email or phone
+        
+
+
+
+
+
+
+
+
+
+          Password
+        
+
+
+Show
+
+
+
+
+
+ 
+
+Forgot password?
+
+
+
+          Sign in
+        
+
+
+
+              or
+            
+
+
+
+
+
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+
+ 
+
+
+
+                New to LinkedIn? Join now
+
+
+
+ 
+
+
+
+
+
+
+                    or
+                  
+
+
+
+
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+
+ 
+
+
+
+                New to LinkedIn? Join now
+
+
+
+ 
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+        Articles
+      
+
+
+
+
+
+
+
+        People
+      
+
+
+
+
+
+
+
+        Learning
+      
+
+
+
+
+
+
+
+        Jobs
+      
+
+
+
+
+
+
+
+        Games
+      
+
+
+
+
+
+      Join now
+    
+
+          Sign in
+      
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Exploring Linear Algebra with Python and NumPy
+
+
+
+
+
+
+
+
+
+
+
+
+                      Report this article
+                    
+    
+
+
+
+
+ 
+
+
+
+
+
+              
+          
+        Rany ElHousieny, PhDᴬᴮᴰ
+      
+      
+          
+
+
+
+
+            
+        Rany ElHousieny, PhDᴬᴮᴰ
+      
+          
+
+              
+            SENIOR SOFTWARE ENGINEERING MANAGER (EX-Microsoft) | Generative AI / LLM / ML / AI / Data Engineering Manager | AWS SOLUTIONS ARCHITECT CERTIFIED® | LLM and Machine Learning Engineer  | AI Architect
+                
+            
+
+
+                
+          Published Oct 2, 2023
+      
+              
+
+
+
+            + Follow
+          
+
+
+
+
+
+
+
+
+
+Linear algebra is a fundamental branch of mathematics that plays a crucial role in machine learning and data analysis. It deals with vectors, matrices, and their operations. In this article, we will explore the main concepts of linear algebra using Python's NumPy library, which provides a powerful framework for working with numerical data. At the end of the article, I will explain the relation with machine learning. 
+
+
+
+
+
+
+
+
+
+
+Note1: This article is an extension of the following article:
+
+
+
+
+
+
+
+
+Note 2: We will be using Google Colaboratory Python notebooks to avoid setup and environment delays. The focus of this article is to get you up and running in Machine Learning with Python, and we can do all that we need there.
+
+
+
+
+Vectors
+
+
+
+
+
+A vector is a fundamental object in linear algebra, representing both magnitude and direction. In the context of linear algebra, we often work with column vectors, which are represented as one-dimensional arrays in NumPy. Let's create a simple vector:
+
+
+
+
+import numpy as np
+
+# Create a vector
+vector = np.array([2, 3, 1])
+print("Vector:")
+print(vector)
+        
+
+
+
+
+
+
+
+
+
+
+The output will be:
+
+
+
+
+Vector: 
+[2 3 1]        
+
+
+
+
+The Vector represents an arrow from the origin (x=0, y=0) and its arrow/head at the distance from the origin. For example, the vector [3, 2] will have its arrow should be at x = 3 and y = 2, as shown in the figure below
+
+
+
+
+
+
+ 
+
+
+
+
+The following video explains Vectos in an easy way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vector Operations
+
+
+
+
+Addition and Subtraction
+
+
+
+
+You can add or subtract vectors and matrices element-wise. For example:
+
+
+
+
+# Define two vectors
+vector1 = np.array([1, 2, 3])
+vector2 = np.array([4, 5, 6])
+
+# Add the vectors
+result_addition = vector1 + vector2
+
+# Subtract the vectors
+result_subtraction = vector1 - vector2
+
+print("\nVector Addition:")
+print(result_addition)
+
+print("\nVector Subtraction:")
+print(result_subtraction)
+        
+
+
+
+
+
+
+
+
+
+
+The output will be:
+
+
+
+
+Vector Addition:
+[5 7 9]
+
+Vector Subtraction:
+[-3 -3 -3]
+        
+
+
+
+
+
+
+
+
+
+Scalar Multiplication
+
+
+
+
+You can multiply a vector or matrix by a scalar value:
+
+
+
+
+# Scalar multiplication
+scalar = 2
+result_scalar_multiply = vector1 * scalar
+
+print("\nScalar Multiplication:")
+print(result_scalar_multiply)
+        
+
+
+
+
+The output will be:
+
+
+
+
+Scalar Multiplication:
+[2 4 6]
+        
+
+
+
+
+
+
+
+
+
+Dot Product
+
+
+
+
+The dot product is a fundamental operation for vectors. It calculates the sum of the element-wise products of two vectors:
+
+
+
+
+# Calculate the dot product of two vectors
+dot_product = np.dot(vector1, vector2)
+print("\nDot Product:")
+print(dot_product)
+        
+
+
+
+
+The output will be:
+
+
+
+
+Dot Product: 
+32        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Angle Between Two Vectors
+
+
+
+
+To find the angle between two vectors in Python, you can use the dot product and trigonometric functions. The angle θ between two vectors v1 and v2 can be calculated using the following formula:
+
+
+
+
+
+θ = arccos((v1 · v2) / (||v1|| * ||v2||))
+
+
+
+
+
+Where:
+
+
+
+
+
+- v1 · v2 is the dot product of the two vectors.
+
+
+
+
+
+- ||v1|| and ||v2|| are the magnitudes (norms) of the vectors.
+
+
+
+
+
+Here's how you can calculate and plot the angle between the vectors v1 and v2 in Python:
+
+
+
+
+
+
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+# Define the vectors
+
+v1 = np.array([1, 0])
+
+v2 = np.array([1, 1])
+
+# Calculate the dot product of v1 and v2
+
+dot_product = np.dot(v1, v2)
+
+# Calculate the magnitudes (norms) of v1 and v2
+
+magnitude_v1 = np.linalg.norm(v1)
+
+magnitude_v2 = np.linalg.norm(v2)
+
+# Calculate the angle between the vectors in radians
+
+angle_radians = np.arccos(dot_product / (magnitude_v1 * magnitude_v2))
+
+# Convert the angle from radians to degrees
+
+angle_degrees = np.degrees(angle_radians)
+
+# Plot the vectors
+
+plt.figure(figsize=(6, 6))
+
+plt.quiver(0, 0, v1[0], v1[1], angles='xy', scale_units='xy', scale=1, color='blue', label='v1')
+
+plt.quiver(0, 0, v2[0], v2[1], angles='xy', scale_units='xy', scale=1, color='red', label='v2')
+
+plt.xlim(-1, 2)
+
+plt.ylim(-1, 2)
+
+plt.xlabel('X')
+
+plt.ylabel('Y')
+
+plt.legend()
+
+# Display the angle between the vectors
+
+plt.title(f'Angle between v1 and v2: {angle_degrees:.2f} degrees')
+
+plt.grid(True)
+
+plt.show()
+        
+
+
+
+
+
+ 
+
+
+
+
+This code calculates the dot product, magnitudes, and angle between the vectors v1 and v2. It then plots the vectors and displays the angle between them in degrees.
+
+
+
+
+
+The resulting plot will show the vectors v1 and v2, and the angle between them will be displayed as a title on the plot (45 degrees).
+
+
+
+
+
+
+
+
+
+
+
+Linear Transformation
+
+
+
+
+
+Linear transformations are fundamental operations in linear algebra that involve transforming vectors or points from one space to another while preserving certain properties, such as linearity and origin. In essence, a linear transformation is a mathematical function that maps vectors from one vector space to another in a way that respects the vector space structure. 
+
+
+
+
+
+The following video explains Linear Transformation
+
+
+
+
+
+
+
+
+
+
+Now, let's explore linear transformations with examples in Python.
+
+
+
+
+
+Example 1: Scaling Transformation
+
+
+
+
+
+A common linear transformation is scaling, where each component of a vector is multiplied by a constant factor. In 2D space, this corresponds to stretching or shrinking along each axis.
+
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the scaling factor
+scaling_factor = 2
+
+# Define a 2D vector
+vector = np.array([3, 4])
+
+# Apply the scaling transformation
+scaled_vector = scaling_factor * vector
+
+# Create a plot
+plt.figure(figsize=(6, 6))
+plt.axvline(x=0, color='gray', linestyle='--')
+plt.axhline(y=0, color='gray', linestyle='--')
+plt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Original Vector')
+plt.quiver(0, 0, scaled_vector[0], scaled_vector[1], angles='xy', scale_units='xy', scale=1, color='red', label='Scaled Vector')
+plt.xlim(-1, 7)
+plt.ylim(-1, 9)
+plt.xlabel('X-axis')
+plt.ylabel('Y-axis')
+plt.legend()
+plt.grid(True)
+plt.title('Scaling Transformation')
+plt.show()
+        
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Example 2: Rotation Transformation
+
+
+
+
+
+Another common linear transformation is rotation. In 2D space, this involves changing the direction of a vector while keeping its magnitude constant.
+
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the angle of rotation (in radians)
+theta = np.pi / 4  # 45 degrees
+
+# Define a 2D vector
+vector = np.array([1, 0])
+
+# Create a rotation matrix
+rotation_matrix = np.array([[np.cos(theta), -      np.sin(theta)],
+                            [np.sin(theta), np.cos(theta)]])
+
+# Apply the rotation transformation
+rotated_vector = np.dot(rotation_matrix, vector)
+
+# Create a plot
+plt.figure(figsize=(6, 6))
+plt.axvline(x=0, color='gray', linestyle='--')
+plt.axhline(y=0, color='gray', linestyle='--')
+plt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Original Vector')
+plt.quiver(0, 0, rotated_vector[0], rotated_vector[1], angles='xy', scale_units='xy', scale=1, color='red', label='Rotated Vector')
+plt.xlim(-1, 2)
+plt.ylim(-1, 2)
+plt.xlabel('X-axis')
+plt.ylabel('Y-axis')
+plt.legend()
+plt.grid(True)
+plt.title('Rotation Transformation')
+plt.show()
+        
+
+
+
+
+
+
+
+
+
+
+In this example, we create a rotation matrix and apply it to the vector [1, 0], resulting in a vector that has been rotated by 45 degrees counterclockwise.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Example 3: Projection Transformation
+
+
+
+
+
+Projection is another important linear transformation. In 2D space, it involves projecting a vector onto another vector, effectively finding the component of one vector in the direction of another.
+
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the vectors
+v = np.array([3, 1])
+w = np.array([1, 2])
+
+# Compute the projection of v onto w
+projection = np.dot(v, w) / np.dot(w, w) * w
+
+# Create a plot
+plt.figure(figsize=(6, 6))
+plt.axvline(x=0, color='gray', linestyle='--')
+plt.axhline(y=0, color='gray', linestyle='--')
+plt.quiver(0, 0, v[0], v[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Vector v')
+plt.quiver(0, 0, projection[0], projection[1], angles='xy', scale_units='xy', scale=1, color='red', label='Projection of v onto w')
+plt.xlim(-1, 4)
+plt.ylim(-1, 4)
+plt.xlabel('X-axis')
+plt.ylabel('Y-axis')
+plt.legend()
+plt.grid(True)
+plt.title('Projection Transformation')
+plt.show()
+        
+
+
+
+
+
+
+
+
+
+
+In this example, we find the projection of vector v onto vector w. The result, [1.5, 3.0], is the component of v that lies in the direction of w.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+These examples demonstrate how linear transformations can be applied to vectors in Python using NumPy. Linear transformations are not limited to 2D space; they can be applied to higher-dimensional spaces as well, and they play a crucial role in various areas of mathematics, science, and computer science, including linear algebra, computer graphics, and machine learning.
+
+
+
+
+
+
+
+
+
+
+
+Eigenvectors
+
+
+
+
+
+Eigenvectors are special vectors associated with a square matrix. They are vectors that, when multiplied by the matrix, result in a scaled version of themselves. Mathematically, if A is a square matrix and v is an eigenvector of A, then:
+
+
+
+
+
+A  v = λ  v
+
+
+
+
+
+Here, λ (lambda) is a scalar called the eigenvalue. An eigenvector can be scaled by its corresponding eigenvalue when multiplied by the matrix A.
+
+
+
+
+
+The following video explains Eigenvectors in detail:
+
+
+
+
+
+
+
+
+
+
+Let's start by calculating the eigenvectors and eigenvalues for the matrix C using Python's NumPy library:
+
+
+
+
+import numpy as np
+
+# Define the matrix C
+C = np.array([[2, 1],
+              [1, 2]])
+
+# Calculate eigenvalues and eigenvectors
+eigenvalues, eigenvectors = np.linalg.eig(C)
+
+# Print the eigenvalues
+print("Eigenvalues:")
+print(eigenvalues)
+
+# Print the eigenvectors
+print("\nEigenvectors:")
+print(eigenvectors)
+        
+
+
+
+
+Now, let's run this code to find the eigenvalues and eigenvectors for the matrix C:
+
+
+
+
+Eigenvalues:
+[3. 1.]
+
+Eigenvectors:
+[[ 0.70710678 -0.70710678]
+ [ 0.70710678  0.70710678]]
+        
+
+
+
+
+The code calculates the eigenvalues and eigenvectors for matrix C. The eigenvalues are [3.0, 1.0], and the corresponding eigenvectors are:
+
+
+
+
+
+
+
+Eigenvector 1: [0.70710678, 0.70710678]
+Eigenvector 2: [-0.70710678, 0.70710678]
+
+
+
+
+
+
+
+In this case, the largest eigenvalue is 3.0. So, the eigenvector corresponding to the largest eigenvalue is:
+
+
+
+
+
+Eigenvector for λ = 3.0: [0.70710678, 0.70710678]
+
+
+
+
+
+
+
+
+
+
+
+Let's write a Python function that takes a square matrix A as input and returns its eigenvalues and eigenvectors.
+
+
+
+
+import numpy as np
+
+def eigenvalue_eigenvector(matrix):
+    try:
+        # Calculate eigenvalues and eigenvectors
+        eigenvalues, eigenvectors = np.linalg.eig(matrix)
+        return eigenvalues, eigenvectors
+    except Exception as e:
+        print(f"Error: {e}")
+        return None, None
+
+def main():
+    try:
+        # Prompt the user for the matrix dimensions
+        n = int(input("Enter the dimension of the square matrix (n): "))
+
+        # Prompt the user for matrix elements
+        print("Enter the matrix elements row by row:")
+        matrix = []
+        for i in range(n):
+            row = input(f"Enter row {i + 1} elements separated by spaces: ").split()
+            if len(row) != n:
+                raise ValueError("Invalid number of elements in the row.")
+            matrix.append([float(x) for x in row])
+
+        # Convert the list of lists to a NumPy array
+        matrix = np.array(matrix)
+
+        # Calculate eigenvalues and eigenvectors
+        eigenvalues, eigenvectors = eigenvalue_eigenvector(matrix)
+
+        if eigenvalues is not None and eigenvectors is not None:
+            print("\nEigenvalues:")
+            print(eigenvalues)
+            print("\nEigenvectors:")
+            print(eigenvectors)
+    except ValueError as ve:
+        print(f"Error: {ve}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+if __name__ == "__main__":
+    main()
+        
+
+
+
+
+
+ 
+
+
+
+
+
+
+The main() function is introduced to encapsulate the program logic.
+The program first prompts the user for the dimension of the square matrix (n).
+Then, it prompts the user to input the matrix elements row by row. It validates that each row has the correct number of elements.
+The input matrix is converted into a NumPy array, and the eigenvalue_eigenvector function is called to calculate the eigenvalues and eigenvectors.
+The eigenvalues and eigenvectors are displayed if the calculations are successful.
+Error handling is included to catch exceptions such as invalid input or matrix dimensions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q: What is the eigenvalue of the following matrix:
+
+
+
+
+
+M = [[3, -1], [4, -2]]?
+
+
+
+
+import numpy as np
+
+M = [[3, -1], [4, -2]]
+
+eigenvalues, eigenvectors = np.linalg.eig(M)
+
+print(eigenvalues)        
+
+
+
+
+
+
+
+
+
+[ 2. -1.]        
+
+
+
+
+
+
+
+
+
+The cross product of two vectors
+
+
+
+
+The cross product of two vectors in three-dimensional space is a vector that is orthogonal (perpendicular) to both of the original vectors. To calculate the cross-product of two vectors v1 and v2, you can use Python and the NumPy library, which provides a convenient function for this purpose.
+
+
+
+
+
+For example, to calculate the cross product of the following vectors:
+
+
+
+
+
+v1 = [1, 2, 3], v2 = [4, 5, 6] using python we can do the following:
+
+
+
+
+import numpy as np
+
+# Define the vectors v1 and v2
+v1 = np.array([1, 2, 3])
+v2 = np.array([4, 5, 6])
+
+# Calculate the cross product
+cross_product = np.cross(v1, v2)
+
+# Print the cross product
+print("Cross Product:")
+print(cross_product)
+        
+
+
+
+
+Now, let's run this code to calculate the cross product of v1 and v2:
+
+
+
+
+Cross Product: 
+[-3 6 -3]        
+
+
+
+
+
+
+
+
+
+
+The result of the cross-product is [-3, 6, -3].
+
+
+
+
+
+Here's how to interpret this result:
+
+
+
+
+
+
+
+The cross product is a vector, so it has three components: x, y, and z.
+The x-component is -3, the y-component is 6, and the z-component is -3.
+
+
+
+
+
+
+
+This means that the cross product vector is [-3, 6, -3].
+
+
+
+
+
+Now, let's understand the geometric significance:
+
+
+
+
+
+
+
+The cross product vector is orthogonal (perpendicular) to both v1 and v2.
+Its direction can be determined using the right-hand rule: If you place your right hand such that your fingers point in the direction of v1, and then curl them towards v2, your thumb will point in the direction of the cross product.
+In this case, the cross product vector points in the direction of the negative x-axis (-x), so it is perpendicular to both v1 and v2.
+The magnitude of the cross product represents the area of the parallelogram formed by v1 and v2.
+
+
+
+
+
+
+
+So, in summary, the cross product of v1 and v2 is [-3, 6, -3], and it's a vector perpendicular to both v1 and v2 with a specific magnitude and direction determined by the right-hand rule.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Matrices
+
+
+
+
+
+A matrix is a two-dimensional array that consists of rows and columns. Matrices are used to represent data, transformations, and systems of linear equations. Let's create a matrix:
+
+
+
+
+# Create a matrix
+matrix = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+print("\nMatrix:")
+print(matrix)
+        
+
+
+
+
+The output will be:
+
+
+
+
+Matrix:
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orthogonal Matrices
+
+
+
+
+
+An orthogonal matrix is a square matrix whose columns are mutually orthogonal unit vectors. In other words, an orthogonal matrix is a matrix where the dot product of any two distinct columns is zero, and the length (norm) of each column vector is equal to 1. Orthogonal matrices have some special properties, such as the fact that their transpose is equal to their inverse.
+
+
+
+
+
+Here's how you can create and work with orthogonal matrices using Python and NumPy:
+
+
+
+
+import numpy as np
+
+# Create a random 2x2 orthogonal matrix
+Q, _ = np.linalg.qr(np.random.rand(2, 2))
+
+# Check if Q is an orthogonal matrix
+is_orthogonal = np.allclose(np.dot(Q, Q.T), np.identity(2))
+
+# Print the matrix and check if it's orthogonal
+print("Orthogonal Matrix:")
+print(Q)
+print("\nIs Q orthogonal?", is_orthogonal)
+        
+
+
+
+
+In this example, we first create a random 2x2 matrix and then use NumPy's np.linalg.qr function to compute the QR decomposition of the matrix. The QR decomposition decomposes a matrix A into the product of an orthogonal matrix Q and an upper triangular matrix R. We are interested in the orthogonal matrix Q in this case.
+
+
+
+
+
+We then check if Q is orthogonal by verifying if the product of Q and its transpose is approximately equal to the identity matrix. The np.allclose function is used for this purpose, allowing for a small numerical tolerance in the comparison.
+
+
+
+
+
+When you run this code, you will get an orthogonal matrix Q (or a close approximation) and a message indicating whether it is indeed orthogonal.
+
+
+
+
+
+Here's an example of what the output might look like:
+
+
+
+
+Orthogonal Matrix:
+[[-0.73484559 -0.67871113]
+ [ 0.67871113 -0.73484559]]
+
+Is Q orthogonal? True
+        
+
+
+
+
+In this example, Q is an orthogonal matrix, and the check for orthogonality returns True. The matrix is approximately orthogonal because of numerical approximations, but it satisfies the orthogonality property with a high degree of accuracy.
+
+
+
+
+
+
+
+
+
+
+
+Identity Matrix
+
+
+
+
+
+An identity matrix, often denoted as "I" or "I_n" (where n is the size of the matrix), is a square matrix in which all diagonal elements are 1, and all off-diagonal elements are 0. The identity matrix plays a fundamental role in linear algebra because it acts as a multiplicative identity element, similar to how 1 is the multiplicative identity for real numbers.
+
+
+
+
+
+Here's how you can create and work with an identity matrix in Python using NumPy and plot it using Matplotlib:
+
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the size of the identity matrix
+n = 4
+
+# Create an n x n identity matrix using NumPy
+identity_matrix = np.identity(n)
+
+# Print the identity matrix
+print("Identity Matrix:")
+print(identity_matrix)
+
+# Plot the identity matrix using Matplotlib
+plt.imshow(identity_matrix, cmap='gray', interpolation='nearest')
+plt.title('Identity Matrix')
+plt.colorbar()
+plt.show()        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In this example:
+
+
+
+
+
+
+
+We define the size of the identity matrix (n=4), which means we want to create a 4x4 identity matrix.
+We use np.identity(n) to create the identity matrix of size n x n.
+We print the identity matrix.
+We use Matplotlib to plot the identity matrix. We set the colormap to 'gray' to visualize the 0s and 1s effectively, and we add a color bar for reference.
+
+
+
+
+
+
+
+When you run this code, it will create a 4x4 identity matrix and display it as a grayscale image using Matplotlib. The diagonal elements will be white (1), and the off-diagonal elements will be black (0).
+
+
+
+
+
+The output will show the identity matrix and display a plot of it as an image. It should look like a white square with 1s on the main diagonal and 0s everywhere else.
+
+
+
+
+
+This is a simple example of creating and visualizing an identity matrix in Python. You can adjust the size (n) to create identity matrices of different dimensions.
+
+
+
+
+
+
+
+
+
+
+
+Matrix Operations
+
+
+
+
+
+Matrix Multiplication
+
+
+
+
+
+Matrix multiplication is a crucial operation in linear algebra. It involves multiplying rows of the first matrix by columns of the second matrix. NumPy provides the np.matmul for matrix multiplication:
+
+
+
+
+import numpy as np
+
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+result = np.matmul(A, B)
+
+# Result: [[19, 22], [43, 50]]
+        
+
+
+
+
+
+
+
+
+
+
+The output will be:
+
+
+
+
+Matrix Multiplication: 
+[[19 22] 
+[43 50]]        
+
+
+
+
+What is the result of multiplying the following matrices:
+
+
+
+
+
+A = [[1, 2, 3], [4, 5, 6]], B = [[7, 8], [9, 10], [11, 12]]?
+
+
+
+
+import numpy as np
+
+
+A = np.array([[1, 2, 3], [4, 5, 6]])
+B = np.array([[7, 8], [9, 10], [11, 12]])
+
+print (np.matmul(A, B))
+        
+
+
+
+[[ 58  64]
+ [139 154]]        
+
+
+
+
+
+
+
+
+
+
+Matrix Transposition
+
+
+
+
+
+Transposing a matrix means switching its rows and columns. NumPy provides the T attribute for this purpose:
+
+
+
+
+# Transpose a matrix
+matrix = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+transpose_matrix = matrix.T
+print("\nMatrix:")
+print(matrix)
+print("\nMatrix Transposition:")
+print(transpose_matrix)
+        
+
+
+
+
+
+
+
+
+
+
+The output will be:
+
+
+
+
+Matrix:
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+
+Matrix Transposition:
+[[1 4 7]
+ [2 5 8]
+ [3 6 9]]
+        
+
+
+
+
+This is a 3x3 matrix with the following elements:
+
+
+
+
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+        
+
+
+
+
+The matrix.T operation is used to transpose this matrix, resulting in the following transposed matrix:
+
+
+
+
+[[1 4 7]
+ [2 5 8]
+ [3 6 9]]
+        
+
+
+
+
+The transposed matrix has rows becoming columns and columns becoming rows.
+
+
+
+
+
+Matrix Determinant
+
+
+
+
+
+The determinant of a square matrix is a scalar value that can provide important information about the matrix. It is a fundamental concept in linear algebra and has several applications in mathematics and science. The determinant is commonly denoted by "det(A)" for a matrix A.
+
+
+
+
+
+Here are some key points to understand about the determinant of a matrix:
+
+
+
+
+
+
+
+Square Matrices Only: The determinant is defined only for square matrices, which have the same number of rows and columns.
+Geometric Interpretation: In 2D, the determinant of a 2x2 matrix [a, b; c, d] represents the signed area of the parallelogram formed by the column vectors [a, c] and [b, d]. In 3D, the determinant of a 3x3 matrix has a geometric interpretation related to the volume of a parallelepiped defined by the column vectors.
+
+
+
+
+
+
+
+
+
+Properties:The determinant of the identity matrix is 1 (det(I) = 1).Swapping two rows (or columns) in a matrix changes the sign of the determinant.Multiplying a row (or column) by a scalar multiplies the determinant by that scalar.The determinant of a product of matrices is the product of the determinants of the individual matrices (det(AB) = det(A) * det(B)).
+Inverse Existence: A square matrix is invertible (non-singular) if and only if its determinant is non-zero. In this case, the determinant provides information about the scaling factor involved in the inverse.
+
+
+
+
+
+
+Calculating Matrix Determinant with NumPy
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+NumPy provides a convenient function, np.linalg.det(), to calculate the determinant of a square matrix. Here's how you can use it in Python:
+
+
+
+
+import numpy as np
+
+# Define a square matrix
+matrix = np.array([[2, 4], [1, 3]])
+
+# Calculate the determinant
+det = np.linalg.det(matrix)
+
+print("Matrix:")
+print(matrix)
+print(f"Determinant: {det}")
+        
+
+
+
+
+
+
+
+
+
+
+The output will be:
+
+
+
+
+Matrix:
+[[2 4]
+ [1 3]]
+Determinant: 2.0
+        
+
+
+
+
+
+
+
+
+
+
+In this example, we've calculated the determinant of a 2x2 matrix. Note that the result is 2.0, which is the signed area of the parallelogram formed by the column vectors [2, 1] and [4, 3].
+
+
+
+
+
+Keep in mind that np.linalg.det() can also be used for larger square matrices (e.g., 3x3, 4x4, etc.) following the same principles explained earlier. The determinant provides valuable information about the matrix, especially when dealing with systems of linear equations, matrix inversion, and transformations in linear algebra.
+
+
+
+
+Note: The determinant of an identity matrix is always equal to 1.
+
+
+
+import numpy as np
+
+# Define the size of the identity matrix
+n = 4
+
+# Create an n x n identity matrix using NumPy
+identity_matrix = np.identity(n)
+
+# Print the identity matrix
+print("Identity Matrix:")
+print(identity_matrix)
+print(f'Determinant = {np.linalg.det(identity_matrix)}')        
+
+
+
+
+
+
+
+
+
+Identity Matrix:
+[[1. 0. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 1.]]
+Determinant = 1.0        
+
+
+
+
+What is the determinant of the following matrix B?
+
+
+
+
+
+B = [[1, 2, 3],
+
+
+
+
+
+       [4, 5, 6],
+
+
+
+
+
+       [7, 8, 9]]
+
+
+
+
+
+
+
+
+
+
+import numpy as np
+
+# Define a square matrix
+matrix = np.array([[1, 2, 3],
+
+       [4, 5, 6],
+
+       [7, 8, 9]])
+
+# Calculate the determinant
+det = np.linalg.det(matrix)
+
+print("Matrix:")
+print(matrix)
+print(f"Determinant: {det}")        
+
+
+
+Matrix:
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+Determinant: 0.0        
+
+
+
+
+
+
+
+
+
+
+The Rank of a Matrix
+
+
+
+
+
+The rank of a matrix is a fundamental concept in linear algebra that measures the number of linearly independent rows or columns in the matrix. It provides important insights into the properties and behavior of the matrix. Here are some key points to understand about the rank of a matrix:
+
+
+
+
+
+
+
+Linear Independence: Rows (or columns) in a matrix are linearly independent if no row (or column) can be expressed as a linear combination of the others. In other words, the rank of a matrix tells us how many unique directions or dimensions are represented by its rows or columns.
+Definition: The rank of a matrix A is denoted as "rank(A)" and is defined as the maximum number of linearly independent rows (or columns) in the matrix. It is also equal to the dimension of the column space (or row space) of the matrix.
+Rank Properties:The rank of a matrix is always less than or equal to the minimum of its number of rows and columns.A matrix is said to have full rank if its rank is equal to the minimum of its number of rows and columns.A matrix is said to be rank-deficient if its rank is less than the minimum of its number of rows and columns.
+Applications:The rank of a matrix is used to determine the solvability of systems of linear equations.It plays a crucial role in understanding transformations and subspaces in linear algebra.Rank is used in various data analysis and machine learning tasks, such as feature selection and dimensionality reduction.
+
+
+
+
+
+
+Calculating Matrix Rank with NumPy in Python
+
+
+
+
+NumPy provides a convenient function, np.linalg.matrix_rank(), to calculate the rank of a matrix. Here's how you can use it in Python:
+
+
+
+
+import numpy as np
+
+# Define a matrix
+matrix = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+
+# Calculate the rank of the matrix
+rank = np.linalg.matrix_rank(matrix)
+
+print("Matrix:")
+print(matrix)
+print(f"Rank of the Matrix: {rank}")
+        
+
+
+
+
+
+
+
+
+
+
+The output will be:
+
+
+
+
+Matrix:
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+Rank of the Matrix: 2
+        
+
+
+
+
+
+
+
+
+
+
+In this example, we've calculated the rank of a 3x3 matrix. The result is 2, which means that the matrix has two linearly independent rows (or columns). In this case, the third row is a linear combination of the first two rows, which reduces the rank.
+
+
+
+
+
+You can use np.linalg.matrix_rank() for matrices of various sizes to determine their rank. Understanding the rank of a matrix is important for various applications, including solving systems of linear equations, determining the invertibility of a matrix, and analyzing data in linear algebra and beyond.
+
+
+
+
+
+
+
+
+
+
+
+What is the rank of the following matrix A?
+
+
+
+
+
+A = [[1, 2, 3],
+
+
+
+
+
+        [2, 4, 6],
+
+
+
+
+
+        [3, 6, 9]]
+
+
+
+
+import numpy as np
+
+A = np.array([[1, 2, 3],
+
+        [2, 4, 6],
+
+        [3, 6, 9]])
+
+print(f'Matrix: \n {A}')
+
+print(f'Rank of A = {np.linalg.matrix_rank(A)}')        
+
+
+
+Matrix: 
+ [[1 2 3]
+ [2 4 6]
+ [3 6 9]]
+Rank of A = 1        
+
+
+
+
+This is an easy matrix because row 2 is Row 1  2 and Row 3 = Row1  * 3. 
+
+
+
+
+
+
+
+
+
+
+
+The inverse of a square matrix
+
+
+
+
+
+The inverse of a square matrix is another matrix that, when multiplied with the original matrix, results in the identity matrix. In other words, if you have a square matrix A, its inverse, denoted as A⁻¹, satisfies the following equation:
+
+
+
+
+
+A  A⁻¹ = A⁻¹  A = I
+
+
+
+
+
+Where:
+
+
+
+
+
+
+
+A is the original matrix.
+A⁻¹ is the inverse matrix.
+I is the identity matrix, which is a special square matrix with ones on the main diagonal and zeros elsewhere.
+
+
+
+
+
+
+Not all matrices have inverses. A matrix is invertible (non-singular) if and only if its determinant is non-zero. If the determinant is zero, the matrix is singular, and it does not have an inverse.
+
+
+
+
+Here's how you can calculate the inverse of a matrix in Python using NumPy:
+
+
+
+
+import numpy as np
+
+# Define a square matrix
+matrix = np.array([[2, 1], [5, 3]])
+
+# Check if the matrix is invertible (non-singular)
+if np.linalg.det(matrix) != 0:
+    # Calculate the inverse matrix
+    inverse_matrix = np.linalg.inv(matrix)
+    print("Original Matrix:")
+    print(matrix)
+    print("\nInverse Matrix:")
+    print(inverse_matrix)
+else:
+    print("The matrix is singular and does not have an inverse.")
+        
+
+
+
+
+In this example, we define a 2x2 square matrix. We first check if the matrix is invertible by verifying that its determinant is non-zero. If the determinant is non-zero, we calculate the inverse matrix using np.linalg.inv(). If the determinant is zero, we print a message indicating that the matrix is singular and does not have an inverse.
+
+
+
+
+
+Here's what the output would look like for this specific example:
+
+
+
+
+Original Matrix: 
+[[2 1] 
+[5 3]] 
+Inverse Matrix: 
+[[ 3. -1.] 
+[-5. 2.]]        
+
+
+
+
+
+
+
+
+
+
+The output shows the original matrix and its corresponding inverse. You can verify that multiplying the original matrix by its inverse results in the identity matrix:
+
+
+
+
+[[2 1] [[ 3 -1]] [[1 0] [5 3]] [[-5 2]] = [[0 1]]        
+
+
+
+
+Here are some key points to consider:
+
+
+
+
+
+
+
+Existence of an Inverse: Not all matrices have an inverse. A matrix must be square (i.e., have the same number of rows and columns) and have a nonzero determinant to have an inverse. If a matrix is singular (i.e., its determinant is zero), it does not have a unique inverse.
+Non-Unique Inverses: For square matrices that are invertible (i.e., they have a nonzero determinant), they typically have a unique inverse. However, there are cases where multiple inverses exist. This can happen when two or more matrices can be multiplied together to produce the identity matrix. In such cases, each of those matrices is considered an inverse, but they may not be equal.
+Non-Square Matrices: Non-square matrices do not have unique inverses. In fact, they cannot have a unique inverse because they cannot be inverted to match the dimensions of the identity matrix.
+Orthogonal Matrices: Orthogonal matrices are an interesting case. They always have a unique inverse, which is simply their transpose. So, for orthogonal matrices, uniqueness is guaranteed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+np.mat vs np.array
+
+
+
+
+
+We have been using np.array, while you can use np.mat. In NumPy, both np.mat and np.array are used to create matrices or multi-dimensional arrays. However, there are some key differences between the two:
+
+
+
+
+
+
+
+Type:np.array: When you create an array using np.array, you get a general NumPy array with a flexible data type that can hold elements of different types.np.mat: When you create a matrix using np.mat, you get a specialized matrix type. This means that the resulting object is a subclass of the np.ndarray class with specific matrix operations and behaviors.
+Multiplication Behavior:np.array: Multiplication using np.array performs element-wise multiplication. For example, if you multiply two arrays using *, it multiplies corresponding elements.np.mat: Multiplication using np.mat performs matrix multiplication (dot product). For example, if you multiply two matrices using *, it performs matrix multiplication, and if you want element-wise multiplication, you need to use the np.multiply function. That is why we use np.matmul for np.array
+Matrix Operations:np.array: You can perform a wide range of mathematical operations on arrays, but you may need to use NumPy functions for matrix-specific operations like matrix inversion (np.linalg.inv) or determinant computation (np.linalg.det).np.mat: Matrices created with np.mat have some built-in matrix-specific methods for operations like matrix multiplication (*) or inverse (I for the inverse), which can be more convenient for linear algebra operations.
+Dimensionality:np.array: Can be used to create arrays of any dimension (1D, 2D, 3D, etc.).np.mat: Primarily used for 2D matrices. While you can technically create higher-dimensional arrays using np.mat, it is less common.
+
+
+
+
+
+
+
+Here's an example to illustrate the differences:
+
+
+
+
+import numpy as np
+
+# Create arrays
+arr1 = np.array([[1, 2], [3, 4]])
+arr2 = np.array([[5, 6], [7, 8]])
+
+# Element-wise multiplication
+elementwise_result = arr1 * arr2
+
+# Create matrices
+mat1 = np.mat([[1, 2], [3, 4]])
+mat2 = np.mat([[5, 6], [7, 8]])
+
+# Matrix multiplication
+matrix_result = mat1 * mat2
+
+print("Element-wise multiplication using np.array:")
+print(elementwise_result)
+
+print("\nMatrix multiplication using np.mat:")
+print(matrix_result)
+        
+
+
+
+Element-wise multiplication using np.array:
+[[ 5 12]
+ [21 32]]
+
+Matrix multiplication using np.mat:
+[[19 22]
+ [43 50]]        
+
+
+
+
+
+
+
+
+
+
+In this example, elementwise_result will contain the result of element-wise multiplication, while matrix_result will contain the result of matrix multiplication. You can see that the behavior of * is different for arrays and matrices.
+
+
+
+
+
+Let's replace the overloaded operator "*" with np.matmul with the np.array [elementwise_result = np.matmul(arr1, arr2)]
+
+
+
+
+import numpy as np
+
+# Create arrays
+arr1 = np.array([[1, 2], [3, 4]])
+arr2 = np.array([[5, 6], [7, 8]])
+
+# array multiplication
+elementwise_result = np.matmul(arr1, arr2)
+
+# Create matrices
+mat1 = np.mat([[1, 2], [3, 4]])
+mat2 = np.mat([[5, 6], [7, 8]])
+
+# Matrix multiplication
+matrix_result = mat1 * mat2
+
+print("Element-wise multiplication using np.array:")
+print(elementwise_result)
+
+print("\nMatrix multiplication using np.mat:")
+print(matrix_result)        
+
+
+
+Element-wise multiplication using np.array:
+[[19 22]
+ [43 50]]
+
+Matrix multiplication using np.mat:
+[[19 22]
+ [43 50]]        
+
+
+
+
+
+
+
+
+
+
+In practice, unless you have specific requirements for matrix operations, using np.array is more common and versatile for creating arrays of different dimensions and performing a wide range of numerical computations.
+
+
+
+
+
+
+
+Linear Algebra and Machine Learning
+
+
+
+
+
+Linear algebra is of paramount importance in the field of machine learning (ML) for several reasons. It serves as the foundational mathematical framework upon which many ML algorithms and techniques are built. Here are some key aspects highlighting the significance of linear algebra in machine learning:
+
+
+
+
+
+
+
+Data Representation: In machine learning, data is typically represented as matrices or multi-dimensional arrays. Each row of a matrix often corresponds to a data point, while columns represent features. Linear algebra provides the tools to manipulate and process these data structures efficiently.
+Vector Operations: Machine learning often involves vector operations such as addition, subtraction, and dot products. Linear algebra provides the mathematical foundations for these operations, making it easy to express and compute transformations on data.
+Linear Models: Many fundamental machine learning models are based on linear algebra. Linear regression, for instance, uses linear equations to model the relationship between input features and target variables. These relationships can be represented as matrix equations, making linear algebra essential for understanding and solving such problems.
+Dimensionality Reduction: Techniques like Principal Component Analysis (PCA) and Singular Value Decomposition (SVD) are used for dimensionality reduction and feature extraction. These methods rely heavily on matrix factorization and eigenvalue computations, which are core concepts in linear algebra.
+Optimization: In machine learning, optimization is a common task, whether it's finding the best model parameters or minimizing a loss function. Gradient descent, one of the primary optimization algorithms used in ML, relies on derivatives, which can be expressed using vectors and matrices.
+Deep Learning: Deep learning, a subfield of ML, is based on artificial neural networks with multiple layers. The forward and backward passes in neural networks involve a series of matrix multiplications, activations, and gradients. Understanding linear algebra is crucial for developing and training neural networks effectively.
+Eigenvalues and Eigenvectors: Eigenvalues and eigenvectors play a crucial role in various ML algorithms, such as spectral clustering, image compression, and matrix factorization. They help in understanding the intrinsic structure of data and feature transformation.
+Matrix Factorization: Recommender systems and collaborative filtering techniques often employ matrix factorization methods like Singular Value Decomposition (SVD) to make recommendations based on user-item interactions.
+Kernel Methods: Kernel methods like Support Vector Machines (SVMs) use linear algebra to perform complex, nonlinear transformations in higher-dimensional spaces, making them capable of solving nonlinear classification and regression problems.
+Graph Algorithms: Many ML applications, including social network analysis and recommendation systems, rely on graph-based algorithms. Graphs can be represented as adjacency matrices, and linear algebra is essential for graph traversal, centrality analysis, and community detection.
+
+
+
+
+
+
+
+In summary, linear algebra serves as the backbone of many machine learning techniques and algorithms, enabling data representation, transformation, optimization, and understanding of complex mathematical relationships. Proficiency in linear algebra is, therefore, a fundamental skill for machine learning practitioners, as it enhances their ability to develop, implement, and fine-tune ML models for a wide range of real-world applications.
+
+
+
+
+Conclusion
+
+
+
+
+Linear algebra is a powerful mathematical framework that underpins many computational tasks. NumPy simplifies working with vectors and matrices, allowing you to perform operations easily and efficiently in Python. In this article, we've covered the basics of vectors, matrices, and common operations using NumPy. As you continue your journey in linear algebra, you'll discover more advanced concepts and applications in various fields of study and research.
+
+
+
+
+
+
+
+
+
+
+
+Additional Resources:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+              
+          
+        AI Synergy Insights
+      
+      
+          
+
+
+
+
+            
+        AI Synergy Insights
+      
+          
+
+              
+        384 followers
+      
+            
+
+ 
+
+
+          + Subscribe
+        
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Like
+
+
+
+
+
+
+
+
+
+                  Comment
+                
+
+
+
+
+
+
+
+
+
+
+Copy
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Facebook
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+              Share
+            
+
+
+
+
+
+
+
+
+
+                    4
+              
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+        To view or add a comment, sign in
+
+
+
+
+
+
+
+
+
+More articles by this author
+ 
+
+
+
+                No more previous content
+              
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+          LangChain Agents: A Quick Start
+        
+
+            
+        Jun 10, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Understanding StructuredTools in LangChain
+        
+
+            
+        Jun 8, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          LangChain Tools: A Quick Start Guide
+        
+
+            
+        Jun 8, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          LangChain Chains with Ollama Phi3, Gemma2, and Llama3: Simple Examples of Chains
+        
+
+            
+        Jun 7, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Explaining LangChain Prompt Templates by Example
+        
+
+            
+        Jun 6, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Connecting LangChain with Different LLMs
+        
+
+            
+        Jun 6, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Weighted Ensemble in Machine Learning
+        
+
+            
+        May 30, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Ollama with LangChain for Local Phi 3 Applications
+        
+
+            
+        May 22, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Create and Deploy an Azure OpenAI Service Resource on AzureAI
+        
+
+            
+        May 16, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+          Using Autoencoders for Dimensionality Reduction: A Practical Guide with MNIST
+        
+
+            
+        May 16, 2024
+      
+          
+ 
+
+
+
+
+
+
+
+                No more next content
+              
+
+
+
+
+
+
+
+
+See all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Insights from the community
+            
+
+
+
+
+
+
+
+
+
+              Volunteering
+            
+
+              What are the most important Python skills for computer vision?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              What methods are most effective for topic modeling in Python?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              How can you manipulate arrays in Python using NumPy?
+            
+ 
+
+
+
+
+
+
+              Machine Learning
+            
+
+              How can you measure Machine Learning algorithm performance and efficiency in different programming languages?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              How can you efficiently convert a list of strings to floats in Python?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              What are the top Python libraries for advanced scientific computations?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              What are the most common feature selection methods in Python?
+            
+ 
+
+
+
+
+
+
+              Image Analysis
+            
+
+              What are the most useful tools and libraries for image registration in Python?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              What strategies improve the speed of mathematical operations on numpy arrays?
+            
+ 
+
+
+
+
+
+
+              Data Science
+            
+
+              What are the performance implications of using arrays vs. lists in Python?
+            
+ 
+
+
+
+
+                Show more
+              
+
+
+                Show less
+              
+
+
+
+
+
+
+              Others also viewed
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        Data Representation & Python
+      
+ 
+
+
+
+
+
+            Ivan Tonon
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        ARIMA- Time Series Forecasting  with Python
+      
+ 
+
+
+
+
+
+            pradeep ponduri
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      6y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        Statistical methodologies and machine learning with Python: episode 7 "Homogeneity tests: Pettit, SNH, Buishand and von Neumann"
+      
+ 
+
+
+
+
+
+            Abdelaziz (Aziz) Moumou
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      4y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        How to Implement Probability Distributions with Python
+      
+ 
+
+
+
+
+
+            Malini Shukla
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      5y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        How to Solve Linear Equations with Matrix Inversion
+      
+ 
+
+
+
+
+
+            Deepak Raj
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      9mo
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        NumPy Arrays: An Introduction
+      
+ 
+
+
+
+
+
+            Teri Eyenike
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      5mo
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        NumPy Basics Operation & Function
+      
+ 
+
+
+
+
+
+            Sandeep Kumar Patel
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        WHAT IS NUMPY
+      
+ 
+
+
+
+
+
+            Ashish Ranjan
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      11mo
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        What’s the best way to start learning machine learning in Python?
+      
+ 
+
+
+
+
+
+            Aman Dalmia
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      6y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        NumPy:- One of the important library of python!!!!
+      
+ 
+
+
+
+
+
+            Himanshu Kumar
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      5mo
+  
+          
+
+ 
+
+
+
+
+
+                Show more
+              
+
+
+                Show less
+              
+
+
+
+
+
+
+
+              Explore topics
+            
+
+
+
+
+
+                Sales
+              
+
+
+
+                Marketing
+              
+
+
+
+                Business Administration
+              
+
+
+
+                HR Management
+              
+
+
+
+                Content Management
+              
+
+
+
+                Engineering
+              
+
+
+
+                Soft Skills
+              
+
+
+
+              See All
+            
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+© 2024
+
+
+
+          
+          About
+        
+        
+
+
+
+          
+          Accessibility
+        
+        
+
+
+
+          
+          User Agreement
+        
+        
+
+
+
+          
+          Privacy Policy
+        
+        
+
+
+
+
+          
+          Cookie Policy
+        
+        
+
+
+
+          
+          Copyright Policy
+        
+        
+
+
+
+          
+          Brand Policy
+        
+        
+
+
+
+          
+            Guest Controls
+          
+        
+
+
+
+          
+          Community Guidelines
+        
+        
+
+
+
+
+
+
+
+
+
+                العربية (Arabic)
+            
+
+
+
+
+                Čeština (Czech)
+            
+
+
+
+
+                Dansk (Danish)
+            
+
+
+
+
+                Deutsch (German)
+            
+
+
+
+
+English (English)
+
+
+
+
+
+                Español (Spanish)
+            
+
+
+
+
+                Français (French)
+            
+
+
+
+
+                हिंदी (Hindi)
+            
+
+
+
+
+                Bahasa Indonesia (Indonesian)
+            
+
+
+
+
+                Italiano (Italian)
+            
+
+
+
+
+                日本語 (Japanese)
+            
+
+
+
+
+                한국어 (Korean)
+            
+
+
+
+
+                Bahasa Malaysia (Malay)
+            
+
+
+
+
+                Nederlands (Dutch)
+            
+
+
+
+
+                Norsk (Norwegian)
+            
+
+
+
+
+                Polski (Polish)
+            
+
+
+
+
+                Português (Portuguese)
+            
+
+
+
+
+                Română (Romanian)
+            
+
+
+
+
+                Русский (Russian)
+            
+
+
+
+
+                Svenska (Swedish)
+            
+
+
+
+
+                ภาษาไทย (Thai)
+            
+
+
+
+
+                Tagalog (Tagalog)
+            
+
+
+
+
+                Türkçe (Turkish)
+            
+
+
+
+
+                Українська (Ukrainian)
+            
+
+
+
+
+                简体中文 (Chinese (Simplified))
+            
+
+
+
+
+                正體中文 (Chinese (Traditional))
+            
+
+
+
+
+
+            Language
+          
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

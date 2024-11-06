@@ -1,0 +1,1556 @@
+
+
+
+
+Why are primes important for encryption - Cryptography Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cryptography
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Cryptography Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Jobs
+
+
+
+
+
+
+ Companies
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+Why are primes important for encryption
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+9 years, 5 months ago
+
+
+Modified
+5 years, 2 months ago
+
+
+Viewed
+                        35k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            31
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Why are primes so important? Why can't we just use a random number?
+My guess is that it's because finding a random prime require more computing power, than finding a random number. Can anybody confirm this?
+
+
+
+
+encryptionprime-numbers
+
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 18, 2014 at 2:18
+
+
+
+
+
+
+poncho
+
+148k1111 gold badges229229 silver badges364364 bronze badges
+
+
+
+
+
+
+
+
+            asked Dec 17, 2014 at 13:11
+
+
+
+
+
+
+KaareZKaareZ
+
+43711 gold badge44 silver badges55 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+primes are already very important in arithmetic, they're a very special set of integers. The Fundamental theorem of arithmetic is about prime factorization (it says this factorization is unique). Now crypto is based a lot on arithmetic.
+$\endgroup$
+
+– Cédric Van Rompay
+
+Dec 19, 2014 at 10:48
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        5 Answers
+                                    5
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            36
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Primes are important because the security of many encryption algorithms are based on the fact that it is very fast to multiply two large prime numbers and get the result, while it is extremely computer-intensive to do the reverse. When you have a number which you know is the product of two primes, finding these two prime numbers is very hard. This problem is called prime factorization and finding an algorithm which does it fast is one of the unsolved problems of computer science.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 17, 2014 at 13:49
+
+
+
+
+
+
+PhilippPhilipp
+
+62144 silver badges1010 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+0
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+What's actually important isn't prime numbers as such, it's numbers that have factors (other than 1 and themselves) but are very difficult to factor. You get such numbers by multiplying together two very large primes. Numbers that are equally large but have more smaller factors are very much easier to factor, and hence are unsuitable for cryptography purposes -- for practical purposes, the difficulty of factoring a number varies with the size of its smallest prime factor, regardless of how big the number is, and so your prime factors need to be as large as possible.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 17, 2014 at 13:15
+
+
+
+
+
+
+Mike ScottMike Scott
+
+22111 silver badge22 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+11
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Well, almost, I think. Multiplying 2, a 1000-digit prime, and another 1000-digit prime, will give a number that is still very difficult to factor. It is very easy, even trivial, to find a factor of it, but not all factors. For some purposes, that may be good enough, and for other purposes, it may not be.
+$\endgroup$
+
+– hvd
+
+Dec 17, 2014 at 14:15
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@hvd When you multiply two primes together, the only factors of the product (becides one and itself) are the two original prime numbers.
+$\endgroup$
+
+– Matthew
+
+Dec 17, 2014 at 16:00
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@mathh In my example, after finding one of the factors (2), and dividing by that, you do get a smaller number, but not a significantly smaller number. Finding the other factors is still difficult. This answer claims that the difficulty of factoring a number depends on its smallest prime factor, but I'm attempting (admittedly not very clearly) to show that it depends on the other prime factors very much as well.
+$\endgroup$
+
+– hvd
+
+Dec 17, 2014 at 16:34
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Matthew Yes, I know that already. I don't see the point you're trying to make, could you elaborate?
+$\endgroup$
+
+– hvd
+
+Dec 17, 2014 at 16:36
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+The statement you made "It is very easy, even trivial, to find a factor of it, but not all factors" seems to be incorrect, or at least misleading.  Since there's only two factors, either of which would be difficult to find.
+$\endgroup$
+
+– Matthew
+
+Dec 17, 2014 at 16:42
+
+
+
+
+
+
+
+ | 
+Show 6 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+For many areas of encryption, you actually DO want as truly random of a value as possible.  Primes (or more accurately, relative primes) only enter in to the equation when dealing with certain forms of asymmetric encryption.
+Asymmetric encryption is where one person has a public key to encrypt a message and then the recipient has a different private key which allows them to decrypt the message.  You can't simply use a random number for this type of encryption because there needs to be some relationship between the public key and the private key that is hard to determine the private key from the public key, but yet allows the private key to be related so that it can be used for decryption.
+If you don't need that relationship, then random numbers are much, MUCH more secure.  This is why for a symmetric algorithm like AES, 256 bit encryption is considered highly secure, however for something like RSA, 2056 or even 4092 bit encryption needs to be used to be considered highly secure.
+The relationship between the public and private key makes it less secure, but is also the only way that the asymmetric cryptography can function.
+It is also worth noting that relative primes is not the only "hard problem" used in the relationship between the public and private keys.  There are alternate hard problems such as elliptic curve cryptography that are not based on prime number factorization.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 17, 2014 at 16:20
+
+
+
+
+
+
+AJ HendersonAJ Henderson
+
+23922 silver badges66 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Primes are still very much relevant for ECC (and discrete log-based systems in general): you want to operate in a group of prime order in order to escape algorithms like Pohlig-Hellman. This is even more the case for systems based on the discrete log problem in finite fields, since the index calculus algorithm is essentially an integer-factoring one.
+$\endgroup$
+
+– fkraiem
+
+Dec 18, 2014 at 4:39
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@fkraiem - ok, maybe I need to learn more about ECC, but if it is still relative prime factoring based, then why is it more resistant to quantum factorization?
+$\endgroup$
+
+– AJ Henderson
+
+Dec 18, 2014 at 4:50
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Algorithms like Pohlig-Hellman try to speed up discrete log computations by factoring the order of the group, but if the group has prime order, as is the case in any serious implementation, it can't be factored so those algorithms are totally useless, and you're safe. But the fact that we do need to take a group of prime order shows that primes are relevant, if not in exactly the same way as with RSA.
+$\endgroup$
+
+– fkraiem
+
+Dec 18, 2014 at 4:57
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@fkraiem - ok, that kind of makes sense but is a bit mathy for me since it's been 9 years since I last did my graduate level crypto and haven't been using it much since then.  If you have an idea how to better rewrite the last paragraph, please feel free to suggest an edit.  I'm not confident I'd get the correction right.
+$\endgroup$
+
+– AJ Henderson
+
+Dec 18, 2014 at 5:36
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Good question. Most of the above commentators got it mostly correct, but they are each telling one part of the story and not describing other aspects in one post. Here is the more full reasons in one post:
+For starters as a general rule understand it is public key cryptography that requires quantitative methods and specifically number theory. This is part of a larger picture with using modulo arithmetic and prime numbers as part of this type of math. Although it is not necessary to have an in depth understanding of specific aspects number theory like groups (Abelian) to work with cryptography it does make public key cryptography easier to understand and use. More on the important details later.If you cannot work with modulo arithmetic that would be my first suggestion to learn.
+First for asymmetric cryptography there are two theorems that apply:
+1.) Fermat's theorem which states: $m^{p-1} - 1 \bmod p=0$ and can also be seen with this notation: $m^p \equiv m \pmod p$ which means: For any prime $p$ and any positive integer $m$ not divisible by $p$ which all results in getting back the same remainder.
+2.) Euler's Totient Function aka phi function: $\varphi(n)$ which is the number of integers less than $n$ and relatively prime to $n$.
+Euler's theorem related to the totient (NOT quotient) $m^{\varphi(n)} = 1 \bmod n$. Euler's theorem states that there is at least one value of $p$ satisfies the relation $\varphi(p)$; but there could be more.
+In symmetric encryption Diffie Hellman utilizes primes and it plays a role with public key cryptography but this too can seem tricky... there are generally two parts with key exchanges within protocols one part asymmetric and then symmetric key formation/sharing.That is for a different post. 
+The use of primes for Diffie Hellman is as follows: the whole basis is modulo arithmetic as the earlier example, but it also combines modular exponentiation.  
+Now yes prime factorization can be important for certain applications within number complexity theory but this is not universal. 
+I will leave one link and a suggestion on prime numbers:
+http://www.mersenne.org/
+Taken from Introduction to Algorithms (2009) MIT Press Chapter 11:
+Large primes are not so are and they can be found with relative ease, however, they are more secure due to not being able to factor the product of large primes. As others have mentioned the discrete logarithms serve as one example. 
+I also strongly suggest either Daniel Boneh's or Jonathan Katz's free online Coursera courses in Cryptography. 
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 4, 2018 at 8:10
+
+
+
+
+
+
+fgrieu♦
+
+141k1212 gold badges310310 silver badges593593 bronze badges
+
+
+
+
+
+
+
+
+            answered Dec 23, 2014 at 22:30
+
+
+
+
+
+
+Jacob E MackJacob E Mack
+
+16366 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I will add more later about Diffie Hellman
+$\endgroup$
+
+– Jacob E Mack
+
+Dec 23, 2014 at 22:34
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Consider the discrete logarithm problem. If the group order does not contain large prime factor, you can solve the problem for each of small prime factors and "combine" them into the full solution.
+So, it can be described that here primes are needed because they can't be divided into smaller things.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 18, 2014 at 22:49
+
+
+
+
+
+
+FractaliceFractalice
+
+3,0971212 silver badges1010 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Well they can be divided but it is a more complex polynomial time issue that helps reduce the attacks to negligible when certain conditions hold. –
+$\endgroup$
+
+– Jacob E Mack
+
+Dec 25, 2014 at 18:32
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highly active question. Earn 10 reputation (not counting the association bonus) in order to answer this question. The reputation requirement helps protect this question from spam and non-answer activity.
+                                
+                            
+
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged encryptionprime-numbers or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+4
+
+RSA primes vs. largest known primes
+
+
+
+3
+
+Why are huge prime numbers important in cryptography?
+
+
+
+24
+
+RSA with probable primes
+
+
+
+3
+
+Efficient algorithm for finding Sophie Germain primes
+
+
+
+7
+
+Distinguishing generators of RSA primes and moduli
+
+
+
+8
+
+Distance between consecutive primes distribution
+
+
+
+8
+
+Is there a pseudo message that will encrypt and decrypt correctly if one of the primes is a pseudo prime in RSA
+
+
+
+6
+
+Finding large devious primes
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    What happens to the souls of non-evil creatures when they reach their aligned outer plane?
+                
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    How to cut a large piece of marble 1” thick
+                
+
+
+
+                    How to make the battle against Tiamat last longer?
+                
+
+
+
+                    70s or 80s film or TV show with a handgun that fires backwards and a torture chamber that burns the skin off and chars the victims black
+                
+
+
+
+                    Can secondary dominant have 2 tritones with addition of b9?
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+                    Cryptic Clue Explanation: Tree that's sported to keep visitors out at university (3)
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Can someone explain this unexpected construction?
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    Do reflective warning triangles blow away in wind storms?
+                
+
+
+
+                    Brake Line no Longer Connected to Brake Lever
+                
+
+
+
+                    How to make Bash remove quotes after parameter expansion?
+                
+
+
+
+                    Preventing Javascript in a browser from connecting to servers
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    Reproducing Ómar Rayo's "Fresh Fog" Painting
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    How could the switch from steam to diesel locomotives be delayed 20-30 years?
+                
+
+
+
+                    Have any countries managed to reduce immigration by a significant margin in the absence of economic problems?
+                
+
+
+
+                    What is the origin of the idiom "say the word"?
+                
+
+
+
+                    Saint Augustine letter to Nebridio
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptography
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

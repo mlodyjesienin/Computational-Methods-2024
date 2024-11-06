@@ -1,0 +1,2724 @@
+
+
+
+
+Why are primes important in cryptography? - Stack Overflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+Stack Overflow
+
+
+
+About
+
+
+
+						Products
+					
+
+
+OverflowAI
+
+
+
+
+
+
+
+Stack Overflow
+Public questions & answers
+
+
+
+
+Stack Overflow for Teams
+Where developers & technologists share private knowledge with coworkers
+
+
+
+
+Talent
+
+								Build your employer brand
+							
+
+
+
+
+Advertising
+Reach developers & technologists worldwide
+
+
+
+
+Labs
+The future of collective knowledge sharing
+
+
+
+About the company
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Stack Overflow
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Meta Stack Overflow
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+                    2024 Developer survey is here and we would like to hear from you!
+                
+Take the 2024 Developer Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Companies
+
+
+
+
+
+Labs
+
+
+
+
+
+
+
+
+ Jobs
+
+
+
+
+
+
+ Discussions
+
+
+
+
+
+
+Collectives
+
+
+
+
+
+
+
+
+                                        Communities for your favorite technologies.  Explore all Collectives
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+
+                    Learn more about Collectives
+                
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+Get early access and see previews of new features.
+ Learn more about Labs
+
+
+
+
+
+
+
+Why are primes important in cryptography?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+15 years, 5 months ago
+
+
+Modified
+2 years, 2 months ago
+
+
+Viewed
+                        205k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            211
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+One thing that always strikes me as a non-cryptographer: Why is it so important to use prime numbers? What makes them so special in cryptography?
+Does anyone have a simple short explanation? (I am aware that there are many primers and that Applied Cryptography is the Bible, but as said: I am not looking to implement my own cryptographic algorithm, and the stuff that I found just made my brain explode - no ten pages of math formulas please).
+
+
+
+
+cryptographyprimes
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 13, 2022 at 16:18
+
+
+
+
+
+
+Wai Ha Lee
+
+8,7149393 gold badges5959 silver badges9393 bronze badges
+
+
+
+
+
+
+
+
+            asked Jan 13, 2009 at 17:12
+
+
+
+
+
+
+Michael StumMichael Stum
+
+179k118118 gold badges402402 silver badges538538 bronze badges
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+1
+
+
+
+
+A couple observations: 1. People below mention that "prime factorization of large numbers takes a long time". Actually, the same is true for any factorization. What's important is that any integer != 0 has a unique factorization as product of primes (including 1, which has decomposition of length 0).
+
+– TT_ stands with Russia
+
+Nov 28, 2013 at 20:28
+
+
+
+
+
+
+1
+
+
+
+
+2. Please check my explanation why primes are important for hash-functions: stackoverflow.com/questions/1145217/… It is related to the property of polynomials with coefficients belonging to a field (which is probably not a short explanation).
+
+– TT_ stands with Russia
+
+Nov 28, 2013 at 20:29
+
+
+
+
+
+
+4
+
+
+
+
+Overly simple short explanation → Solve: a * b = 91.  Now, solve: 13 * 7 = x.  The second equation is much quicker to solve (for a human or a computer).
+
+– Dem Pilafian
+
+Apr 17, 2019 at 6:54
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        14 Answers
+                                    14
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Trending (recent votes count more)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            224
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most basic and general explanation: cryptography is all about number theory, and all integer numbers (except 0 and 1) are made up of primes, so you deal with primes a lot in number theory.
+More specifically, some important cryptographic algorithms such as RSA critically depend on the fact that prime factorization of large numbers takes a long time. Basically you have a "public key" consisting of a product of two large primes used to encrypt a message, and a "secret key" consisting of those two primes used to decrypt the message. You can make the public key public, and everyone can use it to encrypt messages to you, but only you know the prime factors and can decrypt the messages. Everyone else would have to factor the number, which takes too long to be practical, given the current state of the art of number theory.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Feb 24, 2020 at 13:04
+
+
+
+
+
+
+Arcturus B
+
+5,41144 gold badges3333 silver badges5151 bronze badges
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:19
+
+
+
+
+
+
+Michael BorgwardtMichael Borgwardt
+
+345k7979 gold badges484484 silver badges723723 bronze badges
+
+
+
+
+
+
+
+9
+
+
+
+
+
+
+9
+
+
+
+
+As we enter the era of quantum computing it seems appropriate to note that the factorization of primes using a quantum computer can be achieved in polynomial time usiong Shor's Algorithm  en.wikipedia.org/wiki/Shor%27s_algorithm  It's likely that computers already exist which can decrypt public key encryption like RSA
+
+– stujo
+
+Sep 13, 2016 at 21:39
+
+
+
+
+
+
+22
+
+
+
+
+@stujo: you're massively overestimating the state of quantum computing. It is in fact certain that no such computer exists. The largest number that has been factored using Shor's Algorithm and bleeding-edge research efforts in quantum hardware is 21. That's not 21 bits, but the number 21, prime factors 3 and 7.
+
+– Michael Borgwardt
+
+Sep 14, 2016 at 7:36
+
+
+
+
+
+
+1
+
+
+
+
+I'm not certain what data is current, it's tricky to get info on the latest work, I believe that was back in 2012, this article is from 2014 (m.phys.org/news/2014-11-largest-factored-quantum-device.html) Have we seen any public data from 2016? Not to exclude what might be classified. Although it can't run Shors Algorithm, D-Wave is now over 1000 qbits
+
+– stujo
+
+Sep 14, 2016 at 14:44
+
+
+
+
+
+
+1
+
+
+
+
+@stujo: same principles will rule when all of us use Quantum CPUs, as primes can keep growing, its all about finding larger, impractical for quantum CPUs, the problem exists if some use regular CPUS to create keys, and some use Quantum CPUs to break those. The power of quantum CPUs, as I understand is that it uses qbits, each qbit can have 3 values, thus the new technology is base 3 not base 2. a 64 qbits CPU would have 3^64 combinations in a word. Don't know how it impacts performance.
+
+– juanmf
+
+Jun 27, 2017 at 5:07
+
+
+
+
+
+
+6
+
+
+
+
+@juanmf: your understanding of quantum computing is completely wrong. It has absolutely nothing to do with having 3 values, that would be utterly uninteresting. The details are very complex, but the effect is that some quantum algorithms can solve problems in a lower Big-O complexity than "normal" algorithms on non-quantum hardware.
+
+– Michael Borgwardt
+
+Feb 12, 2018 at 21:18
+
+
+
+
+
+
+
+
+
+
+ | 
+Show 4 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            142
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple? Yup.
+If you multiply two large prime numbers, you get a huge non-prime number with only two (large) prime factors.
+Factoring that number is a non-trivial operation, and that fact is the source of a lot of Cryptographic algorithms. See one-way functions for more information.
+Addendum:
+Just a bit more explanation.  The product of the two prime numbers can be used as a public key, while the primes themselves as a private key.  Any operation done to data that can only be undone by knowing one of the two factors will be non-trivial to unencrypt.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jan 13, 2009 at 20:35
+
+
+
+
+
+
+Jason Coco
+
+78.2k2121 gold badges185185 silver badges180180 bronze badges
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:15
+
+
+
+
+
+
+user54650user54650
+
+4,40822 gold badges2525 silver badges2727 bronze badges
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+3
+
+
+
+
+Also worth noting that, in addition to the factorization problem, a lot of modern crypto also (or instead) relies on the discrete logarithm problem. Both are "one-way" functions: it's easy to take known-inputs and compute an answer, but hard to take an answer and compute those inputs.
+
+– nezroy
+
+Jan 13, 2009 at 18:18
+
+
+
+
+
+
+5
+
+
+
+
+Linking this explanation to the term "one-way function" would be helpful: en.wikipedia.org/wiki/One-way_function
+
+– Chris Conway
+
+Jan 13, 2009 at 19:00
+
+
+
+
+
+
+
+
+
+
+But if public key can be used to encrypt why it can not be used to do the opposite?
+
+– jayarjo
+
+Apr 6, 2019 at 17:27
+
+
+
+
+
+
+1
+
+
+
+
+@jayarjo But who said it can't be used to decrypt?  Welcome to the world of digital signatures (produced by private keys), publicly verifiable using public keys!
+
+– Liviu Chircu
+
+Nov 11, 2021 at 11:15
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            48
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is a very simple and common example.
+The RSA encryption algorithm which is commonly used in secure commerce web sites, is based on the fact that it is easy to take two (very large) prime numbers and multiply them, while it is extremely hard to do the opposite - meaning: take a very large number, given which it has only two prime factors, and find them.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 14, 2017 at 8:51
+
+
+
+
+
+
+Stephen Turner
+
+7,22455 gold badges5353 silver badges7171 bronze badges
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:15
+
+
+
+
+
+
+Yuval AdamYuval Adam
+
+164k9595 gold badges308308 silver badges399399 bronze badges
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+30
+
+
+
+
+Just FYI, the number you get from multiplying two primes is called a semi-prime.
+
+– Matthew Brubaker
+
+Jan 13, 2009 at 17:22
+
+
+
+
+
+
+1
+
+
+
+
+How large is the prime numbers used in RSA?
+
+– KevinBui
+
+Feb 18, 2022 at 7:47
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            18
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's not so much the prime numbers themselves that are important, but the algorithms that work with primes. In particular, finding the factors of a number (any number).
+As you know, any number has at least two factors. Prime numbers have the unique property in that they have exactly two factors: 1 and themselves.
+The reason factoring is so important is mathematicians and computer scientists don't know how to factor a number without simply trying every possible combination. That is, first try dividing by 2, then by 3, then by 4, and so forth. If you try to factor a prime number--especially a very large one--you'll have to try (essentially) every possible number between 2 and that large prime number. Even on the fastest computers, it will take years (even centuries) to factor the kinds of prime numbers used in cryptography.
+It is the fact that we don't know how to efficiently factor a large number that gives cryptographic algorithms their strength. If, one day, someone figures out how to do it, all the cryptographic algorithms we currently use will become obsolete. This remains an open area of research.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:35
+
+
+
+
+
+
+Barry BrownBarry Brown
+
+20.5k1515 gold badges7070 silver badges106106 bronze badges
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+11
+
+
+
+
+You actually only have to test the prime numbers up to the square root of the number you are trying to factor.
+
+– Matthew Brubaker
+
+Jan 13, 2009 at 19:27
+
+
+
+
+
+
+3
+
+
+
+
+I know. It was a detail I "overlooked" in the name of simplicity.
+
+– Barry Brown
+
+Jan 13, 2009 at 20:35
+
+
+
+
+
+
+
+
+
+
+@MatthewBrubaker Would you mind explaining why this is? I don't really understand.
+
+– Kartik Chugh
+
+Aug 12, 2016 at 21:00
+
+
+
+
+
+
+4
+
+
+
+
+@KartikChughヅ say n is not prime & n = a * b. If a > sqrt(n), b must be smaller and vice-versa, else a * b > n itself which would negate our initial claim. So to check for prime, we only check until sqrt.
+
+– Abhinav Gauniyal
+
+Aug 13, 2016 at 3:06
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            13
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Because nobody knows a fast algorithm to factorize an integer into its prime factors. Yet, it is very easy to check if a set of prime factors multiply to a certain integer. 
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:19
+
+
+
+
+
+
+nes1983nes1983
+
+15.7k44 gold badges4545 silver badges6464 bronze badges
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+1
+
+
+
+
+Interestingly enough, it is already possible in fast time to find out IF a number is prime.
+
+– nes1983
+
+Jan 13, 2009 at 17:47
+
+
+
+
+
+
+
+
+
+
+There's a missing "if the prime factors are large" here.
+
+– Ben Voigt
+
+Jun 3, 2013 at 15:32
+
+
+
+
+
+
+
+
+
+
+@Ben: It isn't missing. The problem is hard in general. Note that problems that are hard in general may have easy cases. In this case, small primes are by no means the only easy cases.
+
+– nes1983
+
+Jun 3, 2013 at 20:13
+
+
+
+
+
+
+2
+
+
+
+
+Nobody knows "in public". It might be possible that the intelligence agencies of the various world governments have techniques they aren't sharing. They hire huge numbers of math grads. For example the NSA secretly promoted random prime generation by "Dual EC_DRBG", which they knew was weak, as part of a standard crypto scheme for public use. bits.blogs.nytimes.com/2013/09/10/…
+
+– don bright
+
+Jan 10, 2015 at 20:36
+
+
+
+
+
+
+
+
+
+
+
+
+
+don: the snowden documents seem to reveal that that isn't the case. they draw a pretty conclusive picture that, (by and large, there could be corners), the NSA cannot decrypt encrypted data through special math magic only they know. Schneier discussed the issue extensively.
+
+– nes1983
+
+Jan 15, 2015 at 7:54
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            12
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There are some good resources for ramping up on crypto. Here's one:
+
+http://research.microsoft.com/en-us/groups/crypto/firstcrypto.aspx
+
+From that page:
+
+In the most commonly used public-key
+  cryptography system, invented by Ron
+  Rivest, Adi Shamir, and Len Adleman in
+  1977, both the public and the private
+  keys are derived from a pair of large
+  prime numbers according to a
+  relatively simple mathematical
+  formula. In theory, it might be
+  possible to derive the private key
+  from the public key by working the
+  formula backwards. But only the
+  product of the large prime numbers is
+  public, and factoring numbers of that
+  size into primes is so hard that even
+  the most powerful supercomputers in
+  the world cant break an ordinary
+  public key.
+
+Bruce Schneier's book Applied Cryptography is another. I highly recommend that book; it's fun reading.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:17
+
+
+
+
+
+
+Brian ClapperBrian Clapper
+
+26k77 gold badges6666 silver badges6565 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To be a little more concrete about how RSA uses properties of prime numbers, the RSA algorithm depends critically upon Euler's Theorem, which states that for relatively prime numbers "a" and "N", a^e is congruent to 1 modulo N, where e is the Euler's totient function of N.
+Where do primes come into that?  To compute the Euler's totient function of N efficiently requires knowing the prime factorization of N.  In the case of the RSA algorithm, where N = pq for some primes "p" and "q", then e = (p - 1)(q - 1) = N - p - q + 1.  But without knowing p and q, computation of e is very difficult.
+More abstractly, many crypotgraphic protocols use various trapdoor functions, functions which are easy to compute but difficult to invert.  Number theory is a rich source of such trapdoor functions (such as multiplication of large prime numbers), and prime numbers are absolutely central to number theory.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jan 13, 2009 at 22:12
+
+
+
+
+
+
+Sam Hasler
+
+12.6k1010 gold badges7272 silver badges106106 bronze badges
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 20:23
+
+
+
+
+
+
+        EricEric
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            7
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I would suggest the book A Mathematical Journey In Code. The book has a nice down to earth feel, which is surprising, since it is about cryptography.  The book summarizes Sarah Flannery’s journey from learning puzzles as a child to creating the Cayley-Purser (CP) algorithm at the age of 16. It gives an amazingly detailed explanation of one way functions, number theory, and prime numbers and how they relate to cryptography.
+What makes this book even more specific to your question is Sarah tried to implement a new public key algorithm using matrix's. It was much faster then using prime numbers but a loop hole was found that could exploit it. It turns out her algorithm was better used as a private encryption mechanism. The book is a great testament to using prime numbers for encryption as it has stood the test of time and the challenges of very smart individuals.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Oct 2, 2009 at 17:00
+
+
+
+
+
+
+Jason RoweJason Rowe
+
+6,25611 gold badge3434 silver badges3636 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            6
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One more resource for you.  Security Now! episode 30(~30 minute podcast, link is to the transcript) talks about cryptography issues, and explains why primes are important.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 18:12
+
+
+
+
+
+
+Bill the LizardBill the Lizard
+
+402k210210 gold badges570570 silver badges886886 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            6
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm not a mathematician or cryptician, so here's an outside observation in layman's terms (no fancy equations, sorry).
+This whole thread is filled with explanations about HOW primes are used in cryptography, it's hard to find anyone in this thread explaining in an easy way WHY primes are used ... most likely because everyone takes that knowledge for granted.
+Only looking at the problem from the outside can generate a reaction like; but if they use the sums of two primes, why not create a list of all possible sums any two primes can generate?
+On this site there's a list of 455,042,511 primes, where the highest primes is 9,987,500,000 (10 digits).
+The largest known prime (as of feb 2015) is 2 to the power of 257,885,161 − 1 which is 17,425,170 digits. This means that there's no point keeping a list of all the known primes and much less all their possible sums. It's easier to take a number and check if it's a prime.
+Calculating big primes in itself is a monumental task, so reverse calculating two primes that has been multiplied with each other both cryptographers and mathematicians would say is hard enough ... today.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Mar 18, 2015 at 13:20
+
+
+
+
+
+
+CalmoCalmo
+
+7711 silver badge11 bronze badge
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+3
+
+
+
+
+Only your last paragraph is really valid. The argument of sums can be said for any composite number too (there is a large range [technically infinitely large], storage of all sums is infeasible/stupid). Also the sums of primes doesn't hold that much relevance in cryptography, more important (usually, as in the case of RSA) is their product. Also, by reverse calculating you probably mean factoring. That'll probably help with what you mean there.
+
+– initramfs
+
+May 29, 2015 at 8:22
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            4
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptographic algorithms generally rely for their security on having a "difficult problem". Most modern algorithms seem to use the factoring of very large numbers as their difficult problem - if you multiply two large numbers together, computing their factors is "difficult" (i.e. time-consuming). If those two numbers are prime numbers, then there is only one answer, which makes it even more difficult, and also guarantees that when you find the answer, it's the right one, not some other answer that just happens to give the same result.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:19
+
+
+
+
+
+
+gkrogersgkrogers
+
+8,26633 gold badges3030 silver badges3636 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            4
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I think what are important in cryptography are not primes itself, but it is the difficulty of prime factorization problem
+Suppose you have very very large integer which is known to be product of two primes m and n, it is not easy to find what are m and n. Algorithm such as RSA depends on this fact.
+By the way, there is a published paper on algorithm which can "solve" this prime factorization problem in acceptable time using quantum computer. So newer algorithms in cryptography may not rely on this "difficulty" of prime factorization anymore when quantum computer comes to town :)
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 13, 2009 at 17:27
+
+
+
+
+
+
+GantGant
+
+29.8k66 gold badges4747 silver badges6666 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Because factorization algorithms speed up considerably with each factor found.  Making both private keys prime ensures the first factor found will also be the last.  Ideally, both private keys will also be nearly equal in value since only the strength of the weaker key matters.
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 24, 2017 at 20:47
+
+
+
+
+
+
+MichaelMichael
+
+3933 bronze badges
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+This look a bit redundant to me. A part from the weaker key part which could be commented to the top answer :)
+
+– Ulysse BN
+
+Jul 24, 2017 at 21:23
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            -2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prime numbers are mainly used in cryptography since it consumes considerable time in determining whether a given number is prime number or not. For the hacker if any algorithm takes lot of time to break the code it becomes useless for them
+
+
+
+
+
+
+
+
+Share
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jun 19, 2013 at 9:21
+
+
+
+
+
+
+Chengappa BSChengappa BS
+
+1311 bronze badge
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+8
+
+
+
+
+Figuring out if a number is a prime is cheap and we need it to be cheap. How else would we know that we chose primes as our prime factors in RSA or a prime as modulus in finite field crypto? What's expensive is factoring a large composite number into its large prime factors.
+
+– CodesInChaos
+
+Jun 21, 2013 at 6:41
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highly active question. Earn 10 reputation (not counting the association bonus) in order to answer this question. The reputation requirement helps protect this question from spam and non-answer activity.
+                                
+                            
+
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged cryptographyprimes or ask your own question.                                
+
+
+
+
+
+
+
+                            Featured on Meta
+                        
+
+
+ 
+
+The 2024 Developer Survey Is Live
+
+
+
+
+ 
+
+The return of Staging Ground to Stack Overflow
+
+
+
+
+ 
+
+The [tax] tag is being burninated
+
+
+
+
+ 
+
+Policy: Generative AI (e.g., ChatGPT) is banned
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Linked
+
+
+
+449
+
+Why should hash functions use a prime number modulus?
+
+
+
+3
+
+Sieve of Eratosthenes for large numbers c++
+
+
+
+4
+
+finding the maximum product of 2 primes below a given number
+
+
+
+0
+
+Divisibility represented by Boolean logic (satisfiability)
+
+
+
+
+Related
+
+
+
+6
+
+prime numbers c#
+
+
+
+4
+
+Assistance finding prime numbers for cryptosystem
+
+
+
+12
+
+RSA and prime-generator algorithms
+
+
+
+2
+
+Scheme prime numbers
+
+
+
+0
+
+Java Prime Numbers
+
+
+
+54
+
+How many prime numbers are there (available for RSA encryption)?
+
+
+
+26
+
+Why do programming contests want answers modulo some large prime?
+
+
+
+0
+
+Prime numbers in C
+
+
+
+1
+
+Prime Number Java
+
+
+
+6
+
+Why are prime numbers used in Diffie-Hellman key exchange?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Should I ask for authorship or ignore?
+                
+
+
+
+                    Having friends who are talented is great, but it can also be ___ at times
+                
+
+
+
+                    US(Florida) - Can I post publicly against the grift from my landlord
+                
+
+
+
+                    Can secondary dominant have 2 tritones with addition of b9?
+                
+
+
+
+                    Word for a country declaring independence from an empire
+                
+
+
+
+                    Cut out rotated rectangle shape
+                
+
+
+
+                    Are there statements so self-evident that writing a proof for them is meaningless? Is this an example of one?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    Why are only projective measurements considered in nonlocal games to get optimal strategy?
+                
+
+
+
+                    is_decimal Function Implementation in C++
+                
+
+
+
+                    The group monad
+                
+
+
+
+                    How could the switch from steam to diesel locomotives be delayed 20-30 years?
+                
+
+
+
+                    Starlink Satellite Orbits
+                
+
+
+
+                    Non-universal and non classically simulatable gate set?
+                
+
+
+
+                    Find characters common among all strings
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Why are we abbreviating Player's Handbook to PHB?
+                
+
+
+
+                    Executable files with a bytecode compiler/interpreter
+                
+
+
+
+                    What is the maximum number of fish possible in your tank?
+                
+
+
+
+                    Can someone explain the damage distrubution on this aircraft that flew through a hailstorm?
+                
+
+
+
+                    Cryptic Clue Explanation: Tree that's sported to keep visitors out at university (3)
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    How to make the battle against Tiamat last longer?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Overflow
+
+Questions
+Help
+
+
+
+Products
+
+Teams
+Advertising
+Collectives
+Talent
+
+
+
+Company
+
+About
+Press
+Work Here
+Legal
+Privacy Policy
+Terms of Service
+Contact Us
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

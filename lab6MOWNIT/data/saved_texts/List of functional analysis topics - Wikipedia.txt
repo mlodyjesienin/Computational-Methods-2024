@@ -1,0 +1,703 @@
+
+
+
+
+List of functional analysis topics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Hilbert space
+
+
+
+
+
+
+
+
+2
+Functional analysis, classic results
+
+
+
+
+
+
+
+
+3
+Operator theory
+
+
+
+
+
+
+
+
+4
+Banach space examples
+
+
+
+
+
+
+
+
+5
+Real and complex algebras
+
+
+
+
+
+
+
+
+6
+Topological vector spaces
+
+
+
+
+
+
+
+
+7
+Amenability
+
+
+
+
+
+
+
+
+8
+Wavelets
+
+
+
+
+
+
+
+
+9
+Quantum theory
+
+
+
+
+
+
+
+
+10
+Probability
+
+
+
+
+
+
+
+
+11
+Non-linear
+
+
+
+
+
+
+
+
+12
+History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of functional analysis topics
+
+
+
+2 languages
+
+
+
+
+Bahasa IndonesiaTürkçe
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+This is a list of functional analysis topics.
+See also: Glossary of functional analysis.
+
+
+Hilbert space[edit]
+
+Bra–ket notation
+Definite bilinear form
+Direct integral
+Euclidean space
+Fundamental theorem of Hilbert spaces
+Gram–Schmidt process
+Hellinger–Toeplitz theorem
+Hilbert space
+Inner product space
+Legendre polynomials
+Matrices
+Mercer's theorem
+Min-max theorem
+Normal vector
+Orthonormal basis
+Orthogonal complement
+Orthogonalization
+Parallelogram law
+Normal matrix, normal operator
+Orthogonal matrix
+Unitary matrix
+Semi-Hilbert space
+Diagonal matrix
+Eigenvector, eigenvalue, eigenfunction
+Hermitian operator self-adjoint operator, Hermitian adjoint
+Hilbert matrix
+Shift operator
+Symmetric matrix
+Parseval's identity
+Rayleigh quotient
+Reproducing kernel Hilbert space
+Riesz representation theorem
+Rigged Hilbert space
+Spectral theorem, Spectral theory
+Trace class
+Functional analysis, classic results[edit]
+
+Normed vector space
+Unit ball
+Banach space
+Hahn–Banach theorem
+Dual space
+Predual
+Weak topology
+Reflexive space
+Polynomially reflexive space
+Baire category theorem
+Open mapping theorem (functional analysis)
+Closed graph theorem
+Uniform boundedness principle
+Arzelà–Ascoli theorem
+Banach–Alaoglu theorem
+Measure of non-compactness
+Banach–Mazur theorem
+Operator theory[edit]
+
+Bounded linear operator
+Continuous linear extension
+Compact operator
+Approximation property
+Invariant subspace
+Spectral theory
+Spectrum of an operator
+Essential spectrum
+Spectral density
+Topologies on the set of operators on a Hilbert space
+norm topology
+ultrastrong topology
+strong operator topology
+weak operator topology
+weak-star operator topology
+ultraweak topology
+Singular value (or S-number)
+Fredholm operator
+Fuglede's theorem
+Compression (functional analysis)
+Friedrichs extension
+Stone's theorem on one-parameter unitary groups
+Stone–von Neumann theorem
+Functional calculus
+Continuous functional calculus
+Borel functional calculus
+Hilbert–Pólya conjecture
+Banach space examples[edit]
+Lp space
+Hardy space
+Sobolev space
+Tsirelson space
+ba space
+Real and complex algebras[edit]
+
+Uniform norm
+Matrix norm
+Spectral radius
+Normed division algebra
+Stone–Weierstrass theorem
+Banach algebra
+*-algebra
+B*-algebra
+C*-algebra
+Universal C*-algebra
+Spectrum of a C*-algebra
+Positive element
+Positive linear functional
+operator algebra
+nest algebra
+reflexive operator algebra
+Calkin algebra
+Gelfand representation
+Gelfand–Naimark theorem
+Gelfand–Naimark–Segal construction
+Von Neumann algebra
+Abelian von Neumann algebra
+von Neumann double commutant theorem
+Commutant, bicommutant
+Topological ring
+Noncommutative geometry
+Disk algebra
+Colombeau algebra
+Topological vector spaces[edit]
+
+Barrelled space
+Bornological space
+Bourbaki–Alaoglu theorem
+Dual pair
+F-space
+Fréchet space
+Krein–Milman theorem
+Locally convex topological vector space
+Mackey topology
+Mackey–Arens theorem
+Montel space
+Polar set
+Polar topology
+Seminorm
+Amenability[edit]
+Amenable group
+Von Neumann conjecture
+Wavelets[edit]
+
+Basis function
+Daubechies wavelet
+Haar wavelet
+Morlet wavelet
+Mexican hat wavelet
+Complex Mexican hat wavelet
+Hermitian wavelet
+Discrete wavelet transform
+Continuous wavelet
+Continuous wavelet transform
+Quantum theory[edit]
+See also list of mathematical topics in quantum theory
+
+
+Mathematical formulation of quantum mechanics
+Observable
+Operator (physics)
+Quantum state
+Pure state
+Fock state, Fock space
+Density state
+Coherent state
+Heisenberg picture
+Density matrix
+Quantum logic
+Quantum operation
+Wightman axioms
+Probability[edit]
+Free probability
+Bernstein's theorem
+Non-linear[edit]
+Fixed-point theorems in infinite-dimensional spaces
+History[edit]
+Stefan Banach (1892–1945)
+Hugo Steinhaus (1887–1972)
+John von Neumann (1903-1957)
+Alain Connes (born 1947)
+Earliest Known Uses of Some of the Words of Mathematics: Calculus & Analysis
+Earliest Known Uses of Some of the Words of Mathematics: Matrices and Linear Algebra
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_functional_analysis_topics&oldid=1166192453"
+Categories: Functional analysisMathematics-related listsHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 19 July 2023, at 23:38 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

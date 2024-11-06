@@ -1,0 +1,626 @@
+Basic differential equations in fluid mechanics | PPTSubmit SearchUploadBasic differential equations in fluid mechanics•Download as PPT, PDF•21 likes•18,768 viewsAI-enhanced descriptionTarun GehlotFollowThis document provides an overview of fluid dynamics concepts including the continuity equation, Navier-Stokes equations, and examples of their application to laminar flow situations. It derives the 1-dimensional continuity equation and uses it to describe flow between parallel plates. It then derives the equation for laminar flow velocity profile between infinite horizontal parallel plates based on the Navier-Stokes equations and applies it to calculate discharge rate. Finally, it provides an example problem calculating discharge rate and power for an oil skimming device.Read lessRead moreReportShareReportShare1 of 35Download nowRecommendedInseInseSemereab Demissie Fluid dynamics 1Fluid dynamics 1guest7b51c7 XcChapter 4. diffrentialChapter 4. diffrentialkidanemariam tesera fluid mechanicsTWO DIMENSIONAL STEADY STATE HEAT CONDUCTIONTWO DIMENSIONAL STEADY STATE HEAT CONDUCTIONDebre Markos University This chapter contains:-.
+ Analytical Methods of two dimensional steady state heat conduction
+Finite difference Method application on two dimensional steady state heat conduction.
+Finite difference method on irregular shape of a system
+
+Fluid Mechanics Chapter 5. Dimensional Analysis and SimilitudeFluid Mechanics Chapter 5. Dimensional Analysis and SimilitudeAddisu Dagne Zegeye Introduction, Dimensional homogeneity, Buckingham pi theorem, Non dimensionalization of basic equations, Similitude, Significance of non-dimensional numbers in fluid flowsFluid MechanicsVortex flow and impulse momentumFluid MechanicsVortex flow and impulse momentumMohsin Siddique Fluid MechanicsNumerical methods for 2 d heat transferNumerical methods for 2 d heat transferArun Sarasan Numerical methods for 2 d heat transferApplication of vector integration Application of vector integration Varuna Kapuge Hear we have describe some application on vector integration.RecommendedInseInseSemereab Demissie Fluid dynamics 1Fluid dynamics 1guest7b51c7 XcChapter 4. diffrentialChapter 4. diffrentialkidanemariam tesera fluid mechanicsTWO DIMENSIONAL STEADY STATE HEAT CONDUCTIONTWO DIMENSIONAL STEADY STATE HEAT CONDUCTIONDebre Markos University This chapter contains:-.
+ Analytical Methods of two dimensional steady state heat conduction
+Finite difference Method application on two dimensional steady state heat conduction.
+Finite difference method on irregular shape of a system
+
+Fluid Mechanics Chapter 5. Dimensional Analysis and SimilitudeFluid Mechanics Chapter 5. Dimensional Analysis and SimilitudeAddisu Dagne Zegeye Introduction, Dimensional homogeneity, Buckingham pi theorem, Non dimensionalization of basic equations, Similitude, Significance of non-dimensional numbers in fluid flowsFluid MechanicsVortex flow and impulse momentumFluid MechanicsVortex flow and impulse momentumMohsin Siddique Fluid MechanicsNumerical methods for 2 d heat transferNumerical methods for 2 d heat transferArun Sarasan Numerical methods for 2 d heat transferApplication of vector integration Application of vector integration Varuna Kapuge Hear we have describe some application on vector integration.Fluid Mechanics Chapter 2 Part II. Fluids in rigid-body motionFluid Mechanics Chapter 2 Part II. Fluids in rigid-body motionAddisu Dagne Zegeye Fluids in rigid body motion, Pressure variation with rigid body motionTwo phase heat transferTwo phase heat transferZahra Ghorbanali In this slideshow, you can find boiling & condensation ways. I pointed to more usual ways more and the films are included too.Fluid Mechanics Chapter 4. Differential relations for a fluid flowFluid Mechanics Chapter 4. Differential relations for a fluid flowAddisu Dagne Zegeye Introduction, Acceleration field, Conservation of mass equation, Linear momentum equation, Energy equation, Boundary condition, Stream function, Vorticity and IrrotationalityPotential flowPotential flowTesfaye Kebede describe about potential flowBASIC EQUATIONS FOR ONE-DIMENSIONAL FLOW (Chapter 04)BASIC EQUATIONS FOR ONE-DIMENSIONAL FLOW (Chapter 04)Shekh Muhsen Uddin Ahmed EULER’S EQUATION OF MOTION - Prof. Dr. Atıl BULUDimension less numbers in applied fluid mechanicsDimension less numbers in applied fluid mechanicstirath prajapati In dimensional analysis, a dimensionless quantity is a quantity to which no physical dimension is assigned. It is also known as a bare number or pure number or a quantity of dimension one[1] and the corresponding unit of measurement in the SI is one (or 1) unit[2][3] and it is not explicitly shown. Dimensionless quantities are widely used in many fields, such as mathematics, physics, chemistry, engineering, and economics. Examples of quantities, to which dimensions are regularly assigned, are length, time, and speed, which are measured in dimensional units, such as meter , second and meter per second. This is considered to aid intuitive understanding. However, especially in mathematical physics, it is often more convenient to drop the assignment of explicit dimensions and express the quantities without dimensions, e.g., addressing the speed of light simply by the dimensionless number 1.02 conservation equations02 conservation equationsanees solangi cFree convectionFree convectionselvakumar948 MODES OF HEAT TRANSFERFinite difference methodFinite difference methodDivyansh Verma Numerical Ordinary Differential Equation -  Finite Difference Methods for solving BVP'sForced convectionForced convectionvishnu5211931 heat transfer engineeringFundamentals of Finite Difference MethodsFundamentals of Finite Difference Methods1rj Fundamentals of Finite Difference MethodsDimensionless numberDimensionless numberanwesakar Dimensionless number in fluid dynamics and heat and mass transferFluid mechanicsFluid mechanicspreet yadav Fluid MechanicsA brief introduction to finite difference methodA brief introduction to finite difference methodPrateek Jha A brief introduction to finite difference methodVtu fluid mechanics unit-8 flow past immersed bodies problemsVtu fluid mechanics unit-8 flow past immersed bodies problemsGIEDEEAM SOLAR and Gajanana Publications, LIC Vtu fluid mechanics, unit-8 flow past immersed bodies problems2. tensor algebra jan 20132. tensor algebra jan 2013Olowosulu Emmanuel Heat Transfer_Forced ConvectionHeat Transfer_Forced ConvectionDarshan Panchal A presentation on the heat transfer with specific topic forced convection.heat conduction equationsheat conduction equationsZahir Baloch all about heat and mass transferApplication of Ordinary Differential Equation in civil engineeringApplication of Ordinary Differential Equation in civil engineeringEngr Mir Noor Ahmed Langove Application of Ordinary Differential Equation
+Fluid kinematicsFluid kinematicsAlva's Institute of Engg. & Technology Fluid Kinematics for VTU CBCS pptFormulationFormulationKumar  Beam theoryBeam theorybissla19 Eulee-Bernouly theory of the beamMore Related ContentWhat's hotFluid Mechanics Chapter 2 Part II. Fluids in rigid-body motionFluid Mechanics Chapter 2 Part II. Fluids in rigid-body motionAddisu Dagne Zegeye Fluids in rigid body motion, Pressure variation with rigid body motionTwo phase heat transferTwo phase heat transferZahra Ghorbanali In this slideshow, you can find boiling & condensation ways. I pointed to more usual ways more and the films are included too.Fluid Mechanics Chapter 4. Differential relations for a fluid flowFluid Mechanics Chapter 4. Differential relations for a fluid flowAddisu Dagne Zegeye Introduction, Acceleration field, Conservation of mass equation, Linear momentum equation, Energy equation, Boundary condition, Stream function, Vorticity and IrrotationalityPotential flowPotential flowTesfaye Kebede describe about potential flowBASIC EQUATIONS FOR ONE-DIMENSIONAL FLOW (Chapter 04)BASIC EQUATIONS FOR ONE-DIMENSIONAL FLOW (Chapter 04)Shekh Muhsen Uddin Ahmed EULER’S EQUATION OF MOTION - Prof. Dr. Atıl BULUDimension less numbers in applied fluid mechanicsDimension less numbers in applied fluid mechanicstirath prajapati In dimensional analysis, a dimensionless quantity is a quantity to which no physical dimension is assigned. It is also known as a bare number or pure number or a quantity of dimension one[1] and the corresponding unit of measurement in the SI is one (or 1) unit[2][3] and it is not explicitly shown. Dimensionless quantities are widely used in many fields, such as mathematics, physics, chemistry, engineering, and economics. Examples of quantities, to which dimensions are regularly assigned, are length, time, and speed, which are measured in dimensional units, such as meter , second and meter per second. This is considered to aid intuitive understanding. However, especially in mathematical physics, it is often more convenient to drop the assignment of explicit dimensions and express the quantities without dimensions, e.g., addressing the speed of light simply by the dimensionless number 1.02 conservation equations02 conservation equationsanees solangi cFree convectionFree convectionselvakumar948 MODES OF HEAT TRANSFERFinite difference methodFinite difference methodDivyansh Verma Numerical Ordinary Differential Equation -  Finite Difference Methods for solving BVP'sForced convectionForced convectionvishnu5211931 heat transfer engineeringFundamentals of Finite Difference MethodsFundamentals of Finite Difference Methods1rj Fundamentals of Finite Difference MethodsDimensionless numberDimensionless numberanwesakar Dimensionless number in fluid dynamics and heat and mass transferFluid mechanicsFluid mechanicspreet yadav Fluid MechanicsA brief introduction to finite difference methodA brief introduction to finite difference methodPrateek Jha A brief introduction to finite difference methodVtu fluid mechanics unit-8 flow past immersed bodies problemsVtu fluid mechanics unit-8 flow past immersed bodies problemsGIEDEEAM SOLAR and Gajanana Publications, LIC Vtu fluid mechanics, unit-8 flow past immersed bodies problems2. tensor algebra jan 20132. tensor algebra jan 2013Olowosulu Emmanuel Heat Transfer_Forced ConvectionHeat Transfer_Forced ConvectionDarshan Panchal A presentation on the heat transfer with specific topic forced convection.heat conduction equationsheat conduction equationsZahir Baloch all about heat and mass transferApplication of Ordinary Differential Equation in civil engineeringApplication of Ordinary Differential Equation in civil engineeringEngr Mir Noor Ahmed Langove Application of Ordinary Differential Equation
+Fluid kinematicsFluid kinematicsAlva's Institute of Engg. & Technology Fluid Kinematics for VTU CBCS pptWhat's hot (20)Fluid Mechanics Chapter 2 Part II. Fluids in rigid-body motionFluid Mechanics Chapter 2 Part II. Fluids in rigid-body motion Two phase heat transferTwo phase heat transfer Fluid Mechanics Chapter 4. Differential relations for a fluid flowFluid Mechanics Chapter 4. Differential relations for a fluid flow Potential flowPotential flow BASIC EQUATIONS FOR ONE-DIMENSIONAL FLOW (Chapter 04)BASIC EQUATIONS FOR ONE-DIMENSIONAL FLOW (Chapter 04) Dimension less numbers in applied fluid mechanicsDimension less numbers in applied fluid mechanics 02 conservation equations02 conservation equations Free convectionFree convection Finite difference methodFinite difference method Forced convectionForced convection Fundamentals of Finite Difference MethodsFundamentals of Finite Difference Methods Dimensionless numberDimensionless number Fluid mechanicsFluid mechanics A brief introduction to finite difference methodA brief introduction to finite difference method Vtu fluid mechanics unit-8 flow past immersed bodies problemsVtu fluid mechanics unit-8 flow past immersed bodies problems 2. tensor algebra jan 20132. tensor algebra jan 2013 Heat Transfer_Forced ConvectionHeat Transfer_Forced Convection heat conduction equationsheat conduction equations Application of Ordinary Differential Equation in civil engineeringApplication of Ordinary Differential Equation in civil engineering Fluid kinematicsFluid kinematics Similar to Basic differential equations in fluid mechanicsFormulationFormulationKumar  Beam theoryBeam theorybissla19 Eulee-Bernouly theory of the beamKinematics of a fluid elementKinematics of a fluid elementMohamed Yaser Kinematics of a fluid elementKinematics of a fluid elementMohamed Yaser CIVE 572 Final ProjectCIVE 572 Final Projectdanielrobb Open channel flow on a slope with a side basinTp3 siphonic roof drainage systems gutters(dr)Tp3 siphonic roof drainage systems gutters(dr)Marc Buitenhuis Peer instructions questions for basic quantum mechanicsPeer instructions questions for basic quantum mechanicsmolmodbasics Complex varibleComplex varibleNaveen Sihag Complex varibleComplex varibleNaveen Sihag [Vvedensky d.] group_theory,_problems_and_solution(book_fi.org)[Vvedensky d.] group_theory,_problems_and_solution(book_fi.org)Dabe Milli Application of  laplace(find k)Application of  laplace(find k)Hazirah Fiyra Tensor operationsTensor operationsUzma Nadeem Twnsor ProductLesson 16: Implicit DifferentiationLesson 16: Implicit DifferentiationMatthew Leingang lecture-2-not.pdflecture-2-not.pdfM.R POURMAND fluid mechanicAndreas EberleAndreas EberleBigMC "The Metropolis adjusted Langevin Algorithm
+for log-concave probability measures in high
+dimensions", talk by Andreas Elberle at the BigMC seminar, 9th June 2011, Paris
+Change of variables in double integralsChange of variables in double integralsTarun Gehlot Change of variables in double integralsChange of variables in double integralsTarun Gehlot Transients characteristicsTransients characteristicsAldo Uribe LegendreLegendredfsolanol Sheet1 simplifiedSheet1 simplifiedmarwan a ده تعديل للهوم وورك 
+
+Similar to Basic differential equations in fluid mechanics (20)FormulationFormulation Beam theoryBeam theory Kinematics of a fluid elementKinematics of a fluid element Kinematics of a fluid elementKinematics of a fluid element CIVE 572 Final ProjectCIVE 572 Final Project Tp3 siphonic roof drainage systems gutters(dr)Tp3 siphonic roof drainage systems gutters(dr) Peer instructions questions for basic quantum mechanicsPeer instructions questions for basic quantum mechanics Complex varibleComplex varible Complex varibleComplex varible [Vvedensky d.] group_theory,_problems_and_solution(book_fi.org)[Vvedensky d.] group_theory,_problems_and_solution(book_fi.org) Application of  laplace(find k)Application of  laplace(find k) Tensor operationsTensor operations Lesson 16: Implicit DifferentiationLesson 16: Implicit Differentiation lecture-2-not.pdflecture-2-not.pdf Andreas EberleAndreas Eberle Change of variables in double integralsChange of variables in double integrals Change of variables in double integralsChange of variables in double integrals Transients characteristicsTransients characteristics LegendreLegendre Sheet1 simplifiedSheet1 simplified More from Tarun GehlotMaterials 11-01228Materials 11-01228Tarun Gehlot polysaccharide for wast waterBinary relationsBinary relationsTarun Gehlot Binary relationsContinuity and  end_behaviorContinuity and  end_behaviorTarun Gehlot Continuity and  end_behaviorContinuity of functions by graph   (exercises with detailed solutions)Continuity of functions by graph   (exercises with detailed solutions)Tarun Gehlot Continuity of functions by graph   (exercises with detailed solutions)Factoring by the trial and-error methodFactoring by the trial and-error methodTarun Gehlot Factoring by the trial and-error methodIntroduction to finite element analysisIntroduction to finite element analysisTarun Gehlot Introduction to finite element analysisFinite elements : basis functionsFinite elements : basis functionsTarun Gehlot Finite elements : basis functionsFinite elements  for 2‐d problemsFinite elements  for 2‐d problemsTarun Gehlot Finite elements for 2‐d problemsError analysis   statisticsError analysis   statisticsTarun Gehlot Error analysis   statisticsMatlab commandsMatlab commandsTarun Gehlot Matlab commandsIntroduction to matlabIntroduction to matlabTarun Gehlot Introduction to matlabLinear approximations and_differentialsLinear approximations and_differentialsTarun Gehlot Linear approximations and_differentialsLocal linear approximationLocal linear approximationTarun Gehlot Local linear approximationInterpolation functionsInterpolation functionsTarun Gehlot Interpolation functionsPropeties of-trianglesPropeties of-trianglesTarun Gehlot Propeties of-trianglesGaussian quadraturesGaussian quadraturesTarun Gehlot Gaussian quadraturesBasics of set theoryBasics of set theoryTarun Gehlot Basics of set theoryNumerical integrationNumerical integrationTarun Gehlot Numerical integrationApplications of  set theoryApplications of  set theoryTarun Gehlot Applications of  set theoryMiscellneous  functionsMiscellneous  functionsTarun Gehlot Miscellneous  functionsMore from Tarun Gehlot (20)Materials 11-01228Materials 11-01228 Binary relationsBinary relations Continuity and  end_behaviorContinuity and  end_behavior Continuity of functions by graph   (exercises with detailed solutions)Continuity of functions by graph   (exercises with detailed solutions) Factoring by the trial and-error methodFactoring by the trial and-error method Introduction to finite element analysisIntroduction to finite element analysis Finite elements : basis functionsFinite elements : basis functions Finite elements  for 2‐d problemsFinite elements  for 2‐d problems Error analysis   statisticsError analysis   statistics Matlab commandsMatlab commands Introduction to matlabIntroduction to matlab Linear approximations and_differentialsLinear approximations and_differentials Local linear approximationLocal linear approximation Interpolation functionsInterpolation functions Propeties of-trianglesPropeties of-triangles Gaussian quadraturesGaussian quadratures Basics of set theoryBasics of set theory Numerical integrationNumerical integration Applications of  set theoryApplications of  set theory Miscellneous  functionsMiscellneous  functions Basic differential equations in fluid mechanics1. Overview
+
+ Continuity Equation
+  Navier-Stokes Equation
+  (a bit of vector notation...)
+ Examples (all laminar flow)
+  Flow between stationary parallel horizontal
+   plates
+  Flow between inclined parallel plates
+  Pipe flow (Hagen Poiseuille)
+ 2. Why Differential Equations?
+
+  A droplet of water
+ Clouds
+ Wall jet
+ Hurricane
+ 3. Conservation of Mass  in
+        Differential Equation Form
+F+ ∂ρ δyIF+ ∂v δyIδxδz
+G ∂y Jv ∂y J
+         G K
+H K
+ρ
+         H                  Mass flux out of differential volume
+
+
+
+                     ∂ρ          Rate of change of mass in
+                        δyδxδz
+ δy                  ∂t          differential volume
+
+                δz
+        δx
+      ρvδxδz    Mass flux into differential volume
+ 4. Continuity Equation
+ Mass  flux out of differential volume
+Fv + ρ ∂v δy + v ∂ρ δy + ∂v ∂ρ δy Iδxδz
+G ∂y ∂y ∂y ∂y J
+H
+ρ
+                                  K          Higher order term
+                                2
+
+
+
+            out                  in       Rate of mass decrease
+Fv + ρ ∂v δy + v ∂ρ δyIδxδz − ρvδxδz = − ∂ρ δyδxδz
+G ∂y ∂y J
+H
+ρ
+                      K                  ∂t
+
+    ∂v    ∂ρ    ∂ρ
+ρ      +v    =−
+    ∂y    ∂y    ∂t
+    ∂ρv ∂ρ
+       +   =0        1-d continuity equation
+     ∂y ∂t
+ 5. Continuity Equation
+
+         af af a f
+∂ ρ ∂ ρu ∂ ρv ∂ ρw
+    +       +      +      =0                  3-d continuity equation
+ ∂t     ∂x      ∂y   ∂z
+  divergence
+∂ρ                                                  u, v, w are
+    + ∇ ×ρ V = 0 Vector notation                    velocities in x, y,
+∂t
+                                                    and z directions
+
+If density is constant...
+∂u ∂v ∂w
+  + +    =0                 or in vector notation       ∇ ×V = 0
+∂x ∂y ∂z
+True everywhere! (contrast with CV equations!)
+ 6. Continuity Illustrated
+
+    ∂u ∂v ∂w               y
+     + +    =0
+   ∂x ∂y ∂z
+
+
+What must be happening?
+
+ ∂v           ∂u
+    <0   ∴       >0
+ ∂y           ∂x
+
+                                      x
+ 7. Navier-Stokes Equations
+
+ Derived  by Claude-Louis-Marie Navier in 1827
+ General Equation of Fluid Motion
+                            momentum
+ Based on conservation of ___________ with forces…
+     Gravity
+    ____________
+      Pressure
+    ___________________
+      Shear
+    ___________________
+ U.S. National Academy of Sciences has made the full
+  solution of the Navier-Stokes Equations a top priority
+ 8. Navier-Stokes Equations
+V ρa  = ∑ F
+                                   Navier-Stokes Equation
+ρ a + ρ g = −∇p + µ∇ V  2
+
+                                   g is constant
+ρ a = − ( ∇p + ρ g ) + µ∇ 2 V      a is a function of t, x, y, z
+ρa = Inertial forces [N/m3], a is Lagrangian acceleration
+
+ Is acceleration zero when ∂V/ ∂ t = 0?              NO!
+− ( ∇p + ρ g ) = Pressure gradient (not due to change in elevation)
+     ∇p + ρ g ≠ 0   V ≠0
+  If _________ then _____
+                                            du
+µ∇ V = Shear stress gradient
+    2                                  τ =µ         τ = µ∇V
+                                            dx
+ 9. Notation: Total Derivative
+              Eulerian Perspective
+ Dα                  ∂α dt ∂α dx ∂α dy ∂α dz        Total derivative
+    (t , x, y, z ) =      +     +     +
+ Dt                  ∂t dt ∂x dt ∂y dt ∂z dt        (chain rule)
+ Dα                  ∂α    ∂α    ∂α    ∂α     Material or
+    (t , x, y, z ) =    +u    +v    +w
+ Dt                  ∂t    ∂x    ∂y    ∂z     substantial derivative
+DV                  ∂V    ∂V    ∂V    ∂V
+   (t , x, y, z ) =    +u    +v    +w
+Dt                  ∂t    ∂x    ∂y    ∂z       Lagrangian acceleration
+
+   ∂V    ∂V    ∂V    ∂V                   ∂ () ∂ () ∂ ()
+a=    +u    +v    +w                ∇() =     i+    j+    k
+   ∂t    ∂x    ∂y    ∂z                   ∂x     ∂y    ∂z
+    ∂V                                           ∂ () ∂ () ∂ ()
+ a=    +V× V
+          ∇                       ( V ×∇ ) () = u + v + w
+    ∂t                                           ∂x   ∂y   ∂z
+ 10. Application of Navier-Stokes
+             Equations
+ The equations are nonlinear partial
+  differential equations
+ No full analytical solution exists
+ The equations can be solved for several
+  simple flow conditions
+ Numerical solutions to Navier-Stokes
+  equations are increasingly being used to
+  describe complex flows.
+ 11. Navier-Stokes Equations: A
+                Simple Case
+     No acceleration and no velocity gradients
+ρ a = − ( ∇p + ρ g ) + µ∇ 2 V
+0 = − ( ∇p + ρ g )
+∇p = − ρ g                   xyz could have any orientation
+                       −ρg
+∂p           ∂p          ∂p
+   = −ρ gx      = −ρ g y    = − ρ g z Let y be vertical upward
+∂x           ∂y          ∂z
+∂p      ∂p          ∂p       Component of g in the x,y,z direction
+   =0      = −ρ g      =0
+∂x      ∂y          ∂z
+  p = − ρ gy + C           For constant ρ
+ 12. Infinite Horizontal Plates:
+                    Laminar Flow
+ Derive the equation for the laminar, steady, uniform flow
+ between infinite horizontal parallel plates.                y
+  ρ a = − ( ∇p + ρ g ) + µ∇ 2 V
+  0 = − ( ∇p + ρ g ) + µ∇ 2 V                                      x
+       ∂p           ∂ 2u ∂ 2u ∂ 2u                ∂p  ∂ 2u 
+x 0 = − − ρ gx + µ  2 + 2 + 2 ÷               0 = − +µ 2 ÷
+       ∂x           ∂x   ∂y   ∂z                  ∂x  ∂y 
+                                        v=0     Hydrostatic in y
+       ∂p          ∂ v ∂ v ∂ v
+                          2     2   2
+y 0 = − − ρ gy + µ  2 + 2 + 2 ÷                 ∂p
+       ∂y           ∂x ∂y  ∂z             0 = − − ρg
+                                        w=0      ∂y
+       ∂p           ∂2w ∂2w ∂2w 
+z 0 = − − ρ gz + µ  2 + 2 + 2 ÷                0=0
+       ∂z           ∂x  ∂y  ∂z 
+ 13. Infinite Horizontal Plates:
+                    Laminar Flow
+       ∂p  ∂ 2u                                           du
+  0 = − +µ 2 ÷                                        τ =µ
+       ∂x  ∂y                                             dy
+
+  dp      d 2u  dτ            Pressure gradient in x balanced by
+     = µ  2 ÷=
+  dx      dy  dy              shear gradient in y
+                                No a so forces must balance!
+             ⌠  2                                   du 
+ ⌠   dp       µ d u dy                    dp
+ 
+ 
+        dy =   2 ÷                     y    + A = µ ÷=τ
+ ⌡   dx      ⌡  dy 
+                                          dx         dy 
+
+⌠                 ⌠  du 
+      dp                                 y 2 dp
+ y
+
+         + A dy =  µ  ÷
+                   
+                           dy                    + Ay + B = µ u
+⌡    dx          ⌡  dy                2 dx
+        Now we must find A and B… Boundary Conditions
+ 14. Infinite Horizontal Plates:
+               Boundary Conditions
+                                          y
+No slip condition
+u = 0 at y = 0 and y = a              a       τ         u
+
+y 2 dp                                              x
+       + Ay + B = µ u                   dp
+2 dx                                let       negative
+                                           be___________
+                                        dx
+B=0                                 What can we learn about τ?
+a 2 dp                     − a dp             du  dp
+        + Aa = 0        A=                 µ  ÷= y + A
+ 2 dx                       2 dx              dy  dx
+     y ( y − a ) dp                                a  dp
+u=                                            τ =y− ÷
+         2µ      dx                                2  dx
+ 15. Laminar Flow Between  Parallel
+               Plates
+                                                               y
+                                a                      U
+ ρ a = − ρ g − ∇p + µ∇ 2 V
+                                                                   x
+                                                           u
+ 0 = − ρ g − ∇p + µ∇ V
+                     2       No fluid particles
+                             are accelerating      θ
+
+           ∂p    ∂ 2u ∂ 2u ∂ 2u 
+0 = −ρ gx − + µ  2 + 2 + 2 ÷            Write the x-component
+           ∂x    ∂x   ∂y   ∂z 
+
+           ∂p    ∂ 2u 
+0 = −ρ gx − + µ  2 ÷
+           ∂x    ∂y 
+ 16. Flow between Parallel  Plates
+           ∂p    ∂ 2u 
+0 = −ρ gx − + µ  2 ÷       u is only a function of y
+           ∂x    ∂y 
+
+            dp    d 2u 
+0 = −ρ gx −    +µ 2 ÷                 g x = g ×ˆ
+                                                i
+            dx    dy 
+
+     d 2u       dp        General equation describing laminar
+  µ  2 ÷= ρ gx +
+                            flow between parallel plates with the
+     dy         dx
+                            only velocity in the x direction
+ 17. Flow Between Parallel  Plates:
+                 Integration
+     2
+                                                y
+    d u           dp          a         U
+µ        = ρ gx +
+    dy 2          dx
+                                                    x
+⌠ d u    2
+           ⌠         dp 
+ µ 2 dy =   ρ g x + ÷dy                  u
+⌡ dy       ⌡         dx 
+  du             dp               θ
+µ    = y  ρ g x + ÷+ A = τ
+  dy             dx 
+
+⌠ du     ⌠            dp   
+ µ dy =   y  ρ g x + ÷+ A ÷dy
+⌡ dy     ⌡            dx   
+     y2       dp 
+µ u =  ρ g x + ÷+ Ay + B
+     2        dx 
+ 18. Boundary Conditions
+
+      y2       dp 
+u µ =  ρ g x + ÷+ Ay + B
+     2        dx 
+
+ Boundary condition      u = 0 at y = 0
+    0 = 0+0+ B
+ Boundary condition      u = U at y = a
+       a2       dp                 Uµ a        dp 
+  U µ =  ρ g x + ÷+ Aa           A=    −  ρ gx + ÷
+       2        dx                  a  2       dx 
+
+    Uy y 2 − ay        dp 
+ u=    +         ρ gx + ÷
+     a    2µ           dx 
+ 19. Discharge
+
+       y   y 2 − ay        dp 
+    u= U+           ρ gx + ÷
+      a      2µ           dx 
+           a
+   a
+            ⌠ y    y 2 − ay         dp  
+q = ∫ udy =   U +           ρ g x + ÷÷dy
+    0       ⌡ a       2µ            dx  
+           0
+
+
+
+      Ua a 3         dp 
+   q=   −      ρ gx + ÷           Discharge per unit width!
+       2 12 µ        dx 
+ 20. Example: Oil Skimmer
+An  oil skimmer uses a 5 m wide x 6 m long
+moving belt above a fixed platform (θ=60º) to
+skim oil off of rivers (T=10 ºC). The belt travels
+at 3 m/s. The distance between the belt and the
+fixed platform is 2 mm. The belt discharges into
+an open container on the ship. The fluid is
+actually a mixture of oil and water. To simplify
+the analysis, assume crude oil dominates. Find
+the discharge and the power required to move
+the belt.                     g          x               h
+          ρ = 860 kg/m    3
+                                60º                  l
+       µ = 1x10-2 Ns/m2
+ 21. g           x
+                Example: Oil Skimmer                                 60º
+
+
+
+    Ua a 3         dp              dp
+ q=   −      ρ gx + ÷                  =0      g x = g ×ˆ = g cos(60) = 0.5 g
+                                                         i
+     2 12 µ        dx              dx
+                                    a = 0.002 m      U = 3 m/s
+   (3 m/s)(0.002 m)         (0.002 m)3
+q=                  −                     ( 0.5) ( 9.806 m/s 2 ) ( 860 kg/m3 ) )
+           2          12 ( 1x10-2 N × 2 )
+                                     s/m
+      dominates
+ q = 0.0027 m2/s              (per unit width) In direction of belt
+
+ Q = 0.0027 m2/s (5 m) = 0.0136 m3/s
+ 22. Example: Oil Skimmer  Power
+          Requirements
+  How do we get the power requirement?
+    ___________________________
+     Power = Force x Velocity [N·m/s]
+  What is the force acting on the belt?
+     Shear force (τ·L · W)
+      ___________________________
+  Remember the equation for shear?
+     τ=µ(du/dy)
+    _____________          Evaluate at y = a.
+  du             dp             Uµ a        dp 
+µ    = y  ρ g x + ÷+ A       A=     −  ρ gx + ÷
+  dy             dx              a  2       dx 
+                  a       dp  U µ
+         τ =  y − ÷ ρ g x + ÷+
+                  2       dx  a
+ 23. Example: Oil Skimmer  Power
+                Requirements
+              a        dp  U µ                     dp 
+      τ =  y − ÷ ρ g x + ÷+                   ρ g x + ÷ = ρ g cos 60
+              2        dx  a                       dx 
+       a             Uµ
+    τ = ρ g cos 60 +
+       2              a
+                                           3 m       −2 N × 
+                                                              s
+   ( 0.002 m )                                 ÷ 1x10         ÷
+                            860 kg                        m2          N
+τ=
+        2
+               ( 9.8 m/s )  m3 ÷( 0.5) +
+                        2
+
+                                   
+                                            s 
+                                                ( 0.002 m )
+                                                                  = 19.2 2
+                                                                        m
+     Power = τ LWU        FV                       (shear by belt on fluid)
+             19.2 N ( 6 m )( 5 m ) ( 3 m )
+     Power =       2                            = 3.46 kW
+                 m                    s
+   How could you reduce the power requirement? Decrease τ
+                                               __________
+ 24. Example: Oil Skimmer
+            Where did the Power Go?
+   Where did the energy input from the belt
+    go?
+            Potential and kinetic energy
+             Heating the oil (thermal energy)
+                 P = γ Qh Potential energy
+          8430 N  0.0136 m ( 3 m )
+                             3
+       P=          
+                 3 
+                               
+              m          s 
+              P = 344 W
+h=3m
+ 25. Velocity Profiles
+
+Pressure gradients                        y      y 2 − ay        dp 
+                                     uµ = U µ +           ρ gx + ÷
+and gravity have                         a          2           dx 
+                                3
+the same effect.
+                                2
+
+In the absence of               1
+                      u (m/s)
+
+pressure gradients              0
+                                                                     oil
+and gravity the                 -1
+                                                                     water
+velocity profile is             -2
+                                     0     0.0005   0.001   0.0015      0.002
+________
+linear
+                                                    y (m)
+ 26. Example: No flow
+
+  Find the velocity of a vertical belt that is 5
+  mm from a stationary surface that will
+  result in no flow of glycerin at 20°C (m =
+  0.62 Ns/m2 and ρ =1250 kg/m3)
+ Draw the glycerin velocity profile.
+ What is your solution scheme?
+     Ua a 3           dp 
+  q=   −      ρ g y + dy ÷
+      2 12 µ             
+ 27. Laminar Flow through  Circular
+            Tubes
+ Different geometry, same equation
+  development (see Munson, et al. p 327)
+ Apply equation of motion to cylindrical
+  sleeve (use cylindrical coordinates)
+ 28. Laminar Flow through  Circular
+             Tubes: Equations
+
+     r 2 − R2        dp 
+vl =           ρ gx + ÷     R is radius of the tube
+        4µ           dx 
+          R2        dp 
+vmax   =−     ρ gx + ÷      Max velocity when r = 0
+          4µ        dx 
+                             Velocity distribution is paraboloid of
+     R2        dp 
+V =−     ρ gx + ÷                                 average velocity
+                             revolution therefore _____________
+     8µ        dx          (V) is 1/2 vmax
+                             _____________
+    π R4        dp 
+Q=−       ρ gx + ÷          Q = VA = VπR2
+     8µ         dx 
+ 29. Laminar Flow through  Circular
+            Tubes: Diagram
+     r 2 − R2        dp 
+vl =           ρ gx + ÷
+        4µ           dx 
+
+dvl   r        dp                                          Velocity
+    =    ρ gx + ÷
+dr 2 µ         dx 
+                               Shear (wall on fluid)
+                                                  Laminar flow
+      dvl r           dp 
+τ =µ      =  ρ gx + ÷
+      dr 2            dx 
+                                             Shear at the wall
+ Next slide!
+           r  ρ ghl  True for Laminar or             ρ ghl d
+    τ =−            ÷                          τ0 = −
+           2  l  Turbulent flow                        4l
+  Remember the approximations of no shear, no head loss?
+ 30. Relationship between head  loss
+       and pressure gradient for pipes
+ p1            V12         p2             V22
+     + z1 + α1     + hp =      + z2 + α 2     + ht + hl cv energy equation
+ρ1 g           2g         ρ2 g            2g
+p1         p2                    Constant cross section
+   + z1 =      + z 2 +hl
+ρg
+ 1        ρ2 g
+                                           In the energy equation
+ρghl =−( p2 − p1 ) −( ρgz2 − ρgz1 )
+                                           the z axis is tangent to g
+ρg
+   hl
+      =−
+         ∆p
+            − ρg
+                 ∆z                        x is tangent to V
+   ∆x    ∆x      ∆x                                z
+                                   ∆z                     x
+                                 g    = gx
+     hl   ∆p                     ∆x
+ρg      =−   + ρg x ÷
+     ∆x   ∆x        
+                               l is distance between control
+     hl    dp        
+ρg      =−    + ρg x ÷        surfaces (length of the pipe)
+     l     dx        
+ 31. The Hagen-Poiseuille Equation
+    hl    dp            Relationship between head loss
+ρg    =−    + ρg x ÷
+   l     dx            and pressure gradient
+Hagen-Poiseuille Laminar pipe flow equations
+    π R4        dp        From Navier-Stokes
+Q=−       ρ gx + ÷
+     8µ         dx 
+                            What happens if you double the
+    π R4       hl         pressure gradient in a horizontal
+Q=−       −ρ g l ÷
+     8µ                   tube? ____________
+                                   flow doubles
+
+   π D 4 ρ ghl              D 2 ρ ghl
+Q=                      V=              V is average velocity
+   128µ l                  32 µ l
+ 32. Example: Laminar Flow  (Team
+               work)
+
+Calculate the discharge of 20ºC
+water through a long vertical section of 0.5
+mm ID hypodermic tube. The inlet and outlet
+pressures are both atmospheric. You may
+neglect minor losses.
+
+What is the total shear force?
+What assumption did you make? (Check your
+assumption!)
+ 33. Example: Hypodermic Tubing
+                    Flow
+p1           V12        p2            V22
+   + z1 + α1     + Hp =    + z2 + α 2     + H t + hl
+γ1           2g         γ2            2g
+     γπD 4 hl
+Q=
+     128µ L
+                                                                        γhl d
+                   afa             f
+                                                                τ0 = −
+    c              h
+      9806 N / m3 π 0.0005m
+                                   4
+                                         Q = 158 x10−8 m3 / s
+                                              .
+                                                                         4l
+ Q=
+              c
+          128 1x10−3 Ns / m2   h         Q = 158µL / s
+                                                .
+                                                              Fshear = −
+                                                                         2πrlγhl d
+                                                                             4l
+  4Q
+V= 2              V = 0.0764m / s
+  πd                                                             Fshear = −π r 2 hl γ
+
+     Vd ρ         ( 0.0764m / s ) ( 0.0005m ) ( 1000kg / m3 )        = weight!
+Re =      Re =
+      µ                        ( 1x10   −3
+                                             Ns / m 2 )
+ Re = 38
+ 34. Summary
+
+ Navier-Stokes Equations  and the Continuity
+  Equation describe complex flow including
+  turbulence
+ The Navier-Stokes Equations can be solved
+  analytically for several simple flows
+ Numerical solutions are required to describe
+  turbulent flows
+ 35. Glycerin
+    Ua a 3           dp 
+Q=   −      ρ g y + dy ÷
+    2 12 µ                                   ρgy +
+                                                    dp
+                                                       = ρg
+                                                   dy
+   Ua a 3 ρ g                                                 y
+0=    −
+    2   12 µ
+   a2 ρ g
+U=
+     6µ
+   ( 0.005m ) ( 12300 N / m3 )
+               2
+
+U=                             = 0.083m / s
+         6 ( 0.62 Ns / m )
+                        2
+
+
+
+   ρVl c kg / m h.083m / sfa005mf
+                a    3
+        1254     0         0.
+R=    =                           = 0.8
+    µ                0.62 Ns / m2
+ Download nowAboutSupportTermsPrivacyCopyrightCookie PreferencesDo not sell or share my personal informationEverandEnglishCurrent LanguageEnglishEspañolPortuguesFrançaisDeutsche© 2024 SlideShare from Scribd 

@@ -1,0 +1,966 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How are complex numbers used in real life? - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+TutorialsPython TutorialTaking Input in PythonPython OperatorsPython Data TypesPython NumbersPython StringPython ListsPython TuplesSets in PythonPython DictionaryPython Loops and Control FlowPython Conditional StatementsPython LoopsPython FunctionsPython OOPS ConceptPython Data StructuresPython DSALinked ListStackQueueTreeHeapHashingGraphSetsMapAdvance Data StructureSorting AlgorithmsSearching AlgorithmsPython Exception HandlingPython File HandlingPython ExercisesPython List ExercisePython String ExercisePython Tuple ExercisePython Dictionary ExercisePython Set ExercisePython Design PatternsPython Programming ExamplesPython Practice QuestionsJavaJava Programming LanguageJava TutorialData TypesVariablesOperatorsFlow Control in JavaLoops in JavaMethodsStringsArraysOOPs ConceptsOOPs ConceptsClasses and ObjectsAccess ModifiersInheritanceAbstractionEncapsulationPolymorphismInterfacePackagesMultithreadingFile HandlingRegular ExpressionJava CollectionsJava CollectionsCollection ClassList InterfaceArrayListLinkedList ClassQueue InterfaceSet InterfaceHashSet ClassMap InterfaceHashMap ClassHashTable ClassIteratorComparatorCollection Interview QuestionsJava 8 TutorialJava ProgramsJava Programming ExamplesJava Array ProgramsJava String ProgramsJava Date-Time ProgramsJava File Handling ProgramsJava Collection ProgramsJava JDBC ProgramsJava Apache POI ProgramsJava OpenCV ProgramsJava Interview QuestionsJava Interview QuestionsCore Java Interview Questions-FreshersJava Multithreading Interview QuestionsOOPs Interview Questions and AnswersJava ExercisesJava QuizJava QuizCore Java MCQJava ProjectsAdvance JavaSpring TutorialSpring Boot TutorialSpring Boot Interview QuestionsSpring MVC TutorialSpring MVC Interview QuestionsHibernate TutorialHibernate Interview QuestionsProgramming LanguagesCC++JavaScriptPHPR TutorialC#SQLScalaPerlGo LanguageKotlinSystem DesignSystem Design TutorialWhat is System DesignKey Terminologies in System DesignAnalysis and Architecture of SystemsScalability in System DesignDatabases in System DesignHigh Level Design or HLDLow Level Design or LLDCase Studies in Designing SystemsComplete System Design TutorialSoftware Design PatternsSystem Design RoadmapTop 10 System Design Interview Questions and AnswersInterview CornerCompany PreparationTop TopicsPractice Company QuestionsInterview ExperiencesExperienced InterviewsInternship InterviewsCompetitive ProgrammingMultiple Choice QuizzesAptitude for PlacementsComputer Science SubjectsOperating SystemDBMSComputer NetworksEngineering MathematicsComputer Organization and ArchitectureTheory of ComputationCompiler DesignDigital LogicSoftware EngineeringDevOpsGITAWSDockerKubernetesMicrosoft Azure TutorialGoogle Cloud PlatformLinuxLinux TutorialLinux Commands A-ZLinux Commands CheatsheetFile Permission CommandsLinux System AdministrationLinux File SystemLinux Shell ScriptingLinux NetworkingLinux Interview QuestionsSoftware TestingSoftware Testing TutorialSoftware Engineering TutorialTesting Interview QuestionsJiraDatabasesDBMS TutorialSQL TutorialPostgreSQL TutorialMongoDB TutorialSQL Interview QuestionsMySQL Interview QuestionsPL/SQL Interview QuestionsAndroidAndroid TutorialAndroid Studio TutorialKotlin For AndroidAndroid ProjectsAndroid Interview Questions6 Weeks of Android App DevelopmentExcelMS Excel TutorialIntroduction to MS ExcelData Analysis in ExcelBasic Excel Formulas & FunctionsData Analysis in Advanced ExcelWorkbooksStatistical FunctionsData Visualization in ExcelPivot Tables in ExcelExcel Spreadsheets in PythonBasic Excel ShortcutsMathematicsNumber SystemAlgebraLinear AlgebraTrigonometrySet TheoryStatisticsProbabilityGeometryMensurationLogarithmsCalculusCommerceBusiness StudiesAccountancyMicroeconomicsStatistics for EconomicsMacroeconomicsHuman Resource Management (HRM)ManagementFinanceCommerce Complete GuideAptitudeAptitude Question and AnswersQuantitative AptitudeLogical ReasoningVerbal AbilityDSAData StructuresArraysMatrixStringsLinked ListSingly Linked ListDoubly Linked ListCircular Linked ListDoubly Circular Linked ListLinked List TutorialStackQueueTreeGeneric TreeBinary TreeBinary Search TreeAVL TreeB TreeB+ TreeRed Black TreeTree Data Structure TutorialHeapHashingGraphSet Data StructureMap Data StructureAdvanced Data StructureData Structures TutorialAlgorithmsAnalysis of AlgorithmsDesign and Analysis of AlgorithmsAsymptotic AnalysisAsymptotic NotationsWorst, Average and Best CasesSearching AlgorithmsLinear SearchBinary SearchSearching Algorithms TutorialSorting AlgorithmsSelection SortBubble SortInsertion SortMerge SortQuick SortHeap SortCounting SortRadix SortBucket SortSorting Algorithms TutorialGreedy AlgorithmsDynamic ProgrammingGraph AlgorithmsPattern SearchingRecursionBacktrackingDivide and ConquerMathematical AlgorithmsGeometric AlgorithmsBitwise AlgorithmsRandomized AlgorithmsBranch and BoundAlgorithms TutorialDSA TutorialPracticeAll DSA ProblemsProblem of the DayCompany Wise Coding PracticeAmazonMicrosoftFlipkartExplore AllGfG SDE SheetPractice Problems Difficulty WiseSchoolBasicEasyMediumHardLanguage Wise Coding PracticeCPPJavaPythonCurated DSA ListsBeginner's DSA SheetTop 50 Array ProblemsTop 50 String ProblemsTop 50 DP ProblemsTop 50 Graph ProblemsTop 50 Tree ProblemsCompetitive ProgrammingCompany Wise SDE SheetsFacebook SDE SheetAmazon SDE SheetApple SDE SheetNetflix SDE SheetGoogle SDE SheetDSA Cheat SheetsSDE SheetDSA Sheet for BeginnersFAANG Coding SheetProduct-Based Coding SheetCompany-Wise Preparation SheetTop Interview QuestionsTop 100 DSA Interview Questions Topic-wisePuzzlesAll PuzzlesTop 100 Puzzles Asked In InterviewsTop 20 Puzzles Commonly Asked During SDE InterviewsData SciencePython TutorialR TutorialMachine LearningData Science using PythonData Science using RData Science PackagesPandas TutorialNumPy TutorialData VisualizationPython Data Visualization TutorialData Visualization with RData AnalysisData Analysis with PythonData Analysis with RDeep LearningNLP TutorialWeb TechHTML TutorialCSS TutorialJavaScript TutorialPHP TutorialReactJS TutorialNodeJS TutorialAngularJS TutorialBootstrap TutorialTypescriptWeb Development Using PythonDjangoDjango TutorialDjango ProjectsDjango Interview QuestionsFlaskFlask TutorialFlask ProjectsFlask Interview QuestionsPostmanGithubWordpress TutorialWeb DesignCheat SheetsHTML Cheat SheetCSS Cheat SheetJavaScript Cheat SheetReact Cheat SheetAngular Cheat SheetjQuery Cheat SheetBootstrap Cheat SheetJavaScript ProjectsLearn Complete Web DevelopmentCoursesCoding for EveryoneDSA to DevelopmentMachine Learning & Data ScienceGenerative AI & ChatGPTBecome AWS CertifiedDSA CoursesData Structure & Algorithm(C++/JAVA)Data Structure & Algorithm(Python)Data Structure & Algorithm(JavaScript)Programming LanguagesCPPJavaPythonJavaScriptC
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MathsNumber System and ArithmeticAlgebraTrigonometryStatisticsProbabilityGeometryMensurationLogarithmsCalculusLinear AlgebraSet TheoryCBSE Class 8 Maths FormulasCBSE Class 9 Maths FormulasCBSE Class 10 Maths FormulasCBSE Class 11 Maths Formulas 
+
+
+
+
+▲
+
+
+
+
+
+
+
+
+
+
+
+
+Open In App
+
+
+
+
+
+
+
+
+
+
+How are complex numbers used in real life?What is Z Bar in Complex Numbers?Is Every Real Number a Complex Number?What are Complex Numbers?How to plot a complex number in Python using Matplotlib ?Real-Life Applications of Real NumbersWhat is the difference between Real and Complex Numbers?Real-life Applications of NumbersReal-Life Applications of Whole NumbersComplex Numbers in PHPReal-Life Applications of Number TheoryAbsolute Value of a Complex NumberReal-Life Applications of Irrational NumbersComplex numbers in C++ | Set 1Complex numbers in C++ | Set 2Geometry using Complex Numbers  in C++ | Set 2Multiply N complex numbers given as stringsabs() function for complex number in c++pow() function for complex number in C++Complex Numbers in Python | Set 1 (Introduction) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How are complex numbers used in real life?
+
+
+Last Updated : 
+18 Feb, 2024
+
+
+
+ 
+
+Improve
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improve
+
+
+ 
+
+
+Like Article
+
+
+
+Like
+
+
+
+
+
+
+
+
+Save
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Report
+
+
+
+
+
+
+
+The complex number is derived because of the roots of any nth equation. If the equation has real roots it is fine else equation may have roots other than real means the roots which are not real in this confusion of roots that are not real complex numbers are taken birth. If the nth power equation has real roots and also a combination of real and imaginary roots. Those real and imaginary roots combination we called complex numbers.
+Complex numbers
+Complex numbers are in the form of a+ib which is also called a general form of complex numbers. In a+ib form a is a real part of a complex number, b is the imaginary part of a complex number and i is defined as √(-1). There are many forms of complex numbers. They are,
+
+General form (Z = a + ib).
+Polar form (Z = r(cosθ + isinθ)).
+Exponential form (Z = reiθ).
+
+General form of a complex number
+A complex number has a general form that looks like Z=a+ib where a is the real part and b is the imaginary part and i is called iota which is √(-1). 
+Complex Plane Representation
+ 
+The polar form of a complex number
+A complex number has a polar form that looks like Z = r(cosθ + isinθ) where rcosθ is the real part and rsinθ is the imaginary part and i is called iota which is √(-1). 
+The Exponential form of a complex number
+A complex number has an exponential form that looks like Z=reiθ where eiθ can also be written as cosθ+isinθ which looks like a polar form at the end.
+Note: We can also be able to convert general form to polar form, exponential vice versa, also able to convert polar form to general form, exponential form vice versa, and also able to convert exponential to general, polar form vice versa. Now we have to discuss where these complex numbers are useful in real life.
+Complex numbers in Real life
+Complex numbers are used in many varieties of fields in real life. Below given are the most important uses of complex numbers, and their proper explanation is also explained.
+
+Complex number is used in Electronics.
+Complex number is used in Electromagnetism.
+Complex number is used to simplify the unknown roots if roots are not real for quadratic equations.
+Complex numbers are used in computer science engineering.
+Complex number is used in mechanical and civil engineering.
+Complex numbers are used in control systems.
+
+
+Complex numbers in Electronics
+
+In electronics, we are used to representing the general form of a complex number in the circuit having voltage and current. In Electronics circuit is mainly based on current and voltage. Those two elements are put together as single complex numbers. Z = V+ iI is the complex representation of a circuit having both current and voltage where V is the real axis part and I is the imaginary axis part so that we can able to see the comparison of both V and I by representing as a complex number in electronics. Sometimes in RC circuits or RLC circuits, if we want to combine two elements, say for example resistor and inductor we can write it as R + jXL as well as if in case resistor and capacitor complex number representation would be R + j Xc where XL = jwL and Xc = 1/jwc.
+
+Complex numbers in Electromagnetism
+
+In electromagnetism, the main elements are the electric field and the magnetic field. Those elements are represented in the form of complex numbers where the real number or real axis is represented by an electric field, the magnetic field is represented as an imaginary part of an imaginary axis.
+
+Complex numbers to find roots in Quadratic equation
+
+A quadratic equation is used to find the roots of the equation. If the quadratic equation has real roots it is fine. If the quadratic equation cannot able find the real roots then roots are said to be not real roots named as imaginary roots. Imaginary roots can be find by the formula (-b + √(b2 – 4ac))/2a, (-b – √(b2 – 4ac))/2a are two complex imaginary roots if quadratic equation cannot able to find real roots. In this application, we can use complex numbers.
+
+Complex numbers used in Computer science engineering
+
+In Computer science, data place a major role. The data cannot be seen visually because it is in the form of CSV files. Those CSV file data can be seen by using visual representation methods in computer science. That Visual representation is in the real axis and imaginary axis only so complex numbers are used to represent the data in a visual format for computer science technology. In 2D images also we can use complex numbers. Rotation of a point having real part and imaginary part and translation of a point in a 2D image represents the complex number.
+
+Complex numbers in Mechanical and Civil Engineering
+
+In mechanical and civil engineering designing is the main for cars and buildings. To do such a thing we have to use 2D designing concepts that mainly depend on complex numbers only. Rotations are also used in drawing for a point is represented by a complex number only.
+
+Complex numbers in control systems
+
+Control systems conversion of the time-domain system to frequency domain is required that is to be done using Laplace transform. In that poles and zeros of the system are addressed using a complex plane having a real and imaginary axis. This is the reason and uses for the complex number used in the control system.
+Sample Problems
+Problem1: Solve the quadratic equation X2 + 5X + 3 = 0 and verify whether the roots are imaginary or not?
+Solution:  
+
+3X2 + 5X + 3 = 0 looks like ax2 + bx + c = 0
+a = 3, b = 5, c = 3
+Formula for roots of quadratic equation = (-b + √(b2 – 4ac))/2a, (-b – √(b2 – 4ac))/2a
+= (-5 + √25 – 4 × 3 × 3)/2 × 3, (-5 – √25 – 4 × 3 × 3)/2 × 3
+= (-5 + √25 – 36)/6, (-5 – √25 – 36)/6
+= (-5 + √-11)/6, (-5 – √-11)/6 
+= (-5+i 3.3)/6, (-5- i 3.3)/6
+= -0.83 + i 0.55, -0.83 – i 0.55
+The roots -0.83 + i 0.55, -0.83 – i 0.55 are in the form of a+ib and a-ib so they are complex numbers. The roots of the quadratic equations may be complex numbers. In this application of finding roots of quadratic equations complex numbers are used.
+
+Problem 2: Calculate the impedance of an RC circuit if the resistor has a resistance of 2 ohms and the capacitor has a capacitance of 4 farads in a circuit which are in series and frequency f = 1kHz?
+Solution:
+
+Given that R = 2 ohm
+C = 4 Farads
+Impedance Z = R + Xc where Xc = 1/jwc
+Z = R + (1/j(2 × π × f × C)
+Substitute R, f, C in the above equation we get the impedance of the RC circuit.
+Z = 2-j(1/ 2 × 3.14 × 1 × 4)
+Z = 2 – j(1/6.28 × 4)
+Z = 2 – j(0.0398) 
+Impedance Z = 2 – j(0.0398) which is also in the form of complex numbers only. So that is why complex numbers are used in calculating the impedance of circuit.
+
+Problem 3: If z1 = 2 + 5i and z2 = 7 + 9i. Calculate z1 × z2?
+Solution:
+
+Given that z1 = 2 + 5i and z2 = 7 + 9i 
+z1 ×  z2 = (2 + 5i)(7 + 9i)
+= 14 + 18i + 35i + (i2 ) × 45
+= 14 + 53i – 145
+= -31 + 53i.
+z1 ×  z2 which is in the form of complex number (a + ib) = -31 + 53i.
+
+Problem 4: If If z1 = 5.5 + 5i and z2 = 7.7 + 7i. Calculate z1 + z2?
+Solution:
+
+Given that z1 = 5 + 5i and z2 = 7 + 7i 
+z1 + z2 = 5.5 + 5i + 7.7 + 7i 
+= 13.2 + 12i
+z1 + z2 which is in the form complex number (a + ib) = 12 + 12i.
+
+Problem 5: If If z1 = 6 + 5i and z2 = 6 + 7i. Calculate z1 – z2?
+Solution:
+
+Given that z1 = 6 + 5i and z2 = 6 + 7i
+z1 – z2 = 6 + 5i – 6 + 7i
+= 0 + 12i
+z1 – z2 which is in the form complex number (a + ib) = 0 + 12i.
+
+Problem 6: If If z1 = 1 + 5i and z2 = 2 + 5i. Calculate z1/z2?
+Solution:
+
+Given that z1 = 1 + 5i and z2 = 2 + 5i
+z1/z2 = 1 + 5i/2 + 5i
+Multiply and divide with 2 – 5i
+z1/z2 = 1 + 5i × (2 – 5i)/(2 – 5i)(2 + 5i)
+z1/z2 = (2 – 5i + 10i + 25)/(4 + 25)
+z1/z2 = (27 + 5i)/29
+z1/z2 = 0.93 + i 0.17
+z1/z2 which is in the form of complex number (a + ib) = 0.93 + i 0.17.
+
+Problem 7: How to represent complex number 9+10 i in the 2D complex plane?
+Solution: 
+
+Given that complex number a + ib = 9 + 10i.
+Where a = 9 and b = 10 which means the real part is 9 and the imaginary axis part is 10
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+
+
+
+
+ 
+
+rupasrichalamalapalli 
+
+
+
+
+
+ Follow 
+
+
+
+
+ 
+
+
+
+
+
+
+
+Improve
+
+
+
+
+
+  
+
+Next Article
+
+
+
+
+What is Z Bar in Complex Numbers?
+
+
+
+
+
+
+
+
+
+  Please Login to comment...
+
+
+
+
+
+
+
+
+
+Similar Reads
+
+
+
+Real-Life Applications of Real Numbers
+Real numbers consist of all rational and irrational numbers and are represented on the real number line. It is a fundamental concept in mathematics. It is an important concept in Mathematics. There are various application of real numbers which we have mentioned in article below. Real NumbersReal numbers are the set of all numbers that can be found
+
+
+
+8 min read
+
+
+
+
+What is the difference between Real and Complex Numbers?
+A number system is a way of showing numbers by writing, which is a mathematical way of representing the numbers of a given set, by using the numbers or symbols in a mathematical manner. The writing system for denoting numbers using digits or symbols in a logical manner is defined as the Number system. The numeral system, which Represents a useful s
+
+
+
+6 min read
+
+
+
+
+Real Life Applications of Composite Numbers
+Composite numbers are types of numbers with more than two factors and are used in various fields and areas in real life. Composite numbers include numbers such as 4, 5, 6, 8, and so on. The following article explains how composite numbers are used in practice and their impact on modern technologies and everyday life. What are Composite Numbers?Comp
+
+
+
+8 min read
+
+
+
+
+Uses of Square Numbers in Real-life
+Square numbers are an essential concept in mathematics, representing the result of multiplying a number by itself. They hold significance not only in mathematical contexts but also in various aspects of our daily lives. This article explores the practical applications of square numbers in everyday scenarios, shedding light on their importance beyon
+
+
+
+6 min read
+
+
+
+
+Applications of Imaginary Numbers in Real Life
+Imaginary numbers are non-real numbers with a square root of -1 in their nature that play an important role in solving mathematical equations and are useful for scientists and engineers. This article addresses the theory and use of imaginary numbers in various domains, e.g. electrical engineering, quantum mechanics, signal processing, etc. What are
+
+
+
+6 min read
+
+
+
+
+Real-Life Applications of Natural Numbers
+Natural numbers are a set of positive integers starting from 1 and extending infinitely. They are the fundamental building blocks of mathematics and have numerous applications in various real-life scenarios. In this article, we will explore some of the most common applications of natural numbers. What are Natural Numbers?Natural numbers, often deno
+
+
+
+4 min read
+
+
+
+
+Applications of Prime Numbers in Real Life
+Prime Number is the number which is divisible only by 1 and the number itself, is called Prime Number. It is the natural number which has only 2 factors. Besides their theoretical significance in number theory, there are several applications of prime numbers in real life in various fields, ranging from cryptography and computer science to finance a
+
+
+
+10 min read
+
+
+
+
+Real-Life Applications of Whole Numbers
+Whole numbers are a subset of real numbers that include all the positive integers, their additive inverses (negative integers), and zero. It starts with zero and contains all positive integers (0,1,2,3,.....). Whole numbers are numbers used in various situations in our daily life. What are Whole Numbers?Integers that are not negative are called who
+
+
+
+5 min read
+
+
+
+
+Real-life Applications of Numbers
+Numbers are symbols used to represent quantities or values. They help us count, measure, and describe things in the world around us. Numbers aren't just abstract symbols or something you find in math class. They're all around us in our daily lives. Table of Content What is NumbersApplications of Numbers Applications of Numbers in Finance and Econom
+
+
+
+10 min read
+
+
+
+
+Real-Life Applications of Rational Numbers
+Rational numbers are also fraction integers used in many aspects of daily life from straightforward computations to complicated engineering designs. Even though, they are useful in figuring out financial transactions. Furthermore, rational numbers play a major role in accurate measurements and proportions in sectors like architecture and constructi
+
+
+
+7 min read
+
+
+
+View More Articles
+
+
+
+Article Tags : 
+
+
+Complex Numbers - MAQ
+
+
+Math-Concepts
+
+
+Mathematics
+
+
+Maths MAQ
+
+
+School Learning
+ 
++2 More
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Explore More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 201305                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CompanyAbout UsLegalCareersIn MediaContact UsAdvertise with usGFG Corporate SolutionPlacement Training ProgramExploreHack-A-ThonsGfG Weekly ContestDSA in JAVA/C++Master System DesignMaster CPGeeksforGeeks VideosGeeks CommunityLanguagesPythonJavaC++PHPGoLangSQLR LanguageAndroid TutorialTutorials ArchiveDSAData StructuresAlgorithmsDSA for BeginnersBasic DSA ProblemsDSA RoadmapTop 100 DSA Interview ProblemsDSA Roadmap by Sandeep JainAll Cheat SheetsData Science & MLData Science With PythonData Science For BeginnerMachine Learning TutorialML MathsData Visualisation TutorialPandas TutorialNumPy TutorialNLP TutorialDeep Learning TutorialHTML & CSSHTMLCSSWeb TemplatesCSS FrameworksBootstrapTailwind CSSSASSLESSWeb DesignPython TutorialPython Programming ExamplesPython ProjectsPython TkinterWeb ScrapingOpenCV TutorialPython Interview QuestionDjangoComputer ScienceOperating SystemsComputer NetworkDatabase Management SystemSoftware EngineeringDigital Logic DesignEngineering MathsDevOpsGitAWSDockerKubernetesAzureGCPDevOps RoadmapCompetitive ProgrammingTop DS or Algo for CPTop 50 TreeTop 50 GraphTop 50 ArrayTop 50 StringTop 50 DPTop 15 Websites for CPSystem DesignHigh Level DesignLow Level DesignUML DiagramsInterview GuideDesign PatternsOOADSystem Design BootcampInterview QuestionsJavaScriptJavaScript ExamplesTypeScriptReactJSNextJSAngularJSNodeJSLodashWeb BrowserPreparation CornerCompany-Wise Recruitment ProcessResume TemplatesAptitude PreparationPuzzlesCompany-Wise PreparationSchool SubjectsMathematicsPhysicsChemistryBiologySocial ScienceEnglish GrammarWorld GKManagement & FinanceManagementHR ManagementFinanceOrganisational BehaviourMarketingFree Online ToolsTyping TestImage EditorCode FormattersCode ConvertersCurrency ConverterRandom Number GeneratorRandom Password GeneratorMore TutorialsSoftware DevelopmentSoftware TestingProduct ManagementSEO - Search Engine OptimizationLinuxExcelAll CheatsheetsGeeksforGeeks VideosDSAPythonJavaC++Web DevelopmentData ScienceCS Subjects 
+
+
+
+
+
+
+@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved
+
+
+
+
+
+
+
+
+
+
+        We use cookies to ensure you have the best browsing experience on our website. By using our site, you
+        acknowledge that you have read and understood our
+        Cookie Policy &
+        Privacy Policy
+
+
+        Got It !
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improvement
+
+
+
+
+
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+This article is being improved by another user right now. You can suggest the changes for now and it will be under the article's discussion tab.
+You will be notified via email once the article is available for improvement.
+                        Thank you for your valuable feedback!
+                    
+
+Suggest changes
+
+
+
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+
+
+Suggest Changes
+Help us improve. Share your suggestions to enhance the article. Contribute your expertise and make a difference in the GeeksforGeeks portal.
+
+
+
+
+
+
+
+Create Improvement
+Enhance the article with your expertise. Contribute to the GeeksforGeeks community and help create better learning resources for all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suggest Changes
+
+
+
+
+
+
+
+Suggestion[CharLimit:2000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create Improvement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What kind of Experience do you want to share?
+
+
+
+
+
+
+
+
+
+Interview Experiences
+
+
+
+
+
+
+
+Admission Experiences
+
+
+
+
+
+
+
+Career Journeys
+
+
+
+
+
+
+
+Work Experiences
+
+
+
+
+
+
+
+Campus Experiences
+
+
+
+
+
+
+
+Competitive Exam Experiences
+
+
+
+
+
+
+                        Can't choose a topic to write? click here for suggested topics
+                    
+
+
+
+                       Write and publish your own Article
+                    
+
+
+
+
+
+
+
+
+
+
+

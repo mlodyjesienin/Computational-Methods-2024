@@ -1,0 +1,731 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calculus of variations | Definition, Examples, & Facts | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				calculus of variations
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+
+                            Introduction
+                        
+
+				References & Edit History
+
+				Related Topics
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+Why New York Is Called "The Big Apple" and How 8 Other Famous Cities Got Their Nicknames
+
+
+
+
+
+
+
+
+
+9 American Political Scandals
+
+
+
+
+
+
+
+
+
+7 of History's Most Notorious Serial Killers 
+
+
+
+
+
+
+
+
+
+10 Best Hockey Players of All Time
+
+
+
+
+
+
+
+
+
+Inventors and Inventions of the Industrial Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+
+
+
+
+
+calculus of variations
+
+
+mathematics
+
+
+
+
+	
+    
+            Actions
+        
+
+
+
+
+	
+			
+			Cite
+		
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+
+
+	
+            
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/calculus-of-variations-mathematics
+
+
+
+
+
+
+	
+                        Give Feedback
+                    
+
+
+
+
+	
+                        External Websites
+                    
+
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                        External Websites
+                    
+
+
+Physics LibreTexts - Calculus of Variations
+
+
+
+
+
+
+
+
+
+	
+    
+                    Print
+        
+
+
+	
+    
+            Cite
+        
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+	
+    
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/calculus-of-variations-mathematics
+
+
+
+
+	
+    
+            Feedback
+        
+
+
+
+
+
+
+	
+                    External Websites
+                
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                    External Websites
+                
+
+
+Physics LibreTexts - Calculus of Variations
+
+
+
+
+
+
+
+
+			
+				Written and fact-checked by
+				
+
+
+The Editors of Encyclopaedia Britannica
+Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.
+
+
+
+
+  The Editors of Encyclopaedia Britannica
+
+Article History
+
+
+
+
+	
+			Table of Contents
+		
+
+
+
+
+Key People: 
+Joseph-Louis Lagrange, comte de l’Empire
+Johann Bernoulli
+Constantin Carathéodory
+Jakob Bernoulli
+Richard Courant
+
+
+(Show more)
+
+
+
+
+Related Topics: 
+analysis
+Plateau problem
+isoperimetric problem
+Euler-Lagrange equation
+
+
+(Show more)
+
+
+
+
+
+					See all related content →
+
+calculus of variations,  branch of mathematics concerned with the problem of finding a function for which the value of a certain integral is either the largest or the smallest possible. Many problems of this kind are easy to state, but their solutions commonly involve difficult procedures of the differential calculus and differential equations.The isoperimetric problem—that of finding, among all plane figures of a given perimeter, the one enclosing the greatest area—was known to Greek mathematicians of the 2nd century bce. The term isoperimetric problem has been extended in the modern era to mean any problem in the calculus of variations in which a function is to be made a maximum or a minimum, subject to an auxiliary condition called the isoperimetric condition, although it may have nothing to do with perimeters. For example, the problem of finding a solid of given volume that has the least surface area is an isoperimetric problem, the given volume being the auxiliary, or isoperimetric, condition. An example of an isoperimetric problem from the field of aerodynamics is that of finding the shape of a solid having a given volume that will encounter minimum resistance as it travels through the atmosphere at a constant velocity.
+
+
+Britannica Quiz
+Numbers and Mathematics
+
+Modern interest in the calculus of variations began in 1696 when Johann Bernoulli of Switzerland proposed a brachistochrone (“least-time”) problem as a challenge to his peers. Suppose that a thin wire in the shape of a curve joins two points at different elevations. Further suppose that a bead is placed on the wire at the higher point and allowed to slide under gravity, starting from rest and assuming no friction. The question is: What should be the shape of the curve so that the bead will reach the lower point in the least time?The problem was solved independently in 1696 by Johann Bernoulli, his brother Jakob Bernoulli, the German Gottfried Wilhelm Leibniz, the Frenchman Guillaume-François-Antoine, marquis de L’Hôpital, and the Englishman Isaac Newton. Their basic idea was to set up an integral for the total time of fall in terms of the unknown curve and then vary the curve so that a minimum time is obtained. This technique, typical of the calculus of variations, led to a differential equation whose solution is a curve called the cycloid.It is possible to formulate various scientific laws in terms of general principles involving the calculus of variations. These are called variational principles and are usually expressed by stating that some given integral is a maximum or a minimum. One example is the French mathematician Pierre-Louis Moreau de Maupertuis’s principle of least action (c. 1744), which sought to explain all processes as driven by a demand that some property be economized or minimized. In particular, minimizing an integral, called an action integral, led several mathematicians (most notably the Italian-French Joseph-Louis Lagrange in the 18th century and the Irish William Rowan Hamilton in the 19th century) to a teleological explanation of Newton’s laws of motion. Nevertheless, a general appreciation of the principle of least resistance came only with its use in the 1940s as a foundation for quantum electrodynamics.
+Applications of variational principles also occur in elasticity, electromagnetic theory, aerodynamics, the theory of vibrations, and other areas in engineering and science.
+Get a Britannica Premium subscription and gain access to exclusive content. 
+Subscribe Now
+ The Editors of Encyclopaedia BritannicaThis article was most recently revised and updated by Adam Augustyn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

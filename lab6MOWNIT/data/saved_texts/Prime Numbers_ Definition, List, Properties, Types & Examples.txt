@@ -1,0 +1,178 @@
+
+
+
+Prime Numbers: Definition, List, Properties, Types & Examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English Get StartedExams SuperCoaching  Live Classes FREETest Series Previous Year Papers  Skill Academy Pass Pass Pass Pro Pass Pass Pro IAS Preparation  More  Free Live Classes  Free Live Tests & Quizzes  Free Quizzes  Previous Year Papers  Doubts  Practice  Refer and Earn  All Exams  Our Selections  Careers  IAS Preparation  Current Affairs Practice GK & Current Affairs Blog Refer & Earn Our Selections  Home  Maths  Prime Numbers Prime Numbers: Definition, List, Properties, Types with Examples Last Updated on Jul 3, 2023  Download as PDF
+OverviewTest SeriesPrime numbers have attracted human attention from the early days of civilization. One of the most interesting things about prime numbers is their distribution among natural numbers. Prime Number is a part of the number system. An understanding of them is basic mathematics and is an important topic of algebra. There are 5 properties of natural numbers: Closure Property, Commutative Property, Associative Property, Identity Property and Distributive Property.What are Prime Numbers?
+Prime Number is a positive integer that is not divisible without remainder by any integer except itself and 1. A prime number cannot be divided by any other numbers without leaving a remainder. It is a number that cannot be factored in. Prime numbers are a subset of natural numbers. For example, the only divisors of 13 are 1 and 13, making 13 a prime number, while the number 24 has divisors 1, 2, 3, 4, 6, 8, 12, and 24, making 24, not a prime number. Positive integers other than 1 which are not prime are called composite numbers.
+Properties of Prime Numbers
+Some of the important properties of prime numbers are given below:
+
+A prime number is a composite number greater than 1. Hence, while dividing the prime number we always get the reminder 1.
+Prime Number has exactly two factors, that is, 1 and the number itself.
+There is one and only one even prime number, that is, 2.
+1 is neither prime nor composite.
+When a set of integers or numbers has only number 1 as the common factor then they are known as Co-Prime Numbers. Hence, any two prime numbers are always co-prime to each other.
+Every number can be expressed as the product of prime numbers.
+Every even integer bigger than 2 can be split into two prime numbers, such as 6 = 3 + 3 or 8 = 3 + 5.
+
+Smallest Prime Number: 2 is the smallest prime number. It is also the only even prime number.
+Largest Prime Number: The largest known prime number is \(2^{82,589,933} − 1\), a number that has 24,862,048 digits when written in base 10. Before then the largest known prime number was \(2^{77,232,917}-1\), having 23,249,425 digits.UGC NET/SET Course Online by SuperTeachers: Complete Study Material, Live Classes & MoreGet UGC NET/SET SuperCoaching @ just₹27999₹12249 Your Total Savings ₹15750 Explore SuperCoachingWant to know more about this Super Coaching ? Download Brochure List of prime numbers between 1 to 10
+There are four prime numbers between 1 to 10. The list between 1 to 10: 2, 3, 5, 7Get Pass ProNewAll-in-One Pass For All Your ExamsAlso IncludesAll Test SeriesPrev. Year PaperPracticePro Live TestsUnlimited Test Re-AttemptsList of prime numbers between 1 to 20
+There are 8 prime numbers under 20. The list between 1 to 20: 2, 3, 5, 7, 11, 13, 17 and 19.Test Series20.3k Users MH-SET (Assistant Professor) Test Series 2021 31 Total Tests | 1 Free Tests English 8 Previous Year Paper20 Subject Test3 Full TestView Test Series16.5k Users All SET Exams Mock Test 109 Total Tests | 1 Free Tests English,Hindi 10 Subject Test30 Chapter Test6 Full Tests+63 more testsView Test Series10.3k Users MAHA TAIT 2023 Mock Test 14 Total Tests | 1 Free Tests English,Marathi 4 Sectional Test4 Mini Full Test3 Full Test+3 more testsView Test SeriesList of prime numbers between 1 to 50
+There are 8 prime numbers under 16. The list between 1 to 50: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, and 47.List of prime numbers between 1 to 100
+There are 25 prime numbers under 100. The list between 1 to 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, and 97.List of prime numbers between 1 to 1000
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599, 601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691, 701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797, 809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887, 907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997.Even and Odd Prime Numbers
+Parity is the property of an integer of whether it is even or odd. An integer’s parity is even if it is divisible by two with no remainders left and its parity is odd if it isn’t; that is, its remainder is 1. Let’s see how we can distribute them as Odd and Even Prime Numbers.
+Odd Prime Number: Except for the number 2, all prime numbers are odd, since an even number is divisible by 2, which makes it composite. Hence, the distance between any two prime numbers in a row is at least 2. They are called successive or consecutive prime numbers.
+Even Prime Number: There is one and only one even prime number, that is, 2.
+Find Prime Numbers using Divisibility Test
+To prove whether a number is a prime number, follow the steps below:
+Step 1: First try dividing it by 2. Use the test for divisibility of 2.
+Step 2: See if you get a whole number. If you do, it can’t be a prime number.
+Step 3: If you don’t get a whole number, next try dividing it by prime numbers: 3, 5, 7, 11 (not by 9 as 9 is divisible by 3) by using their divisibility test and so on, always dividing by prime numbers. See if you get a whole number. If you do, it can’t be a prime number.
+Find Prime Numbers Greater than 40
+If you need to list out all the prime numbers greater than 40, use the formula \(n^2 + n + 41\). All you need to do is put all the whole numbers in place of ‘n’ one by one.
+However, this formula will only give you all the prime numbers greater than 40.
+Put n = 0 \(0^2 + 0 + 41 = 0 + 41 = 41\)
+Put n = 1 \(1^2 + 1 + 41 = 2 + 41 = 43\)
+Put n = 2 \(2^2 + 2 + 41 = 6 + 41 = 47\)
+Find Prime Numbers Except 2 or 3
+There is a simple formula to calculate prime numbers other than 2 and 3. We can use the formula \(6n \pm 1\).
+Put n = 1, \(6(1) \pm 1\) = 5 and 7.
+Put n = 2, \(6(2) \pm 1\) = 11 and 13.
+Learn about Prime Numbers 1 to 100
+Find Prime Numbers using Sieve of Eratosthenes
+Eratosthenes was one of the greatest scholars of the Hellenistic period, who lived a few decades after Euclid. He served as the chief librarian in the library of Alexandria. He designed a clever way to find all the prime numbers up to a given number. Since this method is based on the idea of sieving (sifting) the composite numbers, it is called the Sieve of Eratosthenes. Here’s a demonstration of the sieve of Eratosthenes.
+
+Circle the number 2, since it is the first prime number, and then erase all its higher multiples, namely all the composite even numbers.
+Move on to the next non-erased number, the number 3. Erase all its higher multiples of 3 too.
+Repeat the same texts for the next non-erased numbers.
+Prime Numbers Chart from 1 to 100
+
+Learn about Odd composite numbers and Even Composite Numbers
+Other Types of Prime Numbers
+ 
+There are some other kinds of prime numbers that have special definitions and applications. Let’s see them one by one.
+Gaussian Prime Number: There is another kind of Prime Number called Gaussian Prime Number.
+The Gaussian Prime Numbers are Gaussian integers z=a+bi satisfying one of the following properties.
+
+If both a and b are nonzero then, a+bi is a Gaussian prime if \(a^2+b^2\) is an ordinary prime.
+If a=0, then bi is a Gaussian prime if and only if |b| is an ordinary prime and |b|= 3 (mod 4).
+If b=0, then a is a Gaussian prime if and only if |a| is an ordinary prime and |a|= 3 (mod 4).
+
+Mersenne Prime Number: A Mersenne prime is a prime number that is one less than a power of two. That is, it is a prime number of the form \(M_n = 2^n − 1\) for some integer n. They are named after Marin Mersenne, a French Minim friar, who studied them in the early 17th century. If n is a composite number then so is \(2^n − 1\).
+The search for Mersenne primes is an active field in number theory and computer science. It is also one of the major applications for distributed computing, a process in which thousands of computers are linked through the Internet and cooperate in solving a problem.
+Fermat Prime Number: A Fermat number, named after Pierre de Fermat.
+\(\begin{matrix}
+{\displaystyle F_{n}=2^{2^{n}}+1,}\\
+\text{ The Fermat numbers satisfy the following recurrence relations }\\
+{\displaystyle F_{n}=(F_{n-1}-1)^{2}+1}\\
+{\displaystyle F_{n}=F_{0}\cdots F_{n-1}+2}{\displaystyle F_{n}=F_{0}\cdots F_{n-1}+2}\\
+\text{ for n } \geq 1,\\
+{\displaystyle F_{n}=F_{n-1}+2^{2^{n-1}}F_{0}\cdots F_{n-2}}{\displaystyle F_{n}=F_{n-1}+2^{2^{n-1}}F_{0}\cdots F_{n-2}}\\
+{\displaystyle F_{n}=F_{n-1}^{2}-2(F_{n-2}-1)^{2}}{\displaystyle F_{n}=F_{n-1}^{2}-2(F_{n-2}-1)^{2}}\\
+\end{matrix}\)
+Learn about Smallest composite numbers and Largest composite numbers
+What are Co Prime Numbers?
+When a set of integers or numbers has only number 1 as the common factor then they are known as Co-Prime Numbers. It means that the Highest Common Factor or HCF should be 1 for those numbers. Hence, any two prime numbers are always co-prime to each other. Co-prime number is also called a relatively prime or mutually prime number. There is an interesting property of co-prime numbers. The sum of any two co-prime numbers is coprime with their product.
+Properties of a Co Prime Numbers
+The properties of a Co Prime Number are given below:
+
+The number 1 is, by definition, co-prime with every number.
+Any two prime numbers are always co-prime to each other. As discussed earlier, prime numbers always have two factors. They are 1 and the number itself. So, the common factor between two prime numbers will always be 1.
+
+Example: 3, 7 (Factors of 3 are 1, 3 and Factors of 7 are 1, 7. So 3, 7 are Prime Factors.)
+
+Any two consecutive integers or numbers will always be Co Prime numbers since the successive numbers’ HCF will be always 1.
+
+Example: {1,2}, {2,3}, {3,4}, {4,5}, {5,6} and so on.
+
+Any two even numbers can never be co-prime numbers since the even numbers will always have 2 as their common factor.
+If two numbers or integers have their unit number as 0 and 5, they cannot be co-prime numbers as they will always have 5 as their common factor.
+
+Example: {30, 35} cannot be co-prime numbers since both the numbers are divisible by 5.
+ 
+Learn about Complex Numbers
+Difference Between Prime and Composite Numbers
+Prime numbers and composite numbers differ based on the number of factors they have. There are many other differences between these two types of numbers. They are essentially opposite of each other in mathematical terms. Let’s see their differences in detail.
+
+
+
+
+Prime Numbers
+Composite Numbers
+
+
+Prime Numbers have only two factors, 1 and the number itself.
+Composite numbers can have more than two factors.
+
+
+Prime number pairs always make coprime numbers.
+Any two even numbers can never be co-prime numbers.
+
+
+Prime numbers are always odd numbers, except 2.
+Composite numbers can be even or odd depending upon the factors they have.
+
+
+Prime Numbers have prime factors except 1 which is neither prime nor composite.
+If a composite number has a minimum of one even number, it will be an even number. If it has no even number in its factors, then it will be an odd number.
+
+
+Prime numbers become rarer and rarer as numbers get larger.
+Composite numbers are more as the number line moves towards the right.
+
+
+
+Solved Examples of Prime Numbers
+Here are some solved examples of prime numbers:
+Example 1: Number of Prime between 1 to 100 is …………
+Solution: There are 25 prime numbers under 100. The list of prime numbers between 1 to 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, and 97.
+Example 2: Is 51 a prime number?
+Solution: Let’s use the divisibility test on 51.
+Divisibility Test of 2: It does not end with 0, 2, 4, 6, 8. Hence, it is not divisible by 2.
+Divisibility Test of 2: To check the divisibility by 3, we need to add the digits of the number 51. 5 + 1 = 6. 6 is divisible by 3. Hence, 51 is divisible by 3. 3 x 17 = 51
+Thus, 51 is not a prime number because it can be divided by 3 and 17, as well as by itself and 1. ie it has four factors.
+Hope this article on the Prime Number was informative. Get some practice of the same on our free Testbook App.
+
+
+
+
+If you are checking Prime Numbers article, also check related maths articles:
+
+
+Even numbers
+Numbers
+
+
+Odd numbers
+Is 1 a prime number
+
+
+Integers
+Ordinal number
+
+
+
+More Articles for Maths Even Composite NumbersPrime Numbers From 1 To 1000Composite Numbers 1 To 100Composite Numbers 1 To 1000Prime Numbers 1 To 100What Are Twin PrimesSieve of EratosthenesOdd Composite NumbersLargest Composite NumbersSmallest Composite NumbersPrime Numbers FAQsWhat are Prime Numbers?Prime Number is a positive integer that is not divisible without remainder by any integer except itself and 1. A prime number cannot be divided by any other numbers without leaving a remainder.Which is the smallest prime number?2 is the smallest prime number. It is also the only even prime number.Which is the largest prime number?The largest known prime number is \(2^{82,589,933} − 1\), a number that has 24,862,048 digits when written in base 10.Mention the list of prime numbers between 1 to 100?There are 25 prime numbers under 100. The list between 1 to 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, and 97.What is the difference between prime and composite numbers?Prime Numbers have only two factors, 1 and the number itself while Composite numbers can have more than two factors.Report An ErrorImportant LinksOverview30 in words50 in words70 in words40 in wordsMidpoint FormulaSquare Root45000 in wordsCube Root1999 in roman numerals13 in roman numerals200 in roman numerals70 in roman numeralsFactors of 27Factors of 16Factors of 120Square Root and Cube RootSquares and Square rootsTypes of Function GraphsRight Triangle Congruence Theorem80 in WordsSign Up Now &Daily Live Classes3000+ TestsStudy Material & PDFQuizzes With Detailed Analytics+ More BenefitsGet Free Access NowImportant ExamsUGC NETSSC JESBI ClerkUPTETUPSC CDSUP Police ConstableRRB ALPBihar Police ConstableBihar TeacherBihar Police SIChandigarh Police ConstableDFCCIL Junior ExecutiveBihar Secondary TeacherUPPCSIBPS POUGC CSIR NETRBI AssistantRRB JEIBPS SOBPSC ExamIndian Navy SSRUPSSSC VDOIndian Navy ChargemanDFCCIL ExecutiveEMRS TGTBihar Senior Secondary TeacherAFCATSBI POUPSC NDAUPSC CSEDelhi Police ConstableDDA JEIndian Navy MRIDBI ExecutiveUPSC CAPF ACBSF ROBihar Primary TeacherEMRS PGTSSC GD ConstableUPSC EPFOSSC CPOEPFO SSAJSSC CGLIBPS RRB POJSSC JEDSSSB TGTIBPS RRB Office AssistantDSSSB PGTHaryana CET Group DSSC MTS & HavaldarKey DifferencesDifference Between Compiler and InterpreterDifference Between PERT and CPMDifference Between Quality Assurance and Quality ControlDifference Between Cheque and Bill of ExchangeIAS vs NDA salaryDifference Between Census and SamplingDifference Between Induction and OrientationDifference Between Job Analysis and Job EvaluationDifference Between DBMS and RDBMSDifference Between Kharif and Rabi CropsCAT Score vs PercentileDifference Between Vouching and VerificationDifference Between Foreign Trade and Foreign InvestmentDifference Between Bailable Offense and Non Bailable OffenseDifference Between Confession and AdmissionDifferences Between direct democracy and indirect democracyDifference Between shares and debenturesDifference Between Entrepreneur and ManagerDifference Between FERA and FEMADifference Between Standard Costing and Budgetary ControlDifference Between Pressure Group and Political PartyDifference Between Common Intention and Common ObjectDifference Between Summon and WarrantDifference Between Java and JavaScriptDifference Between C and JavaDifference Between Manual Accounting and Computerized AccountingDifference Between Amalgamation and AbsorptionDifference Between Census and SamplingDifference Between NDA and CDSDifference Between Right Shares and Bonus SharesTest SeriesCTET Mock TestSSC CHSL Mock TestSBI PO Mock TestAMCAT Mock TestMP GK Mock TestWB TET Mock TestLIC ADO Mock TestSSC GD Constable Mock TestCUET Physics Mock TestECGC PO Mock TestNABARD Development Assistant Mock TestFCI Manager Mock TestCUET Mock TestNDA Mock TestUGC NET Paper 1 Mock TestLIC AAO Mock TestTCS NQT Mock TestRBI Assistant Mock TestUGC NET Commerce Mock TestIBPS SO Mock TestHaryana CET Mock TestNIMCET Mock TestMAH MBA CET Mock TestCUET Chemistry Mock TestNEET Mock TestIBPS PO Mock TestAFCAT Mock TestTCS Mock TestIBPS RRB PO Mock TestREET Test SeriesCAT Exam Mock TestESIC SSO Mock TestIndian Army GD Mock TestCUET Economics Mock TestUGC NET English Mock TestIB Security Assistant Mock TestJEE Main Mock TestIBPS Clerk Mock TestRRB Group D Mock TestCDS Mock TestSSC Stenographer Mock TestRRB NTPC Mock TestCUET Maths Mock TestInfosys Mock TestUPPCL Executive Assistant Mock TestCUET History Mock TestCUET Political Science Mock TestCSIR NET Life Science Mock TestTestbook Edu Solutions Pvt. Ltd.  2nd Floor, Plot No. 4, Minarch Tower, Sector-44, Gurgaon, Haryana, India, 122003 [email protected]Toll Free:1800 203 0577Office Hours: 10 AM to 7 PM (all 7 days)CompanyAbout usCareers  We are hiringTeach Online on TestbookMediaSitemapProductsTest SeriesLive Tests and QuizzesTestbook PassOnline VideosPracticeLive ClassesBlogRefer & EarnBooks Exam Calendar GK & CA Teacher Training ProgramDoubtsHire from SkillAcademyOur AppFollow us onCopyright © 2014-2024 Testbook Edu Solutions Pvt. Ltd.: All rights reservedUser PolicyTermsPrivacy
+
+
+
+

@@ -1,0 +1,1029 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Concepts of Quantum Mechanics | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematical Concepts of Quantum Mechanics
+        
+
+Textbook
+© 2011
+
+
+2nd edition
+View latest edition
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Stephen J. Gustafson
+0, 
+                        
+
+Israel Michael Sigal
+1
+
+
+
+
+
+
+Stephen J. Gustafson
+
+
+
+                                    
+                                        Dept. Mathematics, University of British Columbia, Vancouver, Canada
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+Israel Michael Sigal
+
+
+
+                                    
+                                        Dept. Mathematics, University of Toronto, Toronto, Canada
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+A very readable introduction to modern mathematical topics in quantum mechanics
+Solves the problem of how to teach quantum mechanics to mathematically oriented students in an optimal way
+Shows how the mathematical treatment of quantum mechanics brings insights to physics
+Useful guide to the literature
+Includes supplementary material: sn.pub/extras
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Universitext (UTX)
+                    
+
+
+
+
+
+
+
+
+
+145k Accesses
+
+
+
+
+44 
+Citations
+
+
+
+
+
+4
+                    
+Altmetric
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 53.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (25 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-xiii
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Physical Background
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 1-7
+
+
+
+
+
+
+
+
+Dynamics
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 9-17
+
+
+
+
+
+
+
+
+Observables
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 19-25
+
+
+
+
+
+
+
+
+Quantization
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 27-40
+
+
+
+
+
+
+
+
+Uncertainty Principle and Stability of Atoms and Molecules
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 41-45
+
+
+
+
+
+
+
+
+Spectrum and Dynamics
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 47-59
+
+
+
+
+
+
+
+
+Special Cases
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 61-73
+
+
+
+
+
+
+
+
+Bound States and Variational Principle
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 75-87
+
+
+
+
+
+
+
+
+Scattering States
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 89-98
+
+
+
+
+
+
+
+
+Existence of Atoms and Molecules
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 99-105
+
+
+
+
+
+
+
+
+Perturbation Theory: Feshbach-Schur Method
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 107-125
+
+
+
+
+
+
+
+
+General Theory of Many-particle Systems
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 127-140
+
+
+
+
+
+
+
+
+Self-consistent Approximations
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 141-148
+
+
+
+
+
+
+
+
+The Feynman Path Integral
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 149-154
+
+
+
+
+
+
+
+
+Quasi-classical Analysis
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 155-171
+
+
+
+
+
+
+
+
+Resonances
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 173-189
+
+
+
+
+
+
+
+
+Quantum Statistics
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 191-208
+
+
+
+
+
+
+
+
+The Second Quantization
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 209-226
+
+
+
+
+
+
+
+
+Quantum Electro-Magnetic Field - Photons
+
+
+Stephen J. Gustafson, Israel Michael Sigal
+
+Pages 227-245
+
+
+
+
+
+
+
+
+ 1 
+
+
+ 2 
+
+
+
+
+Next page
+
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+Schrödinger equation
+
+
+
+
+quantization
+
+
+
+
+quantum mechanics
+
+
+
+
+spectral theory
+
+
+
+
+
+
+About this book
+
+The book gives a streamlined introduction to quantum mechanics while describing the basic mathematical structures underpinning this discipline. Starting with an overview of key physical experiments illustrating the origin of the physical foundations, the book proceeds with a description of the basic notions of quantum mechanics and their mathematical content.It then makes its way to topics of current interest, specifically those in which mathematics plays an important role. The more advanced topics presented include many-body systems, modern perturbation theory, path integrals, the theory of resonances, quantum statistics, mean-field theory, second quantization, the theory of radiation (non-relativistic quantum electrodynamics), and the renormalization group.With different selections of chapters, the book can serve as a text for an introductory, intermediate, or advanced course in quantum mechanics. The last four chapters could also serve as an introductory course in quantum field theory.
+
+
+
+Reviews
+
+From the reviews of the second edition:“This is the second edition of a readable introduction to modern mathematical topics in quantum mechanics intended for students of mathematics or physics. In comparison to the first edition the authors have tried to make the book more self-contained by adding further proofs and background material. … The overall style has not changed and with the extra background material it is now even better suited as the basis of a graduate course.” (G. Teschl, Monatshefte für Mathematik, Vol. 166 (2), May, 2012)
+                
+
+
+Authors and Affiliations
+
+
+
+
+                                        Dept. Mathematics, University of British Columbia, Vancouver, Canada
+                                    
+
+                                    
+                                        Stephen J. Gustafson
+                                    
+                                
+
+
+
+                                        Dept. Mathematics, University of Toronto, Toronto, Canada
+                                    
+
+                                    
+                                        Israel Michael Sigal
+                                    
+                                
+
+
+
+
+
+Bibliographic Information
+
+
+
+Book Title: Mathematical Concepts of Quantum Mechanics
+Authors: Stephen J. Gustafson, Israel Michael Sigal
+Series Title: 
+
+Universitext
+
+DOI: https://doi.org/10.1007/978-3-642-21866-8
+Publisher: Springer Berlin, Heidelberg
+eBook Packages: 
+
+Mathematics and Statistics, Mathematics and Statistics (R0)
+
+Copyright Information: Springer-Verlag Berlin Heidelberg 2011
+eBook ISBN: 978-3-642-21866-8Published: 24 September 2011
+Series ISSN: 
+ 0172-5939 
+Series E-ISSN: 
+ 2191-6675 
+Edition Number: 2
+Number of Pages: XIII, 382
+Number of Illustrations: 37 b/w illustrations
+Topics: 
+
+Functional Analysis, 
+Theoretical, Mathematical and Computational Physics, 
+Quantum Physics
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 53.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

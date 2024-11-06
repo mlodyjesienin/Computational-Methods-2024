@@ -1,0 +1,544 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electromagnetism - Induction, Faraday, Magnetism | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				electromagnetism
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionFundamentalsCoulomb’s lawPrinciple of charge conservationElectric fields and forcesMagnetic fields and forcesInteraction of a magnetic field with a chargeEffects of varying magnetic fieldsFaraday’s law of inductionSelf-inductance and mutual inductanceEffects of varying electric fieldsHistorical surveyEarly observations and applicationsEmergence of the modern sciences of electricity and magnetismPioneering effortsInvention of the Leyden jarFormulation of the quantitative laws of electrostatics and magnetostaticsFoundations of electrochemistry and electrodynamicsDevelopment of the batteryExperimental and theoretical studies of electromagnetic phenomenaFaraday’s discovery of electric inductionMaxwell’s unified theory of electromagnetismDiscovery of the electron and its ramificationsSpecial theory of relativityDevelopment of electromagnetic technology
+
+				References & Edit History
+
+				Quick Facts & Related Topics
+
+
+
+				Images & Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+electromagnetism summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Physics and Natural Law
+
+
+
+
+
+
+
+
+
+All About Physics Quiz
+
+
+
+
+
+                        Related Questions
+                    
+
+
+				What was Carl Friedrich Gauss’s childhood like?
+
+				What awards did Carl Friedrich Gauss win?
+
+				How was Carl Friedrich Gauss influential?
+
+				How did James Clerk Maxwell die?
+
+				What was Michael Faraday’s childhood like?
+
+
+
+
+                        Read Next
+                    
+
+
+
+
+
+
+
+How Fast Is the Universe Expanding?
+
+
+
+
+
+
+
+
+
+How Is Light Both a Particle and a Wave?
+
+
+
+
+
+
+
+
+
+Inventors and Inventions of the Industrial Revolution
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+Why Is Pride Month Celebrated in June?
+
+
+
+
+
+
+
+
+
+10 Best Hockey Players of All Time
+
+
+
+
+
+
+
+
+
+6 Animals That Eat Their Mates
+
+
+
+
+
+
+
+
+
+What’s the Difference Between Asian and African Elephants?
+
+
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+9 American Political Scandals
+
+
+
+
+
+
+
+
+
+Inventors and Inventions of the Industrial Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Physics
+
+
+
+				Matter & Energy
+
+
+
+
+
+ Faraday’s discovery of electric induction Faraday's magnetic induction experimentFigure 7: Faraday's magnetic induction experiment. When the switch S is closed in the primary circuit, a momentary current flows in the secondary circuit, giving a transient deflection of the compass needle M.(more)Faraday, the greatest experimentalist in electricity and magnetism of the 19th century and one of the greatest experimental physicists of all time, worked on and off for 10 years trying to prove that a magnet could induce electricity. In 1831 he finally succeeded by using two coils of wire wound around opposite sides of a ring of soft iron (Figure 7). The first coil was attached to a battery; when a current passed through the coil, the iron ring became magnetized. A wire from the second coil was extended to a compass needle a metre away, far enough so that it was not affected directly by any current in the first circuit. When the first circuit was turned on, Faraday observed a momentary deflection of the compass needle and its immediate return to its original position. When the primary current was switched off, a similar deflection of the compass needle occurred but in the opposite direction. Building on this observation in other experiments, Faraday showed that changes in the magnetic field around the first coil are responsible for inducing the current in the second coil. He also demonstrated that an electric current can be induced by moving a magnet, by turning an electromagnet on and off, and even by moving an electric wire in Earth’s magnetic field. Within a few months, Faraday built the first, albeit primitive, electric generator. Henry had discovered electric induction quite independently in 1830, but his results were not published until after he had received news of Faraday’s 1831 work, nor did he develop the discovery as fully as Faraday. In his paper of July 1832, Henry reported and correctly interpreted self-induction. He had produced large electric arcs from a long helical conductor when it was disconnected from a battery. When he had opened the circuit, the rapid decrease in the current had caused a large voltage between the battery terminal and the wire. As the wire lead was pulled away from the battery, the current continued to flow for a short time in the form of a bright arc between the battery terminal and the wire. Faraday’s thinking was permeated by the concept of electric and magnetic lines of force. He visualized that magnets, electric charges, and electric currents produce lines of force. When he placed a thin card covered with iron filings on a magnet, he could see the filings form chains from one end of the magnet to the other. He believed that these lines showed the directions of the forces and that electric current would have the same lines of force. The tension they build explains the attraction and repulsion of magnets and electric charges. Faraday had visualized magnetic curves as early as 1831 while working on his induction experiments; he wrote in his notes, “By magnetic curves I mean lines of magnetic forces which would be depicted by iron filings.” Faraday opposed the prevailing idea that induction occurred “at a distance”; instead, he held that induction occurs along curved lines of force because of the action of contiguous particles. Later he explained that electricity and magnetism are transmitted through a medium that is the site of electric or magnetic “fields,” which make all substances magnetic to some extent. Faraday was not the only researcher laying the groundwork for a synthesis between electricity, magnetism, and other areas of physics. On the continent of Europe, primarily in Germany, scientists were making mathematical connections between electricity, magnetism, and optics. The work of the physicists Franz Ernst Neumann, Wilhelm Eduard Weber, and H.F.E. Lenz belongs to this period. At the same time, Helmholtz and the English physicists William Thomson (later Lord Kelvin) and James Prescott Joule were clarifying the relationship between electricity and other forms of energy. Joule investigated the quantitative relationship between electric currents and heat during the 1840s and formulated the theory of the heating effects that accompany the flow of electricity in conductors. Helmholtz, Thomson, Henry, Gustav Kirchhoff, and Sir George Gabriel Stokes also extended the theory of the conduction and propagation of electric effects in conductors. In 1856 Weber and his German colleague, Rudolf Kohlrausch, determined the ratio of electric and magnetic units and found that it has the same dimensions as light and that it is almost exactly equal to its velocity. In 1857 Kirchhoff used this finding to demonstrate that electric disturbances propagate on a highly conductive wire with the speed of light.   Maxwell’s unified theory of electromagnetism The final steps in synthesizing electricity and magnetism into one coherent theory were made by Maxwell. He was deeply influenced by Faraday’s work, having begun his study of the phenomena by translating Faraday’s experimental findings into mathematics. (Faraday was self-taught and had never mastered mathematics.) In 1856 Maxwell developed the theory that the energy of the electromagnetic field is in the space around the conductors as well as in the conductors themselves. By 1864 he had formulated his own electromagnetic theory of light, predicting that both light and radio waves are electric and magnetic phenomena. While Faraday had discovered that changes in magnetic fields produce electric fields, Maxwell added the converse: changes in electric fields produce magnetic fields even in the absence of electric currents. Maxwell predicted that electromagnetic disturbances traveling through empty space have electric and magnetic fields at right angles to each other and that both fields are perpendicular to the direction of the wave. He concluded that the waves move at a uniform speed equal to the speed of light and that light is one form of electromagnetic wave. Their elegance notwithstanding, Maxwell’s radical ideas were accepted by few outside England until 1886, when the German physicist Heinrich Hertz verified the existence of electromagnetic waves traveling at the speed of light; the waves he discovered are known now as radio waves. Maxwell’s four field equations represent the pinnacle of classical electromagnetic theory. Subsequent developments in the theory have been concerned either with the relationship between electromagnetism and the atomic structure of matter or with the practical and theoretical consequences of Maxwell’s equations. His formulation has withstood the revolutions of relativity and quantum mechanics. His equations are appropriate for distances as small as 10−10 centimetres—100 times smaller than the size of an atom. The fusion of electromagnetic theory and quantum theory, known as quantum electrodynamics, is required only for smaller distances. While the mainstream of theoretical activity concerning electric and magnetic phenomena during the 19th century was devoted to showing how they are interrelated, some scientists made use of them to discover new properties of materials and heat. Weber developed Ampère’s suggestion that there are internal circulating currents of molecular size in metals. He explained how a substance loses its magnetic properties when the molecular magnets point in random directions. Under the action of an external force, they may turn to point in the direction of the force; when all point in this direction, the maximum possible degree of magnetization is reached, a phenomenon known as magnetic saturation. In 1895 Pierre Curie of France discovered that a ferromagnetic substance has a specific temperature above which it ceases to be magnetic. Finally, superconductivity was discovered in 1900 by the German physicist Heike Kammerlingh-Onnes. In superconductivity, electric conductors lose all resistance at very low temperatures.    Discovery of the electron and its ramifications cathode rayCathode rays casting a shadow of a Maltese cross in a Crookes tube, powered by a Ruhmkorff coil.(more)Although little of major importance was added to electromagnetic theory in the 19th century after Maxwell, the discovery of the electron in 1898 opened up an entirely new area of study: the nature of electric charge and of matter itself. The discovery of the electron grew out of studies of electric currents in vacuum tubes. Heinrich Geissler, a glassblower who assisted the German physicist Julius Plücker, improved the vacuum tube in 1854. Four years later, Plücker sealed two electrodes inside the tube, evacuated the air, and forced electric currents between the electrodes; he attributed the green glow that appeared on the wall of the tube to rays emanating from the cathode. From then until the end of the century, the properties of cathode-ray discharges were studied intensively. The work of the English physicist Sir William Crookes in 1879 indicated that the luminescence was a property of the electric current itself. Crookes concluded that the rays were composed of electrified charged particles. In 1898 another English physicist, Sir J.J. Thomson, identified a cathode ray as a stream of negatively charged particles, each having a mass 1/1836 smaller than that of a hydrogen ion. Thomson’s discovery established the particulate nature of charge; his particles were later dubbed electrons. Following the discovery of the electron, electromagnetic theory became an integral part of the theories of the atomic, subatomic, and subnuclear structure of matter. This shift in focus occurred as the result of an impasse between electromagnetic theory and statistical mechanics over attempts to understand radiation from hot bodies. Thermal radiation had been investigated in Germany by the physicist Wilhelm Wien between 1890 and 1900. Wien had virtually exhausted the resources of thermodynamics in dealing with this problem. Two British scientists, Lord Rayleigh (John William Strutt) and Sir James Hopwood Jeans, had by 1900 applied the newly developed science of statistical mechanics to the same problem. They obtained results that, though in agreement with Wien’s thermodynamic conclusions (as distinct from his speculative extensions of thermodynamics), only partially agreed with experimental observations. The German physicist Max Planck attempted to combine the statistical approach with a thermodynamic approach. By concentrating on the necessity of fitting together the experimental data, he was led to the formulation of an empirical law that satisfied Wien’s thermodynamic criteria and accommodated the experimental data. When Planck interpreted this law in terms of Rayleigh’s statistical concepts, he concluded that radiation of frequency ν exists only in quanta of energy. Planck’s result, including the introduction of the new universal constant h in 1900, marked the foundation of quantum mechanics and initiated a profound change in physical theory (see atom: Bohr’s shell model). By 1900 it was apparent that Thomson’s electrons were a universal constituent of matter and, thus, that matter is essentially electric in nature. As a result, in the early years of the 20th century, many physicists attempted to construct theories of the electromagnetic properties of metals, insulators, and magnetic materials in terms of electrons. In 1909 the Dutch physicist Hendrik Antoon Lorentz succeeded in doing so in The Theory of Electrons and Its Applications to the Phenomena of Light and Radiant Heat; his work has since been modified by quantum theory.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

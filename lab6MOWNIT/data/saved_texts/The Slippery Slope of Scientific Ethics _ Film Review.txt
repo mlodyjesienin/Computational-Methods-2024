@@ -1,0 +1,475 @@
+
+
+
+
+
+  
+
+
+
+
+
+The Slippery Slope of Scientific Ethics | Film Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+ Subscribe
+
+
+
+
+About Us
+Events
+Contact Us
+
+Addresses
+Submissions
+Advertising
+
+
+
+
+
+
+  Subscribe Today
+ Search
+
+
+Explore Issues
+
+By Topic
+
+Agriculture and Food
+Artificial Intelligence and Machine Learning
+Biological Technology
+Climate
+Defense and National Security
+Digital Landscape
+Diversity, Equity, and Inclusion
+Education
+Energy
+Engineering and Infrastructure
+Environment
+Ethics, Values, and Philosophy
+Global Affairs
+Innovation Policy
+Medicine
+Public Health
+Research Conduct
+Science and Society
+Science Politics
+Space
+Transportation
+Workforce
+
+
+By Focus
+
+Navigating a Polluted Information EcosystemFake news, misinformation, and disinformation have become bywords for the kinds of false and misleading information that’s rampant online. But these terms—and a focus on fact-checking problematic content more generally—provide little understanding of the ways people create and share information. The essays here identify ways to help people navigate today’s polluted information ecosystems. Read responses to this series.
+Human Gene EditingRecent technological breakthroughs—most notably the development of CRISPR precision gene editing—have given scientists unprecedented power to manipulate the building blocks of life, including the human genome.
+
+
+By Section
+
+Perspectives
+Real Numbers
+Forum
+Editor’s Journal
+Fiction and Poetry
+Book Reviews
+
+
+By Interview
+
+Carla Hayden
+Arati Prabhakar
+Ben S. Bernanke
+Freeman Hrabowski III
+Eddie Bernice Johnson
+Anne Case
+Jeremy Farrar
+Alondra Nelson
+Sethuramen Panchanathan
+
+
+
+
+Archives
+News
+Podcast
+Galleries
+Newsletter
+ 
+
+
+
+
+
+
+
+
+
+
+National Academy of Sciences
+Arizona State University
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 7, 2023
+Book Reviews
+
+
+The Slippery Slope of Scientific Ethics
+By Deborah Poskanzer
+Review ofOppenheimerBy Christopher Nolan, directorUniversal Pictures, 2023, 180 min.
+
+
+Christopher Nolan’s film Oppenheimer, based on the life of the physicist known as the father of the atomic bomb, has surpassed blockbuster status to become a cultural juggernaut. It has spawned internet memes, discussion panels, and editorials; in my home state of California there are now tours of the sites where “Oppie” spent many years living and working.
+For students of science policy, J. Robert Oppenheimer’s work on the Manhattan Project is a quintessential case study in the ethical—or unethical—practice of science. During the development of the atomic bomb, he claimed that the catastrophic potential of fission weapons alone could frighten the world into peace. His postwar activities suggested deep remorse, although he never explicitly apologized. Did he truly believe he would be able to control the results of his work, or did his scientific curiosity give rise to moral blindness? Some Manhattan Project participants held that scientists have an ethical responsibility to anticipate and, if necessary, forestall the consequences of their research. Are scientists indeed subject to such a moral imperative, or is that the purview of politics? When technical experts are asked to advise the government, what are the precise boundaries of “advice”? What is the scientist’s role vis-à-vis the state? To this day, the science policy community grapples with issues that surfaced around that project.
+Most dramatists are drawn to a later chapter of Oppenheimer’s life—his postwar activism, when he used his renown to lobby for world peace. His promotion of open scientific sharing with the Soviets at the beginning of the Cold War, his condemnation of the arms race, and his objections to the development of next-generation thermonuclear weapons fanned suspicions of his disloyalty. The resulting revocation of his security clearance in 1954 left him a broken man.  
+The appeal of this narrative is obvious: hubris leading to downfall, the idealist martyred at the hands of cynical political operators. Nolan’s Oppenheimer foregrounds the drama of the tormented tragic hero from the start, opening with a similar epigram as its source material, the Pulitzer-winning 2005 biography by Kai Bird and Martin J. Sherwin, American Prometheus: “Prometheus stole fire from the gods and gave it to man. For this, he was chained to a rock and tortured for eternity.” The very structure of the film insists on the primacy of the personal over the scientific, unfolding as a series of flashbacks from 1959—the year it comes to light that Oppenheimer’s downfall was engineered by a vindictive colleague. 
+For students of science policy, J. Robert Oppenheimer’s work on the Manhattan Project is a quintessential case study in the ethical—or unethical—practice of science.
+No one expects this film to be about quantum theory. The choice to emphasize a personal or political story over a scientific one is not in itself problematic. Nolan has touted the soundness of his film’s science as based on consultations with real-life scientists, the same promotional strategy used for his 2014 drama Interstellar, even though that film was billed as science fiction.But the “real” science in Oppenheimer is depicted by a series of trite tropes such as scenes of frenzied chalkboard scribbling and top-notch (and top-volume) CGI effects.
+Coming from a top-tier director with a long list of blockbusters, the myths Nolan’s Oppenheimer creates or alters will remain in the mass imagination for a long time. And for many millions of people, the film is likely to serve as their only source of information on research ethics, science policy, or Oppenheimer himself. Anyone working in science communication, policy, or related fields should pay attention: What does the film get right or wrong, which issues does it interrogate, and what does it elide?
+Oppenheimer gets one thing wonderfully right, especially in the scenes of the prewar years in California: the sheer fun of scientific practice. Gone is the maladjusted, lonely scientist; in his place we have the dashing, cosmopolitan Oppie and his merry band of followers who clearly take copious joy in their work.  
+What does the film get right or wrong, which issues does it interrogate, and what does it elide?
+Unfortunately, the part of the film covering the Manhattan Project’s top secret work on the fission bomb is a jumble of missed opportunities to understand the mindset of those who knew their work might soon change the world. To get a sense of the kind of insights that might have come from a better film, compare Oppenheimer to The Day After Trinity, the 1981 documentary directed by Jon Else. The Trinity interviews were conducted around the same time Bird and Sherwin began researching American Prometheus; together with Nolan’s drama they cover largely the same events and characters. But where Oppenheimer is simplistic, Trinity is probing and nuanced—particularly on the moral stance of the project’s members, the inner conflict between curiosity and responsibility, and on the ambiguity of Oppenheimer’s motivations. Oppenheimer races past historical events far too quickly to capture the dramatic potential of scientists facing an ethical slippery slope. 
+Although the original purpose of the Manhattan Project was to outrace German development of a similar weapon, work continued after the evident failure of Germany’s effort and accelerated dramatically after Germany surrendered. If defeating fascism was morally acceptable, what about ensuring the surrender of an almost-defeated Japan? What about forestalling a hypothetical future war with the Soviets? What about the option of a test detonation, but no actual deployment? Why not let blame and responsibility sit with Harry Truman? Sadly, the film fails to explore the moral recalculations forced upon scientists faced with shifting goalposts.
+In contrast, the Trinity interviewees grapple painfully with the nature of ethical corrosion. Oppenheimer’s brother, Frank, describes the “technological trap” they faced: “The rationale for many was anti-fascism, and yet no one slowed down a bit at VE Day.” Physicist and mathematician Freeman Dyson (not a project member, but close to Oppenheimer in the postwar years) points to institutional inertia: “The reason [the bomb] was dropped was that no one had the courage or the foresight to say no. It was almost inevitable, simply because all the administrative apparatus built up for precisely that purpose.” Robert Wilson, who led the project’s research division at Los Alamos, says, “To this day I can’t understand why none of us walked away,” adding a few sentences later, “We were programmed as automatons to do that one thing.” 
+Oppenheimer races past historical events far too quickly to capture the dramatic potential of scientists facing an ethical slippery slope. 
+Wilson was in fact an intrepid voice of conscience against completing the “gadget,” as the bomb was known. He recalls long, heated arguments with Oppenheimer about moral responsibility and alternatives to deployment. Despite his boss’s opposition, he convened an on-site meeting on “The Impact of the Gadget on Civilization” and authored a long-suppressed paper of the same title. Nolan’s film has a fleeting scene of this meeting, but Wilson himself is erased, as is the depth of Oppenheimer’s engagement with the arguments against deployment. The fictional Oppenheimer is portrayed as a man with misgivings but no choice, whose mistakes stem from idealistic naïveté rather than an active rejection of alternatives.
+Did Oppenheimer make a Faustian bargain in becoming director of the Manhattan Project? When he traded life as an independent academic for that of a government scientist, was he enticed by the unparalleled resources and prospect of fame and influence? Later generations of scholars complicated the simple dichotomy of “pure” versus “applied” or “sponsored” work; nevertheless, several of Else’s interviewees see an essential truth to the distinction. Oppenheimer’s colleague Hans Bethe treads carefully as he tries to account for the “complete change” he observed in his friend’s personality during the project: “It’s very different to find out the deep secrets of nature [versus] producing something.” Dyson puts it more bluntly: “Once you sell your soul to the devil, there’s no going back on it.” Yes, he says, Oppie accepted the Manhattan job to save the world from fascism—but he also wanted to be the first to achieve what others could not.
+Had the film at least gestured towards these ambiguities, the audience might have appreciated a more complex character than the sanitized, one-dimensional version Oppenheimer portrays.
+
+
+
+Deborah Poskanzer is an independent scholar who writes on the nexus of environment, society, and technology.
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cite this Article
+Poskanzer, Deborah. “The Slippery Slope of Scientific Ethics.” Issues in Science and Technology (September 7, 2023).
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Subscribe to Issues 
+
+
+
+Newsletter Sign-up 
+Sign up for our free weekly newsletter to receive the latest news and ideas from Issues.
+
+
+
+Email Address*
+
+Name
+
+
+First
+
+
+
+Last
+
+Organization EmailThis field is for validation purposes and should be left unchanged.
+  
+
+
+
+
+
+
+
+
+Δ
+
+
+
+
+
+
+
+In Focus 
+Navigating a Polluted Information Ecosystem
+Fake news, misinformation, and disinformation have become bywords for the kinds of false and misleading information that’s rampant online. But these terms—and a focus on fact-checking problematic content more generally—provide little understanding of the ways people create and share information. The essays here identify ways to help people navigate today’s polluted information ecosystems.
+
+
+
+Related Articles
+
+How Space Art Shaped National IdentityCarolyn RussoCarolyn Russo explores how artists’ depictions of space exploration over the years bridged gaps between scientific, sociopolitical, and cultural viewpoints, inspiring the nation to dream bigger and reach for the stars.
+Read More Taking Aristotle to the Moon and BeyondG. Ryan FaithFor space exploration to benefit all of humanity, it needs a philosophy—a rigorous engagement on values, impact, and meaning.
+Read More 
+
+
+
+
+
+
+
+Related ArticlesInnovative, Opportunistic, FasterIssuesReaders respond to “Lessons From a Decade of Philanthropy for Interdisciplinary Energy Research” by Evan Michelson and Isabella Gee (Issues, Winter 2024).
+Read More Channels for Arctic DiplomacyNataliya Shok, Katherine GinsbachDisease surveillance in the thawing Arctic requires international cooperation, but fractured relations between Russia and the other Arctic states demand deliberate approaches to science diplomacy.
+Read More  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2024 Arizona State University. All Rights Reserved.
+PO Box 877705, Tempe, AZ 85287 
+Disclaimer
+
+
+
+
+
+
+
+Join the Conversation
+Sign up for the Issues in Science and Technology newsletter to get the latest policy insights delivered direct to your inbox. When you do, you'll receive a special offer for nearly 50% off a one-year subscription to the magazine—or simply subscribe now at this special rate.
+
+
+
+
+Name*
+
+
+First
+
+
+
+Last
+
+Email*
+
+EmailThis field is for validation purposes and should be left unchanged.
+  
+
+
+
+
+
+
+
+
+Δ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

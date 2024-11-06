@@ -1,0 +1,1276 @@
+
+
+
+
+When did the use of complex numbers become widespread in physics? - History of Science and Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            History of Science and Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            History of Science and Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+History of Science and Mathematics            
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+When did the use of complex numbers become widespread in physics?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+6 years, 4 months ago
+
+
+Modified
+2 years, 3 months ago
+
+
+Viewed
+                        2k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Complex number are extremely useful in every branch of physics dealing with ondulatory phenomena. In electromagnetism, for example, they allow to write the solution of Maxwell's equations in a form which is particularly simple to manipulate.
+When did the use of complex numbers become widespread in physics?
+
+
+
+
+physicstheoretical-physics
+
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jan 17, 2018 at 17:59
+
+
+
+
+
+valerio
+
+
+
+
+
+
+
+
+
+            asked Jan 17, 2018 at 15:05
+
+
+
+
+
+
+valeriovalerio
+
+36511 silver badge1212 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        2 Answers
+                                    2
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+It depends on the definition of "widespread". Mathematicians certainly used them in 18th century. They play prominent role in the work of Cauchy and Fourier (which belongs to both physics and mathematics). Probably they entered physics with the work of Fresnel on the wave theory of light (1823). Maxwell uses them in his Treatise on Electricity and Magnetism (1873). The standard textbook on mathematical physics of the late 19th century (Kelvin and Tait) freely uses them.
+Remark. When searching the last mentioned book use the word "imaginary", not "complex". I found this word used many times without any special
+explanation: the use of complex numbers by that time was routine. Another English word used early in 19th century was "impossible". J. B. Airy talks about "impossible roots" meaning "complex roots".
+Second remark (to address the issue raised in comments). The engineers started using complex numbers since the criteria of stability were discovered. (It is due to Maxwell (1868) that for stability of a linear system the roots of the characteristic polynomial must lie in the left half-plane.) Since then, all engineers designing steam engines use complex numbers. Maxwell was not the first to address stability in engineering from the mathematical point of view, but he gave the first general criterion. The first was J. B. Airy, an astronomer (1840). And any criterion of stability uses complex numbers. The names of 19 century engineers working on stability are still mentioned in the complex variables textbooks (Stodola, Vyshnegradski).
+Edit. I was right when I mentioned Fresnel first of all.
+Here is a paper which describes the first essential instance when complex numbers appeared in physics:
+
+Ricardo Karam, Fresnel's original interpretation of complex numbers in 19th century optics,
+American Journal of Physics 86, 245 (2018).
+
+By a correct interpretation of a complex amplitude, Fresnel discovered the phase shift of light after an internal reflection.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Feb 23, 2022 at 4:17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Jan 17, 2018 at 18:05
+
+
+
+
+
+
+Alexandre EremenkoAlexandre Eremenko
+
+49.6k33 gold badges8080 silver badges179179 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+5
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Following your last sentence about Kelvin and Tait, Charles Proteus Steinmetz (1865–1923) should probably be mentioned as being primarily responsible (1900s and 1910s) for their introduction into electrical engineering, and thus into more mainstream use. In "popular literature" (magazine articles, non-technical scientific books, etc.), I suspect they fully entered the public's eye with all the 1920s popularizations of relativity theory (and popularizations of quantum mechanics in the 1930s).
+$\endgroup$
+
+– Dave L Renfro
+
+Jan 17, 2018 at 18:30
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I think you're mistaken about Kelvin and Tait. I searched pretty thoroughly through both volumes archive.org/details/treatiseonnatura01kelv_0 archive.org/details/treatiseonnatura02kelv_0 and found no mention of complex or imaginary numbers, except in one spot in Appendix G, where it appears that imaginary roots of a polynomial are only mentioned as being physically irrelevant. "Complex," "imaginary," and "quaternion" are all absent from the index. If complex numbers were going to show up, you would think they would show up in the treatment of Fourier analysis, but they don't.
+$\endgroup$
+
+– user466
+
+Jan 17, 2018 at 21:09
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+$\begingroup$
+@Ben Crowel: They were not called "complex" at that time. Use your computer search engine for the word "imaginary", or see formula (45), section 345 of the first volume. They use then routinely, without feeling a need for special explanation or inclusion into index.
+$\endgroup$
+
+– Alexandre Eremenko
+
+Jan 18, 2018 at 0:37
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+@AlexandreEremenko: I was sloppy and only searched for "imaginary" in the second volume. You're right, it appears much more frequently in the first volume. However, I think the main thrust of your answer is just plain historically wrong. Physicists and engineers in general were not  commonly using vectors, complex numbers, or quaternions until about 1920-1940, as discussed in my answer. A good reference on this topic is Crowe, A history of vector analysis.
+$\endgroup$
+
+– user466
+
+Jan 18, 2018 at 15:52
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Ben Crowel;: I do not want to argue with you, but I edited my answer, adding information about engineers. The original question was about physicists. Vectors are much later "invention" than complex numbers.
+$\endgroup$
+
+– Alexandre Eremenko
+
+Jan 18, 2018 at 21:43
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            11
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Roughly speaking, complex numbers seem to have become widely used in physics and engineering around 1940, after gradually gaining popularity starting around 1920.
+In the late 19th and early 20th centuries, there were three algebraic systems of numbers competing for attention: complex numbers, quaternions, and vectors. Vectors were late to the party. Maxwell used quaternions (1873), and they were enthusiastically promoted by their adherents, especially Hamilton, for purposes that today we would use vectors for. Quaternions can be viewed as a generalization of both vectors and complex numbers. Most physicists considered quaternions to be very abstruse. As late as 1905, Einstein's paper on special relativity states Maxwell's equations without the use of either vector or quaternion notation. The 1895 edition of Kelvin and Tait's massive  Treatise on Natural Philosophy has no index entries for "complex," "imaginary," "vector," or "quaternion," and complex numbers are used only infrequently. Tait wrote an 1890 book on quaternions, so it's not as though he didn't know about them. They just weren't the kind of thing that readers could be expected to know about.
+Gibbs and Heaviside created the vector system as an easier alternative to quaternions, and it gradually gained popularity. Gibbs described it in an 1881 book, which he promoted vigorously and successfully.
+Kennelly introduced the notion of a complex impedance in 1893, and this was recognized as a big selling point of the use of complex numbers. A popular 1941 textbook by Stratton, Electromagnetic Theory, used complex numbers. So I think the widespread use of complex numbers in physics and engineering must date to approximately 1900-1940. To pin this down a little more, I think it's helpful to look at the google ngrams graphs for "complex impedance" and "complex exponential," which both show nonnegligible usage starting around 1920, and an inflection point around 1940.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jan 18, 2018 at 15:43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Jan 17, 2018 at 22:34
+
+
+
+
+
+
+        user466user466
+
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Maxwell used vectors everywhere in his treatise, he just didn't use modern notation. Gibbs and Heaviside only standardized vector notation, not vectors. For clarification, see the Preliminary chapter of the treatise e.g. here: aproged.pt/biblioteca/MaxwellI.pdf
+$\endgroup$
+
+– Sam Gallagher
+
+Mar 1, 2022 at 13:49
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to History of Science and Mathematics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged physicstheoretical-physics or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+45
+
+When exactly (and why) did matrices become a part of the undergraduate curriculum?
+
+
+
+4
+
+When in the history of physics did 'laws of nature' become the primary form of explanation?
+
+
+
+25
+
+When and why did the concept of relativistic mass become outdated?
+
+
+
+5
+
+When did error propagation become prominent in physics?
+
+
+
+3
+
+When did statistics become an integral part of physics?
+
+
+
+5
+
+How were negative numbers first used in physics?
+
+
+
+6
+
+When did the use of Sine and Cosine as functions become mainstream?
+
+
+
+5
+
+What did Quine say on paradox and physics?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Is there a phrase like "etymologically related" but for food?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    Brake Line no Longer Connected to Brake Lever
+                
+
+
+
+                    P values non-significant but Monte Carlo confidence interval does not contain zero for indirect effects
+                
+
+
+
+                    Executable files with a bytecode compiler/interpreter
+                
+
+
+
+                    Smallest Harmonic number greater than N
+                
+
+
+
+                    Starlink Satellite Orbits
+                
+
+
+
+                    what does the word of seven book- length means
+                
+
+
+
+                    Why Did The Drywall Tape Fail in My Garage? And How Can I Fix It?
+                
+
+
+
+                    Are professional cameras better when it comes to knowing how others see you?
+                
+
+
+
+                    Non-universal and non classically simulatable gate set?
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Is a Poisson minus a constant still a Poisson?
+                
+
+
+
+                    Why is finding a mathematical basis for the fine-structure constant meaningful?
+                
+
+
+
+                    can you roll your own .iso for USB stick?
+                
+
+
+
+                    Cut out rotated rectangle shape
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Why are we abbreviating Player's Handbook to PHB?
+                
+
+
+
+                    Should I ask for authorship or ignore?
+                
+
+
+
+                    Is a doctor's diagnosis in clinical notes, made without a confirmatory test, admissible evidence in an assault case in California?
+                
+
+
+
+                    Is there a matrix with rational entries similar to a given matrix?
+                
+
+
+
+                    Is this deck post getting cracks due to overloaded?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History of Science and Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

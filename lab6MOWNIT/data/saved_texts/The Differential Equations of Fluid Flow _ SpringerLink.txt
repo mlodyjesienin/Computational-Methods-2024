@@ -1,0 +1,451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Differential Equations of Fluid Flow | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Analysis of Low-Speed Unsteady Airfoil Flows
+
+
+
+
+
+Chapter
+
+
+
+The Differential Equations of Fluid Flow
+
+Chapter
+
+
+
+ pp 21–29
+
+
+Cite this chapter
+
+
+
+
+            Access provided by Polish Consortium ICM University of Warsaw
+
+
+
+
+Download book PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analysis of Low-Speed Unsteady Airfoil Flows
+
+
+
+
+
+
+
+
+
+
+
+
+                        The Differential Equations of Fluid Flow
+                    
+
+
+
+Download book PDF
+
+
+
+
+
+
+
+
+
+
+
+
+Tuncer Cebeci7,8, Max Platzer9,10, Hsun Chen11, Kuo-Cheng Chang12 & …Jian P. Shao12 Show authors
+
+
+
+
+
+
+1610 Accesses
+
+
+
+
+
+
+
+
+ AbstractThe differential equations of fluid flow are based on the principles of conservation of mass, momentum and energy and are known as the Navier-Stokes equations. For incompressible flows and for flows in which the temperature differences between the surface and freestream are small, the fluid properties such as density ϱ and dynamic viscosity μ in the conservation equations are not affected by temperature. This assumption allows us to ignore the conservation equation for energy and concentrate only on the conservation equations for mass and momentum.
+
+
+
+
+
+
+Access provided by Polish Consortium ICM University of Warsaw.
+                    
+                            Download to read the full chapter text
+
+
+
+
+
+
+
+Chapter PDF
+
+
+
+
+
+
+
+
+KeywordsConservation EquationMomentum EquationUnsteady FlowViscous TermInviscid FlowThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.
+
+ ReferencesWilcox, D. C., Turbulence Modeling for CFD, DCW Industries, Inc. 5354 Palm Av., La Canada, Ca. 1998.
+                    Google Scholar 
+                Cebeci, T., Analysis of Turbulent Flows, Elsevier, London, 2004.
+                    Google Scholar 
+                Anderson, J., Fundamentals of Aerodynamics, McGraw-Hill, 1991.
+                        Google Scholar 
+                Cebeci, T. and Coustcix. J., Modeling and Computation of Boundary-Layer Flows, Horizons, Long Beach, CA, and Springer, Heidelberg, 1998.
+                    Google Scholar 
+                Cebeci, T., Convective Heat Transfer, Horizons, Long Beach, CA, 2002.MATH 
+    
+                    Google Scholar 
+                Rai, M. M. and Moin, P., Direct Simulations of Turbulent Flow Using Finite-Difference Schemes, J. Comp. Phys., 96, p. 15, 1991.Article 
+    MATH 
+    
+                    Google Scholar 
+                Blottner, F. G., Significance of the Thin-Layer Navier-Stokes Approximation. In: Numerical and Physical Aspects of Aerodynamic Flows III, p. 184 (ed. T. Cebeci), Springer-Verlag, NY, 1986.Chapter 
+    
+                    Google Scholar 
+                Cebeci, T., An Engineering Approach to the Calculation of Aerodynamic Flows, Horizons, Long Beach, CA and Springer, Heidelberg, 1999.MATH 
+    
+                    Google Scholar 
+                Download references Author informationAuthors and AffiliationsThe Boeing Company, Long Beach, CA, 90807-5309, USATuncer Cebeci810 Rancho Drive, Long Beach, CA, 90815, USATuncer CebeciNaval Postgraduate School, Monterey, CA, 93943, USAMax Platzer3070 Hermitage Road, Pebble Beach, CA, 93953, USAMax PlatzerDepartment of Mechanical and Aerospace Engineering, California State University, Long Beach, 1250 Bellflower Blvd., Long Beach, CA, 90840-8304, USAHsun ChenThe Boeing Company, Huntington Beach, CA, 92647, USAKuo-Cheng Chang & Jian P. ShaoAuthorsTuncer CebeciView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMax PlatzerView author publicationsYou can also search for this author in
+                        PubMed Google ScholarHsun ChenView author publicationsYou can also search for this author in
+                        PubMed Google ScholarKuo-Cheng ChangView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJian P. ShaoView author publicationsYou can also search for this author in
+                        PubMed Google Scholar Rights and permissionsReprints and permissions Copyright information© 2005 Horizons Publishing Inc., Long Beach, California About this chapterCite this chapterCebeci, T., Platzer, M., Chen, H., Chang, KC., Shao, J.P. (2005).  The Differential Equations of Fluid Flow.
+
+                     In:  Analysis of Low-Speed Unsteady Airfoil Flows. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-27361-1_2Download citation.RIS.ENW.BIBDOI: https://doi.org/10.1007/3-540-27361-1_2
+                            Publisher Name: Springer, Berlin, Heidelberg
+                                Print ISBN: 978-3-540-22932-2
+                                Online ISBN: 978-3-540-27361-5eBook Packages: EngineeringEngineering (R0)Share this chapterAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                                Provided by the Springer Nature SharedIt content-sharing initiative
+                             Publish with usPolicies and ethics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+149.156.126.11
+
+Polish Consortium ICM University of Warsaw (3000169041)  - AGH University of Science and Technology (2000159061)  - Polish Consortium ICM University of Warsaw (3003616166) 
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+
+

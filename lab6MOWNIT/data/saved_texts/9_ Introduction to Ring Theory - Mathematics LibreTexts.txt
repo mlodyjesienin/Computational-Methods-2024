@@ -1,0 +1,667 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9: Introduction to Ring Theory - Mathematics LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+ChaptersElementary Abstract Algebra (Clark){ }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.01:_Binary_Operations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.02:_Introduction_to_Groups" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.03:_The_Symmetric_Groups" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.04:_Subgroups" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.05:_The_Group_of_Units" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.06:_Direct_Products_of_Groups" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.07:_Isomorphism_of_Groups" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.08:_Cosets_and_Lagrange\'s_Theorem" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.09:_Introduction_to_Ring_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Axiomatic_Treatment_of_\\(\\mathbb%7BR,_N,_Z,_Q%7D\\)_and_\\(\\mathbb%7BC%7D\\)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_The_Quaternions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_The_Circle_Group" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "01:_Chapters" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02:_Appendices" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Sun, 13 Mar 2022 19:48:06 GMT9: Introduction to Ring Theory7464674646admin{ }AnonymousAnonymous2falsefalse[ "article:topic", "authorname:weclark", "source@http://shell.cas.usf.edu/~wclark/#ELEMENTARY_ABSTRACT_ALGEBRA" ][ "article:topic", "authorname:weclark", "source@http://shell.cas.usf.edu/~wclark/#ELEMENTARY_ABSTRACT_ALGEBRA" ]https://math.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fmath.libretexts.org%2FBookshelves%2FAbstract_and_Geometric_Algebra%2FElementary_Abstract_Algebra_(Clark)%2F01%253A_Chapters%2F1.09%253A_Introduction_to_Ring_Theory
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Abstract and Geometric Algebra
+                            
+
+
+
+
+                                    Elementary Abstract Algebra (Clark)
+                            
+
+
+
+
+                                    Chapters
+                            
+
+
+
+                            9: Introduction to Ring Theory
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        9: Introduction to Ring Theory
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID74646
+
+
+
+
+W. Edwin ClarkUniversity of South Florida
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+Definition 9.1:Definition 9.2:Definition 9.3:Definition 9.4:Definition 9.5:Definition 9.6Definition 9.7:Example \(\PageIndex{1}\) (The ring \(F[x]\) of polynomials in \(x\) over the field \(F\))Definition 9.8:Theorem \(\PageIndex{1}\)Definition 9.9:Definition 9.10:
+
+
+
+
+Definition 9.1:
+A ring is an ordered triple \((R, + ,\cdot)\) where \(R\) is a set and \(+\) and \(\cdot\) are binary operations on \(R\) satisfying the following properties:
+
+A1
+
+\(a + (b+c) = (a+b)+c\) for all \(a\), \(b\), \(c\) in \(R\).
+
+A2
+
+\(a+b=b+a\) for all \(a\), \(b\) in \(R\).
+
+A3
+
+There is an element \(0 \in R\) satisfying \(a+0=a\) for all \(a\) in \(R\).
+
+A4
+
+For every \(a \in R\) there is an element \(b \in R\) such that \(a+b=0\).
+
+M1
+
+\(a \cdot (b \cdot c) = ( a \cdot b ) \cdot c\) for all \(a\), \(b\), \(c\) in \(R\).
+
+D1
+
+\(a \cdot (b+c) = a \cdot b + a \cdot c\) for all \(a\), \(b\), \(c\) in \(R\).
+
+D2
+
+\((b+c) \cdot a = b \cdot a + c \cdot a\) for all \(a\), \(b\), \(c\) in \(R\).
+
+
+
+Terminology If \((R,+,\cdot)\) is a ring, the binary operation \(+\) is called addition and the binary operation \(\cdot\) is called multiplication. In the future we will usually write \(ab\) instead of \(a \cdot b\). The element \(0\) mentioned in A3 is called the zero of the ring. Note that we have not assumed that \(0\) behaves like a zero, that is, we have not assumed that \(0\cdot a= a \cdot 0=0\) for all \(a \in R\). What A3 says is that \(0\) is an identity with respect to addition. Note that negative (as the opposite of positive) has no meaning for most rings. We do not assume that multiplication is commutative and we have not assumed that there is an identity for multiplication, much less that elements have inverses with respect to multiplication.
+
+Definition 9.2:
+The element \(b\) mentioned in A4 is written \(-a\) and we call it minus \(a\) or the additive inverse of \(a\). Subtraction in a ring is defined by the rule \(a - b = a + (-b)\) for all \(a\), \(b\) in \(R\).
+Unless otherwise stated, from now on we will refer to the ring \(R\) rather than the ring \((R,+,\cdot)\). Of course, if we define a ring, we must say what the binary operations of addition and multiplication are.
+
+Problem 9.1 How could one state properties A1–A4 in a more compact manner using previous definitions?
+
+Definition 9.3:
+Let \(R\) be a ring. If there is an identity with respect to multiplication, it is called the identity of the ring and is usually denoted by \(1\). If such an element exists, we say that \(R\) is a ring with identity.
+In some cases, the identity of a ring may be denoted by some symbol other than \(1\) such as \(e\) or \(I\).
+
+
+Definition 9.4:
+We say that a ring \(R\) is commutative if the multiplication is commutative. Otherwise, the ring is said to be non-commutative.
+Note that the addition in a ring is always commutative, but the multiplication may not be commutative.
+
+
+Definition 9.5:
+A ring \(R\) is said to be an integral domain if the following conditions hold:
+
+\(R\) is commutative.
+    
+\(R\) contains an identity \(1 \neq 0\).
+    
+If \(a\), \(b \in R\) and \(ab=0\) then either \(a=0\) or \(b=0\).
+    
+
+
+
+Definition 9.6
+A ring \(R\) is said to be a field if it satisfies the following properties.
+
+\(R\) is commutative.
+    
+\(R\) contains an identity \(1 \neq 0\).
+    
+For each \(x \in R\) such that \(x \ne 0\), there is a \(y \in R\) such that \(xy=1\).
+    
+
+
+Problem 9.2 Which of the following are rings? If so which have identities, which are commutative, which are integral domains and which are fields?
+
+\((\mathbb{N},+, \cdot)\).
+    
+\((2 \mathbb{Z}, +, \cdot)\) where \(2 \mathbb{Z}\) is the set of even integers.
+    
+\((\mathbb{R},+, \cdot)\).
+    
+\((\mathbb{Q},+, \cdot)\).
+    
+\((\mathbb{Z},+, \cdot)\).
+    
+\((\mathbb{Z}_2,+, \cdot)\).
+    
+\((\mathbb{Z}_3,+, \cdot)\).
+    
+\((\mathbb{Z}_4,+, \cdot)\).
+    
+\((M_2(\mathbb{R}),+, \cdot)\).
+    
+\((M_2(\mathbb{Z}_n),+, \cdot)\).
+    
+
+
+Definition 9.7:
+Let \(R\) be a ring with an identity 1. An element \(a \in R\) is said to be a unit of \(R\) if there is an element \(b \in R\) such that \(ab=ba=1\). We let \(U(R)\) denote the set of all units of \(R\). If such a \(b\) exists we write \(b=a^{-1}\). We sometimes call \(a^{-1}\) the multiplicative inverse of \(a\).
+
+It is easy to see that if \(R\) is a ring with identity 1, then \(U(R)\) is a group under multiplication. It is called the group of units of \(R\).
+
+Example \(\PageIndex{1}\) (The ring \(F[x]\) of polynomials in \(x\) over the field \(F\))
+Let \(F\) be a field. A polynomial in the indeterminate (or variable) \(x\) over \(F\) is an expression of the form \[a_0 + a_1x+a_2x^2+\dots+a_nx^n\] where the coefficients \(a_i\) are elements of the field \(F\) and \(n\) may be any non-negative integer. The rules for multiplication and addition of polynomials are exactly as in high school algebra. The only exception is that we permit the coefficients to be from any field \(F\), and when coefficients are added or multiplied, we use the binary operations in \(F\). This ring is usually denoted by \(F[x].\) For each field \(F\) the ring \(F[x]\) is an integral domain. But \(F[x]\) is not a field since the only units of \(F[x]\) are the non-zero constants, that is polynomials of the form \(a_0\) where \(a_0\) is a non-zero element of \(F\).
+
+Problem 9.3 Find the group of units of each of the following rings: \(\mathbb{Z}\), \(\mathbb{R}\), \(M_2(\mathbb{R})\), \(\mathbb{Z}_n\).
+
+Definition 9.8:
+If \(R\) is a ring, \(a \in R\) and \(n \in \mathbb{N}\) we define \(a^n\) by the following rules:
+\(a^1 = a\),
+\(a^n = aa \cdots a\) (\(n\) copies of \(a\)) if \(n \ge 2\).
+If \(R\) has an identity 1 and \(a\) is a unit then we can also define:
+        \(a^0 = 1\),
+        \(a^{-1}\) = multiplicative inverse of \(a\),
+        \(a^{-n} = (a^{-1})^n\) for \(n \ge 2\).
+Note that since generally an element \(a\) of a ring is not a unit, we cannot expect \(a^n\) to be defined for negative integers.
+
+Problem 9.4 What is the smallest ring? What is the smallest field?
+
+Theorem \(\PageIndex{1}\)
+Let \(R\) be a ring and let \(a\), \(b\), \(c \in R\). Then the following hold.
+
+If \(a+b = a+c\) then \(b=c\).
+    
+If \(a + b = 0\) then \(b=-a\).
+    
+\(-(-a) = a\).
+    
+\(-(a+b) = (-a) + (-b)\).
+    
+\(a0=0\) and \(0a=0\).
+    
+\(a(-b) = (-a)b=-(ab)\).
+    
+\((-a)(-b) = ab\).
+    
+\(a(b-c) = ab -ac\).
+    
+\((b-c)a=ba-ca\).
+    
+
+
+Problem 9.5 Prove Theorem 9.1.
+Problem 9.6 Show that condition 3 in the definition of integral domain can be replaced by the following cancellation law:
+If \(a\), \(b\), \(c \in R\), \(a \neq 0\) and \(ab=ac\) then \(b=c\).
+Problem 9.7 Prove that every field is an integral domain. Show by example that the converse of this statement is not true.
+Problem 9.8 Prove that \(\mathbb{Z}_n\) is a field if and only if it is an integral domain.
+Problem 9.9 Prove that \(\mathbb{Z}_n\) is a field if and only if \(n\) is a prime.
+
+Definition 9.9:
+Let \((R,+,\cdot )\) and \((S, \oplus, \odot )\) be two rings. A function \[f:R \to S\] is a homomorphism if for all \(a,b \in R\) we have \[\begin{aligned} f(a \cdot b) &=& f(a) \odot f(b) \\ f(a+b) &=& f(a) \oplus f(b).\end{aligned}\] If also \(f\) is one-to-one and onto we call \(f\) an isomorphism. In this case we say \(R\) and \(S\) are isomorphic and write \(R \cong S\).
+
+Although it will usually be clear from the context, now that we have homomorphisms for both groups and rings, sometimes we will say ring homomorphism or group homomorphism to be specific. Similarly, for isomorphisms.
+As in the case of groups, if two rings are isomorphic, then they share almost all properties of interest. For example, if \(R\) and \(S\) are isomorphic rings, then \(R\) is a field if and only if \(S\) is a field. We will give a non-trivial example below of two isomorphic rings.
+
+Definition 9.10:
+A subset \(S\) of a ring \(R\) is said to be a subring of \(R\) if the following conditions hold:
+
+1.
+
+\(0 \in S\).
+
+2.
+
+If \(a \in S\), then \(-a \in S\).
+
+3.
+
+If \(a, b \in S\), then \(a+b \in S\) and \(ab \in S\).
+
+
+If \(R\) is a field and the following conditions also hold:
+
+4.
+
+\(1 \in S\).
+
+5.
+
+If \(a \neq 0\) and \(a\in S\), then \(a^{-1} \in S\).
+
+
+we say that \(S\) is a subfield of \(R\).
+
+If \(S\) is a subring (subfield) of the ring (field) \(R\), then it is easy to verify that \(S\) is itself a ring (field) with respect to the addition and multiplication on \(R\). Some obvious examples are the following.
+
+\(\mathbb{Z}\) is a subring of \(\mathbb{Q}\) and of \(\mathbb{R}\).
+    
+\(\mathbb{Q}\) is a subfield of \(\mathbb{R}\).
+    
+\(2\mathbb{Z}\) is a subring of \(\mathbb{Z}\).
+    
+
+Problem 9.10 Prove that there is no element \(x \in \mathbb{Q}\) such that \(x^2 = 2\).
+Problem 9.11 Assume there is a positive element \(\sqrt{2} \in \mathbb{R}\) such that \[(\sqrt{2})^2 =2.\] Define the following subset of \(\mathbb{R}\): \[\mathbb{Q}(\sqrt{2}) = \{ a+b\sqrt{2} \ | \ a, b \in \mathbb{Q}\}.\] Prove that \(\mathbb{Q}(\sqrt{2})\) is a subfield of \(\mathbb{R}\). (The tricky part is showing that all non-zero elements are units.)
+Problem 9.12 Let \[S = \left \{ \left (\begin{array}{cr} a & b \\ 2b&a \end{array} \right ) \, : \, a,b \in \mathbb{Q}\right \}.\]
+
+Show that \(S\) is a subring of the ring \(M_2(\mathbb{Q})\).
+    
+Show that \(S \cong \mathbb{Q}(\sqrt{2})\).
+    
+
+
+
+
+This page titled 9: Introduction to Ring Theory is shared under a not declared    license and was authored, remixed, and/or curated by W. Edwin Clark via source content that was edited to the style and standards of the LibreTexts platform; a detailed edit history is available upon request.
+
+
+
+
+
+
+
+
+Back to top
+
+
+8: Cosets and Lagrange's Theorem
+
+
+10: Axiomatic Treatment of \(\mathbb{R, N, Z, Q}\) and \(\mathbb{C}\)
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+Author
+W. Edwin Clark
+
+
+
+Tags
+
+
+ source@http://shell.cas.usf.edu/~wclark/#ELEMENTARY_ABSTRACT_ALGEBRA
+
+
+
+
+
+
+
+
+
+
+© Copyright 2024 Mathematics LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

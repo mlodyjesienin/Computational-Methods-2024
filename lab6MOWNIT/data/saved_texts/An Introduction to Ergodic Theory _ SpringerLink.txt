@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Introduction to Ergodic Theory | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An Introduction to Ergodic Theory
+        
+
+Textbook
+© 1982
+
+
+Latest edition
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Peter Walters
+
+
+
+
+
+
+Peter Walters
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Graduate Texts in Mathematics (GTM, volume 79)
+                    
+
+
+
+
+
+
+
+
+Buy print copy
+
+
+
+
+
+
+
+
+
+Softcover Book  EUR 59.87 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+
+
+About this book
+
+                    This text provides an introduction to ergodic theory suitable for readers knowing basic measure theory. The mathematical prerequisites are summarized in Chapter 0. It is hoped the reader will be ready to tackle research papers after reading the book. The first part of the text is concerned with measure-preserving transformations of probability spaces; recurrence properties, mixing properties, the Birkhoff ergodic theorem, isomorphism and spectral isomorphism, and entropy theory are discussed. Some examples are described and are studied in detail when new properties are presented. The second part of the text focuses on the ergodic theory of continuous transformations of compact metrizable spaces. The family of invariant probability measures for such a transformation is studied and related to properties of the transformation such as topological traitivity, minimality, the size of the non-wandering set, and existence of periodic points. Topological entropy is introduced and related to measure-theoretic entropy. Topological pressure and equilibrium states are discussed, and a proof is given of the variational principle that relates pressure to measure-theoretic entropies. Several examples are studied in detail. The final chapter outlines significant results and some applications of ergodic theory to other branches of mathematics.
+                
+
+
+Bibliographic Information
+
+
+
+Book Title: An Introduction to Ergodic Theory
+Authors: Peter Walters
+Series Title: 
+
+Graduate Texts in Mathematics
+
+Publisher: Springer New York, NY
+
+eBook Packages: 
+
+Springer Book Archive
+
+
+
+Copyright Information: Springer-Verlag New York, Inc. 1982
+Softcover ISBN: 978-0-387-95152-2Published: 06 October 2000
+Series ISSN: 
+ 0072-5285 
+Series E-ISSN: 
+ 2197-5612 
+Edition Number: 1
+Number of Pages: IX, 250
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Buy print copy
+
+
+
+
+
+
+
+
+
+Softcover Book  EUR 59.87 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+149.156.52.13
+
+Polish Consortium ICM University of Warsaw (3000169041)  - Polish Consortium ICM University of Warsaw (3003616166)  - Pedagogical University of Cracow (1000857903) 
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

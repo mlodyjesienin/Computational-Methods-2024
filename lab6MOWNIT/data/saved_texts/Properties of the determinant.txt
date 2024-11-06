@@ -1,0 +1,667 @@
+
+
+
+
+
+
+
+
+
+
+Properties of the determinant
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+StatLect
+
+
+
+
+
+Index > Matrix algebra
+
+
+
+
+Properties of the determinant
+by Marco Taboga, PhD
+
+   In this lecture we derive several useful properties of the
+    determinant.
+
+
+   In order to fully understand this lecture you need to remember the main
+   results derived in the lecture on the
+    determinant of an
+   elementary matrix.
+
+
+
+Table of contents
+Determinant of a triangular matrixTransposition does not change the determinantThe determinant of a matrix with a zero row or column is zeroThe determinant of a singular matrix is zeroDeterminant of product equals product of determinantsDeterminant of inverseEffect of multiplying a matrix by a scalarEffect of multiplying a row or column by a scalarLinearity in rows and columnsThe determinant and the LU decomposition
+
+Determinant of a triangular matrix
+
+   The first result concerns the determinant of a
+    triangular matrix.
+
+
+Proposition
+      Let
+      
+      be a
+      
+      triangular matrix (either upper or lower). Then, the determinant of
+      
+      is equal to the product of its diagonal
+      entries:
+
+
+Proof
+
+Suppose that
+   
+   is lower triangular. Denote by
+   
+   the set of all  permutations of
+   the first
+   
+   natural numbers. Let
+   
+   be the permutation in which the
+   
+   numbers are sorted in increasing order. The parity of
+   
+   is even and its sign is
+   because
+   it does not contain any inversion (see the lecture on the
+    sign of a permutation).
+   Then, the determinant of
+   
+   iswhere
+   in step
+   
+   we have used the fact that for all permutations
+   
+   except
+   
+   the
+   productinvolves
+   at least one entry above the main diagonal that is equal to zero. The latter
+   fact can be proved by contradiction. Suppose the product involves only
+   elements on the main diagonal or below it, and at least one element below it
+   (otherwise
+   ).
+   Then,for
+   all
+   ,
+   but the inequality must be strict for at least one
+   .
+   Suppose that the inequality is strict for
+   .
+   Then, we have
+   for
+   .
+   In other words, the permutation
+   
+   must contain
+   
+   different natural numbers smaller than or equal to
+   ,
+   which is clearly impossible. This ends the proof by contradiction. Thus, we
+   have proved the proposition for lower triangular matrices. The proof for upper
+   triangular matrices is almost identical (we just need to reverse the
+   inequalities in the last step).
+
+
+
+   A corollary of the proposition above follows.
+
+
+Proposition
+      Let
+      
+      be an  identity matrix.
+      Then,
+
+
+Proof
+
+The identity matrix is diagonal. Therefore,
+   it is triangular and its determinant is equal to the product of its diagonal
+   entries. The latter are all equal to
+   .
+   As a consequence, the determinant of
+   
+   is equal to
+   .
+
+
+Transposition does not change the determinant
+
+   The next proposition states an elementary but important property of the
+   determinant.
+
+
+Proposition
+      Let
+      
+      be a square matrix and denote its transpose by
+      .
+      Then,
+
+
+Proof
+
+Denote by
+   
+   the set of all permutations of the first
+   
+   natural numbers. For any permutation
+   ,
+   there is an inverse permutation
+   
+   such
+   thatfor
+   .
+   If
+   
+   is obtained by performing a sequence of
+    transpositions, then
+   
+   is obtained by performing the opposite transpositions in reverse order. Thus,
+   the number of transpositions is the same and, as a consequence, we have that
+   By
+   using the concept of inverse permutation, the determinant of
+   
+   can be easily calculated as
+   follows:where:
+   in step
+   
+   we have used the  definition of
+   transpose; in step
+   
+   we have set
+   
+   and, as a consequence,
+   .
+
+
+The determinant of a matrix with a zero row or column
+is zero
+
+   The following property, while pretty intuitive, is often used to prove other
+   properties of the determinant.
+
+
+Proposition
+      Let
+      
+      be a square matrix. If
+      
+      has a zero row (i.e., a row whose entries are all equal to zero) or a zero
+      column,
+      then
+
+
+Proof
+
+This property can be proved by using the
+   definition of
+   determinantFor
+   every permutation
+   ,
+   we have
+   thatbecause
+   the product contains one entry from each row (column), but one of the rows
+   (columns) contains only zeros.
+   Therefore,
+
+
+The determinant of a singular matrix is zero
+
+   We are now going to state one of the most important properties of the
+   determinant.
+
+
+Proposition
+      Let
+      
+      be a square matrix. Then
+      
+      is  invertible if and only if
+      and
+      it is singular if and only if
+      
+
+
+Proof
+
+The matrix
+   
+   is  row equivalent to a unique
+   matrix
+   
+   in  reduced row echelon
+   form (RREF). Since
+   
+   and
+   
+   are row equivalent, we have
+   thatwhere
+   
+   are  elementary matrices.
+   Moreover, by the
+    properties of the
+   determinants of elementary matrices, we have
+   thatBut
+   the determinant of an elementary matrix is different from zero.
+   Therefore,where
+   
+   is a non-zero constant. If
+   
+   is invertible,
+   
+   is the identity matrix and
+   If
+   
+   is singular,
+   
+   has at least one zero row because the only square RREF matrix that has no zero
+   rows is the identity matrix, and the latter is row equivalent only to
+   non-singular matrices. We have proved above that matrices that have a zero row
+   have zero determinant. Thus, if
+   
+   is singular,
+   
+   andTo
+   sum up, we have proved that all invertible matrices have non-zero determinant,
+   and all singular matrices have zero determinant. Since a matrix is either
+   invertible or singular, the two logical implications ("if and only if")
+   follow.
+
+
+Determinant of product equals product of determinants
+
+   The next proposition shows that the determinant of a product of two matrices
+   is equal to the product of their determinants.
+
+
+Proposition
+      Let
+      
+      and
+      
+      be two
+      
+      matrices.
+      Then,
+
+
+Proof
+
+If one of the two matrices is singular
+   (i.e., not full rank), then their product
+   
+   is singular
+   becauseas
+   explained in the lecture entitled
+    Matrix product and
+   rank. Therefore,
+   and
+   at least one of
+   
+   or
+   
+   is zero, so
+   thatThus,
+   the statement in the proposition is true if at least one of the two matrices
+   is singular. If neither of them is singular, then
+    we can write them as products of
+   elementary
+   matrices:where
+   
+   and
+   
+   are elementary matrices. Since the determinant of a product of elementary
+   matrices is equal to the products of their determinants, we have
+   thatThus,
+   we have proved that the statement in the proposition is true also in the case
+   when the two matrices are non-singular.
+
+
+Determinant of inverse
+
+   The previous proposition allows us to easily find the determinant of the inverse
+   of a matrix.
+
+
+Proposition
+      Let
+      
+      be a
+      
+      invertible matrix.
+      Then,
+
+
+Proof
+
+Sincewe
+   have
+   thatBut
+   the determinant of a product equals the product of
+   determinants:and
+   As
+   a
+   consequence,Furthermore,
+   the determinant of an invertible matrix is different from zero, so that we can
+   divide both sides of the equation above by
+   
+   and
+   obtain
+
+
+Effect of multiplying a matrix by a scalar
+
+   This sub-section presents an easy-to-prove proposition about the
+    multiplication
+   of a matrix by a scalar. Before reading the proof, try to prove it by
+   yourself as an exercise.
+
+
+Proposition
+      Let
+      
+      be a
+      
+      matrix. Then, for any scalar
+      ,
+
+
+Proof
+
+This proposition is easily proved by using
+   the definition of
+   determinant.
+
+
+Effect of multiplying a row or column by a scalar
+
+   This property is similar to the previous one.
+
+
+Proposition
+      Let
+      
+      be a
+      
+      matrix. Let
+      
+      be a scalar. Let
+      
+      be a matrix obtained from
+      
+      by multiplying a row (or column) by
+      .
+      Then,
+      
+
+
+Proof
+
+Suppose the
+   -th
+   row has been multiplied by
+   .
+   By the definition of
+   determinant:If
+   instead the
+   -th
+   column is multiplied by
+   ,
+   the same result holds because transposition does not change the determinant.
+
+
+Linearity in rows and columns
+
+   The determinant is linear in the rows and columns of the matrix.
+
+
+Proposition
+      Let
+      
+      be a
+      
+      matrix. Denote by
+      
+      the
+      -th
+      row of
+      .
+      Supposewhere
+      
+      and
+      
+      are two
+      
+      vectors and
+      
+      and
+      
+      are two scalars. Denote by
+      
+      the matrix obtained from
+      
+      by substituting
+      
+      with
+      .
+      Denote by
+      
+      the matrix obtained from
+      
+      by substituting
+      
+      with
+      .
+      Then,
+
+
+Proof
+
+By the definition of determinant, we
+   have
+
+
+
+Proposition
+      Let
+      
+      be a
+      
+      matrix. Denote by
+      
+      the
+      -th
+      column of
+      .
+      Supposewhere
+      
+      and
+      
+      are two
+      
+      vectors and
+      
+      and
+      
+      are two scalars. Denote by
+      
+      the matrix obtained from
+      
+      by substituting
+      
+      with
+      .
+      Denote by
+      
+      the matrix obtained from
+      
+      by substituting
+      
+      with
+      .
+      Then,
+
+
+Proof
+
+This is a consequence of the previous
+   proposition (linearity in columns) and of the fact that transpositions does
+   not change the determinant.
+
+
+The determinant and the LU decomposition
+
+   One of the easiest and more convenient ways to compute the determinant of a
+   square matrix
+   
+   is based on the  LU
+   decompositionwhere
+   ,
+   
+   and
+   
+   are a  permutation matrix, a
+   lower triangular and an upper triangular matrix respectively. We can
+   writeand
+   the determinants of
+   ,
+   
+   and
+   
+   are easy to compute:
+
+
+
+
+
+         if the number of row interchanges needed to obtain
+         
+         from the identity matrix is even; otherwise,
+         ;
+      
+
+
+
+
+         is equal to the product of the diagonal entries of
+         
+         because
+         
+         is lower triangular;
+      
+
+
+
+
+         is equal to the product of the diagonal entries of
+         
+         because
+         
+         is upper triangular.
+      
+
+
+How to cite
+Please cite as:
+Taboga, Marco (2021). "Properties of the determinant", Lectures on matrix algebra. https://www.statlect.com/matrix-algebra/determinant-properties.
+
+
+
+
+
+
+The books
+Most of the learning materials found on this website are now available in a traditional textbook format.
+Probability and statisticsMatrix algebra
+
+
+
+Featured pages
+
+Gamma distribution
+Normal distribution
+Hypothesis testing
+Statistical inference
+Uniform distribution
+Gamma function
+
+Explore
+
+Moment generating function
+Multivariate normal distribution
+Permutations
+
+
+
+Main sections
+
+Mathematical tools
+Fundamentals of probability
+Probability distributions
+Asymptotic theory
+Fundamentals of statistics
+Glossary
+
+About
+
+About Statlect
+Contacts
+Cookies, privacy and terms of use
+
+
+
+Glossary entries
+
+Continuous random variable
+Precision matrix
+Convolutions
+Posterior probability
+Null hypothesis
+Loss function
+
+Share
+
+To enhance your privacy,
+we removed the social buttons,
+but don't forget to share.
+
+
+
+
+
+
+
+
+

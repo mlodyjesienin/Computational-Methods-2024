@@ -1,0 +1,2450 @@
+
+
+
+
+Fourier Series & Signal Processing | Study.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for Teachers
+for Schools
+for Working Scholars®
+for College Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+Sign Up
+
+Menu
+					
+
+
+
+
+
+
+
+
+
+
+									Plans
+							
+
+
+
+									Subjects
+							
+
+
+
+
+
+Art
+
+
+Business
+
+
+Computer Science
+
+
+Education & Teaching
+
+
+English
+
+
+Health & Medicine
+
+
+History
+
+
+Humanities
+
+
+Math
+
+
+Psychology
+
+
+Science
+
+
+Social Science
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Art
+							
+
+
+
+									Architecture 
+
+
+
+
+									Art History 
+
+
+
+
+									Design 
+
+
+
+
+									Performing Arts 
+
+
+
+
+									Visual Arts 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business
+							
+
+
+
+									Accounting 
+
+
+
+
+									Business Administration 
+
+
+
+
+									Business Communication 
+
+
+
+
+									Business Ethics 
+
+
+
+
+									Business Intelligence 
+
+
+
+
+									Business Law 
+
+
+
+
+									Economics 
+
+
+
+
+									Finance 
+
+
+
+
+									Healthcare Administration 
+
+
+
+
+									Human Resources 
+
+
+
+
+									Information Technology 
+
+
+
+
+									International Business 
+
+
+
+
+									Operations Management 
+
+
+
+
+									Real Estate 
+
+
+
+
+									Sales & Marketing 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Computer Science
+							
+
+
+
+									Computer Engineering 
+
+
+
+
+									Computer Programming 
+
+
+
+
+									Cybersecurity 
+
+
+
+
+									Data Science 
+
+
+
+
+									Software 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Education & Teaching
+							
+
+
+
+									Education Law & Policy 
+
+
+
+
+									Pedagogy & Teaching Strategies 
+
+
+
+
+									Special & Specialized Education 
+
+
+
+
+									Student Support in Education 
+
+
+
+
+									Teaching English Language Learners 
+
+
+
+
+
+
+							 
+						
+
+
+
+									English
+							
+
+
+
+									Grammar 
+
+
+
+
+									Literature 
+
+
+
+
+									Public Speaking 
+
+
+
+
+									Reading 
+
+
+
+
+									Vocabulary 
+
+
+
+
+									Writing & Composition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Health & Medicine
+							
+
+
+
+									Counseling & Therapy 
+
+
+
+
+									Health 
+
+
+
+
+									Medicine 
+
+
+
+
+									Nursing 
+
+
+
+
+									Nutrition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									History
+							
+
+
+
+									US History 
+
+
+
+
+									World History 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities
+							
+
+
+
+									Communication 
+
+
+
+
+									Ethics 
+
+
+
+
+									Foreign Languages 
+
+
+
+
+									Philosophy 
+
+
+
+
+									Religious Studies 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math
+							
+
+
+
+									Algebra 
+
+
+
+
+									Basic Math 
+
+
+
+
+									Calculus 
+
+
+
+
+									Geometry 
+
+
+
+
+									Statistics 
+
+
+
+
+									Trigonometry 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Psychology
+							
+
+
+
+									Clinical & Abnormal Psychology 
+
+
+
+
+									Cognitive Science 
+
+
+
+
+									Developmental Psychology 
+
+
+
+
+									Educational Psychology 
+
+
+
+
+									Organizational Psychology 
+
+
+
+
+									Social Psychology 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science
+							
+
+
+
+									Anatomy & Physiology 
+
+
+
+
+									Astronomy 
+
+
+
+
+									Biology 
+
+
+
+
+									Chemistry 
+
+
+
+
+									Earth Science 
+
+
+
+
+									Engineering 
+
+
+
+
+									Environmental Science 
+
+
+
+
+									Physics 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Social Science
+							
+
+
+
+									Anthropology 
+
+
+
+
+									Criminal Justice 
+
+
+
+
+									Geography 
+
+
+
+
+									Law 
+
+
+
+
+									Linguistics 
+
+
+
+
+									Political Science 
+
+
+
+
+									Sociology 
+
+
+
+
+
+
+
+									Courses
+							
+
+
+
+
+
+By Subject
+
+
+By Education Level
+
+
+Adult Education
+
+
+Transferable Credit
+
+
+
+
+
+
+
+							By Subject
+						
+
+
+
+									Arts 
+
+
+
+
+									Business 
+
+
+
+
+									Computer Science 
+
+
+
+
+									Education & Teaching 
+
+
+
+
+									English (ELA) 
+
+
+
+
+									Foreign Language 
+
+
+
+
+									Health & Medicine 
+
+
+
+
+									History 
+
+
+
+
+									Humanities 
+
+
+
+
+									Math 
+
+
+
+
+									Psychology 
+
+
+
+
+									Science 
+
+
+
+
+									Social Science 
+
+
+
+
+
+
+							By Education Level
+						
+
+
+
+									Elementary School 
+
+
+
+
+									Middle School 
+
+
+
+
+									High School 
+
+
+
+
+									College 
+
+
+
+
+									Graduate and Post-Grad 
+
+
+
+
+
+
+
+									Test Prep
+							
+
+
+
+
+
+Teacher Certification Exams
+
+
+Nursing Exams
+
+
+Allied Health & Medicine Exams
+
+
+Real Estate Exams
+
+
+All Test Prep
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Teacher Certification Exams
+							
+
+
+
+									Praxis 
+
+
+
+
+									FTCE 
+
+
+
+
+									TExES 
+
+
+
+
+									CSET & CBEST 
+
+
+
+
+									More Teacher Certification Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Nursing Exams
+							
+
+
+
+									NCLEX 
+
+
+
+
+									HESI 
+
+
+
+
+									More Nursing Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Allied Health & Medicine Exams
+							
+
+
+
+									ASCP 
+
+
+
+
+									CNA 
+
+
+
+
+									CNS 
+
+
+
+
+									More Medical Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Real Estate Exams
+							
+
+
+
+									Real Estate Sales 
+
+
+
+
+									Real Estate Brokers 
+
+
+
+
+									Real Estate Appraisals 
+
+
+
+
+
+
+
+									Teach
+							
+
+
+
+
+
+Teaching Resources and Curriculum
+
+
+Skills Practice
+
+
+Lesson Plans
+
+
+Teacher Certification
+
+
+Teacher Professional Development
+
+
+
+
+
+
+
+
+									Tutoring
+							
+
+
+
+
+
+Math Tutoring
+
+
+Science Tutoring
+
+
+Business Tutoring
+
+
+Humanities Tutoring
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math Tutoring
+							
+
+
+
+									Algebra  Tutoring
+
+
+
+
+									Calculus  Tutoring
+
+
+
+
+									Geometry  Tutoring
+
+
+
+
+									Pre-calculus  Tutoring
+
+
+
+
+									Statistics  Tutoring
+
+
+
+
+									Trigonometry  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science Tutoring
+							
+
+
+
+									Biology  Tutoring
+
+
+
+
+									Chemistry  Tutoring
+
+
+
+
+									Physics  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business Tutoring
+							
+
+
+
+									Accounting  Tutoring
+
+
+
+
+									Economics  Tutoring
+
+
+
+
+									Finance  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities Tutoring
+							
+
+
+
+									History  Tutoring
+
+
+
+
+									Literature  Tutoring
+
+
+
+
+									Writing  Tutoring
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright
+
+
+
+
+
+
+
+
+
+
+ Science Courses
+			
+			/
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+		
+			
+GATE Exam - GG (Geology & Geophysics): Test Prep & Syllabus
+Course
+
+
+
+
+		Fourier Series & Signal Processing
+	
+
+
+
+
+
+Instructor
+
+Laura Foist
+
+Show bio
+Laura has a Masters of Science in Food Science and Human Nutrition and has taught college Science.
+
+
+
+
+
+
+
+							In this lesson, we will learn about Fourier series and signals. We will discover how they are used and about different mathematical formulas that are related.
+						
+								
+									Updated: 08/30/2023
+								
+
+
+
+
+
+
+		Create an account
+		
+
+
+
+
+Table of ContentsFourier Series Signal Processing Fourier Series and Periodic Waveforms Fourier Transform Hilbert Transform Nyquist Theorem Lesson SummaryShow 
+
+
+
+
+
+Fourier Series
+
+
+
+A Fourier series is a mathematical tool used to represent a periodic function as a sum of sine and cosine functions (harmonics). It's named after the French mathematician Jean-Baptiste Joseph Fourier. The general form of a Fourier series for a periodic function f(t) with period T is:  
+
+
+
+
+
+ Where: 
+
+a0 is the average value of the function over one period. 
+an and bn are the coefficients that determine the amplitudes of the cosine and sine components at each harmonic frequency n/T 
+The Fourier series allows you to decompose a complex, periodic waveform into its constituent sinusoidal components. This decomposition is useful in various applications, including signal processing, audio analysis, image processing, and more. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+									Lesson
+							
+
+
+
+									Quiz
+								
+
+
+
+									Course
+								
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+							1.3K
+							views
+
+
+
+
+
+
+Signal Processing
+
+
+
+Signal processing is a broad field that deals with the analysis, manipulation, and transformation of signals or data sequences. Signals can be electrical, audio, video, or any data that varies with time or space. Signal processing techniques are used in various domains, including telecommunications, audio and image processing, radar, medical imaging, and more. Key aspects of signal processing related to the Fourier series include: 
+Filtering 
+Frequency Analysis 
+Compression 
+Modulation and demodulation 
+Signal reconstruction 
+FilteringSignal processing often involves filtering out unwanted frequencies from a signal. This can be achieved using Fourier analysis to identify the frequency components and then applying filters to pass or attenuate specific frequencies. 
+Frequency AnalysisFourier analysis, which includes techniques like the Fast Fourier Transform (FFT), is used to analyze the frequency content of a signal. This is crucial in applications like spectrum analysis, where you want to understand the distribution of frequencies in a signal. CompressionIn some cases, Fourier analysis can be used for data compression. By representing a signal in terms of its dominant frequencies, you can reduce the amount of data needed to describe the signal while preserving essential information. Modulation and DemodulationSignal processing techniques are used for modulating signals (e.g., in radio transmission) and demodulating them to extract the original information. Signal ReconstructionIn cases where a signal has been decomposed into its frequency components using Fourier series or transforms, signal processing methods can be used to reconstruct the original signal from these components. Overall, Fourier series and signal processing are fundamental tools for understanding and manipulating signals in a wide range of applications, from communications to image and sound processing to scientific data analysis. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+Fourier Series and Periodic Waveforms
+
+
+
+The Fourier series, as a mathematical tool, represents a periodic waveform as a sum of sinusoidal functions. A periodic waveform is a signal that repeats itself over a specific interval or period, denoted as T. This waveform can be continuous or discrete. 
+The Fourier series represents a continuous periodic waveform f(t) with period T. In the equation, a0 represents the average value of the waveform over one period, and an and bn are coefficients that determine the amplitudes of the cosine and sine components at each harmonic frequency n/T. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Fourier Transform
+
+
+
+The Fourier transform is an extension of the Fourier series for non-periodic (or aperiodic) signals. It allows us to analyze signals that do not repeat themselves. The continuous Fourier transform of a signal f(t) is given by:  
+
+
+
+
+
+
+ Here, F(ω ) is the frequency domain representation of f(t), and ω is the angular frequency. The Fourier transform provides a continuous spectrum that shows how the signal's energy is distributed across different frequencies. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Hilbert Transform
+
+
+
+The Hilbert transform is an important tool in signal processing used to obtain the analytic representation of a real-valued signal. An analytic signal has no negative-frequency components. Given a signal, x(t), the Hilbert transform produces another signal, denoted as xH (t) such that:  
+
+
+
+
+
+ The Hilbert transform is commonly used in applications like amplitude and frequency modulation analysis, signal demodulation, and signal envelope detection. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Nyquist Theorem
+
+
+
+The Nyquist-Shannon sampling theorem, often referred to as the Nyquist Theorem, is a fundamental concept in signal processing and digital communication. It states that to accurately reconstruct a continuous signal from its samples, the sampling rate (the number of samples taken per second) must be at least twice the highest frequency component in the signal. This is often expressed as:  
+
+
+
+
+
+
+ Where: 
+fs  is the sampling frequency. 
+fmax  is the maximum frequency component in the signal. 
+The Nyquist Theorem is essential because it ensures that when we sample a continuous signal, we capture enough information to reconstruct it accurately. If the sampling rate is too low, aliasing occurs, leading to distortion and loss of information in the reconstructed signal. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Lesson Summary
+
+
+
+The Fourier series and transforms, such as the Fourier transform and Hilbert transform, are powerful tools for analyzing and manipulating periodic and aperiodic signals in both time and frequency domains. The Nyquist Theorem provides critical guidelines for sampling continuous signals to avoid aliasing and ensure accurate signal reconstruction in the digital domain.
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+Unlock Your Education
+See for yourself why 30 million people use Study.com
+Become a Study.com member and start learning now.
+Become a Member
+Already a member? Log In
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+
+
+
+
+		Start today. Try it now
+		
+
+
+
+
+
+
+
+
+GATE Exam - GG (Geology & Geophysics): Test Prep & Syllabus
+
+
+29 chapters |
+				
+					
+					
+						298 lessons
+						
+					
+				
+			
+
+
+
+
+
+
+Ch 1. 
+									
+										Verbal Ability: Grammar & Sentence...
+
+
+
+
+
+
+
+
+
+
+Ch 2. 
+									
+										Verbal Ability: Analogies & Word...
+
+
+
+
+
+
+
+
+
+
+Ch 3. 
+									
+										Verbal Ability: Instructions, Critical...
+
+
+
+
+
+
+
+
+
+
+Ch 4. 
+									
+										Numerical Ability: Computation
+
+
+
+
+
+
+
+
+
+
+Ch 5. 
+									
+										Numerical Ability: Estimation
+
+
+
+
+
+
+
+
+
+
+Ch 6. 
+									
+										Numerical Ability: Reasoning & Data...
+
+
+
+
+
+
+
+
+
+
+Ch 7. 
+									
+										Composition of the Earth
+
+
+
+
+
+
+
+
+
+
+Ch 8. 
+									
+										Cosmic Elements & Geochemistry
+
+
+
+
+
+
+
+
+
+
+Ch 9. 
+									
+										Seismology
+
+
+
+
+
+
+
+
+
+
+Ch 10. 
+									
+										Structural Geology
+
+
+
+
+
+
+
+
+
+
+Ch 11. 
+									
+										Geomorphic Processes & Agents
+
+
+
+
+
+
+
+
+
+
+Ch 12. 
+									
+										Soil & Groundwater
+
+
+
+
+
+
+
+
+
+
+Ch 13. 
+									
+										Rock Deformation
+
+
+
+
+
+
+
+
+
+
+Ch 14. 
+									
+										Crystallography
+
+
+
+
+
+
+
+
+
+
+Ch 15. 
+									
+										Rock Classifications
+
+
+
+
+
+
+
+
+
+
+Ch 16. 
+									
+										Fossil Record & Stratigraphy
+
+
+
+
+
+
+
+
+
+
+Ch 17. 
+									
+										Ore-Mineralogy
+
+
+
+
+
+
+
+
+
+
+Ch 18. 
+									
+										Geophysical Equations
+
+
+
+
+
+
+
+
+
+
+Ch 19. 
+									
+										Gravity Measurements
+
+
+
+
+
+
+
+
+
+
+Ch 20. 
+									
+										Geomagnetism & Geophysics
+
+
+
+
+
+
+
+
+
+
+Ch 21. 
+									
+										Conduction of Electricity
+
+
+
+
+
+
+
+
+
+
+Ch 22. 
+									
+										Electromagnetics
+
+
+
+
+
+
+
+
+
+
+Ch 23. 
+									
+										Engineering Properties & Remote...
+
+
+
+
+
+
+
+
+
+
+Ch 24. 
+									
+										Seismic Methods of Prospecting
+
+
+
+
+
+
+
+
+
+
+Ch 25. 
+              Geophysical Processing
+
+
+
+
+
+
+							Geophysical Signal Processing: Definition & Importance
+					
+
+
+
+							Nyquist Theorem: Definition & Examples
+					
+
+
+
+							Fourier Series & Signal Processing
+					
+
+
+
+
+Next Lesson
+Wavelet & Z-Transforms
+
+
+
+
+							Greek Letter Delta | Definition, Symbols & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+3:46
+						 
+
+
+
+							Tools in Data & Signal Processing
+					
+
+
+
+							Principles of Digital Filters
+					
+
+
+
+
+
+
+
+Ch 26. 
+									
+										Geophysical Well Logging
+
+
+
+
+
+
+
+
+
+
+Ch 27. 
+									
+										Radioactive Prospecting Methods
+
+
+
+
+
+
+
+
+
+
+Ch 28. 
+									
+										Inverse Problems
+
+
+
+
+
+
+
+
+
+
+Ch 29. 
+									
+										GATE Exam - GG (Geology & Geophysics)...
+
+
+
+
+
+
+
+
+
+
+
+
+Fourier Series & Signal Processing Related Study Materials
+
+
+
+
+Related Topics
+
+
+
+
+
+
+Browse by Courses
+AP Biology: Exam Prep
+Earth Science 101: Earth Science
+Fundamentals of Nursing
+High School Physics Textbook
+6th Grade Life Science: Enrichment Program
+College Physics Textbook
+Fundamentals of Nursing for Teachers: Professional Development
+Substance Abuse
+AP Biology: Homeschool Curriculum
+Middle School Physical Science: Homeschool Curriculum
+Biology: Credit Recovery
+Fundamental Biology
+High School Biology Textbook
+High School Physics: Homeschool Curriculum
+AP Chemistry: Homeschool Curriculum
+
+
+
+
+
+
+Browse by Lessons
+Energy Efficiency Definition, Benefits & Examples
+Coriolis Effect | Definition, Example & Influences
+Advances in Limnology and Oceanography
+Limnology: Lake & River Ecosystems
+Limnology & Oceanography Methods
+Ethnographic Analysis & Techniques
+Ethnographic Fieldwork | Definition, Challenges & Controversies
+Why is the Ocean Blue? | Overview & Colors
+Systematics in Biology | Definition, Main Aim & Examples
+Barium Definition, Symbol & Properties
+Heavy Metals | Overview & Examples
+Radium Definition, Properties & Facts
+How to Make Elephant Toothpaste in the Classroom
+Saturation in Chemistry | Definition, Function & Examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Create an account to start this course today
+			
+
+						  
+							  Used by over 30 million students worldwide
+						  
+						  
+                
+
+
+				  Create an account
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like this lesson
+
+
+
+Share
+
+
+
+
+Explore our library of over 88,000 lessons
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Browse
+
+
+						Browse by subject
+					
+
+
+College Courses
+
+Business
+English
+Foreign Language
+History
+Humanities
+Math
+Science
+Social Science
+See All College Courses
+
+
+
+High School Courses
+
+AP
+Common Core
+GED
+
+High School
+See All High School Courses
+
+
+
+Other Courses
+
+College & Career Guidance Courses
+College Placement Exams
+Entrance Exams
+General Test Prep
+K-8 Courses
+Skills Courses
+Teacher Certification Exams
+See All Other Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade to enroll
+×
+
+
+Upgrade to Premium to enroll in GATE Exam - GG (Geology & Geophysics): Test Prep & Syllabus
+Enrolling in a course lets you earn progress by passing quizzes and exams.
+
+
+
+
+Track course progress
+
+
+
+
+Take quizzes and exams
+
+
+
+
+Earn certificates of completion
+
+
+
+			You will also be able to:
+			
+Create a Goal
+Create custom courses
+Get your questions answered
+
+
+
+
+Upgrade to Premium to add all these features to your account!
+
+			Upgrade Now
+		
+Upgrade to Premium to add all these features to your account!
+
+
+
+
+
+
+
+
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars® Solutions
+Online tutoring
+
+
+
+About Us
+
+Blog
+Careers
+Teach For Us
+Press Center
+Ambassador
+Scholarships
+
+
+
+
+
+Support
+
+FAQ
+Site Feedback
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working Scholars® Bringing Tuition-Free College to the Community
+
+
+
+
+
+
+
+
+©  Copyright 2024 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		
+
+
+
+
+
+Terms of Use  
+Privacy Policy  
+DMCA Notice  
+ADA Compliance  
+Honor Code For Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+

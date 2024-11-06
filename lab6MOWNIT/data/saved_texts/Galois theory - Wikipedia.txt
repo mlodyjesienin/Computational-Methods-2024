@@ -1,0 +1,1332 @@
+
+
+
+
+Galois theory - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Application to classical problems
+
+
+
+
+
+
+
+
+2
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+2.1
+Pre-history
+
+
+
+
+
+
+
+
+2.2
+Galois' writings
+
+
+
+
+
+
+
+
+2.3
+Aftermath
+
+
+
+
+
+
+
+
+
+
+3
+Permutation group approach
+
+
+
+
+Toggle Permutation group approach subsection
+
+
+
+
+
+3.1
+Quadratic equation
+
+
+
+
+
+
+
+
+3.2
+Quartic equation
+
+
+
+
+
+
+
+
+
+
+4
+Modern approach by field theory
+
+
+
+
+
+
+
+
+5
+Solvable groups and solution by radicals
+
+
+
+
+Toggle Solvable groups and solution by radicals subsection
+
+
+
+
+
+5.1
+A non-solvable quintic example
+
+
+
+
+
+
+
+
+
+
+6
+Inverse Galois problem
+
+
+
+
+
+
+
+
+7
+Inseparable extensions
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+Notes
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Galois theory
+
+
+
+40 languages
+
+
+
+
+العربيةAsturianuবাংলাБашҡортсаБеларускаяCatalàЧӑвашлаCymraegDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego한국어Bahasa IndonesiaItalianoעבריתქართულიКыргызчаMagyarNederlands日本語Oʻzbekcha / ўзбекчаPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaСрпски / srpskiSuomiSvenskaTürkçeУкраїнськаTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Mathematical connection between field theory and group theory
+On the left, the lattice diagram of the field obtained from Q by adjoining the positive square roots of 2 and 3, together with its subfields; on the right, the corresponding lattice diagram of their Galois groups.
+In mathematics, Galois theory, originally introduced by Évariste Galois, provides a connection between field theory and group theory. This connection, the fundamental theorem of Galois theory, allows reducing certain problems in field theory to group theory, which makes them simpler and easier to understand.
+Galois introduced the subject for studying roots of polynomials. This allowed him to characterize the polynomial equations that are solvable by radicals in terms of properties of the permutation group of their roots—an equation is solvable by radicals if its roots may be expressed by a formula involving only integers, nth roots, and the four basic arithmetic operations. This widely generalizes the Abel–Ruffini theorem, which asserts that a general polynomial of degree at least five cannot be solved by radicals. 
+Galois theory has been used to solve classic problems including showing that two problems of antiquity cannot be solved as they were stated (doubling the cube and trisecting the angle), and characterizing the regular polygons that are constructible (this characterization was previously given by Gauss but without the proof that the list of constructible polynomials was complete; all known proofs that this characterization is complete require Galois theory).
+Galois' work was published by Joseph Liouville fourteen years after his death. The theory took longer to become popular among mathematicians and to be well understood.
+Galois theory has been generalized to Galois connections and Grothendieck's Galois theory.
+
+
+Application to classical problems[edit]
+The birth and development of Galois theory was caused by the following question, which was one of the main open mathematical questions until the beginning of 19th century:
+
+Does there exist a formula for the roots of a fifth (or higher) degree polynomial equation in terms of the coefficients of the polynomial, using only the usual algebraic operations (addition, subtraction, multiplication, division) and application of radicals (square roots, cube roots, etc)?
+The Abel–Ruffini theorem provides a counterexample proving that there are polynomial equations for which such a formula cannot exist. Galois' theory provides a much more complete answer to this question, by explaining why it is possible to solve some equations, including all those of degree four or lower, in the above manner, and why it is not possible for most equations of degree five or higher. Furthermore, it provides a means of determining whether a particular equation can be solved that is both conceptually clear and easily expressed as an algorithm.
+Galois' theory also gives a clear insight into questions concerning problems in compass and straightedge construction. It gives an elegant characterization of the ratios of lengths that can be constructed with this method. Using this, it becomes relatively easy to answer such classical problems of geometry as
+
+Which regular polygons are constructible?[1]
+Why is it not possible to trisect every angle using a compass and a straightedge?[1]
+Why is doubling the cube not possible with the same method?
+History[edit]
+See also: Abstract algebra § Early group theory
+Pre-history[edit]
+Galois' theory originated in the study of symmetric functions – the coefficients of a monic polynomial are (up to sign) the elementary symmetric polynomials in the roots. For instance, (x – a)(x – b) = x2 – (a + b)x + ab, where 1, a + b and ab are the elementary polynomials of degree 0, 1 and 2 in two variables.
+This was first formalized by the 16th-century French mathematician François Viète, in Viète's formulas, for the case of positive real roots. In the opinion of the 18th-century British mathematician Charles Hutton,[2] the expression of coefficients of a polynomial in terms of the roots (not only for positive roots) was first understood by the 17th-century French mathematician Albert Girard; Hutton writes:
+
+...[Girard was] the first person who understood the general doctrine of the formation of the coefficients of the powers from the sum of the roots and their products. He was the first who discovered the rules for summing the powers of the roots of any equation.
+In this vein, the discriminant is a symmetric function in the roots that reflects properties of the roots – it is zero if and only if the polynomial has a multiple root, and for quadratic and cubic polynomials it is positive if and only if all roots are real and distinct, and negative if and only if there is a pair of distinct complex conjugate roots. See Discriminant:Nature of the roots for details.
+The cubic was first partly solved by the 15–16th-century Italian mathematician Scipione del Ferro, who did not however publish his results; this method, though, only solved one type of cubic equation. This solution was then rediscovered independently in 1535 by Niccolò Fontana Tartaglia, who shared it with Gerolamo Cardano, asking him to not publish it. Cardano then extended this to numerous other cases, using similar arguments; see more details at Cardano's method. After the discovery of del Ferro's work, he felt that Tartaglia's method was no longer secret, and thus he published his solution in his 1545 Ars Magna.[3] His student Lodovico Ferrari solved the quartic polynomial; his solution was also included in Ars Magna. In this book, however, Cardano did not provide a "general formula" for the solution of a cubic equation, as he had neither complex numbers at his disposal, nor the algebraic notation to be able to describe a general cubic equation. With the benefit of modern notation and complex numbers, the formulae in this book do work in the general case, but Cardano did not know this.  It was Rafael Bombelli who managed to understand how to work with complex numbers in order to solve all forms of cubic equation.
+A further step was the 1770 paper Réflexions sur la résolution algébrique des équations by the French-Italian mathematician Joseph Louis Lagrange, in his method of Lagrange resolvents, where he analyzed Cardano's and Ferrari's solution of cubics and quartics by considering them in terms of permutations of the roots, which yielded an auxiliary polynomial of lower degree, providing a unified understanding of the solutions and laying the groundwork for group theory and Galois' theory. Crucially, however, he did not consider composition of permutations. Lagrange's method did not extend to quintic equations or higher, because the resolvent had higher degree.
+The quintic was almost proven to have no general solutions by radicals by Paolo Ruffini in 1799, whose key insight was to use permutation groups, not just a single permutation. His solution contained a gap, which Cauchy considered minor, though this was not patched until the work of the Norwegian mathematician Niels Henrik Abel, who published a proof in 1824, thus establishing the Abel–Ruffini theorem.
+While Ruffini and Abel established that the general quintic could not be solved, some particular quintics can be solved, such as x5 - 1 = 0, and the precise criterion by which a given quintic or higher polynomial could be determined to be solvable or not was given by Évariste Galois, who showed that whether a polynomial was solvable or not was equivalent to whether or not the permutation group of its roots – in modern terms, its Galois group – had a certain structure – in modern terms, whether or not it was a solvable group. This group was always solvable for polynomials of degree four or less, but not always so for polynomials of degree five and greater, which explains why there is no general solution in higher degrees.
+
+Galois' writings[edit]
+A portrait of Évariste Galois aged about 15
+In 1830 Galois (at the age of 18) submitted to the Paris Academy of Sciences a memoir on his theory of solvability by radicals; Galois' paper was ultimately rejected in 1831 as being too sketchy and for giving a condition in terms of the roots of the equation instead of its coefficients. Galois then died in a duel in 1832, and his paper, "Mémoire sur les conditions de résolubilité des équations par radicaux", remained unpublished until 1846 when it was published by Joseph Liouville accompanied by some of his own explanations.[4] Prior to this publication, Liouville announced Galois' result to the Academy in a speech he gave on 4 July 1843.[5] According to Allan Clark, Galois's characterization "dramatically supersedes the work of Abel and Ruffini."[6]
+
+Aftermath[edit]
+Galois' theory was notoriously difficult for his contemporaries to understand, especially to the level where they could expand on it. For example, in his 1846 commentary, Liouville completely missed the group-theoretic core of Galois' method.[7] Joseph Alfred Serret who attended some of Liouville's talks, included Galois' theory in his 1866 (third edition) of his textbook Cours d'algèbre supérieure. Serret's pupil, Camille Jordan, had an even better understanding reflected in his 1870 book Traité des substitutions et des équations algébriques. Outside France, Galois' theory remained more obscure for a longer period. In Britain, Cayley failed to grasp its depth and popular British algebra textbooks did not even mention Galois' theory until well after the turn of the century. In Germany, Kronecker's writings focused more on Abel's result. Dedekind wrote little about Galois' theory, but lectured on it at Göttingen in 1858, showing a very good understanding.[8] Eugen Netto's books of the 1880s, based on Jordan's Traité, made Galois theory accessible to a wider German and American audience as did Heinrich Martin Weber's  1895 algebra textbook.[9]
+
+Permutation group approach[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2023) (Learn how and when to remove this message)
+Given a polynomial, it may be that some of the roots are connected by various algebraic equations. For example, it may be that for two of the roots, say A and B, that A2 + 5B3 = 7. The central idea of Galois' theory is to consider permutations (or rearrangements) of the roots such that any algebraic equation satisfied by the roots is still satisfied after the roots have been permuted. Originally, the theory had been developed for algebraic equations whose coefficients are rational numbers. It extends naturally to equations with coefficients in any field, but this will not be considered in the simple examples below.
+These permutations together form a permutation group, also called the Galois group of the polynomial, which is explicitly described in the following examples.
+
+Quadratic equation[edit]
+Consider the quadratic equation
+
+
+
+
+
+
+x
+
+2
+
+
+−
+4
+x
++
+1
+=
+0.
+
+
+{\displaystyle x^{2}-4x+1=0.}
+
+
+By using the quadratic formula, we find that the two roots are
+
+
+
+
+
+
+
+
+
+A
+
+
+
+=
+2
++
+
+
+3
+
+
+,
+
+
+
+
+B
+
+
+
+=
+2
+−
+
+
+3
+
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}A&=2+{\sqrt {3}},\\B&=2-{\sqrt {3}}.\end{aligned}}}
+
+
+Examples of algebraic equations satisfied by A and B include
+
+
+
+
+
+A
++
+B
+=
+4
+,
+
+
+{\displaystyle A+B=4,}
+
+
+and
+
+
+
+
+
+A
+B
+=
+1.
+
+
+{\displaystyle AB=1.}
+
+
+If we exchange A and B in either of the last two equations we obtain another true statement. For example, the equation A + B = 4 becomes B + A = 4. It is more generally true that this holds for every possible algebraic relation between A and B such that all coefficients are rational; that is, in any such relation, swapping A and B yields another true relation. This results from the theory of symmetric polynomials, which, in this case, may be replaced by formula manipulations involving the binomial theorem.
+One might object that A and B are related by the algebraic equation A − B − 2√3 = 0, which does not remain true when A and B are exchanged. However, this relation is not considered here, because it has the coefficient −2√3 which is not rational.
+We conclude that the Galois group of the polynomial x2 − 4x + 1 consists of two permutations: the identity permutation which leaves A and B untouched, and the transposition permutation which exchanges A and B. As all groups with two elements are isomorphic, this Galois group is isomorphic to the multiplicative group {1, −1}.
+A similar discussion applies to any quadratic polynomial ax2 + bx + c, where a, b and c are rational numbers.
+
+If the polynomial has rational roots, for example x2 − 4x + 4 = (x − 2)2, or x2 − 3x + 2 = (x − 2)(x − 1), then the Galois group is trivial; that is, it contains only the identity permutation. In this example, if A = 2 and B = 1 then A − B = 1 is no longer true when A and B are swapped.
+If it has two irrational roots, for example x2 − 2, then the Galois group contains two permutations, just as in the above example.
+Quartic equation[edit]
+Consider the polynomial
+
+
+
+
+
+
+x
+
+4
+
+
+−
+10
+
+x
+
+2
+
+
++
+1.
+
+
+{\displaystyle x^{4}-10x^{2}+1.}
+
+
+Completing the square in an unusual way, it can also be written as
+
+
+
+
+
+(
+
+x
+
+2
+
+
+−
+1
+
+)
+
+2
+
+
+−
+8
+
+x
+
+2
+
+
+=
+(
+
+x
+
+2
+
+
+−
+1
+−
+2
+x
+
+
+2
+
+
+)
+(
+
+x
+
+2
+
+
+−
+1
++
+2
+x
+
+
+2
+
+
+)
+.
+
+
+{\displaystyle (x^{2}-1)^{2}-8x^{2}=(x^{2}-1-2x{\sqrt {2}})(x^{2}-1+2x{\sqrt {2}}).}
+
+
+By applying the quadratic formula to each factor, one sees that the four roots are  
+
+
+
+
+
+
+
+
+
+A
+
+
+
+=
+
+
+2
+
+
++
+
+
+3
+
+
+,
+
+
+
+
+B
+
+
+
+=
+
+
+2
+
+
+−
+
+
+3
+
+
+,
+
+
+
+
+C
+
+
+
+=
+−
+
+
+2
+
+
++
+
+
+3
+
+
+,
+
+
+
+
+D
+
+
+
+=
+−
+
+
+2
+
+
+−
+
+
+3
+
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}A&={\sqrt {2}}+{\sqrt {3}},\\B&={\sqrt {2}}-{\sqrt {3}},\\C&=-{\sqrt {2}}+{\sqrt {3}},\\D&=-{\sqrt {2}}-{\sqrt {3}}.\end{aligned}}}
+
+
+Among the 24 possible permutations of these four roots, four are particularly simple, those consisting in the sign change  of 0, 1, or 2 square roots. They form a group that is isomorphic to the Klein four-group. 
+Galois theory implies that, since the polynomial is irreducible, the Galois group has at least four elements. For proving that the Galois group consists of these four permutations, it suffices thus to show that every element of the Galois group is determined by the image of A, which can be shown as follows.
+The members of the Galois group must preserve any algebraic equation with rational coefficients involving A, B, C and D.
+Among these equations, we have:
+
+
+
+
+
+
+
+
+
+A
+B
+
+
+
+=
+−
+1
+
+
+
+
+A
+C
+
+
+
+=
+1
+
+
+
+
+A
++
+D
+
+
+
+=
+0
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}AB&=-1\\AC&=1\\A+D&=0\end{aligned}}}
+
+
+It follows that, if φ is a permutation that belongs to the Galois group, we must have:
+
+
+
+
+
+
+
+
+
+φ
+(
+B
+)
+
+
+
+=
+
+
+
+−
+1
+
+
+φ
+(
+A
+)
+
+
+
+,
+
+
+
+
+φ
+(
+C
+)
+
+
+
+=
+
+
+1
+
+φ
+(
+A
+)
+
+
+
+,
+
+
+
+
+φ
+(
+D
+)
+
+
+
+=
+−
+φ
+(
+A
+)
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\varphi (B)&={\frac {-1}{\varphi (A)}},\\\varphi (C)&={\frac {1}{\varphi (A)}},\\\varphi (D)&=-\varphi (A).\end{aligned}}}
+
+
+This implies that the permutation is well defined by the image of A, and that the Galois group has 4 elements, which are:
+
+(A, B, C, D) → (A, B, C, D)     (identity)
+(A, B, C, D) → (B, A, D, C)     (change of sign of 
+
+
+
+
+
+3
+
+
+
+
+{\displaystyle {\sqrt {3}}}
+
+)
+(A, B, C, D) → (C, D, A, B)     (change of sign of 
+
+
+
+
+
+2
+
+
+
+
+{\displaystyle {\sqrt {2}}}
+
+)
+(A, B, C, D) → (D, C, B, A)     (change of sign of both square roots)
+This implies that the Galois group is isomorphic to the Klein four-group.
+
+Modern approach by field theory[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2023) (Learn how and when to remove this message)
+In the modern approach, one starts with a field extension L/K (read "L over K"), and examines the group of automorphisms of L that fix K. See the article on Galois groups for further explanation and examples.
+The connection between the two approaches is as follows. The coefficients of the polynomial in question should be chosen from the base field K. The top field L should be the field obtained by adjoining the roots of the polynomial in question to the base field K. Any permutation of the roots which respects algebraic equations as described above gives rise to an automorphism of L/K, and vice versa.
+In the first example above, we were studying the extension Q(√3)/Q, where Q is the field of rational numbers, and Q(√3) is the field obtained from Q by adjoining √3. In the second example, we were studying the extension Q(A,B,C,D)/Q.
+There are several advantages to the modern approach over the permutation group approach.
+
+It permits a far simpler statement of the fundamental theorem of Galois theory.
+The use of base fields other than Q is crucial in many areas of mathematics. For example, in algebraic number theory, one often does Galois theory using number fields, finite fields or local fields as the base field.
+It allows one to more easily study infinite extensions. Again this is important in algebraic number theory, where for example one often discusses the absolute Galois group of Q, defined to be the Galois group of K/Q where K is an algebraic closure of Q.
+It allows for consideration of inseparable extensions. This issue does not arise in the classical framework, since it was always implicitly assumed that arithmetic took place in characteristic zero, but nonzero characteristic arises frequently in number theory and in algebraic geometry.
+It removes the rather artificial reliance on chasing roots of polynomials. That is, different polynomials may yield the same extension fields, and the modern approach recognizes the connection between these polynomials.
+Solvable groups and solution by radicals[edit]
+The notion of a solvable group in group theory allows one to determine whether a polynomial is solvable in radicals, depending on whether its Galois group has the property of solvability. In essence, each field extension L/K corresponds to a factor group in a composition series of the Galois group. If a factor group in the composition series is cyclic of order n, and if in the corresponding field extension L/K the field K already  contains a primitive nth root of unity, then it is a radical extension and the elements of L can then be expressed using the nth root of some element of K.
+If all the factor groups in its composition series are cyclic, the Galois group is called solvable, and all of the elements of the corresponding field can be found by repeatedly taking roots, products, and sums of elements from the base field (usually Q).
+One of the great triumphs of Galois Theory was the proof that for every n > 4, there exist polynomials of degree n which are not solvable by radicals (this was proven independently, using a similar method, by Niels Henrik Abel a few years before, and is the Abel–Ruffini theorem), and a systematic way for testing whether a specific polynomial is solvable by radicals. The Abel–Ruffini theorem results from the fact that for n > 4 the symmetric group Sn contains a simple, noncyclic, normal subgroup, namely the alternating group An.
+
+A non-solvable quintic example[edit]
+For the polynomial f(x) = x5 − x − 1, the lone real root x = 1.1673... is algebraic, but not expressible in terms of radicals. The other four roots are complex numbers.
+Van der Waerden[10] cites the polynomial f(x) = x5 − x − 1.  
+By the rational root theorem, this has no rational zeroes. 
+Neither does it have linear factors modulo 2 or 3.
+The Galois group of f(x) modulo 2 is cyclic of order 6, because f(x) modulo 2 factors into polynomials of orders 2 and 3, (x2 + x + 1)(x3 + x2 + 1).
+f(x) modulo 3 has no linear or quadratic factor, and hence is irreducible.  Thus its modulo 3 Galois group contains an element of order 5.
+It is known[11] that a Galois group modulo a prime is isomorphic to a subgroup of the Galois group over the rationals.  A permutation group on 5 objects with elements of orders 6 and 5 must be the symmetric group S5, which is therefore the Galois group of f(x). 
+This is one of the simplest examples of a non-solvable quintic polynomial.  According to Serge Lang, Emil Artin was fond of this example.[12]
+
+Inverse Galois problem[edit]
+Main article: Inverse Galois problem
+The inverse Galois problem is to find a field extension with a given Galois group.
+As long as one does not also specify the ground field, the problem is not very difficult, and all finite groups do occur as Galois groups.
+For showing this, one may proceed as follows. Choose a field K and a finite group G.  Cayley's theorem says that G is (up to isomorphism) a subgroup of the symmetric group S on the elements of G. Choose indeterminates {xα}, one for each element α of G, and adjoin them to K to get the field F = K({xα}). Contained within F is the field L of symmetric rational functions in the {xα}.  The Galois group of F/L is S, by a basic result of Emil Artin.  G acts on F by restriction of action of S. If the fixed field of this action is M, then, by the fundamental theorem of Galois theory, the Galois group of F/M is G.
+On the other hand, it is an open problem whether every finite group is the Galois group of a field extension of the field Q of the rational numbers. Igor Shafarevich proved that every solvable finite group is the Galois group of some extension of Q. Various people have solved the inverse Galois problem for selected non-Abelian simple groups. Existence of solutions has been shown for all but possibly one (Mathieu group M23) of the 26 sporadic simple groups. There is even a polynomial with integral coefficients whose Galois group is the Monster group.
+
+Inseparable extensions[edit]
+In the form mentioned above, including in particular the fundamental theorem of Galois theory, the theory only considers Galois extensions, which are in particular separable. General field extensions can be split into a separable, followed by a purely inseparable field extension. For a purely inseparable extension F / K, there is a Galois theory where the Galois group is replaced by the vector space of derivations, 
+
+
+
+D
+e
+
+r
+
+K
+
+
+(
+F
+,
+F
+)
+
+
+{\displaystyle Der_{K}(F,F)}
+
+, i.e., K-linear endomorphisms of F satisfying the Leibniz rule. In this correspondence, an intermediate field E is assigned 
+
+
+
+D
+e
+
+r
+
+E
+
+
+(
+F
+,
+F
+)
+⊂
+D
+e
+
+r
+
+K
+
+
+(
+F
+,
+F
+)
+
+
+{\displaystyle Der_{E}(F,F)\subset Der_{K}(F,F)}
+
+. Conversely, a subspace 
+
+
+
+V
+⊂
+D
+e
+
+r
+
+K
+
+
+(
+F
+,
+F
+)
+
+
+{\displaystyle V\subset Der_{K}(F,F)}
+
+ satisfying appropriate further conditions is mapped to 
+
+
+
+{
+x
+∈
+F
+,
+f
+(
+x
+)
+=
+0
+ 
+∀
+f
+∈
+V
+}
+
+
+{\displaystyle \{x\in F,f(x)=0\ \forall f\in V\}}
+
+. Under the assumption 
+
+
+
+
+F
+
+p
+
+
+⊂
+K
+
+
+{\displaystyle F^{p}\subset K}
+
+, Jacobson (1944) showed that this establishes a one-to-one correspondence. The condition imposed by Jacobson has been removed by Brantner & Waldron (2020), by giving a correspondence using notions of derived algebraic geometry.
+
+See also[edit]
+Galois group for more examples
+Fundamental theorem of Galois theory
+Differential Galois theory for a Galois theory of differential equations
+Grothendieck's Galois theory for a vast generalization of Galois theory
+Topological Galois theory
+Artin–Schreier theory, a sub-field of Galois theory
+Notes[edit]
+
+
+^ a b Stewart, Ian (1989). Galois Theory. Chapman and Hall. ISBN 0-412-34550-1.
+
+^ Funkhouser 1930
+
+^ Cardano 1545
+
+^ Tignol, Jean-Pierre (2001). Galois' Theory of Algebraic Equations. World Scientific. pp. 232–3, 302. ISBN 978-981-02-4541-2.
+
+^ Stewart, 3rd ed., p. xxiii
+
+^ Clark, Allan (1984) [1971]. Elements of Abstract Algebra. Courier. p. 131. ISBN 978-0-486-14035-3.
+
+^ Wussing, Hans (2007). The Genesis of the Abstract Group Concept: A Contribution to the History of the Origin of Abstract Group Theory. Courier. p. 118. ISBN 978-0-486-45868-7.
+
+^ Scharlau, Winfried; Dedekind, Ilse; Dedekind, Richard (1981). Richard Dedekind 1831–1981; eine Würdigung zu seinem 150. Geburtstag (PDF). Braunschweig: Vieweg. ISBN 9783528084981.
+
+^ Galois, Évariste; Neumann, Peter M. (2011). The Mathematical Writings of Évariste Galois. European Mathematical Society. p. 10. ISBN 978-3-03719-104-0.
+
+^ van der Waerden, Modern Algebra (1949 English edn.), Vol. 1, Section 61, p.191
+
+^ Prasolov, V.V. (2004). "5 Galois Theory Theorem 5.4.5(a)". Polynomials. Algorithms and Computation in Mathematics. Vol. 11. Springer. pp. 181–218. doi:10.1007/978-3-642-03980-5_5. ISBN 978-3-642-03979-9.
+
+^ Lang, Serge (1994). Algebraic Number Theory. Graduate Texts in Mathematics. Vol. 110. Springer. p. 121. ISBN 9780387942254.
+
+
+References[edit]
+Artin, Emil (1998) [1944]. Galois Theory. Dover. ISBN 0-486-62342-4.
+Bewersdorff, Jörg (2006). Galois Theory for Beginners: A Historical Perspective. The Student Mathematical Library. Vol. 35. American Mathematical Society. doi:10.1090/stml/035. ISBN 0-8218-3817-2. S2CID 118256821.
+Brantner, Lukas; Waldron, Joe (2020), Purely Inseparable Galois theory I: The Fundamental Theorem, arXiv:2010.15707
+Cardano, Gerolamo (1545). Artis Magnæ (PDF) (in Latin). Archived from the original (PDF) on 2008-06-26. Retrieved 2015-01-10.
+Edwards, Harold M. (1984). Galois Theory. Springer-Verlag. ISBN 0-387-90980-X. (Galois' original paper, with extensive background and commentary.)
+Funkhouser, H. Gray (1930). "A short account of the history of symmetric functions of roots of equations". American Mathematical Monthly. 37 (7): 357–365. doi:10.2307/2299273. JSTOR 2299273.
+"Galois theory", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Jacobson, Nathan (1944), "Galois theory of purely inseparable fields of exponent one", Amer. J. Math., 66 (4): 645–648, doi:10.2307/2371772, JSTOR 2371772
+Jacobson, Nathan (1985). Basic Algebra I (2nd ed.). W. H. Freeman. ISBN 0-7167-1480-9. (Chapter 4 gives an introduction to the field-theoretic approach to Galois theory.)
+Janelidze, G.; Borceux, Francis (2001). Galois Theories. Cambridge University Press. ISBN 978-0-521-80309-0. (This book introduces the reader to the Galois theory  of Grothendieck, and some generalisations, leading to Galois groupoids.)
+Lang, Serge (1994). Algebraic Number Theory. Berlin, New York: Springer-Verlag. ISBN 978-0-387-94225-4.
+Postnikov, M. M. (2004). Foundations of Galois Theory. Dover Publications. ISBN 0-486-43518-0.
+Rotman, Joseph (1998). Galois Theory (2nd ed.). Springer. ISBN 0-387-98541-7.
+Völklein, Helmut (1996). Groups as Galois groups: an introduction. Cambridge University Press. ISBN 978-0-521-56280-5.
+van der Waerden, Bartel Leendert (1931). Moderne Algebra (in German). Berlin: Springer..   English translation (of 2nd revised edition): Modern Algebra. New York: Frederick Ungar. 1949. (Later republished in English by Springer under the title "Algebra".)
+External links[edit]
+ The dictionary definition of Galois theory at Wiktionary
+ Media related to Galois theory at Wikimedia Commons
+Authority control databases: National 
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Galois_theory&oldid=1228356632"
+Category: Galois theoryHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from June 2023All articles needing additional referencesCS1 Latin-language sources (la)CS1 German-language sources (de)Commons category link from WikidataArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with NKC identifiers
+
+
+
+
+
+
+ This page was last edited on 10 June 2024, at 20:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

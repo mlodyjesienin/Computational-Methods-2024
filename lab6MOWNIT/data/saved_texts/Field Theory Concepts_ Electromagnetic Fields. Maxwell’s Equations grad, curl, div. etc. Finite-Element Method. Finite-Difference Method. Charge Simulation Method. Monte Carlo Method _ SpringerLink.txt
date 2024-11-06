@@ -1,0 +1,935 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Field Theory Concepts: Electromagnetic Fields. Maxwell’s Equations grad, curl, div. etc. Finite-Element Method. Finite-Difference Method. Charge Simulation Method. Monte Carlo Method | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Field Theory Concepts
+        
+Electromagnetic Fields. Maxwell’s Equations grad, curl, div. etc. Finite-Element Method. Finite-Difference Method. Charge Simulation Method. Monte Carlo Method
+
+Textbook
+© 1988
+
+
+1st edition
+View latest edition
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Adolf J. Schwab
+0
+
+
+
+
+
+
+Adolf J. Schwab
+
+
+
+                                    
+                                        Institut für Elektroenergiesysteme und Hochspannungstechnik, Universität Karlsruhe, Karlsruhe 1, Germany
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+5168 Accesses
+
+
+
+
+14 
+Citations
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 42.79 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 53.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+About this book
+
+                    "Field Theory Concepts" is a new approach to the teaching
+and understanding of field theory. Exploiting formal analo-
+gies of electric, magnetic, and   conduction fields and
+introducing generic concepts results in a             transparently
+structured electomagnetic field theory. Highly                illustrative
+terms alloweasyaccess to the concepts of curl and div          which
+generally are conceptually demanding. Emphasis is placed on
+the   static, quasistatic and dynamic nature of fields.
+Eventually, numerical     field calculation algorithms, e.g.
+Finite Element method and Monte Carlo    method, are presented
+in a concise yet illustrative manner.
+                
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Finite Differences
+                                        
+
+
+Chapter
+© 2013
+
+
+
+
+
+
+
+
+
+Electric Fields
+                                        
+
+
+Chapter
+© 2013
+
+
+
+
+
+
+
+
+
+Systems of Differential Algebraic Equations in Computational Electromagnetics
+                                        
+
+
+Chapter
+© 2019
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+Maxwell
+
+
+
+
+Potential
+
+
+
+
+Telegraph
+
+
+
+
+electrodynamics
+
+
+
+
+electromagnetic wave
+
+
+
+
+finite element method
+
+
+
+
+model
+
+
+
+
+network
+
+
+
+
+simulation
+
+
+
+
+transmission
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (9 chapters)
+
+
+
+
+
+
+Front Matter
+Pages I-XVI
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Fundamental Terms of Electric and Magnetic Fields
+
+
+Adolf J. Schwab
+
+Pages 1-14
+
+
+
+
+
+
+
+
+Types of Vector Fields
+
+
+Adolf J. Schwab
+
+Pages 15-18
+
+
+
+
+
+
+
+
+Field Theory Equations
+
+
+Adolf J. Schwab
+
+Pages 19-59
+
+
+
+
+
+
+
+
+Gradient, Potential, Potential Function
+
+
+Adolf J. Schwab
+
+Pages 60-89
+
+
+
+
+
+
+
+
+Potential and Potential Function of Magnetostatic Fields
+
+
+Adolf J. Schwab
+
+Pages 90-102
+
+
+
+
+
+
+
+
+Classification of Electric and Magnetic Fields
+
+
+Adolf J. Schwab
+
+Pages 103-138
+
+
+
+
+
+
+
+
+Transmission-Line Equations
+
+
+Adolf J. Schwab
+
+Pages 139-149
+
+
+
+
+
+
+
+
+Typical Differential Equations of Electrodynamics or Mathematical Physics
+
+
+Adolf J. Schwab
+
+Pages 150-168
+
+
+
+
+
+
+
+
+Numerical Calculation of Potential Fields
+
+
+Adolf J. Schwab
+
+Pages 169-193
+
+
+
+
+
+
+
+Back Matter
+Pages 194-218
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Authors and Affiliations
+
+
+
+
+                                        Institut für Elektroenergiesysteme und Hochspannungstechnik, Universität Karlsruhe, Karlsruhe 1, Germany
+                                    
+
+                                    
+                                        Adolf J. Schwab
+                                    
+                                
+
+
+
+
+
+Bibliographic Information
+
+
+
+Book Title: Field Theory Concepts
+Book Subtitle: Electromagnetic Fields. Maxwell’s Equations grad, curl, div. etc. Finite-Element Method. Finite-Difference Method. Charge Simulation Method. Monte Carlo Method
+Authors: Adolf J. Schwab
+DOI: https://doi.org/10.1007/978-3-642-48941-9
+Publisher: Springer Berlin, Heidelberg
+
+eBook Packages: 
+
+Springer Book Archive
+
+
+
+Copyright Information: Springer-Verlag Berlin Heidelberg 1988
+Softcover ISBN: 978-3-642-48943-3Published: 14 April 2012
+eBook ISBN: 978-3-642-48941-9Published: 06 December 2012
+Edition Number: 1
+Number of Pages: XVI, 218
+Topics: 
+
+Field Theory and Polynomials, 
+Electrical Engineering
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 42.79 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 53.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

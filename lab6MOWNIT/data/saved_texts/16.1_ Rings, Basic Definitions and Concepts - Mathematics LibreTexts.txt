@@ -1,0 +1,886 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16.1: Rings, Basic Definitions and Concepts - Mathematics LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+16: An Introduction to Rings and FieldsApplied Discrete Structures (Doerr and Levasseur){ }{ "16.01:_Rings_Basic_Definitions_and_Concepts" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16.02:_Fields" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16.03:_Polynomial_Rings" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16.04:_Field_Extensions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16.05:_Power_Series" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "01:_Set_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02:_Combinatorics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03:_Logic" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04:_More_on_Sets" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05:_Introduction_to_Matrix_Algebra" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "06:_Relations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "07:_Functions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "08:_Recursion_and_Recurrence_Relations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "09:_Graph_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Trees" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_Algebraic_Structures" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_More_Matrix_Algebra" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "13:_Boolean_Algebra" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "14:_Monoids_and_Automata" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "15:_Group_Theory_and_Applications" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16:_An_Introduction_to_Rings_and_Fields" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "17:_Appendix" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Tue, 17 Aug 2021 01:55:20 GMT16.1: Rings, Basic Definitions and Concepts8057480574admin{ }AnonymousAnonymous2falsefalse[ "article:topic", "license:ccbyncsa", "showtoc:no", "autonumheader:yes2", "authorname:doerrlevasseur", "licenseversion:30", "source@https://discretemath.org/ads/ads.html" ][ "article:topic", "license:ccbyncsa", "showtoc:no", "autonumheader:yes2", "authorname:doerrlevasseur", "licenseversion:30", "source@https://discretemath.org/ads/ads.html" ]https://math.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fmath.libretexts.org%2FBookshelves%2FCombinatorics_and_Discrete_Mathematics%2FApplied_Discrete_Structures_(Doerr_and_Levasseur)%2F16%253A_An_Introduction_to_Rings_and_Fields%2F16.01%253A_Rings_Basic_Definitions_and_Concepts
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Combinatorics and Discrete Mathematics
+                            
+
+
+
+
+                                    Applied Discrete Structures (Doerr and Levasseur)
+                            
+
+
+
+
+                                    16: An Introduction to Rings and Fields
+                            
+
+
+
+                            16.1: Rings, Basic Definitions and Concepts
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        16.1: Rings, Basic Definitions and Concepts
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID80574
+
+
+
+
+Al Doerr & Ken LevasseurUniversity of Massachusetts Lowell
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+ Basic Definitions Direct Products of Rings Multiplicative Inverses in Rings Universal Concepts, Isomorphisms and Subrings Integral Domains and Zero Divisors Exercises
+
+
+
+ Basic Definitions
+We would like to investigate algebraic systems whose structure imitates that of the integers.
+
+Definition \(\PageIndex{1}\): Ring
+A ring is a set \(R\) together with two binary operations, addition and multiplication, denoted by the symbols \(+\) and \(\cdot\) such that the following axioms are satisfied:
+
+\([R; +]\) is an abelian group.
+Multiplication is associative on \(R\text{.}\)
+Multiplication is distributive over addition; that is, for all \(a, b, c \in R\text{,}\) the left distributive law, \(a \cdot (b + c) = a \cdot b + a\cdot c\text{,}\) and the right distributive law, \((b + c)\cdot a = b\cdot a + c\cdot a\text{.}\)
+
+
+
+Note \(\PageIndex{1}\)
+
+A ring is denoted \([R;+, \cdot ]\) or as just plain \(R\) if the operations are understood.
+The symbols \(+\) and \(\cdot\) stand for arbitrary operations, not just “regular” addition and multiplication. These symbols are referred to by the usual names. For simplicity, we may write \(a b\) instead of \(a\cdot b\) if it is not ambiguous.
+For the abelian group \([R; +]\text{,}\) we use additive notation. In particular, the group identity is designated by 0 rather than by \(e\) and is customarily called the “zero” of the ring. The group inverse is also written in additive notation: \(-a\) rather than \(a^{-1}\text{.}\)
+
+
+We now look at some examples of rings. Certainly all the additive abelian groups of Chapter 11 are likely candidates for rings.
+
+Example \(\PageIndex{1}\): The Ring of Integers
+\([\mathbb{Z}; +, \cdot ]\) is a ring, where \(+\) and \(\cdot\) stand for regular addition and multiplication on \(\mathbb{Z}\text{.}\) From Chapter 11, we already know that \([\mathbb{Z}; +]\) is an abelian group, so we need only check parts 2 and 3 of the definition of a ring. From elementary algebra, we know that the associative law under multiplication and the distributive laws are true for \(\mathbb{Z}\text{.}\) This is our main example of an infinite ring.
+
+
+Example \(\PageIndex{2}\): The Ring of Integers Modulo \(n\)
+\(\left[\mathbb{Z}_n; +_n, \times_n\right]\) is a ring. The properties of modular arithmetic on \(\mathbb{Z}_n\) were described in Section 11.4, and they give us the information we need to convince ourselves that \(\left[\mathbb{Z}_n; +_n, \times_n\right]\) is a ring. This example is our main example of finite rings of different orders.
+
+
+Definition \(\PageIndex{2}\): Commutative Ring
+A ring in which multiplication is a commutative operation is called a commutative ring.
+
+It is common practice to use the word “abelian” when referring to the commutative law under addition and the word “commutative” when referring to the commutative law under the operation of multiplication.
+
+Definition \(\PageIndex{3}\): Unity of a Ring
+A ring \([R; + , \cdot ]\) that has a multiplicative identity is called a ring with unity. The multiplicative identity itself is called the unity of the ring. More formally, if there exists an element \(1 \in R\text{,}\) such that for all \(x \in R\text{,}\) \(x\cdot 1 = 1\cdot x = x\text{,}\) then \(R\) is called a ring with unity.
+
+
+Example \(\PageIndex{3}\)
+The rings in our first two examples were commutative rings with unity, the unity in both cases being the number 1. The ring \(\left[M_{2\times 2}(\mathbb{R}); + , \cdot \right]\) is a noncommutative ring with unity, the unity being the two by two identity matrix.
+
+ Direct Products of Rings
+Products of rings are analogous to products of groups or products of Boolean algebras.
+Let \([R_i; +_i, \cdot_i]\text{,}\) \(i = 1, 2, \ldots , n\) be rings. Let \(P=\underset{i=1}{\overset{n}{\times}}R_i\) and \(a = (a_1, a_2 , \ldots , a_n), b = (b_1, b_2, \ldots, b_n)\in P\text{.}\)
+From Chapter 11 we know that \(P\) is an abelian group under the operation of componentwise addition:
+\begin{equation*} a + b = \left(a_1 +_1 b_1, a_2 +_2 b_2 , . . . , a_n +_n b_n\right) \end{equation*}
+We also define multiplication on \(P\) componentwise:
+\begin{equation*} a \cdot b = \left(a_1 \cdot_1 b_1, a_2 \cdot _2 b_2 , . . . , a_n \cdot_n b_n\right) \end{equation*}
+To show that \(P\) is a ring under the above operations, we need only show that the (multiplicative) associative law and the distributive laws hold. This is indeed the case, and we leave it as an exercise. If each of the \(R_i\) is commutative, then \(P\) is commutative, and if each contains a unity, then \(P\) is a ring with unity, which is the \(n\)-tuple consisting of the unities of each of the \(R_i\)'s.
+
+Example \(\PageIndex{4}\)
+Since \(\left[\mathbb{Z}_4;+_4,\times_4\right]\) and \(\left[\mathbb{Z}_3;+_3,\times_3\right]\) are rings, then \(\mathbb{Z}_4 \times \mathbb{Z}_3\) is a ring, where, for example,
+\begin{equation*} \begin{array}{c} (2, 1) + (2, 2) = (2 +_42, 1 +_32) = (0, 0)\\ and\\ (3, 2) \cdot (2, 2) = (3 \times_42, 2 \times_3 2) = (2, 1)\\ \end{array}\text{.} \end{equation*}
+To determine the unity in the ring \(\mathbb{Z}_4\times \mathbb{Z}_3\text{,}\) we look for the element \((m, n)\) such that for all elements \((a, b) \in \mathbb{Z}_4\times \mathbb{Z}_3\text{,}\) \((a, b) =(a, b)\cdot (m, n) = (m, n)\cdot (a, b)\text{,}\) or, equivalently,
+\begin{equation*} \left(a \times_4 m, b \times_3 n\right) = \left(m \times_4 a, n \times_3 b\right) = (a, b) \end{equation*}
+So we want \(m\) such that \(a\times_4 m = m\times_4 a=a\) in the ring \(\mathbb{Z}_4\text{.}\) The only element \(m\) in \(\mathbb{Z}_4\) that satisfies this equation is \(m = 1\text{.}\) Similarly, we obtain value of 1 for \(n\text{.}\) So the unity of \(\mathbb{Z}_4\times \mathbb{Z}_3\text{,}\) which is unique by Exercise \(\PageIndex{15}\) of this section, is \((1, 1)\text{.}\) We leave to the reader to verify that this ring is commutative.
+
+ Multiplicative Inverses in Rings
+We now consider the extremely important concept of multiplicative inverses. Certainly many basic equations in elementary algebra (e.g., \(2x = 3\)) are solved with this concept.
+
+Example \(\PageIndex{5}\)
+The equation \(2x = 3\) has a solution in the ring \([\mathbb{Q}; +, \cdot ]\) but does not have a solution in \([\mathbb{Z}; +, \cdot ]\) since, to solve this equation, we multiply both sides of the equation \(2x = 3\) by the multiplicative inverse of 2. This number, \(2^{-1}\) exists in \(\mathbb{Q}\) but does not exist in \(\mathbb{Z}\text{.}\) We formalize this important idea in a definition which by now should be quite familiar to you.
+
+
+Definition \(\PageIndex{4}\): Multiplicative Inverses
+Let \([R; +, \cdot ]\) be a ring with unity, 1. If \(u \in R\) and there exists an element \(v \in R\) such that \(u\cdot v = v\cdot u = 1\text{,}\) then \(u\) is said to have a multiplicative inverse, \(v\text{.}\) A ring element that possesses a multiplicative inverse is a unit of the ring. The set of all units of a ring \(R\) is denoted by \(U(R)\text{.}\)
+
+By Theorem 11.3.3, the multiplicative inverse of a ring element is unique, if it exists. For this reason, we can use the notation \(u^{-1}\) for the multiplicative inverse of \(u\text{,}\) if it exists.
+
+Example \(\PageIndex{6}\)
+In the rings \([\mathbb{R}; +, \cdot]\) and \([\mathbb{Q}; +, \cdot]\) every nonzero element has a multiplicative inverse. The only elements in \([\mathbb{Z}; +, \cdot]\) that have multiplicative inverses are -1 and 1. That is, \(U(\mathbb{R}) = \mathbb{R}^*\text{,}\) \(U(\mathbb{Q}) = \mathbb{Q}^*\text{,}\) and \(U(\mathbb{Z}) = \{-1, 1\}\text{.}\)
+
+
+Example \(\PageIndex{7}\)
+Let us find the multiplicative inverses, when they exist, of each element of the ring \([\mathbb{Z}_6; +_6, \times_6]\text{.}\) If \(u = 3\text{,}\) we want an element \(v\) such that \(u\times_6v=1\text{.}\) We do not have to check whether \(v\times_6u=1\) since \(\mathbb{Z}_6\) is commutative. If we try each of the six elements, 0, 1, 2, 3, 4, and 5, of \(\mathbb{Z}_6\text{,}\) we find that none of them satisfies the above equation, so 3 does not have a multiplicative inverse in \(\mathbb{Z}_6\text{.}\) However, since \(5\times_6 5=1\text{,}\) 5 does have a multiplicative inverse in \(\mathbb{Z}_6\text{,}\) namely itself: \(5^{-1}=5\text{.}\) The following table summarizes all results for \(\mathbb{Z}_6\text{.}\)
+\begin{equation*} \begin{array}{cc} u & u^{-1} \\ 0 & \textrm{ does} \textrm{ not} \textrm{ exist} \\ 1 & 1 \\ 2 & \textrm{ does} \textrm{ not} \textrm{ exist} \\ 3 & \textrm{ does} \textrm{ not} \textrm{ exist} \\ 4 & \textrm{ does} \textrm{ not} \textrm{ exist} \\ 5 & 5 \\ \end{array} \end{equation*}
+It shouldn't be a surprise that the zero of a ring is never going to have a multiplicative inverse.
+
+ Universal Concepts, Isomorphisms and Subrings
+Isomorphism is a universal concept that is important in every algebraic structure. Two rings are isomorphic as rings if and only if they have the same cardinality and if they behave exactly the same under corresponding operations. They are essentially the same ring. For this to be true, they must behave the same as groups (under + ) and they must behave the same under the operation of multiplication.
+
+Definition \(\PageIndex{5}\): Ring Isomorphism
+Let \([R; + , \cdot ]\) and \([R'; +', \cdot']\) be rings. Then \(R\) is isomorphic to \(R'\) if and only if there exists a function, \(f:R \to R'\text{,}\) called a ring isomorphism, such that
+
+\(f\) is a bijection
+\(f(a + b) =f(a)+'f(b)\) for all \(a, b \in R\)
+\(f(a \cdot b) = f(a)\cdot ' f(b)\) for all \(a,b \in R\text{.}\)
+
+
+Conditions 1 and 2 tell us that \(f\) is a group isomorphism.
+This leads us to the problem of how to show that two rings are not isomorphic. This is a universal concept. It is true for any algebraic structure and was discussed in Chapter 11. To show that two rings are not isomorphic, we must demonstrate that they behave differently under one of the operations. We illustrate through several examples.
+
+Example \(\PageIndex{8}\)
+Consider the rings \([\mathbb{Z}; +, \cdot ]\) and \([2\mathbb{Z}; +, \cdot ]\text{.}\) In Chapter 11 we showed that as groups, the two sets \(\mathbb{Z}\) and 2\(\mathbb{Z}\) with addition were isomorphic. The group isomorphism that proved this was the function \(f : \mathbb{Z} \to 2\mathbb{Z}\text{,}\) defined by \(f(n) = 2n\text{.}\) Is \(f\) a ring isomorphism? We need only check whether \(f(m\cdot n) = f(m)\cdot f(n)\) for all \(m, n \in \mathbb{Z}\text{.}\) In fact, this condition is not satisfied:
+\begin{equation*} f(m\cdot n) = 2\cdot m\cdot n \quad\textrm{ and }\quad f(m)\cdot f(n)=2m\cdot 2n= 4\cdot m \cdot n \end{equation*}
+Therefore, \(f\) is not a ring isomorphism. This does not necessarily mean that the two rings \(\mathbb{Z}\) and 2\(\mathbb{Z}\) are not isomorphic, but simply that \(f\) doesn't satisfy the conditions. We could imagine that some other function does. We could try to find another function that is a ring isomorphism, or we could try to show that \(\mathbb{Z}\) and 2\(\mathbb{Z}\) are not isomorphic as rings. To do the latter, we must find something different about the ring structure of \(\mathbb{Z}\) and 2\(\mathbb{Z}\text{.}\)
+We already know that they behave identically under addition, so if they are different as rings, it must have something to do with how they behave under the operation of multiplication. Let's begin to develop a checklist of how the two rings could differ:
+
+Do they have the same cardinality? Yes, they are both countable.
+Are they both commutative? Yes.
+Are they both rings with unity? No.
+
+\(\mathbb{Z}\) is a ring with unity, namely the number 1. 2\(\mathbb{Z}\) is not a ring with unity, \(1\notin 2\mathbb{Z}\text{.}\) Hence, they are not isomorphic as rings.
+
+
+Example \(\PageIndex{9}\)
+Next consider whether \([2\mathbb{Z};+,\cdot]\) and \([3\mathbb{Z}; +, \cdot ]\) are isomorphic. Because of the previous example, we might guess that they are not. However, checklist items 1 through 3 above do not help us. Why? We add another checklist item:
+
+Find an equation that makes sense in both rings, which is solvable in one and not the other.
+
+The equation \(x + x = x \cdot x\text{,}\) or \(2x=x^2\text{,}\) makes sense in both rings. However, this equation has a nonzero solution, \(x = 2\text{,}\) in \(2\mathbb{Z}\text{,}\) but does not have a nonzero solution in \(3\mathbb{Z}\text{.}\) Thus we have an equation solvable in one ring that cannot be solved in the other, so they cannot be isomorphic.
+
+Another universal concept that applies to the theory of rings is that of a subsystem. A subring of a ring \([R; +, \cdot ]\) is any nonempty subset \(S\) of \(R\) that is a ring under the operations of \(R\text{.}\) First, for \(S\) to be a subring of the ring \(R\text{,}\) \(S\) must be a subgroup of the group \([R; +]\text{.}\) Also, \(S\) must be closed under \(\cdot\text{,}\) satisfy the associative law under \(\cdot\text{,}\) and satisfy the distributive laws. But since \(R\) is a ring, the associative and distributive laws are true for every element in \(R\text{,}\) and, in particular, for all elements in \(S\text{,}\) since \(S\subseteq R\text{.}\) We have just proven the following theorem:
+
+Theorem \(\PageIndex{1}\)
+A nonempty subset \(S\) of a ring \([R; + , \cdot]\) is a subring of R if and only if:
+
+\([S; +]\) is a subgroup of the group \([R; +]\)
+\(S\) is closed under multiplication: if \(a, b \in S\text{,}\) then \(a \cdot b \in S\text{.}\)
+
+
+
+Example \(\PageIndex{10}\)
+The set of even integers, \(2\mathbb{Z},\) is a subring of the ring \([\mathbb{Z}; +, \cdot ]\) since \([2\mathbb{Z}; +]\) is a subgroup of the group \([\mathbb{Z}; +]\) and since it is also closed with respect to multiplication:
+\begin{equation*} 2m, 2n \in 2\mathbb{Z} \Rightarrow (2m)\cdot (2n)=2(2\cdot m\cdot n)\in 2\mathbb{Z} \end{equation*}
+
+Several of the basic facts that we are familiar with are true for any ring. The following theorem lists a few of the elementary properties of rings.
+
+Theorem \(\PageIndex{2}\): Some Basic Properties
+Let \([R; +, \cdot]\) be a ring, with \(a, b \in R\text{.}\) Then
+
+\(\displaystyle a \cdot 0 = 0 \cdot a = 0\)
+\(\displaystyle a\cdot (-b) = (-a) \cdot b = -(a\cdot b)\)
+\(\displaystyle (-a) \cdot (-b) = a\cdot b\)
+
+
+Proof
+
+
+\(a \cdot 0 = a \cdot(0 + 0) = a \cdot 0 + a \cdot 0\text{,}\) the last equality valid by the left distributive axiom. Hence if we add \(-(a \cdot 0)\) to both sides of the equality above, we obtain \(a \cdot 0 = 0\text{.}\) Similarly, we can prove that \(0 \cdot a = 0\text{.}\)
+Before we begin the proof of this part, recall that the inverse of each element of the group \([R; +]\) is unique. Hence the inverse of the element \(a \cdot b\) is unique and it is denoted \(-(a \cdot b)\text{.}\) Therefore, to prove that \(a\cdot (-b) = -(a \cdot b)\text{,}\) we need only show that \(a\cdot (-b)\) inverts \(a\cdot b\text{.}\)
+        \begin{equation*} \begin{split} a\cdot (-b)+a\cdot b &= a\cdot (-b+b)\quad \textrm{ by the left distributive axiom}\\ &= a\cdot 0\quad \quad\quad \textrm{ since } -b \textrm{ inverts } b\\ & = 0\quad \quad \quad\quad \textrm{ by part 1 of this theorem}\\ \end{split} \end{equation*}
+        Similarly, it can be shown that\((-a) \cdot b = -(a \cdot b)\text{.}\)
+We leave the proof of part 3 to the reader as an exercise.
+
+
+
+
+
+Example \(\PageIndex{11}\)
+We will compute \(2 \cdot (-2)\) in the ring \(\left[\mathbb{Z}_6;+_6,\times_6\right]\text{.}\) \(2 \times_6 (-2) = -\left(2\times_6 2\right)= -4 = 2\text{,}\) since the additive inverse of 4 (mod 6) is 2. Of course, we could have done the calculation directly as \(2 \times_6 (-2) = 2 \times_6 4 = 2\)
+
+ Integral Domains and Zero Divisors
+As the example above illustrates, Theorem \(\PageIndex{2}\) is a modest beginning in the study of which algebraic manipulations are possible when working with rings. A fact in elementary algebra that is used frequently in problem solving is the cancellation law. We know that the cancellation laws are true under addition for any ring, based on group theory. Are the cancellation laws true under multiplication, where the group axioms can't be counted on? More specifically, let \([R; +, \cdot ]\) be a ring and let \(a, b, c\in R\) with \(a \neq 0\text{.}\) When can we cancel the \(a\)'s in the equation \(a \cdot b = a \cdot c\text{?}\) We can do so if \(a^{-1}\) exists, but we cannot assume that \(a\) has a multiplicative inverse. The answer to this question is found with the following definition and the theorem that follows.
+
+Definition \(\PageIndex{6}\): Zero Divisor
+Let \([R; +, \cdot ]\) be a ring. If \(a\) and \(b\) are two nonzero elements of \(R\) such that \(a \cdot b = 0\text{,}\) then \(a\) and \(b\) are called zero divisors.
+
+
+Example \(\PageIndex{12}\)
+
+In the ring \([\mathbb{Z}_8;+_8,\times_8]\text{,}\) the numbers 4 and 2 are zero divisors since \(4 \times_8 2 =0\text{.}\) In addition, 6 is a zero divisor because \(6\times_8 4 = 0\text{.}\)
+In the ring \(\left[M_{2\times 2}(\mathbb{R}); +, \cdot \right]\) the matrices \(A=\left( \begin{array}{cc} 0 & 0 \\ 0 & 1 \\ \end{array} \right)\) and \(B=\left( \begin{array}{cc} 0 & 1 \\ 0 & 0 \\ \end{array} \right)\) are zero divisors since \(A B = 0\text{.}\)
+\([\mathbb{Z}; +, \cdot]\) has no zero divisors.
+
+
+Now, here is why zero divisors are related to cancellation.
+
+Theorem \(\PageIndex{3}\): Multiplicative Cancellation
+The multiplicative cancellation laws hold in a ring \([R; +, \cdot ]\) if and only if \(R\) has no zero divisors.
+
+Proof
+
+We prove the theorem using the left cancellation axiom, namely that if \(a \neq 0\) and \(a \cdot b = a \cdot c\text{,}\) then \(b = c\) for all \(a, b, c\in R\text{.}\) The proof using the right cancellation axiom is its mirror image.
+
+(⇒) Assume the left cancellation law holds in \(R\) and assume that \(a\) and \(b\) are two elements in \(R\) such that \(a \cdot b = 0\text{.}\) We must show that either \(a = 0\) or \(b = 0\text{.}\) To do this, assume that \(a \neq 0\) and show that \(b\) must be 0.
+\begin{equation*} \begin{split} a\cdot b = 0 &\Rightarrow a\cdot b = a\cdot 0\\ & \Rightarrow b = 0\quad \textrm{ by the left cancellation law}\\ \end{split}\text{.} \end{equation*}
+
+
+(⇐) Conversely, assume that \(R\) has no zero divisors and we will prove that the left cancellation law must hold. To do this, assume that \(a,b, c \in R\text{,}\) \(a \neq 0\text{,}\) such that \(a \cdot b = a \cdot c\) and show that \(b = c\text{.}\)
+\begin{equation*} \begin{split} a \cdot b = a \cdot c & \Rightarrow a \cdot b - a \cdot c=0\\ &\Rightarrow\ a\cdot (b-c) =0\\ & \Rightarrow b-c = 0\quad \textrm{ since there are no zero divisors}\\ &\Rightarrow b=c\\ \end{split} \end{equation*}
+
+
+
+
+Hence, the only time that the cancellation laws hold in a ring is when there are no zero divisors. The commutative rings with unity in which the two conditions are true are given a special name.
+
+Definition \(\PageIndex{7}\): Integral Domain
+A commutative ring with unity containing no zero divisors is called an integral domain.
+
+In this chapter, Integral domains will be denoted generically by the letter \(D\text{.}\) We state the following two useful facts without proof.
+
+Theorem \(\PageIndex{4}\)
+If \(m \in \mathbb{Z}_n\text{,}\) \(m\neq 0\text{,}\) then \(m\) is a zero divisor if and only if \(m\) and \(n\) are not relatively prime; i.e., \(gcd(m, n) \gt 1\text{.}\)
+
+
+Corollary \(\PageIndex{1}\)
+If p is a prime, then \(\mathbb{Z}_p\) has no zero divisors.
+
+
+Example \(\PageIndex{13}\)
+\([\mathbb{Z}; +, \cdot]\text{,}\) \(\left[\mathbb{Z}_p; +_p , \times_p \right]\) with \(p\) a prime, \([\mathbb{Q}; +, \cdot ]\text{,}\) \([\mathbb{R}; +, \cdot ]\text{,}\) and \([\mathbb{C}; +, \cdot ]\) are all integral domains. The key example of an infinite integral domain is \([\mathbb{Z}; +, \cdot ]\text{.}\) In fact, it is from \(\mathbb{Z}\) that the term integral domain is derived. Our main example of a finite integral domain is \(\left[\mathbb{Z}_p; +_p , \times_p \right]\text{,}\) when \(p\) is prime.
+
+We close this section with the verification of an observation that was made in Chapter 11, namely that the product of two algebraic systems may not be an algebraic system of the same type.
+
+Example \(\PageIndex{14}\)
+Both \(\left[\mathbb{Z}_2; +_2 , \times_2 \right]\) and \(\left[\mathbb{Z}_3; +_3 , \times_3 \right]\) are integral domains. Consider the direct product \(\mathbb{Z}_2\times \mathbb{Z}_3\text{.}\) It's true that \(\mathbb{Z}_2 \times \mathbb{Z}_3\) is a commutative ring with unity (see Exercise \(\PageIndex{13}\)). However, \((1,0)\cdot (0, 2) = (0, 0)\text{,}\) so \(\mathbb{Z}_2\times \mathbb{Z}_3\) has zero divisors and is therefore not an integral domain.
+
+ Exercises
+
+Exercise \(\PageIndex{1}\)
+Review the definition of rings to show that the following are rings. The operations involved are the usual operations defined on the sets. Which of these rings are commutative? Which are rings with unity? For the rings with unity, determine the unity and all units.
+
+\(\displaystyle [\mathbb{Z};+,\cdot ]\)
+\(\displaystyle [\mathbb{C};+,\cdot ]\)
+\(\displaystyle [\mathbb{Q};+,\cdot ]\)
+\(\displaystyle \left[M_{2\times 2}(\mathbb{R});+, \cdot \right]\)
+\(\displaystyle \left[\mathbb{Z}_2;+_2,\times_2\right]\)
+
+
+Answer
+
+All but ring d are commutative. All of the rings have a unity element. The number 1 is the unity for all of the rings except d. The unity for \(M_{2\times 2}(\mathbb{R})\) is the two by two identity matrix. The units are as follows:
+
+\(\displaystyle \{1, -1\}\)
+\(\displaystyle \mathbb{C}^*\)
+\(\displaystyle \mathbb{Q}^*\)
+\(\displaystyle \left\{A \left| A_{11}A_{22}-A_{12}A_{21}\neq 0\right.\right\}\)
+\(\displaystyle \{1\}\)
+
+
+
+
+
+Exercise \(\PageIndex{2}\)
+Follow the instructions for Exercise \(\PageIndex{1}\) and the following rings:
+
+\(\displaystyle \left[\mathbb{Z}_6;+_6,\times_6\right]\)
+\(\displaystyle \left[\mathbb{Z}_5;+_5,\times_5\right]\)
+\(\displaystyle \left[\mathbb{Z}_2{}^3;+,\cdot \right]\)
+\(\displaystyle \left[\mathbb{Z}_8; +_8 , \times_8 \right]\)
+\(\displaystyle [\mathbb{Z} \times \mathbb{Z}; +, \cdot ]\)
+\(\displaystyle \left[\mathbb{R}^2; +, \cdot \right]\)
+
+
+
+Exercise \(\PageIndex{3}\)
+Show that the following pairs of rings are not isomorphic:
+
+\([\mathbb{Z};+,\cdot ]\) and \(\left[M_{2\times 2}(\mathbb{Z});+,\cdot \right]\)
+\([3\mathbb{Z};+, \cdot ]\) and \([4\mathbb{Z};+, \cdot ]\text{.}\)
+
+
+Answer
+
+
+Consider commutativity
+Solve \(x ^2=3x\) in both rings.
+
+
+
+
+
+Exercise \(\PageIndex{4}\)
+Show that the following pairs of rings are not isomorphic:
+
+\([\mathbb{R}; +, \cdot ]\) and \([\mathbb{Q};+, \cdot ]\text{.}\)
+\(\left[\mathbb{Z}_2 \times \mathbb{Z}_2; +,\cdot \right]\)and \(\left[\mathbb{Z}_4; +, \cdot \right]\text{.}\)
+
+
+
+Exercise \(\PageIndex{5}\)
+
+Show that \(3\mathbb{Z}\) is a subring of the ring \([\mathbb{Z}; +, \cdot]\)
+Find all subrings of \(\mathbb{Z}_8\text{.}\)
+Find all subrings of \(\mathbb{Z}_2 \times \mathbb{Z}_2\text{.}\)
+
+
+Answer
+
+
+We already know that \(3\mathbb{Z}\) is a subgroup of the group \(\mathbb{Z}\text{.}\) We need only show that \(3\mathbb{Z}\) is closed with respect to multiplication. Let \(3m, 3n \in 3\mathbb{Z}\text{.}\) \((3m)(3n) = 3(3m n) \in 3\mathbb{Z}\text{,}\) since \(3 m n \in \mathbb{Z}\text{.}\)
+The proper subrings are \(\{0, 2, 4, 6\}\) and \(\{0, 4\}\text{;}\) while \(\{0\}\) and \(\mathbb{Z}_8\) are improper subrings.
+The proper subrings are \(\{00, 01\}\text{,}\) \(\{00, 10\}\text{,}\) and \(\{00,11\}\text{:}\) while \(\{00\}\) and \(\mathbb{Z}_2\times \mathbb{Z}_2\) are improper subrings.
+
+
+
+
+
+Exercise \(\PageIndex{6}\)
+Verify the validity of Theorem \(\PageIndex{3}\) by finding examples of elements \(a\text{,}\) \(b\text{,}\) and \(c\text{,}\) \(a \neq 0\) in the following rings, where \(a \cdot b = a \cdot c\) and yet \(b \neq c\text{:}\)
+
+\(\displaystyle \mathbb{Z}_8\)
+\(\displaystyle M_{2\times 2}(\mathbb{R})\)
+\(\displaystyle \mathbb{Z}_2{}^2\)
+
+
+
+Exercise \(\PageIndex{7}\)
+
+Determine all solutions of the equation \(x^2 - 5x + 6 = 0\) in \(\mathbb{Z}\text{.}\) Can there be any more than two solutions to this equation (or any quadratic equation) in \(\mathbb{Z}\text{?}\)
+Find all solutions of the equation in part a in \(\mathbb{Z}_{12}\text{.}\) Why are there more than two solutions?
+
+
+Answer
+
+
+The left-hand side of the equation factors into the product \((x-2)(x-3)\text{.}\) Since \(\mathbb{Z}\) is an integral domain, \(x = 2\) and \(x =3\) are the only possible solutions.
+Over \(\mathbb{Z}_{12}\text{,}\) 2, 3, 6, and 11 are solutions. Although the equation factors into \((x-2)(x-3)\text{,}\) this product can be zero without making \(x\) either 2 or 3. For example. If \(x\) = 6 we get \((6-2)\times _{12}(6-3)=4 \times _{12}3 = 0\text{.}\) Notice that 4 and 3 are zero divisors.
+
+
+
+
+
+Exercise \(\PageIndex{8}\)
+Solve the equation \(x^2 +4x + 4 = 0\) in the following rings. Interpret 4 as \(1 + 1 + 1 + 1\text{,}\) where 1 is the unity of the ring.
+
+in \(\mathbb{Z}_8\)
+in \(M_{2\times 2}(\mathbb{R})\)
+in \(\mathbb{Z}\)
+in \(\mathbb{Z}_3\)
+
+
+
+Exercise \(\PageIndex{9}\)
+The relation “is isomorphic to” on rings is an equivalence relation. Explain the meaning of this statement.
+
+Answer
+
+Let \(R_1\text{,}\) \(R_2\text{,}\) and \(R_3\) be any rings, then
+
+\(R_1\) is isomorphic to \(R_1\) and so “is isomorphic to” is a reflexive relation on rings.
+\(R_1\) is isomorphic to \(R_2\) \(\Rightarrow\) \(R_2\) is isomorphic to \(R_1\text{,}\) and so “is isomorphic to” is a symmetric relation on rings,
+\(R_1\) is isomorphic to \(R_2\text{,}\) and \(R_2\) is isomorphic to \(R_3\) implies that \(R_1\) is isomorphic to \(R_3\text{,}\) and so “is isomorphic to” is a transitive relation on rings.
+
+We haven't proven these properties here, just stated them. The combination of these observations implies that “is isomorphic to” is an equivalence relation on rings.
+
+
+
+
+Exercise \(\PageIndex{10}\)
+
+Let \(R_1\text{,}\) \(R_2\text{,}\) \(\ldots\text{,}\) \(R_n\) be rings. Prove the multiplicative, associative, and distributive laws for the ring
+    \begin{equation*} R=\underset{i=1}{\overset{n}{\times }}R_i \end{equation*}
+If each of the \(R_i\) is commutative, is R commutative?
+Under what conditions will \(R\) be a ring with unity?
+What will the units of \(R\) be when it has a unity?
+
+
+
+Exercise \(\PageIndex{11}\)
+
+Prove that the ring \(\mathbb{Z}_2 \times \mathbb{Z}_3\) is commutative and has unity.
+Determine all zero divisors for the ring \(\mathbb{Z}_2 \times \mathbb{Z}_3\text{.}\)
+Give another example illustrating the fact that the product of two integral domains may not be an integral domain. Is there an example where the product is an integral domain?
+
+
+Answer
+
+
+Commutativity is clear from examination of a multiplication table for \(\mathbb{Z}_2\times \mathbb{Z}_3\text{.}\) More generally, we could prove a theorem that the direct product of two or more commutative rings is commutative. \((1, 1)\) is the unity of \(\mathbb{Z}_2\times \mathbb{Z}_3\text{.}\)
+\(\displaystyle \{(m, n) | m = 0 \textrm{ or } n = 0, (m, n) \neq (0, 0)\}\)
+Another example is \(\mathbb{Z} \times \mathbb{Z}\text{.}\) You never get an integral domain in this situation. By the definition an integral domain \(D\) must contain a “zero” so we always have \((1, 0) \cdot (0, 1) = (0, 0)\) in \(D \times D\text{.}\)
+
+
+
+
+
+Exercise \(\PageIndex{12}\): Boolean Rings
+Let \(U\) be a nonempty set.
+
+Verify that \([\mathcal{P}(U);\oplus ,\cap ]\) is a commutative ring with unity.
+What are the units of this ring?
+
+
+
+Exercise \(\PageIndex{13}\)
+
+For any ring \([R; +, \cdot ]\text{,}\) expand \((a + b)(c + d)\) for \(a, b, c, d \in R\text{.}\)
+If \(R\) is commutative, prove that \((a + b)^2 = a^2 + 2a b + b^2\) for all \(a, b \in R\text{.}\)
+
+
+Answer
+
+
+\(\displaystyle (a + b)(c + d) = (a + b)c + (a + b)d = a c + b c + a d + b d\)
+\begin{equation*} \begin{split} (a + b)(a + b ) &= a a + b a + a b + b b\quad \textrm{ by part a}\\ & = a a + a b + a b + b b\quad \textrm{ since } R \textrm{ is commutative}\\ & =a^2 + 2a b + b^2 \end{split}\text{.} \end{equation*}
+
+
+
+
+
+Exercise \(\PageIndex{14}\)
+
+Let \(R\) be a commutative ring with unity. Prove by induction that for \(n \geq 1\text{,}\) \((a+b)^n= \sum _{k=0}^n \binom{n}{k}a^k b^{n-k}\)
+Simplify \((a + b)^5\) in \(\mathbb{Z}_5\) .
+Simplify \((a + b)^{10}\) in \(\mathbb{Z}_{10}\text{.}\)
+
+
+
+Exercise \(\PageIndex{15}\)
+Prove part 3 of Theorem \(\PageIndex{2}\).
+
+
+Exercise \(\PageIndex{16}\)
+Let \(U\) be a finite set. Prove that the Boolean ring \([\mathcal{P}(U);\oplus ,\cap ]\) is isomorphic to the ring \(\left[\mathbb{Z}_2{}^n; +, \cdot \right]\text{.}\) where \(n =\left| U\right|\text{.}\)
+
+
+
+This page titled 16.1: Rings, Basic Definitions and Concepts is shared under a CC BY-NC-SA  3.0  license and was authored, remixed, and/or curated by Al Doerr & Ken Levasseur via source content that was edited to the style and standards of the LibreTexts platform; a detailed edit history is available upon request.
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+16: An Introduction to Rings and Fields
+
+
+16.2: Fields
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+Author
+Al Doerr & Ken Levasseur
+
+
+Autonumber Section Headings
+title with colon delimiters
+
+
+License
+CC BY-NC-SA
+
+
+License Version
+3.0
+
+
+Show Page TOC
+no
+
+
+
+Tags
+
+
+ source@https://discretemath.org/ads/ads.html
+
+
+
+
+
+
+
+
+
+
+© Copyright 2024 Mathematics LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

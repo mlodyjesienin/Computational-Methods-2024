@@ -1,0 +1,429 @@
+
+
+
+
+
+
+
+MATHEMATICAL AND COMPUTATIONAL PHYSICS - 2023/4 - University of Surrey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programme/Module Catalogue
+2023/4
+Modules
+MATHEMATICAL AND COMPUTATIONAL PHYSICS
+
+
+
+
+
+
+
+
+
+MATHEMATICAL AND COMPUTATIONAL PHYSICS - 2023/4
+
+
+Module code: PHY1038
+
+
+
+
+Module Overview
+This module builds on the Essential Mathematics module to develop further mathematical and computational skills as an aid to understanding and exploring physics concepts. The mathematics Units of Assessment are taught in lecture-based classes with associated workshop sessions, and cover multi-variable calculus, Fourier Series
+
+The computational part of the course consists of a series of assessed exercises, with classroom support, which develop computational problem solving skills, and link in with the mathematics covered elsewhere in the module and in the prerequisite module.
+
+
+
+
+
+Module provider
+Mathematics & Physics
+Module Leader
+DIAZ TORRES Alexis (Maths & Phys)
+
+
+Number of Credits: 15
+ECTS Credits: 7.5
+Framework: FHEQ Level 4
+
+
+
+
+Module cap (Maximum number of students):
+                
+                  N/A                
+
+
+
+
+
+Overall student workload
+
+
+Independent Learning Hours: 84
+
+
+Lecture Hours: 44
+
+
+Laboratory Hours: 22
+
+
+Guided Learning: 10
+
+
+Captured Content: 22
+
+
+
+
+Module Availability
+
+                Semester 2              
+
+
+
+
+Prerequisites / Co-requisites
+The module will assume prior knowledge equivalent to the following module. If you have not taken these modules you should consult the module descriptor
+
+Level HE1 (FHEQ Level 4) Essential Mathematics
+
+
+
+
+
+Module content
+Indicative content includes:
+
+
+Mathematical Physics:
+Functions of two or more variables.  Partial derivative, chain rule, changing variables and Taylor’s theorem. Gradient. Identifying maxima, minima and saddle points, Lagrange multipliers.
+First-order differential equations; the method of separation of variables and integrating factors.  Exact differential equations.  Simple second order equations with constant coefficients.  General and particular solutions. Laplace transform and its applications.
+Selected topics of linear algebra: eigenvectors and eigenvalues, similarity transformations, diagonalisation of matrices, simultaneous linear equations, rotational matrices, normal modes.
+Fourier Series; orthogonal functions, computation of Fourier coefficients.
+Line integrals, multiple integrals; double and triple integrals, changes of variables, the Jacobian; the use of spherical and cylindrical coordinates.
+
+
+ 
+
+
+Computational Physics
+The Computational Physics part of the module consists of the following 5 assignments:
+Newton-Raphson root finding
+Finite difference methods
+Series computing
+Geometric matrix-vector operations
+Linear algebra
+
+
+
+
+
+
+Assessment pattern
+
+
+
+
+
+
+Assessment type
+Unit of assessment
+Weighting
+
+
+
+
+Coursework
+COMPUTING ASSIGNMENT
+30 
+
+School-timetabled exam/test
+1 HOUR CLASS TEST
+20 
+
+Examination
+1.5 HOUR FINAL EXAM
+50 
+
+
+
+
+
+
+
+Alternative Assessment
+
+                None.
+              
+
+
+
+
+Assessment Strategy
+The assessment strategy is designed to provide students with the opportunity to demonstrate
+
+
+
+	recall of subject knowledge
+
+
+	ability to apply individual components of subject knowledge to basic situations
+
+
+	ability to design and implement computational solutions to given mathematical problems
+
+
+	ability to tackle unseen mathematical problems using known methods
+
+	 
+
+	Thus, the summative assessment for this module consists of:
+
+
+	5 computational exercises covering different programming skills, and surveying different areas of the mathematics syllabus with deadlines spread equally throughout semester
+
+
+	a mid-semester mathematics test (1 hr)
+
+
+	a final examination in mathematics (1.5 hrs)
+
+	 
+
+Formative assessment
+
+	Verbal feedback is given in tutorial sessions.  Continuous feedback given in supervised computational classes.  Mid-semester maths test provides feedback as well as contributing to the summative assessment.
+
+
+
+ 
+
+
+
+
+
+Module aims
+
+enable students to classify and solve simple first- and second-order ordinary differential equations, including the concepts and appreciation of convergence tests of numerical series.
+Enable students to compute the coefficients of Fourier series.
+provide an understanding of functions of more than one variable, their derivatives, and the location stationary points of functions of two variables, and to be able to classify them as maxima, minima or saddle points.
+enable the use multiple integrals to calculate surface and volume properties
+develop skills in and experience of developing computational solutions to problems in mathematics and physics. 
+produce well-structured and well-though-out program solutions to problems, drawing on examples from the mathematical physics part of the module,
+present results from the programs in appropriate graphical format.
+
+
+
+
+
+Learning outcomes
+
+
+
+
+
+
+Attributes Developed
+
+
+
+
+001
+Test numerical and functional series for their convergence properties
+KC
+
+
+002
+Be able to solve simple first- and second-order ordinary differential equations.
+KC
+
+
+003
+Be able to compute and manipulate partial derivatives
+KC
+
+
+004
+Be able to compute Fourier series coefficients
+KC
+
+
+005
+Be able to evaluate derivatives and integrals of two- and multi-variable functions and be able to apply these to find maxima and minima and to the calculation of physical quantities such as volume, mass, moments of inertia and centre of gravity of various geometric shapes with both homogeneous and inhomogeneous densities.
+KC
+
+
+006
+Be able to use computational techniques to solve unseen problems in mathematics and physics, confidently using appropriate syntax and algorithm design,
+CT
+
+
+007
+Demonstrate skills in debugging and in graphical presentation
+T
+
+
+
+
+
+
+
+Attributes Developed
+
+
+C - Cognitive/analytical
+K - Subject knowledge
+
+
+T - Transferable skills
+P - Professional/Practical skills
+
+
+
+
+Methods of Teaching / Learning
+The learning and teaching strategy is designed to:
+
+
+equip students with subject knowledge
+develop skills in applying subject knowledge to unseen problems in mathematics, including problems with a direct physical application
+ensure that students are able to take problems in 
+
+
+ 
+
+The learning and teaching methods include:
+
+
+44h of lecture and tutorial classes in mathematics as 4h/week x 11 weeks
+22h of supervised computational laboratory sessions as 2h/week x 11 weeks
+Total student workload is 150hrs, with the remaining hours consisting of independent study
+
+
+ 
+
+Indicated Lecture Hours (which may also include seminars, tutorials, workshops and other contact time) are approximate and may include in-class tests where one or more of these are an assessment on the module. In-class tests are scheduled/organised separately to taught content and will be published on to student personal timetables, where they apply to taken modules, as soon as they are finalised by central administration. This will usually be after the initial publication of the teaching timetable for the relevant semester.
+
+
+
+
+Reading list
+https://readinglists.surrey.ac.ukUpon accessing the reading list, please search for the module using the module code: PHY1038
+
+
+
+
+Programmes this module appears in
+
+
+
+
+Programme
+Semester
+Classification
+Qualifying conditions
+
+
+
+
+
+Physics with Nuclear Astrophysics MPhys
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics with Astronomy MPhys
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics with Quantum Technologies MPhys
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics MPhys
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics BSc (Hons)
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics with Astronomy BSc (Hons)
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics with Quantum Technologies BSc (Hons)
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+Physics with Nuclear Astrophysics BSc (Hons)
+
+2
+Compulsory
+A weighted aggregate mark of 40% is required to pass the module
+
+
+
+
+
+
+
+
+Please note that the information detailed within this record is accurate at the time of publishing and may be subject to change. This record contains information for the most up to date version of the programme / module for the 2023/4 academic year.
+
+
+
+
+
+
+
+
+
+
+
+
+

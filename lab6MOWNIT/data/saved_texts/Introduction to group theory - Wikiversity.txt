@@ -1,0 +1,2089 @@
+
+
+
+
+Introduction to group theory - Wikiversity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to group theory
+
+From Wikiversity
+
+
+
+Jump to navigation
+Jump to search
+Group theory is the study of algebraic structures called groups. This introduction will rely heavily on set theory and modular arithmetic as well. Later on it will require an understanding of mathematical induction, functions, bijections, and partitions. Lessons may utilize matrices and complex numbers as well.
+After completing this section move on to Introduction to group theory/Part 2 Subgroups and cyclic groups.
+
+Contents
+
+1 Introduction
+
+1.1 Closure Under the Operation
+1.2 Associativity
+1.3 Identity
+1.4 Inverses
+1.5 Possible Misconceptions
+1.6 Non-groups
+
+
+2 Definition
+
+2.1 Notation Notes
+2.2 Multiplying
+2.3 Advice
+
+
+3 Theorems From the Definition
+
+3.1 Uniqueness of the Identity Element
+3.2 Cancellation
+3.3 Uniqueness of Inverses
+3.4 Socks and Shoes
+
+
+4 Integer Modulo Groups
+
+4.1 Arithmetic Examples
+
+
+5 Dihedral Groups
+6 Cayley Tables
+7 Homework
+
+
+Introduction[edit | edit source]
+What is a group? A more rigorous definition will come shortly but to give a very rough idea of a group it is a set and a operation. For example the integers under addition form a group, notated as (
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+, +) or simply 
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+, where the operation is assumed to be addition.
+Some more examples of groups are
+
+The real numbers under addition: (
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+, +) or simply 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+
+The rational numbers under addition: (
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+, +) or simply 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+
+The non-zero real numbers under multiplication: (
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+*, ×)
+The set of 2x2 matrices with integer entries under matrix addition: (M2(
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+), +)
+All of these structures have things in common; they are all integral to being groups. They also have things in common that aren't necessary to groups. Let's examine some of these similarities.
+
+Closure Under the Operation[edit | edit source]
+All of these groups have a closed binary operation. For example in (
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+, +) any two integers added together will be another integer. In other words if n,m ∈
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+ then (n+m)∈
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+.
+In general for (G, *) to be a group where G is a set and * is a binary operation, if a,b are in G then (a*b) is also in G. This is called closure. Notice that all of the groups in the above examples are closed under their respective operations.
+
+Associativity[edit | edit source]
+With the integers under addition 
+
+
+
+
+
+2
++
+(
+11
++
+5
+)
+=
+(
+2
++
+11
+)
++
+5
+
+
+
+{\displaystyle 2+(11+5)=(2+11)+5\,}
+
+
+With the non-zero real numbers under multiplication
+
+
+
+
+
+3
+∗
+(
+2
+∗
+5
+)
+=
+(
+3
+∗
+2
+)
+∗
+5
+
+
+
+{\displaystyle 3*(2*5)=(3*2)*5\,}
+
+
+This is called associativity and is required for a structure to be a group. In general if (G,*) is a group and a,b,c∈G then
+
+
+
+
+
+a
+∗
+(
+b
+∗
+c
+)
+=
+(
+a
+∗
+b
+)
+∗
+c
+
+
+
+{\displaystyle a*(b*c)=(a*b)*c\,}
+
+
+Identity[edit | edit source]
+When we look at 
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+ there's something special about the element 0.
+Notice that for any integer m
+
+
+
+
+
+0
++
+m
+=
+m
++
+0
+=
+m
+
+
+
+{\displaystyle 0+m=m+0=m\,}
+
+
+Zero is the only element in this group with this property and it's called the identity of the group.
+Zero is also the identity in the groups 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+, and 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+.
+In 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+* the element 
+
+
+
+1
+
+
+{\displaystyle 1}
+
+ is the identity as
+
+
+
+
+
+1
+∗
+a
+=
+a
+∗
+1
+=
+a
+
+
+{\displaystyle 1*a=a*1=a}
+
+
+for all a in 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+.
+In general if (G,*) is a group then there exists an identity element e in G such that for any g in G
+
+
+
+
+
+e
+∗
+g
+=
+g
+∗
+e
+=
+g
+
+
+{\displaystyle e*g=g*e=g}
+
+
+This element is called the identity of G or eG.
+
+Inverses[edit | edit source]
+In 
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+ if 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ is an integer consider
+
+
+
+
+
+m
++
+x
+=
+0
+
+
+{\displaystyle m+x=0}
+
+
+It would then follow that 
+
+
+
+x
+=
+(
+−
+m
+)
+
+
+{\displaystyle x=(-m)}
+
+ and in fact 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is an integer as well.
+In 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+* if r is a non-zero real number then
+
+
+
+
+
+r
+∗
+x
+=
+1
+
+
+{\displaystyle r*x=1}
+
+
+has a solution. Further 
+
+
+
+x
+=
+1
+
+/
+
+r
+=
+
+r
+
+−
+1
+
+
+
+
+{\displaystyle x=1/r=r^{-1}}
+
+ and x is also a non-zero real number.
+In general if (G, *) is a group  with identity 
+
+
+
+e
+
+
+{\displaystyle e}
+
+ and 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ is an element of G then there exists an element 
+
+
+
+
+a
+
+−
+1
+
+
+
+
+{\displaystyle a^{-1}}
+
+ also in G such that
+
+
+
+
+
+a
+∗
+
+a
+
+−
+1
+
+
+=
+e
+=
+
+a
+
+−
+1
+
+
+∗
+a
+
+
+{\displaystyle a*a^{-1}=e=a^{-1}*a}
+
+.
+Note that 
+
+
+
+
+a
+
+−
+1
+
+
+
+
+{\displaystyle a^{-1}}
+
+ at this point is purely notational. If we are looking at the group of integers under addition then 
+
+
+
+
+3
+
+−
+1
+
+
+
+
+{\displaystyle 3^{-1}}
+
+ means 
+
+
+
+−
+3
+
+
+{\displaystyle -3}
+
+ since
+
+
+
+
+
+3
++
+(
+−
+3
+)
+=
+0
+
+
+{\displaystyle 3+(-3)=0}
+
+.
+It does not mean 
+
+
+
+1
+
+/
+
+3
+
+
+{\displaystyle 1/3}
+
+ in this group.
+
+Possible Misconceptions[edit | edit source]
+In all of the above examples the underlying set of the groups are infinite, but groups need not be infinite. Note that with the requirement of an identity element the underlying set cannot be the empty set.
+All of the groups above are commutative. That is that 
+
+
+
+a
+∗
+b
+=
+b
+∗
+a
+
+
+{\displaystyle a*b=b*a}
+
+. This is not true of all groups in general. Groups that are commutative are called Abelian Groups.
+
+Non-groups[edit | edit source]
+To solidify our understanding let's look at some structures that aren't groups.
+Firstly ({0,1,2,3},+) is not a group as 
+
+
+
+2
++
+3
+=
+5
+
+
+{\displaystyle 2+3=5}
+
+ and 
+
+
+
+5
+
+
+{\displaystyle 5}
+
+ is not in {0,1,2,3} and this set is not closed under our operation.
+Consider 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+ under addition. This set is closed but it doesn't have inverses therefore it is not a group.
+Consider the set of all matrices under addition. This is not a group because not all matrices can be added. Consider for example a 2x2 matrix and a 3x3 matrix.
+Consider (
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+, *). This is not a group because 0 doesn't have an inverse and since 
+
+
+
+0
+∗
+1
+≠
+1
+
+
+{\displaystyle 0*1\neq 1}
+
+, there is no identity.
+
+Definition[edit | edit source]
+A set G under the closed binary operation * is a group denoted (G,*) or simply G iff
+
+G under * is associative: 
+
+
+
+∀
+a
+,
+b
+,
+c
+∈
+G
+,
+a
+∗
+(
+b
+∗
+c
+)
+=
+(
+a
+∗
+b
+)
+∗
+c
+
+
+{\displaystyle \forall a,b,c\in G,a*(b*c)=(a*b)*c}
+
+
+G under * has an identity element: 
+
+
+
+∃
+e
+∈
+G
+
+
+{\displaystyle \exists e\in G}
+
+ such that 
+
+
+
+∀
+a
+∈
+G
+,
+a
+∗
+e
+=
+a
+=
+e
+∗
+a
+
+
+{\displaystyle \forall a\in G,a*e=a=e*a}
+
+
+Each element in G has an inverse under *: 
+
+
+
+∀
+g
+∈
+G
+∃
+
+g
+
+−
+1
+
+
+∈
+G
+
+
+{\displaystyle \forall g\in G\exists g^{-1}\in G}
+
+ such that 
+
+
+
+g
+∗
+
+g
+
+−
+1
+
+
+=
+e
+=
+
+g
+
+−
+1
+
+
+∗
+g
+
+
+{\displaystyle g*g^{-1}=e=g^{-1}*g}
+
+ where 
+
+
+
+e
+
+
+{\displaystyle e}
+
+ is the identity in G.
+Notation Notes[edit | edit source]
+Since groups are associative it is common place to drop the parentheses when one is working with something shown to be a group. If a structure has yet to be shown to be associative do not drop the parentheses when working with elements of it. Do not however drop parentheses when working with inverses. For example 
+
+
+
+(
+a
+b
+
+)
+
+−
+1
+
+
+
+
+{\displaystyle (ab)^{-1}}
+
+ and 
+
+
+
+a
+
+b
+
+−
+1
+
+
+
+
+{\displaystyle ab^{-1}}
+
+ are not necessarily the same. Note that 
+
+
+
+a
+
+b
+
+−
+1
+
+
+
+
+{\displaystyle ab^{-1}}
+
+ is assumed to mean 
+
+
+
+a
+∗
+(
+
+b
+
+−
+1
+
+
+)
+
+
+{\displaystyle a*(b^{-1})}
+
+.
+Since groups only have one operation it is usually dropped much like multiplication in elementary algebra. For example:
+
+
+
+
+
+a
+∗
+b
+=
+c
+
+
+{\displaystyle a*b=c}
+
+ becomes 
+
+
+
+a
+b
+=
+c
+
+
+{\displaystyle ab=c}
+
+.
+Dropping both the parentheses and the operation symbol leads to long strings of elements being unambiguous. For example any interpretation of
+
+
+
+
+a
+b
+c
+x
+
+
+{\displaystyle abcx}
+
+ is equivalent. I.e.
+
+
+
+
+
+a
+∗
+(
+b
+∗
+(
+c
+∗
+x
+)
+)
+)
+=
+(
+a
+∗
+b
+)
+∗
+(
+c
+∗
+x
+)
+=
+(
+(
+a
+∗
+b
+)
+∗
+c
+)
+∗
+x
+
+
+{\displaystyle a*(b*(c*x)))=(a*b)*(c*x)=((a*b)*c)*x}
+
+
+In most groups 
+
+
+
+e
+
+
+{\displaystyle e}
+
+ is assumed to be the identity and is used in arbitrary groups where the identity is unknown.
+When strings of the same element are being multiplied we use exponent notation to represent it. For example
+
+
+
+
+
+a
+∗
+a
+∗
+a
+∗
+a
+=
+
+a
+
+4
+
+
+
+
+{\displaystyle a*a*a*a=a^{4}}
+
+
+Do note that we must be careful not to assume elements commute. Thus 
+
+
+
+
+
+a
+∗
+b
+∗
+b
+∗
+a
+∗
+b
+=
+a
+∗
+
+b
+
+2
+
+
+∗
+a
+∗
+b
+
+
+{\displaystyle a*b*b*a*b=a*b^{2}*a*b}
+
+ but can be simplified no further.
+In abelian groups (commutative groups) and later on in the study of Rings additive notation can be used in place of multiplicative. For example
+
+
+
+
+
+
+a
+
+2
+
+
+∗
+b
+∗
+
+c
+
+−
+1
+
+
+
+
+{\displaystyle a^{2}*b*c^{-1}}
+
+ becomes 
+
+
+
+2
+a
++
+b
+−
+c
+
+
+{\displaystyle 2a+b-c}
+
+.
+Multiplying[edit | edit source]
+Note that "=" is an equivalence relation and thus we can substitute. For example in a group G suppose 
+
+
+
+a
+,
+b
+,
+c
+∈
+G
+
+
+{\displaystyle a,b,c\in G}
+
+ such that 
+
+
+
+a
+=
+b
+
+
+{\displaystyle a=b}
+
+. Then by closure 
+
+
+
+a
+c
+∈
+G
+
+
+{\displaystyle ac\in G}
+
+, and by reflexivity 
+
+
+
+a
+c
+=
+a
+c
+
+
+{\displaystyle ac=ac}
+
+. We may substitute to arrive at 
+
+
+
+a
+c
+=
+b
+c
+
+
+{\displaystyle ac=bc}
+
+. Thus
+
+
+
+
+
+a
+=
+b
+
+⟹
+
+a
+c
+=
+b
+c
+
+
+{\displaystyle a=b\implies ac=bc}
+
+
+This is called multiplying on the right by 
+
+
+
+c
+
+
+{\displaystyle c}
+
+.
+Similarly
+
+
+
+
+
+a
+=
+b
+
+⟹
+
+c
+a
+=
+c
+b
+
+
+{\displaystyle a=b\implies ca=cb}
+
+
+is called multiplying on the left.
+
+Advice[edit | edit source]
+Now we may begin to play with some equations. Moving on it is best to try to "forget" our assumptions about algebra we have learned from our elementary courses and only use what is explicitly proven.
+
+Theorems From the Definition[edit | edit source]
+These are important theorems that follow directly from the definition of a group. Attempt the proofs yourself before looking at the solutions.
+
+Uniqueness of the Identity Element[edit | edit source]
+An important theorem to begin with is the uniqueness of the identity. More precisely stated: Let G be a group. If
+
+
+
+
+
+∃
+e
+,
+
+e
+′
+
+∈
+G
+
+
+{\displaystyle \exists e,e'\in G}
+
+ such that
+
+
+
+
+(
+∀
+a
+∈
+G
+a
+∗
+e
+=
+a
+=
+e
+∗
+a
+)
+∧
+(
+∀
+a
+∈
+G
+a
+∗
+
+e
+′
+
+=
+a
+=
+
+e
+′
+
+∗
+a
+)
+
+
+{\displaystyle (\forall a\in Ga*e=a=e*a)\land (\forall a\in Ga*e'=a=e'*a)}
+
+
+then
+
+
+
+
+
+e
+=
+
+e
+′
+
+
+
+{\displaystyle e=e'}
+
+
+Proof
+
+Cancellation[edit | edit source]
+This theorem lets us cancel elements exactly opposite of how we multiply them.
+Right Cancellation
+Theorem: 
+
+
+
+a
+c
+=
+b
+c
+
+⟹
+
+a
+=
+b
+
+
+{\displaystyle ac=bc\implies a=b}
+
+.
+Right Cancellation Proof
+Left cancellation is similarly proven.
+Theorem: 
+
+
+
+c
+a
+=
+c
+b
+
+⟹
+
+a
+=
+b
+
+
+{\displaystyle ca=cb\implies a=b}
+
+.
+
+Uniqueness of Inverses[edit | edit source]
+This theorem states that each element has only one inverse.
+Theorem: Let G be a group. Then if 
+
+
+
+g
+,
+a
+,
+b
+∈
+G
+
+
+{\displaystyle g,a,b\in G}
+
+ such that 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ are both inverses of 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ then 
+
+
+
+a
+=
+b
+
+
+{\displaystyle a=b}
+
+.
+Proof
+
+Socks and Shoes[edit | edit source]
+This theorem is a way to distribute inverses.
+Theorem: For group elements 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, 
+
+
+
+
+
+(
+a
+b
+
+)
+
+−
+1
+
+
+=
+
+b
+
+−
+1
+
+
+
+a
+
+−
+1
+
+
+
+
+{\displaystyle (ab)^{-1}=b^{-1}a^{-1}}
+
+.
+Induction can be used to prove the more powerful socks and shoes theorem.
+Theorem: For groups elements 
+
+
+
+
+a
+
+1
+
+
+,
+
+a
+
+2
+
+
+,
+…
+,
+
+a
+
+n
+
+
+
+
+{\displaystyle a_{1},a_{2},\ldots ,a_{n}}
+
+
+
+
+
+
+
+(
+
+a
+
+1
+
+
+∗
+
+a
+
+2
+
+
+∗
+…
+∗
+
+a
+
+n
+
+
+
+)
+
+−
+1
+
+
+=
+
+a
+
+n
+
+
+−
+1
+
+
+∗
+…
+∗
+
+a
+
+2
+
+
+−
+1
+
+
+∗
+
+a
+
+1
+
+
+−
+1
+
+
+
+
+{\displaystyle (a_{1}*a_{2}*\ldots *a_{n})^{-1}=a_{n}^{-1}*\ldots *a_{2}^{-1}*a_{1}^{-1}}
+
+.
+Proof
+
+Integer Modulo Groups[edit | edit source]
+Note that 
+
+
+
+
+
+Z
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {Z} _{n}}
+
+= {0,1,2,...,n-1}. It happens that (
+
+
+
+
+
+Z
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {Z} _{n}}
+
+,+mod(n)) is a group and is written 
+
+
+
+
+
+Z
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {Z} _{n}}
+
+ for short. 
+
+Arithmetic Examples[edit | edit source]
+In 
+
+
+
+
+
+Z
+
+
+8
+
+
+
+
+{\displaystyle \mathbb {Z} _{8}}
+
+
+
+
+
+
+
+2
++
+2
+=
+4
+
+
+{\displaystyle 2+2=4}
+
+
+
+
+
+
+5
++
+5
+=
+2
+
+
+{\displaystyle 5+5=2}
+
+
+
+
+
+
+7
++
+1
+=
+0
+
+
+{\displaystyle 7+1=0}
+
+
+In 
+
+
+
+
+
+Z
+
+
+5
+
+
+
+
+{\displaystyle \mathbb {Z} _{5}}
+
+
+
+
+
+
+
+4
++
+4
+=
+3
+
+
+{\displaystyle 4+4=3}
+
+
+
+
+
+
+1
++
+1
+=
+2
+
+
+{\displaystyle 1+1=2}
+
+
+Dihedral Groups[edit | edit source]
+The dihedral groups arise from looking at the symmetries of regular polygons.
+
+Cayley Tables[edit | edit source]
+A Cayley table is a table that displays the products of elements of the group under the operation.
+For example, the Cayley table of 
+
+
+
+(
+
+
+Z
+
+
+3
+
+
+,
++
+m
+o
+d
+(
+n
+)
+)
+
+
+{\displaystyle (\mathbb {Z} _{3},+mod(n))}
+
+ is:
+
+
+
++
+
+0
+
+1
+
+2
+
+
+0
+
+0
+1
+2
+
+
+1
+
+1
+
+2
+
+0
+
+
+2
+
+2
+
+0
+
+1
+
+Homework[edit | edit source]
+Attempt the proofs and problems on your own before looking at the solutions.
+Problem 1.
+
+Prove that cross cancellation implies commutativity. That is assume
+
+
+
+
+a
+c
+=
+c
+b
+
+⟹
+
+a
+=
+b
+
+
+{\displaystyle ac=cb\implies a=b}
+
+
+and show 
+
+
+
+∀
+x
+,
+y
+∈
+G
+,
+x
+y
+=
+y
+x
+
+
+{\displaystyle \forall x,y\in G,xy=yx}
+
+
+Solution
+
+
+
+
+
+Retrieved from "https://en.wikiversity.org/w/index.php?title=Introduction_to_group_theory&oldid=2385580"
+Categories: AlgebraResources last modified in June 2012
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+ResourceDiscuss
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadEditEdit sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main PageBrowseRecent changesGuided toursRandomHelpDonate
+
+
+
+
+
+community
+
+
+
+PortalColloquiumNewsProjectsSandbox
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+wikimedia projects
+
+
+
+CommonsWikibooksWikidataWikinewsWikipediaWikiquoteWikisourceWikispeciesWikivoyageWiktionaryMeta-WikiOutreachMediaWikiWikimania
+
+
+
+
+
+Print/export
+
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+In other languages
+
+
+
+
+Add links
+
+
+
+
+
+
+ This page was last edited on 26 March 2022, at 06:02.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikiversity
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+

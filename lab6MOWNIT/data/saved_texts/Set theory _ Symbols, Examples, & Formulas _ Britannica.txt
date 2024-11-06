@@ -1,0 +1,855 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Set theory | Symbols, Examples, & Formulas | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				set theory
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionIntroduction to naive set theoryFundamental set conceptsOperations on setsRelations in set theoryEssential features of Cantorian set theoryEquivalent setsCardinality and transfinite numbersAxiomatic set theoryThe Zermelo-Fraenkel axiomsSchemas for generating well-formed formulasAxioms for compounding setsAxioms for infinite and ordered setsSchema for transfinite induction and ordinal arithmeticAxiom for eliminating infinite descending speciesThe Neumann-Bernays-Gödel axiomsLimitations of axiomatic set theoryPresent status of axiomatic set theory
+
+				References & Edit History
+
+				Related Topics
+
+
+
+				Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+set theory summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+Why New York Is Called "The Big Apple" and How 8 Other Famous Cities Got Their Nicknames
+
+
+
+
+
+
+
+
+
+Why Is the Indy 500 Held on Memorial Day Weekend?
+
+
+
+
+
+
+
+
+
+7 Deadliest Weapons in History
+
+
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+Do Lemmings Really Commit Mass Suicide?
+
+
+
+
+
+
+
+
+
+9 American Political Scandals
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Philosophy & Religion
+
+
+
+				Philosophical Issues
+
+
+
+
+
+
+
+
+
+
+set theory
+
+
+mathematics
+
+
+
+
+	
+    
+            Actions
+        
+
+
+
+
+	
+			
+			Cite
+		
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+
+
+	
+            
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/set-theory
+
+
+
+
+
+
+	
+                        Give Feedback
+                    
+
+
+
+
+	
+                        External Websites
+                    
+
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                        External Websites
+                    
+
+
+Boston University - Basic Set Theory
+University of Houston - Department of Mathematics - Basic Set Theory
+Story of Mathematics - Set Theory – Definition and Examples
+Maths Is Fun - Set Theory
+Mathematics LibreTexts Library - Set Theory
+University College London - Introduction to set theory
+Internet Encyclopedia of Philosophy - Set Theory
+Stanford Encyclopedia of Philosophy - Set Theory
+
+
+
+
+
+
+
+
+
+	
+    
+                    Print
+        
+
+
+
+print
+			Print
+		
+
+			Please select which sections you would like to print:
+		
+
+
+
+Table Of Contents
+
+
+
+
+
+
+
+
+	
+    
+            Cite
+        
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+	
+    
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/set-theory
+
+
+
+
+	
+    
+            Feedback
+        
+
+
+
+
+
+
+	
+                    External Websites
+                
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                    External Websites
+                
+
+
+Boston University - Basic Set Theory
+University of Houston - Department of Mathematics - Basic Set Theory
+Story of Mathematics - Set Theory – Definition and Examples
+Maths Is Fun - Set Theory
+Mathematics LibreTexts Library - Set Theory
+University College London - Introduction to set theory
+Internet Encyclopedia of Philosophy - Set Theory
+Stanford Encyclopedia of Philosophy - Set Theory
+
+
+
+
+
+
+
+
+			
+				Written by
+				
+
+
+Herbert Enderton
+Professor of Mathematics, University of California at Los Angeles. Author of A Mathematical Introduction to Logic; Elements of Set Theory; and others.
+
+
+
+
+  Herbert Enderton, 
+
+Robert R. Stoll
+Professor of Mathematics, Cleveland State University, Ohio, 1971–80. Author of Set Theory and Logic.
+
+
+
+
+  Robert R. StollAll
+
+
+Fact-checked by 
+
+The Editors of Encyclopaedia Britannica
+Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.
+
+
+
+
+  The Editors of Encyclopaedia Britannica
+
+
+					Last Updated: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 2, 2024
+•
+Article History
+
+
+
+
+	
+			Table of Contents
+		
+
+
+
+
+Key People: 
+Georg Cantor
+Paul Erdős
+John von Neumann
+Saul Kripke
+Stanislaw Ulam
+
+
+(Show more)
+
+
+
+
+Related Topics: 
+axiom of choice
+Venn diagram
+Zorn’s lemma
+continuum hypothesis
+Cantor’s theorem
+
+
+(Show more)
+
+
+
+
+
+					See all related content →
+
+set theory,  branch of mathematics that deals with the properties of well-defined collections of objects, which may or may not be of a mathematical nature, such as numbers or functions. The theory is less valuable in direct application to ordinary experience than as a basis for precise and adaptable terminology for the definition of complex and sophisticated mathematical concepts.Between the years 1874 and 1897, the German mathematician and logician Georg Cantor created a theory of abstract sets of entities and made it into a mathematical discipline. This theory grew out of his investigations of some concrete problems regarding certain types of infinite sets of real numbers. A set, wrote Cantor, is a collection of definite, distinguishable objects of perception or thought conceived as a whole. The objects are called elements or members of the set.The theory had the revolutionary aspect of treating infinite sets as mathematical objects that are on an equal footing with those that can be constructed in a finite number of steps. Since antiquity, a majority of mathematicians had carefully avoided the introduction into their arguments of the actual infinite (i.e., of sets containing an infinity of objects conceived as existing simultaneously, at least in thought). Since this attitude persisted until almost the end of the 19th century, Cantor’s work was the subject of much criticism to the effect that it dealt with fictions—indeed, that it encroached on the domain of philosophers and violated the principles of religion. Once applications to analysis began to be found, however, attitudes began to change, and by the 1890s Cantor’s ideas and results were gaining acceptance. By 1900, set theory was recognized as a distinct branch of mathematics.At just that time, however, several contradictions in so-called naive set theory were discovered. In order to eliminate such problems, an axiomatic basis was developed for the theory of sets analogous to that developed for elementary geometry. The degree of success that has been achieved in this development, as well as the present stature of set theory, has been well expressed in the Nicolas Bourbaki Éléments de mathématique (begun 1939; “Elements of Mathematics”): “Nowadays it is known to be possible, logically speaking, to derive practically the whole of known mathematics from a single source, The Theory of Sets.”
+
+
+Britannica Quiz
+Numbers and Mathematics
+
+ Introduction to naive set theory Fundamental set concepts In naive set theory, a set is a collection of objects (called members or elements) that is regarded as being a single object. To indicate that an object x is a member of a set A one writes x ∊ A, while x ∉ A indicates that x is not a member of A. A set may be defined by a membership rule (formula) or by listing its members within braces. For example, the set given by the rule “prime numbers less than 10” can also be given by {2, 3, 5, 7}. In principle, any finite set can be defined by an explicit list of its members, but specifying infinite sets requires a rule or pattern to indicate membership; for example, the ellipsis in {0, 1, 2, 3, 4, 5, 6, 7, …} indicates that the list of natural numbers ℕ goes on forever. The empty (or void, or null) set, symbolized by {} or Ø, contains no elements at all. Nonetheless, it has the status of being a set.
+ A set A is called a subset of a set B (symbolized by A ⊆ B) if all the members of A are also members of B. For example, any set is a subset of itself, and Ø is a subset of any set. If both A ⊆ B and B ⊆ A, then A and B have exactly the same members. Part of the set concept is that in this case A = B; that is, A and B are the same set.
+Get a Britannica Premium subscription and gain access to exclusive content. 
+Subscribe Now
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

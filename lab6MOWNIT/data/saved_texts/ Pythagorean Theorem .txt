@@ -1,0 +1,49 @@
+
+ Pythagorean Theorem 
+
+
+
+ Right Triangles - Pythagorean Theorem
+ The Pythagorean theorem was first known in ancient 
+Babylon and Egypt (beginning about 1900 B.C.). The relationship was shown 
+on a 4000 year old  Babylonian tablet now known as Plimpton 322. However, 
+the relationship was not widely publicized until Pythagoras stated it 
+explicitly. 
+Pythagorean
+
+
+ Pythagoras lived 
+during the 6th century B.C. on the island of Samos in the Aegean Sea. He also lived in 
+Egypt, Babylon and southern Italy. Pythagoras was a teacher and a philosopher.
+
+
+Pythagoras found out that for a right angle triangle (with one of the angles being 90o), the square of the hypotenuse is equal to the sum of the squares of the other two sides: a2+b2=c2. 
+   
+In other words, the green square's area (with area c2) equals the sum of two others. It is exactly the yellow square's area (a2) 
+plus the blue square's (b2).
+  
+
+Now take a look at the tile pattern.
+[The proof of Pythagorean Theorem is in the following figure.] 
+  
+
+Count the triangles within the squares. The number of green triangles equals
+the total of those that are yellow and blue! 
+
+   Do You Know ...   
+
+Archeologists use the Pythagorean in field excavations. When they start a
+dig, they place a rectangular grid over the site surface. To lay out an 
+accurate grid system, archeologists use the Theorem, X
+2+Y2=Z2. After deciding how long the baselines 
+(X- and Y- axis) should be, the proper length of the diagonal is calculated 
+using the Pythagorean theorem to make sure the quadrant is a rectangle and 
+not a lopsided parallelogram. Corner stakes will then be placed to mark the 
+accurate location of the site. 
+An overlaying rectangular grid uses a 
+mathematical idea called Cartesian coordinate system.
+
+
+
+
+

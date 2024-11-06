@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics - Theory, Equations, Solutions | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				mathematics
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionAncient mathematical sourcesMathematics in ancient MesopotamiaThe numeral system and arithmetic operationsGeometric and algebraic problemsMathematical astronomyMathematics in ancient EgyptThe numeral system and arithmetic operationsGeometryAssessment of Egyptian mathematicsGreek mathematicsThe development of pure mathematicsThe pre-Euclidean periodThe ElementsThe three classical problemsGeometry in the 3rd century bceArchimedesApolloniusApplied geometryLater trends in geometry and arithmeticGreek trigonometry and mensurationNumber theorySurvival and influence of Greek mathematicsMathematics in the Islamic world (8th–15th century)OriginsMathematics in the 9th centuryMathematics in the 10th centuryOmar KhayyamIslamic mathematics to the 15th centuryEuropean mathematics during the Middle Ages and RenaissanceThe transmission of Greek and Arabic learningThe universitiesThe RenaissanceMathematics in the 17th and 18th centuriesThe 17th centuryInstitutional backgroundNumerical calculationAnalytic geometryThe calculusThe precalculus periodNewton and LeibnizThe 18th centuryInstitutional backgroundAnalysis and mechanicsHistory of analysisOther developmentsTheory of equationsFoundations of geometryMathematics in the 19th centuryProjective geometryMaking the calculus rigorousFourier seriesElliptic functionsThe theory of numbersThe theory of equationsGaussNon-Euclidean geometryRiemannRiemann’s influenceDifferential equationsLinear algebraThe foundations of geometryThe foundations of mathematicsMathematics in the 20th and 21st centuriesCantorMathematical physicsAlgebraic topologyDevelopments in pure mathematicsMathematical physics and the theory of groupsProbabilistic mathematics
+
+				References & Edit History
+
+				Quick Facts & Related Topics
+
+
+
+				Images & Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+mathematics summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+
+
+
+
+Fun Facts of Measurement & Math
+
+
+
+
+
+
+
+
+
+Define It: Math Terms
+
+
+
+
+
+                        Read Next
+                    
+
+
+
+
+
+
+
+Unusual Counting Systems
+
+
+
+
+
+
+
+
+
+Is Zero an Even or an Odd Number?
+
+
+
+
+
+
+
+
+
+How Fast Is the Universe Expanding?
+
+
+
+
+
+
+
+
+
+5 Incredible Women in STEM You Need to Know
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+Titanosaurs: 8 of the World's Biggest Dinosaurs
+
+
+
+
+
+
+
+
+
+Why New York Is Called "The Big Apple" and How 8 Other Famous Cities Got Their Nicknames
+
+
+
+
+
+
+
+
+
+7 Deadliest Weapons in History
+
+
+
+
+
+
+
+
+
+Why Was Nazi Germany Called the Third Reich?
+
+
+
+
+
+
+
+
+
+Why Do Bananas Turn Brown?
+
+
+
+
+
+
+
+
+
+The Top COVID-19 Vaccine Myths Spreading Online
+
+
+
+
+
+
+
+
+
+Do Lemmings Really Commit Mass Suicide?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+ Theory of equations After the dramatic successes of Niccolò Fontana Tartaglia and Lodovico Ferrari in the 16th century, the theory of equations developed slowly, as problems resisted solution by known techniques. In the later 18th century the subject experienced an infusion of new ideas. Interest was concentrated on two problems. The first was to establish the existence of a root of the general polynomial equation of degree n. The second was to express the roots as algebraic functions of the coefficients or to show why it was not, in general, possible to do so. The proposition that the general polynomial with real coefficients has a root of the form a + bSquare root of√−1 became known later as the fundamental theorem of algebra. By 1742 Euler had recognized that roots appear in conjugate pairs; if a + bSquare root of√−1 is a root, then so is a − bSquare root of√−1. Thus, if a + bSquare root of√−1 is a root of f(x) = 0, then f(x) = (x2 − 2ax − a2 − b2)g(x). The fundamental theorem was therefore equivalent to asserting that a polynomial may be decomposed into linear and quadratic factors. This result was of considerable importance for the theory of integration, since by the method of partial fractions it ensured that a rational function, the quotient of two polynomials, could always be integrated in terms of algebraic and elementary transcendental functions. Although d’Alembert, Euler, and Lagrange worked on the fundamental theorem, the first successful proof was developed by Carl Friedrich Gauss in his doctoral dissertation of 1799. Earlier researchers had investigated special cases or had concentrated on showing that all possible roots were of the form a ± bSquare root of√−1. Gauss tackled the problem of existence directly. Expressing the unknown in terms of the polar coordinate variables r and θ, he showed that a solution of the polynomial would lie at the intersection of two curves of the form T(r, θ) = 0 and U(r, θ) = 0. By a careful and rigorous investigation he proved that the two curves intersect. Gauss’s demonstration of the fundamental theorem initiated a new approach to the question of mathematical existence. In the 18th century mathematicians were interested in the nature of particular analytic processes or the form that given solutions should take. Mathematical entities were regarded as things that were given, not as things whose existence needed to be established. Because analysis was applied in geometry and mechanics, the formalism seemed to possess a clear interpretation that obviated any need to consider questions of existence. Gauss’s demonstration was the beginning of a change of attitude in mathematics, of a shift to the rigorous, internal development of the subject. The problem of expressing the roots of a polynomial as functions of the coefficients was addressed by several mathematicians independently about 1770. The Cambridge mathematician Edward Waring published treatises in 1762 and 1770 on the theory of equations. In 1770 Lagrange presented a long expository memoir on the subject to the Berlin Academy, and in 1771 Alexandre Vandermonde submitted a paper to the French Academy of Sciences. Although the ideas of the three men were related, Lagrange’s memoir was the most extensive and most influential historically. Lagrange presented a detailed analysis of the solution by radicals of second-, third-, and fourth-degree equations and investigated why these solutions failed when the degree was greater than or equal to five. He introduced the novel idea of considering functions of the roots and examining the values they assumed as the roots were permuted. He was able to show that the solution of an equation depends on the construction of a second resolvent equation, but he was unable to provide a general procedure for solving the resolvent when the degree of the original equation was greater than four. Although his theory left the subject in an unfinished condition, it provided a solid basis for future work. The search for a general solution to the polynomial equation would provide the greatest single impetus for the transformation of algebra in the 19th century. The efforts of Lagrange, Vandermonde, and Waring illustrate how difficult it was to develop new concepts in algebra. The history of the theory of equations belies the view that mathematics is subject to almost automatic technical development. Much of the later algebraic work would be devoted to devising terminology, concepts, and methods necessary to advance the subject.   Foundations of geometry Although the emphasis of mathematics after 1650 was increasingly on analysis, foundational questions in classical geometry continued to arouse interest. Attention centred on the fifth postulate of Book I of the Elements, which Euclid had used to prove the existence of a unique parallel through a point to a given line. Since antiquity, Greek, Islamic, and European geometers had attempted unsuccessfully to show that the parallel postulate need not be a postulate but could instead be deduced from the other postulates of Euclidean geometry. During the period 1600–1800 mathematicians continued these efforts by trying to show that the postulate was equivalent to some result that was considered self-evident. Although the decisive breakthrough to non-Euclidean geometry would not occur until the 19th century, researchers did achieve a deeper and more systematic understanding of the classical properties of space. Interest in the parallel postulate developed in the 16th century after the recovery and Latin translation of Proclus’s commentary on Euclid’s Elements. The Italian researchers Christopher Clavius in 1574 and Giordano Vitale in 1680 showed that the postulate is equivalent to asserting that the line equidistant from a straight line is a straight line. In 1693 John Wallis, Savilian Professor of Geometry at Oxford, attempted a different demonstration, proving that the axiom follows from the assumption that to every figure there exists a similar figure of arbitrary magnitude. In 1733 the Italian Girolamo Saccheri published his Euclides ab Omni Naevo Vindicatus (“Euclid Cleared of Every Flaw”). This was an important work of synthesis in which he provided a complete analysis of the problem of parallels in terms of Omar Khayyam’s quadrilateral (see the figure). Using the Euclidean assumption that straight lines do not enclose an area, he was able to exclude geometries that contain no parallels. It remained to prove the existence of a unique parallel through a point to a given line. To do this, Saccheri adopted the procedure of reductio ad absurdum; he assumed the existence of more than one parallel and attempted to derive a contradiction. After a long and detailed investigation, he was able to convince himself (mistakenly) that he had found the desired contradiction. In 1766 Johann Heinrich Lambert of the Berlin Academy composed Die Theorie der Parallellinien (“The Theory of Parallel Lines”; published 1786), a penetrating study of the fifth postulate in Euclidean geometry. Among other theorems Lambert proved is that the parallel axiom is equivalent to the assertion that the sum of the angles of a triangle is equal to two right angles. He combined this fact with Wallis’s result to arrive at an unexpected characterization of classical space. According to Lambert, if the parallel postulate is rejected, it follows that for every angle θ less than 2R/3 (R is a right angle) an equilateral triangle can be constructed with corner angle θ. By Wallis’s result any triangle similar to this triangle must be congruent to it. It is therefore possible to associate with every angle a definite length, the side of the corresponding equilateral triangle. Since the measurement of angles is absolute, independent of any convention concerning the selection of units, it follows that an absolute unit of length exists. Hence, to accept the parallel postulate is to deny the possibility of an absolute concept of length. The final 18th-century contribution to the theory of parallels was Adrien-Marie Legendre’s textbook Éléments de géométrie (Elements of Geometry and Trigonometry), the first edition of which appeared in 1794. Legendre presented an elegant demonstration that purported to show that the sum of the angles of a triangle is equal to two right angles. He believed that he had conclusively established the validity of the parallel postulate. His work attracted a large audience and was influential in informing readers of the new ideas in geometry. The 18th-century failure to develop a non-Euclidean geometry was rooted in deeply held philosophical beliefs. In his Critique of Pure Reason (1781), Immanuel Kant had emphasized the synthetic a priori character of mathematical judgments. From this standpoint, statements of geometry and arithmetic were necessarily true propositions with definite empirical content. The existence of similar figures of different size, or the conventional character of units of length, appeared self-evident to mathematicians of the period. As late as 1824 Pierre-Simon, marquis de Laplace, wrote:  Thus the notion of space includes a special property, self-evident, without which the properties of parallels cannot be rigorously established. The idea of a bounded region, e.g., the circle, contains nothing which depends on its absolute magnitude. But if we imagine its radius to diminish, we are brought without fail to the diminution in the same ratio of its circumference and the sides of all the inscribed figures. This proportionality appears to me a more natural postulate than that of Euclid, and it is worthy of note that it is discovered afresh in the results of the theory of universal gravitation.  Craig G. Fraser   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

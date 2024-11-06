@@ -1,0 +1,1230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Models in Epidemiology | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematical Models in Epidemiology
+        
+
+Textbook
+© 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Fred Brauer
+0, 
+                        
+
+Carlos Castillo-Chavez
+1, 
+                        
+
+Zhilan Feng
+2
+
+
+
+
+
+
+Fred Brauer
+
+
+
+                                    
+                                        Department of Mathematics, University of British Columbia, Vancouver, Canada
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+Carlos Castillo-Chavez
+
+
+
+                                    
+                                        Mathematical and Computational Modeling Center (MCMSC), Department of Mathematics and Statistics, Arizona State University, Tempe, USA
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+Zhilan Feng
+
+
+
+                                    
+                                        Department of Mathematics, Purdue University, West Lafayette, USA
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+A modern description of many important areas of mathematical epidemiology
+Provides an introduction to the formation and analysis of disease transmission models
+Exercise sets and some projects included
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Texts in Applied Mathematics (TAM, volume 69)
+                    
+
+
+
+
+
+
+
+
+
+95k Accesses
+
+
+
+
+273 
+Citations
+
+
+
+
+
+52
+                    
+Altmetric
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 67.40 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 85.59 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+About this book
+
+The book is a comprehensive, self-contained introduction to the mathematical modeling and analysis of disease transmission models. It includes (i) an introduction to the main concepts of compartmental models including models with heterogeneous mixing of individuals and models for vector-transmitted diseases, (ii) a detailed analysis of models for important specific diseases, including tuberculosis, HIV/AIDS, influenza, Ebola virus disease, malaria, dengue fever and the Zika virus, (iii) an introduction to more advanced mathematical topics, including age structure, spatial structure, and mobility, and (iv) some challenges and opportunities for the future.There are exercises of varying degrees of difficulty, and projects leading to new research directions. For the benefit of public health professionals whose contact with mathematics may not be recent, there is an appendix covering the necessary mathematical background. There are indications which sections require a strong mathematical background so that the book can be useful for both mathematical modelers and public health professionals.
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Broadwick: a framework for computational epidemiology
+                                        
+
+
+Article
+Open access
+04 February 2016
+
+
+
+
+
+
+
+
+
+Sensitivity to model structure: a comparison of compartmental models in epidemiology
+                                        
+
+
+Article
+Open access
+01 October 2016
+
+
+
+
+
+
+
+
+
+Introduction to Compartmental Models in Epidemiology
+                                        
+
+
+Chapter
+© 2021
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+Stochastic Models
+
+
+
+
+Disease Transmission Models
+
+
+
+
+Metapopulation Models
+
+
+
+
+Mathematical models
+
+
+
+
+epidemiology
+
+
+
+
+epidemics
+
+
+
+
+endemic states
+
+
+
+
+communicable diseases
+
+
+
+
+analysis of models
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (17 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-xviii
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Basic Concepts of Mathematical Epidemiology
+
+
+
+
+Front Matter
+Pages 1-1
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Introduction: A Prelude to Mathematical Epidemiology
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 3-19
+
+
+
+
+
+
+
+
+Simple Compartmental Models for Disease Transmission
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 21-61
+
+
+
+
+
+
+
+
+Endemic Disease Models
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 63-116
+
+
+
+
+
+
+
+
+Epidemic Models
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 117-178
+
+
+
+
+
+
+
+
+Models with Heterogeneous Mixing
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 179-227
+
+
+
+
+
+
+
+
+Models for Diseases Transmitted by Vectors
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 229-245
+
+
+
+
+
+
+
+
+
+
+
+Models for Specific Diseases
+
+
+
+
+Front Matter
+Pages 247-247
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Models for Tuberculosis
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 249-272
+
+
+
+
+
+
+
+
+Models for HIV/AIDS
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 273-310
+
+
+
+
+
+
+
+
+Models for Influenza
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 311-350
+
+
+
+
+
+
+
+
+Models for Ebola
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 351-390
+
+
+
+
+
+
+
+
+Models for Malaria
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 391-408
+
+
+
+
+
+
+
+
+Dengue Fever and the Zika Virus
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 409-425
+
+
+
+
+
+
+
+
+
+
+
+More Advanced Concepts
+
+
+
+
+Front Matter
+Pages 427-427
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Disease Transmission Models with Age Structure
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 429-455
+
+
+
+
+
+
+
+
+Spatial Structure in Disease Transmission Models
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 457-476
+
+
+
+
+
+
+
+
+Epidemiological Models Incorporating Mobility, Behavior, and Time Scales
+
+
+Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+
+Pages 477-504
+
+
+
+
+
+
+
+
+
+
+
+The Future
+
+
+
+
+Front Matter
+Pages 505-505
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 1 
+
+
+ 2 
+
+
+
+
+Next page
+
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Reviews
+
+“The projects and exercises at the end of each chapter are well thought and planned out, and probably my favorite part of the whole book. … I would recommend this book to anyone with the requisite mathematics background, who is more interested in the modeling aspects of epidemiology. I think it’s a nice complement to the existing literature, and I will likely be referring to it for useful examples in my own teaching.” (Roslyn Hickson, SIAM Review, Vol. 63 (3), September, 2021)“Every practicing mathematical epidemiologist will want this book to occupy a prominent place in their library.” (Glenn Ledder, MAA Reviews, June 14, 2020)“This book is suitable for upper level university students, it is also useful for public health professionals as manyof the model discussions are found accessible.” (Yilun Shang, zbMATH 1433.92001, 2020)
+
+
+
+Authors and Affiliations
+
+
+
+
+                                        Department of Mathematics, University of British Columbia, Vancouver, Canada
+                                    
+
+                                    
+                                        Fred Brauer
+                                    
+                                
+
+
+
+                                        Mathematical and Computational Modeling Center (MCMSC), Department of Mathematics and Statistics, Arizona State University, Tempe, USA
+                                    
+
+                                    
+                                        Carlos Castillo-Chavez
+                                    
+                                
+
+
+
+                                        Department of Mathematics, Purdue University, West Lafayette, USA
+                                    
+
+                                    
+                                        Zhilan Feng
+                                    
+                                
+
+
+
+
+
+About the authors
+
+                    Fred Brauer is a Professor Emeritus at the University of Wisconsin - Madison and an Honorary professor at the University of British Columbia. His research interests are in dynamical systems and mathematical models in epidemiology. He has been active in the China - Canada Joint Program on Infectious Diseases and in the organization of several summer programs organized by MITACS ( Mathematics for Information Technology and Complex Systems) to present mathematical epidemiology to a mixed audience of mathematicians and public health professionals and encourage contacts between these groups.Carlos Castillo-Chavez is a Regents Professor, Joaquin Bustoz Jr.  Professor of Mathematical Biology, Distinguished Sustainability Scientist and Founding Director of the Simon A. Levin Mathematical, Computational and Modeling Sciences Center at ASU. He has co-authored over 250 publications, most at the interface of the life, mathematics and social sciences. He was recognized with three White House Awards (1992, 1997, 2011), served on President Obama’s Committee on the National Medal of Science (2010-2015) and per the Mathematics Genealogy Project, is among the top 200 mentors of PhD students in the history of mathematics.  He is a George Polya Lecturer (2017-19). He serves as a Provost Visiting Professor at Brown University (2019).Zhilan Feng is a Professor of Mathematics at Purdue University. She is an editor for Journal of Theoretical Biology, Mathematical Biosciences, Mathematical Biosciences and Engineering, Journal of Biological Dynamics, and SIAM Journal on Applied Mathematics. She is a program director for the NSF Mathematical Biology Program 2019-2020.
+
+
+
+Bibliographic Information
+
+
+
+Book Title: Mathematical Models in Epidemiology
+Authors: Fred Brauer, Carlos Castillo-Chavez, Zhilan Feng
+Series Title: 
+
+Texts in Applied Mathematics
+
+DOI: https://doi.org/10.1007/978-1-4939-9828-9
+Publisher: Springer New York, NY
+eBook Packages: 
+
+Mathematics and Statistics, Mathematics and Statistics (R0)
+
+Copyright Information: Springer Science+Business Media, LLC, part of Springer Nature 2019
+Hardcover ISBN: 978-1-4939-9826-5Published: 11 October 2019
+eBook ISBN: 978-1-4939-9828-9Published: 10 October 2019
+Series ISSN: 
+ 0939-2475 
+Series E-ISSN: 
+ 2196-9949 
+Edition Number: 1
+Number of Pages: XVIII, 619
+Number of Illustrations: 54 b/w illustrations, 67 illustrations in colour
+Topics: 
+
+Physiological, Cellular and Medical Topics, 
+Probability Theory and Stochastic Processes, 
+Mathematical Modeling and Industrial Mathematics
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 67.40 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 85.59 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

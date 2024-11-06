@@ -1,0 +1,699 @@
+
+
+
+
+
+
+
+Wave-Particle Duality | Brilliant Math & Science Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+          Home
+        
+
+
+
+
+
+
+
+
+
+          Courses
+        
+
+
+
+
+                    Sign up
+            
+
+                    Log in
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                The best way to learn math and computer science.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+Wave-Particle Duality
+
+
+
+
+
+
+                        Sign up with Facebook
+or
+
+                        Sign up manually
+
+
+
+                    Already have an account?
+                    
+                            Log in here.
+                    
+
+
+
+
+
+
+                Matt DeCross
+        
+    
+
+    
+
+    contributed
+
+
+            
+
+
+
+Wave-particle duality is the term for the fact that fundamental objects in the universe such as photons or electrons appear to exhibit aspects of either waves or particles depending on the experiment.
+Through the beginning of the twentieth century, light was widely accepted to be a wave while matter was understood to be comprised of atoms that themselves consisted of subatomic particles. However, with the development of quantum mechanics, experiments involving particles showed that they must possess some wave-like qualities, while experiments with light showed that it must possess some particle-like qualities. These apparent contradictions are explained within the theoretical framework of quantum mechanics.
+
+
+
+Contents
+
+
+The Particle Viewpoint
+
+
+The Wave Viewpoint
+
+
+Modern Perspective: the Duality
+
+
+References
+
+
+
+
+
+
+The Particle Viewpoint
+
+
+
+
+
+Plum pudding model of the atom where electrons were embedded in a solid positively charged sphere [1].
+The concept of matter composed of particles dates back to the Greeks, who were the first to conceive of atoms, though they did not know anything of their constituent parts. Not until the late 19th century did any understanding of individual particles come about, with J.J. Thomson's plum pudding model of the atom as a neutral composite consisting of individual negative particles or electrons embedded in a blob of positive charge.
+This was motivated by Thomson's cathode ray tube experiments, where he showed that free electric charge could be carried across a vacuum. Thus, he proposed the existence of the electron as a particle carrying electron charge, and shortly after in 1904 devised the plum pudding model to account for chemical properties of the atom.
+
+
+Rutherford model of the atom accounting for the small positively charged nucleus [2].
+Shortly after, in 1911, Rutherford overturned this model via his gold foil experiment which established the existence of the nucleus by bombarding a thin gold foil with alpha particles. Atoms were thus understood to consist of both positive and negative particles, but particles nonetheless.
+With the discovery of quantum mechanics via the quantization of the emission lines of the hydrogen atom, Bohr updated Rutherford's model so that the electrons lay in orbits of integral angular momentum in units of \(\hbar\). All of the elements in the periodic table that comprise all matter were thus ordered by the energies of their constituent electrons.
+Throughout all of this scientific inquiry over several centuries, it was assumed and experimentally justified that essentially everything was composed of particles on a small enough level, with the exception of light (discussed below). Scientific investigation throughout the 19th century had put light on solid ground as a wave. In the early twentieth century, however, a number of ingenious experiments seemed unexplainable without light also taking on a particle nature:
+The observation of light exhibiting particle qualities came as a result of the advent of quantum mechanics, with Planck's solution to the black-body radiation problem in 1900. When in thermal equilibrium, any physical object (a "black body") continuously emits electromagnetic radiation to its environment. If the spectrum of this radiation were continuous, the energy contained in this radiation would be infinite, a so called ultraviolet catastrophe.
+The reason for this divergence was that classical statistical mechanics assumed every classical electromagnetic mode to have the same energy, dictated by the temperature. Planck's solution to this problem was to assume that radiation was quantized in discrete packets with energy \(E = h \nu\) with \(\nu\) the radiation frequency and \(h\) some constant. Einstein later interpreted this result as a demonstration of the particle nature of light, since the quantization of light energy into discrete packets suggests that each packet is a light particle or photon.
+
+
+Power distribution of radiation from a black-body according to Planck's theory at different temperatures compared to the classical prediction.
+A few years after Planck, Einstein's interpretation of a different experiment, the photoelectric effect, would further substantiate this claim. The photoelectric effect refers to the fact that high frequency light causes emission of electrons of metals regardless of how low the intensity of the light may be. Treating light as quantized packets or photons and using \(E = h \nu\) explained this effect, because the intensity of light would only specify the number of photons, not their energy. Thus a small number of photons at high energy would still cause electronic emission.
+
+
+In the photoelectric effect, low frequency light does not eject electrons from a metal such as Potassium. The higher the frequency of the light, the more energetic the emitted electron [3].
+
+
+
+
+
+
+
+
+
+
+
+
+The photoelectric effect
+
+
+
+
+
+
+
+
+Thomson's cathode ray experiment
+
+
+
+
+
+
+
+
+Young's double slit experiment
+
+
+
+
+
+
+
+
+The black-body radiation problem
+
+
+
+
+
+
+Which of the following does not constitute evidence for the particle nature of light/matter?
+
+
+
+
+
+
+
+
+
+
+The Wave Viewpoint
+
+
+
+The experiments shortly after the twentieth century demonstrating particle aspects of light were extremely shocking due to the nature of light being ingrained for centuries in the scientific community as a wave. The reasons light was universally accepted as a wave at the time began with the phenomenal success of optics centuries before. Describing light as waves whose rays bent in media like glass lenses was extremely useful for reproducing the correct experimental behavior.
+At the turn of the twentieth century, further evidence for the wavelike nature of light came from Young's double-slit experiment.
+
+
+Left: actual experimental two-slit interference pattern of photons, exhibiting many small peaks and troughs. Right: schematic diagram of the experiment as described above. [4].
+In this experiment, light shining on a barrier with two narrow slits in it demonstrated an interference pattern on the screen behind the barrier as it diffracted through the slits. This was seemingly incontrovertible evidence that light was a wave, since such behavior seemed irreproducible from a particle viewpoint.
+From a theoretical standpoint, Maxwell put the wavelike nature of light on a solid mathematical footing in the nineteenth century when he combined the equations governing electric and magnetic fields to yield the two equations:
+\[\frac{1}{c^2} \frac{\partial^2 E}{\partial t^2} = \frac{\partial^2 E}{\partial x^2}, \qquad \frac{1}{c^2} \frac{\partial^2 B}{\partial t^2} = \frac{\partial^2 B}{\partial x^2},\]
+i.e., the wave equation in each of the electric and magnetic fields. Maxwell thus established light as an electromagnetic wave, since the constant \(c = \frac{1}{\sqrt{\mu_0 \epsilon_0}}\) in the above equation was numerically exactly the speed of light in vacuum. 
+
+
+
+
+
+
+
+
+
+
+
+
+Maxwell's equations
+
+
+
+
+
+
+
+
+Young's double slit experiment
+
+
+
+
+
+
+
+
+The black-body radiation problem
+
+
+
+
+
+
+
+
+Classical optics
+
+
+
+
+
+
+Which of the following does not constitute evidence for the wave nature of light/matter?
+
+
+
+
+
+
+
+
+
+
+Modern Perspective: the Duality
+
+
+
+As the nascent field of quantum mechanics developed in the early twentieth century, it would unify the wavelike treatment of light with the evidence that both matter and light were composed of particles. Furthermore, the developing theory would inspire experiments that would show that matter also exhibit wavelike tendencies. 
+As discussed above, the unification of particle and wave behavior for light was experimentally justified by the early twentieth century: centuries of optics and electromagnetism justified the wavelike nature of light, while the black-body problem and photoelectric effect supported the existence of the photon. The unification of particle and wave behavior for matter began in 1924, when de Broglie formulated his relation:
+\[\lambda = \frac{h}{p}.\]
+This relation says that matter particles with momentum \(p\) could be equally well described as waves of wavelength \(\lambda\), with a proportionality constant \(h\) equal to Planck's constant. The equation was motivated by the corresponding equation for light:
+\[E = \frac{hc}{\lambda},\]
+noting that \(E = pc\) for light. Observing the wave-particle duality of light, de Broglie suggested that matter ought to obey the same relation. This hypothesis was experimentally justified in the following years with interference and diffraction experiments performed using electrons:
+
+
+Diffraction pattern of electrons building up over time.
+
+
+
+
+
+
+
+
+
+
+
+
+\[\lambda_{dB} > \lambda_c\]
+
+
+
+
+
+
+
+
+Not enough information.
+
+
+
+
+
+
+
+
+\[\lambda_{dB} < \lambda_c\]
+
+
+
+
+
+
+
+
+\[\lambda_{dB} = \lambda_c\]
+
+
+
+
+
+
+For a non-relativistic particle, which of the following gives the correct relationship between the de Broglie wavelength \(\lambda_{dB}\) and the Compton wavelength \(\lambda_c = \frac{h}{mc}\), which is also a useful wavelength in quantum mechanics?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\[6.63 \times 10^{-28} \text{ m}\]
+
+
+
+
+
+
+
+
+\[6.63 \times 10^{-13} \text{ m}\]
+
+
+
+
+
+
+
+
+\[6.63 \times 10^{-34} \text{ m}\]
+
+
+
+
+
+
+
+
+\[6.63 \times 10^{-31} \text{ m}\]
+
+
+
+
+
+
+Compute the de Broglie wavelength of a massive particle with mass \(1 \text{ g}\) traveling at \(1 \text{ m}/\text{s}\).
+
+
+
+
+
+Even when fired one at a time, as in an experiment performed much later in the twentieth century, one found the same results for electrons in interference and diffraction experiments as predicted by wave mechanics. In recent decades the wave-particle duality of matter has been confirmed for even larger objects such as buckyballs, which are \(C_{60}\) allotropes.
+Based on the de Broglie hypothesis, Heisenberg noticed that particles of large momenta ought to have small wavelengths and vice versa. He suggested that measuring the location of particles precisely would therefore require a high-energy photon to measure with, disturbing the momentum greatly upon measurement, and vice versa. In fact, this "measurement effect," while real, is not the full extent of the problem. In fact, particles themselves do not have definite positions or momenta, but rather obey statistical distributions given by their wavefunctions which collapse to a single value upon measurement. These measurements have uncertainties which obey the Heisenberg uncertainty principle:
+\[\sigma_x \sigma_p \geq \frac{\hbar}{2}.\]
+That is, the momentum uncertainty is large if the position uncertainty is small, and vice versa.
+This wavefunction formalism was promoted by Schrödinger, who devised a wave-like equation to govern its dynamics. In quantum mechanics, any particle (light or matter) can be described by a wave-like distribution, which gives the probability of measuring the particle to be in a particular location. This approach is able to capture both the particle and wave phenomena discussed above for both light and matter consistently, and also provides a formalism for computing many other important experimental results like the emission spectrum of hydrogen and the existence of quantum tunneling.
+In quantum field theory, a modern and relativity-compatible version of quantum mechanics, wave-particle duality is elevated to a new level of mathematical abstraction in terms of group theory. In quantum field theory, all of light and matter is represented by fields that function as mathematical operators which create and destroy quanta of energy. These operators in turn obey wave-like equations that govern their dynamics. Particles in quantum field theory correspond to particular group representations under which these fields transform. The results of experiments as predicted by quantum field theory continue to provide support for the wave-particle duality of light and matter.
+
+
+
+
+
+
+References
+
+
+
+    
+    
+    Kurzon,  .
+
+    CC BY-SA 4.0 Licensing.
+    Retrieved
+    
+    from
+    https://commons.wikimedia.org/w/index.php?curid=35252269
+
+
+    
+    
+    Bensteele1995,  .
+
+    CC BY-SA 3.0 Licensing.
+    Retrieved
+    
+    from
+    https://commons.wikimedia.org/w/index.php?curid=21332267
+
+
+    
+    
+     ,  .
+
+    CC BY-SA 3.0 Licensing.
+    Retrieved
+    
+    from
+    CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39529
+
+
+    
+    
+    Jordgette,  .
+
+    CC-3.0 Licensing.
+    Retrieved
+    
+    from
+    https://commons.wikimedia.org/w/index.php?curid=9529698
+
+
+
+
+
+
+Cite as:
+                Wave-Particle Duality.
+                Brilliant.org.
+                Retrieved from
+                https://brilliant.org/wiki/wave-particle-duality/
+
+
+
+
+
+
+
+
+
+
+Join Brilliant
+The best way to learn math and computer science.
+
+Sign up
+
+
+
+
+
+
+
+
+
+                Sign up to read all wikis and quizzes in math, science, and engineering topics.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Problem Loading...
+Note Loading...
+Set Loading...
+
+
+
+
+
+
+

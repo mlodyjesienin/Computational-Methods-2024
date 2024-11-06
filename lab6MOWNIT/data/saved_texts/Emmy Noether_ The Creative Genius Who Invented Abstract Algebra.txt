@@ -1,0 +1,1584 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emmy Noether: The Creative Genius Who Invented Abstract Algebra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coding
+
+Learn with Coding
+Life with Coding
+
+
+Math
+
+Learn with Math
+World of Math
+
+
+Music
+
+Learn with Music
+World of Music
+Guitar Tuner
+
+
+Parenting
+In the News
+Student Of The Month
+Newsletter
+Summer Camp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                            Sign in                            
+
+
+
+
+
+                            Sign In 
+
+
+
+
+
+
+
+Book a FREE Trial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coding
+
+Learn with Coding
+Life with Coding
+
+
+Math
+
+Learn with Math
+World of Math
+
+
+Music
+
+Learn with Music
+World of Music
+Guitar Tuner
+
+
+Parenting
+In the News
+Student Of The Month
+Newsletter
+Summer Camp
+ 
+Category
+Coding
+       Learn with Coding
+       Life with Coding
+Math
+       Learn with Math
+       World of Math
+Music
+       Learn with Music
+       World of Music
+       Guitar Tuner
+Parenting
+In the News
+Student Of The Month
+Newsletter
+Summer Camp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home / Blog / Math / World of Math / Emmy Noether: The Creative Genius Who Invented Abstract Algebra 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emmy Noether: The Creative Genius Who Invented Abstract Algebra
+
+
+
+ 
+
+
+ 3
+
+
+
+
+
+
+
+
+
+
+Amina Reshma
+
+Last Updated: Dec 23, 2022, 8:08 AM CST
+3 Min Read
+
+
+
+
+
+This article chronicles the life of Emmy Noether, arguably the most significant female mathematician in history. She was a distinguished academic from Germany who made substantial advances in theoretical physics and abstract algebra. She created the theories of rings, fields, and algebra and is regarded as one of the foremost mathematicians of her time.1,2
+So, who is Emmy Noether?
+Emmy Noether, a prominent pioneer in math throughout the 20th century, defied all expectations with her ground-breaking accomplishments. At a time when males were considered cognitively superior to women, Noether won acclaim for her extraordinary intelligence. Although she attended finishing school and was qualified to teach English and French, she discovered that math piqued her interest more. She aced the entrance exam and audited classes until the University of Erlangen (now University of Erlangen-Nürnberg) eventually allowed women to enroll, at which point she earned her PhD in 1907.3,4,5
+Noether engaged in research and, in a sense, created the entire discipline of abstract algebra. She never referred to herself as a revolutionary, but her work laid the groundwork for a fresh perspective on math. Even though Noether produced groundbreaking work at Erlangen, she was not paid or given a title, and her only financial support came from filling in for her father’s absentee math courses on occasion.1,3,4
+It wasn’t until several years later that the mathematicians Felix Klein and David Hilbert invited her to join their team at Gottingen University. They needed her to find a solution to Einstein’s theory of general relativity’s perplexing energy conservation issue, and Noether solved the problem by applying her understanding of invariance. Noether’s theorem, one of physics’ most important theories, was born from her attempt to solve this problem.3,4,5
+What is Noether’s theorem?
+According to the theorem, “If a system has a continuous symmetry property, then there are corresponding quantities whose values are conserved in time.“7 In simpler terms, some fundamental quantity is conserved wherever there is symmetry in nature. In this context, symmetry refers to a transformation of the physical system that has no impact on the measured quantities.6,7
+Applying Noether’s theorem to commonplace classical occurrences like a game of pool or the pendulum swing is simple. The theorem enables us to establish strong links between experimental findings and the basic mathematical formulation of the physics behind them. A well-known example of how Noether’s theorem supports a fundamental assumption in physics is the conservation of charge.6,7
+Emmy Noether’s Contributions
+She is remembered mainly among physicists for her 1918 Noether’s theorem. However, many of her other works, such as the Noether theorems, equations, rings, modules, and groups are well known among mathematicians.8
+Noether developed much of modern abstract algebra over the course of her career: the grammar and syntax of math, enabling us to express what we need. In addition, she contributed to the theory of groups, another approach to handling symmetries; this work impacted the mathematical underpinnings of quantum physics and superstring theory.5,6,7
+Emmy Noether was a creative genius who brilliantly combined symmetries and conservation laws, two fundamental concepts in physics. She also received an invitation to lecture at the International Congress of Mathematicians in 1928, held in Bologna, and again in September 1932, held in Zürich, as acknowledgment for her great contributions to math.5,6
+Being Jewish, Noether lost her job when the Nazis came to power. Noether moved to America, started lecturing once a week at Princeton, and served as a visiting professor at Bryn Mawr College. Sadly, she only had two years to relish this. Noether passed away in 1935, at the age of 53, from complications from surgery.2,5 She was honored by many of the greatest mathematicians and physicists of the time. “Noether was the most significant creative mathematical genius thus far produced since the higher education of women began.” wrote Einstein in the New York Times upon Noether’s passing.9
+If this article about Emmy Noether has inspired you, and you want to learn about other motivational stories that are encouraging, read Unsung Women Heroes Whose Contributions Changed the Tech World! African American Computer Science Pioneers, Katherine Johnson, Margaret Hamilton, Grace Murray Hopper, and Ada Lovelace.
+You can also visit BYJU’S FutureSchool Blog to read more inspiring articles on math and coding.
+References:
+Emmy Noether | Biography & Facts | Britannica. (n.d.). Retrieved December 8, 2022, from https://www.britannica.com/biography/Emmy-Noether Emmy Noether (1882 – 1935) – Biography – MacTutor History of Mathematics. (n.d.). Retrieved December 8, 2022, from https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/ Emmy Noether. (n.d.). Retrieved December 8, 2022, from https://mathwomen.agnesscott.org/women/noether.htm Emmy Noether – Biography, Facts and Pictures. (n.d.). Retrieved December 8, 2022, from https://www.famousscientists.org/emmy-noether/ Emmy Noether — Inventor of abstract algebra – Rosie Riveters. (n.d.). Retrieved December 8, 2022, from https://www.rosieriveters.com/emmy_noether_inventor_of_abstract_algebra Emmy Noether | Mathematician who proved Noether’s theorem | New Scientist. (n.d.). Retrieved December 8, 2022, from https://www.newscientist.com/people/emmy-noether/ Noether’s Theorem: Symmetry Runs the Game #InternationalWomensDay – Digital Science. (n.d.). Retrieved December 8, 2022, from https://www.digital-science.com/blog/2018/03/noethers-theorem-symmetry-runs-game-internationalwomensday/ Emmy Noether: Creative Mathematical Genius. (n.d.). Retrieved December 8, 2022, from https://www.sdsc.edu/ScienceWomen/noether.html Emmy Noether, the Most Significant Mathematician You’ve Never Heard Of – The New York Times. (n.d.). Retrieved December 8, 2022, from https://www.nytimes.com/2012/03/27/science/emmy-noether-the-most-significant-mathematician-youve-never-heard-of.html 
+
+
+
+
+Math, World of Math 
+
+
+
+
+
+
+
+Share Article:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+Josiah Willard Gibbs, the Math Genius Behind Gibbs Free Energy!
+
+
+
+
+BYJU'S FutureSchool
+
+Apr 12, 2023, 9:09 AM CST
+
+
+
+
+Josiah Willard Gibbs, the Math Genius Behind Gibbs Free Energy!
+                    
+                Most of you have probably heard of Gibbs free energy, as it is one of the essential concepts in math and science. But how many
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+A Brief Introduction to George Dantzig, the Father of Linear Programming!
+
+
+
+
+BYJU'S FutureSchool
+
+Apr 6, 2023, 10:10 AM CST
+
+
+
+
+A Brief Introduction to George Dantzig, the Father of Linear Programming!
+                    
+                Do you recall ever hearing about George Dantzig? Did you know that this math prodigy’s success has a very intriguing backstory? Continue reading to learn
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+Lotfi Zadeh: The Man Behind Fuzzy Logic
+
+
+
+
+BYJU'S FutureSchool
+
+Apr 4, 2023, 8:08 AM CST
+
+
+
+
+Lotfi Zadeh: The Man Behind Fuzzy Logic
+                    
+                Have you heard of Fuzzy Math or Fuzzy Logic? Do you know what the terms mean or their significance? What is Fuzzy Logic? The mathematical
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+How to Create a Mobile Math Game?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 28, 2023, 8:08 AM CST
+
+
+
+
+How to Create a Mobile Math Game?
+                    
+                There is no question that mobile devices are everywhere, and with the advent of powerful smartphones and tablets, there is no end in sight for
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+How Effective is High School Math in Solving Real-life Problems?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 26, 2023, 8:08 AM CST
+
+
+
+
+How Effective is High School Math in Solving Real-life Problems?
+                    
+                People have always contended that math is not useful in the “real world.”1 However, is this true? After all, math is the basis for many
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+What is the Importance of Math in Computer Science?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 24, 2023, 10:10 AM CST
+
+
+
+
+What is the Importance of Math in Computer Science?
+                    
+                Math is one of the most important subjects you can learn for computer science. It teaches problem-solving skills, logical thinking, and how to structure and
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+What Type of Math is Used in Gaming?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 22, 2023, 9:09 AM CST
+
+
+
+
+What Type of Math is Used in Gaming?
+                    
+                Math is used in gaming in various ways. One way that math is used is when gamers are trying to achieve high scores. Gamers often
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+What are the Uses of Math in Everyday Life?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 20, 2023, 8:08 AM CST
+
+
+
+
+What are the Uses of Math in Everyday Life?
+                    
+                Many people view math as a dry and difficult subject, but its applications are quite helpful in everyday life. For instance, mathematical concepts can be
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+
+
+
+Most Popular
+
+
+
+              The Father of Math - Want to know who created Math?            
+
+
+
+
+
+
+
+
+
+
+              Applications of Trigonometry in Real Life (Uses & Examples)            
+
+
+
+
+
+
+
+
+
+
+              The Applications of Calculus in Everyday Life (Uses & Examples)            
+
+
+
+
+
+
+
+
+
+
+              The Importance of Visual Learning in Math            
+
+
+
+
+
+
+
+
+
+
+              10 Applications Of Probability In Real Life            
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+              The Most Famous Mathematicians in the World            
+
+
+
+
+
+
+
+
+
+
+              Math in Everyday Life: Know the Uses & Examples for Making Math Meaningful            
+
+
+
+
+
+
+
+
+
+
+              Why is Math Important? Discover the Purpose of Mathematics            
+
+
+
+
+
+
+
+
+
+
+              Benefits of Math: 3 Surprising Ways it Helps Kids            
+
+
+
+
+
+
+
+
+
+
+              19 Simple Math Magic Tricks to Intrigue Your Child            
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+
+
+
+Most Popular
+
+
+
+              The Father of Math - Want to know who created Math?            
+
+
+
+
+
+
+
+
+
+
+              Applications of Trigonometry in Real Life (Uses & Examples)            
+
+
+
+
+
+
+
+
+
+
+              The Applications of Calculus in Everyday Life (Uses & Examples)            
+
+
+
+
+
+
+
+
+
+
+              The Importance of Visual Learning in Math            
+
+
+
+
+
+
+
+
+
+
+              10 Applications Of Probability In Real Life            
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+              The Most Famous Mathematicians in the World            
+
+
+
+
+
+
+
+
+
+
+              Math in Everyday Life: Know the Uses & Examples for Making Math Meaningful            
+
+
+
+
+
+
+
+
+
+
+              Why is Math Important? Discover the Purpose of Mathematics            
+
+
+
+
+
+
+
+
+
+
+              Benefits of Math: 3 Surprising Ways it Helps Kids            
+
+
+
+
+
+
+
+
+
+
+              19 Simple Math Magic Tricks to Intrigue Your Child            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trigger Popup
+
+
+
+
+
+Start Learning Now
+ 
+            BYJU’S FutureSchool’s live instruction with highly skilled teachers is enhanced by engaging activities, supplemental projects, and dynamic, global events.        
+
+
+
+
+
+Schedule a free class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SubjectsMath
+Coding
+Music
+PoliciesTerms & conditons
+Privacy policy
+Fulfillment policy
+Quick linksJoin as teacher
+Teacher login
+Student login
+Register
+About BYJU’S FutureSchoolAbout us
+Contact us
+Press
+Blogs
+Careers
+Group companiesTynker
+WhiteHat Jr
+Toppr
+BYJU’S Early Learn
+Osmo
+Epic!
+CursosMatemáticas
+Programación
+PolíticasTérminos y condiciones
+Política de privacidad
+Política de reembolsos
+Enlaces claveInicio de sesión: maestras
+Inicio de sesión: alumnos
+Regístrate
+Sobre BYJU’S FutureSchoolNosotros
+Contacto
+Blog
+Carreras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                United States
+                                    
+India
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+© Byju's Future School 2022.
+All Rights Reserved            
+
+                Made with 
+
+
+ in India.            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+No credit card needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+No credit card needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

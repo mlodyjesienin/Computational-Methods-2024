@@ -1,0 +1,817 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploring Linear Algebra: Labs and Projects with MATLAB® - 1st Editio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+ Free standard shipping on all orders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+To hear autocomplete suggestions tab past the search button after typing keywords.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Shop By Subject 
+
+
+
+
+
+
+
+
+
+
+ New & Bestselling 
+
+
+
+
+ Instructors & Students 
+
+
+
+
+ Professional Practice 
+
+
+ Publish With Us 
+
+
+
+
+ Sale & Offers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Preview Book
+
+
+
+
+
+Preview Book
+
+
+ 
+
+
+
+
+
+ Table of Contents
+ Book Description
+ Instructor Resources
+
+
+1st Edition
+Exploring Linear Algebra
+Labs and Projects with MATLAB®
+
+
+By Crista Arangala
+Copyright 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+156 Pages
+40 B/W Illustrations
+
+
+
+by
+Chapman & Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+156 Pages
+40 B/W Illustrations
+
+
+
+by
+Chapman & Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+156 Pages
+40 B/W Illustrations
+
+
+
+by
+Chapman & Hall
+
+
+
+
+
+
+Learn about VitalSource eBooks Opens popup
+
+
+Also available as eBook on:
+
+
+
+ Taylor & Francis eBooks 
+(Institutional Purchase)Opens in new tab or window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+
+Exploring Linear Algebra: Labs and Projects with MATLAB® is a hands-on lab manual that can be used by students and instructors in classrooms every day to guide the exploration of the theory and applications of linear algebra. For the most part, labs discussed in the book can be used individually or in a sequence. Each lab consists of an explanation of material with integrated exercises. Some labs are split into multiple subsections and thus exercises are separated by those subsections.
+The exercise sections integrate problems using Mathematica demonstrations (an online tool that can be used with a browser with Java capabilities) and MATLAB® coding. This allows students to discover the theory and applications of linear algebra in a meaningful and memorable way. 
+
+Features:
+
+
+The book’s inquiry-based approach promotes student interaction 
+
+
+Each chapter contains a project set which consists of application-driven projects emphasizing the chapter’s materials
+
+
+Adds a project component to any Linear Algebra course
+
+
+Explores many applications to a variety of fields that can promote research projects
+
+
+Employs MATLAB® to calculate and explore concepts and theories of linear algebra
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+Preface ix; 1 Limits and Continuity 1; 2 Derivatives and Their Applications;3 Areas, Integrals, and Accumulation; 4 Applications of AntiderivativesMathematica Demonstrations and References; Index 
+
+
+
+
+
+Author(s)
+
+
+
+Biography
+
+Dr. Crista Arangala holds a PhD in mathematics from the University of Cincinnati. She is now at Elon University in North Carolina teaching and researching in a variety of fields including mathematical modeling and service learning education. She was chosen to be a Fulbright Scholar in 2014. She runs a traveling science museum with her Elon University students in Kerala, India. She is also the author of Exploring Calculus: Labs and Projects with Mathematica published by CRC Press. 
+
+
+
+
+
+
+
+
+
+ Add to Cart
+
+
+
+
+
+
+
+
+
+About VitalSource eBooks
+
+
+
+VitalSource is a leading provider of eBooks.
+
+ Access your materials anywhere, at anytime.
+ Customer preferences like text size, font type, page color and more.
+ Take annotations in line as you read.
+
+
+
+View VitalSource eBook FAQs »
+
+
+
+
+
+
+
+
+
+
+Multiple eBook Copies
+
+
+
+This eBook is already in your shopping cart. If you would like to replace it with a different purchasing option please remove the current eBook option from your cart.
+
+
+
+
+
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Book Series
+
+This book is included in the following book series:
+
+ Textbooks in Mathematics
+
+
+
+
+
+Related Subjects
+
+
+Mathematics & Statistics for Engineers
+
+
+Algebra
+
+
+Linear & Multilinear Algebra
+
+
+Engineering & Technology
+
+
+Advanced Mathematics
+
+
+Mathematics & Statistics
+
+
+Algebra
+
+
+Mathematics for Engineering
+
+
+
+
+Frequently Bought Together
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Book Preview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back To Top 
+
+
+
+
+
+
+
+
+
+
+
+
+©  Informa UK Limited, an Informa Plc company
+
+
+
+
+Contact Us
+
+
+Customer Service
+
+
+Editorial Contacts
+
+
+Sales Contacts
+
+
+Rights and Permissions
+
+
+Become an Affiliate Partner Opens in new tab or window
+
+
+FAQs
+Partners
+
+
+Customer Resources
+
+
+Authors
+
+
+Booksellers
+
+
+Instructors
+
+
+Request An Inspection Copy
+
+
+Librarians
+
+
+Press and Media
+
+
+Professionals
+
+
+Societies and Associations
+
+
+Students
+
+
+
+
+Our Products
+
+
+eBooks
+
+
+eBook+
+
+
+Book Series
+
+
+Online Platforms
+
+
+Open Access Books
+
+
+Focus Shortform Books 
+
+
+
+
+About Us
+
+
+About Routledge
+
+
+About Taylor & Francis Opens in new tab or window
+
+
+Taylor & Francis Journals Opens in new tab or window
+
+
+Careers Opens in new tab or window
+
+
+Blog
+Topics
+
+
+Policies
+
+
+Shipping Information
+
+
+Returns and Cancellations
+
+
+Terms and Conditions
+
+
+Inspection Copies
+
+
+Sustainability
+
+
+Accessibility
+
+
+Privacy Policy Opens in new tab or window
+
+
+
+SOCIAL  NETWORKS 
+Facebook - Opens in new tab or window       LinkedIn - Opens in new tab or window      Twitter - Opens in new tab or window       YouTube - Opens in new tab or window   
+
+
+
+
+
+
+
+
+
+
+
+
+
+The country you have selected will result in the following:
+
+
+
+Product pricing will be adjusted to match the corresponding currency.
+The title Perception will be removed from your cart because it is not available in this region.
+
+
+
+
+Continue
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

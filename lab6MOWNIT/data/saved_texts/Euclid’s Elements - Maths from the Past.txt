@@ -1,0 +1,541 @@
+
+
+
+
+
+
+Euclid’s Elements - Maths from the Past
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Skip to content
+
+
+
+
+
+
+
+
+
+
+
+  Email   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Maths from the Past
+				
+
+ 
+
+
+
+
+
+Home
+About Us
+Videos
+Themes
+
+Menu Toggle
+
+
+
+
+
+Morbid Maths
+
+
+Maths and Literature
+
+
+Cultural Maths
+
+
+Women in Maths
+
+
+Maths Epic Fails
+
+
+St Andrews Maths
+
+
+Maths in Everyday Life
+
+
+ 
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+Search
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+  Email   
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+ 
+
+
+
+
+
+
+
+
+
+
+					Maths from the Past
+				
+
+ 
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+Search
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+About Us
+Videos
+Themes
+
+Menu Toggle
+
+
+
+
+
+Morbid Maths
+
+
+Maths and Literature
+
+
+Cultural Maths
+
+
+Women in Maths
+
+
+Maths Epic Fails
+
+
+St Andrews Maths
+
+
+Maths in Everyday Life
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+Euclid’s Elements
+
+Euclid of Alexandria was likely a Greek mathematician who was born in approximately 325 Before Christ (BC), however, as very little is known about him, we cannot be certain of many aspects of his life. Despite this, much of his work has had an impact centuries later, including the Elements. This work has had a long-lasting influence in the field of geometry, with it being used widely up until the 20th Century, when other school textbooks became commonplace. 
+
+
+Euclid’s Elements
+Euclid’s Elements is seen as the most famous work of the classical period. It is believed that it is mostly a collection of work based on books and ideas from other Greek mathematicians including Pythagoras (approximately 570–490 BC) and Hippocrates of Chios (approximately 470–410 BC), with many of the proofs included being Euclid’s. One such proof was of Euclid’s theorem, which states that there are infinitely many prime numbers (a number greater than 1 that can only be divided exactly by 1 and itself). Within the work, a range of mathematical topics are covered including, geometry, number theory (the properties of numbers), and proportion. The Elements consists of 13 different books, including book 3 which is about circles and their properties, and book 12 is about the relative volumes of cones.  
+The logical approach to mathematics is one of the factors that many people point to to explain the success of the Elements. Euclid used a systematic approach to the content within the Elements, where a set of axioms (a statement that is accepted to be true) are used to develop more detailed results and proofs. These axioms included “That all right angles are equal to one another”, with right angles being angles of 90°, and “To describe a circle with any centre and distance”. 
+
+
+A painting of Euclid of Alexandria by Jusepe de Ribera, dated between 1630 and 1635. Image credit: Jusepe de Ribera, public domain via Wikimedia Commons.
+
+
+The logical approach to mathematics is one of the factors that many people point to to explain the success of the Elements. Euclid used a systematic approach to the content within the Elements, where a set of axioms (a statement that is accepted to be true) are used to develop more detailed results and proofs. These axioms included “That all right angles are equal to one another”, with right angles being angles of 90°, and “To describe a circle with any centre and distance”. 
+
+
+The title page of Sir Henry Billingsley’s English edition of The Elements.  Image credit: Sir Henry Billingsley, public domain via Wikimedia Commons.  
+
+
+Influence and Legacy
+Following the invention of the printing press, the Elements became one of the first mathematical pieces of work to be printed in 1482. Since then, over one thousand editions have been printed, meaning the Elements may have the second highest number of editions ever, with only the Bible having more. 
+In the 13th Century, The Elements reached Europe. The first English version was published in 1570 by Sir Henry Billingsley, a merchant, with contributions by John Dee, a mathematician.
+
+
+However, this edition said that the Elements was written by Euclid of Megara, a Greek philosopher, born around 435 BC. This mistake was not uncommon after ancient Greek manuscripts started to be brought to the rest of Europe, with 14th Century scholar Theodorus Metochites writing “Euclid of Megara, the Socratic philosopher, a contemporary of Plato, who brilliantly gathered together most of the geometrical results of that time”.  
+During the Renaissance (approximately 1350 to 1620 AD (Anno Domini, which is Latin for in the year of the Lord)), scholars who started to look through a range of ancient texts found contractions that would suggest it was not Euclid of Megara who wrote the Elements. Instead, it was someone else also Euclid who had lived around a century later, who is now known as Euclid of Alexandria. 
+Read more about this English editionHide this information
+
+
+
+
+Due to this spread of the Elements throughout the west, many other mathematicians and scientists studied and used The Elements for the basis of their work, including Sir Isaac Newton and Albert Einstein, who said it was “the miracle of a logical system”.
+Parts of the Elements also became an important component of the quadrivium, which was the classical curriculum taught in schools in Europe and the Middle East during the Middle Ages. The quadrivium included arithmetic, music, astronomy, and geometry. The geometry element consisted of the work in Euclid’s Elements. Even centuries after this, The Elements continued to play a role in education, with it forming the basis of almost all maths teaching until around 1900. 
+Outside of mathematics, a wide range of other objects and places have been named after him including the European Space Agency satellite Euclid and a crater on the moon called Euclides.
+Criticisms
+
+However, despite being used so widely, the Elements was not without criticism. Many later editions have included further explanations about certain concepts and proofs that Euclid did not include. For example, in 1908, Sir Thomas Heath wrote many comments in an edition of Euclid’s elements, which gave additional lemmas (a proven statement used to prove another statement) needed to complete many of Euclid’s proofs. Therefore, despite laying out proofs in a logical way, many of these proofs are not thorough enough for modern standards of mathematics. 
+Show this chapterHide this chapter
+
+
+A papyrus fragment of Euclid’s The Elements, showing part of Book II, focusing on geometric algebra. Image credit: Euclid, public domain via Wikimedia Commons.  
+
+
+
+
+
+Show BibliographyHide Bibliography
+Fitzpatrick, Richard, Euclid’s Elements of Geometry, (United States, 2007). 
+Ji, Zhigang, Translation of Euclid’s Elements and Evolution of Mathematical Thoughts in Ming and Qing Dynasties Periods, in Xiaoyuan Jiang (ed.), Western Influences in the History of Science and Technology in Modern China (Singapore, 2021), pp. 35-61. 
+Heath, Thomas L., The Thirteen Books of Euclid’s Elements: Volume 2, Books III-IX, (Cambridge, 1908). 
+Goulding, Robert, Defending Hypatia, (Dordrecht, 2009). 
+Billingsley, Henry, and Dee, John, The elements of geometrie of the most ancient philosopher Euclide of Megara, (1570). 
+Alexander, Rachel, Myths, Symbols and Legends of Solar System Bodies, (New York, 2014)
+
+
+
+AuthorAndrew Maughan
+
+
+
+
+
+
+
+
+
+
+
+
+
+What do you think of this article? 
+
+
+
+
+
+
+
+
+
+ Great						
+
+
+
+
+Good						
+
+
+
+
+ Indifferent						
+
+
+
+
+Bad						
+
+
+
+
+ Terrible						
+
+None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Time's upCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+What did you find most interesting about this article? 
+
+
+
+
+
+
+What would you improve about this article? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Time's upCancel
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+©2023 Maths from the Past. Website licensed under CC BY-SA 4.0, except where otherwise noted.
+ 
+
+Takedown policy
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Scroll to Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

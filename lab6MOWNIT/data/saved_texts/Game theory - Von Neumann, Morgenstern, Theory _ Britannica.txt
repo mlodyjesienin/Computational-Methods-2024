@@ -1,0 +1,465 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Game theory - Von Neumann, Morgenstern, Theory | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				game theory
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionClassification of gamesOne-person gamesTwo-person constant-sum gamesGames of perfect informationGames of imperfect informationMixed strategies and the minimax theoremUtility theoryTwo-person variable-sum gamesCooperative versus noncooperative gamesThe Nash solutionThe prisoner’s dilemmaTheory of movesBiological applicationsN-person gamesSequential and simultaneous truelsPower in voting: the paradox of the chair’s positionThe von Neumann–Morgenstern theoryThe Banzhaf value in voting games
+
+				References & Edit History
+
+				Related Topics
+
+
+
+				Images & Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+game theory summary
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+Why Is the Indy 500 Held on Memorial Day Weekend?
+
+
+
+
+
+
+
+
+
+12 Novels Considered the “Greatest Book Ever Written”
+
+
+
+
+
+
+
+
+
+Do Lemmings Really Commit Mass Suicide?
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+Why Was Nazi Germany Called the Third Reich?
+
+
+
+
+
+
+
+
+
+Why New York Is Called "The Big Apple" and How 8 Other Famous Cities Got Their Nicknames
+
+
+
+
+
+
+
+
+
+What’s the Difference Between Asian and African Elephants?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+ The von Neumann–Morgenstern theory Von Neumann and Morgenstern were the first to construct a cooperative theory of n-person games. They assumed that various groups of players might join together to form coalitions, each of which has an associated value defined as the minimum amount that the coalition can ensure by its own efforts. (In practice, such groups might be blocs in a legislative body or business partners in a conglomerate.) They described these n-person games in characteristic-function form—that is, by listing the individual players (one-person coalitions), all possible coalitions of two or more players, and the values that each of these coalitions could ensure if a counter-coalition comprising all other players acted to minimize the amount that the coalition can obtain. They also assumed that the characteristic function is superadditive: the value of a coalition of two formerly separate coalitions is at least as great as the sum of the separate values of the two coalitions. The sum of payments to the players in each coalition must equal the value of that coalition. Moreover, each player in a coalition must receive no less than what he could obtain playing alone; otherwise, he would not join the coalition. Each set of payments to the players describes one possible outcome of an n-person cooperative game and is called an imputation. Within a coalition S, an imputation X is said to dominate another imputation Y if each player in S gets more with X than with Y and if the players in S receive a total payment that does not exceed the coalition value of S. This means that players in the coalition prefer the payoff X to the payoff Y and have the power to enforce this preference. Von Neumann and Morgenstern defined the solution to an n-person game as a set of imputations satisfying two conditions: (1) no imputation in the solution dominates another imputation in the solution and (2) any imputation not in the solution is dominated by another one in the solution. A von Neumann–Morgenstern solution is not a single outcome but, rather, a set of outcomes, any one of which may occur. It is stable because, for the members of the coalition, any imputation outside the solution is dominated by—and is therefore less attractive than—an imputation within the solution. The imputations within the solution are viable because they are not dominated by any other imputations in the solution. In any given cooperative game there are generally many—sometimes infinitely many—solutions. A simple three-person game that illustrates this fact is one in which any two players, as well as all three players, receive one unit, which they can divide between or among themselves in any way that they wish; individual players receive nothing. In such a case the value of each two-person coalition, and the three-person coalition as well, is 1. One solution to this game consists of three imputations, in each of which one player receives 0 and the other two players receive 1/2 each. There is no self-domination within the solution, because if one imputation is substituted for another, one player gets more, one gets less, and one gets the same (for domination, each of the players forming a coalition must gain). In addition, any imputation outside the solution is dominated by one in the solution, because the two players with the lowest payoffs must each get less than 1/2; clearly, this imputation is dominated by an imputation in the solution in which these two players each get 1/2. According to this solution, at any given time one of its three imputations will occur, but von Neumann and Morgenstern do not predict which one. A second solution to this game consists of all the imputations in which player A receives 1/4 and players B and C share the remaining 3/4. Although this solution gives a different set of outcomes from the first solution, it, too, satisfies von Neumann and Morgenstern’s two conditions. For any imputation within the solution, player A always gets 1/4 and therefore cannot gain. In addition, because players B and C share a fixed sum, if one of them gains in a proposed imputation, the other must lose. Thus, no imputation in the solution dominates another imputation in the solution. For any imputation not in the solution, player A must get either more or less than 1/4. When A gets more than 1/4, players B and C share less than 3/4 and, therefore, can do better with an imputation within the solution. When player A gets less than 1/4, say 1/8, he always does better with an imputation in the solution. Players B and C now have more to share; but no matter how they split the new total of 7/8, there is an imputation in the solution that one of them will prefer. When they share equally, each gets 7/16; but player B, for example, can get more in the imputation (1/4, 1/2, 1/4), which is in the solution. When players B and C do not divide the 7/8 equally, the player who gets the smaller amount can always do better with an imputation in the solution. Thus, any imputation outside the solution is dominated by one inside the solution. Similarly, it can be shown that all of the imputations in which player B gets 1/4 and players A and C share 3/4, as well as the set of all imputations in which player C gets 1/4 and players A and B share 3/4, also constitute a solution to the game. Although there may be many solutions to a game (each representing a different “standard of behaviour”), it was not apparent at first that there would always be at least one in every cooperative game. Von Neumann and Morgenstern found no game without a solution, and they deemed it important that no such game exists. However, in 1967 a fairly complicated 10-person game was discovered by the American mathematician William F. Lucas that did not have a solution. This and later counterexamples indicated that the von Neumann–Morgenstern solution is not universally applicable, but it remains compelling, especially since no definitive theory of n-person cooperative games exists.   The Banzhaf value in voting games In the section Power in voting: the paradox of the chair’s position, it was shown that power defined as control over outcomes is not synonymous with control over resources, such as a chair’s tie-breaking vote. The strategic situation facing voters intervenes and may cause them to reassess their strategies in light of the additional resources that the chair possesses. In doing so, they may be led to “gang up” against the chair. (Note that Y and Z do this without any explicit communication or binding agreement; the coalition they form against the chair X is an implicit one and the game, therefore, remains a noncooperative one.) In effect, the chair’s resources become a burden to bear, not power to relish. When players’ preferences are not known beforehand, though, it is useful to define power in terms of their ability to alter the outcome by changing their votes, as governed by a constitution, bylaws, or other rules of the game. Various measures of voting power have been proposed for simple games, in which every coalition has a value of 1 (if it has enough votes to win) or 0 (if it does not). The sum of the powers of all the players is 1. When a player has 0 power, his vote has no influence on the outcome; when a player has a power of 1, the outcome depends only on his vote. The key to calculating voting power is determining the frequency with which a player casts a critical vote. American attorney John F. Banzhaf III proposed that all combinations in which any player is the critical voter—that is, in which a measure passes only with this voter’s support—be considered equally likely. The Banzhaf value for each player is then the number of combinations in which this voter is critical divided by the total number of combinations in which each voter (including this one) is critical. This view is not compatible with defining the voting power of a player to be proportional to the number of votes he casts, because votes per se may have little or no bearing on the choice of outcomes. For example, in a three-member voting body in which A has 4 votes, B 2 votes, and C 1 vote, members B and C will be powerless if a simple majority wins. The fact that members B and C together control 3/7 of the votes is irrelevant in the selection of outcomes, so these members are called dummies. Member A, by contrast, is a dictator by virtue of having enough votes alone to determine the outcome. A voting body can have only one dictator, whose existence renders all other members dummies, but there may be dummies and no dictator (an example is given below). A minimal winning coalition (MWC) is one in which the subtraction of at least one of its members renders it losing. To illustrate the calculation of Banzhaf values, consider a voting body with two 2-vote members (distinguished as 2a and 2b) and one 3-vote member, in which a simple majority wins. There are three distinct MWCs—(3, 2a), (3, 2b), and (2a, 2b)—or combinations in which some voter is critical; the grand coalition, comprising all three members, (3, 2a, 2b), is not an MWC because no single member’s defection would cause it to lose. As each member’s defection is critical in two MWCs, each member’s proportion of voting power is two-sixths, or one-third. Thus, the Banzhaf index, which gives the Banzhaf values for each member in vector form, is (1/3, 1/3, 1/3). Clearly, the voting power of the 3-vote member is the same as that of each of the two 2-vote members, although the 3-vote member has 50 percent greater weight (more votes) than each of the 2-vote members. The discrepancy between voting weight and voting power is more dramatic in the voting body (50, 49, 1) where, again, a simple majority wins. The 50-vote member is critical in all three MWCs—(50, 1), (50, 49), and (50, 49, 1), giving him a veto because his presence is necessary for a coalition to be winning—whereas the 49-vote member is critical in only (50, 49) and the 1-vote member in only (50, 1). Thus, the Banzhaf index for (50, 49, 1) is (3/5, 1/5, 1/5), making the 49-vote member indistinguishable from the 1-vote member; the 50-vote member, with just one more vote than the 49-vote member, has three times as much voting power. In 1958 six West European countries formed the European Economic Community (EEC). The three large countries (West Germany, France, and Italy) each had 4 votes on its Council of Ministers, the two medium-size countries (Belgium and the Netherlands) 2 votes each, and the one small country (Luxembourg) 1 vote. The decision rule of the Council was a qualified majority of 12 out of 17 votes, giving the large countries Banzhaf values of 5/21 each, the medium-size countries 1/7 each, and—amazingly—Luxembourg no voting power at all. From 1958 to 1973—when the EEC admitted three additional members—Luxembourg was a dummy. Luxembourg might as well not have gone to Council meetings except to participate in the debate, because its one vote could never change the outcome. To see this without calculating the Banzhaf values of all the members, note that the votes of the five other countries are all even numbers. Therefore, an MWC with exactly 12 votes could never include Luxembourg’s (odd) 1 vote; while a 13-vote MWC that included Luxembourg could form, Luxembourg’s defection would never render such an MWC losing. It is worth noting that as the Council kept expanding with the addition of new countries and the formation of the European Union, Luxembourg never reverted to being a dummy, even though its votes became an ever smaller proportion of the total. The Banzhaf and other power indices, rooted in cooperative game theory, have been applied to many voting bodies, not necessarily weighted, sometimes with surprising results. For example, the Banzhaf index has been used to calculate the power of the 5 permanent and 10 nonpermanent members of the United Nations Security Council. (The permanent members, all with a veto, have 83 percent of the power.) It has also been used to compare the power of representatives, senators, and the president in the U.S. federal system. Banzhaf himself successfully challenged the constitutionality of the weighted-voting system used in Nassau county, New York, showing that three of the County Board’s six members were dummies. Likewise, the former Board of Estimate of New York City, in which three citywide officials (mayor, chair of the city council, and comptroller) had two votes each and the five borough presidents had one vote each, was declared unconstitutional by the U.S. Supreme Court; this was because Brooklyn had approximately six times the population of Staten Island but the same one vote on the Board, in violation of the equal-protection clause of the 14th Amendment of the U.S. Constitution that requires “one person, one vote.” Finally, it has been argued that the U.S. Electoral College, which is effectively a weighted voting body because almost all states cast their electoral votes as blocs, violates one person, one vote in presidential elections, because voters from large states have approximately three times as much voting power, on a per-capita basis, as voters from small states. Game theory is now well established and widely used in a variety of disciplines. The foundations of economics, for example, are increasingly grounded in game theory; among game theory’s many applications in economics is the design of Federal Communications Commission auctions of airwaves, which have netted the U.S. government billions of dollars. Game theory is being used increasingly in political science to study strategy in areas as diverse as campaigns and elections, defense policy, and international relations. In biology, business, management science, computer science, and law, game theory has been used to model a variety of strategic situations. Game theory has even penetrated areas of philosophy (e.g., to study the equilibrium properties of ethical rules), religion (e.g., to interpret Bible stories), and pure mathematics (e.g., to analyze how to divide a cake fairly among n people). All in all, game theory holds out great promise not only for advancing the understanding of strategic interaction in very different settings but also for offering prescriptions for the design of better auction, bargaining, voting, and information systems that involve strategic choice. Morton D. Davis Steven J. Brams  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

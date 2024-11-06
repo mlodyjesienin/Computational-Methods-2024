@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feynman’s Legacy | American Scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+ Close  
+
+
+
+
+Search
+Help
+
+
+Topics
+Features
+Blogs
+Video
+Podcasts
+
+
+Magazine
+Archive
+Subscribe
+Newsletter
+About Us
+Advertise
+
+
+Login
+Register
+
+
+Twitter
+Facebook
+YouTube
+LinkedIn
+
+
+
+
+
+
+American Scientist
+
+Open navigation
+                
+Search
+                
+
+
+
+Help
+
+Login 
+
+
+
+
+
+
+
+
+
+
+
+
+Feynman’s Legacy
+By Silvan S. Schweber
+
+Physics Review Scientists Nightstand
+
+
+
+Facebook
+Twitter
+LinkedIn
+
+Email
+Print
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+This Article From Issue
+May-June 2011
+Volume 99, Number 3
+ 
+
+Page 263
+DOI: 10.1511/2011.90.263
+
+
+Unavailable For Purchase
+View Issue
+
+ 
+
+
+
+Quantum Man: Richard Feynman’s Life in Science. Lawrence M. Krauss. xviii + 350 pp. W. W. Norton and Company, 2011. $24.95.Richard Feynman (1918–1988) was one of the greatest physicists of the 20th century. His most original contribution, the path-integral formulation of quantum mechanics, has turned out to be hugely generative. In the nonrelativistic domain, Feynman conceived a microscopic entity (such as an electron) going from space-time point (x1,t1) to space-time point (x2,t2) as being able to take any path joining these two points, and he assigned a complex amplitude to each possible path that depended on the force field present and on the particular path. All these amplitudes were to be added, and the absolute square of that sum yielded the probability that the particle would go from (x1,t1) to (x2,t2). Feynman was able to determine which particular assignment of weight for each path yielded the usual Schrödinger formulation of quantum mechanics. In Feynman’s formulation, a “particle” is clearly something very different from its classical conceptualization.
+Ad Right
+To generalize the theory to describe quantum mechanically the interaction of charged particles with the electromagnetic field, Feynman introduced a graphic shorthand to help him translate all the terms in the perturbative expansions of his integral over paths into calculable expressions for the transition amplitudes being considered. Not only did these diagrams eventually come to represent all the contributions to a given process, such as an electron being scattered by a proton and emitting a photon, they also became an elegant way to organize and visualize the perturbation series. Each diagram came to stand for the algebraic elements that went into the integral associated with its contribution to the perturbation series. As Peter Galison has stressed, the diagrams made calculations of any given process in Feynman’s scheme a modular matter. One would draw all the diagrams that contribute to the process to the given order of perturbation theory one was to calculate, invoke the rules that associate particular components of the diagrams with mathematical expressions, and then calculate the integrals. Few elements of theory have become as omnipresent and as pervasive as Feynman diagrams.Using this approach, in 1948 Feynman showed how quantum electrodynamics (QED) could be made to yield finite results for all observable quantities in the lowest orders of perturbation theory. Julian Schwinger and Sin-Itiro Tomonaga had demonstrated the same thing, and the three men shared the Nobel Prize in Physics in 1965 for their work on QED. In 1953 Feynman formulated a fundamental theory of liquid helium justifying the earlier phenomenological theories of László Tisza and Lev Landau.In 1957, after Tsung-Dao Lee and Chen-Ning “Frank” Yang had established that parity was not conserved in the weak interactions, and Richard Garwin, Leon Lederman, Valentine Telegdi, Chien Shiung Wu and others had experimentally corroborated Lee and Yang’s finding, Feynman found he could account for all the experimental results by postulating that only the “left-handed” component of the wave functions of the particles involved in the weak interactions enter into the description. With Murray Gell-Mann, Feynman wrote an important paper on the subject that stimulated a great deal of subsequent theoretical activity in high-energy physics.In the 1961–62 and 1962–63 academic years, Feynman taught the two-year introductory physics course that all Caltech students take. The lectures that he delivered were subsequently published in three red-bound volumes titled The Feynman Lectures on Physics. They have deeply influenced subsequent generations of physics teachers and physics graduate students.When in the late 1960s experiments on the scattering of high-energy electrons by protons at the Stanford Linear Accelerator yielded very large cross-sections for inelastic scattering, Feynman came to the conclusion that the proton contained subnuclear entities he called partons, and that the experimental results could be interpreted as elastic scatterings of the electrons by these partons. Partons soon became identified with Gell-Mann’s quarks, which are basic components of quantum chromodynamics.Feynman’s participation in the making of atomic bombs at Los Alamos during World War II generated in him a lifelong deep interest in computing and computers. His lectures on computing during the early 1980s, the series of papers on computing that he wrote between 1981 and 1985, and his contributions to the building of Danny Hillis’s massively parallel computer mark the beginning of a new era of computers based on atomic elements operating by quantum logic.Feynman achieved national prominence with the publication in 1985 and 1988 of “Surely You’re Joking, Mr. Feynman!” and What Do YOU Care What Other People Think?, two books of stories from his life as told to Ralph Leighton. Feynman was even more in the national limelight in 1986 when, as a member of the presidentially appointed committee to investigate the space shuttle Challenger disaster, he dramatically pointed out its likely cause by dropping a rubber O-ring into a glass of ice water.Feynman has been the subject of several biographies. James Gleick’s splendid Genius (1992) sensitively narrated the physicist’s personal life and made accessible to the general public many of his scientific contributions, particularly his work on QED. Jagdish Mehra’s The Beat of a Different Drum (1994) is much more demanding technically. And now Lawrence Krauss has written Quantum Man: Richard Feynman’s Life in Science, which is the latest entry in Norton’s Great Discoveries series. In the introduction Krauss states that he was asked to produce “a short and accessible volume that might reflect Feynman the man as seen through his scientific contributions.” He adds that his goal in writing the biography was to “reveal to nonphysicists . . . why Feynman has reached the status of a mythic hero [emphasis added] to most physicists now alive on the planet.”The book has much to recommend it. Krauss rightly stresses that Feynman always had his own way of looking at problems and his own way of solving them, and he notes that Feynman might have been able to contribute more had he not insisted on solving problems in his own way. Krauss’s presentation of a good deal of Feynman’s physics is insightful and should be accessible to nonphysicists. He is very good when narrating those parts of Feynman’s physics he has had contact with—QED, weak interactions and quantum computing—but less so when discussing areas more distant from his own researches. I believe that his presentation of Feynman’s explanation of the properties of liquid helium will leave the reader baffled.I have other reservations as well. I do not believe that a book that is intended to convey the import and meaning of Feynman’s scientific contributions to the public at large, and in particular to inspire a new generation of young people to enter the scientific enterprise, should underpin its presentation by reinforcing the mythic element. Krauss attributes the origin of many of the great advances in theoretical physics during the second half of the 20th century to some work that Feynman did. Because his emphasis is on the individual, the role of the community is lost, and the importance of the contributions of other remarkable individuals gets minimized.Thus in Krauss’s history of the postwar advances in QED, Freeman Dyson’s contributions, although lauded, are not fully appreciated, for it is made to appear that all Dyson did was re-derive Feynman’s approach from the more conventional formulation of QED. (Krauss refers to Dyson having “helped the rest of the world understand QED, while establishing Feynman’s methods as the ones that would ultimately root and grow.”) What Krauss does not convey is that Feynman’s formulation was based on a particulate conception of the basic entities. The antisymmetry of wave functions or propagators for electrons, and their symmetry for bosons (as in the case of liquid helium), had to be put in by hand. Nor is anything said about Feynman’s inability to incorporate spin into his path-integral formulation, or about the fact that, because of this, the propagator approach described in his epochal 1949 Physical Review papers is not based on his integral-over-paths. One of Dyson’s important contributions was to formulate Feynman’s approach and its all-important diagrammatic component as a field theory, with the statistics of the “particles” the theory describes incorporated ab initio by virtue of the commutation rules obeyed by the field operators. Another of Dyson’s contributions was to prove the renormalizability of the S-matrix that describes scattering processes in QED to all orders of perturbation theory, and to formulate the renormalizability criteria for quantum field theories. The importance of Feynman’s path-integral approach in gauge theories is a consequence of its generalization—by others—to field systems, its treatment of Fermionic fields as Grassman variables.Reading Quantum Man, one gets the strong impression that every subsequent development in QED is a consequence of “Feynman’s QED.” However, contrary to what Krauss suggests, the seminal contributions of Gell-Mann and Francis Low when investigating the small-distance behavior of QED were not based on “Feynman’s QED,” but on advances—by Schwinger, John Ward, Gunnar Källen and others—that occurred between 1949 and 1954; these advances had deepened the meaning of renormalizability and had formulated QED in the Heisenberg representation. There is in fact no reference to Feynman in the paper by Gell-Mann and Low.There are other problems too. Krauss asserts incorrectly that Fermi got the Nobel Prize for his theory of beta decay. He states that the attraction for Feynman in beginning to work on quantum gravity in 1960 was that, as Feynman put it, “few of the best men are doing work in [the field]”; although Krauss does then acknowledge that Feynman’s remark “was probably somewhat of an overstatement,” he makes no mention of the work on the quantization of general relativity that Bryce de Witt, Schwinger, Richard Arnowitt, Stanley Deser, Charles Misner, John Wheeler and others had been doing since the mid-1950s. Nor was Feynman the first to consider gravitational interactions as mediated by the exchange of spin-2 massless quanta. Not until late in the book do we hear of the role that Chen Ning Yang and Robert Mills’s gauge theory (and Ryoyu Utiyama’s insights into gauge principles) played in Feynman’s approach. And absent is any talk about Peter W. Higgs and broken symmetry in gauge theories.But what I find perhaps even more distressing is the absence of any discussion of the contexts that shaped and solidified Feynman’s approach to physics and its theories. Peter Galison’s highly informative and very insightful 1998 article, “Feynman’s War: Modelling Weapons, Modelling Nature,” links the modular theoretical culture of wartime Los Alamos to Feynman’s modular approach to theory. This is the kind of insight that I believe must be conveyed to the public at large in order for people to understand the workings of science and the growth of the knowledge its practitioners produce. Similarly, one would like to have a more detailed assessment of what is characteristic of Feynman’s Lectures on Physics.Furthermore, perhaps in an attempt to humanize the “mythic hero,” Krauss periodically informs the reader of Feynman’s womanizing proclivities after the death of Arline, his first wife. It would have been more appropriate to put greater stress on how unusual a human being Feynman was in the way that he cared for the dying Arline when he was still a very young man, and to make the reader understand why this presumably highly rational human being wrote Arline a tear-drenched letter 16 months after her death, telling her of his love for her but not knowing where to send it.If I have been critical of Krauss’s book, it is because my hopes for it were quite high. As Feynman wrote to the German editor of “Surely You’re Joking, Mr. Feynman!,” negative reviews are written “by people who expected more and were disappointed.”Silvan S. Schweber is professor of physics and Richard Koret Professor in the History of Ideas, emeritus, at Brandeis University. He is the author of a number of books, including QED and the Men Who Made It (Princeton University Press, 1994) and Einstein and Oppenheimer: The Meaning of Genius (Harvard University Press, 2008).
+
+
+
+
+
+
+
+
+
+
+
+
+American Scientist Comments and Discussion
+To discuss our articles or comment on them, please share them and tag American Scientist on social media platforms. Here are links to our profiles on Twitter, Facebook, and LinkedIn.
+ If we re-share your post, we will moderate comments/discussion following our comments policy.
+
+
+
+
+
+
+ 
+
+
+
+Read More in This Issue
+From Rainmaking to Geoengineering
+  
+
+
+All Topics
+More in Physics
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+AMSCI ICON NAVIGATION:
+
+Navigation Menu 
+
+Search 
+
+Help 
+     
+Log In, Register
+     
+My AmSci
+     
+Select Options  (not present on all pages)
+
+
+
+Click "American Scientist" to access home page
+
+
+
+
+
+
+
+Twitter
+Facebook
+YouTube
+LinkedIn
+
+
+
+
+Topics
+Features
+Blogs
+Video
+Podcasts
+
+
+
+
+Magazine
+Archive
+Subscribe
+Newsletter
+About Us
+Advertise
+
+
+
+
+
+Login
+Register
+Search
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+ A European Space Agency rocket launch in 2013...
+SubscribeGive a GiftDonate
+ 
+
+
+
+
+
+
+A Publication of 
+Sigma XI
+© 2024 Sigma Xi, The Scientific Research Honor Society
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,481 @@
+
+
+
+
+
+
+
+      Carl Friedrich Gauss  (1777 - 1855) - Biography - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Johann Carl Friedrich Gauss
+
+
+
+
+
+Quick Info
+Born
+
+      30 April 1777   Brunswick, Duchy of Brunswick (now Germany) 
+
+Died
+
+      23 February 1855  GÃ¶ttingen, Hanover (now Germany)
+    
+
+Summary
+Carl Friedrich Gauss worked in a wide variety of fields in both mathematics and physics incuding number theory, analysis, differential geometry, geodesy, magnetism, astronomy and optics. His work has had an immense influence in many areas.
+
+
+
+
+
+      View eleven larger pictures
+
+
+
+
+
+Biography
+At the age of seven, Carl Friedrich Gauss started elementary school, and his potential was noticed almost immediately. His teacher, BÃ¼ttner, and his assistant, Martin Bartels, were amazed when Gauss summed the integers from 1 to 100 instantly by spotting that the sum was 50 pairs of numbers each pair summing to 101.
+
+
+In 1788 Gauss began his education at the Gymnasium with the help of BÃ¼ttner and Bartels, where he learnt High German and Latin. After receiving a stipend from the Duke of Brunswick- WolfenbÃ¼ttel, Gauss entered Brunswick Collegium Carolinum in 1792. At the academy Gauss independently discovered Bode's law, the binomial theorem and the arithmetic- geometric mean, as well as the law of quadratic reciprocity and the prime number theorem.
+
+
+In 1795 Gauss left Brunswick to study at GÃ¶ttingen University. Gauss's teacher there was KÃ¤stner, whom Gauss often ridiculed. His only known friend amongst the students was Farkas Bolyai. They met in 1799 and corresponded with each other for many years.
+
+
+Gauss left GÃ¶ttingen in 1798 without a diploma, but by this time he had made one of his most important discoveries - the construction of a regular 17-gon by ruler and compasses This was the most major advance in this field since the time of Greek mathematics and was published as Section VII of Gauss's famous work, Disquisitiones Arithmeticae â(Investigations in arithmetic).
+
+
+Gauss returned to Brunswick where he received a degree in 1799. After the Duke of Brunswick had agreed to continue Gauss's stipend, he requested that Gauss submit a doctoral dissertation to the University of Helmstedt. He already knew Pfaff, who was chosen to be his advisor. Gauss's dissertation was a discussion of the fundamental theorem of algebra.
+
+
+With his stipend to support him, Gauss did not need to find a job so devoted himself to research. He published the book Disquisitiones Arithmeticae â(Investigations in arithmetic) in the summer of 1801. There were seven sections, all but the last section, referred to above, being devoted to number theory.
+
+
+In June 1801, Zach, an astronomer whom Gauss had come to know two or three years previously, published the orbital positions of Ceres, a new "small planet" which was discovered by G Piazzi, an Italian astronomer on 1 January, 1801. Unfortunately, Piazzi had only been able to observe 9 degrees of its orbit before it disappeared behind the Sun. Zach published several predictions of its position, including one by Gauss which differed greatly from the others. When Ceres was rediscovered by Zach on 7 December 1801 it was almost exactly where Gauss had predicted. Although he did not disclose his methods at the time, Gauss had used his least squares approximation method.
+
+
+In June 1802 Gauss visited Olbers who had discovered Pallas in March of that year and Gauss investigated its orbit. Olbers requested that Gauss be made director of the proposed new observatory in GÃ¶ttingen, but no action was taken. Gauss began corresponding with Bessel, whom he did not meet until 1825, and with Sophie Germain.
+
+
+Gauss married Johanna Ostoff on 9 October, 1805. Despite having a happy personal life for the first time, his benefactor, the Duke of Brunswick, was killed fighting for the Prussian army. In 1807 Gauss left Brunswick to take up the position of director of the GÃ¶ttingen observatory.
+
+
+Gauss arrived in GÃ¶ttingen in late 1807. In 1808 his father died, and a year later Gauss's wife Johanna died after giving birth to their second son, who was to die soon after her. Gauss was shattered and wrote to Olbers asking him to give him a home for a few weeks,
+to gather new strength in the arms of your friendship - strength for a life which is only valuable because it belongs to my three small children.
+Gauss was married for a second time the next year, to Minna the best friend of Johanna, and although they had three children, this marriage seemed to be one of convenience for Gauss.
+
+
+Gauss's work never seemed to suffer from his personal tragedy. He published his second book, Theoria motus corporum coelestium in sectionibus conicis Solem ambientium â(Theory of the motion of the heavenly bodies surrounding the sun in conic sections),  in 1809, a major two volume treatise on the motion of celestial bodies. In the first volume he discussed differential equations, conic sections and elliptic orbits, while in the second volume, the main part of the work, he showed how to estimate and then to refine the estimation of a planet's orbit. Gauss's contributions to theoretical astronomy stopped after 1817, although he went on making observations until the age of 70.
+
+
+Much of Gauss's time was spent on a new observatory, completed in 1816, but he still found the time to work on other subjects. His publications during this time include Disquisitiones generales circa seriem infinitam â(General investigations of an infinite series), a rigorous treatment of series and an introduction of the hypergeometric function, Methodus nova integralium valores per approximationem inveniendi â(On a new method for finding the values of integrals), a practical essay on approximate integration, Bestimmung der Genauigkeit der Beobachtungen â(Determining the accuracy of the observations), a discussion of statistical estimators, and Theoria attractionis corporum sphaeroidicorum ellipticorum homogeneorum methodus nova tractata â(Theory of a new method of attraction of the homogeneous parts of a elliptical spheroidal body). The latter work was inspired by geodesic problems and was principally concerned with potential theory. In fact, Gauss found himself more and more interested in geodesy in the 1820s.
+
+
+Gauss had been asked in 1818 to carry out a geodesic survey of the state of Hanover to link up with the existing Danish grid. Gauss was pleased to accept and took personal charge of the survey, making measurements during the day and reducing them at night, using his extraordinary mental capacity for calculations. He regularly wrote to Schumacher, Olbers and Bessel, reporting on his progress and discussing problems.
+
+
+Because of the survey, Gauss invented the heliotrope which worked by reflecting the Sun's rays using a design of mirrors and a small telescope. However, inaccurate base lines were used for the survey and an unsatisfactory network of triangles. Gauss often wondered if he would have been better advised to have pursued some other occupation but he published over 70 papers between 1820 and 1830.
+
+
+In 1822 Gauss won the Copenhagen University Prize with Theoria attractionis â(Theory of attraction)... together with the idea of mapping one surface onto another so that the two are similar in their smallest parts. This paper was published in 1825 and led to the much later publication of Untersuchungen Ã¼ber GegenstÃ¤nde der HÃ¶heren GeodÃ¤sie  â(Studies on subjects of higher geodesy) (1843 and 1846). The paper Theoria combinationis observationum erroribus minimis obnoxiae â(On the theory of errors in combinations of observations) (1823), with its supplement (1828), was devoted to mathematical statistics, in particular to the least squares method.
+
+
+From the early 1800s Gauss had an interest in the question of the possible existence of a non-Euclidean geometry. He discussed this topic at length with Farkas Bolyai and in his correspondence with Gerling and Schumacher. In a book review in 1816 he discussed proofs which deduced the axiom of parallels from the other Euclidean axioms, suggesting that he believed in the existence of non-Euclidean geometry, although he was rather vague. 
+... the vain effort to conceal with an untenable tissue of pseudo proofs the gap which one cannot fill out.
+Gauss confided in Schumacher, telling him that he believed his reputation would suffer if he admitted in public that he believed in the existence of such a geometry.
+
+
+In 1831 Farkas Bolyai sent to Gauss his son JÃ¡nos Bolyai's work on the subject. Gauss replied 
+to praise it would mean to praise myself .
+Again, a decade later, when he was informed of Lobachevsky's work on the subject, he praised its "genuinely geometric" character, while in a letter to Schumacher in 1846, states that he 
+had the same convictions for 54 years
+indicating that he had known of the existence of a non-Euclidean geometry since he was 15 years of age (this seems unlikely).
+
+
+Gauss had a major interest in differential geometry, and published many papers on the subject. Disquisitiones generales circa superficies curva  â(General investigations of curved surfaces) (1828) was his most renowned work in this field. In fact, this paper rose from his geodesic interests, but it contained such geometrical ideas as Gaussian curvature. The paper also includes Gauss's famous theorema egregium â(The important theorem) :-
+If an area in R3\mathbb{R}^{3}R3 can be developed (i.e. mapped isometrically) into another area of R3\mathbb{R}^{3}R3, the values of the Gaussian curvatures are identical in corresponding points.
+The period 1817-1832 was a particularly distressing time for Gauss. He took in his sick mother in 1817, who stayed until her death in 1839, while he was arguing with his wife and her family about whether they should go to Berlin. He had been offered a position at Berlin University and Minna and her family were keen to move there. Gauss, however, never liked change and decided to stay in GÃ¶ttingen. In 1831 Gauss's second wife died after a long illness.
+
+
+In 1831, Wilhelm Weber arrived in GÃ¶ttingen as physics professor filling Tobias Mayer's chair. Gauss had known Weber since 1828 and supported his appointment. Gauss had worked on physics before 1831, publishing Ãber ein neues allgemeines Grundgesetz der Mechanik â(On a new general fundamental law of mechanics), which contained the principle of least constraint, and Principia generalia theoriae figurae fluidorum in statu aequilibrii  â(General principles of the theory of the shape of fluids in a state of equilibrium) which discussed forces of attraction. These papers were based on Gauss's potential theory, which proved of great importance in his work on physics. He later came to believe his potential theory and his method of least squares provided vital links between science and nature.
+
+
+In 1832, Gauss and Weber began investigating the theory of terrestrial magnetism after Alexander von Humboldt attempted to obtain Gauss's assistance in making a grid of magnetic observation points around the Earth. Gauss was excited by this prospect and by 1840 he had written three important papers on the subject: Intensitas vis magneticae terrestris ad mensuram absolutam revocata â(Measurement of the absoute intensity of terrestrial magnetic force revisited) (1832), Allgemeine Theorie des Erdmagnetismus â(General theory of geomagnetism) (1839) and Allgemeine LehrsÃ¤tze in Beziehung auf die im verkehrten VerhÃ¤ltnisse des Quadrats der Entfernung wirkenden Anziehungs- und AbstossungskrÃ¤fte â(General theorems in relation to the acting in perverse circumstances of the square of the distance of attraction and repulsion) (1840). These papers all dealt with the current theories on terrestrial magnetism, including Poisson's ideas, absolute measure for magnetic force and an empirical definition of terrestrial magnetism. Dirichlet's principle was mentioned without proof.
+
+
+Allgemeine Theorie â(General Theory)... showed that there can only be two poles in the globe and went on to prove an important theorem, which concerned the determination of the intensity of the horizontal component of the magnetic force along with the angle of inclination. Gauss used the Laplace equation to aid him with his calculations, and ended up specifying a location for the magnetic South pole.
+
+
+Humboldt had devised a calendar for observations of magnetic declination. However, once Gauss's new magnetic observatory (completed in 1833 - free of all magnetic metals) had been built, he proceeded to alter many of Humboldt's procedures, not pleasing Humboldt greatly. However, Gauss's changes obtained more accurate results with less effort.
+
+
+Gauss and Weber achieved much in their six years together. They discovered Kirchhoff's laws, as well as building a primitive telegraph device which could send messages over a distance of 5000 ft. However, this was just an enjoyable pastime for Gauss. He was more interested in the task of establishing a world-wide net of magnetic observation points. This occupation produced many concrete results. The Magnetischer Verein â(Magnetic Society) and its journal were founded, and the atlas of geomagnetism was published, while Gauss and Weber's own journal in which their results were published ran from 1836 to 1841.
+
+
+In 1837, Weber was forced to leave GÃ¶ttingen when he became involved in a political dispute and, from this time, Gauss's activity gradually decreased. He still produced letters in response to fellow scientists' discoveries usually remarking that he had known the methods for years but had never felt the need to publish. Sometimes he seemed extremely pleased with advances made by other mathematicians, particularly that of Eisenstein and of Lobachevsky.
+
+
+Gauss spent the years from 1845 to 1851 updating the GÃ¶ttingen University widow's fund. This work gave him practical experience in financial matters, and he went on to make his fortune through shrewd investments in bonds issued by private companies.
+
+
+Two of Gauss's last doctoral students were Moritz Cantor and Dedekind. Dedekind wrote a fine description of his supervisor:-
+... usually he sat in a comfortable attitude, looking down, slightly stooped, with hands folded above his lap. He spoke quite freely, very clearly, simply and plainly: but when he wanted to emphasise a new viewpoint ... then he lifted his head, turned to one of those sitting next to him, and gazed at him with his beautiful, penetrating blue eyes during the emphatic speech. ... If he proceeded from an explanation of principles to the development of mathematical formulas, then he got up, and in a stately very upright posture he wrote on a blackboard beside him in his peculiarly beautiful handwriting: he always succeeded through economy and deliberate arrangement in making do with a rather small space. For numerical examples, on whose careful completion he placed special value, he brought along the requisite data on little slips of paper.
+Gauss presented his golden jubilee lecture in 1849, fifty years after his diploma had been granted by Helmstedt University. It was appropriately a variation on his dissertation of 1799. From the mathematical community only Jacobi and Dirichlet were present, but Gauss received many messages and honours.
+
+
+From 1850 onwards Gauss's work was again nearly all of a practical nature although he did approve Riemann's doctoral thesis and heard his probationary lecture. His last known scientific exchange was with Gerling. He discussed a modified Foucault pendulum in 1854. He was also able to attend the opening of the new railway link between Hanover and GÃ¶ttingen, but this proved to be his last outing. His health deteriorated slowly, and Gauss died in his sleep early in the morning of 23 February, 1855.
+
+
+
+
+
+
+
+Quotations by Carl Friedrich Gauss  Other Mathematicians born in Germany  A Poster of Carl Friedrich Gauss
+
+
+
+
+
+References (show)
+
+
+
+
+
+K O May, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Carl-Friedrich-Gauss
+W K BÃ¼hler, Gauss: A Biographical Study (Berlin, 1981).
+G W Dunnington, Carl Friedrich Gauss : Titan of Science (New York, 1955).
+T Hall, Carl Friedrich Gauss : A Biography (1970).
+G M Rassias (ed.), The mathematical heritage of C F Gauss (Singapore, 1991).
+H Reichardt, Gauss, in H Wussing and W Arnold, Biographien bedeutender Mathematiker (Berlin, 1983).
+H Reichardt (ed.), C F Gauss Gedenkband anlÃ¤sslich des 100. Todestages am 23. Februar 1855 (1957).
+W S von Waltershausen, Gauss, a Memorial (Colorado Springs, Colo., 1966).
+C Agostinelli, Some aspects of the life and work of Carl Friedrich Gauss and that of other illustrious members of the Academy (Italian), Atti Accad. Sci. Torino Cl. Sci. Fis. Mat. Natur. 112 (1978), suppl., 69-88.
+G V Bagratuni, Carl Friedrich Gauss, his works on geodesy and his geodetic research (Russian), Izv. Vyss. Ucebn. Zaved. Geod. i AÃ¨rofot. (6) (1977), 138-143.
+W Benham, The Gauss anagram : an alternative solution, Ann. of Sci. 31 (1974), 449-455.
+H J M Bos, Carl Friedrich Gauss : a biographical note (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 234-240.
+E Breitenberger, Gauss und Listing: Topologie und Freundschaft, Gauss-Ges. GÃ¶ttingen Mitt. 30 (1993), 3-56.
+E Breitenberger, Gauss's geodesy and the axiom of parallels, Arch. Hist. Exact Sci. 31 (3) (1984), 273-289.
+E Buissant des Amorie, Gauss' formula for Ï (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 200-204.
+D A Cox,Gauss and the arithmetic - geometric mean, Notices Amer. Math. Soc. 32 (2) (1985), 147-151.
+D A Cox, The arithmetic-geometric mean of Gauss, Enseign. Math. (2) 30 (3-4) (1984), 275-330.
+H S M Coxeter, Gauss as a geometer, Historia Math. 4 (4) (1977), 379-396.
+J DieudonnÃ©, Carl Friedrich Gauss : a bicentenary, Southeast Asian Bull. Math. 2 (2) (1978), 61-70.
+P J de Doelder, Gauss and function theory (especially with regard to the lemniscate functions) (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 176-183.
+J Dutka, On Gauss' priority in the discovery of the method of least squares, Arch. Hist. Exact Sci. 49 (4) (1996), 355-370.
+M Folkerts, C F Gauss' Beitrag zur Besetzung von Professuren an der UniversitÃ¤t GÃ¶ttingen, Gauss-Ges. GÃ¶ttingen Mitt. 32 (1995), 3-34.
+E G Forbes, The astronomical work of Carl Friedrich Gauss (1777-1855), Historia Math. 5 (2) (1978), 167-181.
+E G Forbes, Gauss and the discovery of Ceres, J. Hist. Astronom. 2 (3) (1971), 195-199.
+A Fryant and V L N Sarma, Gauss' first proof of the fundamental theorem of algebra, Math. Student 52 (1-4) (1984), 101-105.
+G D Garland, The contributions of Carl Friedrich Gauss to geomagnetism, Historia Math. 6 (1) (1979), 5-29.
+S Gindikin, Carl Friedrich Gauss (on the 200th anniversary of his birth) (Russian), Kvant 8 (1977), 2-14.
+H Grauert, Wie Gauss die alte GÃ¶ttinger Mathematik schuf, Proceedings of the 2nd Gauss Symposium. Conference A : Mathematics and Theoretical Physics (Berlin, 1995), 1-15.
+H-J Felber, Die beiden Ausnahmebestimmungen in der von C F Gauss aufgestellten Osterformel, Sterne 53 (1) (1977), 22-34.
+H-J Treder, Gauss und die Gravitationstheorie, Sterne 53 (1) (1977), 9-14.
+F Henneman, Gauss' law of errors and the method of least squares : a historical sketch (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 205-209.
+S H Hollingdale, C F Gauss (1777-1855) : a bicentennial tribute, Bull. Inst. Math. Appl. 13 (3-4) (1977), 68-76.
+K-R Biermann, Aus der Gauss-Forschung, Gauss-Ges. GÃ¶ttingen Mitt. 29 (1992), 39-42.
+K-R Biermann, Zu den Beziehungen von C F Gauss und A v Humboldt zu A F MÃ¶bius, NTM Schr. Geschichte Naturwiss. Tech. Medizin 12 (1) (1975), 12-15.
+K-R Biermann, Die Gauss-Briefe in Goethes Besitz, NTM Schr. Geschichte Naturwiss. Tech. Medizin 11 (1) (1974), 2-10.
+K-R Biermann, C F Gauss in seinem VerhÃ¤ltnis zur britischen Wissenschaft und Literatur, NTM Schr. Geschichte Naturwiss. Tech. Medizin 14 (1) (1977), 7-15.
+K-R Biermann, Zu Dirichlets geplantem Nachruf auf Gauss, NTM Schr. Geschichte Naturwiss. Tech. Medizin 8 (1) (1971), 9-12.
+R Kooistra, C F Gauss and the fundamental theorem of algebra (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 173-175.
+R Lehti, Gauss's 'Disquisitiones arithmeticae' (Finnish), Arkhimedes 29 (2) (1977), 49-66.
+A F Monna, Gauss and the physical sciences (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 212-217.
+P MÃ¼Ã¼rsepp, Gauss and Tartu University, Historia Math. 5 (4) (1978), 455-459.
+P MÃ¼Ã¼rsepp, Gauss' letter to Fuss of 4 April 1803, Historia Math. 4 (1977), 37-41.
+W Narkiewicz, The work of C F Gauss in algebra and number theory, Festakt und Tagung aus Anlass des 200. Geburtstages von Carl Friedrich Gauss (Berlin, 1978), 75-82.
+J G O'Hara, Gauss and the Royal Society : the reception of his ideas on magnetism in Britain (1832-1842), Notes and Records Roy. Soc. London 38 (1) (1983), 17-78.
+R L Plackett, The influence of Laplace and Gauss in Britain, Bull. Inst. Internat. Statist. 53 (1) (1989), 163-176.
+K Reich, Gauss und seine Zeit, Sterne und Weltraum 16 (5) (1977), 148-157.
+N Ritsema, Gauss and the cyclotomic equation (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 188-196.
+D E Rowe, Gauss, Dirichlet and the Law of Biquadratic Reciprocity, The Mathematical Intelligencer 10 (1988), 13-26.
+H Schimank, Carl Friedrich Gauss (German), Gauss-Gesellschaft GÃ¶ttingen, Mitteilungen 8 (1971), 6-31.
+V G Selihanovic, Carl Friedrich Gauss (on the occasion of the 200th anniversary of his birth) (Russian), Izv. Vyss. Ucebn. Zaved. Geod. i AÃ¨rofot. (6) (1977), 131-137.
+O Sheynin, C F Gauss and geodetic observations, Arch. Hist. Exact Sci. 46 (3) (1994), 253-283.
+O B Sheynin, C F Gauss and the theory of errors, Arch. Hist. Exact Sci. 20 (1) (1979), 21-72.
+D A Sprott, Gauss's contributions to statistics, Historia Math. 5 (2) (1978), 183-203.
+H B Stauffer, Carl Friedrich Gauss, Bull. Malaysian Math. Soc. 6 (1) (1975), 1-3.
+G W Stewart, Gauss, statistics, and Gaussian elimination, J. Comput. Graph. Statist. 4 (1) (1995), 1-11.
+S M Stigler, The History of Statistics. The Measurement of Uncertainty before 1900 (Cambridge, Mass.-London, 1986), 140-.
+S M Stigler, Gauss and the invention of least squares, Ann. Statist. 9 (3) (1981), 465-474.
+S M Stigler, An attack on Gauss, published by Legendre in 1820, Historia Math. 4 (1977), 31-35.
+B SzÃ©nassy, Remarks on Gauss's work on non-Euclidean geometry (Hungarian), Mat. Lapok 28 (1-3) (1980), 133-140.
+W A van der Spek, The Easter formulae of C F Gauss (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 218-233.
+W A van der Spek, Gauss' logarithms (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 197-199.
+F van der Blij, Gauss and analytic number theory (Dutch), Nieuw Tijdschr. Wisk. 64 (4) (1976/77), 184-187.
+W Waterhouse, Gauss's first argument for least squares, Arch. Hist. Exact Sci. 41 (1) (1990), 41-52.
+W Waterhouse, Gauss on infinity, Historia Math. 6 (4) (1979), 430-436.
+H Wussing, Carl Friedrich Gauss - Leben und Wirken, Festakt und Tagung aus Anlass des 200. Geburtstages von Carl Friedrich Gauss (Berlin, 1978), 151-160.
+K Zormbala, Gauss and the definition of the plane concept in Euclidean elementary geometry, Historia Math. 23 (4) (1996), 418-436.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Carl Friedrich Gauss:
+
+Gauss's Disquisitiones Arithmeticae
+Richard Dedekind on Carl Friedrich Gauss
+Wilhelm Ahrens book of quotes
+Gauss's estimate for the density of primes
+Comparison with Legendre's estimate
+Prime Number Theorem
+A letter from Gauss to Taurinus discussing the possibility of non-Euclidean geometry
+An extract from Theoria residuorum biquadraticorum  (1828-32)
+Preface to Theory of the Motion of the Heavenly Bodies Moving about the Sun in Conic Sections
+Construction of the regular 17-gon
+Miller's postage stamps
+Heinz Klaus Strick biography
+
+
+
+Other websites about Carl Friedrich Gauss:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+NNDB
+A Google doodle
+Kevin Brown  (Constructing the 17-gon)
+Kevin Brown  (Geodesy)
+Sonoma
+H Kohler
+S D Chambless (An obituary of Gauss's son) and an account of his life in the USA
+Sci Hi blog
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+
+      Honours
+      (show)
+
+
+
+
+
+Honours awarded to Carl Friedrich Gauss
+
+Fellow of the Royal Society 1804 Fellow of the Royal Society of Edinburgh 1820 Royal Society Copley Medal 1838 Lunar features Crater Gauss Popular biographies list Number 23 Google doodle 2018
+
+
+
+
+
+
+
+      Cross-references
+      (show)
+
+
+
+
+
+
+History Topics: 
+History Topics: A history of Topology
+History Topics: African men with a doctorate in mathematics 2
+History Topics: African women with a doctorate in mathematics 1
+History Topics: An overview of Indian mathematics
+History Topics: An overview of the history of mathematics
+History Topics: Archimedes: Numerical Analyst
+History Topics: Doubling the cube
+History Topics: Extracts from Thomas Hirst's diary
+History Topics: Fermat's last theorem
+History Topics: General relativity
+History Topics: Infinity
+History Topics: Matrices and determinants
+History Topics: Memory, mental arithmetic and mathematics
+History Topics: Non-Euclidean geometry
+History Topics: Orbits and gravitation
+History Topics: Prime numbers
+History Topics: The Missing Planet
+History Topics: The development of Ring Theory
+History Topics: The development of group theory
+History Topics: The fundamental theorem of algebra
+History Topics: Topology and Scottish mathematical physics
+History Topics: Trisecting an angle
+Famous Curves: Frequency Curve
+Societies: Catalan Mathematical Society
+Societies: Max Planck Society for Advancement of Science
+Societies: Netherlands Academy of Sciences
+Societies: Royal Astronomical Society
+Student Projects: Sofia Kovalevskaya: Chapter 2
+Student Projects: Sofia Kovalevskaya: Chapter 7
+Student Projects: The development of Galois theory: Chapter 2
+Student Projects: The development of Galois theory: Chapter 4
+Other: 12th May
+Other: 15th April
+Other: 1893 International Mathematical Congress - Chicago
+Other: 1900 ICM - Paris
+Other: 1904 ICM - Heidelberg
+Other: 1928 ICM - Bologna
+Other: 1932 ICM - Zurich
+Other: 2009 Most popular biographies
+Other: 21st November
+Other: 29th September
+Other: 30th April
+Other: 30th March
+Other: 8th November
+Other: 9th October
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+Other: Earliest Known Uses of Some of the Words of Mathematics (E)
+Other: Earliest Known Uses of Some of the Words of Mathematics (F)
+Other: Earliest Known Uses of Some of the Words of Mathematics (G)
+Other: Earliest Known Uses of Some of the Words of Mathematics (K)
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Earliest Known Uses of Some of the Words of Mathematics (N)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Earliest Known Uses of Some of the Words of Mathematics (Q)
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+Other: Earliest Known Uses of Some of the Words of Mathematics (T)
+Other: Earliest Known Uses of Some of the Words of Mathematics (U)
+Other: Earliest Known Uses of Some of the Words of Mathematics (W)
+Other: Earliest Uses of Function Symbols
+Other: Earliest Uses of Symbols for Constants
+Other: Earliest Uses of Symbols for Matrices and Vectors
+Other: Earliest Uses of Symbols in Probability and Statistics
+Other: Earliest Uses of Symbols of Number Theory
+Other: Earliest Uses of Symbols of Operation
+Other: Fellows of the Royal Society of Edinburgh
+Other: Jeff Miller's postage stamps
+Other: London Learned Societies
+Other: Most popular biographies â 2024
+Other: Popular biographies 2018
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update December 1996
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

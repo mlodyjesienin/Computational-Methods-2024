@@ -1,0 +1,775 @@
+
+
+
+
+Outline of discrete mathematics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Discrete mathematical disciplines
+
+
+
+
+
+
+
+
+2
+Concepts in discrete mathematics
+
+
+
+
+Toggle Concepts in discrete mathematics subsection
+
+
+
+
+
+2.1
+Sets
+
+
+
+
+
+
+
+
+2.2
+Functions
+
+
+
+
+
+
+
+
+2.3
+Arithmetic
+
+
+
+
+
+
+
+
+2.4
+Elementary algebra
+
+
+
+
+
+
+
+
+2.5
+Mathematical relations
+
+
+
+
+
+
+
+
+2.6
+Mathematical phraseology
+
+
+
+
+
+
+
+
+2.7
+Combinatorics
+
+
+
+
+
+
+
+
+2.8
+Probability
+
+
+
+
+
+
+
+
+2.9
+Propositional logic
+
+
+
+
+
+
+
+
+
+
+3
+Mathematicians associated with discrete mathematics
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Outline of discrete mathematics
+
+
+
+1 language
+
+
+
+
+فارسی
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Overview of and topical guide to discrete mathematics
+Discrete mathematics is the study of mathematical structures that are fundamentally discrete rather than continuous.  In contrast to real numbers that have the property of varying "smoothly", the objects studied in discrete mathematics – such as integers,  graphs, and statements in logic[1] – do not vary smoothly in this way, but have distinct, separated values.[2] Discrete mathematics, therefore, excludes topics in "continuous mathematics" such as calculus and analysis.
+Included below are many of the standard terms used routinely in university-level courses and in research papers. This is not, however, intended as a complete list of mathematical terms; just a selection of typical terms of art that may be encountered.
+
+Logic – Study of correct reasoning
+Modal logic – Type of formal logic
+Set theory – Branch of mathematics that studies sets
+Number theory – Mathematics of integer properties
+Combinatorics – Branch of discrete mathematics
+Finite mathematics – Syllabus in college and university mathematics
+Graph theory – Area of discrete mathematics
+Digital geometry – Deals with digitized models or images of objects of the 2D or 3D Euclidean space
+Digital topology – Properties of 2D or 3D digital images that correspond to classic topological properties
+Algorithmics – Sequence of operations for a taskPages displaying short descriptions of redirect targets
+Information theory – Scientific study of digital information
+Computability – Ability to solve a problem in an effective manner
+Computational complexity theory – Inherent difficulty of computational problems
+Probability theory – Branch of mathematics concerning probability
+Probability – Branch of mathematics concerning chance and uncertainty
+Markov chains – Random process independent of past history
+Linear algebra – Branch of mathematics
+Functions – Association of one output to each input
+Partially ordered set – Mathematical set with an ordering
+Proofs – Reasoning for mathematical statements
+Relation – Relationship between two sets, defined by a set of ordered pairs
+
+Discrete mathematical disciplines[edit]
+For further reading in discrete mathematics, beyond a basic level, see these pages. Many of these disciplines are closely related to computer science.
+
+Automata theory – Study of abstract machines and automata
+Coding theory – Study of the properties of codes and their fitness
+Combinatorics – Branch of discrete mathematics
+Computational geometry – Branch of computer science
+Digital geometry – Deals with digitized models or images of objects of the 2D or 3D Euclidean space
+Discrete geometry – Branch of geometry that studies combinatorial properties and constructive methods
+Graph theory – Area of discrete mathematics a study of graphs – Vertices connected in pairs by edges
+Mathematical logic – Subfield of mathematics
+Discrete optimization – Branch of mathematical optimization
+Set theory – Branch of mathematics that studies sets
+Number theory – Mathematics of integer properties
+Information theory – Scientific study of digital information
+Game theory – Mathematical models of strategic interactions
+Concepts in discrete mathematics[edit]
+Sets[edit]
+Set (mathematics) – Collection of mathematical objects
+Element (mathematics) – Any one of the distinct objects that make up a set in set theory
+Venn diagram – Diagram that shows all possible logical relations between a collection of sets
+Empty set – Mathematical set containing no elements
+Subset – Set whose elements all belong to another set
+Union (set theory) – Set of elements in any of some sets
+Disjoint union – In mathematics, operation on sets
+Intersection (set theory) – Set of elements common to all of some sets
+Disjoint sets – Sets with no element in common
+Complement (set theory) – Set of the elements not in a given subset
+Symmetric difference – Elements in exactly one of two sets
+Ordered pair – Pair of mathematical objects
+Cartesian product – Mathematical set formed from two given sets
+Power set – Mathematical set containing all subsets of a given set
+Simple theorems in the algebra of sets
+Naive set theory – Informal set theories
+Multiset – Mathematical set with repetitions allowed
+Functions[edit]
+Function – Association of one output to each input
+Domain of a function – Mathematical concept
+Codomain – Target set of a mathematical function
+Range of a function – Subset of a function's codomain
+Image (mathematics) – Set of the values of a function
+Injective function – Function that preserves distinctness
+Surjection – Function such that every element has a preimage (mathematics)Pages displaying short descriptions of redirect targets
+Bijection – One-to-one correspondence
+Function composition – Operation on mathematical functions
+Partial function – Function whose actual domain of definition may be smaller than its apparent domain
+Multivalued function – Generalized mathematical function
+Binary function – Function that takes two inputs
+Floor function – Nearest integers from a numberPages displaying short descriptions of redirect targets
+Sign function – Mathematical function returning -1, 0 or 1
+Inclusion map – Set-theoretic function
+Pigeonhole principle – If there are more items than boxes holding them, one box must contain at least two items
+Relation composition – Mathematical operationPages displaying short descriptions of redirect targets
+Permutations – Mathematical version of an order changePages displaying short descriptions of redirect targets
+Symmetry – Mathematical invariance under transformations
+Arithmetic[edit]
+Decimal – Number in base-10 numeral system
+Binary numeral system – Number expressed in the base-2 numeral systemPages displaying short descriptions of redirect targets
+Divisor – Integer that is a factor of another integer
+Division by zero – Class of mathematical expression
+Indeterminate form – Expression in mathematical analysis
+Empty product – Result from multiplying no factors
+Euclidean algorithm – Algorithm for computing greatest common divisors
+Fundamental theorem of arithmetic – Integers have unique prime factorizations
+Modular arithmetic – Computation modulo a fixed integer
+Successor function – Elementary operation on a natural number
+Elementary algebra[edit]
+Elementary algebra – Basic concepts of algebra
+
+Left-hand side and right-hand side of an equation – Mathematical nomenclaturePages displaying short descriptions of redirect targets
+Linear equation – Equation that does not involve powers or products of variables
+Quadratic equation – Polynomial equation of degree two
+Solution point – Mathematical formula expressing equalityPages displaying short descriptions of redirect targets
+Arithmetic progression – Sequence of numbers
+Recurrence relation – Pattern defining an infinite sequence of numbers
+Finite difference – Discrete analog of a derivative
+Difference operator – Pattern defining an infinite sequence of numbersPages displaying short descriptions of redirect targets
+Groups – Set with associative invertible operation
+Group isomorphism – Bijective group homomorphism
+Subgroups – Subset of a group that forms a group itselfPages displaying short descriptions of redirect targets
+Fermat's little theorem – A prime p divides a^p–a for any integer a
+Cryptography – Practice and study of secure communication techniques
+Faulhaber's formula – Expression for sums of powers
+Mathematical relations[edit]
+Binary relation – Relationship between elements of two sets
+Heterogeneous relation – Relationship between elements of two setsPages displaying short descriptions of redirect targets
+Reflexive relation – Binary relation that relates every element to itself
+Reflexive property of equality – Relationship asserting that two quantities are the samePages displaying short descriptions of redirect targets
+Symmetric relation – Type of binary relation
+Symmetric property of equality – Relationship asserting that two quantities are the samePages displaying short descriptions of redirect targets
+Antisymmetric relation – Binary relation such that if A is related to B and is different from it then B is not related to A
+Transitivity (mathematics) – Type of binary relation
+Transitive closure – Smallest transitive relation containing a given binary relation
+Transitive property of equality – Relationship asserting that two quantities are the samePages displaying short descriptions of redirect targets
+Equivalence and identity
+Equivalence relation – Mathematical concept for comparing objects
+Equivalence class – Mathematical concept
+Equality (mathematics) – Relationship asserting that two quantities are the same
+Inequation – Mathematical statement that two values are not equal
+Inequality (mathematics) – Mathematical relation expressed with < or ≤
+Similarity (geometry) – Property of objects which are scaled or mirrored versions of each other
+Congruence (geometry) – Relationship between two figures of the same shape and size, or mirroring each other
+Equation – Mathematical formula expressing equality
+Identity (mathematics) – Equation that is satisfied for all values of the variables
+Identity element – Specific element of an algebraic structure
+Identity function – In mathematics, a function that always returns the same value that was used as its argument
+Substitution property of equality – Relationship asserting that two quantities are the samePages displaying short descriptions of redirect targets
+Graphing equivalence – Mathematical concept for comparing objectsPages displaying short descriptions of redirect targets
+Extensionality – Logic principle
+Uniqueness quantification – Logical property of being the one and only object satisfying a condition
+Mathematical phraseology[edit]
+If and only if – Logical connective
+Necessary and sufficient – Terms to describe a conditional relationship between two statementsPages displaying short descriptions of redirect targets
+Distinct – Relationship asserting that two quantities are the samePages displaying short descriptions of redirect targets
+Difference – One of the four basic arithmetic operations
+Absolute value – Distance from zero to a number
+Up to – Mathematical statement of uniqueness, except for an equivalent structure (equivalence relation)
+Modular arithmetic – Computation modulo a fixed integer
+Characterization (mathematics) – Term in mathematics
+Normal form – Standard representation of a mathematical objectPages displaying short descriptions of redirect targets
+Canonical form – Standard representation of a mathematical object
+Without loss of generality – Expression in mathematics
+Vacuous truth – Conditional statement which is true because the antecedent cannot be satisfied
+Contradiction – Logical incompatibility between two or more propositions, Reductio ad absurdum – Argument that leads to a logical absurdity
+Counterexample – Exception to a proposed general rule
+Sufficiently large – mathematical conceptPages displaying wikidata descriptions as a fallback
+Pons asinorum – Statement that the angles opposite the equal sides of an isosceles triangle are themselves equal
+Table of mathematical symbols – Meanings of symbols used in mathematicsPages displaying short descriptions of redirect targets
+Contrapositive – Mathematical logic conceptPages displaying short descriptions of redirect targets
+Mathematical induction – Form of mathematical proof
+Combinatorics[edit]
+Combinatorics – Branch of discrete mathematics
+
+Permutations and combinations – Selection of items from a set
+Permutation – Mathematical version of an order change
+Combination – Selection of items from a set
+Factorial – Product of numbers from 1 to n
+Empty product – Result from multiplying no factors
+Pascal's triangle – Triangular array of the binomial coefficients in mathematics
+Combinatorial proof – proofs in enumerative combinatorics based on bijections or double countings of combinatorial objectsPages displaying wikidata descriptions as a fallback
+Bijective proof – Technique for proving sets have equal size
+Double counting (proof technique) – Type of proof technique
+Probability[edit]
+Probability – Branch of mathematics concerning chance and uncertainty
+
+Average – Number taken as representative of a list of numbers
+Expected value – Average value of a random variable
+Discrete random variable – Variable representing a random phenomenonPages displaying short descriptions of redirect targets
+Sample space – Set of all possible outcomes or results of a statistical trial or experiment
+Event – In statistics and probability theory, set of outcomes to which a probability is assigned
+Conditional Probability – Probability of an event occurring, given that another event has already occurredPages displaying short descriptions of redirect targets
+Independence – When the occurrence of one event does not affect the likelihood of another
+Random variables – Variable representing a random phenomenonPages displaying short descriptions of redirect targets
+Propositional logic[edit]
+Logical operator – Symbol connecting sentential formulas in logicPages displaying short descriptions of redirect targets
+Truth table – Mathematical table used in logic
+De Morgan's laws – Pair of logical equivalences
+Open sentence – formula that contains at least one free variablePages displaying wikidata descriptions as a fallback
+List of topics in logic – Overview of and topical guide to logicPages displaying short descriptions of redirect targets
+Mathematicians associated with discrete mathematics[edit]
+This section needs expansion. You can help by adding to it.  (January 2016)
+Paul Erdős – Hungarian mathematician (1913–1996)
+Leonhard Euler - Swiss mathematician (1707-1783)
+Richard Karp - American computer scientist (b. 1935)
+Ronald Graham – American mathematician (1935–2020)
+Claude Shannon - American mathematician (1916-2001)
+Donald Knuth - American mathematician and computer scientist (b. 1938)
+George Szekeres – Hungarian-Australian mathematician
+Aristotle – Ancient Greek philosopher and polymath (384–322 BC)
+See also[edit]
+
+Mathematics portal
+
+References[edit]
+
+
+^ Richard Johnsonbaugh, Discrete Mathematics, Prentice Hall, 2008; James Franklin, Discrete and continuous: a fundamental dichotomy in mathematics, Journal of Humanistic Mathematics 7 (2017), 355-378.
+
+^ Weisstein, Eric W. "Discrete mathematics". MathWorld.
+
+
+External links[edit]
+Archives
+Jonathan Arbib & John Dwyer, Discrete Mathematics for Cryptography, 1st Edition ISBN 978-1-907934-01-8.
+John Dwyer & Suzy Jagger, Discrete Mathematics for Business & Computing, 1st Edition 2010 ISBN 978-1-907934-00-1.
+vteWikipedia outlinesGeneral reference
+Culture and the arts
+Geography and places
+Health and fitness
+History and events
+Mathematics and logic
+Natural and physical sciences
+People and self
+Philosophy and thinking
+Religion and belief systems
+Society and social sciences
+Technology and applied sciences
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Outline_of_discrete_mathematics&oldid=1202490343"
+Categories: Outlines of mathematics and logicOutlinesDiscrete mathematicsMathematics-related listsHidden categories: Articles with short descriptionShort description is different from WikidataPages displaying short descriptions of redirect targets via Module:Annotated linkPages displaying wikidata descriptions as a fallback via Module:Annotated linkArticles to be expanded from January 2016All articles to be expandedArticles using small message boxes
+
+
+
+
+
+
+ This page was last edited on 2 February 2024, at 22:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

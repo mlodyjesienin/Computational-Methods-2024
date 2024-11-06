@@ -1,0 +1,2122 @@
+
+
+Security Classification of Information, volume 1 (Quist), Chapter Four
+
+Security Classification of Information:  Table of Contents
+
+Copyright  (c) Arvin S. Quist
+
+
+
+ 
+ 
+ 
+Chapter 4
+CLASSIFICATION UNDER THE
+ATOMIC ENERGY ACT
+ 
+ 
+ 
+INTRODUCTION
+ 
+The Atomic Energy Act of 1946 was
+the first and, other than its successor, the Atomic Energy Act of 1954, to date
+the only U.S. statute to establish a program to restrict the dissemination of
+information. This Act transferred control of all aspects of atomic (nuclear)
+energy from the Army, which had managed the government's World War II Manhattan
+Project to produce atomic bombs, to a five-member civilian Atomic Energy
+Commission (AEC). These new types of bombs, of awesome power, had been
+developed under stringent secrecy and security conditions. Congress, in
+enacting the 1946 Atomic Energy Act, continued the Manhattan Project's
+comprehensive, rigid controls on U.S. information about atomic bombs and other
+aspects of atomic energy. That Atomic Energy Act designated the atomic energy
+information to be protected as "Restricted Data" and defined that data. Two
+types of atomic energy information were defined by the Atomic Energy Act of
+1954, Restricted Data (RD) and a type that was subsequently termed Formerly
+Restricted Data (FRD).
+ 
+Before discussing further the
+Atomic Energy Act of 1946 and its unique requirements for controlling atomic
+energy information, some of the special information-control activities that
+accompanied the research, development, and production efforts that led to the
+first atomic bomb will be mentioned. Realization that an atomic bomb was
+possible had a profound impact on the scientists who first became aware of that
+possibility. The implications of such a weapon were so tremendous that the U.S.
+scientists conducting the initial, basic research related to nuclear fission
+voluntarily restricted the publication of their scientific work in this area.
+Such restrictions on scientific publications were extraordinary, considering
+the long tradition of academic scientists (the early "atomic energy"
+researchers were mostly associated with universities) to disseminate research
+results freely.[*]
+ 
+In addition to reviewing events
+preceding establishment of the Manhattan Project, a brief look at this
+project's information-control activities is of interest because the totality of
+this project's information-control activities was unprecedented in the United
+States. That rigorous information control encompassed not only military and
+civilian government employees but also included, for the first time, many
+employees of private corporations, colleges, and universities. The Manhattan
+Project is also the most outstanding example, because of its size and the
+far-reaching effect of its efforts, of the rapid application of basic
+scientific research and technology to provide a weapon that influenced the
+ending of a major war. One of the consequences of the depth and breadth of the
+active participation of many top U.S. academic scientists in this very secret
+wartime project was that the subsequent peacetime control of scientific and
+technical information did not seem as unusual or unacceptable to those
+scientists as similar measures would have been prior to World War II.
+ 
+ 
+ATOMIC ENERGY
+INFORMATION CONTROL BEFORE THE ATOMIC ENERGY ACT OF 1946
+ 
+The possibility of generating large
+amounts of energy by the neutron-induced fission of relatively small amounts of
+uranium was first recognized in the December 1938January 1939 time period.
+Experiments at the Kaiser-Wilhelm Institute in Berlin in December 1938 by
+chemists Otto Hahn and Fritz Strassmann proved that the nucleus of the uranium
+atom was split by neutrons. Those results were soon confirmed at laboratories
+in other countries, where the large amount of energy released during fission
+was also measured. Additional experimental and theoretical studies, in February
+and March 1939, indicated that two or three neutrons were produced during
+uranium fission and that U-235 was probably the fissionable uranium isotope.[1] This
+knowledge led many physicists to recognize the distinct possibility that an
+extremely powerful bomb might be made with uranium enriched in the U-235
+isotope and that such a bomb would have a revolutionary effect on warfare.
+ 
+Some scientists working in the
+United States, especially those who were emigrés or refugees from Germany,
+Hungary, Italy, and other European countries, were very concerned that Nazi
+Germany, where the basic discovery was made, would rapidly exploit this
+possibility. Therefore, those scientists sought, by informal agreement
+(primarily between U.S., English, and French physicists), to withhold
+voluntarily from publication that scientific information (experimental results
+and theoretical studies) related to the fission of uranium and production of
+plutonium. Leo Szilard, then at Columbia University, was one of the first to
+initiate such efforts,[]
+beginning in February 1939. Because of communication difficulties, principally
+with Frederic Joliot (Joliot-Curie), the leader of the French research in that
+area, the initial attempts did not succeed. However, most of the U.S. and
+English scientists working in this area were receptive to a proposal that they
+submit their results for publication (to establish priority of discovery) but
+request the journal to withhold publication until a later date. The editors of
+the major scientific journals also agreed to that procedure. However, because of
+the communication difficulties noted above and because there was not complete
+agreement among U.S. scientists of a need to withhold such information, the
+procedure was not implemented in 1939.
+ 
+After unsuccessful initial attempts
+to restrict the dissemination of nuclear-fission information, Szilard and other
+U.S. scientists continued to press for voluntary controls on this information.
+The subject was discussed with a U.S. Government committee (The Advisory
+Committee on Uranium) that was formed in October 1939 to coordinate nuclear
+fission work in the United States.[2] The
+Advisory Committee on Uranium was not interested in establishing controls on
+information. However, Admiral H. Bowen, present as an observer at an April 27,
+1940, Committee meeting, suggested that the scientists themselves impose
+whatever censorship they felt necessary; the government would do nothing.2
+The scientists did, in fact, withhold several significant papers from
+publication, Szilard perhaps being the first to do so, in February 1940.[3]
+Probably the most important of those papers to be voluntarily withheld was a
+report concerning the neutron-absorption cross-section of carbon. That report
+indicated that carbon (e.g., graphite) would be an excellent moderator for a
+nuclear reactor. The subsequent, very successful, U.S. nuclear-reactor effort
+was therefore oriented toward using graphite as a moderator. German scientists
+made similar measurements, obtained erroneous results, and concluded that
+graphite was not a good moderator.[4] For
+the remainder of World War II, the Germans ignored graphite as a moderator,
+turning instead to heavy water (deuterium oxide). They were never able to
+obtain sufficient quantities of heavy water to do key experiments. Had German
+scientists learned of the U.S. results, their efforts to develop nuclear
+weapons might have been significantly different from their actual program.
+ 
+Another significant paper
+voluntarily withheld from publication by U.S. scientists concerned the
+preparation of a new, fissionable element (plutonium) by a new process,
+bombarding U-238 with neutrons in a nuclear reactor. Information in this paper,
+written by Princeton physicist L. A. Turner, might have led German scientists
+to try to use plutonium in a nuclear weapon, a different and, perhaps in some
+aspects, easier path for obtaining fissionable materials than using uranium
+highly enriched in U-235.2,[]
+ 
+The secrecy issue concerning
+scientific papers on nuclear fission was finally resolved in early June 1940.
+At the initiative of Gregory Breit,[§] a
+member of the National Academy of Sciences, the National Research Council
+established a committee to control the publication of militarily significant
+research.[5] Breit
+was chairman of a subcommittee on uranium (Reference Committee[6]) and
+he put into effect a procedure whereby papers concerning nuclear fission would
+be reviewed by his committee before their publication.[7]
+"Sensitive" papers would be distributed only to a limited number of
+researchers. Those papers would ultimately be published with their original
+date, to establish priority of discovery. Therefore, long before the United
+States entered World War II, U.S. scientists were severely restricting the
+dissemination of certain scientific information,[**]
+without governmental urging or participation.[8],[9],[]
+ 
+In June 1940, the government's
+Advisory Committee on Uranium became a subcommittee of the National Defense
+Research Council (NDRC), which was established, largely through the efforts of
+Vannevar Bush, by the Council of National Defense with the approval of
+President Roosevelt on June 27, 1940.[10]
+President Roosevelt appointed Bush (president of the Carnegie Institution in
+Washington, D.C.) as chairman of the eight-member NDRC. Other appointees were
+R. C. Tolman (Vice-Chairman, professor of physical chemistry and
+mathematical physics at the California Institute of Technology, although then
+in Washington working for the Navy[11]), K.
+T. Compton (president of the Massachusetts Institute of Technology), J. B.
+Conant (president of Harvard University), C. P. Coe (Commissioner of Patents),
+Adm. H. G. Bowen (Department of the Navy), F. B. Jewett (president of the
+National Academy of Sciences and also president of Bell Telephone
+Laboratories), and Gen. G. V. Strong (War Department).[12]
+ 
+The NDRC's purpose was to have civilian
+scientific and technical experts become familiar with the military's weapons
+needs so that these civilian experts could inform the military on how the
+latest advances in science could help the military.[13]
+Although this arrangement had the approval of the top military leaders, many in
+the lower echelons were skeptical of such a program. The NDRC leaders
+recognized that they would have to gain the confidence of the military to
+establish an effective working relationship. In this regard, the NDRC realized
+that one of the first things they had to do was to convince the military that
+this organization of civilian scientists could keep secrets. Therefore, each
+committee member took an oath of allegiance to the United States and required
+all staff members and appointees to do likewise.[14]
+Chief investigators were required to sign secrecy pledges.[15] "The
+Committee felt it desirable to place such stress upon secrecy because the
+tradition of scientists in academic institutions is to give wide distribution
+to the results of their research."[16]
+ 
+ 
+The NDRC also adopted the
+"compartmentalization" principle: no person "would be given any classified
+information except that needed for the performance of the particular tasks
+which had been entrusted to him."[17]
+Although, in retrospect, the secretary of the NDRC stated that the rigid
+compartmentalization practiced by the NDRC was not needed,[],[18]
+he also stated, "It is highly probable, however, that the existence of
+compartmentalization made the armed services more willing to entrust their
+classified information to the NDRC during the early period when the ability of
+the organization to keep secrets had not yet been demonstrated."[19]
+Thus, it appears that rigid "compartment­alization" of scientific and technical
+information on military projects, about which many scientists involved in the
+Manhattan Project later complained, was not first instituted by the military,
+as has been so often presumed, but was initially imposed by some of the
+nation's top scientific and technical administrators to convince the military
+that scientists and engineers could be trusted to keep secrets.[§§] 
+ 
+Procedures for classifying
+information and for handling classified information were adopted by the NDRC at
+its second meeting, held in August 1940.[20] Army
+and Navy procedures were adopted. In case of conflict, the more stringent rule
+was to be used. Originators of information would provisionally classify it; the
+NDRC secretary made the final classification decision.[21] The
+NDRC also required security clearances from the Army and the Navy, depending
+upon which service was sponsoring the research, for all key NDRC employees.[22]
+ 
+ 
+ 
+On June 28, 1941, the NDRC and its
+Committee on Uranium became part of the Office of Scientific Research and
+Development (OSRD),[***] which was
+established by President Roosevelt's Executive Order 8807.[23] The
+name of the Committee on Uranium was changed to "Section on Uranium" to
+correspond to OSRD terminology. Later, the name "uranium" was dropped (for
+security reasons), and the organization was called Sect. S‑1.[24]
+Classification and security arrangements remained about the same because the
+OSRD patterned its classification and security systems after those implemented
+earlier by the NDRC.[25],[26]
+Security clearances were required of all OSRD employees before they could have
+access to classified information.[27]
+ 
+On October 9, 1941, Bush briefed
+President Roosevelt and vice-President Henry A. Wallace on the uranium program.
+President Roosevelt decided that the work should be expedited. He also created
+a Top Policy Group to guide atomic energy matters. That group included
+Secretary of War Stimson and Army Chief of Staff George C. Marshall, thereby
+essentially deciding that the Army would manage administration and construction
+when the effort became a "major" project.[28] This
+responsibility was transferred to the Army on June 17, 1942.[29]
+However, the Army had begun planning for assumption of this responsibility some
+time earlier, perhaps in mid-to-late March 1942.[30]
+ 
+The U.S. Army Corps of Engineers'
+Manhattan Engineering District was subsequently formed to manage the atomic
+bomb project (the Manhattan Project). The Army reorganized and expanded the
+OSRD (NDRC) security system and brought it under the control of the Manhattan
+Engineering District. "The system that finally evolved was in many respects
+unique and introduced a number of innovations in technique and organization
+that subsequently would be adopted as standard features of government security
+programs."[31] Secrecy
+conditions within the Manhattan Project were said to be "quite exceptional as
+compared with those in other scientific projects engaged in the work of the war
+just ended."[32] The degree
+of control and secrecy imposed was "unprecedented in the annals of military
+technological development."[33]
+Information concerning
+the Manhattan Project was tightly controlled by the Army throughout that
+project. In applying Army Regulation 380-5 (see Chapter 2), which dealt with
+safeguarding military information, particular emphasis was placed on limiting
+the amount of classified information available to individuals or groups.
+General Groves insisted on strict compartmentalization of knowledgethe "need
+to know" requirement.[] He
+was said to have "a passion for security' exceptional even in a military
+commander."[34] The
+Manhattan Engineering District established two basic rules on access to
+classified information: (1) "a person must need the information to carry out
+his job," and (2) a person could "have access only to the amount of information
+necessary for him to execute his function.' "[35],[36]
+This stringent compartmental-ization policy was applied to all aspects of the
+Manhattan Project and caused a significant delay in progress in at least one
+instance.[] 
+ 
+Compartmentalization may also have
+been used to keep the scientists' attention focused on their particular task
+and to keep them from becoming interested, at the expense of their primary
+responsibilities, in other intriguing scientific questions not directly related
+to their tasks.[§§§] Because
+of this compartmentalization policy, extensive protocols had to be established
+to regulate information exchange between, for example, the Los Alamos
+laboratory and the Metallurgical Laboratory in Chicago. Also because of
+compartmentalization, a nuclear criticality incident allegedly almost occurred
+at the Y-12 electromagnetic separation plant in Oak Ridge.[****]
+ 
+As a consequence of the previously
+mentioned classification and security restrictions, the Manhattan Project was
+one of the best-kept secrets of World War II.[]
+Relatively few persons, even in the highest levels of government, knew its
+purpose until the first atomic bomb was dropped on Hiroshima, Japan, on August
+6, 1945.[],[§§§§]
+ 
+Administratively, classification
+aspects of the Manhattan Project were initially the responsibility of the
+District's "Protective Security Section."[37] By
+February 1943 a "Protective Security Manual" had been prepared. In August 1943
+the Plant Security Section for Safeguarding Military Information (SMI) was
+established. An intelligence bulletin issued in November 1943 detailed how
+military information was to be safeguarded. In May 1944, a separate SMI section
+was established, and an expanded classification and security program was
+implemented. This section was designated the SMI Branch in 1945.
+ 
+In November 1945, the Manhattan
+District issued a security manual that covered all aspects of classification
+and security.[38]
+"Classified information" was defined as information that had been officially
+designated Top Secret, Secret, Confidential, or Restricted. Examples were given
+of information that should be classified as Secret Matter, Confidential Matter,
+or Restricted Matter. Examples of Top Secret information were given in another
+document. Restricted Matter encompassed "relatively unimportant administrative
+matters" and also "relatively unimportant technical and operating information,"
+both of which "should not be disclosed to the general public except on a
+controlled basis."
+ 
+ 
+ATOMIC ENERGY
+INFORMATION CONTROL UNDER THE ATOMIC ENERGY ACT OF 1946
+ 
+The devastating power of the atomic
+bomb, its dramatic role in ending the war, and the secrecy surrounding its
+development had a major impact on Congress and the American public.[*****]
+Postwar discussions on the control of the U.S. atomic-energy program produced
+consensus that some special statutory control over atomic energy was necessary.
+Some persons wanted continued tight control on all information related to
+nuclear weapons. Others were concerned that continued strict control of basic
+research in this area would hinder progress in the development of atomic
+energy, to the detriment of the nation.[]
+The first draft of what was to become the Atomic Energy Act of 1946, introduced
+by Senator McMahon on December 20, 1945, attempted to distinguish between
+"basic scientific information" and "related technical information." Information
+concerning basic nuclear energy research would not be controlled, but the
+dissemination of related technical information would be restricted. However, it
+was found to be difficult to establish a dividing line between those two types
+of information,[] and the
+final version of the Atomic Energy Act of 1946 (also known as the McMahon Act),
+which became law on August 1, 1946, stringently controlled all atomic-energy
+information.
+ 
+The legislative history of the
+Atomic Energy Act of 1946 indicates that Congress was, at that time, much more
+interested in tight control of atomic-energy information than in its
+dissemination. Congress was influenced, during its deliberations on this Act,
+by concerns that the Espionage Act of 1917 was inadequate to protect
+atomic-energy information to the extent determined necessary by Congress. Those
+worries were reinforced by the news, in early 1946, of Soviet espionage
+activities in the United States and Canada that were directed toward atomic-energy
+information. Congress ultimately decided that the subject of atomic energy
+required unique controls because its component parts (atomic weapons, atomic
+power, and atomic science) were largely inseparable. Consequently, Congress
+adopted controls on this subject that went beyond those ever imposed by
+Congress, before or after.[39]
+ 
+In the final version of the Atomic
+Energy Act of 1946, Congress established a special category of information
+called "Restricted Data." Restricted Data (RD) was defined to encompass "all
+data concerning the manufacture or utilization of atomic weapons, the
+production of fissionable material, or the use of fissionable material in the
+production of power." Thus, by operation of law, nearly all atomic (nuclear)
+energy information fell within the definition of RD. The Atomic Energy Act
+authorized the AEC to control the dissemination of RD, specifying as a
+prerequisite to access to this information that an individual must have a
+security clearance. The controls imposed by Congress on the dissemination of RD
+were unusually rigorous, leading two authors to comment as follows on the
+information-control provisions of the Atomic Energy Act:
+ 
+The information section of the Act reveals the
+atavistic depths that have been stirred by the release of atomic energy. The
+response to this greatest of all triumphs of scientific method and creative
+intelligence has been in some respects closely akin to the practice of magic
+among the most primitive of tribes. Having in their possession a fearful image
+of the god of war, which makes them stronger than all their enemies, the tribe
+is obsessed with the fear that the image may be stolen or duplicated and their
+exclusive claim to the deity's favor lost. So a temple is built, ringed about
+by walls, and guarded by untiring sentinels. Those whose function it is to
+attend the deity are carefully chosen and subjected to purification rites; they
+are forbidden ever to look upon the whole image or to speak of what they have
+seen. They are guarded with unceasing vigilance, and at the slightest sign of
+defection condign punishment is visited upon them.[40]
+ 
+Two particularly unique and
+significant aspects of RD warrant emphasis. First, a positive action is not
+required to put information into the RD category. If information falls within
+the Act's definition of RD, it is in this category from the moment of its
+origination; that is, it is "born classified." The government has no power to
+determine that information is RD,[§§§§§]
+only the power to declassify RD. (The Atomic Energy Act of 1954 gave the AEC
+the power to remove RD to another classification category, to transclassify
+RD.) The "born classified" concept is unique with RD.[******]
+This concept assumes that newly discovered atomic-energy information might be
+so significant with respect to the nation's security that it requires immediate
+and absolute control.[41],[]
+Information classified by executive order (currently termed classified national
+security information) is not so designated until an original classifier makes a
+positive determination that the information falls within the definition of
+classified national security information.[]
+Donald B. Woodbridge, former Department of Energy Contractor Classification
+Officer, has characterized the term "born classified" as words that "give the
+professional classificationist unanswerable authority."[42]
+ 
+Although RD is said to be born
+classified, the Atomic Energy Act does not specifically designate it as
+"classified" information. The Act defines RD and prescribes very strict methods
+for its control without stating that it is "classified" information. However,
+the Act does describe declassification of RD; therefore, by implication, RD is
+"classified."
+ 
+ 
+A second unique aspect of RD is
+that information does not have to be owned or controlled by the government to
+be classified as RD.[§§§§§§]
+Private individuals or organizations may originate RD, which then becomes
+controlled by the Atomic Energy Act.[43] The
+circumstance could even arise in which an individual could originate RD and
+then not be allowed to possess it because of lack of security clearance or
+"need to know." The Atomic Energy Act does not forbid an individual to generate
+RD, but, once RD is generated, the Act prohibits its communication to persons
+not authorized to receive it. Recent (1998) DOE regulations state that  "In order for information privately generated
+by persons to be classified as RD, the Secretary or Deputy Secretary shall make
+the determination personally and in writing. This authority shall not be delegated."[44]
+ 
+
+The first
+classification of privately generated RD under this regulation occurred on June
+26, 2001. The Secretary of Energy determined that certain privately generated
+information concerning the Separation of Isotopes by Laser Excitation (SILEX)
+process was RD.[45]
+ 
+Controversies over the governmental
+control of privately generated RD have arisen several times. In March 1950, the
+AEC requested the magazine Scientific
+American to delete certain portions of an article by H. A. Bethe concerning
+the hydrogen bomb. The magazine complied with the AEC's request by deleting
+several sentences from the article, destroying the printing plates of the
+deleted material, and destroying 3000 copies of the magazine that had already
+been printed.[46] In the
+mid-to-late l960s, four companies, initially granted access permits to carry
+out private research on gas-centrifuge uranium enrichment, were requested by
+the AEC to discontinue this research. The companies complied.[47] In
+the late 1960s and early 1970s, questions arose about the control of RD
+generated by a private company that was investigating controlled thermonuclear
+reactions. Another instance occurred in 1979 when The Progressive magazine planned to publish an article on the
+hydrogen bomb. The government obtained a preliminary injunction, at the Federal
+District Court level, preventing publication of that article. This is the only
+instance of governmental litigation dealing with the control of RD against a
+noncomplying private party.[48] The
+government discontinued the lawsuit, and the injunction was lifted when
+essentially the same information was published elsewhere.[49]
+ 
+The Atomic Energy Act of 1946 was
+amended by Congress in 1951 to make certain atomic-energy information available
+to other countries. The information that could be provided included "refining,
+purification, and subsequent treatment of source material; reactor development;
+production of fissionable materials;" and related research and development.[50]
+Before providing other countries with such data, the President had to obtain a
+written recommendation from the National Security Council and then determine,
+in writing, that the information transfer would not endanger the common defense
+and security of the United States.[51] The
+Joint Committee on Atomic Energy had to be fully informed of these matters.[52]
+ 
+ 
+ 
+ 
+ATOMIC-ENERGY
+INFORMATION CONTROL UNDER THE ATOMIC ENERGY ACT OF 1954
+ 
+The Atomic Energy Act of 1946 was
+replaced on August 30, 1954, by the Atomic Energy Act of 1954.[53]
+Major changes from the 1946 Act included an increased emphasis on wider
+dissemination of atomic-energy information to make more of it accessible to
+U.S. industry and to the world. Access to more atomic-energy information by
+U.S. industry was necessary for the development of nuclear reactors for
+commercial production of electric power. U.S. industry showed considerable
+interest in the commercial possibilities of atomic energy, and Congress showed
+significant support for industry's participation in the development of atomic
+energy. This information was provided to the rest of the world as a consequence
+of President Eisenhower's Atoms For Peace initiative, which was presented in a
+speech to the United Nations on December 8, 1953, and the President's desire to
+provide certain RD concerning industrial applications of atomic energy to
+"friendly" nations.[54],[*******]
+ 
+With the passage of the Atomic
+Energy Act of 1954, the United States had changed a basic assumption on
+atomic-energy information control. Whereas in the 1946 Act the assumption was
+that helping countries to build nuclear reactors helped them to build atomic
+weapons[]
+and that such help should not be provided except under very special
+circumstances, the 1954 Act supported assistance to other nations to build
+reactors and relied on the use of safeguards to prevent diversion for military
+purposes.[55] Because of
+the generally accepted fact that nations with nuclear reactors would gain the
+capability to produce nuclear weapons,[],[56]
+a consequence of the 1954 Atomic Energy Act was an implicit acceptance of the
+risk that nations that the United States provided with nuclear reactors would
+use them to make nuclear weapons.
+ 
+
+With respect to
+atomic-energy-information classification,
+the Atomic Energy Act of 1954 substantively differed little from the 1946 Act.
+Atomic-energy information continued to be "born classified," and it remained in
+the total control of the AEC. Restricted Data was defined in the 1954 Act as
+"all data concerning (1) design, manufacture, or utilization of atomic weapons;
+(2) the production of special nuclear material; or (3) the use of special
+nuclear material in the production of energy, but shall not include data
+declassified or removed from the Restricted Data category pursuant to section
+2162 of this title."[57] This
+definition of Restricted Data differed only slightly from that in the 1946
+Atomic Energy Act, which stated that "the term restricted data' as used in
+this section means all data concerning the manufacture or utilization of atomic
+weapons, the production of fissionable material, or the use of fissionable
+material in the production of power, but shall not include any data which the
+Commission from time to time determines may be published without adversely
+affecting the common defense and security."[58] Note
+that the 1954 Act included information on the design of atomic weapons as being RD. The 1946 Act mentioned only
+information on the manufacture or utilization of atomic weapons as being RD.
+Also, the term "fissionable material" in the 1946 Act was replaced with the
+term "special nuclear material"[§§§§§§§]
+and its use in the production of "power" was replaced with production of
+"energy."
+ 
+With respect to the control of
+information, the 1954 Act stated:
+ 
+It shall be the policy of the Commission to control
+the dissemination and declassification of Restricted Data in such a manner as
+to assure the common defense and security. Consistent with such policy the
+Commission shall be guided by the following principles:
+ 
+(a) Until effective and
+enforceable international safeguards against the use of atomic energy for
+destructive purposes have been established by an international arrangement, there shall be no
+exchange of Restricted Data with other nations except as authorized by section
+2164 of this title; and
+ 
+(b) The dissemination of
+scientific and technical information relating to atomic energy should be
+permitted and encouraged so as to provide that free interchange of ideas and
+criticism which is essential to scientific and industrial progress and public
+understanding and to enlarge the fund of technical information.[59]
+ 
+It
+is interesting to compare Sect. (b) with the comparable section of the 1946
+Act, which stated that
+ 
+the dissemination of
+scientific and technical information relating to atomic energy should be
+permitted and encouraged so as to provide that free interchange of ideas and
+criticisms which is essential to scientific progress.[60]
+ 
+The
+1954 Act added "industrial progress," "public understanding," and "enlarge the
+fund of technical information" as reasons to disseminate atomic-energy
+information. Those additions provided the basis for the subsequent
+declassification or downgrading of much atomic-energy information.
+ 
+With
+respect to declassification of information, the 1954 Act stated:
+ 
+The Commission shall from
+time to time determine the data, within the definition of Restricted Data,
+which can be published without undue risk to the common defense and security
+and shall thereupon cause such data to be declassified and removed from the
+category of Restricted Data.[61]
+ 
+The
+1946 Act had permitted declassification of RD only when the AEC determined that
+it could be published without "adversely affecting the common defense and
+security."[********],[62]
+The 1954 Act changed "adversely affecting" to "undue risk," thereby shifting
+the balancing test towards declassification of more information. The "without
+adversely affecting" test was a severe one. The "undue risk" test allows more
+judgment in a declassification decison[]
+and was intended to allow declassification of more atomic-energy information.[63]
+ 
+The
+increased emphasis of the 1954 Act in disseminating atomic energy information
+is further exemplified by a continuous review requirement:
+ 
+The Commission shall
+maintain a continuous review of Restricted Data and of any Classification
+Guides issued for the guidance of those in the atomic energy programs with
+respect to the areas of Restricted Data which have been declassified in order
+to determine which information may be declassified and removed from the
+category of Restricted Data without undue risk to the common defense and
+security.[64]
+ 
+The
+1954 Act allowed the removal of certain weapons-related information from the RD
+category and specified that this information could be placed in a new category
+(subsequently designated as Formerly Restricted Data,[]
+or FRD):
+ 
+The Commission shall remove
+from the Restricted Data category such data as the Commission and the
+Department of Defense jointly determine relates primarily to the military
+utilization of atomic weapons and which the Commission and the Department of
+Defense jointly determine can be adequately safeguarded as defense information:
+Provided, however, That no such data so removed from the Restricted Data
+category shall be transmitted or otherwise made available to any nation or
+regional defense organization, while such data remains defense information,
+except pursuant to an agreement for co-operation entered into in accordance
+with Section 2164(a) of this title.[65],[§§§§§§§§]
+ 
+"Defense
+information" was defined by the Act to mean "any information in any category
+determined by any Government agency authorized to classify information respecting,
+relating to, or affecting the national defense."[*********],[66]
+This new FRD category of atomic energy information dealt mainly with military utilization of nuclear weapons, not
+their design and development. FRD could be made accessible to military personnel
+on the basis of their military security clearances; special security clearances
+required for access to atomic energy information were not required.
+ 
+The
+1954 Act provided that RD placed in the FRD category may also be published
+(presumably after being declassified):
+ 
+In the case of Restricted
+Data which the Commission and the Department of Defense jointly determine to
+relate primarily to the military utilization of atomic weapons, the
+determination that such data may be published without constituting an unreasonable
+risk to the common defense and security shall be made by the Commission and the
+Department of Defense jointly, and if the Commission and the Department of
+Defense do not agree, the determination shall be made by the President.[67]
+ 
+Note
+that the test for declassification of FRD is "unreasonable risk" as contrasted
+to "undue risk" for declassification of RD. The same "unreasonable risk" test
+is used in the sections of the 1954 Act dealing with international cooperation.
+Restricted Data may, if special conditions have been met, be shared with other
+nations if such sharing "will not constitute an unreasonable risk to the common
+defense and security."[68] Yet
+another test is described with regard to access to RD by employees of the AEC
+(now the Department of Energy and the Nuclear Regulatory Commission) and its
+contractors. For such access, a determination must be made that such access
+"will not endanger the common defense and security."[69]
+ 
+Information
+concerning atomic-energy programs of other countries is also encompassed by the
+1954 Act:
+ 
+The Commission shall remove
+from the Restricted Data category such information concerning the atomic energy
+programs of other nations as the Commission and the Director of the Central
+Intelligence Agency jointly determine to be necessary to carry out the
+provisions of Section 403(d) of Title 50 and can be adequately safeguarded as
+defense information.[70]
+ 
+Thus,
+the Atomic Energy Act specifically implies that atomic-energy information
+originating from foreign countries is RD[]
+and that this RD may be placed in the "classified national security
+information" category by joint DOE-Central Intelligence Agency (CIA)
+determination.[],[§§§§§§§§§]
+ 
+Prior
+to the Atomic Energy Act of 1954, access to RD by private persons for
+commercial purposes (e.g., development of commercial nuclear power reactors)
+was very limited. Generally, the only reason for allowing private persons to
+have access to such data was on a need-to-know basis, in connection with
+national-defense work. However, in 1951 the AEC initiated a program of "study
+group agreements" allowing private industry to participate on the study
+teams; eighteen such study teams had
+been established by December 1954.[71]
+Although the 1954 Act envisioned the commercial development of nuclear energy,
+the Act contained no express provisions permitting access to RD for commercial
+purposes. This hurdle was overcome when the AEC used its administrative powers
+to establish, on April 20, 1955, an Access Permit Program.[72],[73]
+Under this program, a permittee is able to have access to RD "applicable to
+civil uses of atomic energy for use in his business, trade or profession."[74] A
+description of the Access Permit Program shortly after it was established is
+contained in an article by H. P. Green.[75]
+ 
+The
+1954 Act also encouraged wider dissemination of classified atomic-energy
+information to commercial enterprises by establishing different kinds of
+personnel clearances that depended upon the classification of the information
+that an individual could receive. Full clearances (access to any classified
+data) continued to require "Q" clearances, but under the 1954 Act the
+Commission established "L" (limited" access) clearances whose holder could have
+access to Confidential atomic-energy information (also termed, at that time,
+"gray areas" of information).[76]
+ 
+The
+cumulative effect of the above-mentioned changes in the Atomic Energy Act were
+substantial, although the statutory expression of policy changes were mostly
+implicit, rather than explicit, in the 1954 Act.[77] The
+Atomic Energy Act of 1954 neither significantly changed the definition of RD
+nor relinquished the AEC's statutory control of RD. However, the Act loosened
+restrictions on providing RD or FRD to others and on its declassification,
+thereby ultimately releasing much atomic-energy information to the public.
+ 
+The
+Energy Reorganization Act of 1974[78]
+divided the AEC into the Energy Research and Development Administration (ERDA)
+and the Nuclear Regulatory Commission. ERDA became operational on January 19,
+1975.[79] One
+major purpose of the split was to separate the regulation of commercial uses of
+atomic energy from the government's programs that promoted such uses. ERDA was
+assigned authority for the control and declassification of atomic-energy
+information. ERDA was abolished by the Department of Energy Organization Act of
+August 4, 1977,[80] and its
+activities were assigned to the Department of Energy (DOE). Statutory authority
+to declassify RD and FRD was assigned to the Secretary of Energy. That
+authority was subsequently delegated to the Director of Security Affairs.
+ 
+ 
+DEPARTMENT OF ENERGY
+CLASSIFICATION REGULATIONS - 10 CFR 1045
+ 
+
+In 1998,
+DOE published regulations concerning its policies and procedures on the
+identification of classified information and its declassification.[81]
+Those regulations encompassed RD and FRD as well as information classified
+under Executive Order 12958. This was the first time that regulations on
+classification and declassification of RD and FRD were codified by DOE or its
+predecessors.
+ 
+
+Section
+1045.15 of the regulations establishes presumptions about classification and
+declassification. Information in 14 identified areas is to be presumed
+unclassified unless application of specified criteria indicate otherwise.
+Information in 6 identified areas is presumed to be classified unless
+application of specific criteria indicate otherwise.
+ 
+Criteria for evaluating information
+with respect to RD and FRD matters are in Sect. 1045.16. Section 1048.16(d)
+lists six criteria to be considered when determining whether to "classify" information as RD or FRD or
+whether to declassify RD or FRD. One
+"directive" in Section 1045.16 is particularly noteworthy:[82]
+ 
+The DOE Director of Declassification shall not
+classify information and the DOE Director of Security Affairs shall declassify
+information if there is significant doubt about the need to classify the
+information.
+ 
+This "directive"
+implies that an individual has authority to
+"classify" information as RD or FRD. However, such classification is by
+the Atomic Energy Act (RD and FRD are
+"born classified"). In practice, when newly identified atomic-energy
+information[**********] is
+evaluated to determine whether it fits within the definition of RD or FRD, then
+it is also evaluated (if it fits within that definition) to determine whether it
+should be classified (i.e., to determine whether it can be immediately "declassified"). The Director of
+Declassification determines whether newly identified atomic-energy information
+is RD or FRD. The Director of Security Affairs is the only authority who can
+make the declassification decision. Therefore, in order to comply with the
+Atomic Energy Act, the above-quoted section should read "The DOE Director of
+Declassification shall not determine that
+information falls within the definition of RD and the DOE Director of
+Security Affairs shall declassify information if there is significant doubt
+about the need to classify the information." However, there is "significant
+doubt" that the Atomic Energy Act allows the Director of Declassification such
+discretion or whether the Director of Security Affairs can use such a standard
+to declassify RD.
+ 
+Another section of this regulation
+that is of interest is Sect. 1045.18. That section states that the Director of
+Declassification may evaluate newly generated information in a previously
+declassified subject area and classify it as RD if warranted and if the
+information has not been widely disseminated in the public domain. Previous
+interpretations of the Atomic Energy Act were that once RD was declassified, it
+could not be reclassified.
+ 
+ 
+UNCLASSIFIED
+INFORMATION CONTROLLED BY THE ATOMIC ENERGY ACT
+ 
+
+Because
+this chapter concerns classification under the Atomic Energy Act, a section
+entitled "Unclassified Information
+Controlled by the Atomic Energy Act" may seem out of place. However, two
+sections of the Atomic Energy Act of 1954, as amended, specifically permit the
+control of unclassified information related to atomic-energy matters. The first
+such section, Sect. 147, "Safeguards Information," was added in 1980 at the
+request of the Nuclear Regulatory Commission (NRC). The second such section,
+Sect. 148, was added in 1981 at the request of DOE. Those two types of
+controlled atomic-energy information will be discussed in the following
+subsections.
+ 
+Safeguards Information
+ 
+In the late 1970s, the NRC
+concluded that, in the interest of public health and safety, it was desirable
+to protect certain unclassified information on safeguarding special nuclear
+material.[]
+The information was licensee information about protection, against sabotage or
+other terrorist acts, of nuclear facilities (e.g., commercial nuclear power
+reactors), of the shipment and storage of reactor fuels (new and highly
+radioactive spent fuel), and of other licensee activities. Although the NRC had
+authority under then-applicable Executive Order 12065[83] to
+classify United States Government programs for safeguarding nuclear materials
+or facilities, the information of concern to the NRC did not concern a
+government progam. Therefore, the NRC sought specific statutory authority to
+protect this type of unclassified
+information. Congress granted this authority in 1980 by adding Sect. 147[84] to
+the Atomic Energy Act.
+ 
+Section 147 of the Atomic Energy
+Act gave the NRC authority, for materials and facilities under NRC cognizance
+(i.e., commercial nuclear production or utilization facilities), to control
+certain information (i.e., "Safeguards Information") concerning (1) safeguards
+or security measures for the physical protection of special nuclear material at
+fixed sites or in transit; (2) security measures for the physical protection of
+source material or by-product material at fixed sites or in transit; and (3)
+security measures for the physical protection of and location of certain plant
+equipment vital to the safety of production or utilization facilities involving
+special nuclear material, source material, or by-product material.
+ 
+Safeguards Information (not usually
+owned by the government) was defined by the NRC as:[85]
+ 
+[I]nformation not otherwise classified as National Security
+Information [currently, "classified national security information"] or
+Restricted Data which specifically identifies a licensee's or applicant's
+detailed (1) security measures for the physical protection of special nuclear
+material, or (2) security measures for the physical protection and location of
+certain plant equipment vital to the safety of production or utilization
+facilities.
+ 
+Section 147 of the Atomic Energy
+Act prohibits the unauthorized disclosure of certain Safeguards Information "if
+the unauthorized disclosure of such information could reasonably be expected to
+have a significant adverse effect on the health and safety of the public or the
+common defense and security by significantly increasing the likelihood of
+theft, diversion, or sabotage of such material or such facility."[86]
+ 
+Concerning the adverse-effect test,
+it is interesting that the initial version of Sect. 147 had a broader standard
+under which the NRC could withhold information. That standard was that the
+unauthorized disclosure "could have a significant adverse effect."[87] The
+Senate-House Conference Committee was concerned that this "could have" standard
+would allow the NRC "to withhold information without demonstrating even the
+slightest probability that disclosure of the information would have a
+significant adverse effect."[88] An
+"is likely to" standard was considered as an alternative but was rejected
+because that standard would require the NRC "to find that there would be a
+better than 50-50 chance that a significant adverse effect would result from
+the disclosure."[89] Congress
+adopted as the standard "could reasonably be expected to have" because that
+standard had been applied by judicial interpretation to another statutory
+exemption from the Freedom of Information Act (FOIA) [Phillippi v. CIA, 546
+F.2d 1009 (D.C. Cir 1976)] and because it was the standard used in Executive
+Order 12065 (a predecessor of Executive Order 12958) to protect classified
+national security information from disclosure.[90] The
+"could reasonably be expected to have" standard requires showing some
+probability that unauthorized disclosure would have a significant adverse
+effect but does not require a showing that there would be a greater than 50-50
+chance of such an adverse effect.[91]
+ 
+Section 147 is codified in the U.S.
+Code at 42 U.S.C. Sect. 2167. The NRC's requirements for the protection of
+certain Safeguards Information are given in 10 CFR Part 73, §73.21. The initial
+version of §73.21 required all Safeguards Information to be protected against
+unauthorized disclosure.[92]
+Subsequently, the scope of the regulations was reduced so that the regulations
+are imposed only upon licensees who handle "a formula quantity of strategic
+special nuclear material,"[]
+more than 100 grams of irradiated reactor fuel, or operate a nuclear reactor,
+and upon others who possess Safeguards Information.[93]
+ 
+Unclassified
+Controlled Nuclear Information
+ 
+Seventeen months after granting the
+NRC authority to control certain unclassified information as Safeguards
+Information, Congress added Sect. 148 to the Atomic Energy Act, thus granting
+to DOE information-control authority comparable to that granted to the NRC by
+Sect. 147 (i.e., authority to control certain unclassified information
+concerning security measures for the physical protection of production and
+utilization facilities, nuclear material in those facilities, and nuclear
+material in transit). However,
+additional information-control authority was granted to DOE in Sect. 148 so
+that it was much broader in scope than Sect. 147. Section 148 allowed DOE to
+control certain technical information in addition to safeguards and security
+information [i.e., authority to control (1) certain production and utilization
+facility design information; and (2) certain information concerning the design,
+manufacture, or utilization of any atomic weapon or component if that
+information was once Restricted Data (RD) but which had been declassified or
+removed from the RD category]. Atomic-energy information controlled under Sect.
+148 is termed Unclassified Controlled Nuclear Information (UCNI).
+ 
+The Atomic Energy Act Sect. 148
+authority to control declassified RD represented a significant departure from
+past practices with respect to the control of atomic-energy information. Prior
+to the addition of Sect. 148, declassified RD could not be controlled by the
+government.[§§§§§§§§§§]
+This is in contrast to declassified information that was
+originally classified under an Executive Order (formerly designated as National
+Security Information, or NSI, now called "classified national security
+information"), which can be reclassified under certain circumstances.[***********]
+More recently (i.e., effective June 29, 1998), DOE regulation 10 CFR Part 1045,
+Nuclear Classification and
+Declassification, permits reclassification of newly generated information in a previously declassified subject
+area (but not if that information has been widely disseminated in the public
+domain).[94]
+ 
+In the early 1980s, some
+governmental control over declassified RD seemed appropriate because of the
+realization that some RD that had been declassified during the extensive
+declassifications of RD in the years 1955 through 1978, in retrospect should
+not have been declassified. Principal incentives for declassification during
+that period included the desire to "commercialize" nuclear energy for the
+production of electricity and other purposes and to exert some influence over
+the development of nuclear energy in other nations.[]
+However, in some instances, declassification proceeded further than
+subsequently proved desirable. Some declassified RD provided
+greater-than-expected assistance towards proliferation of nuclear-weapons
+capabilities in other countries. India's "peaceful" nuclear explosion in 1974
+was one factor that contributed to the increased proliferation concerns. The
+inability to reclassify declassified RD of nuclear-weapon-proliferation
+significance was probably the reason Congress gave DOE the Sect. 148 authority
+to control certain declassified RD.
+ 
+The Sect. 148 authority for DOE to
+control certain unclassified atomic-energy information was somewhat reduced in
+scope by a 1983 amendment[95] to
+Sect. 148 that limited the application of Sect. 148 to information concerning
+"atomic energy defense programs."[]
+ 
+Section 148(a)(1) of the Atomic
+Energy Act gives DOE the authority, with respect to atomic-energy defense
+programs, to prohibit the unauthorized dissemination of unclassified
+information pertaining to: 
+ 
+(A) the design of production facilities or
+utilization facilities;
+ 
+(B) security measures (including security plans,
+procedures, and equipment) for the physical protection of (i) production or
+utilization facilities, (ii) nuclear material contained in such facilities, or
+(iii) nuclear material in transit; or
+ 
+(C) the design, manufacture, or utilization of any
+atomic weapon or component if the design, manufacture, or utilization of such
+weapon or component was contained in any information declassified or removed
+from the Restricted Data category by the Secretary (or the head of the
+predecessor agency of the Department of Energy) pursuant to section 142.
+ 
+Section 148(a)(2) stated that this
+prohibition could be instituted only if the unauthorized dissemination of such
+information could reasonably be expected to have a significant adverse effect
+on the health and safety of the public or the common defense and security by
+significantly increasing the likelihood of (1) illegal production of nuclear
+weapons or (2) theft, diversion, or sabotage of nuclear materials, equipment,
+or facilities.
+ 
+The Sect. 148(a)(2) "adverse-effect
+test" for determining whether information is UCNI is essentially similar to the
+adverse-effect test in Sect. 147 except that Sect. 147 is limited to "theft,
+diversion, or sabotage" while Sect. 148 also includes "illegal production of
+nuclear weapons."
+ 
+Section 148 is codified in the U.S.
+Code at Sect. 2168. Regulations implementing Sect. 148 are contained in the
+Code of Federal Regulations at 10 CFR Part 1017, Identification and Protection of Unclassified Controlled Nuclear
+Information. There are two significant requirements imposed by the
+regulations that are not in the statute. The first is the requirement that, to
+be controlled as UCNI, the information has to be government information [10 CFR
+1017.6(a)(1)]. The second is that documents or materials that have been widely
+disseminated in the public domain (e.g., to a public library or university
+library) can not be controlled as UCNI [10 CFR 1017.6(b)(2)]. However,
+dissemination in the public domain of a document that contains UCNI does not
+preclude control of the same information as UCNI in another document. DOE
+policies and procedures for the identification of UCNI are contained in DOE
+Order 471.1A, Identification and
+Protection of Unclassified Controlled Nuclear Information.
+ 
+
+Many
+criticisms have been made about UCNI. DOE initiated a Fundamental
+Classification Policy Review in 1995, which also encompassed a review of UCNI
+policy. The final report of that review group recommended that "the use of UCNI
+should be limited to nuclear safeguards and physical security information that
+is clearly unclassified."[96] With
+respect to scientific and technical information, the review group stated that
+"if information needs to be withheld for reasons of national security, it
+should remain classified."[97]
+Because declassified atomic energy information cannot be reclassified (see
+above), the review group recommended that the Atomic Energy Act be revised to
+allow reclassification of declassified information under certain circumstances.[98]
+ 
+It should be noted that there have
+been six major reviews of DOE atomic-energy information-control matters since
+1988, and all have essentially agreed that there is some unclassified
+atomic-energy information that needs to be controlled for
+nuclear-weapon-proliferation reasons.
+ 
+ 
+REFERENCES
+ 
+
+
+
+
+
+[*] Generations of scientists had
+developed this tradition of free exchange of new scientific knowledge, which
+came to be accepted as an article of faith, as an elementary requirement of the
+scientific profession (B. and F. M. Brodie, From Crossbow to H-Bomb, Indiana University Press, Bloomington,
+Ind., 1973, pp. 241-242). An essential part of the scientific method is that subsequent
+criticism and evaluation establishes whether the information is correct. Also,
+since prompt publication of new knowledge establishes priority of discovery,
+the scientist who first publishes a discovery generally gets all the credit for
+that discovery; therefore, most scientists oppose secrecy on basic scientific
+research so that their priority of discovery can readily be established
+(Brodie, p. 242). However, sometimes scientists at the forefront of their field
+do not readily talk about their current work to "outsiders" (i.e., they keep it
+"classified") until the work is published (or has been accepted for publication)
+so that someone else does not steal their idea and publish it first.
+
+
+[] "Contrary to perhaps what is
+the most common belief about secrecy, secrecy was not started by generals, was
+not started by security officers, but was started by physicists. And the man who
+is mostly responsible for this certainly extremely novel idea for physicists
+was Szilard" [E. Fermi, Physics Today
+8, 12-16  (Nov. 1955), p. 13 (this statement may have been made somewhat in jest
+by Fermi, but it is based on what happened)].
+
+"In
+ordinary times I would say that scientific discoveries should be made public.
+At that particular time [1939-1940] with the war impending and critical
+political situations and so on, I joined with a group of others, the leader of
+the group or the most active member of that group was Leo Szilard, in a
+voluntary censorship to keep [secret] certain results that could lead in the
+direction of the atomic bomb" (testimony of E. Fermi during the l954
+Oppenheimer hearings, In the Matter of J.
+Robert Oppenheimer, Transcript of Hearings Before Personnel Security Board,
+U.S. Atomic Energy Commission, U.S. Govt. Printing Office, Washington, D.C.,
+1954, p. 398).
+
+
+[]
+However, a report prepared a few weeks earlier by Berkeley scientists on the
+discovery of neptunium (the first transuranic element) was published in Physical Review shortly after Turner
+decided to withhold his publication. Information in that report provided a clue
+to the possibility of using plutonium in a nuclear weapon. Some British scientists
+were, in fact, so irritated because the U.S. published that information, that
+an official protest was made through the British embassy (Richard Rhodes, The Making of the Atomic Bomb, Simon and
+Schuster, New York, 1986, p. 351).
+
+
+[§]
+Breit was a colleague of Eugene Wigner and also knew Szilard; probably through
+those associations, Breit was aware of the desirability to limit publication of
+uranium-fission research [S. R. Weart, "Scientists with a Secret, Physics Today 29 (2), 23, 30 (February 1967)]. At about the same time (about
+early June 1940) as the creation of the Reference Committee (see following text
+in this document), Breit became a member of an advisory committee of scientific
+experts to the Advisory Committee on Uranium (Richard G. Hewlett and Oscar E.
+Anderson, The New World, 1939/1946,
+The Pennsylvania State University Press, University Park, Pa., 1962, p. 24;
+William Lanouette with Bela Szilard, Genius
+in the Shadows, A Biography of Leo Szilard, Charles Scribner's Sons, New
+York, 1992, p. 220). Later in the summer of 1940, Breit started providing
+assistance to the Advisory Committee on Uranium on theoretical matters,
+including slow-neutron fission matters (The
+New World, p. 32). Still later, Breit coordinated fast-neutron research at
+several laboratories (The New World,
+p. 56). Breit and Lyman Briggs, the chairman of the Advisory Committee on
+Uranium, were both quite secretive regarding uranium-fission bombs. Brigg's
+failure to disseminate an early draft of the British MAUD Committee's 1941 report
+on the feasibility of an atomic bomb and Breit's secretiveness concerning
+fast-neutron research probably delayed U.S. efforts on an atomic bomb for a
+significant time. In early 1942, Breit was assigned responsibility for
+fast-neutron research within the Manhattan Project's Metallurgical Laboratory
+in Chicago. In May 1942, he resigned his position for several reasons, one of
+which was that he thought the Laboratory's attitude towards security practices
+was too lax. His successor was J. Robert Oppenheimer (Richard G. Hewlett and
+Oscar E. Anderson, The New World,
+1939/1946, The Pennsylvania State University Press, University Park, Pa.,
+1962, pp. 102, 227-228).
+
+
+[**] The dearth of articles about
+the atomic nucleus in U.S. scientific journals in 1940 and 1941 led a Russian
+expert in this field to conclude that the U.S. had classified the information
+in this area ["The Origin of the Soviet Atomic BombA Letter to Stalin," USSR Technology Update 3(21), pp 1, 4, 5, 8 (Nov. 16,
+1988); David Holloway, Stalin and the
+Bomb, The Soviet Union and Atomic Energy, 1939-1956, Yale University Press,
+New Haven, 1994, p. 78].
+
+
+[]
+In August 2002, the American Society for Microbiology adopted a policy of
+screening, for "information that could be put to inappropriate use," of papers
+submitted for publication in its journals.
+This was a response to increasing national concern that certain
+information that would normally be published might, under certain
+circumstances, be inappropriate for publication because of its possible use by
+terrorists in developing and using biological weapons of mass destruction.
+
+
+[]
+The NDRC secretary, who was also the Deputy Director of the Office of
+Scientific Research and Development (OSRD), which incorporated the
+responsibilities of the NDRC, also stated that "compartmentalization of
+information can be carried too far, and probably was by the OSRD  . . .
+. Even programs which should be carried on independently of each other
+may have components which are common and on which an exchange of information
+would save valuable time and manpower" (I. Stewart, Organizing Scientific Research for War, Little, Brown, and Co.,
+Boston, 1948, p. 331).
+
+
+[§§] This hypothesis is supported
+by remarks made by General L. R. Groves, head of the Manhattan Project, during
+the 1954 hearings on J. R. Oppenheimer's security clearance. General Groves
+commented as follows with respect to security during his military career.
+Q. (R. Robb, counsel for the
+Personnel Security Board) "During your entire Army career, I assume you were
+dealing with matters of security?"
+A. (Gen. Groves) "Never
+before this thing started. We didn't deal with matters of security in the Army,
+really, until this time." (In the Matter
+of J. Robert Oppenheimer, Transcript of Hearings Before Personnel Security
+Board, U.S. Atomic Energy Commission, Washington, D.C., U.S. Government
+Printing Office, 1954, p. 170.)
+It would thus appear that
+General Groves did not bring the rigid classification and security measures to
+the Manhattan Project (for which it subsequently became noteworthy and for
+which Gen. Groves was given most of the "credit" by the scientists on that
+project) but that he "merely" enforced and perhaps made more stringent the
+rules that were in place (initiated by the NDRC and the OSRD) when he assumed
+command of the Manhattan Project.
+An indication that stringent
+enforcement was not entirely General Groves' initiative was supplied by
+testimony of Gen. Groves before the U.S. Senate in 1946. At that time he stated
+that "all of the security measures taken by the Manhattan project during the
+war and to date are in accordance with the written instructions of President
+Roosevelt to me, emphasized by oral instructions from him, and by the very
+pointed verbal instructions of General Marshall" (Gen. L. R. Groves in Atomic Energy Act of 1946, Hearings
+before the Special Committee on Atomic Energy on S. 1717, U.S. Senate, 79th
+Congress, 2nd Sess., Part 4, Feb. 18, 19, and 27, 1946, p. 468). It would
+be of interest to know what was contained in those written instructions from
+President Roosevelt and to have more specifics on the verbal instructions from
+President Roosevelt and General Marshall. President Roosevelt wrote a letter to
+J. Robert Oppenheimer, dated June 29, 1943, who was then director of the Los
+Alamos laboratory, in which he emphasized the importance of security at Los
+Alamos: "The fact that the outcome of
+your labors is of such great significance to the Nation requires that this
+program be even more drastically guarded than other highly secret war
+developments. I have therefore given
+directions that every precaution be taken to insure the security of your
+project and feel sure that those in charge will see that these orders are
+carried out. . . . Though there are
+other important groups at work I am writing only to you as the leader of the
+one which is operating under very special conditions, and to General Groves." In the Matter of J. Robert Oppenheimer,
+pp. 29-30.
+
+
+[***]V.
+Bush was appointed head of the OSRD by President Roosevelt. J. B. Conant became
+head of the NDRC, replacing Bush. Concurrently, a major change was made to the
+NDRC. As a committee (headed by Bush) of the Council of National Defense, it
+had authority to act. As a committee of the OSRD it could only recommend to the
+OSRD (Bush) (I. Stewart, Organizing Scientific
+Research for War, Little, Brown and Company, Boston, 1948, p. 38). 
+
+
+[]
+Some equipment orders specified that items not be manufactured and assembled at
+the same location. Production plant blueprints were broken down and distributed
+to reduce the overall knowledge of the project that an individual might obtain.
+Orders for raw materials were parceled out to a number of suppliers to
+obfuscate the purpose for which they were being used. [V. C. Jones, "Manhattan:
+The Army and the Atomic Bomb," United
+States Army in World War II, Special Studies, Center of Military History,
+United States Army, Washington, D.C., 1985, p. 269.]
+
+
+[] Leo Szilard had this to say,
+in December 1945, about compartmentalization in the Manhattan Project:
+"Compartmentalization of information . . . is a
+special technique which is used in the services for keeping secret military
+operations, and applied in its proper sphere is an effective method for keeping
+secrets. Both its meaning and its effectiveness undergo a profound change when
+it is attempted to apply this special technique to research and development
+work" (Atomic Energy, Hearings Before
+the Special Committee on Atomic Energy, U.S. Senate, 79th Cong., 1st Sess.,
+Pursuant to S. Res. 179, A Resolution Creating a Special Committee to Investigate
+Problems Relating to the Development, Use, and Control of Atomic Energy, Part
+2, Dec. 5, 6, 10, and 12, 1945, U.S. Government Printing Office, Washington,
+D.C., 1946).
+"Compartmentalization of information was practiced in
+the atomic energy project from the very first day on; that is, from November
+1940 on, or before the Army was in the picture. The situation was not better
+when we had to deal with the NDRC, which had to "play ball" with the Army and
+Navy, than later on, when we had to deal with the Army direct. If anything,
+dealing with the Army direct appears to be preferable, since the Army is afraid
+only of Congress, while agencies like the NDRC are afraid of both Congress and
+the Army" (ibid., p. 290).
+"I shall be glad to demonstrate, if required, that
+compartmentalization of information was the cause of our failure to realize
+that light uranium might be produced in quantities sufficient to make atomic
+bombs. We should have known that in the fall of 1940. We might have failed to
+realize this altogether, just as the Germans failed to realize it, if we hadn't
+the good fortune the British scientists were not compartmentalized. They were
+able to put two and two together and communicated their conclusions to the
+United States Government in the middle of 1941. Had we in the United States
+reached those conclusions in the fall of 1940, we most likely would have had
+[atomic] bombs ready before the invasion of Europe" (ibid, p. 291).
+"At first, we all observed rules on
+compartmentalization because we did not realize ourselves how damaging it was.
+Later on, the rules were purposedly [sic] violated, because we would rather
+violate rules than slow down our work. Men coming from different sites would
+drop into my office and they would tell me things which I was not supposed to
+know, but which they felt that I ought to know. They usually told me that they
+did not expect me to conceal the fact that I was in possession of this
+information. All they asked me to do was not reveal to the Army that they had
+given me the information" (ibid., p. 293).
+"Some of you saw at Oakridge [sic] a certain
+installation and were told by a representative of the Army that it shortened
+the war by 1 week. [Note: This was the liquid thermal diffusion plant for
+enriching uranium hexafluoride that was built at the K-25 site in Oak Ridge,
+Tennessee.] That installation was based on a pilot plant which was built by the
+Navy. The installation was recommended at the recommendation of Dr. Oppenheimer
+after an interview he had with Dr. Bush. But if you investigated how Dr.
+Oppenheimer got the idea of recommending this to Dr. Bush, you would find that
+at least two patriotic scientists deliberately violated the rules and broke
+through compartments. Afterward, everything was covered up nicely. Dr. Oppenheimer's
+projects officially asked for the information which was already unofficially in
+their possession, and made an official study of what they already knew, and
+then finally Dr. Oppenheimer approached Dr. Bush and wrote to General Groves"
+(ibid., pp. 293-294).
+"I am very sorry that I had nothing to do with this
+chain of events. As a matter of fact, I should have done something about it,
+because one of the men came to me six months earlier and complained that
+nothing was done along that line and asked me if I knew what could be done to
+get some action along that line" (ibid., p. 294).
+See also the testimony of R.
+Gunn, Naval Research Laboratory scientist, in December 1945, concerning the
+Army's (Manahttan Project's) disinterest (until June 1944) in the thermal
+diffusion process for enriching uranium, which the Navy had been developing
+prior to 1942. The Navy became interested in atomic energy in March 1939 and
+initiated development of the gas centrifuge and liquid thermal diffusion
+methods for enriching uranium. Even though General Groves was, in December
+1942, aware of the operation of a thermal diffusion pilot plant for enriching
+uranium at the Naval Research Laboratory, that method of enriching uranium was
+not integrated into the Manhattan Project until 1944. It appears that the Naval
+Research Laboratory personnel working on uranium enrichment were not kept
+informed about the activities of the Manhattan Project nor was this resource
+utilized by that project until late in the project's efforts to enrich uranium
+(R. Gunn, in Atomic Energy, Hearings
+Before the Special Committee on Atomic Energy, U.S. Senate, 79th Cong., 1st
+Sess., Pursuant to S. Res. 179, A Resolution Creating a Special Committee to
+Investigate Problems Relating to the Development, Use, and Control of Atomic
+Energy, Part 3, Dec. 13, 14, 19, and 20, 1945, U.S. Government Printing Office,
+Washington, D.C., 1946, pp. 364-382).
+On the matter of the
+Manhattan Project's not using the Naval Research Laboratory's expertise in
+uranium enrichment, Admiral Purnell's 1945 testimony indicated that R. Gunn's
+requests of the Manhattan Project for information went through Admiral Purnell
+to the Military Policy Committee, and were to have been handled by Dr. Briggs,
+chairman of one of the subcommittees. It appears that Dr. Briggs never gave Dr.
+Gunn any of the information he requested (ibid, pp. 397─404) [which may not be too surprising considering Brigg's prior close
+control of the Advisory Committee on Uranium's information and finances].
+
+
+[§§§]
+See, for example, the testimony of General L. R. Groves before the Oppenheimer
+Hearing Board. With respect to compartmentalization of information, General
+Groves said that he did not keep the Manhattan Project's leaders (e.g.,
+Compton, Lawrence, Oppenheimer, etc.) informed as to all aspects of the project
+because "if I brought them into the whole project, they would never do their
+own job. There was just too much of scientific interest, and they would just be
+frittering from one thing to another." (In
+the Matter of J. Robert Oppenheimer, Transcript of Hearing Before Personnel
+Security Board, U.S. Atomic Energy Commission, U.S. Government Printing
+Office, Washington, D.C., 1954, p. 164).
+
+
+[****] The Y-12 Plant made the final
+enrichment of U-235 to obtain weapons-grade uranium. Part of the process
+involved handling aqueous solutions of highly enriched uranium. The Y-12 Plant
+personnel were made aware of nuclear criticality problems with those solutions
+only because "compartmentalization" with respect to that knowledge broke when a
+Los Alamos scientist happened to visit the Y-12 Plant prior to generation of those
+highly enriched uranium solutions (statement of H. C. Urey in hearings before
+the U.S. Senate's Special Committee on Atomic Energy, Atomic Energy, Hearings pursuant to S. Res. 179, U.S. Senate, 79th
+Congress, lst Sess., Nov. 2730, Dec. 3, 1945, p. 90).
+The word "alleged" is used because it is not clear that there was a
+real danger. The Y-12 Plant personnel were aware of the possibility of
+criticality in their process and had designed their equipment accordingly. The
+Los Alamos scientist suggested a larger safety factor, which was implemented,
+although as later measurements showed, the original equipment would have been
+safe from a criticality standpoint (private communication from J. M. Googin,
+July 1988). But see Richard P. Feynman, Surely
+You're Joking, Mr. Feynman!, Bantam Books, New York, 1985, pp. 103-107.
+
+
+[] However, H. C. Urey, in
+discussing the difficulties that a nation would have in hiding a major project
+to produce atomic weapons, stated, in 1945, that "the development of the
+Manhattan [P]roject was quite obvious to all our scientific friends not working
+on the project during the last few years" (H. C. Urey, in Atomic Energy, Hearings Before the Special Committee on Atomic
+Energy, Pursuant to S. Res. 179, U.S. Senate, 79th Congress, lst Sess., Nov.
+2730, Dec. 3, 1945, pp. 84-85).
+A few days later, J. R.
+Oppenheimer said much the same thing: "If you take our place at Los Alamos, a
+year ago I think there were no physicists in this country that did not know
+what we were doing there. They did not talk about it, because it was contrary
+to the national interest. But this peculiar conglomeration of scientific talent
+in a very remote place aroused that suspicion, and they made quite a good guess
+as to what we were actually about" (J. R. Oppenheimer at p. 189 in Atomic Energy, Hearings before the
+Special Committee on Atomic Energy, Pursuant to S. Res. 179, U.S. Senate, 79th
+Cong., 1st Sess., Nov. 2730, Dec. 3, 1945, U.S. Government Printing Office,
+Washington, D.C., 1946).
+Another example of widespread
+knowledge in the United States of secret government activity using uranium was
+some information published in the Minerals
+Yearbook of 1943. The following statements appeared on p. 828 of that
+book:
+"Uranium production in 1943 was
+greatly stimulated by a Government program having materials priority over all
+other mineral procurements, but most of the facts were buried in War Department
+secrecy."
+"Most of the 1943 uranium
+supply was used by physics laboratories for research on uranium isotopes as a
+source of energy" (Remarks by Alexander Sachs, in Atomic Energy, Hearings Before the Special Committee on Atomic
+Energy, U.S. Senate, 79th Cong., 1st Sess., Pursuant to S. Res. 179, A
+Resolution Creating a Special Committee to Investigate Problems Relating to the
+Development, Use, and Control of Atomic Energy, Nov. 2730, Dec. 3, 1945, U.S.
+Government Printing Office, Washington, D.C., 1946, p. 16).
+
+
+[]
+Perhaps a more accurate statement would be that relatively few persons knew
+about all aspects of the Manhattan
+Project until the first atomic bomb was dropped and the information was
+released.
+
+
+[§§§§]
+One reason for the stringent information controls imposed by General Groves may
+not have been related to national security. Major General K. D. Nichols,
+Groves' principal deputy in the Manhattan Project, has recently written a book
+on his experiences (K. D. Nichols, The
+Road to Trinity, William Morrow, New York, 1987). On page 281 of this book,
+Gen. Nichols describes a 1950 conversation that he had with the Secretary of
+the Air Force, who asked about the possibility of establishing a Manhattan
+Project-type organization to develop guided missiles. In discussing the
+difficulties in establishing Manhattan Project-type authority in peacetime,
+Gen. Nichols quotes himself as stating, "I consider it impossible [in 1950] to
+set up a Manhattan Project, and in particular, to establish the degree of secrecy that is essential to avoid
+interference with any such command. You can only do it in time of war"
+[emphasis added]. This tends to indicate that perhaps one reason for Gen.
+Groves' stringent information controls in the Manhattan Project was to avoid
+interference by others with his "command."
+
+
+[*****]
+One author has suggested that "partly because they themselves were successfully
+kept from knowing about the [atomic] bomb until it had burst, many Americans
+have considerable faith in the feasibility of keeping secrets" (W. Gellhorn, Security, Loyalty, and Science, Cornell
+University Press, Ithaca, New York, 1950, p. 9).
+
+
+[]
+The first bill that was proposed in Congress to deal with atomic energy was the
+May-Johnson Bill, introduced in early October 1945. This bill was actually
+drafted by an Army general (Brig. Gen. Kenneth C. Royall) and a civilian
+employee of the War Department (William L. Marbury). Royall and Marbury were
+assisted by two Army Lieutenants, Lt. George S. Allan and Lt. George M. Duff,
+Jr., also both lawyers. [Notes of Interim
+Committee Meeting, Thursday, July 19, 1945 (Available at
+http://nuclearfiles.org/ docs/1945/470719-1c.html).] At the request of
+Secretary of War Patterson, this bill was introduced in the Congress by Senator
+Johnson and Representative May. The Royall-Marbury bill was in turn said to be
+substantially based on a draft prepared by V. Bush and J. B. Conant (see
+previous descriptions of those individuals' earlier roles in the atomic bomb
+project) during 1944-1945. Bush and Conant were
+members of a committee ("Interim Committee") established by Secretary of War
+Henry L. Stimson for that purpose. The Interim Committee was appointed in May
+1945, to recommend legislation for the development and control of atomic
+energy. (Atomic Energy, Hearings
+before the Committee on Military Affairs, House of Representatives, 79th
+Congress, 1st Session, on H.R. 4280, "An Act for the Development and Control of
+Atomic Energy," October 9 and 18, 1945, U.S. Government Printing Office,
+Washington, D.C., p. 4) Secretary Stimson was chairman of the eight-member
+committee, and General Groves was an advisor. Membership included Secretary of
+State James F. Byrnes, Vannevar Bush, James B. Conant, Karl T. Compton, and
+three others. [One author states that I. Stewart, an assistant to Bush and
+Conant, prepared the draft in July 1944. (A. Steiner, "Scientists, Statesmen,
+and Politicians; The Competing Influences on American Policy 1945-1946," Minerva 12, 469-509, 498 (October 1974).
+Secretary of War Patterson stated, in 1946 testimony, that a Captain Davis was
+the actual draftsman, under the direction of Brigadier General Royall and Mr.
+Marbury, a Baltimore lawyer then in the employ of the War Department. (Atomic Energy Act of 1946, Hearings
+Before the Special Committee on Atomic Energy, U.S. Senate, 79th Congress, 2nd
+Session, Part 3, February 7, 8, 11, 13, and 14, 1946. U.S. Government Printing
+Office, Washington, D.C., 1946, p. 390.) Another source says that the bill was
+first drafted in General Groves' office by Lt. Col. John Lansdale, Jr., an
+attorney and also the chief security officer on General Grove's staff, as told
+by Mr. Lansdale to W. Lawren in about 1985. (W. Lawren, The General and the Bomb, Dodd, Mead, and Co., New York, 1988, p.
+262.)] However, the May-Johnson Bill ran into substantial opposition, led to a
+large extent by "atomic" scientists at Chicago and Oak Ridge, and was not
+enacted. Major problems with the May-Johnson Bill included disagreement with
+the significant controls over atomic energy given to the military and with the
+overly stringent security provisions [R. G. Hewlett and O. E. Anderson, Jr., The New World, 1939/1946, Pennsylvania
+State University Press, University Park, Pa., 1962, pp. 408-439].
+
+
+[]
+The first version of S. 1717, which became the Atomic Energy Act of 1946,
+described "basic scientific information" in Sect. 9(a) as including "in
+addition to theoretical knowledge of nuclear and other physics, chemistry,
+biology, and therapy, all results capable of accomplishment, as distinguished
+from the processes or techniques of accomplishing them." However, as one
+witness appearing before the Senate's Special Committee on Atomic Energy that
+was considering S. 1717 stated, it is hard to separate "basic scientific
+knowledge and practical know-how. My experience is that they run into one
+another in indescribable confusion, and it would be very difficult to separate
+them" (W. H. Davis, in Atomic Energy Act
+of 1946, Hearings Before the Special Committee on Atomic Energy, U.S.
+Senate, 79th Cong., 2nd Sess., on S. 1717, A Bill for the Development and
+Control of Atomic Energy, Part 1, Jan. 22 and 23, 1946, U.S. Government
+Printing Office, Washington, D.C., 1946, p. 53).
+
+
+[§§§§§]
+That statement is not strictly true. The government (Department of Energy)
+determines whether infor­mation falls within the definition of Restricted Data.
+
+
+[******]
+"The NSA [National Security Agency] has tried to extend the born secret'
+concept to the cryptography area by voluntary agreement rather than by
+legislative process." Sissela Bok, Secrets. On the Ethics of Concealment and
+Revelation, Pantheon Books, New York, 1982, p. 166, footnote.
+
+
+[]
+There appears to be one anomaly to the "born classified" concept. That anomaly
+is for those methods of isotope separation that can be used to produce special
+nuclear materials (e.g., to enrich uranium in the U-235 isotope, an isotope
+useful in nuclear weapons). According to current DOE procedures, research and
+development on methods of isotope separation other than gaseous diffusion or
+gas centrifuge can be carried out on an unclassified basis until that research
+shows a "reasonable potential for the separation of practical quantities of
+special nuclear material." At that point, classification restrictions must be
+applied [Fed. Reg. 37, 15393 (Aug. 1, 1972); Fed. Reg. 32, 20869 (Dec. 28, 1967)]. Thus, this area of atomic-energy
+information is not "born classified" but is classified only when it reaches
+"adolescence."
+
+
+[]
+Once the Manhattan Project started, essentially all atomic-energy information
+developed in this country was "born" in that "classified" project. Even after
+the Manhattan Project organization was terminated and its functions assigned to
+the Atomic Energy Commission (AEC), for many years most of the atomic-energy
+information in the U.S. was "born" in AEC facilities. During the Manhattan
+Project and also under the Atomic Energy Act of 1946, the government controlled
+all aspects of atomic energymining the uranium ore, research and development
+on the materials, fabrication of the final products (e.g., nuclear weapons and
+reactor fuel elements)and had ownership of essentially all of the fissionable
+materials in the U.S. In contrast, conventional "defense" (NSI) technology
+relied mostly on information "born" outside of government facilities (and
+government control) (i.e., developed by private entities seeking to sell their
+products or ideas to the government) that therefore could not be readily
+considered to be "born classified." A positive act was required by the
+government to classify this information when it was applied to defense
+purposes.
+
+
+[§§§§§§]
+Note that a 1917 statute gave the Commissioner on Patents authority to
+designate certain privately developed patents as secret (Act of October 6,
+1917, Ch. 95, 40 Stat. 394).
+
+
+[*******] See Richard G. Hewlett and
+Jack M. Hall, Atoms for Peace and War,
+1953-1961: Eisenhower and the Atomic Energy Commission, Univ. of Calif.
+Press., Berkeley, 1989, for an extensive, well-documented, historical account
+of the efforts by industry and the Joint Committee on Atomic Energy to make
+nuclear-reactor information available (e.g., declassify that information) to
+industry for commercial-nuclear-power purposes.
+This was done with the knowledge that declassification of such
+information, providing it to industry, and providing it to other nations under
+the Atoms for Peace Program, would contribute to nuclear weapons proliferation.
+
+
+[]
+Senator Johnson was a
+member of the U.S. Senate committee that conducted hearings on the bill that
+later became the Atomic Energy Act of 1946. In January 1946, he stated: "This committee
+had many noted physicists and scientists before it . . . but I don't recall a
+single one . . . who did not say in almost these words . . . first, that it is
+impossible to separate the military uses of atomic energy from peacetime uses,
+that there is great difficulty in that; and, second, that the peacetime usage
+is a step towards military usage. You gather your uranium; you process it to a
+certain extent; you make plutonium out of it in the process of using it for
+power, and then it is only one small stepwhich they describe as being 75
+percent along the way to a weaponwhen you use uranium for peacetime power"
+(Sen. Johnson in Atomic Energy Act of
+1946, Hearings Before the Special Committee on Atomic Energy, U.S. Senate,
+79th Cong., 2nd Sess., on S. 1717, A Bill for the Development and Control of
+Atomic Energy, Part 2, Jan. 25, 28, 29, 30, 31, and February 1, 1946, U.S.
+Government Printing Office, Washington, D.C., 1946, p. 118).
+General Groves' testimony was
+consistent with the above information. In November 1945, he had said that the
+development of atomic energy for peaceful purposes could not be separated from
+its use for weapons. He said that the hardest task in the Manhattan Project was
+obtaining the uranium or plutonium for the atomic bomb, not building the bomb
+once the materials were available (Gen. L. R. Groves in Atomic Energy, Hearings before the Special Committee on Atomic
+Energy, U.S. Senate, 79th Cong., lst Sess., Nov. 27─30, Dec. 3, 1945, U.S.
+Government Printing Office, Washington, D.C., 1946, pp. 52-53).
+
+
+[]
+"[The peaceful atom program] has made the incremental cost of developing a
+nuclear weapon by a country who has the technological capability very low,
+considerably lower than if we didn't have a peaceful nuclear program going" [A.
+S. Fisher, "PanelThe Executive Views Classification Management," J. Natl. Class. Mgmt. Soc. 1 (2-4), 84-98 (1965), pp. 97-98].
+
+
+[§§§§§§§]
+The major reason for the change from "fissionable material" to "special nuclear
+material" was that the U.S. had begun a program directed toward the control of
+thermonuclear energy (nuclear fusion processes), and the term "special nuclear
+material" was meant to encompass fusion reactor fuel (e.g., tritium). [Senate
+Report No. 1699 on S3690, Amending the
+Atomic Energy Act of 1946, As Amended, and for Other Purposes, June 30,
+1954, 83d Congress, 2d Sess., pp. 8-9, as reported in Legislative History of the Atomic Energy Act
+of 1954 (Public Law 703, 83rd Congress), U.S. Atomic Energy Commission,
+Washington, D.C., Vol. 1, 1955, pp. 756-757.]
+
+
+[********]
+Although Congress considered the use of the term "national security," it
+finally settled on the terms "common defense and security" (C. Allardice and E.
+R. Trapnell, The Atomic Energy Commission,
+Praeger Publishers, New York, 1974, p. 140).
+
+
+[]
+Note that, with Restricted Data "born classified," in theory the only
+subjective classification decisions are those which arise during
+declassification actions, when one must determine what constitutes "undue risk
+to the common defense and security." With information classified under
+executive order, the subjective determinations arise during both classification
+and declassification.
+
+
+[]
+The term "Formerly Restricted Data" has caused much confusion among personnel
+handling atomic-energy information. Since Restricted Data is classified
+information, then one might reasonably conclude that "Formerly Restricted
+Data," information that used to be Restricted Data (classified information),
+was no longer classified. However, FRD has been defined as another category of
+classified atomic-energy information, separate from RD.
+
+
+[§§§§§§§§]
+It is believed that the first "transclassification" of RD to FRD was approved
+by the AEC on June 12, 1956.                Actually,
+the term "Formerly Restricted Data" may not have been invented by that date.
+
+
+[*********]
+The current counterpart of "defense information" is "classified national
+security information" as defined by Executive Order 12958.
+
+
+[]
+An AEC Guidebook for the Authorized
+Classifier stated, with respect to Sect. 2162(e), that "indeed, the Act
+indicates that information on foreign atomic energy programs constitutes
+Restricted Data unless specifically removed from the Restricted Data Category
+by the Commission" (U.S. AEC, Division of Classification, issued about 1973, p.
+2).
+
+
+[]The
+Atomic Energy Act of 1954 is silent with respect to who has the authority to
+declassify this "classified national security information"  that has been transclassified from the RD
+category. 
+
+
+[§§§§§§§§§]
+It is believed that the first transclassification of RD to NSI was approved by
+the AEC on September 22, 1954.
+
+
+[**********]
+In this context, "newly identified atomic-energy information" means
+atomic-energy information that has not previously been evaluated to determine
+if it falls within the Atomic Energy Act's definition of RD.
+
+
+[]
+"Special nuclear material means: (1) Plutonium, uranium-233, uranium enriched
+in the isotope U233 or in the isotope U235, and any other
+material which the Commission, pursuant to the provisions of section 51 of the
+Atomic Energy Act of 1954, as amended, determines to be special nuclear
+material, but does not include source material; or (2) Any material
+artificially enriched by any of the foregoing, but does not include source
+material." [10 CFR §74.4]
+
+
+[]
+"Strategic special nuclear material" means uranium-235 (contained in uranium
+enriched to 20% or more in the U-235 isotope), uranium-233, or plutonium. [10
+CFR §73.2(aa)] "Formula quantity" means strategic special nuclear material in
+any combination in a quantity of 5000 grams or more computed by the formula,
+grams = (grams contained U-235) + 2.5(grams U-233 + grams plutonium). [10 CFR
+§73.2(bb)]
+
+
+[§§§§§§§§§§] The Atomic Energy Act, and
+its predecessor Atomic Energy Act of 1946, was very explicit in stating that RD
+within the U.S. was controlled exclusively by that Act. Chapter 12 (Sects.
+141-146) of the Atomic Energy Act dealt with the control of RD, and Sect.
+146(a) stated that:
+Sections 141 to 145, inclusive, shall not exclude
+the applicable provisions of any other laws, except that no Government agency
+shall take any action under such other laws inconsistent with the provisions of
+those sections. [Atomic Energy Act of 1954, 68 Stat. 943; 42 U.S.C. §2166(a).]
+The
+equivalent of Sect. 146(a) was in the Atomic Energy Act of 1946 [Atomic Energy
+Act of 1946, §10(b)(6), 60 Stat. 768 (August 1, 1946)]. Note that the second
+part of Sect 146(a) states that the Atomic Energy Act provisions for the
+control of RD take precedence over any other law.
+Section 146(b) of the Atomic Energy Act stated that:
+The [Department of Energy] shall have no power to
+control or restrict the dissemination of information other than as granted by
+this or any other law. [Atomic Energy Act of 1954, 68 Stat. 943; 42 U.S.C.
+§2166(b).]
+Section
+146(b) was not present in the Atomic Energy Act of 1946. The Report of the
+Joint Committee on Atomic Energy on the proposed Atomic Energy Act stated that
+"Section 146 continues the application to restricted data and to persons in the
+atomic energy program of other laws relating to the protection of information.
+It also forbids the [Department of Energy] from controlling or restricting any
+information outside of any powers granted by any law." [Amending the Atomic Energy Act of 1946, as Amended, and for Other
+Purposes, Senate Report No. 1699 on S. 3690, U.S. Senate, 83d Cong., 2d
+Sess., June 30, 1954, p. 24.] Section 146(b) indicates, and has been so interpreted
+by the government [See, for example, F. N. Parks, "Classification and the
+Atomic Energy Act," in Proceedings of the
+First Classification Symposium, (Official Use Only), U.S. Atomic Energy
+Commission, Washington, D.C., March 16, 17, 18, 1965, p. 58], that when RD was
+declassified, it could not be reclassified or otherwise controlled because a
+determination had been made that its dissemination could not cause adverse
+effects.
+Therefore, the addition of Sect. 148 to the Atomic
+Energy Act represented a major departure from past practice and allowed
+declassified RD to again be controlled by the Government.
+
+
+[***********]Executive
+Order 12958 permits reclassification, in certain circumstances, of declassified
+information "that has not previously been disclosed to the public under proper
+authority." [Exec. Order No. 12958,§1.8(d)] 
+
+
+[] Addressing this point in a
+speech before the Executive Club of Chicago on February 5, 1965, Glenn T.
+Seaborg, Chairman of the Atomic Energy Commission, stated:
+There were many who felt in the early days, as some
+feel today, that we could somehow hold back the hands of timearrest scientific
+progressand not cooperate with other countries in providing this nuclear
+technology and materials for peaceful purposes. Science cannot for long be kept
+under lock and key. We knew that other countries could independently achieve a
+nuclear capability. We also knew that many countries of the world had their own
+supplies of natural uranium and, perhaps more importantly, their own
+scientists. We also considered that if we failed to cooperate in sharing our
+peaceful nuclear technology and nuclear materials, there would be other
+countries which might be willing to provide nuclear materials and technology
+without a firm assurance as to their eventual peaceful end use.
+The task of the United States has thus become not a
+matter of forbidding the further spread of nuclear science, but rather one of
+helping other nations to develop the peaceful uses of nuclear energy while, at
+the same time, encouraging the development of a system of international
+controls, or safeguards, to guarantee the peaceful use of nuclear equipment and
+materials supplied between nations. [As reported in "Remarks," by G. F. Tape,
+Commissioner, U.S. Atomic Energy Commission, in Proceedings of the First Classification Symposium, (Official Use
+Only), March 16, 17, 18, 1965, U. S. Atomic Energy Commission, Washington,
+D.C., pp. 73-74.]
+
+
+[]
+That limitation was part of Sect. 148 as introduced into the Senate in 1981 [Congressional Record 127, 26304 (Nov. 3, 1981)] and as
+passed by the Senate. However, that limitation and two subsections of Sect. 148
+were dropped during subsequent conference with the House of Representatives
+with respect to the 1981 enactment but were restored to Sect. 148 by the 1983
+amendment. [Congressional Record 128, 4865 (Mar. 22,1982).]
+
+
+
+
+
+
+[1] S. R.
+Weart, "Scientists With a Secret," Physics
+Today 29 (2), 23-30 (Feb. 1976), p. 24 ff.
+Hereafter cited as "Weart."
+
+
+[2] Weart, p.
+29.
+
+
+[3] Weart,
+ibid.
+
+
+[4] D. Irving, The German Atomic Bomb, Simon and
+Schuster, New York, 1967, pp. 84-86.
+
+
+[5] Richard G.
+Hewlett and Oscar E. Anderson, Jr., The
+New World, 1939/1946, The Pennsylvania University Press, University Park,
+Pa., 1962, pp. 25-26.
+
+
+[6] The Recollections of Eugene P. Wigner as
+Told to Andrew Szanton, Plenum Press, New York, 1992, p. 205.
+
+
+[7] Weart, p.
+30.
+
+
+[8] Weart,
+ibid.
+
+
+[9] H. D.
+Smyth, A General Account of the
+Development of Methods of Using Atomic Energy for Military Purposes Under the
+Auspices of the United States Government, 1940-1945, U.S. Government Printing Office,
+Washington, D.C., Aug. 1945, pp. 31-32.
+
+
+[10] "Order
+Establishing the National Defense Research Committee," Fed. Reg. 5, 2446 (July
+2, 1940).   
+
+
+[11] Arthur
+Holly Compton, Atomic Quest, Oxford
+University Press, New York, 1956, p. 44.
+
+
+[12] I.
+Stewart, Organizing Scientific Research
+for War, Little, Brown and Company, Boston, 1948, p. 7. Hereafter cited as
+"Stewart."
+
+
+[13] Stewart,
+p. 6.
+
+
+[14] Stewart,
+p. 27.
+
+
+[15] Stewart,
+p. 28.
+
+
+[16] Stewart,
+ibid.
+
+
+[17] Stewart,
+ibid.
+
+
+[18] Stewart,
+p. 29.
+
+
+[19] Stewart,
+ibid.
+
+
+[20] Stewart,
+ibid.
+
+
+[21] Stewart.
+ibid.
+
+
+[22] Stewart,
+pp. 29-31.
+
+
+[23] Executive
+Order. No. 8807, Fed. Reg. 6, 3207 (July 2, 1941).
+
+
+[24] Stewart,
+p. 121.
+
+
+[25] Stewart,
+pp. 246-255.
+
+
+[26] V. C.
+Jones, Manhattan: The Army and the Atomic
+Bomb, United States Army in World War II, Special Studies, Center of
+Military History, United States Army, Washington, D.C., 1985, p. 254. Hereafter
+cited as "Jones."
+
+
+[27] Stewart,
+p. 247.
+
+
+[28] Jones, pp.
+30-31.
+
+
+[29] Jones, p.
+39.
+
+
+[30] Jones, p.
+37.
+
+
+[31] Jones, p.
+254.
+
+
+[32] Statement
+of H. C. Urey in hearings before the U.S. Senate Special Committee on Atomic
+Energy, U.S. Senate, Special Committee on Atomic Energy, Atomic Energy, Hearings pursuant to S. Res. 179, Part 1, Nov. 27-30 and Dec. 3, 1945, p. 88.
+
+
+[33] B. and F.
+M. Brodie, From Crossbow to H-Bomb,
+Indiana University Press, Bloomington, Ind., 1973, pp. 252-253. Hereafter cited as
+"Brodie."
+
+
+[34] Brodie, p.
+252.
+
+
+[35] Jones, p.
+268.
+
+
+[36] Security Manual, Manhattan District,
+United States Engineer Office, November 26, 1945, §III-A.3.b, p. 23.
+
+
+[37] Jones, p.
+275.
+
+
+[38] Security Manual, Manhattan District,
+United States Engineer Office, November 26, 1945.
+
+
+[39] J. G.
+Palfrey, "Atomic Energy Law in the United States," pp. 15-46 in Progress in Nuclear Energy, Series X, Law and Administration, 1, ed. H. S. Marks, Pergamon Press, New
+York, 1959, p. 17. Hereafter cited as "Palfrey."
+
+
+[40] J. R.
+Newman and B. S. Miller, The Control of
+Atomic Energy, McGraw-Hill, New York, 1948, pp. 14-15.
+
+
+[41] Peaceful Uses of Atomic Energy, Report
+of the Panel on the Impact of the Peaceful Uses of Atomic Energy to the Joint
+Committee on Atomic Energy, 84th Cong., 2nd Sess., I, U.S. Government Printing Office, Washington, D.C., 1956, p. 106.
+
+
+[42] D. B.
+Woodbridge, "Panel-Industry Looks at Classification Management," J. Natl. Class. Mgmt. Soc. 1 (2-4), 33-38 (l965), p. 35.
+
+
+[43] See
+Richard G. Hewlett, "Born Classified in the AEC - A Historian's View," Bull. At. Sci., 37(10) 20-27, (Dec. 1981), and Harold P. Green, "Born Classified in
+the AEC - A Legal Perspective," op. cit., 28-30.
+
+
+[44] 10 CFR
+1045, Nuclear Classification and
+Declassification, §1045.21(b).
+
+
+[45] Fed. Reg. 66, 33954 (June 26, 2001).
+
+
+[46] G. Piel
+(publisher of Scientific American), "Science and Secrecy," a talk delivered to
+the Annual Meeting of the American Society of Newspaper Editors, Washington,
+D.C., April 21, 1950, pp. 4-5 of the manuscript of that
+talk.
+
+
+[47] M. M.
+Cheh, "The Progressive Case and the Atomic Energy Act: Waking to the Dangers of
+Government Information Controls," Geo.
+Wash. L. Rev. 48, 163-210 (1979-1980), p. 179. Hereafter cited
+as "Cheh."
+
+
+[48] Cheh, p.
+179.
+
+
+[49] Cheh, p.
+209.
+
+
+[50] Atomic
+Energy Act of 1946, §10(a)(3), as amended Oct. 30, 1951.
+
+
+[51] Atomic
+Energy Act of 1946, §10(a)(3)(4), as amended Oct. 30, 1951.
+
+
+[52] Atomic
+Energy Act of 1946, §10(a)(3)(5), as amended, Oct. 30, 1951.
+
+
+[53] 68 Stat.
+919; 42 U.S.C. §§2011-2296.
+
+
+[54] N. S.
+Finney, "Atomic Dilemma," Bull. At. Sci.
+10, 116 ff (April 1954), p. 118.
+Hereafter cited as "Finney."
+
+
+[55] Palfrey,
+p. 26.
+
+
+[56] Finney,
+ibid.
+
+
+[57] 42 U.S.C.
+§2014(y).
+
+
+[58] 585 Stat.
+724, Sect. 10(b)(1).
+
+
+[59] 42 U.S.C.
+§2161.
+
+
+[60] Atomic
+Energy Act of 1946, §10(a)(2), 60 Stat. 755, 766 (Aug. 1, 1946).
+
+
+[61] 42 U.S.C.
+§2162(a).
+
+
+[62] Atomic
+Energy Act of 1946, §10(b)(1).
+
+
+[63] H. S.
+Marks and G. F. Trowbridge, "Control of Atomic Energy Information Under the
+Atomic Energy Act of 1954," Bull. At.
+Sci. 11, 128-130 (1955), p. 129.
+
+
+[64] 42 U.S.C.
+§2162(b).
+
+
+[65] 42 U.S.C.
+§2162(d).
+
+
+[66] 42 U.S.C.
+§2014(h).
+
+
+[67] 42 U.S.C.
+§2162(c).
+
+
+[68] 42 U.S.C.
+§§2164(b), 2164(c).
+
+
+[69] 42 U.S.C.
+§§2165(a), 2165(b), 2165(g).
+
+
+[70] 42 U.S.C.
+§2162(e). 
+
+
+[71] U.S.
+Atomic Energy Commission, Seventeenth
+Semiannual Report, January 1955, p. 26.
+
+
+[72] 10 CFR
+Part 725.
+
+
+[73] U.S.
+Atomic Energy Commission, Nineteenth
+Semiannual Report, January 1956, p. 91.
+
+
+[74] 10 CFR
+Part 725.1.
+
+
+[75] H. P.
+Green, "The Atomic Energy Information Access Permit Program," Geo. Wash. L. Rev. 25, 548-567 (1956-1957).
+
+
+[76] Herbert S.
+Marks and George F. Trowbridge, Framework
+for Atomic Industry, A Commentary on the Atomic Energy Act of 1954, BNA
+Inc., Washington, D.C., April 1955, p. 19.
+
+
+[77] Palfrey,
+p. 27.
+
+
+[78] 88 Stat.
+1234, October 11, 1974.
+
+
+[79] Executive
+Order No. 11834, January 15, 1975.
+
+
+[80] 91 Stat.
+577, August 4, 1977.
+
+
+[81] 10 CFR
+Part 1045, Nuclear Classification and
+Declassification.
+
+
+[82] 10 CFR
+§1045.16(b).
+
+
+[83] Executive
+Order No. 12065, Fed. Reg. 43, 28949 (July 3, 1978).
+
+
+[84] Public Law
+96-295, Stat. 780, June 30, 1980; 42 U.S.C. §2167.
+
+
+[85] 10 CFR
+§73.2(jj).
+
+
+[86] 42 U.S.C.
+§2167(a).
+
+
+[87] Congressional Record, 126, 13210 (June 4, 1980).
+
+
+[88] Ibid.
+
+
+[89] Ibid.
+
+
+[90] Ibid.
+
+
+[91] Ibid.
+
+
+[92] Fed. Reg. 45, 85463 (Dec. 29, 1980).
+
+
+[93] 10 CFR
+§73.21(a).
+
+
+[94] 10 CFR
+Part 1045, Nuclear Classification and
+Declassification, §1045.18, "Newly Generated Information in a Previously
+Declassified Subject Area."
+
+
+[95] Public Law
+97-415, §17, 96 Stat. 2076 (Jan. 4, 1983).
+
+
+[96] Report of the Fundamental Classification
+Policy Review Group, Albert Narath, Chairman, U.S. Department of Energy,
+Office of Declassification, Washington, D.C., Part I, Chapter 3, Recommendation
+5, Jan. 15, 1997 (issued Oct. 1997). Hereinafter, this report is cited as
+"FCPRG Report."
+
+
+[97] FCPRG
+Report, Part I, Chapter 3, last paragraph before Part II.
+
+
+[98] FCPRG
+Report, Part I, Chapter 3, Recommendation 2.
+
+
+
+
+

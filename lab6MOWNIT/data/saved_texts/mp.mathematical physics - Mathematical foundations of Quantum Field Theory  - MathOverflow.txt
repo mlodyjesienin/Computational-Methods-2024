@@ -1,0 +1,1600 @@
+
+
+
+
+mp.mathematical physics - Mathematical foundations of Quantum Field Theory  - MathOverflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            MathOverflow
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            MathOverflow Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical foundations of Quantum Field Theory 
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+12 years, 2 months ago
+
+
+Modified
+4 years, 8 months ago
+
+
+Viewed
+                        8k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+            29
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Is there any reasonable approach, essentially different from Wightman's axioms and Algebraic Quantum Field Theory, aimed at obtaining rigorous models for realistic Quantum Field Theories? (such as Quantum Electrodynamics).
+EDIT: the reason for asking "essentially different" is the following. It is possible to intuitively think "states" as solutions of the equations of motion (in some sense, in a "multiparticle space"). In realistic interacting QFT, the equations of motion are nonlinear. So, according to my chosen intuitive concept, a reasonable state space should be nonlinear (something like a Hilbert manifold). Meanwhile, in Wightman or AQFT frameworks, state spaces are Hilbert spaces. This seems to correspond with the fact that it is very very difficult to construct interacting QFT's in these frameworks. So, as a desire... there should be a different, more interaction-friendly framework where realistic models arise in a more natural way.
+Does something in this direction already exist?
+
+
+
+
+mp.mathematical-physicsquantum-field-theory
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 15, 2012 at 6:50
+
+
+
+
+
+Sergio A. Yuhjtman
+
+
+
+
+
+
+
+
+
+            asked Apr 14, 2012 at 4:39
+
+
+
+
+
+
+Sergio A. YuhjtmanSergio A. Yuhjtman
+
+65166 silver badges1010 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+9
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I think this question (or one very similar) has been asked before...
+$\endgroup$
+
+– David Roberts
+♦ 
+Apr 14, 2012 at 4:48
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+I didn't find it between the 52 tagged as qft.
+$\endgroup$
+
+– Sergio A. Yuhjtman
+
+Apr 14, 2012 at 4:57
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+I may have either misremembered, or it was deleted. I didn't find it in the almost 200 results that came back when I searched for 'quantum'.
+$\endgroup$
+
+– David Roberts
+♦ 
+Apr 14, 2012 at 5:25
+
+
+
+
+
+
+13
+
+
+
+
+$\begingroup$
+I can predict what will happen after moving this to theoreticalphysics.stacexchange: the question will be declared off-topic and the author - a schizophrenic without metaphors, see e.g. physics.stackexchange.com/questions/16647/… The problem is that the closer you are to physics, the more suspicious for you is axiomatic method. Physicists actually don't understand logic, for them everything is "enough clear" without any axiomatization. So this a purely mathematical question, it is not nice to move it to physicists.
+$\endgroup$
+
+– Sergei Akbarov
+
+Apr 15, 2012 at 9:20
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+The specific example of quantum electrodynamics as a realistic field theory to attempt to define precisely is a bad one.  Indeed it is known that this field theory cannot be defined precisely and exists only as an approximation valid at sufficiently large distances.  A much better candidate to study is quantum Yang-Mills theory which most people believe exist, but nevertheless no proof exists.
+$\endgroup$
+
+– Clay Cordova
+
+Apr 16, 2012 at 1:03
+
+
+
+
+
+
+
+ | 
+Show 4 more comments
+
+
+
+
+
+
+
+
+
+
+                                        4 Answers
+                                    4
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            13
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+If I read your updated question correctly, you are asking whether people have considered non-linear modifications of quantum mechanics in order to accommodate interacting QFTs. I'm sure someone, somewhere has, but that's certainly not mainstream thought in QFT research, either on the mathematics or theoretical physics sides. Consider the analogous question in the quantum mechanics of particles: do non-linear equations of motion require a non-linear modification of quantum mechanics? The answer is most certainly No.
+Without going into generalities, the Hydrogen atom and the double-well potential are prominent examples of systems with non-linear (Heisenberg) equations of motion that live perfectly well within the standard quantum formalism (states form a linear Hilbert space, observables are linear operators on states, time evolution is unitary on states in the Schroedinger picture and conjugation by unitary operators in the Heisenberg picture). When going from particle mechanics to field theory, what changes is the number of space-time dimensions, not the type of non-linearities in the equations of motion. So there is no mathematical reason to expect a non-linear modification of quantum mechanics in the transition.
+Now, a few words about your intuition regarding states as solutions to the equations of motion. Unfortunately, it is somewhat off the mark. As you should be aware, relativistic QFT is usually discussed in the Heisenberg picture. This means that it is the field operators $\hat{\phi}(t,x)$ that obey the possibly non-linear equations of motion. For example, $\square\hat{\phi}(t,x) - \lambda{:}\hat{\phi}^3(t,x){:}=0$, where $\square$ is the wave operator and the colons denote normal ordering. On the other hand, states are just elements $|\Psi\rangle$ of an abstract Hilbert space (with the vacuum state $|0\rangle$ singled out by Poincaré invariance), entirely independent of spacetime coordinates. At this point, it should be clear why states have nothing to do with the equations of motion.
+Your intuition is not entirely without basis, though. Spelling it out, also shows how the standard formalism of QFT (Wightman or any related one) already accommodates non-linear interactions. One can define the following hierarchy of $n$-point functions (sometimes called Wightman functions):
+\begin{align}
+  W^0_\Psi &= \langle 0|\Psi\rangle \\
+  W^1_\Psi(t_1,x_1) &= \langle 0|\hat{\phi}(t_1,x_1)|\Psi\rangle \\
+  W^2_\Psi(t_1,x_1;t_2,x_2) &= \langle 0|\hat{\phi}(t_1,x_1)\hat{\phi}(t_2,x_2)|\Psi\rangle \\
+  & \cdots
+\end{align}
+It is a fundamental result in QFT (known under different names, such as the Wightman reconstruction theorem, multiparticle representation of states, or simply second quantization) that knowledge of all the $W^n_\Psi$ is completely equivalent to the knowledge of $|\Psi\rangle$.
+These Wightman functions, by virtue of the Heisenberg equations of motion, satisfy the following infinite dimensional hierarchical system of equations
+\begin{align}
+  \square_{t,x} W^1_\Psi(t,x) &= \lambda W^3_\Psi(t,x;t,x;t,x) + \text{(n-ord)} \\
+  \square_{t,x} W^2_\Psi(t,x;t_1,x_1) &= \lambda W^4_\Psi(t,x;t,x;t,x;t_1,x_1) + \text{(n-ord)} \\
+  \square_{t,x} W^2_\Psi(t_1,x_1;t,x) &= \lambda W^4_\Psi(t_1,x_1;t,x;t,x;t,x) + \text{(n-ord)} \\
+  & \cdots
+\end{align}
+I'm being a bit sloppy with coincidence limits here. The Wightman functions are singular if any two spacetime points in their arguments coincide, the terms labeled (n-ord) represent the necessary regulating subtractions to make this limit finite. This necessary regularization also explains why the non-linear terms in the equations of motion needed normal ordering.
+If $\lambda=0$, the theory is non-interacting, then each of the above equations for the $W^n_\Psi$ becomes self-contained (independent of $n$-point functions of different order) and identical to the now linear equations of motion. At this point it should be clear how your intuition does in fact apply to the states of a non-interacting QFT. States $|\Psi\rangle$ can be put into correspondence with multiparticle "wave functions" solving the linear equations of motion (which are actually the Wightman functions $W^n_\Psi$).
+Finally, when it comes to trying to construct models of QFT, people usually just concentrate on the Wightman functions associated to the vacuum state, $W^n_0 = \langle 0|\cdots|0\rangle$, which are sufficient to reconstruct the corresponding $n$-point functions for all other states. In short, the standard approaches to constructive QFT already incorporate non-linear interactions in a natural way. And non-linear modifications to the quantum mechanical formalism are simply a whole different, independent topic.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jul 6, 2013 at 17:42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Apr 15, 2012 at 15:22
+
+
+
+
+
+
+Igor KhavkineIgor Khavkine
+
+21.1k22 gold badges5858 silver badges106106 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+8
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Schroedinger equation for the Hydrogen atom and double well is a linear PDE. So I still don't see a valid objection.  "In short, the standard approaches to constructive QFT already incorporate non-linear interactions in a natural way." I disagree.
+$\endgroup$
+
+– Sergio A. Yuhjtman
+
+Apr 15, 2012 at 16:16
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+According to what I know, Schroedinger and Heisenberg picture are trivially equivalent. However, you say that the hydrogen atom and double-well have "non-linear (Heisenberg) equations of motion that live perfectly...". I would like to know about those nonlinear equations. Any reference?
+$\endgroup$
+
+– Sergio A. Yuhjtman
+
+Apr 15, 2012 at 16:23
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+I mean something quite trivial. What you have to keep in mind is that (Heisenberg equations of motion for operators) is not the same thing as (Schroedinger equation for states). Consider the anharmonic 1d oscillator, with potential $x^2/2+\lambda x^4/4$. Heisenberg EOM for operator $\hat{x}(t)$: $\frac{d^2}{dt^2}\hat{x}+\hat{x}+\lambda \hat{x}^3$. Schroedinger equation for state $\psi(t,x)$: $i\frac{d}{dt}\psi - (x^2/2+\lambda x^4/4)\psi(t,x)=0$. The first equation is non-linear in $\hat{x}(t)$. The second equation is linear in $\psi(t,x)$. There is no contradiction.
+$\endgroup$
+
+– Igor Khavkine
+
+Apr 15, 2012 at 17:39
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Sorry, forgot the kinetic term in the Schroedinger equation. It should be $i\frac{d}{dt}\psi - (-\frac{d^2}{dx^2} + x^2/2 + \lambda x^4/4)\psi = 0$.
+$\endgroup$
+
+– Igor Khavkine
+
+Apr 15, 2012 at 17:47
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Sergio, the nonlinearities in the particle and field models discussed above are much more similar than different. Compare $\lambda \phi^4$ field theory with the anharmonic particle oscillator example I gave in the comments above. If we consider only field configurations that are spatially constant, their equations become identical, with the identification $\phi(t,x)=\phi(t) \to x(t)$. The existence of this similarity is the reason that the same mathematical apparatus works in both situations.
+$\endgroup$
+
+– Igor Khavkine
+
+Apr 18, 2012 at 9:29
+
+
+
+
+
+
+
+ | 
+Show 3 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            24
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Yes, of course, there is much research on mathematical rigor in quantum field theory.  Of course, I don't know what "reasonable", "essentially different", and "realistic" mean to you, but I would say that there are "reasonable" approaches and that some of them do address "realistic" field theories.  As an aside, "rigor" for its own sake is far from the primary goal of mathematical physics, as has been discussed many times here and on our sister sites.  See for example https://physics.stackexchange.com/questions/27665/the-role-of-rigor.
+But, in any case, you mention QED, and more generally "realistic" quantum field theory almost certainly means Yang–Mills Theory + matter, as this is what appears in the Standard Model.  Here there are deep open questions, like those related to the mass gap.  But some parts are by now understood.  One part in particular is the perturbative path-integral approach to Lagrangian field theory, where the deepest part of the story is that of renormalization theory.  Kevin Costello's book does a good job, I think, of explaining to mathematicians what renormalization theory is, setting it within a language of homological algebra.
+But you bring up Wightman's axioms and AQFT, suggesting that you are less interested in making rigorous physics-as-it-is-practiced, and more interested in axiomatizing its general structure.  There is, of course, no consensus yet as to the correct axiomatization — almost all proposals have no nontrivial examples — but many structures seem to be common.  There is a more flexible version of AQFT, called factorization algebra and detailed in Costello's book with Owen Gwilliam that I think goes a long way towards providing a basic framework.  Certainly all physical theories will have more common structure than just being a factorization algebra; but it is very common that we write down an axiom system and then the examples that appear "in nature" are quite special.
+I have yet to be convinced that the "Schrodinger" picture is a fundamentally correct one.  This is the picture that underscores, for example, geometric quantization, and also the Atiyah–Kontsevich–Segal–etc picture of QFT (originally TQFT, but by now more general).  Certainly this version of QFT is an interesting mathematical structure to study, but it arises from the "Heisenberg" picture underpinning factorization algebras only because sometimes certain algebraic objects have unique, or at least canonical, irreducible projective representations.
+Finally, I want to make one more comment concerning the success of perturbative and some nonperturbative QFT.  Namely, almost every QFT that has been written down has been described in "path integral" formalism in some sense or another.  Certainly this is true of the perturbative field theories in Kevin's book.  But probably "having a path-integral description" is not fundamental to the notion of QFT.  In a related way, "having a classical limit" is not fundamental.  I highly recommend Dijkgraaf's Les Houches notes; this point is made in Section 2.2.
+
+Edit: The OP has clarified the question to ask about how nonlinear quantum field theory can lead to the linear algebra of Hilbert Spaces.  I think this is part of a standard confusion with the picture as developed of quantization, and what are "quantum spaces".  The short answer is that a decent notion of "quantum space" is a Hilbert space with some extra structure (e.g. a "spectral triple" of Connes et al).  For the long answer, I will restrict to (nonlinear) quantum mechanics, which is the nonlinear quantum sigma model in one dimension.
+The most basic form of quantum mechanics, after Feynman and well-tuned to be portable to qft, comes from the following picture.  You are given a classical configuration space, which is an abstract manifold with some geometry (a metric to define "mass", a 1-form to define "external magnetic potential", a function to define "external electric potential", etc.).  This geometry in particular determines for you an "action functional", which is a function on the paths in this manifold.  Now you define a "quantum algebra of observables" as follows.  There is a bijection between quantum observables and classical observables, where "classical observables" are functions on the tangent bundle to your space, aka the phase space – so observables are functions of position and velocity.  But the quantum algebra has a much richer algebraic structure than the commutative algebra of functions.  Namely, given two functions $f_1$ and $f_2$, their product depends on three numbers $(t_1, t_2;t_3)$, and is:
+$$ (f_1\star_{(t_1,t_2;t_3)} f_2)(x,v) = \int_{\text{paths }\gamma\text{ s.t. } (\gamma,\dot\gamma)(t_3) = (x,v)} f(\gamma(t_1),\dot\gamma(t_1))  \ f(\gamma(t_2),\dot\gamma(t_2))\ \exp(\text{action}(\gamma)) $$
+The associativity of this algebra is somewhat subtle, and depends on the times.  You should really think of this as "$f_1$ inserted at time $t_1$ multiplied by $f_2$ inserted at time $t_2$, measured at time $t_3$".  There is a straightforward way to evolve a function inserted at some time $t_1$ to a different function inserted at any other time $t_3$: namely multiply $1$ at an arbitrary time $t_2$.
+Now you can do the following.  Since we can evolve functions, $t_3$ isn't much data – let's just decide $t_3 = (t_1 + t_2)/2$, say.  Now let's just consider those situations when $t_2 = t_1 + \epsilon$ for very small epsilon.  Dividing by $\epsilon$ and taking a limit, you get a usual associative noncommutative algebra.
+There is a general notion in mathematics that a "space" is the same data as its (commutative) algebra of functions.  Similarly, you can define a "noncommutative space" to be the same data as a noncommutative algebra of functions.  Since we're doing integrals, the functions we're working with are the types of functions that appear in measure theory and functional analysis, rather than in geometry.  Just knowing the algebra of measurable functions on a manifold only tells that manifold as a measure space, and all measure spaces are isomorphic, so you should also remember some data of the smooth structure and metric and so on.  Similarly, the algebra you most naively get out of this construction doesn't know a lot; the extra data is that of a "spectral triple".  
+More precisely, algebras like to have representations, and the algebras of functional analysis like to be represented on Hilbert spaces.  For QM (but not for higher-dimensional qft), this Hilbert space is essentially unique (similarly to the way that "the" measure space is essentially unique).  The extra structure is what makes it "curved".  In the case at hand, this essentially-unique Hilbert space arises in many ways: for example, the action picks out a symplectic form on the tangent bundle to your configuration space, identifying it with the cotangent bundle, and you can choose a way to identify functions on the cotangent bundle with differential operators, and then that algebra of differential operators can be naturally identified with the algebra we have constructed; in this way, the algebra acts on "wave functions" on your configuration space.
+Is this a linear space?  Not really.  I've already mentioned one way that thinking of it as linear is wrong (it forgets the geometry).  Another is that the representation is really projective, so the actual space of states is more like the space of lines-through-the-origin in the Hilbert space than the space of points.  Really, this linear/nonlinear dichotomy is about like saying of your manifold "Manifold, I would rather you be linear, so I'm going to allow some linear combinations of your points".
+I hope that helps clarify some things, and in particular the Schrodinger/Heisenberg dichotomy I alluded to earlier.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Oct 12, 2019 at 11:19
+
+
+
+
+
+
+Ilmari Karonen
+
+1,19488 silver badges1313 bronze badges
+
+
+
+
+
+
+
+
+            answered Apr 14, 2012 at 5:28
+
+
+
+
+
+
+Theo Johnson-FreydTheo Johnson-Freyd
+
+53.5k1010 gold badges134134 silver badges328328 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+10
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Is QED mathematically consistent or not ?
+$\endgroup$
+
+– jjcale
+
+Apr 14, 2012 at 8:40
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Perhaps, since we are engaged in a mathematical discussion, lets try to stick to known facts and as precise a terminology as much as possible. Leave the speculation to those wearing physicist hats. The fact is that the notion of "mathematical consistency" addressed in the result quoted by Alexander is very different from the notion of consistency used in the rest of mathematics, as for instance in the work of Gödel and others on the consistency of logical systems. It is beyond the scope of this comment box to define either of these terms precisely.
+$\endgroup$
+
+– Igor Khavkine
+
+Apr 14, 2012 at 11:53
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Finally, a remark about the Landau pole, the result alluded to by Alexander. It is often cited as demonstrating the "inconsistency" of QED. More precisely, it is a QED calculation that ostensibly exhibits a prediction for a physical effect that most physicists expect to disagree with reality. The sad facts about this is that we do not have access to the experimental regime where this effect could be tested. Equally unfortunate is the fact that this theoretical prediction is not as certain as it sounds. The main reason is that currently QED mostly predicts formal power series and not numbers.
+$\endgroup$
+
+– Igor Khavkine
+
+Apr 14, 2012 at 12:08
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+@Alexander Chervov:   Electroweak unification doesn't make the consistency problem go away.   The standard electroweak model includes a Higgs field.  The quartic self-coupling of the Higgs has the same problem that the electromagnetic interaction has in QED.  This means the electroweak theory as well has to be regarded as an effective theory; its correlation functions are the large-scale asymptotics of a cutoff theory.
+$\endgroup$
+
+– user1504
+
+Apr 14, 2012 at 13:51
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@Igor:  The 'consistency problem' in QED/4d phi4/etc isn't just semantics.  There's a specific mathematical question:  Can we take the continuum limit if we assume that the cutoff action has a specific form and adjust its coupling constants in accordance with the renormalization flow?  For QED, the answer is most likely no.  This hasn't been proven rigorously.  But it has been proven for scalar fields in higher dimensions, and there are fairly convincing numerics for scalars in 4d.  It's possible some unknown nonlinearity saves QED, but it's not a bet I'd take.
+$\endgroup$
+
+– user1504
+
+Apr 15, 2012 at 13:46
+
+
+
+
+
+
+
+ | 
+Show 5 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Essentially nothing like the what you describe in the more detailed form of your question exists for the important reason that your "intuitive conception" of a hypothetical non-linear state space is incorrect.  
+The linear structure in a quantum theory HAS NOTHING TO DO with whether or not the equations of motion are linear.  It is an exact feature that persists independent of any interactions. Indeed the Hilbert space arises from the fact that a configuration of a quantum system is given as a complex valued linear functional from the vector space $V$ which has a basis in bijective correspondence with the possible classical states of the system.  (Typically these functionals are required to be square normalizable in a suitable sense but this issue is secondary to the present discussion.) Linear functionals of course always have the structure of a vector space and as a result so too does the state space of a quantum mechanical theory including in particular quantum field theory.   
+As a specific example consider quantum mechanics of a single particle moving on a line $\mathbb{R}$. The space of classical configurations is of course the real line, meaning exactly that to specify the all classical information means to specify a function $x(t)$ which tells you at which point $x$ the particle can be found at time $t$.  Quantum mechanically this is modified as follows.  We introduce a vector space $V$ with a basis of states in bijective correspondence with the set of all allowed classical configurations.  Thus in this example $V$ has a basis for each point in $\mathbb{R}$.  The Hilbert space of the theory is then the dual space (over $\mathbb{C}$) to $V$.  This is true no matter what non-linear interactions may be occurring, and a wide variety of exactly solvable non-linear models exist.  In this example the dual space is spanned by Dirac delta functions, typically denoted by $|x\rangle$ which indicates the functional that takes a non-zero value on the basis element corresponding to point $x$ and zero at all other basis elements associated to points $y\neq x$.  As a result the Hilbert space can be described as (suitably normalizable) distributions from $\mathbb{R}$ to $\mathbb{C}$. The interpretation of an element of this Hilbert space $\Psi(x): \mathbb{R}\longrightarrow \mathbb{C}$ is that the square of its norm specifies the probability distribution for the quantum mechanical particle to be observed at the position $x$.  The time evolution of the wave function $\Psi(x)$ is then always governed by the linear Schrodinger equation.
+In a quantum field theory the abstract structure is the same, however $V$ is typically a much larger vector space since it has a basis in correspondence with fields, i.e. functions from space to say $\mathbb{R}$.    
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 16, 2012 at 1:45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Apr 16, 2012 at 0:58
+
+
+
+
+
+
+Clay CordovaClay Cordova
+
+2,0071313 silver badges1919 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+3
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+This sounds strange: "The Hilbert space of the theory is then the dual space (over C) to V". Why the dual space must be Hilbert?
+$\endgroup$
+
+– Sergei Akbarov
+
+Apr 16, 2012 at 7:01
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Sergei: Up to complex conjugation, a Hilbert space is equivalent to its dual. But often when giving non-technical discussion of physics structure, the word "Hilbert space" is used to mean something like "quantum phase space" or "vector space" or something, without the usual mathematical meaning to to the word "Hilbert". Note that @Clay's (good) answer is carefully non-specific about analytic issues like "what type of topology to use". But to answer your question: Clay's vector space $V$ comes with a distinguished basis, and hence a distinguished positive-definite pairing.
+$\endgroup$
+
+– Theo Johnson-Freyd
+
+Apr 21, 2012 at 22:29
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Clay Cordova I am a bit curious about this definition of your Hilbert space in QFT as "it has a basis in correspondence with fields, i.e. functions from space to say $\mathbb{R}$". So I guess the quantum states of this QFT are now elements of this Hilbert space you defined, right? And are the quantum fields (need not be gauge invariant - can carry free gauge/colour indices, right?) now linear transformations of this Hilbert space onto itself?
+$\endgroup$
+
+– gradstudent
+
+Jun 6, 2018 at 0:05
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+There is a nice formulation of the geometry of QFT, available at:
+Towards the mathematics of quantum field theory (Jan 10 2011). URL originally posted.
+Towards the mathematics of quantum field theory (Nov 30 2012). Updated.
+Frédéric Paugam's Homepage (Current: Jun 25 2018).
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 25, 2018 at 15:17
+
+
+
+
+
+
+Rob
+
+15311 gold badge33 silver badges1010 bronze badges
+
+
+
+
+
+
+
+
+            answered Apr 14, 2012 at 9:44
+
+
+
+
+
+
+        user16974user16974
+
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+There is an updated version at math.jussieu.fr/~fpaugam/documents/enseignement/…
+$\endgroup$
+
+– David Roberts
+♦ 
+Apr 16, 2012 at 3:07
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to MathOverflow!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged mp.mathematical-physicsquantum-field-theory or ask your own question.                                
+
+
+
+
+
+Linked
+
+
+
+69
+
+Mathematics of path integral: state of the art
+
+
+
+11
+
+State of rigorous effective quantum field theories
+
+
+
+
+Related
+
+
+
+2
+
+When does a "constant of the motion" imply a Noether current in a quantum field theory?
+
+
+
+8
+
+References request: constructive quantum field theory
+
+
+
+15
+
+4d Constructive Quantum Field Theory
+
+
+
+63
+
+Mathematical applications of quantum field theory
+
+
+
+53
+
+Why is Quantum Field Theory so topological?
+
+
+
+22
+
+Current status of axiomatic quantum field theory research
+
+
+
+13
+
+Mathematical construction of $\phi^4$ Euclidean field theory
+
+
+
+7
+
+Is Segal's notion of conformal field theory a quantum field theory in the sense of Wightman axioms?
+
+
+
+4
+
+Why computing $n$-point correlations?
+
+
+
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MathOverflow
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

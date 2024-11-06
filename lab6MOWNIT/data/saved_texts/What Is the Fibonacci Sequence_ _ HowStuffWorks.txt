@@ -1,0 +1,778 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What Is the Fibonacci Sequence? | HowStuffWorks
+
+
+
+
+ 
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HowStuffWorks
+
+
+
+Science
+Tech
+Home & Garden
+Auto
+Culture
+
+								More More
+
+
+
+
+Health
+Money
+Animals
+Lifestyle
+Entertainment
+Quizzes
+Coupons
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+Submit Search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close Search
+
+
+
+
+
+
+Science
+Tech
+Home & Garden
+Auto
+Culture
+Health
+Money
+Animals
+Lifestyle
+Entertainment
+
+
+Quizzes
+Coupons
+
+
+
+
+
+
+
+
+
+Submit Search
+
+
+
+
+
+
+
+Sign up for our Newsletter!
+
+
+
+
+Mobile Newsletter banner close
+
+
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+HowStuffWorks Newsletter
+
+
+Mobile Newsletter chat close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat dots
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat dots
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat dots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat avatar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement  
+
+
+
+
+
+
+ HowStuffWorks
+
+
+
+ Science
+
+
+
+ Physical Science
+
+
+
+ Math Concepts
+
+
+
+
+
+
+
+
+Why Does the Fibonacci Sequence Appear So Often in Nature?
+
+
+
+
+					By: Robert Lamb & Jesslyn Shields
+											 | 
+						Updated: Feb 10, 2023
+
+
+
+
+
+
+
+
+
+
+Share Content on Facebook
+
+
+
+
+
+
+
+Share Content on LinkedIn
+
+
+
+
+
+
+
+Share Content on Flipboard
+
+
+
+
+
+
+
+Share Content on Reddit
+
+
+
+
+
+
+
+
+
+
+Share Content via Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											Look at a sunflower and you'll notice a spiral pattern in the seeds  — their total equates to a Fibonacci sequence. Africa Studio/Shutterstock
+
+
+
+Is there a magic equation to the universe? Probably not, but there are some pretty common ones that we find over and over in the natural world. Take, for instance, the Fibonacci sequence. It's a series of steadily increasing numbers in which each number (the Fibonacci number) is the sum of the two preceding numbers. (More on the math equation in a minute.)
+The Fibonacci sequence works in nature, too, as a corresponding ratio that reflects various patterns in nature — think the nearly perfect spiral of a nautilus shell and the intimidating swirl of a hurricane.
+
+
+Advertisement  
+
+
+
+
+
+
+
+Humans have probably known about the Fibonacci sequence for millennia — mathematical ideas around this interesting pattern date to ancient sanskrit texts from between 600 and 800 B.C.E. But in modern times we have associated it with everything from one medieval man's obsession with rabbits to computer science and sunflower seeds.
+
+  
+Contents
+
+
+Fibonacci Numbers and How Rabbits Reproduce
+
+
+How the Fibonacci Sequence Works in Nature
+
+
+Misconceptions About the Golden Ratio
+
+
+
+
+
+
+
+
+Fibonacci Numbers and How Rabbits Reproduce
+ 
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											The Fibonacci sequence goes on infinitely and is made up of steadily increasing numbers starting with 0, followed by 1, where each subsequent number is the sum of the previous two numbers. shaunl/Getty Images
+
+
+
+In 1202, Italian mathematician Leonardo Pisano (also known as Leonardo Fibonacci, meaning "son of Bonacci") wondered how many rabbits a single set of parents could produce. More specifically, Fibonacci posed the question: How many pairs of rabbits can a single pair of rabbits produce in one year? This thought experiment dictates that the female rabbits always give birth to pairs, and each pair consists of one male and one female [source: Ghose].
+Think about it: Two newborn rabbits are placed in an enclosed area where the rabbits begin to, well, breed like rabbits. Rabbits can't bear young until they are at least 1 month old, so for the first month, only one pair remains. At the end of the second month, the female gives birth to a new pair, leaving two pairs total. 
+
+
+Advertisement  
+
+
+When month three rolls around, the original pair of rabbits produces yet another pair of newborns while their earlier offspring grow to adulthood. This leaves three pairs of rabbit, two of which will give birth to two more pairs the following month for a total of five pairs of rabbits.
+So after a year, how many rabbits would there be? That's when the mathematical equation comes in. It's pretty simple, despite sounding complex.
+The first Fibonacci numbers go as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 and on to infinity.
+The mathematical equation that describes it looks like this:
+
+
+Xn+2 = Xn+1 + Xn
+
+
+Basically, each integer is the sum of the preceding two numbers. (You can apply the concept to negative integers, but we're only going to cover the positive integers here.)
+
+To find 2, add the two numbers before it (1+1)To get 3, add the two numbers before it (1+2)
+
+This set of infinite sums is known as the Fibonacci series or the Fibonacci sequence. The ratio between the numbers in the Fibonacci sequence (1.6180339887498948482...) is frequently called the golden ratio or golden number. The ratios of successive Fibonacci numbers approach the golden ratio as the numbers approach infinity.
+Want to see how these fascinating numbers are expressed in nature? No need to visit your local pet store; all you have to do is look around you.
+
+
+Advertisement  
+
+
+
+
+
+
+
+How the Fibonacci Sequence Works in Nature
+ 
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											Take a good look at this Roman cauliflower. Its spiral follows the Fibonacci series. Tuomas A. Lehtinen/Getty Images
+
+
+
+While some plant seeds, petals and branches, etc., follow the Fibonacci sequence, it certainly doesn't reflect how all things grow in the natural world. And just because a series of numbers can be applied to an astonishing variety of objects that doesn't necessarily imply there's any correlation between figures and reality. 
+As with numerological superstitions such as famous people dying in sets of three, sometimes a coincidence is just a coincidence.
+
+
+Advertisement  
+
+But while some would argue that the prevalence of successive Fibonacci numbers in nature are exaggerated, they appear often enough to prove that they reflect some naturally occurring patterns. You can commonly spot these by studying the manner in which various plants grow. Here are a few examples:
+Seed Heads, Pinecones, Fruits and Vegetables
+Look at the array of seeds in the center of a sunflower and you'll notice they look like a golden spiral pattern. Amazingly, if you count these spirals, your total will be a Fibonacci number. Divide the spirals into those pointed left and right and you'll get two consecutive Fibonacci numbers. 
+You can decipher spiral patterns in pine cones, pineapples and cauliflower that also reflect the Fibonacci sequence in this manner [source: Knott].
+Flowers and Branches
+Some plants express the Fibonacci sequence in their growth points, the places where tree branches form or split. One trunk grows until it produces a branch, resulting in two growth points. The main trunk then produces another branch, resulting in three growth points. Then the trunk and the first branch produce two more growth points, bringing the total to five. This pattern continues, following the Fibonacci numbers. 
+Additionally, if you count the number of petals on a flower, you'll often find the total to be one of the numbers in the Fibonacci sequence. For example, lilies and irises have three petals, buttercups and wild roses have five, delphiniums have eight petals and so on.
+Honeybees
+A honeybee colony consists of a queen, a few drones and lots of workers. The female bees (queens and workers) have two parents: a drone and a queen. Drones, on the other hand, hatch from unfertilized eggs. This means they have only one parent. Therefore, Fibonacci numbers express a drone's family tree in that he has one parent, two grandparents, three great-grandparents and so forth [source: Knott].
+Storms
+Storm systems like hurricanes and tornadoes often follow the Fibonacci sequence. Next time you see a hurricane spiraling on the weather radar, check out the unmistakable Fibonacci spiral in the clouds on the screen.
+The Human Body
+Take a good look at yourself in the mirror. You'll notice that most of your body parts follow the numbers one, two, three and five. You have one nose, two eyes, three segments to each limb and five fingers on each hand. The proportions and measurements of the human body can also be divided up in terms of the golden ratio. DNA molecules follow this sequence, measuring 34 angstroms long and 21 angstroms wide for each full cycle of the double helix.
+Why Do So Many Natural Patterns Reflect the Fibonacci Sequence? 
+Scientists have pondered the question for centuries. In some cases, the correlation may just be coincidence. In other situations, the ratio exists because that particular growth pattern evolved as the most effective. In plants, this may mean maximum exposure for light-hungry leaves or maximized seed arrangement.
+
+
+Advertisement  
+
+
+
+
+
+
+
+Misconceptions About the Golden Ratio
+ 
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											The golden ratio is expressed in spiraling shells. In the above illustration, areas of the shell's growth are mapped out in squares. If the two smallest squares have a width and height of 1, then the box to their left has measurements of 2. The other boxes measure 3, 5, 8 and 13. José Miguel Hernández/Getty Images
+
+
+
+While experts agree that the Fibonacci sequence is common in nature, there is less agreement about whether the Fibonacci sequence is expressed in certain instances of art and architecture. Although some books say that the Great Pyramid and the Parthenon (as well as some of Leonardo da Vinci's paintings) were designed using the golden ratio, when this is tested, it's found to be false [source: Markowsky].
+Mathematician George Markowsky pointed out that both the Parthenon and the Great Pyramid have parts that don't conform to the golden ratio, something left out by people determined to prove that Fibonacci numbers exist in everything. The term "the golden mean" was used in ancient times to denote something that avoided access in either direction, and some people have conflated the golden mean with the golden ratio, which is a more recent term that came into existence in the 19th century.
+
+
+Advertisement  
+
+
+Now That's Interesting
+We celebrate Fibonacci Day Nov. 23rd not just to honor the forgotten mathematical genius Leonardo Fibonacci, but also because when the date is written as 11/23, the four numbers form a Fibonacci sequence. Leonardo Fibonacci is also commonly credited with contributing to the shift from Roman numerals to the Arabic numerals we use today.
+
+
+
+
+
+Frequently Answered Questions
+What is Fibonacci sequence explain?
+
+The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers. The simplest Fibonacci sequence begins with 0, 1, 1, 2, 3, 5, 8, 13, 21, and so on.
+
+
+
+
+
+Lots More Information
+ 
+
+Related Articles
+
+How Numerology WorksHow Quantum Suicide WorksHas a surfer discovered the theory of everything?There's a mathematical formula for the "beer goggles" effect?Does the Parthenon really follow the golden ratio?
+
+
+
+
+
+Sources
+ 
+
+
+Anderson, Matt, et al. "The Fibonacci Series." 1999. (June 14, 2008) http://library.thinkquest.org/27890/mainIndex.html"Fibonacci numbers." Britannica Online Encyclopedia. 2008. (June 14, 2008) http://www.britannica.com/eb/article-9034168/Fibonacci-numbers"Fibonacci Numbers in Nature." World Mysteries. (June 14, 2008) http://www.world-mysteries.com/sci_17.htmCaldwell, Chris. "Fibonacci Numbers." The Top Twenty. (June 14, 2008) http://primes.utm.edu/top20/page.php?id=39Ghose, Tia. "What Is the Fibonacci Sequence?" Oct. 24, 2018 (Aug. 31, 2021) https://www.livescience.com/37470-fibonacci-sequence.htmlGrist, Stan. "The Hidden Structure and Fibonacci Mathematics." StanGrist.com. 2001. (June 14, 2008) http://www.stangrist.com/fibonacci.htmKnott, Ron. "Fibonacci Numbers in Nature." Ron Knott's Web Pages on Mathematics. March 28, 2008. (June 14, 2008) http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.htmlMarkowsky, George. "Misconceptions about the Golden Ratio." The College Mathematics Journal, Vol. 23, No. 1. Jan., 1992. (Aug. 31, 2021) https://www.goldennumber.net/wp-content/uploads/George-Markowsky-Golden-Ratio-Misconceptions-MAA.pdf
+
+
+
+
+
+
+
+
+​
+
+
+
+		Cite This!
+	
+
+Please copy/paste the following text to properly cite this HowStuffWorks.com article:
+
+
+
+
+
+
+
+Copy
+
+
+
+				Robert Lamb & Jesslyn Shields
+				"Why Does the Fibonacci Sequence Appear So Often in Nature?"
+				1 January 1970.HowStuffWorks.com. <https://science.howstuffworks.com/math-concepts/fibonacci-nature.htm>
+				11 June 2024
+				
+
+
+
+
+
+
+
+
+						Close
+					
+
+
+
+
+
+
+
+
+
+Citation
+
+
+
+
+
+
+ 
+
+
+More Awesome Stuff
+
+
+
+
+
+
+
+
+
+				""
+			
+
+Up Next
+How Evolution Works
+Explore More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				""
+			
+
+You May Like
+How Numerology Works
+Explore More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				""
+			
+
+Keep Reading
+Does the Parthenon really follow the golden ratio?
+Explore More
+
+
+
+
+Advertisement  
+
+
+Advertisement  
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+Advertisement  
+
+
+
+Advertisement  
+
+
+
+Advertisement  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4068 @@
+
+
+
+
+Vector Space Definition, Axioms & Examples - Lesson | Study.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for Teachers
+for Schools
+for Working Scholars®
+for College Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+Sign Up
+
+Menu
+					
+
+
+
+
+
+
+
+
+
+
+									Plans
+							
+
+
+
+									Subjects
+							
+
+
+
+
+
+Art
+
+
+Business
+
+
+Computer Science
+
+
+Education & Teaching
+
+
+English
+
+
+Health & Medicine
+
+
+History
+
+
+Humanities
+
+
+Math
+
+
+Psychology
+
+
+Science
+
+
+Social Science
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Art
+							
+
+
+
+									Architecture 
+
+
+
+
+									Art History 
+
+
+
+
+									Design 
+
+
+
+
+									Performing Arts 
+
+
+
+
+									Visual Arts 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business
+							
+
+
+
+									Accounting 
+
+
+
+
+									Business Administration 
+
+
+
+
+									Business Communication 
+
+
+
+
+									Business Ethics 
+
+
+
+
+									Business Intelligence 
+
+
+
+
+									Business Law 
+
+
+
+
+									Economics 
+
+
+
+
+									Finance 
+
+
+
+
+									Healthcare Administration 
+
+
+
+
+									Human Resources 
+
+
+
+
+									Information Technology 
+
+
+
+
+									International Business 
+
+
+
+
+									Operations Management 
+
+
+
+
+									Real Estate 
+
+
+
+
+									Sales & Marketing 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Computer Science
+							
+
+
+
+									Computer Engineering 
+
+
+
+
+									Computer Programming 
+
+
+
+
+									Cybersecurity 
+
+
+
+
+									Data Science 
+
+
+
+
+									Software 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Education & Teaching
+							
+
+
+
+									Education Law & Policy 
+
+
+
+
+									Pedagogy & Teaching Strategies 
+
+
+
+
+									Special & Specialized Education 
+
+
+
+
+									Student Support in Education 
+
+
+
+
+									Teaching English Language Learners 
+
+
+
+
+
+
+							 
+						
+
+
+
+									English
+							
+
+
+
+									Grammar 
+
+
+
+
+									Literature 
+
+
+
+
+									Public Speaking 
+
+
+
+
+									Reading 
+
+
+
+
+									Vocabulary 
+
+
+
+
+									Writing & Composition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Health & Medicine
+							
+
+
+
+									Counseling & Therapy 
+
+
+
+
+									Health 
+
+
+
+
+									Medicine 
+
+
+
+
+									Nursing 
+
+
+
+
+									Nutrition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									History
+							
+
+
+
+									US History 
+
+
+
+
+									World History 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities
+							
+
+
+
+									Communication 
+
+
+
+
+									Ethics 
+
+
+
+
+									Foreign Languages 
+
+
+
+
+									Philosophy 
+
+
+
+
+									Religious Studies 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math
+							
+
+
+
+									Algebra 
+
+
+
+
+									Basic Math 
+
+
+
+
+									Calculus 
+
+
+
+
+									Geometry 
+
+
+
+
+									Statistics 
+
+
+
+
+									Trigonometry 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Psychology
+							
+
+
+
+									Clinical & Abnormal Psychology 
+
+
+
+
+									Cognitive Science 
+
+
+
+
+									Developmental Psychology 
+
+
+
+
+									Educational Psychology 
+
+
+
+
+									Organizational Psychology 
+
+
+
+
+									Social Psychology 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science
+							
+
+
+
+									Anatomy & Physiology 
+
+
+
+
+									Astronomy 
+
+
+
+
+									Biology 
+
+
+
+
+									Chemistry 
+
+
+
+
+									Earth Science 
+
+
+
+
+									Engineering 
+
+
+
+
+									Environmental Science 
+
+
+
+
+									Physics 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Social Science
+							
+
+
+
+									Anthropology 
+
+
+
+
+									Criminal Justice 
+
+
+
+
+									Geography 
+
+
+
+
+									Law 
+
+
+
+
+									Linguistics 
+
+
+
+
+									Political Science 
+
+
+
+
+									Sociology 
+
+
+
+
+
+
+
+									Courses
+							
+
+
+
+
+
+By Subject
+
+
+By Education Level
+
+
+Adult Education
+
+
+Transferable Credit
+
+
+
+
+
+
+
+							By Subject
+						
+
+
+
+									Arts 
+
+
+
+
+									Business 
+
+
+
+
+									Computer Science 
+
+
+
+
+									Education & Teaching 
+
+
+
+
+									English (ELA) 
+
+
+
+
+									Foreign Language 
+
+
+
+
+									Health & Medicine 
+
+
+
+
+									History 
+
+
+
+
+									Humanities 
+
+
+
+
+									Math 
+
+
+
+
+									Psychology 
+
+
+
+
+									Science 
+
+
+
+
+									Social Science 
+
+
+
+
+
+
+							By Education Level
+						
+
+
+
+									Elementary School 
+
+
+
+
+									Middle School 
+
+
+
+
+									High School 
+
+
+
+
+									College 
+
+
+
+
+									Graduate and Post-Grad 
+
+
+
+
+
+
+
+									Test Prep
+							
+
+
+
+
+
+Teacher Certification Exams
+
+
+Nursing Exams
+
+
+Allied Health & Medicine Exams
+
+
+Real Estate Exams
+
+
+All Test Prep
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Teacher Certification Exams
+							
+
+
+
+									Praxis 
+
+
+
+
+									FTCE 
+
+
+
+
+									TExES 
+
+
+
+
+									CSET & CBEST 
+
+
+
+
+									More Teacher Certification Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Nursing Exams
+							
+
+
+
+									NCLEX 
+
+
+
+
+									HESI 
+
+
+
+
+									More Nursing Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Allied Health & Medicine Exams
+							
+
+
+
+									ASCP 
+
+
+
+
+									CNA 
+
+
+
+
+									CNS 
+
+
+
+
+									More Medical Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Real Estate Exams
+							
+
+
+
+									Real Estate Sales 
+
+
+
+
+									Real Estate Brokers 
+
+
+
+
+									Real Estate Appraisals 
+
+
+
+
+
+
+
+									Teach
+							
+
+
+
+
+
+Teaching Resources and Curriculum
+
+
+Skills Practice
+
+
+Lesson Plans
+
+
+Teacher Certification
+
+
+Teacher Professional Development
+
+
+
+
+
+
+
+
+									Tutoring
+							
+
+
+
+
+
+Math Tutoring
+
+
+Science Tutoring
+
+
+Business Tutoring
+
+
+Humanities Tutoring
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math Tutoring
+							
+
+
+
+									Algebra  Tutoring
+
+
+
+
+									Calculus  Tutoring
+
+
+
+
+									Geometry  Tutoring
+
+
+
+
+									Pre-calculus  Tutoring
+
+
+
+
+									Statistics  Tutoring
+
+
+
+
+									Trigonometry  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science Tutoring
+							
+
+
+
+									Biology  Tutoring
+
+
+
+
+									Chemistry  Tutoring
+
+
+
+
+									Physics  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business Tutoring
+							
+
+
+
+									Accounting  Tutoring
+
+
+
+
+									Economics  Tutoring
+
+
+
+
+									Finance  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities Tutoring
+							
+
+
+
+									History  Tutoring
+
+
+
+
+									Literature  Tutoring
+
+
+
+
+									Writing  Tutoring
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Math Courses
+			
+			/
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+		
+			
+Linear Algebra: Help & Tutorials
+Course
+
+
+
+
+		Vector Space Definition, Axioms & Examples
+	
+
+
+
+
+
+
+Lesson
+
+
+
+						
+							
+							
+								Transcript
+							
+						
+					
+
+
+
+
+					Jack Kinseth, Jenna McDanold
+			
+
+
+Author
+
+Jack Kinseth
+Jack has worked as a supplemental instructor at the college level for two years. He graduated cum laude with a Bachelor of Science degree in Mathematics from Iowa State University. He also has two years of experience tutoring at the K-12 level.
+
+					View bio
+				
+
+
+Instructor
+
+Jenna McDanold
+Jenna has two master's degrees in mathematics and has been teaching as an adjunct professor in Chicago for four years.
+
+					View bio
+				
+
+
+
+							Understand the motivation behind the vector space axioms. Discover properties of abstract vector spaces. Learn about vector spaces through theory and examples.
+						
+								
+									Updated: 11/21/2023
+								
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+What is vector space used for?
+
+Vector spaces have a wide array of applications both inside and outside of math. Within mathematics, vector spaces are the fundamental setting of calculus and linear algebra. Outside of mathematics, vector spaces have applications in error-correcting codes, quantum mechanics, cryptography, Fourier transforms and signal processing, image compression, etc.
+
+
+
+What is vector space in simple words?
+
+Roughly speaking, a vector space is a mathematical setting where the familiar rules of vector addition and scalar multiplication apply. To fully understand what a vector space is, one must turn to the axioms which precisely define it.
+
+
+
+What are axioms of vector space?
+
+The eight axioms that define a vector space are self-evident statements that are taken to be true without proof. In some sense, the axioms are ground rules that establish the rules of addition and scalar multiplication in a vector space.
+
+
+
+
+
+
+
+
+
+
+
+
+		Create an account
+		
+
+
+
+
+Table of ContentsWhat is a Vector Space? Vector Space Axioms Vector Space Examples Vector Space Properties Lesson SummaryShow 
+
+
+
+
+
+
+ What is a Vector Space?
+
+
+
+A vector space (sometimes called a linear space) is one of several types of abstract spaces mathematicians, physicists, and engineers work in. Other examples of such spaces are topological spaces, metric spaces, projective spaces, normed spaces, Banach spaces, inner product spaces, Hilbert spaces, and so on. Each of these abstract spaces is defined axiomatically in the language of sets. In order to formally define a vector space, it is necessary to review sets. In mathematics, a set is simply a collection of objects called elements. The following are all important examples of sets, written in set-builder notation: $$\textrm{The set of natural numbers,}\hspace{.1cm}\mathbb{N}=\{0,1,2,3,4,...\}, \\ \textrm{the set of integers,}\hspace{.1cm}\mathbb{Z}=\{...,-3,-2,-1,0,1,2,3,...\}, \\ \textrm{the set of even integers,}\hspace{.1cm}2\mathbb{Z}=\{n\in{\mathbb{Z}}\hspace{.1cm}|\hspace{.1cm}n\equiv{0}\hspace{.1cm}(\textrm{mod}\hspace{.1cm}2)\},\hspace{.1cm}\textrm{and}\\ \textrm{the set of rational numbers,}\hspace{.1cm}\mathbb{Q}=\left\{\frac{p}{q}\hspace{.1cm}|\hspace{.1cm}p,q\in{\mathbb{Z}}\hspace{.1cm}\textrm{and}\hspace{.1cm}q\not=0\right\}, $$ and so on. The typical formulation of a set in set-builder notation is $$A=\{\textrm{What elements of A look like}\hspace{.1cm}|\hspace{.1cm}\textrm{Conditions concerning elements of A are true}\}, $$ where the vertical bar is read as "such that." Sets need not be infinite nor ordered. Consider the set {eq}A=\{4,1,8,3,0\}. {/eq} Set membership is denoted as follows: {eq}8\in{A}, {/eq} but {eq}9\not\in{A}. {/eq} Sets that live inside of larger sets are called subsets, and one denotes the relationship as follows: {eq}\{0,1,3\}\subset{A} {/eq} and {eq}\mathbb{N}\subset{\mathbb{Z}}\subset{\mathbb{Q}}, {/eq} but {eq}\mathbb{N}\not\subset{2\mathbb{Z}}. {/eq} It is important to note that every set is a subset of itself in the following sense: {eq}A\subseteq{A}. {/eq} The most important set for this discussion of vector spaces is the set of real numbers denoted {eq}\mathbb{R}. {/eq} For technical reasons, one cannot write {eq}\mathbb{R} {/eq} as a set like {eq}\mathbb{N}, \mathbb{Z}, {/eq} and {eq}\mathbb{Q}. {/eq} Roughly speaking, the continuum of numbers on the number line constitutes the set of real numbers, which includes numbers like {eq}-17.61, \pi, e, \sqrt{2}, {/eq} etc. More precisely, {eq}\mathbb{R} {/eq} is the unique Dedekind-complete ordered field up to isomorphism. The first vector spaces to be examined will be constructed over the field of real numbers. If the term field is unfamiliar, it is just a fancy name for a set {eq}F {/eq} equipped with two binary operations {eq}+ {/eq} and {eq}\cdot, {/eq} called addition and multiplication, respectively, and two numbers, {eq}0 {/eq} and {eq}1, {/eq} satisfying the following axioms: $$1.\hspace{.1cm}a+(b+c)=(a+b)+c, \\ 2.\hspace{.1cm}a + b = b + a, \\ 3.\hspace{.1cm}a(b+c)=ab+ac, \\ 4.\hspace{.1cm}0+a=a+0, \\ 5.\hspace{.1cm}a\cdot(b\cdot{c})=(a\cdot{b})\cdot{c}, \\ 6.\hspace{.1cm}a\cdot{b}=b\cdot{a}, \\ 7.\hspace{.1cm}1\cdot{a}=a\cdot{1}, \\ 8.\hspace{.1cm}(a+b)c=ac+bc, \\ 9.\hspace{.1cm}a+(-a)=0=(-a)+a, \hspace{.1cm}\textrm{and}\\ 10.\hspace{.1cm}a\cdot{a}^{-1}=1=a^{-1}\cdot{a}\hspace{.1cm}\textrm{if}\hspace{.1cm}a\not=0 $$ for all {eq}a,b,c\in{F}. {/eq} Examples of fields include {eq}\mathbb{Q},\hspace{.1cm} \mathbb{R}, {/eq} and {eq}\mathbb{C}=\{a+bi\hspace{.1cm}|\hspace{.1cm}a,b\in{\mathbb{R}}\}, {/eq} the field of complex numbers. Note that the integers are not a field because they fail to satisfy the axiom requiring the existence of multiplicative inverses for all elements in the set. Additionally, fields need not be infinite! Finite fields have important applications in coding theory and cryptography, and later, vector spaces over finite fields will be discussed. Based on this review, vector spaces can now be formally defined. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An error occurred trying to load this video.
+Try refreshing the page, or contact customer support.
+
+
+
+
+
+You must cCreate an account to continue watching
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+
+							 Create Your Account To Continue Watching
+As a member, you'll also get unlimited access to over 88,000
+						lessons in math, English, science, history, and more. Plus, get practice tests, quizzes, and personalized coaching to help you
+						succeed.
+
+						Get unlimited access to over 88,000 lessons.
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+							
+								 
+								 
+									  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		It only takes a few minutes to setup and you can cancel any time.
+	
+	
+
+
+								 
+							
+                        
+
+Already registered? Log in here for
+						access
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+
+
+
+
+Coming up next:
+					Basis of a Vector Space | Definition & Examples
+			
+
+You're on a roll. Keep up the good work!
+
+
+						Take Quiz
+					
+
+Watch Next Lesson
+
+
+
+ Replay
+		
+
+
+
+
+
+
+Just checking in. Are you still watching?
+Yes! Keep playing. 
+
+
+
+
+
+	Your next lesson will play in
+	10 seconds
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        0:00 What Are Vector Spaces?
+
+
+                        2:22 Axioms for Vector Spaces
+
+
+                        4:31 Example of Vector Spaces
+
+
+                        13:09 Lesson Summary
+
+
+
+
+
+
+View Video Only
+
+ Save
+
+
+ Timeline
+				
+
+51K views
+
+
+
+
+
+
+
+
+									Video
+							
+
+
+
+									Quiz
+								
+
+
+
+									Course
+								
+
+
+
+									Video Only
+								
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+							51K
+							views
+
+
+
+
+
+
+
+ Vector Space Axioms
+
+
+
+A vector space {eq}V {/eq} over a field {eq}F {/eq} is a set equipped with a binary operation {eq}+: V\times{V}\to{V} {/eq} and function {eq}F\times{V}\to{V} {/eq} called vector addition and scalar multiplication, respectively, satisfying the following axioms (self-evident "ground rules" that require no justification) for all vectors {eq}\vec{u}, \vec{v}, \vec{w}\in{V} {/eq} and scalars {eq}a,b\in{F} {/eq}: $$1.\hspace{.1cm} \vec{u}+(\vec{v}+\vec{w})=(\vec{u}+\vec{v})+\vec{w}, \\ 2.\hspace{.1cm} \vec{u}+\vec{v}=\vec{v}+\vec{u}, \\ 3.\hspace{.1cm} \textrm{There exists an element}\hspace{.1cm}\vec{0}\in{V}\hspace{.1cm}\textrm{such that}\hspace{.1cm}\vec{0}+\vec{u}=\vec{u}=\vec{u}+\vec{0}, \\ 4.\hspace{.1cm} \textrm{For all}\hspace{.1cm}\vec{u}\in{V}, \textrm{there exists an element}-\vec{u}\hspace{.1cm}\textrm{such that}\hspace{.1cm}\vec{u}+(-\vec{u})=\vec{0}=-\vec{u}+\vec{u}, \\ 5.\hspace{.1cm} a(b\vec{u})=(ab)\vec{u}, \\ 6.\hspace{.1cm} 1\vec{u}=\vec{u}, \hspace{.1cm}\textrm{where}\hspace{.1cm}1\hspace{.1cm}\textrm{denotes the multiplicative identity in}\hspace{.1cm}F, \\ 7.\hspace{.1cm} a(\vec{u}+\vec{v})=a\vec{u}+a\vec{v},\hspace{.1cm}\textrm{and}\\ 8.\hspace{.1cm} (a+b)\vec{u}=a\vec{u}+b\vec{u}. $$ The quicker way of defining a vector space is to say that a vector space {eq}V {/eq} over a field {eq}F {/eq} is an additive abelian group equipped with a function {eq}F\times{V}\to{V} {/eq} (scalar multiplication) such that {eq}5 {/eq}-{eq}8 {/eq} hold since axioms {eq}1 {/eq}-{eq}4 {/eq} are precisely the axioms of an abelian group (Moreover, axioms {eq}5 {/eq}-{eq}8 {/eq} give this group an {eq}F {/eq}-module structure with scalar multiplication defined {eq}a\vec{u}=(f(a))(\vec{u}), {/eq} where {eq}f {/eq} is the ring homomorphism from {eq}F {/eq} into the endomorphism ring of the group of vectors). The first four axioms deal strictly with the addition operation and are called associativity, commutativity, the existence of an additive identity, and the existence of additive inverses, respectively. Axioms {eq}5 {/eq} and {eq}6 {/eq} deal strictly with scalar multiplication. Call the former associativity of scalar multiplication and the latter the existence of a multiplicative identity. Axioms {eq}7 {/eq} and {eq}8 {/eq} describe how addition and multiplication interact with one another, and both are called distributive properties. Notice that a statement like {eq}a(b\vec{u})=b(a\vec{u}), {/eq} though true, need not be included in the list of axioms since it follows immediately from the commutativity property of multiplication in the field and the associative property of scalar multiplication. Mathematical constructions defined axiomatically are valued for their sense of economy, i.e., how much explanatory power they provide in as few axioms as possible. For example, the four axioms required to define an abelian group seen earlier can be written on a small piece of paper, yet yield an incredibly rich theory that describes the structure of symmetry.  
+
+Vector addition visualized in the plane
+
+
+
+
+
+
+ A natural question to ask at this point is, "why these axioms?" While they do feel somewhat arbitrary from afar, they are the result of centuries of mathematical progress and refinement. Whereas math textbooks often introduce definitions, then theorems, then examples, actual mathematics works in the opposite direction: first, mathematicians investigate several different examples, then assert some conjectures that attempt to capture the general behavior of these examples. If they are lucky, they prove some theorems about the general case of several examples then formally define what it is they are working with. The initial motivation for the vector space axioms was to formally establish a framework for working with Euclidean space, the fundamental setting for classical geometry and physics. Euclidean space will be the first example of a vector space investigated. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Vector Space Examples
+
+
+
+The two vector spaces students are intimately familiar with from elementary geometry, algebra, and calculus are {eq}\mathbb{R}^{2} {/eq} and {eq}\mathbb{R}^{3}, {/eq} real two- and three-dimensional space equipped with the dot product. These are special vector spaces called Euclidean spaces, i.e., finite-dimensional real inner product spaces. Newtonian physics (classical mechanics) is carried out in the setting of {eq}\mathbb{R}^{3} {/eq} since point particles, velocity vectors, acceleration vectors, and angles are all easily modeled in this vector space. For example, the vector {eq}\langle{4,3,1}\rangle\in\mathbb{R}^{3} {/eq} can be interpreted as the directed arrow from the origin {eq}(0,0,0) {/eq} to {eq}(4,3,1). {/eq} Moreover, the third axiom, $$\vec{0}+\vec{u}=\vec{u}=\vec{u}+\vec{0}, $$ gives this natural origin point such that one can construct coordinate systems, such as Cartesian, cylindrical, and spherical, to describe points in space relative to this origin. An important result in linear algebra asserts that {eq}n {/eq}-dimensional Euclidean space for some nonnegative integer {eq}n {/eq} is isomorphic to —"looks like"—{eq}\mathbb{R}^{n}. {/eq} In addition to satisfying the aforementioned vector space axioms, these vector spaces possess additional operations between vectors aside from addition, namely the dot product and inner product. These operations provide a way of multiplying vectors, a property that vector spaces need not have, in general. Vectors in {eq}\mathbb{R}^{n} {/eq} are sometimes called "{eq}n {/eq}-tuples" since they are lists of {eq}n {/eq} real numbers. Vector spaces need not be finite-dimensional; there exist infinite-dimensional vector spaces such as function spaces. If {eq}V {/eq} is a vector space over a field {eq}F {/eq} and {eq}X {/eq} is any set, the set of all functions {eq}f: X \to V {/eq} can be endowed with the structure of a vector space, i.e., notions of vector addition and scalar multiplication that satisfy the vector space axioms. These vector spaces typically have a topological structure and allow calculus to be done over spaces other than {eq}\mathbb{R}^{n}. {/eq} Another important example of a vector space is {eq}V=M_{m\times{n}}, {/eq} the set of all {eq}m\times{n} {/eq} matrices with entries from a field, typically {eq}\mathbb{R} {/eq} or {eq}\mathbb{C}. {/eq} This vector space stands as a testament to the fact that multiplication between elements need not be commutative, or even defined!  Now, to briefly address an important class of finite-dimensional vector spaces: vector spaces over finite fields. For the sake of not diving too deeply into the theory of finite fields, it can be taken for granted that there is a unique finite field (up to isomorphism) of order (size) {eq}p^{n}, {/eq} where {eq}p {/eq} is a prime number and {eq}n {/eq} is some nonnegative integer. So there exist finite fields with {eq}5, 27, {/eq} and {eq}256 {/eq} elements since {eq}5=5^{1}, 27=3^{3}, {/eq} and {eq}256=2^{8}; {/eq} however, there exists no finite field with {eq}6 {/eq} elements since {eq}6\not=p^{n} {/eq} for any prime number {eq}p {/eq} and nonnegative integer {eq}n. {/eq} Finite fields are typically denoted either {eq}\mathbb{F}_{q} {/eq} or GF{eq}(q), {/eq} where {eq}q=p^{n} {/eq} and "GF" stands for "Galois field," named after famous algebraist Evariste Galois. Vector space is defined as {eq}V {/eq} over {eq}F=\mathbb{F}_{q} {/eq} as before according to the axioms. These vector spaces have the special property that vectors can be orthogonal (perpendicular) to themselves! This property makes these vector spaces useful in coding theory and, in particular, error-correcting codes.  
+
+An example of a vector field, a function of a space whose value at each point is a vector quantity
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+ Vector Space Properties
+
+
+
+To further understand vector spaces, consider {eq}\mathbb{R}^{3}, {/eq} real three-dimensional space, as a case study. As a set, one writes {eq}\mathbb{R}^{3}=\{\langle{x,y,z}\rangle\hspace{.1cm}|\hspace{.1cm}x,y,z\in{\mathbb{R}}\}. {/eq} The ability to sum and scalar multiply vectors with three real coordinates is owed to the vector space structure of {eq}\mathbb{R}^{3}. {/eq} Consider, for example, $$\langle{2,-3,5}\rangle + \langle{-4,3,1}\rangle = \langle{-2,0,6}\rangle,\hspace{.1cm}\textrm{and} \\ \frac{1}{3}\langle{6,3,-3}\rangle=\langle{2,1,-1}\rangle. $$ By the associativity of vector addition, one has that $$\langle{2,-3,5}\rangle + \langle{-4,3,1}\rangle =\langle{-4,3,1}\rangle +\langle{2,-3,5}\rangle, $$ for example. In order to find the unique additive inverse of, say, {eq}\vec{u}=\langle{2,-3,5}\rangle, {/eq} simply write the vector with component-wise additive inverses: $$-\vec{u}=\langle{-2,3,-5}\rangle. $$ Notice that this is equivalent to scaling the original vector {eq}\vec{u} {/eq} by {eq}-1. {/eq} Furthermore, it follows from the axioms that $$\vec{u}+(-\vec{u})=\langle{2,-3,5}\rangle + \langle{-2,3,-5}\rangle = \langle{0,0,0}\rangle=\vec{0}. $$ Generally, in {eq}\mathbb{R}^{n}, {/eq} {eq}\vec{0} {/eq} is the vector with {eq}n {/eq} coordinates all equaling {eq}0. {/eq} Geometrically, the associativity of scalar multiplication in {eq}\mathbb{R}^{3} {/eq} is obvious. Algebraically, it is worth a convincing example. Consider, again, {eq}\vec{v}=\langle{6,3,-3}\rangle. {/eq} Scaling by a factor of {eq}\frac{1}{3} {/eq} then by a factor of {eq}9 {/eq} yields $$9(\frac{1}{3}\vec{v})=9(\frac{1}{3}\langle{6,3,-3}\rangle)=9\langle{2,1,-1}\rangle=\langle{18,9,-9}\rangle, $$ which is the same as just scaling by a factor of {eq}3 {/eq}: $$9(\frac{1}{3}\vec{v})=(9\cdot{\frac{1}{3}})\vec{v}=3\langle{6,3,-3}\rangle=\langle{18,9,-9}\rangle, $$ since {eq}9\cdot{\frac{1}{3}}=3. {/eq} The ability to write any vector {eq}\vec{u}\in\mathbb{R}^{3} {/eq} as a linear combination of {eq}\langle{1,0,0}\rangle, \langle{0,1,0}\rangle, {/eq} and {eq}\langle{0,0,1}\rangle, {/eq} $$\vec{u}=\langle{x,y,z}\rangle=x\langle{1,0,0}\rangle+y\langle{0,1,0}\rangle+z\langle{0,0,1}\rangle, $$ is a direct consequence of the fact that any {eq}n {/eq}-dimensional vector space has a basis of {eq}n {/eq} orthogonal vectors. In the case of {eq}\mathbb{R}^{3}, {/eq} these basis elements are the three aforementioned unit vectors. The notions of linear independence, linear combinations, spanning sets, and bases are essential to understanding the full power of vector spaces, but a proper exploration of these ideas would be far too time-consuming and derail the current discussion. Notice that the vector space {eq}\mathbb{R}^{2}=\{\langle{x,y}\rangle\hspace{.1cm}|\hspace{.1cm}x,y\in\mathbb{R}\} {/eq} lives inside of {eq}\mathbb{R}^{3} {/eq} in the sense that {eq}\mathbb{R}^{2} {/eq} is a subset of {eq}\mathbb{R}^{3} {/eq} and {eq}\mathbb{R}^{2} {/eq} forms a vector space under the same zero vector and operations as {eq}\mathbb{R}^{3}. {/eq} Just like the relationship between sets and subsets, vector spaces possess subspaces, and one denotes the relationship as follows: {eq}\mathbb{R}^{2}\subset\mathbb{R}^{3}. {/eq} Similarly, any vector space {eq}V {/eq} is a subspace of itself in the following sense: {eq}V\subseteq{V}. {/eq} 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+ Lesson Summary
+
+
+
+In this brief lesson, vector (linear) spaces over fields were defined axiomatically and several of their properties and applications were addressed, both inside and outside of math. Basic properties of sets were recalled in order to formally discuss vector spaces. Later in the lesson, the parallel nature of subsets and subspaces were noted. The axioms which constitute fields and vector spaces are taken as self-evident ground rules in mathematics which require no justification. In summary, fields are sets with {eq}0 {/eq} and {eq}1 {/eq} elements closed under an addition and multiplication operation that satisfy associativity, commutativity, the existence of additive and multiplicative inverses, and distributive properties that describe how addition and multiplication interact. Vector spaces are sets with vectors, which are lists of numbers from the field, as elements. Vector spaces have a zero vector denoted {eq}\vec{0}, {/eq} and two operations, vector addition and scalar multiplication, which satisfy associativity and commutativity of addition, associativity of scalar multiplication, the existence of additive inverses, and distributive properties. Finally, several of these properties of vector spaces were verified using {eq}\mathbb{R}^{3} {/eq} as a case study.
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+														Video Transcript
+														
+													
+
+
+
+What Are Vector Spaces?To define a vector space, first we need a few basic definitions. A set is a collection of distinct objects called elements. The elements are usually real or complex numbers when we use them in mathematics, but the elements of a set can also be a list of things. We notate a set by encasing the elements within curly braces. Note that to be distinct, an element cannot be repeated within the same set. 
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} is the set of single-digit numbers that we use in mathematics. 
+{a, b, c, d, . . ., y, z} is the set of letters in the alphabet. 
+Let's now take a closer look at elements in vector spaces. First, it's important to note that a space in mathematics is a set in which the list of elements are defined by a collection of guidelines or axioms for how each element relates to another within the set. A vector space is a space in which the elements are sets of numbers themselves. Each element in a vector space is a list of objects that has a specific length, which we call vectors. We usually refer to the elements of a vector space as n-tuples, with n as the specific length of each of the elements in the set. Each element of a vector space of length n can be represented as a matrix, which you may recall is a collection of numbers within parentheses. Matrix representations require multiple other lessons in matrix multiplication and addition, so we will use the parentheses notation for this lesson. Here's an example: In the 4-dimensional vector space of the real numbers, notated as R4, one element is (0, 1, 2, 3). This vector has four parts and is a single element within the vector space R4. Now let's take a closer look at fields. We refer to any vector space as a vector space defined over a given field F. A field is a space of individual numbers, usually real or complex numbers. The specific axioms to define a field are similar to those of a vector space, so for the purposes of this lesson, we'll define a field as a vector space whose elements are single numbers that adhere to the same set of axioms as those we are about to explain. 
+Axioms for Vector SpacesThere are ten axioms that define a vector space. We let x, y, and z be elements of the vector space V. We let a and b be elements of the field F. 
+Closed under addition: For each element x and y in V, x + y is also in V. 
+Closed under scalar multiplication: For each element x in V and scalar a in F, ax is in V. 
+Commutativity of addition: For each element x and y in V, x + y = y + x. 
+Associativity of addition: For each element x, y, and z in V, (x + y) + z = x + (y + z). 
+Existence of the additive identity: There exists an element in V denoted as 0 such that x + 0 = x, for all x in V. 
+Existence of the additive inverse: For each element x in V, there exists another element in V that we will call -x such that x + (-x) = 0. 
+Existence of the multiplicative identity: There exists an element in F notated as 1 such that for all x in V, 1x = x. 
+Associativity of scalar multiplication: For each element x in V, and for each pair of elements a and b in F, (ab)x = a(bx). 
+Distribution of elements to scalars: For each element a in F and each pair of elements x and y in V, a(x + y) = ax + ay. 
+Distribution of scalars to elements: For each element x in V, and each pair of elements a and b in F, (a + b)x = ax + bx. 
+Example of Vector SpacesThese are the spaces of n-tuples in which each part of each element is a real number, and the set of scalars is also the set of real numbers. Let's take a closer look at some key definitions for our example. 
+Addition is defined as adding the corresponding parts of each element: (a, b, . . . ) + (c, d, . . . ) = (a + c, b + d, . . .). 
+Scalar multiplication is defined as multiplying every part of the element by the scalar: a(b, c, . . . ) = (ab, ac, . . . ). 
+The additive identity for these vector spaces is the element (0, 0, 0, . . . , 0), in which there are n 0s in this element. 
+The multiplicative identity for these vector spaces is the scalar 1 from the field of real numbers R. 
+The following is a basic example, but not a proof that the space R3 is a vector space. Axiom 1: Closure of AdditionLet x = (0, 1, 2), and let y = (3, 4, 5) from R3: 
+x + y = (0, 1, 2) + (3, 4, 5) = (0 + 3, 1 + 4, 2 + 5) = (3, 5, 7) 
+Another element in R3 is (3, 5, 7). We can generalize the above as follows: 
+x + y = (a, b, c) + (d, e, f) = (a + d, b + e, c + f) 
+(a + d, b + e, c + f) is another element of R3, and therefore this space is closed under addition. Axiom 2: Closure of Scalar MultiplicationLet x be (a, b, c) from R3, and let g be an element from the field F. 
+g(a, b, c) = (ga, gb, gc) 
+Since (ga, gb, gc) is another element of R3, this space is also closed under scalar multiplication. Axiom 3: Commutativity of AdditionLet x = (0, 1, 2), and let y = (3, 4, 5) from R3: 
+x + y = (0, 1, 2) + (3, 4, 5) = (0 + 3, 1 + 4, 2 + 5) = (3, 5, 7) 
+y + x = (3, 4, 5) + (0, 1, 2) = (3 + 0, 4 + 1, 5 + 2) = (3, 5, 7) 
+
+
+
+This example can be generalized by replacing the integers with letters as placeholders for any real numbers. Axiom 4: Associativity of AdditionLet x = (0, 1, 2), y = (3, 4, 5), and z = (6, 7, 8) from R3: 
+(x + y) + z = (0, 1, 2) + (3, 4, 5) + (6, 7, 8) = (3, 5, 7) + (6, 7, 8) = (9, 12, 15) 
+x + (y + z) = (0, 1, 2) + (3, 4, 5) + (6, 7, 8) = (0, 1, 2) + (9, 11, 13) = (9, 12, 15) 
+This example can also be generalized by replacing the integers with letters as placeholders for any real numbers. For the rest of the axioms, we'll generalize the elements using a, b, c, d, e, f, g, and h as placeholders. Axiom 5: Additive Identity
+(0, 0, 0) given (a, b, c) in R3 
+(a, b, c) + (0, 0, 0) = (a + 0, b + 0, c + 0) = (a, b, c) 
+Axiom 6: Additive InverseGiven (a, b, c) in R3, then there exists (-a, -b, -c) in R3 so that: 
+(a, b, c) + (-a, -b, -c) = (a + (-a), b + (-b), c + (-c)) = (0, 0, 0) 
+Axiom 7: Multiplicative IdentityThe scalar 1 from the field of real numbers: 
+1(a, b, c) = (1a, 1b, 1c) = (a, b, c) 
+Axiom 8: Associativity of Scalar MultiplicationGiven d and e from the field of real numbers, and (a, b, c) from R3: 
+(de)(a, b, c) = (dea, deb, dec) 
+d''e''(''a'', ''b'', ''c'') = d(ea, eb, ec) = (dea, deb, dec) 
+Axiom 9: Distribution of Scalars Among ElementsGiven (a, b, c) and (d, e, f) from R3 and g from the field R: 
+g(''a'', ''b'', ''c'') + (''d'', ''e'', ''f'') = g(a + d, b + e, c + f) = (ga + gd, gb + ge, gc + gf) 
+g(a, b, c) + g(d, e, f) = (ga, gb, gc) + (gd, ge, gf) = (ga + gd, gb + ge, gc + gf) 
+Axiom 10: Distribution of Elements Among ScalarsGiven (a, b, c) from R3, and g and h from the field R: 
+(g + h)(a, b, c) = ((g + h)a, (g + h)b, (g + h)c) = (ga + ha, gb + hb, gc + hc) 
+g(a, b, c) + h(a, b, c) = (ga, gb, gc) + (ha, hb, hc) = (ga + ha, gb + hb, gc + hc) 
+Lesson SummaryNow let's take a brief moment or two to recap what we've learned about vector spaces. First, we learned that sets are collections of distinct objects called elements, that a list of objects that has a specific length is called a vector, and that a vector space is a space in which the elements are sets that adhere to the ten axioms set forth that we described. The ten axioms that we learned about are as follows: 
+Closed under addition: For each element x and y in V, x + y is also in V. 
+Closed under scalar multiplication: For each element x in V and scalar a in F, ax is in V. 
+Commutativity of addition: For each element x and y in V, x + y = y + x. 
+Associativity of addition: For each element x, y, and z in V, (x + y) + z = x + (y + z). 
+Existence of the additive identity: There exists an element in V denoted as 0 such that x + 0 = x, for all x in V. 
+Existence of the additive inverse: For each element x in V, there exists another element in V that we will call -x such that x + (-x) = 0. 
+Existence of the multiplicative identity: There exists an element in F notated as 1 such that for all x in V, 1x = x. 
+Associativity of scalar multiplication: For each element x in V, and for each pair of elements a and b in F, (ab)x = a(bx). 
+Distribution of elements to scalars: For each element a in F and each pair of elements x and y in V, a(x + y) = ax + ay. 
+Distribution of scalars to elements: For each element x in V, and each pair of elements a and b in F, (a + b)x = ax + bx. 
+To properly define vector spaces, you must define scalar multiplication and addition functions that will make sure the associativity, commutativity, and distribution properties are conserved.
+
+
+
+
+
+
+			
+				
+				
+					To unlock this lesson you must be a Study.com Member.
+				
+			
+			
+			
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+Unlock Your Education
+See for yourself why 30 million people use Study.com
+Become a Study.com member and start learning now.
+Become a Member
+Already a member? Log In
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+Recommended Lessons and Courses for You
+
+
+Related Lessons
+
+
+Related Courses
+
+
+
+
+
+
+
+
+									Recommended Lessons for You
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basis of a Vector Space | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Dependence & Independence | Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Gram-Schmidt Orthonormalization | Process, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Field in Mathematics | Definition, Examples & Theory
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orthogonal Vectors Overview, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Matrix Diagonalization | Definition, Process & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Standard Unit Vector & Standard Basis Vector Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Reduced Row-Echelon Form | Definition, Rules & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gauss-Jordan Method & Elimination | Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Cayley-Hamilton Theorem | Proof, History & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Cauchy-Schwarz Inequality | Overview & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Combination | Definition, Methods & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Set vs. Closed Set | Definition, Comparison & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Convolution Theorem | Proof, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Eigenvalues & Eigenvectors | Overview, Equation & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Matrix Row Operations | Rules & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Difference Between a Row & Column Vector
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+The Axiomatic System: Definition & Properties
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Moment-Generating Function | MGF Definition, Formula & Properties
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Division Algorithm | Overview, Examples & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									Related Courses
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Statistics: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Holt McDougal Algebra 2: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Fundamental Geometry
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+6th-8th Grade Math: Practice & Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Algebra: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Algebra Syllabus & Lesson Plans
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Division: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Intro to Calculus
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+College Algebra: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Student Resources
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+National Entrance Screening Test (NEST): Exam Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+MHT-CET: Practice & Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra I: High School
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 1: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 2: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common Core Math Grade 8 - Expressions & Equations: Standards
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra II: High School
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+College Algebra: Certificate Program
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Statistics: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Start today. Try it now
+		
+
+
+
+
+Table of ContentsWhat is a Vector Space? Vector Space Axioms Vector Space Examples Vector Space Properties Lesson SummaryShow 
+
+
+
+
+
+
+Linear Algebra: Help & Tutorials
+
+
+6 chapters |
+				
+					
+					
+						44 lessons
+						
+					
+				
+			
+
+
+
+
+
+
+Ch 1. 
+									
+										Basic Algebra Review
+
+
+
+
+
+
+
+
+
+
+Ch 2. 
+									
+										Linear Equations & Systems
+
+
+
+
+
+
+
+
+
+
+Ch 3. 
+              Vectors in Linear Algebra
+
+
+
+
+
+
+							Scalars vs. Vectors | Overview, Differences & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+3:23
+						 
+
+
+
+							Performing Operations on Vectors in the Plane
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:28
+						 
+
+
+
+							Vector Dot Product | Formula & Representations
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:21
+						 
+
+
+
+							Vector Space Definition, Axioms & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+15:47
+						 
+
+
+
+
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:22
+						 
+Next Lesson
+
+
+
+
+
+
+Basis of a Vector Space | Definition & Examples
+
+
+
+
+							Orthogonal Vectors Overview, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:01
+						 
+
+
+
+							Gram-Schmidt Orthonormalization | Process, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:14
+						 
+
+
+
+							Linear Combination of Vectors |  Definition & Examples
+					
+
+
+
+							Linear Dependence & Independence | Overview & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:34
+						 
+
+
+
+
+
+
+
+Ch 4. 
+									
+										Matrices in Linear Algebra
+
+
+
+
+
+
+
+
+
+
+Ch 5. 
+									
+										Determinants in Linear Algebra
+
+
+
+
+
+
+
+
+
+
+Ch 6. 
+									
+										Eigenvalue and Eigenvector in Linear...
+
+
+
+
+
+
+
+
+
+
+
+
+Vector Space Definition, Axioms & Examples Related Study Materials
+
+
+
+
+
+
+
+
+				Related Lessons
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basis of a Vector Space | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Dependence & Independence | Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Gram-Schmidt Orthonormalization | Process, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Field in Mathematics | Definition, Examples & Theory
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orthogonal Vectors Overview, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Matrix Diagonalization | Definition, Process & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Standard Unit Vector & Standard Basis Vector Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Reduced Row-Echelon Form | Definition, Rules & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gauss-Jordan Method & Elimination | Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Cayley-Hamilton Theorem | Proof, History & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Cauchy-Schwarz Inequality | Overview & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Combination | Definition, Methods & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Set vs. Closed Set | Definition, Comparison & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Convolution Theorem | Proof, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Eigenvalues & Eigenvectors | Overview, Equation & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Matrix Row Operations | Rules & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Difference Between a Row & Column Vector
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+The Axiomatic System: Definition & Properties
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Moment-Generating Function | MGF Definition, Formula & Properties
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Division Algorithm | Overview, Examples & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Related Courses
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Statistics: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Holt McDougal Algebra 2: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Fundamental Geometry
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+6th-8th Grade Math: Practice & Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Algebra: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Algebra Syllabus & Lesson Plans
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Division: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Intro to Calculus
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+College Algebra: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Student Resources
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+National Entrance Screening Test (NEST): Exam Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+MHT-CET: Practice & Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra I: High School
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 1: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 2: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common Core Math Grade 8 - Expressions & Equations: Standards
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra II: High School
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+College Algebra: Certificate Program
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Statistics: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Topics
+
+
+
+
+
+
+Browse by Courses
+Precalculus: Homework Help Resource
+High School Precalculus: Tutoring Solution
+High School Algebra II: Homework Help Resource
+Math 105: Precalculus Algebra
+CSET Math Subtest I (211) Prep
+CSET Math Subtest II (212) Prep
+CSET Math Subtest III (213) Prep
+Supplemental Math: Study Aid
+CLEP Precalculus Prep
+GRE Test: Practice & Study Guide
+Common Core Math - Number & Quantity: High School Standards
+Common Core Math - Algebra: High School Standards
+Common Core Math - Statistics & Probability: High School Standards
+Geometry: High School
+Common Core Math - Geometry: High School Standards
+
+
+
+
+
+
+Browse by Lessons
+Scalars vs. Vectors | Overview, Differences & Examples
+Representing Complex Numbers With Vectors
+Complex Numbers as Vectors
+How to Integrate sec(5x): Steps & Tutorial
+Converting 1 Second to Microseconds: How-To & Tutorial
+Order of Magnitude: Analysis & Problems
+Abstract Equation: Definition & Concept
+Hyperboloid of One Sheet | Definition, Equation & Examples
+Finding the Derivative of 2sinxcosx
+Chi-Square Test of Independence: Example & Formula
+Asymptotic Discontinuity | Overview, Function & Examples
+How to Convert Square Feet to Square Yards
+Identity Matrix | Definition, Properties & Examples
+System of 2 Equations | Overview, Types & Examples
+Solving Systems of Three Equations with Elimination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Create an account to start this course today
+			
+
+						  
+							  Used by over 30 million students worldwide
+						  
+						  
+                
+
+
+				  Create an account
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like this lesson
+
+
+
+Share
+
+
+
+
+Explore our library of over 88,000 lessons
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Browse
+
+
+						Browse by subject
+					
+
+
+College Courses
+
+Business
+English
+Foreign Language
+History
+Humanities
+Math
+Science
+Social Science
+See All College Courses
+
+
+
+High School Courses
+
+AP
+Common Core
+GED
+
+High School
+See All High School Courses
+
+
+
+Other Courses
+
+College & Career Guidance Courses
+College Placement Exams
+Entrance Exams
+General Test Prep
+K-8 Courses
+Skills Courses
+Teacher Certification Exams
+See All Other Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade to enroll
+×
+
+
+Upgrade to Premium to enroll in Linear Algebra: Help & Tutorials
+Enrolling in a course lets you earn progress by passing quizzes and exams.
+
+
+
+
+Track course progress
+
+
+
+
+Take quizzes and exams
+
+
+
+
+Earn certificates of completion
+
+
+
+			You will also be able to:
+			
+Create a Goal
+Create custom courses
+Get your questions answered
+
+
+
+
+Upgrade to Premium to add all these features to your account!
+
+			Upgrade Now
+		
+Upgrade to Premium to add all these features to your account!
+
+
+
+
+
+
+
+
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars® Solutions
+Online tutoring
+
+
+
+About Us
+
+Blog
+Careers
+Teach For Us
+Press Center
+Ambassador
+Scholarships
+
+
+
+
+
+Support
+
+FAQ
+Site Feedback
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working Scholars® Bringing Tuition-Free College to the Community
+
+
+
+
+
+
+
+
+©  Copyright 2024 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		
+
+
+
+
+
+Terms of Use  
+Privacy Policy  
+DMCA Notice  
+ADA Compliance  
+Honor Code For Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+

@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Modelling in Physics and Technology | Faculty of Mathematics and Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                MFF UK
+            
+
+Login
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+FacultyContactsNotice BoardBuildings and CampusesOrganizational structureAcademic SenateVisual IdentityJob OpportunitiesMore...StudentsBachelor of Computer ScienceMaster of Computer ScienceMaster of MathematicsMaster of PhysicsAcademic CalendarStudy FormsStudies AbroadCounsellingErasmus+Exchange programmesMore...A Few Useful HintsAdmissionsWhy study in Prague?ProgrammesAdmission RequirementsScholarshipsCosts and DatesVisaFAQLiving in PragueApplication FormExchange programmesAdmission ContactsMore...PublicNewsCalendarMultimediaAlumniPress ReleasesOpen DayMore...Research, Grants, Global RelationsCooperationDpt. for Business CooperationPartnership ProgrammeDonorsInternal affairsRegulationsFormsGuidesLibraryIT and ServicesSafety
+
+
+
+
+
+
+
+
+
+Admission
+Study forms
+Departments
+CUNI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phone book
+Internal structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FacultyContactsNotice BoardBuildings and CampusesOrganizational structureAcademic SenateVisual IdentityJob OpportunitiesMore...StudentsBachelor of Computer ScienceMaster of Computer ScienceMaster of MathematicsMaster of PhysicsAcademic CalendarStudy FormsStudies AbroadCounsellingErasmus+Exchange programmesMore...A Few Useful HintsAdmissionsWhy study in Prague?ProgrammesAdmission RequirementsScholarshipsCosts and DatesVisaFAQLiving in PragueApplication FormExchange programmesAdmission ContactsMore...PublicNewsCalendarMultimediaAlumniPress ReleasesOpen DayMore...Research, Grants, Global RelationsCooperationDpt. for Business CooperationPartnership ProgrammeDonorsInternal affairsRegulationsFormsGuidesLibraryIT and ServicesSafety
+
+
+
+
+
+
+
+
+
+CUNI MFFStudentsMaster of MathematicsMathematical Modelling in Physics and Technology
+
+
+Login
+
+
+
+
+
+
+
+
+Mathematical Modelling in Physics and Technology
+
+Coordinated by: Mathematical Institute of Charles University
+Study branch coordinator: prof. RNDr. Josef Málek, CSc., DSc.
+
+Mathematical modelling is an interdisciplinary field connecting
+mathematical analysis, numerical mathematics, and physics. The
+curriculum is designed to provide excellent basic knowledge in all
+these disciplines and to allow a flexible widening of knowledge by
+studying specialized literature when the need arises. All students
+take obligatory courses in continuum mechanics, partial differential
+equations, and numerical mathematics. Students will acquire the 
+ability to design mathematical models of natural phenomena (especially
+related to continuum mechanics and thermodynamics), analyse them, and
+conduct numerical simulations. After passing the obligatory classes,
+students get more closely involved with physical aspects of
+mathematical modelling (model design), with mathematical analysis of
+partial differential equations, or with methods for computing
+mathematical models. The grasp of all levels of mathematical modelling
+(model, analysis, simulations) allows the students to use modern
+results from all relevant fields to address problems in physics,
+technology, biology, and medicine that surpass the scope of the 
+fields individually. Graduates will be able to pursue academic or commercial careers
+in applied mathematics, physics and technology.
+The graduate will have mastered methods and results in continuum
+mechanics and thermodynamics, mathematical analysis of partial
+differential equations, and numerical mathematics, and will be ready to
+widen his/her knowledge by studying specialized literature. He/she will be able to 
+formulate questions regarding the physical substance of natural
+phenomena, especially those related to the behaviour of fluids and
+solid matter in the framework of classical physics, with applications
+to technology, medicine, biology, geophysics, and meteorology. He/she
+will be able to choose appropriate mathematical models for such phenomena, carry out 
+its mathematical analysis, and conduct numerical simulations with
+suitable methods. He/she will be able to critically analyse, evaluate, and tie in
+the whole modelling process. In simpler cases, he/she will be able to
+assess the errors in the modelling process and predict the agreement
+between numerical results and the physical process. The graduate
+will be ready to work in interdisciplinary teams. He/she will be able to pose
+interesting questions in a format ready for mathematical investigation
+and use abstract mathematical results in order to address applied
+problems.
+Assumed knowledge
+
+It is assumed that an incoming student of this branch has sufficient
+knowledge of the following topics and fields:
+
+–
+Foundations of differential and integral calculus of one variable and
+several variables. Volume, surface and line integral. Measure theory.
+Lebesgue integral. 
+–
+Foundations of linear algebra (vector spaces, matrices, determinants,
+Jordan canonical form, eigenvalues and eigenvectors, multilinear
+algebra, quadratic forms). Numerical solution of systems of linear
+algebraic equations (Schur theorem, QR decomposition, LU
+decomposition, singular value decomposition, least squares problem,
+partial eigenvalue problem, conjugate gradient method, GMRES, backward
+error, sensitivity and numerical stability, QR algorithm). 
+–
+Foundations of complex analysis (Cauchy theorem, residual theorem,
+conformal mappings, Laplace transform). 
+–
+Foundations of functional analysis and theory of metric spaces (Banach
+and Hilbert spaces, operators and functionals, Hahn-Banach theorem,
+dual space, bounded operators, compact operators, theory of
+distributions). 
+– 
+Foundations of theory of ordinary differential equations (existence of
+solution, maximal solution, systems of linear equations, stability)
+and partial differential equations (quasilinear first order equations,
+Laplace equation and heat equation – fundamental solution and maximum
+principle, wave equation – fundamental solution, finite propagation
+speed). 
+–
+Foundations of classical mechanics (Newton laws, Lagrange equations,
+Hamilton equations, variational formulation, rigid body dynamics). 
+
+Should an incoming student not meet these entry requirements, the coordinator 
+of the study programme may assign a method of acquiring the
+necessary knowledge and abilities, which may for example mean taking selected bachelor's
+courses, taking a reading course with an instructor, or following tutored
+independent study. 
+6.1 Obligatory Courses
+
+CodeSubjectCreditsWinterSummer
+NMMA401Functional Analysis 1 84/2 C+Ex—
+NMMA405Partial Differential Equations 1 63/1 C+Ex—
+NMMA406Partial Differential Equations 2 6—3/1 C+Ex
+NMMO401Continuum Mechanics 62/2 C+Ex—
+NMMO402Thermodynamics and Mechanics of Non-Newtonian Fluids 5—2/1 C+Ex
+NMMO403Computer Solutions of Continuum Physics Problems 5—2/2 C+Ex
+NMMO404Themodynamics and Mechanics of Solids 5—2/1 C+Ex
+NMNV405Finite Element Method 1 52/2 C+Ex—
+NMNV411Algorithms for matrix iterative methods*52/2 C+Ex—
+NOFY036Thermodynamics and Statistical Physics 63/2 C+Ex—
+NSZZ023Diploma Thesis I 6—0/4 C
+NSZZ024Diploma Thesis II 90/6 C—
+NSZZ025Diploma Thesis III 15—0/10 C
+
+*
+The course replaces the obligatory course NMNV412 from study plans valid before 2021/2022.
+
+6.2 Elective Courses
+It is required to earn at least 16 credits from elective courses.
+
+CodeSubjectCreditsWinterSummer
+NMMA407Ordinary Differential Equations 2 52/2 C+Ex—
+NMMA531Partial Differential Equations 3 42/0 Ex—
+NMMO432Classical Problems of Continuum Mechanics 4—2/1 C+Ex
+NMMO463GENERIC — non-equilibrium thermodynamics 42/1 C+Ex—
+NMMO531Biothermodynamics*52/2 C+Ex—
+NMMO532Mathematical Theory of Navier-Stokes Equations 3—2/0 Ex
+NMMO533Nonlinear Differential Equations and Inequalities 1 63/1 C+Ex—
+NMMO534Nonlinear Differential Equations and Inequalities 2 6—3/1 C+Ex
+NMMO535Mathematical Methods in Mechanics of Solids 32/0 Ex—
+NMMO536Mathematical Methods in Mechanics of Compressible Fluids 3—2/0 Ex
+NMMO537Saddle Point Problems and Their Solution 5—2/2 C+Ex
+NMMO539Mathematical Methods in Mechanics of Non-Newtonian Fluids 32/0 Ex—
+NMMO541Theory of Mixtures 42/1 C+Ex—
+NMMO543Modelling in biomechanics*53/0 C+Ex—
+NMMO567Simulation and Theory of Biological and Soft Matter Systems I - Biopolymers, Ions and Small Molecules 32/0 Ex—
+NMMO568Simulation and Theory of Biological and Soft Matter Systems II — Interfaces, Self-Assembly and Networks 3—2/0 Ex
+NMMO660Non-equilibrium thermodynamics of electrochemistry 4—2/1 C+Ex
+NMNV403Numerical Software 1 52/2 C+Ex—
+NMNV404Numerical Software 2 5—2/2 C+Ex
+NMNV412Analysis of matrix iterative methods — principles and interconnections 6—4/0 Ex
+NMNV501Solution of Nonlinear Algebraic Equations*52/2 C+Ex—
+NMNV503Numerical Optimization Methods 1 63/1 C+Ex—
+NMNV532Parallel Matrix Computations 5—2/2 C+Ex
+NMNV537Mathematical Methods in Fluid Mechanics 1 32/0 Ex—
+NMNV538Mathematical Methods in Fluid Mechanics 2 3—2/0 Ex
+NMNV565High-Performance Computing for Computational Science 52/2 C+Ex—
+NOFY026Classical Electrodynamics 5—2/2 C+Ex
+NTMF034Electromagnetic Field and Special Theory of Relativity 5—2/1 Ex
+
+
+* The course NMMO531 is not taught since in the academic year 2021/22. It is replaced with the course NMMO543. 
+
+6.3 Recommended Optional Courses
+
+CodeSubjectCreditsWinterSummer
+NMMA452Seminar on Partial Differential Equations 30/2 C0/2 C
+NMMA461Regularity of Navier — Stokes Equations 30/2 C0/2 C
+NMMA583Qualitative Properties of Weak Solutions to Partial Differential Equations 32/0 Ex—
+NMMA584Regularity of Weak Solutions to Partial Differential Equations 3—0/2 C
+NMMO461Seminar in Continuum Mechanics 20/2 C0/2 C
+NMMO463GENERIC — non-equilibrium thermodynamics 42/1 C+Ex—
+NMMO561Regularity of solutions of Navier-Stokes equations 32/0 Ex—
+NMMO564Selected Problems in Mathematical Modelling 3—0/2 C
+NMMO660Non-equilibrium thermodynamics of electrochemistry 4—2/1 C+Ex
+NMNV406Nonlinear differential equations 5—2/2 C+Ex
+NMNV541Shape and Material Optimisation 1 32/0 Ex—
+NMNV542Shape and Material Optimisation 2 3—2/0 Ex
+
+6.4 State Final Exam
+Requirements for taking the final exam
+
+– Earning at least 120 credits during the course of the study.
+– Completion of all obligatory courses prescribed by the study plan.
+– Earning at least 16 credits by completion of elective courses.
+– Submission of a completed master's thesis by the submission deadline.
+
+Oral part of the state final exam
+The oral part of the final exam consists of six subject areas:
+"Partial Differential Equations", 
+"Funcional Analysis",
+"Finite element method", 
+"Solution of algebraic equations", 
+"Continuum kinematics and dynamics", and 
+"Constitutive realtions of fluids and solids". One question
+is asked from each subject area.
+Requirements for the oral part of the final exam 
+1. Continuum mechanics and thermodynamics
+
+Kinematics. Stress tensor. Balance equations. Constitutive relations.
+Models for fluids and solids. 
+
+2. Functional analysis and partial differential equations
+
+Linear operators and functionals, compact operators. Distributions.
+Function spaces. Weak solutions of the linear elliptic, parabolic and
+hyperbolic second order partial differential equations – foundations
+of the existence theory, elementary theory of qualitative properties
+of the solutions. 
+
+3. Numerical methods
+
+Numerical methods for partial differential equations. Finite element
+method. Iterative methods for solving systems of linear algebraic
+equations. 
+
+6.5 Recommended Course of Study
+1st year
+
+CodeSubjectCreditsWinterSummer
+NMMA401Functional Analysis 1 84/2 C+Ex—
+NMMA405Partial Differential Equations 1 63/1 C+Ex—
+NMMO401Continuum Mechanics 62/2 C+Ex—
+NOFY036Thermodynamics and Statistical Physics 63/2 C+Ex—
+NMNV405Finite Element Method 1 52/2 C+Ex—
+NMMA406Partial Differential Equations 2 6—3/1 C+Ex
+NSZZ023Diploma Thesis I 6—0/4 C
+NMMO402Thermodynamics and Mechanics of Non-Newtonian Fluids 5—2/1 C+Ex
+NMMO403Computer Solutions of Continuum Physics Problems 5—2/2 C+Ex
+NMMO404Themodynamics and Mechanics of Solids 5—2/1 C+Ex
+ Optional and Elective Courses 1  
+
+2nd year
+
+CodeSubjectCreditsWinterSummer
+NSZZ024Diploma Thesis II 90/6 C—
+NMNV412Analysis of matrix iterative methods — principles and interconnections 6—4/0 Ex
+NSZZ025Diploma Thesis III 15—0/10 C
+ Optional and Elective Courses 30  
+
+
+
+
+
+
+
+
+                                             
+                                            
+                
+
+
+
+
+
+Charles University, Faculty of Mathematics and Physics
+                            Ke Karlovu 3, 121 16 Praha 2, Czech Republic
+                            VAT ID: CZ00216208                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie usage
+
+
+
+
+
+
+

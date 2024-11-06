@@ -1,0 +1,831 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Number theory | Definition, Topics, & History | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				number theory
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionFrom prehistory through Classical GreecePythagorasEuclidDiophantusNumber theory in the EastModern number theoryPierre de FermatNumber theory in the 18th centuryNumber theory in the 19th centuryDisquisitiones ArithmeticaeFrom classical to analytic number theoryPrime number theoremNumber theory in the 20th centuryUnsolved problems
+
+				References & Edit History
+
+				Quick Facts & Related Topics
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+number theory summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+What’s the Difference Between Asian and African Elephants?
+
+
+
+
+
+
+
+
+
+Why Was Nazi Germany Called the Third Reich?
+
+
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+Do Lemmings Really Commit Mass Suicide?
+
+
+
+
+
+
+
+
+
+7 of History's Most Notorious Serial Killers 
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+Why Is the Indy 500 Held on Memorial Day Weekend?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+
+
+
+
+
+number theory
+
+
+mathematics
+
+
+
+
+	
+    
+            Actions
+        
+
+
+
+
+	
+			
+			Cite
+		
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+
+
+	
+            
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/number-theory
+
+
+
+
+
+
+	
+                        Give Feedback
+                    
+
+
+
+
+	
+                        External Websites
+                    
+
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                        External Websites
+                    
+
+
+Florida State University - Department of Mathematics - Number Theory
+UNESCO-EOLSS - Number theory and applications
+Academia - Introduction to Number Theory Step by Step
+Mathematics LibreTexts - Introduction to Number Theory
+
+
+
+
+
+
+
+
+
+	
+    
+                    Print
+        
+
+
+
+print
+			Print
+		
+
+			Please select which sections you would like to print:
+		
+
+
+
+Table Of Contents
+
+
+
+
+
+
+
+
+	
+    
+            Cite
+        
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+	
+    
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/number-theory
+
+
+
+
+	
+    
+            Feedback
+        
+
+
+
+
+
+
+	
+                    External Websites
+                
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                    External Websites
+                
+
+
+Florida State University - Department of Mathematics - Number Theory
+UNESCO-EOLSS - Number theory and applications
+Academia - Introduction to Number Theory Step by Step
+Mathematics LibreTexts - Introduction to Number Theory
+
+
+
+
+
+Also known as: higher arithmetic
+
+
+
+			
+				Written by
+				
+
+
+William Dunham
+Professor of Mathematics, Muhlenberg College, Allentown, Pennsylvania. Author of Euler the Master of Us All and others.
+
+
+
+
+  William Dunham
+
+Fact-checked by 
+
+The Editors of Encyclopaedia Britannica
+Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.
+
+
+
+
+  The Editors of Encyclopaedia Britannica
+
+
+					Last Updated: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 28, 2024
+•
+Article History
+
+
+
+
+	
+			Table of Contents
+		
+
+
+
+
+Key People: 
+Carl Friedrich Gauss
+Pierre de Fermat
+Diophantus
+Paul Erdős
+Leonhard Euler
+
+
+(Show more)
+
+
+
+
+Related Topics: 
+Riemann hypothesis
+twin prime conjecture
+prime number theorem
+perfect number
+Bertrand’s postulate
+
+
+(Show more)
+
+
+
+
+On the Web: 
+UNESCO-EOLSS - Number theory and applications (May 28, 2024)
+
+
+(Show more)
+
+
+
+
+
+					See all related content →
+
+number theory,  branch of mathematics concerned with properties of the positive integers (1, 2, 3, …). Sometimes called “higher arithmetic,” it is among the oldest and most natural of mathematical pursuits.Number theory has always fascinated amateurs as well as professional mathematicians. In contrast to other branches of mathematics, many of the problems and theorems of number theory can be understood by laypersons, although solutions to the problems and proofs of the theorems often require a sophisticated mathematical background.Until the mid-20th century, number theory was considered the purest branch of mathematics, with no direct applications to the real world. The advent of digital computers and digital communications revealed that number theory could provide unexpected answers to real-world problems. At the same time, improvements in computer technology enabled number theorists to make remarkable advances in factoring large numbers, determining primes, testing conjectures, and solving numerical problems once considered out of reach.Modern number theory is a broad subject that is classified into subheadings such as elementary number theory, algebraic number theory, analytic number theory, geometric number theory, and probabilistic number theory. These categories reflect the methods used to address problems concerning the integers.
+
+
+Britannica Quiz
+Numbers and Mathematics
+
+  From prehistory through Classical Greece The ability to count dates back to prehistoric times. This is evident from archaeological artifacts, such as a 10,000-year-old bone from the Congo region of Africa with tally marks scratched upon it—signs of an unknown ancestor counting something. Very near the dawn of civilization, people had grasped the idea of “multiplicity” and thereby had taken the first steps toward a study of numbers. It is certain that an understanding of numbers existed in ancient Mesopotamia, Egypt, China, and India, for tablets, papyri, and temple carvings from these early cultures have survived. A Babylonian tablet known as Plimpton 322 (c. 1700 bce) is a case in point. In modern notation, it displays number triples x, y, and z with the property that x2 + y2 = z2. One such triple is 2,291, 2,700, and 3,541, where 2,2912 + 2,7002 = 3,5412. This certainly reveals a degree of number theoretic sophistication in ancient Babylon.
+Get a Britannica Premium subscription and gain access to exclusive content. 
+Subscribe Now
+ Despite such isolated results, a general theory of numbers was nonexistent. For this—as with so much of theoretical mathematics—one must look to the Classical Greeks, whose groundbreaking achievements displayed an odd fusion of the mystical tendencies of the Pythagoreans and the severe logic of Euclid’s Elements (c. 300 bce).  Pythagoras According to tradition, Pythagoras (c. 580–500 bce) worked in southern Italy amid devoted followers. His philosophy enshrined number as the unifying concept necessary for understanding everything from planetary motion to musical harmony. Given this viewpoint, it is not surprising that the Pythagoreans attributed quasi-rational properties to certain numbers. For instance, they attached significance to perfect numbers—i.e., those that equal the sum of their proper divisors. Examples are 6 (whose proper divisors 1, 2, and 3 sum to 6) and 28 (1 + 2 + 4 + 7 + 14). The Greek philosopher Nicomachus of Gerasa (flourished c. 100 ce), writing centuries after Pythagoras but clearly in his philosophical debt, stated that perfect numbers represented “virtues, wealth, moderation, propriety, and beauty.” (Some modern writers label such nonsense numerical theology.)
+ In a similar vein, the Greeks called a pair of integers amicable (“friendly”) if each was the sum of the proper divisors of the other. They knew only a single amicable pair: 220 and 284. One can easily check that the sum of the proper divisors of 284 is 1 + 2 + 4 + 71 + 142 = 220 and the sum of the proper divisors of 220 is 1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110 = 284. For those prone to number mysticism, such a phenomenon must have seemed like magic.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

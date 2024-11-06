@@ -1,0 +1,672 @@
+
+
+
+
+
+
+
+Isaac Newton’s Life - Isaac Newton Institute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++44 1223 335999 reception@newton.ac.uk @Newtoninstitute 
+
+Institute A-Z
+How to participate
+Newsletter
+ 
+Watch live
+
+
+Newton Gateway
+
+
+
+
+
+
+
+
+
+
+
+What’s On
+Visitors
+Documents
+Initiatives
+Media
+About
+Support
+Contact
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeAboutWho was Isaac Newton? Isaac Newton’s Life
+
+
+Overview
+A brief history
+Short films
+Governance
+Testimonials
+Art & artefacts
+Who was Isaac Newton?
+Vacancies at INI
+Green Impact
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special thanks to the Microsoft Corporation for their contribution to our site.  The following information came from Microsoft Encarta.
+I  INTRODUCTION
+Newton, Sir Isaac (1642-1727), mathematician and physicist, one of the foremost scientific intellects of all time. Born at Woolsthorpe, near Grantham in Lincolnshire, where he attended school, he entered Cambridge University in 1661; he was elected a Fellow of Trinity College in 1667, and Lucasian Professor of Mathematics in 1669. He remained at the university, lecturing in most years, until 1696. Of these Cambridge years, in which Newton was at the height of his creative power, he singled out 1665-1666 (spent largely in Lincolnshire because of plague in Cambridge) as “the prime of my age for invention”. During two to three years of intense mental effort he prepared Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy) commonly known as the Principia, although this was not published until 1687.
+As a firm opponent of the attempt by King James II to make the universities into Catholic institutions, Newton was elected Member of Parliament for the University of Cambridge to the Convention Parliament of 1689, and sat again in 1701-1702. Meanwhile, in 1696 he had moved to London as Warden of the Royal Mint. He became Master of the Mint in 1699, an office he retained to his death. He was elected a Fellow of the Royal Society of London in 1671, and in 1703 he became President, being annually re-elected for the rest of his life. His major work, Opticks, appeared the next year; he was knighted in Cambridge in 1705.
+As Newtonian science became increasingly accepted on the Continent, and especially after a general peace was restored in 1714, following the War of the Spanish Succession, Newton became the most highly esteemed natural philosopher in Europe. His last decades were passed in revising his major works, polishing his studies of ancient history, and defending himself against critics, as well as carrying out his official duties. Newton was modest, diffident, and a man of simple tastes. He was angered by criticism or opposition, and harboured resentment; he was harsh towards enemies but generous to friends. In government, and at the Royal Society, he proved an able administrator. He never married and lived modestly, but was buried with great pomp in Westminster Abbey.
+Newton has been regarded for almost 300 years as the founding examplar of modern physical science, his achievements in experimental investigation being as innovative as those in mathematical research. With equal, if not greater, energy and originality he also plunged into chemistry, the early history of Western civilization, and theology; among his special studies was an investigation of the form and dimensions, as described in the Bible, of Solomon’s Temple in Jerusalem.
+II  OPTICS
+In 1664, while still a student, Newton read recent work on optics and light by the English physicists Robert Boyle and Robert Hooke; he also studied both the mathematics and the physics of the French philosopher and scientist René Descartes. He investigated the refraction of light by a glass prism; developing over a few years a series of increasingly elaborate, refined, and exact experiments, Newton discovered measurable, mathematical patterns in the phenomenon of colour. He found white light to be a mixture of infinitely varied coloured rays (manifest in the rainbow and the spectrum), each ray definable by the angle through which it is refracted on entering or leaving a given transparent medium. He correlated this notion with his study of the interference colours of thin films (for example, of oil on water, or soap bubbles), using a simple technique of extreme acuity to measure the thickness of such films. He held that light consisted of streams of minute particles. From his experiments he could infer the magnitudes of the transparent “corpuscles” forming the surfaces of bodies, which, according to their dimensions, so interacted with white light as to reflect, selectively, the different observed colours of those surfaces.
+The roots of these unconventional ideas were with Newton by about 1668; when first expressed (tersely and partially) in public in 1672 and 1675, they provoked hostile criticism, mainly because colours were thought to be modified forms of homogeneous white light. Doubts, and Newton’s rejoinders, were printed in the learned journals. Notably, the scepticism of Christiaan Huygens and the failure of the French physicist Edmé Mariotte to duplicate Newton’s refraction experiments in 1681 set scientists on the Continent against him for a generation. The publication of Opticks, largely written by 1692, was delayed by Newton until the critics were dead. The book was still imperfect: the colours of diffraction defeated Newton. Nevertheless, Opticks established itself, from about 1715, as a model of the interweaving of theory with quantitative experimentation.
+III  MATHEMATICS
+In mathematics too, early brilliance appeared in Newton’s student notes. He may have learnt geometry at school, though he always spoke of himself as self-taught; certainly he advanced through studying the writings of his compatriots William Oughtred and John Wallis, and of Descartes and the Dutch school. Newton made contributions to all branches of mathematics then studied, but is especially famous for his solutions to the contemporary problems in analytical geometry of drawing tangents to curves (differentiation) and defining areas bounded by curves (integration). Not only did Newton discover that these problems were inverse to each other, but he discovered general methods of resolving problems of curvature, embraced in his “method of fluxions” and “inverse method of fluxions”, respectively equivalent to Leibniz’s later differential and integral calculus. Newton used the term “fluxion” (from Latin meaning “flow”) because he imagined a quantity “flowing” from one magnitude to another. Fluxions were expressed algebraically, as Leibniz’s differentials were, but Newton made extensive use also (especially in the Principia) of analogous geometrical arguments. Late in life, Newton expressed regret for the algebraic style of recent mathematical progress, preferring the geometrical method of the Classical Greeks, which he regarded as clearer and more rigorous.
+Newton’s work on pure mathematics was virtually hidden from all but his correspondents until 1704, when he published, with Opticks, a tract on the quadrature of curves (integration) and another on the classification of the cubic curves. His Cambridge lectures, delivered from about 1673 to 1683, were published in 1707.
+The Calculus Priority Dispute
+Newton had the essence of the methods of fluxions by 1666. The first to become known, privately, to other mathematicians, in 1668, was his method of integration by infinite series. In Paris in 1675 Gottfried Wilhelm Leibniz independently evolved the first ideas of his differential calculus, outlined to Newton in 1677. Newton had already described some of his mathematical discoveries to Leibniz, not including his method of fluxions. In 1684 Leibniz published his first paper on calculus; a small group of mathematicians took up his ideas.
+In the 1690s Newton’s friends proclaimed the priority of Newton’s methods of fluxions. Supporters of Leibniz asserted that he had communicated the differential method to Newton, although Leibniz had claimed no such thing. Newtonians then asserted, rightly, that Leibniz had seen papers of Newton’s during a London visit in 1676; in reality, Leibniz had taken no notice of material on fluxions. A violent dispute sprang up, part public, part private, extended by Leibniz to attacks on Newton’s theory of gravitation and his ideas about God and creation; it was not ended even by Leibniz’s death in 1716. The dispute delayed the reception of Newtonian science on the Continent, and dissuaded British mathematicians from sharing the researches of Continental colleagues for a century.
+IV  MECHANICS AND GRAVITATION
+According to the well-known story, it was on seeing an apple fall in his orchard at some time during 1665 or 1666 that Newton conceived that the same force governed the motion of the Moon and the apple. He calculated the force needed to hold the Moon in its orbit, as compared with the force pulling an object to the ground. He also calculated the centripetal force needed to hold a stone in a sling, and the relation between the length of a pendulum and the time of its swing. These early explorations were not soon exploited by Newton, though he studied astronomy and the problems of planetary motion.
+Correspondence with Hooke (1679-1680) redirected Newton to the problem of the path of a body subjected to a centrally directed force that varies as the inverse square of the distance; he determined it to be an ellipse, so informing Edmond Halley in August 1684. Halley’s interest led Newton to demonstrate the relationship afresh, to compose a brief tract on mechanics, and finally to write the Principia.
+Book I of the Principia states the foundations of the science of mechanics, developing upon them the mathematics of orbital motion round centres of force. Newton identified gravitation as the fundamental force controlling the motions of the celestial bodies. He never found its cause. To contemporaries who found the idea of attractions across empty space unintelligible, he conceded that they might prove to be caused by the impacts of unseen particles.
+Book II inaugurates the theory of fluids: Newton solves problems of fluids in movement and of motion through fluids. From the density of air he calculated the speed of sound waves.
+Book III shows the law of gravitation at work in the universe: Newton demonstrates it from the revolutions of the six known planets, including the Earth, and their satellites. However, he could never quite perfect the difficult theory of the Moon’s motion. Comets were shown to obey the same law; in later editions, Newton added conjectures on the possibility of their return. He calculated the relative masses of heavenly bodies from their gravitational forces, and the oblateness of Earth and Jupiter, already observed. He explained tidal ebb and flow and the precession of the equinoxes from the forces exerted by the Sun and Moon. All this was done by exact computation.
+Newton’s work in mechanics was accepted at once in Britain, and universally after half a century. Since then it has been ranked among humanity’s greatest achievements in abstract thought. It was extended and perfected by others, notably Pierre Simon de Laplace, without changing its basis and it survived into the late 19th century before it began to show signs of failing. See Quantum Theory; Relativity.
+V  ALCHEMY AND CHEMISTRY
+Newton left a mass of manuscripts on the subjects of alchemy and chemistry, then closely related topics. Most of these were extracts from books, bibliographies, dictionaries, and so on, but a few are original. He began intensive experimentation in 1669, continuing till he left Cambridge, seeking to unravel the meaning that he hoped was hidden in alchemical obscurity and mysticism. He sought understanding of the nature and structure of all matter, formed from the “solid, massy, hard, impenetrable, movable particles” that he believed God had created. Most importantly in the “Queries” appended to “Opticks” and in the essay “On the Nature of Acids” (1710), Newton published an incomplete theory of chemical force, concealing his exploration of the alchemists, which became known a century after his death.
+VI  HISTORICAL AND CHRONOLOGICAL STUDIES
+Newton owned more books on humanistic learning than on mathematics and science; all his life he studied them deeply. His unpublished “classical scholia”explanatory notes intended for use in a future edition of the Principiareveal his knowledge of pre-Socratic philosophy; he read the Fathers of the Church even more deeply. Newton sought to reconcile Greek mythology and record with the Bible, considered the prime authority on the early history of mankind. In his work on chronology he undertook to make Jewish and pagan dates compatible, and to fix them absolutely from an astronomical argument about the earliest constellation figures devised by the Greeks. He put the fall of Troy at 904 BC, about 500 years later than other scholars; this was not well received.
+VII  RELIGIOUS CONVICTIONS AND PERSONALITY
+Newton also wrote on Judaeo-Christian prophecy, whose decipherment was essential, he thought, to the understanding of God. His book on the subject, which was reprinted well into the Victorian Age, represented lifelong study. Its message was that Christianity went astray in the 4th century AD, when the first Council of Nicaea propounded erroneous doctrines of the nature of Christ. The full extent of Newton’s unorthodoxy was recognized only in the present century: but although a critic of accepted Trinitarian dogmas and the Council of Nicaea, he possessed a deep religious sense, venerated the Bible and accepted its account of creation. In late editions of his scientific works he expressed a strong sense of God’s providential role in nature.
+VIII  PUBLICATIONS
+Newton published an edition of Geographia generalis by the German geographer Varenius in 1672. His own letters on optics appeared in print from 1672 to 1676. Then he published nothing until the Principia (published in Latin in 1687; revised in 1713 and 1726; and translated into English in 1729). This was followed by Opticks in 1704; a revised edition in Latin appeared in 1706. Posthumously published writings include The Chronology of Ancient Kingdoms Amended (1728), The System of the World (1728), the first draft of Book III of the Principia, and Observations upon the Prophecies of Daniel and the Apocalypse of St John (1733).
+Contributed By: Alfred Rupert Hall
+“Sir Isaac Newton” Microsoft® Encarta®. Copyright © 1998 Microsoft Corporation.
+
+
+
+
+
+
+
+Supported By 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register for updates
+Subscribe for the latest updates on events and news
+
+
+
+Sign Up
+
+
+
+What’s On
+
+Overview
+INI Retreats
+Programmes & Workshops
+Calendar of activities
+Network Support for the Mathematical Sciences
+Fellowships
+Submit a proposal
+Watch live
+
+
+Visitors
+
+Overview
+List of current visitors
+Accommodation
+IT Services
+Library services
+Support services
+COVID-19 safety
+Log in to ISAAC
+
+
+Documents
+
+Overview
+Preprints
+Annual Reports
+Programme Reports
+Data policies
+Case studies
+
+
+Initiatives
+
+Ongoing initiatives
+Initiatives archive
+Diversity in mathematics
+
+
+Media
+
+Latest news
+Watch live
+Programme poster PDFs
+Newsletter
+Living Proof podcast
+Plus magazine articles
+Video interviews
+Recordings archive
+
+
+About
+
+Overview
+A brief history
+Short films
+Governance
+Testimonials
+Art & artefacts
+Who was Isaac Newton?
+Vacancies at INI
+Green Impact
+
+
+Support
+
+Overview
+Donate online
+Campaign Committee
+
+
+Contact
+
+Contact us
+Meet the team
+How to find us
+Opening hours
+Feedback
+
+
+
+
+
+Isaac Newton Institute for Mathematical Sciences, 20 Clarkson Road, Cambridge CB3 0EH  United Kingdom
+
+Tel: +44 1223 335999 Email: reception@newton.ac.uk 
+
+
+
+    
+
+
+
+
+© 2024 Isaac Newton Institute for Mathematical Sciences. All Rights Reserved. Privacy Policy
+
+
+Web Design by Chameleon Studios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INI is a creative collaborative space which is occupied by up to fifty-five mathematical scientists at any one time (and many more when there is a workshop). Some of them may not have met before and others may not realise the relevance of other research to their own work.
+INI is especially important as a forum where early-career researchers meet senior colleagues and form networks that last a lifetime.
+Here you can learn about all activities past, present and future, watch live seminars and submit your own proposals for research programmes.
+
+
+
+OverviewINI RetreatsProgrammes & Workshops
+
+Programme ArchiveWorkshop ArchiveWorkspace at INI 
+Calendar of activities
+
+Today’s SeminarsFuture SeminarsSeminars Archive 
+Network Support for the Mathematical SciencesFellowships
+
+Rothschild Distinguished Visiting FellowsKirk Distinguished Visiting FellowsRamanujan FellowshipsINI Postdoctoral Fellowships in Mathematics 
+Submit a proposalWatch live
+
+
+
+
+
+
+
+
+
+
+Within this section of the website you should find all the information required to arrange and plan your visit to the Institute. If you have any further questions, or are unable to find the information you require, please get in touch with the relevant staff member or our Reception team via our contact pages.
+
+
+
+
+
+
+OverviewList of current visitorsAccommodation
+
+7 Charles Babbage RoadBenians Court Flats 
+IT Services
+
+Contact IT support 
+Library servicesSupport services
+
+ChildcareVisitors with a disabilityParticipants from developing countriesTravel expenses 
+COVID-19 safetyLog in to ISAAC
+
+
+
+
+
+
+
+INI and its programme participants produce a range of publications to communicate information about activities and events, publish research outcomes, and document case studies which are written for a non-technical audience. You will find access to them all in this section.
+
+
+
+OverviewPreprintsAnnual ReportsProgramme ReportsData policiesCase studies
+
+
+
+
+
+
+
+The Isaac Newton Institute aims to maximise the benefit of its scientific programmes to the UK mathematical science community in a variety of ways.
+Whether spreading research opportunities through its network of correspondents, offering summer schools to early career researchers, or hosting public-facing lectures through events such as the Cambridge Festival, there is always a great deal of activity to catch up on.
+Find out about all of these endeavours in this section of the site.
+
+
+
+Ongoing initiatives
+
+Correspondents networkTalks elsewhereCambridge FestivalOpen for BusinessSummer SchoolsHoDoMSAcademy for the Mathematical SciencesKnowledge Exchange Hub for Mathematical Sciences 
+Initiatives archive
+
+INI 30th AnniversaryINI 25th AnniversaryMathematics of Planet Earth 2013INI 20th AnniversaryIMAGINARY: Through the eyes of mathematicsINI 10th AnniversaryPosters in the London UndergroundEPDI for Mathematical SciencesAdvent BlackboardsSummer Maths PuzzlesUK Sea Ice Group 
+Diversity in mathematics
+
+Kirk Distinguished Visiting FellowsParticipants from developing countriesChildcareVisitors with a disability 
+
+
+
+
+
+
+
+
+There are various ways to keep up-to-date with current events and happenings at the Isaac Newton Institute. As detailed via the menu links within this section, our output covers social media streams, news articles, a regular podcast series, an online newsletter, and more detailed documents produced throughout the year.
+
+
+
+Latest newsWatch liveProgramme poster PDFsNewsletterLiving Proof podcastPlus magazine articlesVideo interviewsRecordings archive
+
+
+
+
+
+
+
+“A world famous place for research in the mathematical sciences with a reputation for efficient management and a warm welcome for visitors”
+The Isaac Newton Institute is a national and international visitor research institute. It runs research programmes on selected themes in mathematics and the mathematical sciences with applications over a wide range of science and technology. It attracts leading mathematical scientists from the UK and overseas to interact in research over an extended period.
+INI has a vital national role, building on many strengths that already exist in UK universities, aiming to generate a new vitality through stimulating and nurturing research throughout the country.During each scientific programme new collaborations are made and ideas and expertise are exchanged and catalysed through lectures, seminars and informal interaction, which the INI building has been designed specifically to encourage.
+For INI’s knowledge exchange arm, please see the Newton Gateway to Mathematics.
+ 
+
+
+
+OverviewA brief historyShort filmsGovernance
+
+Scientific Steering committeeRelationship with ICMSManagement committeeNational Advisory BoardPolicy Statement 
+TestimonialsArt & artefactsWho was Isaac Newton?
+
+Books about Sir Isaac NewtonIsaac Newton’s Life 
+Vacancies at INIGreen Impact
+
+
+
+
+
+
+
+The Institute depends upon donations, as well as research grants, to support the world class research undertaken by participants in its programmes.
+Fundraising activities are supported by a Development Board comprising leading figures in academia, industry and commerce.
+Visit this section to learn more about how you could play a part in supporting INI’s groundbreaking research.
+
+
+
+OverviewDonate onlineCampaign Committee
+
+
+
+
+
+
+
+In this section you can find contact information, staff lists, maps and details of how to find INI’s main building in Cambridge.
+Our administrative staff can help you with any queries regarding a prospective or planned visit. If you would like to discuss a proposed a research programme or other event, our senior management team will be happy to help.
+
+
+
+Contact usMeet the teamHow to find usOpening hoursFeedback
+
+
+
+
+
+Search the website
+Use this for pages on our website, including: visitor information, details about INI, fellowships, history, outreach, news, podcasts and more.
+
+
+Search the database
+Use this for information about INI programmes, workshops, seminars, pre-prints, and participants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What’s On
+
+Overview
+INI Retreats
+Programmes & Workshops
+
+Programme Archive
+Workshop Archive
+Workspace at INI
+
+
+Calendar of activities
+
+Today’s Seminars
+Future Seminars
+Seminars Archive
+
+
+Network Support for the Mathematical Sciences
+Fellowships
+
+Rothschild Distinguished Visiting Fellows
+Kirk Distinguished Visiting Fellows
+Ramanujan Fellowships
+INI Postdoctoral Fellowships in Mathematics
+
+
+Submit a proposal
+Watch live
+
+
+Visitors
+
+Overview
+List of current visitors
+Accommodation
+
+7 Charles Babbage Road
+Benians Court Flats
+
+
+IT Services
+
+Contact IT support
+
+
+Library services
+Support services
+
+Childcare
+Visitors with a disability
+Participants from developing countries
+
+Supporting participants from DAC listed Countries
+
+
+Travel expenses
+
+
+COVID-19 safety
+Log in to ISAAC
+
+
+Documents
+
+Overview
+Preprints
+Annual Reports
+Programme Reports
+Data policies
+Case studies
+
+
+Initiatives
+
+Ongoing initiatives
+
+Correspondents network
+Talks elsewhere
+Cambridge Festival
+Open for Business
+Summer Schools
+HoDoMS
+Academy for the Mathematical Sciences
+Knowledge Exchange Hub for Mathematical Sciences
+
+
+Initiatives archive
+
+INI 30th Anniversary
+INI 25th Anniversary
+Mathematics of Planet Earth 2013
+INI 20th Anniversary
+IMAGINARY: Through the eyes of mathematics
+INI 10th Anniversary
+Posters in the London Underground
+EPDI for Mathematical Sciences
+Advent Blackboards
+Summer Maths Puzzles
+UK Sea Ice Group
+
+
+Diversity in mathematics
+
+Kirk Distinguished Visiting Fellows
+Participants from developing countries
+Childcare
+Visitors with a disability
+
+
+
+
+Media
+
+Latest news
+Watch live
+Programme poster PDFs
+Newsletter
+Living Proof podcast
+Plus magazine articles
+Video interviews
+Recordings archive
+
+
+About
+
+Overview
+A brief history
+Short films
+Governance
+
+Scientific Steering committee
+Relationship with ICMS
+Management committee
+National Advisory Board
+Policy Statement
+
+
+Testimonials
+Art & artefacts
+Who was Isaac Newton?
+
+Books about Sir Isaac Newton
+Isaac Newton’s Life
+
+
+Vacancies at INI
+Green Impact
+
+
+Support
+
+Overview
+Donate online
+Campaign Committee
+
+
+Contact
+
+Contact us
+Meet the team
+How to find us
+Opening hours
+Feedback
+
+
+ 
+
+
+
+
+
+
+
+
+
+

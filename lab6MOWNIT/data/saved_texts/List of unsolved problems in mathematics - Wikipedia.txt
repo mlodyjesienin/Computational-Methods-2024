@@ -1,0 +1,6802 @@
+
+
+
+
+List of unsolved problems in mathematics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Lists of unsolved problems in mathematics
+
+
+
+
+Toggle Lists of unsolved problems in mathematics subsection
+
+
+
+
+
+1.1
+Millennium Prize Problems
+
+
+
+
+
+
+
+
+1.2
+Notebooks
+
+
+
+
+
+
+
+
+
+
+2
+Unsolved problems
+
+
+
+
+Toggle Unsolved problems subsection
+
+
+
+
+
+2.1
+Algebra
+
+
+
+
+
+
+2.1.1
+Group theory
+
+
+
+
+
+
+
+
+2.1.2
+Representation theory
+
+
+
+
+
+
+
+
+
+
+2.2
+Analysis
+
+
+
+
+
+
+2.2.1
+Transcendental numbers and diophantine approximation
+
+
+
+
+
+
+
+
+
+
+2.3
+Combinatorics
+
+
+
+
+
+
+
+
+2.4
+Dynamical systems
+
+
+
+
+
+
+
+
+2.5
+Games and puzzles
+
+
+
+
+
+
+2.5.1
+Combinatorial games
+
+
+
+
+
+
+
+
+2.5.2
+Games with imperfect information
+
+
+
+
+
+
+
+
+
+
+2.6
+Geometry
+
+
+
+
+
+
+2.6.1
+Algebraic geometry
+
+
+
+
+
+
+
+
+2.6.2
+Covering and packing
+
+
+
+
+
+
+
+
+2.6.3
+Differential geometry
+
+
+
+
+
+
+
+
+2.6.4
+Discrete geometry
+
+
+
+
+
+
+
+
+2.6.5
+Euclidean geometry
+
+
+
+
+
+
+
+
+
+
+2.7
+Graph theory
+
+
+
+
+
+
+2.7.1
+Algebraic graph theory
+
+
+
+
+
+
+
+
+2.7.2
+Games on graphs
+
+
+
+
+
+
+
+
+2.7.3
+Graph coloring and labeling
+
+
+
+
+
+
+
+
+2.7.4
+Graph drawing and embedding
+
+
+
+
+
+
+
+
+2.7.5
+Restriction of graph parameters
+
+
+
+
+
+
+
+
+2.7.6
+Subgraphs
+
+
+
+
+
+
+
+
+2.7.7
+Word-representation of graphs
+
+
+
+
+
+
+
+
+2.7.8
+Miscellaneous graph theory
+
+
+
+
+
+
+
+
+
+
+2.8
+Model theory and formal languages
+
+
+
+
+
+
+
+
+2.9
+Probability theory
+
+
+
+
+
+
+
+
+2.10
+Number theory
+
+
+
+
+
+
+2.10.1
+General
+
+
+
+
+
+
+
+
+2.10.2
+Additive number theory
+
+
+
+
+
+
+
+
+2.10.3
+Algebraic number theory
+
+
+
+
+
+
+
+
+2.10.4
+Computational number theory
+
+
+
+
+
+
+
+
+2.10.5
+Diophantine equations
+
+
+
+
+
+
+
+
+2.10.6
+Prime numbers
+
+
+
+
+
+
+
+
+
+
+2.11
+Set theory
+
+
+
+
+
+
+
+
+2.12
+Topology
+
+
+
+
+
+
+
+
+
+
+3
+Problems solved since 1995
+
+
+
+
+Toggle Problems solved since 1995 subsection
+
+
+
+
+
+3.1
+Algebra
+
+
+
+
+
+
+
+
+3.2
+Analysis
+
+
+
+
+
+
+
+
+3.3
+Combinatorics
+
+
+
+
+
+
+
+
+3.4
+Dynamical systems
+
+
+
+
+
+
+
+
+3.5
+Game theory
+
+
+
+
+
+
+
+
+3.6
+Geometry
+
+
+
+
+
+
+3.6.1
+21st century
+
+
+
+
+
+
+
+
+3.6.2
+20th century
+
+
+
+
+
+
+
+
+
+
+3.7
+Graph theory
+
+
+
+
+
+
+
+
+3.8
+Group theory
+
+
+
+
+
+
+
+
+3.9
+Number theory
+
+
+
+
+
+
+3.9.1
+21st century
+
+
+
+
+
+
+
+
+3.9.2
+20th century
+
+
+
+
+
+
+
+
+
+
+3.10
+Ramsey theory
+
+
+
+
+
+
+
+
+3.11
+Theoretical computer science
+
+
+
+
+
+
+
+
+3.12
+Topology
+
+
+
+
+
+
+
+
+3.13
+Uncategorised
+
+
+
+
+
+
+3.13.1
+2010s
+
+
+
+
+
+
+
+
+3.13.2
+2000s
+
+
+
+
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+Notes
+
+
+
+
+
+
+
+
+6
+References
+
+
+
+
+
+
+
+
+7
+Further reading
+
+
+
+
+Toggle Further reading subsection
+
+
+
+
+
+7.1
+Books discussing problems solved since 1995
+
+
+
+
+
+
+
+
+7.2
+Books discussing unsolved problems
+
+
+
+
+
+
+
+
+
+
+8
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of unsolved problems in mathematics
+
+
+
+27 languages
+
+
+
+
+العربيةবাংলাCatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Bahasa IndonesiaItalianoMagyarNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
+Many mathematical problems have been stated but not yet solved. These problems come from many areas of mathematics, such as theoretical physics, computer science, algebra, analysis, combinatorics, algebraic, differential, discrete and Euclidean geometries, graph theory, group theory, model theory, number theory, set theory, Ramsey theory, dynamical systems, and partial differential equations. Some problems belong to more than one discipline and are studied using techniques from different areas. Prizes are often awarded for the solution to a long-standing problem, and some lists of unsolved problems, such as the Millennium Prize Problems, receive considerable attention.
+This list is a composite of notable unsolved problems mentioned in previously published lists, including but not limited to lists considered authoritative. Although this list may never be comprehensive, the problems listed here vary widely in both difficulty and importance.
+
+
+Lists of unsolved problems in mathematics
+Various mathematicians and organizations have published and promoted lists of unsolved mathematical problems. In some cases, the lists have been associated with prizes for the discoverers of solutions.
+
+
+
+List
+Number ofproblems
+Number unsolved  or incompletely solved
+Proposed by
+Proposedin
+
+
+Hilbert's problems[1]
+23
+15
+David Hilbert
+1900
+
+
+Landau's problems[2]
+4
+4
+Edmund Landau
+1912
+
+
+Taniyama's problems[3]
+36
+-
+Yutaka Taniyama
+1955
+
+
+Thurston's 24 questions[4][5]
+24
+-
+William Thurston
+1982
+
+
+Smale's problems
+18
+14
+Stephen Smale
+1998
+
+
+Millennium Prize Problems
+7
+6[6]
+Clay Mathematics Institute
+2000
+
+
+Simon problems
+15
+<12[7][8]
+Barry Simon
+2000
+
+
+Unsolved Problems on Mathematics for the 21st Century[9]
+22
+-
+Jair Minoro Abe, Shotaro Tanaka
+2001
+
+
+DARPA's math challenges[10][11]
+23
+-
+DARPA
+2007
+
+The Riemann zeta function, subject of the celebrated and influential unsolved problem known as the Riemann hypothesis
+Millennium Prize Problems
+Of the original seven Millennium Prize Problems listed by the Clay Mathematics Institute in 2000, six remain unsolved to date:[6]
+
+Birch and Swinnerton-Dyer conjecture
+Hodge conjecture
+Navier–Stokes existence and smoothness
+P versus NP
+Riemann hypothesis
+Yang–Mills existence and mass gap
+The seventh problem, the Poincaré conjecture, was solved by Grigori Perelman in 2003.[12] However, a generalization called the smooth four-dimensional Poincaré conjecture—that is, whether a four-dimensional topological sphere can have two or more inequivalent smooth structures—is unsolved.[13]
+
+Notebooks
+The Kourovka Notebook (Russian: Коуровская тетрадь) is a collection of unsolved problems in group theory, first published in 1965 and updated many times since.[14]
+The Sverdlovsk Notebook (Russian: Свердловская тетрадь) is a collection of unsolved problems in semigroup theory, first published in 1969 and updated many times since.[15][16][17]
+The Dniester Notebook (Russian: Днестровская тетрадь) lists several hundred unsolved problems in algebra, particularly ring theory and modulus theory.[18][19]
+The Erlagol Notebook (Russian: Эрлагольская тетрадь) lists unsolved problems in algebra and model theory.[20]
+Unsolved problems
+Algebra
+Main article: Algebra
+In the Bloch sphere representation of a qubit, a SIC-POVM forms a regular tetrahedron. Zauner conjectured that analogous structures exist in complex Hilbert spaces of all finite dimensions.
+Birch–Tate conjecture on the relation between the order of the center of the Steinberg group of the ring of integers of a number field to the field's Dedekind zeta function.
+Bombieri–Lang conjectures on densities of rational points of algebraic surfaces and algebraic varieties defined on number fields and their field extensions.
+Connes embedding problem in Von Neumann algebra theory
+Crouzeix's conjecture: the matrix norm of a complex function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ applied to a complex matrix 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is at most twice the supremum of 
+
+
+
+
+|
+
+f
+(
+z
+)
+
+|
+
+
+
+{\displaystyle |f(z)|}
+
+ over the field of values of 
+
+
+
+A
+
+
+{\displaystyle A}
+
+.
+Determinantal conjecture on the determinant of the sum of two normal matrices.
+Eilenberg–Ganea conjecture: a group with cohomological dimension 2 also has a 2-dimensional Eilenberg–MacLane space 
+
+
+
+K
+(
+G
+,
+1
+)
+
+
+{\displaystyle K(G,1)}
+
+.
+Farrell–Jones conjecture on whether certain assembly maps are isomorphisms.
+Bost conjecture: a specific case of the Farrell–Jones conjecture
+Finite lattice representation problem: is every finite lattice isomorphic to the congruence lattice of some finite algebra?[21]
+Goncharov conjecture on the cohomology of certain motivic complexes.
+Green's conjecture: the Clifford index of a non-hyperelliptic curve is determined by the extent to which it, as a canonical curve, has linear syzygies.
+Grothendieck–Katz p-curvature conjecture: a conjectured local–global principle for linear ordinary differential equations.
+Hadamard conjecture: for every positive integer 
+
+
+
+k
+
+
+{\displaystyle k}
+
+, a Hadamard matrix of order 
+
+
+
+4
+k
+
+
+{\displaystyle 4k}
+
+ exists.
+Williamson conjecture: the problem of finding Williamson matrices, which can be used to construct Hadamard matrices.
+Hadamard's maximal determinant problem: what is the largest determinant of a matrix with entries all equal to 1 or –1?
+Hilbert's fifteenth problem: put Schubert calculus on a rigorous foundation.
+Hilbert's sixteenth problem: what are the possible configurations of the connected components of M-curves?
+Homological conjectures in commutative algebra
+Jacobson's conjecture: the intersection of all powers of the Jacobson radical of a left-and-right Noetherian ring is precisely 0.
+Kaplansky's conjectures
+Köthe conjecture: if a ring has no nil ideal other than 
+
+
+
+{
+0
+}
+
+
+{\displaystyle \{0\}}
+
+, then it has no nil one-sided ideal other than 
+
+
+
+{
+0
+}
+
+
+{\displaystyle \{0\}}
+
+.
+Monomial conjecture on Noetherian local rings
+Existence of perfect cuboids and associated cuboid conjectures
+Pierce–Birkhoff conjecture: every piecewise-polynomial 
+
+
+
+f
+:
+
+
+R
+
+
+n
+
+
+→
+
+R
+
+
+
+{\displaystyle f:\mathbb {R} ^{n}\rightarrow \mathbb {R} }
+
+ is the maximum of a finite set of minimums of finite collections of polynomials.
+Rota's basis conjecture: for matroids of rank 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ with 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ disjoint bases 
+
+
+
+
+B
+
+i
+
+
+
+
+{\displaystyle B_{i}}
+
+, it is possible to create an 
+
+
+
+n
+×
+n
+
+
+{\displaystyle n\times n}
+
+ matrix whose rows are 
+
+
+
+
+B
+
+i
+
+
+
+
+{\displaystyle B_{i}}
+
+ and whose columns are also bases.
+Serre's conjecture II: if 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ is a simply connected semisimple algebraic group over a perfect field of cohomological dimension at most 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+, then the Galois cohomology set 
+
+
+
+
+H
+
+1
+
+
+(
+F
+,
+G
+)
+
+
+{\displaystyle H^{1}(F,G)}
+
+ is zero.
+Serre's positivity conjecture that if 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ is a commutative regular local ring, and 
+
+
+
+P
+,
+Q
+
+
+{\displaystyle P,Q}
+
+ are prime ideals of 
+
+
+
+R
+
+
+{\displaystyle R}
+
+, then 
+
+
+
+dim
+⁡
+(
+R
+
+/
+
+P
+)
++
+dim
+⁡
+(
+R
+
+/
+
+Q
+)
+=
+dim
+⁡
+(
+R
+)
+
+
+{\displaystyle \dim(R/P)+\dim(R/Q)=\dim(R)}
+
+ implies 
+
+
+
+χ
+(
+R
+
+/
+
+P
+,
+R
+
+/
+
+Q
+)
+>
+0
+
+
+{\displaystyle \chi (R/P,R/Q)>0}
+
+.
+Uniform boundedness conjecture for rational points: do algebraic curves of genus 
+
+
+
+g
+≥
+2
+
+
+{\displaystyle g\geq 2}
+
+ over number fields 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ have at most some bounded number 
+
+
+
+N
+(
+K
+,
+g
+)
+
+
+{\displaystyle N(K,g)}
+
+ of 
+
+
+
+K
+
+
+{\displaystyle K}
+
+-rational points?
+Wild problems: problems involving classification of pairs of 
+
+
+
+n
+×
+n
+
+
+{\displaystyle n\times n}
+
+ matrices under simultaneous conjugation.
+Zariski–Lipman conjecture: for a complex algebraic variety 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ with coordinate ring 
+
+
+
+R
+
+
+{\displaystyle R}
+
+, if the derivations of 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ are a free module over 
+
+
+
+R
+
+
+{\displaystyle R}
+
+, then 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ is smooth.
+Zauner's conjecture: do SIC-POVMs exist in all dimensions?
+Zilber–Pink conjecture that if 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a mixed Shimura variety or semiabelian variety defined over 
+
+
+
+
+C
+
+
+
+{\displaystyle \mathbb {C} }
+
+, and 
+
+
+
+V
+⊆
+X
+
+
+{\displaystyle V\subseteq X}
+
+ is a subvariety, then 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ contains only finitely many atypical subvarieties.
+Group theory
+Main article: Group theory
+The free Burnside group 
+
+
+
+B
+(
+2
+,
+3
+)
+
+
+{\displaystyle B(2,3)}
+
+ is finite; in its Cayley graph, shown here, each of its 27 elements is represented by a vertex. The question of which other groups 
+
+
+
+B
+(
+m
+,
+n
+)
+
+
+{\displaystyle B(m,n)}
+
+ are finite remains open.
+Andrews–Curtis conjecture: every balanced presentation of the trivial group can be transformed into a trivial presentation by a sequence of Nielsen transformations on relators and conjugations of relators
+Burnside problem: for which positive integers m, n is the free Burnside group B(m,n) finite? In particular, is B(2, 5) finite?
+Guralnick–Thompson conjecture on the composition factors of groups in genus-0 systems[22]
+Herzog–Schönheim conjecture: if a finite system of left cosets of subgroups of a group 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ form a partition of 
+
+
+
+G
+
+
+{\displaystyle G}
+
+, then the finite indices of said subgroups cannot be distinct.
+The inverse Galois problem: is every finite group the Galois group of a Galois extension of the rationals?
+Are there an infinite number of Leinster groups?
+Does generalized moonshine exist?
+Is every finitely presented periodic group finite?
+Is every group surjunctive?
+Is every discrete, countable group sofic?
+Problems in loop theory and quasigroup theory consider generalizations of groups
+Representation theory
+Arthur's conjectures
+Dade's conjecture relating the numbers of characters of blocks of a finite group to the numbers of characters of blocks of local subgroups.
+Demazure conjecture on representations of algebraic groups over the integers.
+Kazhdan–Lusztig conjectures relating the values of the Kazhdan–Lusztig polynomials at 1 with representations of complex semisimple Lie groups and Lie algebras.
+McKay conjecture: in a group 
+
+
+
+G
+
+
+{\displaystyle G}
+
+, the number of irreducible complex characters of degree not divisible by a prime number 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ is equal to the number of irreducible complex characters of the normalizer of any Sylow 
+
+
+
+p
+
+
+{\displaystyle p}
+
+-subgroup within 
+
+
+
+G
+
+
+{\displaystyle G}
+
+.
+Analysis
+Main article: Mathematical analysis
+The area of the blue region converges to the Euler–Mascheroni constant, which may or may not be a rational number.
+The Brennan conjecture: estimating the integral of powers of the moduli of the derivative of conformal maps into the open unit disk, on certain subsets of 
+
+
+
+
+C
+
+
+
+{\displaystyle \mathbb {C} }
+
+
+Fuglede's conjecture on whether nonconvex sets in 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ and 
+
+
+
+
+
+R
+
+
+2
+
+
+
+
+{\displaystyle \mathbb {R} ^{2}}
+
+ are spectral if and only if they tile by translation.
+Goodman's conjecture on the coefficients of multivalent functions
+Invariant subspace problem – does every bounded operator on a complex Banach space send some non-trivial closed subspace to itself?
+Kung–Traub conjecture on the optimal order of a multipoint iteration without memory[23]
+Lehmer's conjecture on the Mahler measure of non-cyclotomic polynomials[24]
+The mean value problem: given a complex polynomial 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ of degree 
+
+
+
+d
+≥
+2
+
+
+{\displaystyle d\geq 2}
+
+ and a complex number 
+
+
+
+z
+
+
+{\displaystyle z}
+
+, is there a critical point 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ such that 
+
+
+
+
+|
+
+f
+(
+z
+)
+−
+f
+(
+c
+)
+
+|
+
+≤
+
+|
+
+
+f
+′
+
+(
+z
+)
+
+|
+
+
+|
+
+z
+−
+c
+
+|
+
+
+
+{\displaystyle |f(z)-f(c)|\leq |f'(z)||z-c|}
+
+?
+The Pompeiu problem on the topology of domains for which some nonzero function has integrals that vanish over every congruent copy[25]
+Sendov's conjecture: if a complex polynomial with degree at least 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+ has all roots in the closed unit disk, then each root is within distance 
+
+
+
+1
+
+
+{\displaystyle 1}
+
+ from some critical point.
+Vitushkin's conjecture on compact subsets of 
+
+
+
+
+C
+
+
+
+{\displaystyle \mathbb {C} }
+
+ with analytic capacity 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+
+What is the exact value of Landau's constants, including Bloch's constant?
+Regularity of solutions of Euler equations
+Convergence of Flint Hills series
+Regularity of solutions of Vlasov–Maxwell equations
+Transcendental numbers and diophantine approximation
+Further information: Transcendental number and Transcendental number theory
+Further information: Diophantine approximation
+The four exponentials conjecture: the transcendence of at least one of four exponentials of combinations of irrationals[26]
+Schanuel's conjecture on the transcendence degree of exponentials of linearly independent irrationals[26]
+Are 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ (the Euler–Mascheroni constant),
+
+
+
+π
++
+e
+,
+π
+−
+e
+,
+π
+e
+,
+π
+
+/
+
+e
+,
+
+π
+
+e
+
+
+,
+
+π
+
+
+2
+
+
+
+,
+
+π
+
+π
+
+
+,
+
+e
+
+
+π
+
+2
+
+
+
+
+,
+ln
+⁡
+π
+,
+
+2
+
+e
+
+
+,
+
+e
+
+e
+
+
+
+
+{\displaystyle \pi +e,\pi -e,\pi e,\pi /e,\pi ^{e},\pi ^{\sqrt {2}},\pi ^{\pi },e^{\pi ^{2}},\ln \pi ,2^{e},e^{e}}
+
+, Catalan's constant, or Khinchin's constant rational, algebraic irrational, or transcendental? What is the irrationality measure of each of these numbers?[27][28][29]
+Combinatorics
+Main article: Combinatorics
+The 1/3–2/3 conjecture – does every finite partially ordered set that is not totally ordered contain two elements x and y such that the probability that x appears before y in a random linear extension is between 1/3 and 2/3?[30]
+The Dittert conjecture concerning the maximum achieved by a particular function of matrices with real, nonnegative entries satisfying a summation condition
+Problems in Latin squares – open questions concerning Latin squares
+The lonely runner conjecture – if 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ runners with pairwise distinct speeds run round a track of unit length, will every runner be "lonely" (that is, be at least a distance 
+
+
+
+1
+
+/
+
+k
+
+
+{\displaystyle 1/k}
+
+ from each other runner) at some time?[31]
+Map folding – various problems in map folding and stamp folding.
+No-three-in-line problem – how many points can be placed in the 
+
+
+
+n
+×
+n
+
+
+{\displaystyle n\times n}
+
+ grid so that no three of them lie on a line?
+Rudin's conjecture on the number of squares in finite arithmetic progressions[32]
+The sunflower conjecture – can the number of 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ size sets required for the existence of a sunflower of 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ sets be bounded by an exponential function in 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ for every fixed 
+
+
+
+r
+>
+2
+
+
+{\displaystyle r>2}
+
+?
+Frankl's union-closed sets conjecture – for any family of sets closed under sums there exists an element (of the underlying space) belonging to half or more of the sets[33]
+Give a combinatorial interpretation of the Kronecker coefficients[34]
+The values of the Dedekind numbers 
+
+
+
+M
+(
+n
+)
+
+
+{\displaystyle M(n)}
+
+ for 
+
+
+
+n
+≥
+10
+
+
+{\displaystyle n\geq 10}
+
+[35]
+The values of the Ramsey numbers, particularly 
+
+
+
+R
+(
+5
+,
+5
+)
+
+
+{\displaystyle R(5,5)}
+
+
+The values of the Van der Waerden numbers
+Finding a function to model n-step self-avoiding walks[36]
+Dynamical systems
+Main article: Dynamical system
+A detail of the Mandelbrot set. It is not known whether the Mandelbrot set is locally connected or not.
+Arnold–Givental conjecture and Arnold conjecture – relating symplectic geometry to Morse theory.
+Berry–Tabor conjecture in quantum chaos
+Banach's problem – is there an ergodic system with simple Lebesgue spectrum?[37]
+Birkhoff conjecture – if a billiard table is strictly convex and integrable, is its boundary necessarily an ellipse?[38]
+Collatz conjecture (aka the 
+
+
+
+3
+n
++
+1
+
+
+{\displaystyle 3n+1}
+
+ conjecture)
+Eden's conjecture that the supremum of the local Lyapunov dimensions on the global attractor is achieved on a stationary point or an unstable periodic orbit embedded into the attractor.
+Eremenko's conjecture: every component of the escaping set of an entire transcendental function is unbounded.
+Fatou conjecture that a quadratic family of maps from the complex plane to itself is hyperbolic for an open dense set of parameters.
+Furstenberg conjecture – is every invariant and ergodic measure for the 
+
+
+
+×
+2
+,
+×
+3
+
+
+{\displaystyle \times 2,\times 3}
+
+ action on the circle either Lebesgue or atomic?
+Kaplan–Yorke conjecture on the dimension of an attractor in terms of its Lyapunov exponents
+Margulis conjecture – measure classification for diagonalizable actions in higher-rank groups.
+MLC conjecture – is the Mandelbrot set locally connected?
+Many problems concerning an outer billiard, for example showing that outer billiards relative to almost every convex polygon have unbounded orbits.
+Quantum unique ergodicity conjecture on the distribution of large-frequency eigenfunctions of the Laplacian on a negatively-curved manifold[39]
+Rokhlin's multiple mixing problem – are all strongly mixing systems also strongly 3-mixing?[40]
+Weinstein conjecture – does a regular compact contact type level set of a Hamiltonian on a symplectic manifold carry at least one periodic orbit of the Hamiltonian flow?
+Does every positive integer generate a juggler sequence terminating at 1?
+Lyapunov function: Lyapunov's second method for stability – For what classes of ODEs, describing dynamical systems, does Lyapunov's second method, formulated in the classical and canonically generalized forms, define the necessary and sufficient conditions for the (asymptotical) stability of motion?
+Is every reversible cellular automaton in three or more dimensions locally reversible?[41]
+Games and puzzles
+Main article: Game theory
+Combinatorial games
+Main article: Combinatorial game theory
+Sudoku:
+How many puzzles have exactly one solution?[42]
+How many puzzles with exactly one solution are minimal?[42]
+What is the maximum number of givens for a minimal puzzle?[42]
+Tic-tac-toe variants:
+Given the width of a tic-tac-toe board, what is the smallest dimension such that X is guaranteed to have a winning strategy? (See also Hales-Jewett theorem and nd game)[43]
+Chess:
+What is the outcome of a perfectly played game of chess? (See also first-move advantage in chess)
+Go:
+What is the perfect value of Komi?
+What is the Turing completeness status of all unique elementary cellular automata?
+Are the nim-sequences of all finite octal games eventually periodic?
+Is the nim-sequence of Grundy's game eventually periodic?
+Games with imperfect information
+Rendezvous problem
+Geometry
+Main article: Geometry
+Algebraic geometry
+Main article: Algebraic geometry
+Abundance conjecture: if the canonical bundle of a projective variety with Kawamata log terminal singularities is nef, then it is semiample.
+Bass conjecture on the finite generation of certain algebraic K-groups.
+Bass–Quillen conjecture relating vector bundles over a regular Noetherian ring and over the polynomial ring 
+
+
+
+A
+[
+
+t
+
+1
+
+
+,
+…
+,
+
+t
+
+n
+
+
+]
+
+
+{\displaystyle A[t_{1},\ldots ,t_{n}]}
+
+.
+Deligne conjecture: any one of numerous named for Pierre Deligne.
+Deligne's conjecture on Hochschild cohomology about the operadic structure on Hochschild cochain complex.
+Dixmier conjecture: any endomorphism of a Weyl algebra is an automorphism.
+Fröberg conjecture on the Hilbert functions of a set of forms.
+Fujita conjecture regarding the line bundle 
+
+
+
+
+K
+
+M
+
+
+⊗
+
+L
+
+⊗
+m
+
+
+
+
+{\displaystyle K_{M}\otimes L^{\otimes m}}
+
+ constructed from a positive holomorphic line bundle 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ on a compact complex manifold 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ and the canonical line bundle 
+
+
+
+
+K
+
+M
+
+
+
+
+{\displaystyle K_{M}}
+
+ of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+
+General elephant problem: do general elephants have at most Du Val singularities?
+Hartshorne's conjectures[44]
+Jacobian conjecture: if a polynomial mapping over a characteristic-0 field has a constant nonzero Jacobian determinant, then it has a regular (i.e. with polynomial components) inverse function.
+Manin conjecture on the distribution of rational points of bounded height in certain subsets of Fano varieties
+Maulik–Nekrasov–Okounkov–Pandharipande conjecture on an equivalence between Gromov–Witten theory and Donaldson–Thomas theory[45]
+Nagata's conjecture on curves, specifically the minimal degree required for a plane algebraic curve to pass through a collection of very general points with prescribed multiplicities.
+Nagata–Biran conjecture that if 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a smooth algebraic surface and 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ is an ample line bundle on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ of degree 
+
+
+
+d
+
+
+{\displaystyle d}
+
+, then for sufficiently large 
+
+
+
+r
+
+
+{\displaystyle r}
+
+, the Seshadri constant satisfies 
+
+
+
+ε
+(
+
+p
+
+1
+
+
+,
+…
+,
+
+p
+
+r
+
+
+;
+X
+,
+L
+)
+=
+d
+
+/
+
+
+
+r
+
+
+
+
+{\displaystyle \varepsilon (p_{1},\ldots ,p_{r};X,L)=d/{\sqrt {r}}}
+
+.
+Nakai conjecture: if a complex algebraic variety has a ring of differential operators generated by its contained derivations, then it must be smooth.
+Parshin's conjecture: the higher algebraic K-groups of any smooth projective variety defined over a finite field must vanish up to torsion.
+Section conjecture on splittings of group homomorphisms from fundamental groups of complete smooth curves over finitely-generated fields 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ to the Galois group of 
+
+
+
+k
+
+
+{\displaystyle k}
+
+.
+Standard conjectures on algebraic cycles
+Tate conjecture on the connection between algebraic cycles on algebraic varieties and Galois representations on étale cohomology groups.
+Virasoro conjecture: a certain generating function encoding the Gromov–Witten invariants of a smooth projective variety is fixed by an action of half of the Virasoro algebra.
+Zariski multiplicity conjecture on the topological equisingularity and equimultiplicity of varieties at singular points[46]
+Are infinite sequences of flips possible in dimensions greater than 3?
+Resolution of singularities in characteristic 
+
+
+
+p
+
+
+{\displaystyle p}
+
+
+Covering and packing
+Borsuk's problem on upper and lower bounds for the number of smaller-diameter subsets needed to cover a bounded n-dimensional set.
+The covering problem of Rado: if the union of finitely many axis-parallel squares has unit area, how small can the largest area covered by a disjoint subset of squares be?[47]
+The Erdős–Oler conjecture: when 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is a triangular number, packing 
+
+
+
+n
+−
+1
+
+
+{\displaystyle n-1}
+
+ circles in an equilateral triangle requires a triangle of the same size as packing 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ circles[48]
+The kissing number problem for dimensions other than 1, 2, 3, 4, 8 and 24[49]
+Reinhardt's conjecture: the smoothed octagon has the lowest maximum packing density of all centrally-symmetric convex plane sets[50]
+Sphere packing problems, including the density of the densest packing in dimensions other than 1, 2, 3, 8 and 24, and its asymptotic behavior for high dimensions.
+Square packing in a square: what is the asymptotic growth rate of wasted space?[51]
+Ulam's packing conjecture about the identity of the worst-packing convex solid[52]
+Differential geometry
+Main article: Differential geometry
+The spherical Bernstein's problem, a generalization of Bernstein's problem
+Carathéodory conjecture: any convex, closed, and twice-differentiable surface in three-dimensional Euclidean space admits at least two umbilical points.
+Cartan–Hadamard conjecture: can the classical isoperimetric inequality for subsets of Euclidean space be extended to spaces of nonpositive curvature, known as Cartan–Hadamard manifolds?
+Chern's conjecture (affine geometry) that the Euler characteristic of a compact affine manifold vanishes.
+Chern's conjecture for hypersurfaces in spheres, a number of closely related conjectures.
+Closed curve problem: find (explicit) necessary and sufficient conditions that determine when, given two periodic functions with the same period, the integral curve is closed.[53]
+The filling area conjecture, that a hemisphere has the minimum area among shortcut-free surfaces in Euclidean space whose boundary forms a closed curve of given length[54]
+The Hopf conjectures relating the curvature and Euler characteristic of higher-dimensional Riemannian manifolds[55]
+Yau's conjecture on the first eigenvalue that the first eigenvalue for the Laplace–Beltrami operator on an embedded minimal hypersurface of 
+
+
+
+
+S
+
+n
++
+1
+
+
+
+
+{\displaystyle S^{n+1}}
+
+ is 
+
+
+
+n
+
+
+{\displaystyle n}
+
+.
+Discrete geometry
+Main article: Discrete geometry
+In three dimensions, the kissing number is 12, because 12 non-overlapping unit spheres can be put into contact with a central unit sphere. (Here, the centers of outer spheres form the vertices of a regular icosahedron.) Kissing numbers are only known exactly in dimensions 1, 2, 3, 4, 8 and 24.
+The big-line-big-clique conjecture on the existence of either many collinear points or many mutually visible points in large planar point sets[56]
+The Hadwiger conjecture on covering n-dimensional convex bodies with at most 2n smaller copies[57]
+Solving the happy ending problem for arbitrary 
+
+
+
+n
+
+
+{\displaystyle n}
+
+[58]
+Improving lower and upper bounds for the Heilbronn triangle problem.
+Kalai's 3d conjecture on the least possible number of faces of centrally symmetric polytopes.[59]
+The Kobon triangle problem on triangles in line arrangements[60]
+The Kusner conjecture: at most 
+
+
+
+2
+d
+
+
+{\displaystyle 2d}
+
+ points can be equidistant in 
+
+
+
+
+L
+
+1
+
+
+
+
+{\displaystyle L^{1}}
+
+ spaces[61]
+The McMullen problem on projectively transforming sets of points into convex position[62]
+Opaque forest problem on finding opaque sets for various planar shapes
+How many unit distances can be determined by a set of n points in the Euclidean plane?[63]
+Finding matching upper and lower bounds for k-sets and halving lines[64]
+Tripod packing:[65] how many tripods can have their apexes packed into a given cube?
+Euclidean geometry
+Main article: Euclidean geometry
+The Atiyah conjecture on configurations on the invertibility of a certain 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-by-
+
+
+
+n
+
+
+{\displaystyle n}
+
+ matrix depending on 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ points in 
+
+
+
+
+
+R
+
+
+3
+
+
+
+
+{\displaystyle \mathbb {R} ^{3}}
+
+[66]
+Bellman's lost in a forest problem – find the shortest route that is guaranteed to reach the boundary of a given shape, starting at an unknown point of the shape with unknown orientation[67]
+Borromean rings — are there three unknotted space curves, not all three circles, which cannot be arranged to form this link?[68]
+Danzer's problem and Conway's dead fly problem – do Danzer sets of bounded density or bounded separation exist?[69]
+Dissection into orthoschemes – is it possible for simplices of every dimension?[70]
+Ehrhart's volume conjecture: a convex body 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ in 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ dimensions containing a single lattice point in its interior as its center of mass cannot have volume greater than 
+
+
+
+(
+n
++
+1
+
+)
+
+n
+
+
+
+/
+
+n
+!
+
+
+{\displaystyle (n+1)^{n}/n!}
+
+
+The einstein problem – does there exist a two-dimensional shape that forms the prototile for an aperiodic tiling, but not for any periodic tiling?[71][a]
+Falconer's conjecture: sets of Hausdorff dimension greater than 
+
+
+
+d
+
+/
+
+2
+
+
+{\displaystyle d/2}
+
+ in 
+
+
+
+
+
+R
+
+
+d
+
+
+
+
+{\displaystyle \mathbb {R} ^{d}}
+
+ must have a distance set of nonzero Lebesgue measure[73]
+The values of the Hermite constants for dimensions other than 1–8 and 24
+Inscribed square problem, also known as Toeplitz' conjecture and the square peg problem – does every Jordan curve have an inscribed square?[74]
+The Kakeya conjecture – do 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-dimensional sets that contain a unit line segment in every direction necessarily have Hausdorff dimension and Minkowski dimension equal to 
+
+
+
+n
+
+
+{\displaystyle n}
+
+?[75]
+The Kelvin problem on minimum-surface-area partitions of space into equal-volume cells, and the optimality of the Weaire–Phelan structure as a solution to the Kelvin problem[76]
+Lebesgue's universal covering problem on the minimum-area convex shape in the plane that can cover any shape of diameter one[77]
+Mahler's conjecture on the product of the volumes of a centrally symmetric convex body and its polar.[78]
+Moser's worm problem – what is the smallest area of a shape that can cover every unit-length curve in the plane?[79]
+The moving sofa problem – what is the largest area of a shape that can be maneuvered through a unit-width L-shaped corridor?[80]
+Does every convex polyhedron have Rupert's property?[81][82]
+Shephard's problem (a.k.a. Dürer's conjecture) – does every convex polyhedron have a net, or simple edge-unfolding?[83][84]
+Is there a non-convex polyhedron without self-intersections with more than seven faces, all of which share an edge with each other?
+The Thomson problem – what is the minimum energy configuration of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ mutually-repelling particles on a unit sphere?[85]
+Convex uniform 5-polytopes – find and classify the complete set of these shapes[86]
+Graph theory
+Main article: Graph theory
+Algebraic graph theory
+Babai's problem: which groups are Babai invariant groups?
+Brouwer's conjecture on upper bounds for sums of eigenvalues of Laplacians of graphs in terms of their number of edges
+Games on graphs
+Graham's pebbling conjecture on the pebbling number of Cartesian products of graphs[87]
+Meyniel's conjecture that cop number is 
+
+
+
+O
+(
+
+
+n
+
+
+)
+
+
+{\displaystyle O({\sqrt {n}})}
+
+[88]
+Graph coloring and labeling
+An instance of the Erdős–Faber–Lovász conjecture: a graph formed from four cliques of four vertices each, any two of which intersect in a single vertex, can be four-colored.
+The 1-factorization conjecture that if 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is odd or even and 
+
+
+
+k
+≥
+n
+,
+n
+−
+1
+
+
+{\displaystyle k\geq n,n-1}
+
+ respectively, then a 
+
+
+
+k
+
+
+{\displaystyle k}
+
+-regular graph with 
+
+
+
+2
+n
+
+
+{\displaystyle 2n}
+
+ vertices is 1-factorable.
+The perfect 1-factorization conjecture that every complete graph on an even number of vertices admits a perfect 1-factorization.
+Cereceda's conjecture on the diameter of the space of colorings of degenerate graphs[89]
+The Earth–Moon problem: what is the maximum chromatic number of biplanar graphs?[90]
+The Erdős–Faber–Lovász conjecture on coloring unions of cliques[91]
+The graceful tree conjecture that every tree admits a graceful labeling
+Rosa's conjecture that all triangular cacti are graceful or nearly-graceful
+The Gyárfás–Sumner conjecture on χ-boundedness of graphs with a forbidden induced tree[92]
+The Hadwiger conjecture relating coloring to clique minors[93]
+The Hadwiger–Nelson problem on the chromatic number of unit distance graphs[94]
+Jaeger's Petersen-coloring conjecture: every bridgeless cubic graph has a cycle-continuous mapping to the Petersen graph[95]
+The list coloring conjecture: for every graph, the list chromatic index equals the chromatic index[96]
+The overfull conjecture that a graph with maximum degree 
+
+
+
+Δ
+(
+G
+)
+≥
+n
+
+/
+
+3
+
+
+{\displaystyle \Delta (G)\geq n/3}
+
+ is class 2 if and only if it has an overfull subgraph 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ satisfying 
+
+
+
+Δ
+(
+S
+)
+=
+Δ
+(
+G
+)
+
+
+{\displaystyle \Delta (S)=\Delta (G)}
+
+.
+The total coloring conjecture of Behzad and Vizing that the total chromatic number is at most two plus the maximum degree[97]
+Graph drawing and embedding
+The Albertson conjecture: the crossing number can be lower-bounded by the crossing number of a complete graph with the same chromatic number[98]
+Conway's thrackle conjecture[99] that thrackles cannot have more edges than vertices
+The GNRS conjecture on whether minor-closed graph families have 
+
+
+
+
+ℓ
+
+1
+
+
+
+
+{\displaystyle \ell _{1}}
+
+ embeddings with bounded distortion[100]
+Harborth's conjecture: every planar graph can be drawn with integer edge lengths[101]
+Negami's conjecture on projective-plane embeddings of graphs with planar covers[102]
+The strong Papadimitriou–Ratajczak conjecture: every polyhedral graph has a convex greedy embedding[103]
+Turán's brick factory problem – Is there a drawing of any complete bipartite graph with fewer crossings than the number given by Zarankiewicz?[104]
+Universal point sets of subquadratic size for planar graphs[105]
+Restriction of graph parameters
+Conway's 99-graph problem: does there exist a strongly regular graph with parameters (99,14,1,2)?[106]
+Degree diameter problem: given two positive integers 
+
+
+
+d
+,
+k
+
+
+{\displaystyle d,k}
+
+, what is the largest graph of diameter 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ such that all vertices have degrees at most 
+
+
+
+d
+
+
+{\displaystyle d}
+
+?
+Jørgensen's conjecture that every 6-vertex-connected K6-minor-free graph is an apex graph[107]
+Does a Moore graph with girth 5 and degree 57 exist?[108]
+Do there exist infinitely many strongly regular geodetic graphs, or any strongly regular geodetic graphs that are not Moore graphs?[109]
+Subgraphs
+Barnette's conjecture: every cubic bipartite three-connected planar graph has a Hamiltonian cycle[110]
+Gilbert–Pollack conjecture on the Steiner ratio of the Euclidean plane that the Steiner ratio is 
+
+
+
+
+
+3
+
+
+
+/
+
+2
+
+
+{\displaystyle {\sqrt {3}}/2}
+
+
+Chvátal's toughness conjecture, that there is a number t such that every t-tough graph is Hamiltonian[111]
+The cycle double cover conjecture: every bridgeless graph has a family of cycles that includes each edge twice[112]
+The Erdős–Gyárfás conjecture on cycles with power-of-two lengths in cubic graphs[113]
+The Erdős–Hajnal conjecture on large cliques or independent sets in graphs with a forbidden induced subgraph[114]
+The linear arboricity conjecture on decomposing graphs into disjoint unions of paths according to their maximum degree[115]
+The Lovász conjecture on Hamiltonian paths in symmetric graphs[116]
+The Oberwolfach problem on which 2-regular graphs have the property that a complete graph on the same number of vertices can be decomposed into edge-disjoint copies of the given graph.[117]
+What is the largest possible pathwidth of an n-vertex cubic graph?[118]
+The reconstruction conjecture and new digraph reconstruction conjecture on whether a graph is uniquely determined by its vertex-deleted subgraphs.[119][120]
+The snake-in-the-box problem: what is the longest possible induced path in an 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-dimensional hypercube graph?
+Sumner's conjecture: does every 
+
+
+
+(
+2
+n
+−
+2
+)
+
+
+{\displaystyle (2n-2)}
+
+-vertex tournament contain as a subgraph every 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-vertex oriented tree?[121]
+Szymanski's conjecture: every permutation on the 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-dimensional doubly-directed hypercube graph can be routed with edge-disjoint paths.
+Tuza's conjecture: if the maximum number of disjoint triangles is 
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+, can all triangles be hit by a set of at most 
+
+
+
+2
+ν
+
+
+{\displaystyle 2\nu }
+
+ edges?[122]
+Vizing's conjecture on the domination number of cartesian products of graphs[123]
+Zarankiewicz problem: how many edges can there be in a bipartite graph on a given number of vertices with no complete bipartite subgraphs of a given size?
+Word-representation of graphs
+Are there any graphs on n vertices whose representation requires more than floor(n/2) copies of each letter?[124][125][126][127]
+Characterise (non-)word-representable planar graphs[124][125][126][127]
+Characterise word-representable graphs in terms of (induced) forbidden subgraphs.[124][125][126][127]
+Characterise word-representable near-triangulations containing the complete graph K4 (such a characterisation is known for K4-free planar graphs[128])
+Classify graphs with representation number 3, that is, graphs that can be represented using 3 copies of each letter, but cannot be represented using 2 copies of each letter[129]
+Is it true that out of all bipartite graphs, crown graphs require longest word-representants?[130]
+Is the line graph of a non-word-representable graph always non-word-representable?[124][125][126][127]
+Which (hard) problems on graphs can be translated to words representing them and solved on words (efficiently)?[124][125][126][127]
+Miscellaneous graph theory
+The implicit graph conjecture on the existence of implicit representations for slowly-growing hereditary families of graphs[131]
+Ryser's conjecture relating the maximum matching size and minimum transversal size in hypergraphs
+The second neighborhood problem: does every oriented graph contain a vertex for which there are at least as many other vertices at distance two as at distance one?[132]
+Sidorenko's conjecture on homomorphism densities of graphs in graphons
+Tutte's conjectures:
+every bridgeless graph has a nowhere-zero 5-flow[133]
+every Petersen-minor-free bridgeless graph has a nowhere-zero 4-flow[134]
+Woodall's conjecture that the minimum number of edges in a dicut of a directed graph is equal to the maximum number of disjoint dijoins
+Model theory and formal languages
+Main articles: Model theory and formal languages
+The Cherlin–Zilber conjecture: A simple group whose first-order theory is stable in 
+
+
+
+
+ℵ
+
+0
+
+
+
+
+{\displaystyle \aleph _{0}}
+
+ is a simple algebraic group over an algebraically closed field.
+Generalized star height problem: can all regular languages be expressed using generalized regular expressions with limited nesting depths of Kleene stars?
+For which number fields does Hilbert's tenth problem hold?
+Kueker's conjecture[135]
+The main gap conjecture, e.g. for uncountable first order theories, for AECs, and for 
+
+
+
+
+ℵ
+
+1
+
+
+
+
+{\displaystyle \aleph _{1}}
+
+-saturated models of a countable theory.[136]
+Shelah's categoricity conjecture for 
+
+
+
+
+L
+
+
+ω
+
+1
+
+
+,
+ω
+
+
+
+
+{\displaystyle L_{\omega _{1},\omega }}
+
+: If a sentence is categorical above the Hanf number then it is categorical in all cardinals above the Hanf number.[136]
+Shelah's eventual categoricity conjecture: For every cardinal 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ there exists a cardinal 
+
+
+
+μ
+(
+λ
+)
+
+
+{\displaystyle \mu (\lambda )}
+
+ such that if an AEC K with LS(K)<= 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ is categorical in a cardinal above 
+
+
+
+μ
+(
+λ
+)
+
+
+{\displaystyle \mu (\lambda )}
+
+ then it is categorical in all cardinals above 
+
+
+
+μ
+(
+λ
+)
+
+
+{\displaystyle \mu (\lambda )}
+
+.[136][137]
+The stable field conjecture: every infinite field with a stable first-order theory is separably closed.
+The stable forking conjecture for simple theories[138]
+Tarski's exponential function problem: is the theory of the real numbers with the exponential function decidable?
+The universality problem for C-free graphs: For which finite sets C of graphs does the class of C-free countable graphs have a universal member under strong embeddings?[139]
+The universality spectrum problem: Is there a first-order theory whose universality spectrum is minimum?[140]
+Vaught conjecture: the number of countable models of a first-order complete theory in a countable language is either finite, 
+
+
+
+
+ℵ
+
+0
+
+
+
+
+{\displaystyle \aleph _{0}}
+
+, or 
+
+
+
+
+2
+
+
+ℵ
+
+0
+
+
+
+
+
+
+{\displaystyle 2^{\aleph _{0}}}
+
+.
+Assume K is the class of models of a countable first order theory omitting countably many types. If K has a model of cardinality 
+
+
+
+
+ℵ
+
+
+ω
+
+1
+
+
+
+
+
+
+{\displaystyle \aleph _{\omega _{1}}}
+
+ does it have a model of cardinality continuum?[141]
+Do the Henson graphs have the finite model property?
+Does a finitely presented homogeneous structure for a finite relational language have finitely many reducts?
+Does there exist an o-minimal first order theory with a trans-exponential (rapid growth) function?
+If the class of atomic models of a complete first order theory is categorical in the 
+
+
+
+
+ℵ
+
+n
+
+
+
+
+{\displaystyle \aleph _{n}}
+
+, is it categorical in every cardinal?[142][143]
+Is every infinite, minimal field of characteristic zero algebraically closed? (Here, "minimal" means that every definable subset of the structure is finite or co-finite.)
+Is the Borel monadic theory of the real order (BMTO) decidable? Is the monadic theory of well-ordering (MTWO) consistently decidable?[144]
+Is the theory of the field of Laurent series over 
+
+
+
+
+
+Z
+
+
+p
+
+
+
+
+{\displaystyle \mathbb {Z} _{p}}
+
+ decidable? of the field of polynomials over 
+
+
+
+
+C
+
+
+
+{\displaystyle \mathbb {C} }
+
+?
+Is there a logic L which satisfies both the Beth property and Δ-interpolation, is compact but does not satisfy the interpolation property?[145]
+Determine the structure of Keisler's order.[146][147]
+Probability theory
+Main article: Probability theory
+Ibragimov–Iosifescu conjecture for φ-mixing sequences
+Number theory
+Main page: Category:Unsolved problems in number theory
+See also: Number theory
+General
+6 is a perfect number because it is the sum of its proper positive divisors, 1, 2 and 3. It is not known how many perfect numbers there are, nor if any of them is odd.
+Beilinson's conjectures
+Brocard's problem: are there any integer solutions to 
+
+
+
+n
+!
++
+1
+=
+
+m
+
+2
+
+
+
+
+{\displaystyle n!+1=m^{2}}
+
+ other than 
+
+
+
+n
+=
+4
+,
+5
+,
+7
+
+
+{\displaystyle n=4,5,7}
+
+?
+Büchi's problem on sufficiently large sequences of square numbers with constant second difference.
+Carmichael's totient function conjecture: do all values of Euler's totient function have multiplicity greater than 
+
+
+
+1
+
+
+{\displaystyle 1}
+
+?
+Casas-Alvero conjecture: if a polynomial of degree 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ defined over a field 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ of characteristic 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ has a factor in common with its first through 
+
+
+
+d
+−
+1
+
+
+{\displaystyle d-1}
+
+-th derivative, then must 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ be the 
+
+
+
+d
+
+
+{\displaystyle d}
+
+-th power of a linear polynomial?
+Catalan–Dickson conjecture on aliquot sequences: no aliquot sequences are infinite but non-repeating.
+Erdős–Ulam problem: is there a dense set of points in the plane all at rational distances from one-another?
+Exponent pair conjecture: for all 
+
+
+
+ϵ
+>
+0
+
+
+{\displaystyle \epsilon >0}
+
+, is the pair 
+
+
+
+(
+ϵ
+,
+1
+
+/
+
+2
++
+ϵ
+)
+
+
+{\displaystyle (\epsilon ,1/2+\epsilon )}
+
+ an exponent pair?
+The Gauss circle problem: how far can the number of integer points in a circle centered at the origin be from the area of the circle?
+Grand Riemann hypothesis: do the nontrivial zeros of all automorphic L-functions lie on the critical line 
+
+
+
+1
+
+/
+
+2
++
+i
+t
+
+
+{\displaystyle 1/2+it}
+
+ with real 
+
+
+
+t
+
+
+{\displaystyle t}
+
+?
+Generalized Riemann hypothesis: do the nontrivial zeros of all Dirichlet L-functions lie on the critical line 
+
+
+
+1
+
+/
+
+2
++
+i
+t
+
+
+{\displaystyle 1/2+it}
+
+ with real 
+
+
+
+t
+
+
+{\displaystyle t}
+
+?
+Riemann hypothesis: do the nontrivial zeros of the Riemann zeta function lie on the critical line 
+
+
+
+1
+
+/
+
+2
++
+i
+t
+
+
+{\displaystyle 1/2+it}
+
+ with real 
+
+
+
+t
+
+
+{\displaystyle t}
+
+?
+Grimm's conjecture: each element of a set of consecutive composite numbers can be assigned a distinct prime number that divides it.
+Hall's conjecture: for any 
+
+
+
+ϵ
+>
+0
+
+
+{\displaystyle \epsilon >0}
+
+, there is some constant 
+
+
+
+c
+(
+ϵ
+)
+
+
+{\displaystyle c(\epsilon )}
+
+ such that either 
+
+
+
+
+y
+
+2
+
+
+=
+
+x
+
+3
+
+
+
+
+{\displaystyle y^{2}=x^{3}}
+
+ or 
+
+
+
+
+|
+
+
+y
+
+2
+
+
+−
+
+x
+
+3
+
+
+
+|
+
+>
+c
+(
+ϵ
+)
+
+x
+
+1
+
+/
+
+2
+−
+ϵ
+
+
+
+
+{\displaystyle |y^{2}-x^{3}|>c(\epsilon )x^{1/2-\epsilon }}
+
+.
+Hardy–Littlewood zeta-function conjectures
+Hilbert–Pólya conjecture: the nontrivial zeros of the Riemann zeta function correspond to eigenvalues of a self-adjoint operator.
+Hilbert's eleventh problem: classify quadratic forms over algebraic number fields.
+Hilbert's ninth problem: find the most general reciprocity law for the norm residues of 
+
+
+
+k
+
+
+{\displaystyle k}
+
+-th order in a general algebraic number field, where 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is a power of a prime.
+Hilbert's twelfth problem: extend the Kronecker–Weber theorem on Abelian extensions of 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+ to any base number field.
+Keating–Snaith conjecture concerning the asymptotics of an integral involving the Riemann zeta function[148]
+Lehmer's totient problem: if 
+
+
+
+ϕ
+(
+n
+)
+
+
+{\displaystyle \phi (n)}
+
+ divides 
+
+
+
+n
+−
+1
+
+
+{\displaystyle n-1}
+
+, must 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ be prime?
+Leopoldt's conjecture: a p-adic analogue of the regulator of an algebraic number field does not vanish.
+Lindelöf hypothesis that for all 
+
+
+
+ϵ
+>
+0
+
+
+{\displaystyle \epsilon >0}
+
+, 
+
+
+
+ζ
+(
+1
+
+/
+
+2
++
+i
+t
+)
+=
+o
+(
+
+t
+
+ϵ
+
+
+)
+
+
+{\displaystyle \zeta (1/2+it)=o(t^{\epsilon })}
+
+
+The density hypothesis for zeroes of the Riemann zeta function
+Littlewood conjecture: for any two real numbers 
+
+
+
+α
+,
+β
+
+
+{\displaystyle \alpha ,\beta }
+
+, 
+
+
+
+
+lim inf
+
+n
+→
+∞
+
+
+n
+
+‖
+n
+α
+‖
+
+‖
+n
+β
+‖
+=
+0
+
+
+{\displaystyle \liminf _{n\rightarrow \infty }n\,\Vert n\alpha \Vert \,\Vert n\beta \Vert =0}
+
+, where 
+
+
+
+‖
+x
+‖
+
+
+{\displaystyle \Vert x\Vert }
+
+ is the distance from 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ to the nearest integer.
+Mahler's 3/2 problem that no real number 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ has the property that the fractional parts of 
+
+
+
+x
+(
+3
+
+/
+
+2
+
+)
+
+n
+
+
+
+
+{\displaystyle x(3/2)^{n}}
+
+ are less than 
+
+
+
+1
+
+/
+
+2
+
+
+{\displaystyle 1/2}
+
+ for all positive integers 
+
+
+
+n
+
+
+{\displaystyle n}
+
+.
+Montgomery's pair correlation conjecture: the normalized pair correlation function between pairs of zeros of the Riemann zeta function is the same as the pair correlation function of random Hermitian matrices.
+n conjecture: a generalization of the abc conjecture to more than three integers.
+abc conjecture: for any 
+
+
+
+ϵ
+>
+0
+
+
+{\displaystyle \epsilon >0}
+
+, 
+
+
+
+
+rad
+
+(
+a
+b
+c
+
+)
+
+1
++
+ϵ
+
+
+<
+c
+
+
+{\displaystyle {\text{rad}}(abc)^{1+\epsilon }<c}
+
+ is true for only finitely many positive 
+
+
+
+a
+,
+b
+,
+c
+
+
+{\displaystyle a,b,c}
+
+ such that 
+
+
+
+a
++
+b
+=
+c
+
+
+{\displaystyle a+b=c}
+
+.
+Szpiro's conjecture: for any 
+
+
+
+ϵ
+>
+0
+
+
+{\displaystyle \epsilon >0}
+
+, there is some constant 
+
+
+
+C
+(
+ϵ
+)
+
+
+{\displaystyle C(\epsilon )}
+
+ such that, for any elliptic curve 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ defined over 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+ with minimal discriminant 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+ and conductor 
+
+
+
+f
+
+
+{\displaystyle f}
+
+, we have 
+
+
+
+
+|
+
+Δ
+
+|
+
+≤
+C
+(
+ϵ
+)
+⋅
+
+f
+
+6
++
+ϵ
+
+
+
+
+{\displaystyle |\Delta |\leq C(\epsilon )\cdot f^{6+\epsilon }}
+
+.
+Newman's conjecture: the partition function satisfies any arbitrary congruence infinitely often.
+Piltz divisor problem on bounding 
+
+
+
+
+Δ
+
+k
+
+
+(
+x
+)
+=
+
+D
+
+k
+
+
+(
+x
+)
+−
+x
+
+P
+
+k
+
+
+(
+log
+⁡
+(
+x
+)
+)
+
+
+{\displaystyle \Delta _{k}(x)=D_{k}(x)-xP_{k}(\log(x))}
+
+
+Dirichlet's divisor problem: the specific case of the Piltz divisor problem for 
+
+
+
+k
+=
+1
+
+
+{\displaystyle k=1}
+
+
+Ramanujan–Petersson conjecture: a number of related conjectures that are generalizations of the original conjecture.
+Sato–Tate conjecture: also a number of related conjectures that are generalizations of the original conjecture.
+Scholz conjecture: the length of the shortest addition chain producing 
+
+
+
+
+2
+
+n
+
+
+−
+1
+
+
+{\displaystyle 2^{n}-1}
+
+ is at most 
+
+
+
+n
+−
+1
+
+
+{\displaystyle n-1}
+
+ plus the length of the shortest addition chain producing 
+
+
+
+n
+
+
+{\displaystyle n}
+
+.
+Do Siegel zeros exist?
+Singmaster's conjecture: is there a finite upper bound on the multiplicities of the entries greater than 1 in Pascal's triangle?[149]
+Vojta's conjecture on heights of points on algebraic varieties over algebraic number fields.
+Are there infinitely many perfect numbers?
+Do any odd perfect numbers exist?
+Do quasiperfect numbers exist?
+Do any non-power of 2 almost perfect numbers exist?
+Are there 65, 66, or 67 idoneal numbers?
+Are there any pairs of amicable numbers which have opposite parity?
+Are there any pairs of betrothed numbers which have same parity?
+Are there any pairs of relatively prime amicable numbers?
+Are there infinitely many amicable numbers?
+Are there infinitely many betrothed numbers?
+Are there infinitely many Giuga numbers?
+Does every rational number with an odd denominator have an odd greedy expansion?
+Do any Lychrel numbers exist?
+Do any odd noncototients exist?
+Do any odd weird numbers exist?
+Do any (2, 5)-perfect numbers exist?
+Do any Taxicab(5, 2, n) exist for n > 1?
+Is there a covering system with odd distinct moduli?[150]
+Is 
+
+
+
+π
+
+
+{\displaystyle \pi }
+
+ a normal number (i.e., is each digit 0–9 equally frequent)?[151]
+Are all irrational algebraic numbers normal?
+Is 10 a solitary number?
+Can a 3×3 magic square be constructed from 9 distinct perfect square numbers?[152]
+Find the value of the De Bruijn–Newman constant.
+Additive number theory
+Main article: Additive number theory
+See also: Problems involving arithmetic progressions
+Erdős conjecture on arithmetic progressions that if the sum of the reciprocals of the members of a set of positive integers diverges, then the set contains arbitrarily long arithmetic progressions.
+Erdős–Heilbronn conjecture that 
+
+
+
+
+|
+
+
+2
+
+∧
+
+
+A
+
+|
+
+≥
+min
+{
+p
+,
+2
+
+|
+
+A
+
+|
+
+−
+3
+}
+
+
+{\displaystyle |2^{\wedge }A|\geq \min\{p,2|A|-3\}}
+
+ if 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ is a prime and 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is a nonempty subset of the field 
+
+
+
+
+Z
+
+
+/
+
+p
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} /p\mathbb {Z} }
+
+.
+Erdős–Turán conjecture on additive bases: if 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ is an additive basis of order 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+, then the number of ways that positive integers 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ can be expressed as the sum of two numbers in 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ must tend to infinity as 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ tends to infinity.
+Gilbreath's conjecture on consecutive applications of the unsigned forward difference operator to the sequence of prime numbers.
+Goldbach's conjecture: every even natural number greater than 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+ is the sum of two prime numbers.
+Lander, Parkin, and Selfridge conjecture: if the sum of 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ 
+
+
+
+k
+
+
+{\displaystyle k}
+
+-th powers of positive integers is equal to a different sum of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ 
+
+
+
+k
+
+
+{\displaystyle k}
+
+-th powers of positive integers, then 
+
+
+
+m
++
+n
+≥
+k
+
+
+{\displaystyle m+n\geq k}
+
+.
+Lemoine's conjecture: all odd integers greater than 
+
+
+
+5
+
+
+{\displaystyle 5}
+
+ can be represented as the sum of an odd prime number and an even semiprime.
+Minimum overlap problem of estimating the minimum possible maximum number of times a number appears in the termwise difference of two equally large sets partitioning the set 
+
+
+
+{
+1
+,
+…
+,
+2
+n
+}
+
+
+{\displaystyle \{1,\ldots ,2n\}}
+
+
+Pollock's conjectures
+Does every nonnegative integer appear in Recamán's sequence?
+Skolem problem: can an algorithm determine if a constant-recursive sequence contains a zero?
+The values of g(k) and G(k) in Waring's problem
+Do the Ulam numbers have a positive density?
+Determine growth rate of rk(N) (see Szemerédi's theorem)
+Algebraic number theory
+Main article: Algebraic number theory
+Class number problem: are there infinitely many real quadratic number fields with unique factorization?
+Fontaine–Mazur conjecture: actually numerous conjectures, all proposed by Jean-Marc Fontaine and Barry Mazur.
+Gan–Gross–Prasad conjecture: a restriction problem in representation theory of real or p-adic Lie groups.
+Greenberg's conjectures
+Hermite's problem: is it possible, for any natural number 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, to assign a sequence of natural numbers to each real number such that the sequence for 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is eventually periodic if and only if 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is algebraic of degree 
+
+
+
+n
+
+
+{\displaystyle n}
+
+?
+Kummer–Vandiver conjecture: primes 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ do not divide the class number of the maximal real subfield of the 
+
+
+
+p
+
+
+{\displaystyle p}
+
+-th cyclotomic field.
+Lang and Trotter's conjecture on supersingular primes that the number of supersingular primes less than a constant 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is within a constant multiple of 
+
+
+
+
+
+X
+
+
+
+/
+
+ln
+⁡
+
+X
+
+
+
+{\displaystyle {\sqrt {X}}/\ln {X}}
+
+
+Selberg's 1/4 conjecture: the eigenvalues of the Laplace operator on Maass wave forms of congruence subgroups are at least 
+
+
+
+1
+
+/
+
+4
+
+
+{\displaystyle 1/4}
+
+.
+Stark conjectures (including Brumer–Stark conjecture)
+Characterize all algebraic number fields that have some power basis.
+Computational number theory
+Main article: Computational number theory
+Can integer factorization be done in polynomial time?
+Diophantine equations
+Further information: Diophantine equation
+Beal's conjecture: for all integral solutions to 
+
+
+
+
+A
+
+x
+
+
++
+
+B
+
+y
+
+
+=
+
+C
+
+z
+
+
+
+
+{\displaystyle A^{x}+B^{y}=C^{z}}
+
+ where 
+
+
+
+x
+,
+y
+,
+z
+>
+2
+
+
+{\displaystyle x,y,z>2}
+
+, all three numbers 
+
+
+
+A
+,
+B
+,
+C
+
+
+{\displaystyle A,B,C}
+
+ must share some prime factor.
+Congruent number problem (a corollary to Birch and Swinnerton-Dyer conjecture, per Tunnell's theorem): determine precisely what rational numbers are congruent numbers.
+Erdős–Moser problem: is 
+
+
+
+
+1
+
+1
+
+
++
+
+2
+
+1
+
+
+=
+
+3
+
+1
+
+
+
+
+{\displaystyle 1^{1}+2^{1}=3^{1}}
+
+ the only solution to the Erdős–Moser equation?
+Erdős–Straus conjecture: for every 
+
+
+
+n
+≥
+2
+
+
+{\displaystyle n\geq 2}
+
+, there are positive integers 
+
+
+
+x
+,
+y
+,
+z
+
+
+{\displaystyle x,y,z}
+
+ such that 
+
+
+
+4
+
+/
+
+n
+=
+1
+
+/
+
+x
++
+1
+
+/
+
+y
++
+1
+
+/
+
+z
+
+
+{\displaystyle 4/n=1/x+1/y+1/z}
+
+.
+Fermat–Catalan conjecture: there are finitely many distinct solutions 
+
+
+
+(
+
+a
+
+m
+
+
+,
+
+b
+
+n
+
+
+,
+
+c
+
+k
+
+
+)
+
+
+{\displaystyle (a^{m},b^{n},c^{k})}
+
+ to the equation 
+
+
+
+
+a
+
+m
+
+
++
+
+b
+
+n
+
+
+=
+
+c
+
+k
+
+
+
+
+{\displaystyle a^{m}+b^{n}=c^{k}}
+
+ with 
+
+
+
+a
+,
+b
+,
+c
+
+
+{\displaystyle a,b,c}
+
+ being positive coprime integers and 
+
+
+
+m
+,
+n
+,
+k
+
+
+{\displaystyle m,n,k}
+
+ being positive integers satisfying 
+
+
+
+1
+
+/
+
+m
++
+1
+
+/
+
+n
++
+1
+
+/
+
+k
+<
+1
+
+
+{\displaystyle 1/m+1/n+1/k<1}
+
+.
+Goormaghtigh conjecture on solutions to 
+
+
+
+(
+
+x
+
+m
+
+
+−
+1
+)
+
+/
+
+(
+x
+−
+1
+)
+=
+(
+
+y
+
+n
+
+
+−
+1
+)
+
+/
+
+(
+y
+−
+1
+)
+
+
+{\displaystyle (x^{m}-1)/(x-1)=(y^{n}-1)/(y-1)}
+
+ where 
+
+
+
+x
+>
+y
+>
+1
+
+
+{\displaystyle x>y>1}
+
+ and 
+
+
+
+m
+,
+n
+>
+2
+
+
+{\displaystyle m,n>2}
+
+.
+The uniqueness conjecture for Markov numbers[153] that every Markov number is the largest number in exactly one normalized solution to the Markov Diophantine equation.
+Pillai's conjecture: for any 
+
+
+
+A
+,
+B
+,
+C
+
+
+{\displaystyle A,B,C}
+
+, the equation 
+
+
+
+A
+
+x
+
+m
+
+
+−
+B
+
+y
+
+n
+
+
+=
+C
+
+
+{\displaystyle Ax^{m}-By^{n}=C}
+
+ has finitely many solutions when 
+
+
+
+m
+,
+n
+
+
+{\displaystyle m,n}
+
+ are not both 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+.
+Which integers can be written as the sum of three perfect cubes?[154]
+Can every integer be written as a sum of four perfect cubes?
+Prime numbers
+Main article: Prime numbers
+vtePrime number conjectures
+Hardy–Littlewood
+1st
+2nd
+Agoh–Giuga
+Andrica's
+Artin's
+Bateman–Horn
+Brocard's
+Bunyakovsky
+Chinese hypothesis
+Cramér's
+Dickson's
+Elliott–Halberstam
+Firoozbakht's
+Gilbreath's
+Grimm's
+Landau's problems
+Goldbach's
+weak
+Legendre's
+Twin prime
+Legendre's constant
+Lemoine's
+Mersenne
+Oppermann's
+Polignac's
+Pólya
+Schinzel's hypothesis H
+Waring's prime number
+
+Goldbach's conjecture states that all even integers greater than 2 can be written as the sum of two primes. Here this is illustrated for the even integers from 4 to 28.
+Agoh–Giuga conjecture on the Bernoulli numbers that 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ is prime if and only if 
+
+
+
+p
+
+B
+
+p
+−
+1
+
+
+≡
+−
+1
+
+
+(
+mod
+
+p
+)
+
+
+
+{\displaystyle pB_{p-1}\equiv -1{\pmod {p}}}
+
+
+Agrawal's conjecture that given coprime positive integers 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ and 
+
+
+
+r
+
+
+{\displaystyle r}
+
+, if 
+
+
+
+(
+X
+−
+1
+
+)
+
+n
+
+
+≡
+
+X
+
+n
+
+
+−
+1
+
+
+(
+mod
+
+n
+,
+
+X
+
+r
+
+
+−
+1
+)
+
+
+
+{\displaystyle (X-1)^{n}\equiv X^{n}-1{\pmod {n,X^{r}-1}}}
+
+, then either 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is prime or 
+
+
+
+
+n
+
+2
+
+
+≡
+1
+
+
+(
+mod
+
+r
+)
+
+
+
+{\displaystyle n^{2}\equiv 1{\pmod {r}}}
+
+
+Artin's conjecture on primitive roots that if an integer is neither a perfect square nor 
+
+
+
+−
+1
+
+
+{\displaystyle -1}
+
+, then it is a primitive root modulo infinitely many prime numbers 
+
+
+
+p
+
+
+{\displaystyle p}
+
+
+Brocard's conjecture: there are always at least 
+
+
+
+4
+
+
+{\displaystyle 4}
+
+ prime numbers between consecutive squares of prime numbers, aside from 
+
+
+
+
+2
+
+2
+
+
+
+
+{\displaystyle 2^{2}}
+
+ and 
+
+
+
+
+3
+
+2
+
+
+
+
+{\displaystyle 3^{2}}
+
+.
+Bunyakovsky conjecture: if an integer-coefficient polynomial 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ has a positive leading coefficient, is irreducible over the integers, and has no common factors over all 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ where 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is a positive integer, then 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ is prime infinitely often.
+Catalan's Mersenne conjecture: some Catalan–Mersenne number is composite and thus all Catalan–Mersenne numbers are composite after some point.
+Dickson's conjecture: for a finite set of linear forms 
+
+
+
+
+a
+
+1
+
+
++
+
+b
+
+1
+
+
+n
+,
+…
+,
+
+a
+
+k
+
+
++
+
+b
+
+k
+
+
+n
+
+
+{\displaystyle a_{1}+b_{1}n,\ldots ,a_{k}+b_{k}n}
+
+ with each 
+
+
+
+
+b
+
+i
+
+
+≥
+1
+
+
+{\displaystyle b_{i}\geq 1}
+
+, there are infinitely many 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ for which all forms are prime, unless there is some congruence condition preventing it.
+Dubner's conjecture: every even number greater than 
+
+
+
+4208
+
+
+{\displaystyle 4208}
+
+ is the sum of two primes which both have a twin.
+Elliott–Halberstam conjecture on the distribution of prime numbers in arithmetic progressions.
+Erdős–Mollin–Walsh conjecture: no three consecutive numbers are all powerful.
+Feit–Thompson conjecture: for all distinct prime numbers 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+, 
+
+
+
+(
+
+p
+
+q
+
+
+−
+1
+)
+
+/
+
+(
+p
+−
+1
+)
+
+
+{\displaystyle (p^{q}-1)/(p-1)}
+
+ does not divide 
+
+
+
+(
+
+q
+
+p
+
+
+−
+1
+)
+
+/
+
+(
+q
+−
+1
+)
+
+
+{\displaystyle (q^{p}-1)/(q-1)}
+
+
+Fortune's conjecture that no Fortunate number is composite.
+The Gaussian moat problem: is it possible to find an infinite sequence of distinct Gaussian prime numbers such that the difference between consecutive numbers in the sequence is bounded?
+Gillies' conjecture on the distribution of prime divisors of Mersenne numbers.
+Landau's problems
+Goldbach conjecture: all even natural numbers greater than 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+ are the sum of two prime numbers.
+Legendre's conjecture: for every positive integer 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, there is a prime between 
+
+
+
+
+n
+
+2
+
+
+
+
+{\displaystyle n^{2}}
+
+ and 
+
+
+
+(
+n
++
+1
+
+)
+
+2
+
+
+
+
+{\displaystyle (n+1)^{2}}
+
+.
+Twin prime conjecture: there are infinitely many twin primes.
+Are there infinitely many primes of the form 
+
+
+
+
+n
+
+2
+
+
++
+1
+
+
+{\displaystyle n^{2}+1}
+
+?
+Problems associated to Linnik's theorem
+New Mersenne conjecture: for any odd natural number 
+
+
+
+p
+
+
+{\displaystyle p}
+
+, if any two of the three conditions 
+
+
+
+p
+=
+
+2
+
+k
+
+
+±
+1
+
+
+{\displaystyle p=2^{k}\pm 1}
+
+ or 
+
+
+
+p
+=
+
+4
+
+k
+
+
+±
+3
+
+
+{\displaystyle p=4^{k}\pm 3}
+
+, 
+
+
+
+
+2
+
+p
+
+
+−
+1
+
+
+{\displaystyle 2^{p}-1}
+
+ is prime, and 
+
+
+
+(
+
+2
+
+p
+
+
++
+1
+)
+
+/
+
+3
+
+
+{\displaystyle (2^{p}+1)/3}
+
+ is prime are true, then the third condition is also true.
+Polignac's conjecture: for all positive even numbers 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, there are infinitely many prime gaps of size 
+
+
+
+n
+
+
+{\displaystyle n}
+
+.
+Schinzel's hypothesis H that for every finite collection 
+
+
+
+{
+
+f
+
+1
+
+
+,
+…
+,
+
+f
+
+k
+
+
+}
+
+
+{\displaystyle \{f_{1},\ldots ,f_{k}\}}
+
+ of nonconstant irreducible polynomials over the integers with positive leading coefficients, either there are infinitely many positive integers 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ for which 
+
+
+
+
+f
+
+1
+
+
+(
+n
+)
+,
+…
+,
+
+f
+
+k
+
+
+(
+n
+)
+
+
+{\displaystyle f_{1}(n),\ldots ,f_{k}(n)}
+
+ are all primes, or there is some fixed divisor 
+
+
+
+m
+>
+1
+
+
+{\displaystyle m>1}
+
+ which, for all 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, divides some 
+
+
+
+
+f
+
+i
+
+
+(
+n
+)
+
+
+{\displaystyle f_{i}(n)}
+
+.
+Selfridge's conjecture: is 78,557 the lowest Sierpiński number?
+Does the converse of Wolstenholme's theorem hold for all natural numbers?
+Are all Euclid numbers square-free?
+Are all Fermat numbers square-free?
+Are all Mersenne numbers of prime index square-free?
+Are there any composite c satisfying 2c − 1 ≡ 1 (mod c2)?
+Are there any Wall–Sun–Sun primes?
+Are there any Wieferich primes in base 47?
+Are there infinitely many balanced primes?
+Are there infinitely many Carol primes?
+Are there infinitely many cluster primes?
+Are there infinitely many cousin primes?
+Are there infinitely many Cullen primes?
+Are there infinitely many Euclid primes?
+Are there infinitely many Fibonacci primes?
+Are there infinitely many Kummer primes?
+Are there infinitely many Kynea primes?
+Are there infinitely many Lucas primes?
+Are there infinitely many Mersenne primes (Lenstra–Pomerance–Wagstaff conjecture); equivalently, infinitely many even perfect numbers?
+Are there infinitely many Newman–Shanks–Williams primes?
+Are there infinitely many palindromic primes to every base?
+Are there infinitely many Pell primes?
+Are there infinitely many Pierpont primes?
+Are there infinitely many prime quadruplets?
+Are there infinitely many prime triplets?
+Are there infinitely many regular primes, and if so is their relative density 
+
+
+
+
+e
+
+−
+1
+
+/
+
+2
+
+
+
+
+{\displaystyle e^{-1/2}}
+
+?
+Are there infinitely many sexy primes?
+Are there infinitely many safe and Sophie Germain primes?
+Are there infinitely many Wagstaff primes?
+Are there infinitely many Wieferich primes?
+Are there infinitely many Wilson primes?
+Are there infinitely many Wolstenholme primes?
+Are there infinitely many Woodall primes?
+Can a prime p satisfy 
+
+
+
+
+2
+
+p
+−
+1
+
+
+≡
+1
+
+
+(
+mod
+
+
+p
+
+2
+
+
+)
+
+
+
+{\displaystyle 2^{p-1}\equiv 1{\pmod {p^{2}}}}
+
+ and 
+
+
+
+
+3
+
+p
+−
+1
+
+
+≡
+1
+
+
+(
+mod
+
+
+p
+
+2
+
+
+)
+
+
+
+{\displaystyle 3^{p-1}\equiv 1{\pmod {p^{2}}}}
+
+ simultaneously?[155]
+Does every prime number appear in the Euclid–Mullin sequence?
+What is the smallest Skewes's number?
+For any given integer a > 0, are there infinitely many Lucas–Wieferich primes associated with the pair (a, −1)? (Specially, when a = 1, this is the Fibonacci-Wieferich primes, and when a = 2, this is the Pell-Wieferich primes)
+For any given integer a > 0, are there infinitely many primes p such that ap − 1 ≡ 1 (mod p2)?[156]
+For any given integer a which is not a square and does not equal to −1, are there infinitely many primes with a as a primitive root?
+For any given integer b which is not a perfect power and not of the form −4k4 for integer k, are there infinitely many repunit primes to base b?
+For any given integers 
+
+
+
+k
+≥
+1
+,
+b
+≥
+2
+,
+c
+≠
+0
+
+
+{\displaystyle k\geq 1,b\geq 2,c\neq 0}
+
+, with gcd(k, c) = 1 and gcd(b, c) = 1, are there infinitely many primes of the form 
+
+
+
+(
+k
+×
+
+b
+
+n
+
+
++
+c
+)
+
+/
+
+
+gcd
+
+(
+k
++
+c
+,
+b
+−
+1
+)
+
+
+{\displaystyle (k\times b^{n}+c)/{\text{gcd}}(k+c,b-1)}
+
+ with integer n ≥ 1?
+Is every Fermat number 
+
+
+
+
+2
+
+
+2
+
+n
+
+
+
+
++
+1
+
+
+{\displaystyle 2^{2^{n}}+1}
+
+ composite for 
+
+
+
+n
+>
+4
+
+
+{\displaystyle n>4}
+
+?
+Is 509,203 the lowest Riesel number?
+Set theory
+Main article: Set theory
+Note: These conjectures are about models of Zermelo-Frankel set theory with choice, and may not be able to be expressed in models of other set theories such as the various constructive set theories or non-wellfounded set theory.
+
+(Woodin) Does the generalized continuum hypothesis below a strongly compact cardinal imply the generalized continuum hypothesis everywhere?
+Does the generalized continuum hypothesis entail 
+
+
+
+
+♢
+(
+
+E
+
+cf
+⁡
+(
+λ
+)
+
+
+
+λ
+
++
+
+
+
+
+
+)
+
+
+{\displaystyle {\diamondsuit (E_{\operatorname {cf} (\lambda )}^{\lambda ^{+}}})}
+
+ for every singular cardinal 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+?
+Does the generalized continuum hypothesis imply the existence of an ℵ2-Suslin tree?
+If ℵω is a strong limit cardinal, is 
+
+
+
+
+2
+
+
+ℵ
+
+ω
+
+
+
+
+<
+
+ℵ
+
+
+ω
+
+1
+
+
+
+
+
+
+{\displaystyle 2^{\aleph _{\omega }}<\aleph _{\omega _{1}}}
+
+ (see Singular cardinals hypothesis)? The best bound, ℵω4, was obtained by Shelah using his PCF theory.
+The problem of finding the ultimate core model, one that contains all large cardinals.
+Woodin's Ω-conjecture: if there is a proper class of Woodin cardinals, then Ω-logic satisfies an analogue of Gödel's completeness theorem.
+Does the consistency of the existence of a strongly compact cardinal imply the consistent existence of a supercompact cardinal?
+Does there exist a Jónsson algebra on ℵω?
+Is OCA (the open coloring axiom) consistent with 
+
+
+
+
+2
+
+
+ℵ
+
+0
+
+
+
+
+>
+
+ℵ
+
+2
+
+
+
+
+{\displaystyle 2^{\aleph _{0}}>\aleph _{2}}
+
+?
+Reinhardt cardinals: Without assuming the axiom of choice, can a nontrivial elementary embedding V→V exist?
+Topology
+Main article: Topology
+The unknotting problem asks whether there is an efficient algorithm to identify when the shape presented in a knot diagram is actually the unknot.
+Baum–Connes conjecture: the assembly map is an isomorphism.
+Berge conjecture that the only knots in the 3-sphere which admit lens space surgeries are Berge knots.
+Bing–Borsuk conjecture: every 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-dimensional homogeneous absolute neighborhood retract is a topological manifold.
+Borel conjecture: aspherical closed manifolds are determined up to homeomorphism by their fundamental groups.
+Halperin conjecture on rational Serre spectral sequences of certain fibrations.
+Hilbert–Smith conjecture: if a locally compact topological group has a continuous, faithful group action on a topological manifold, then the group must be a Lie group.
+Mazur's conjectures[157]
+Novikov conjecture on the homotopy invariance of certain polynomials in the Pontryagin classes of a manifold, arising from the fundamental group.
+Quadrisecants of wild knots: it has been conjectured that wild knots always have infinitely many quadrisecants.[158]
+Telescope conjecture: the last of Ravenel's conjectures in stable homotopy theory to be resolved.[b]
+Unknotting problem: can unknots be recognized in polynomial time?
+Volume conjecture relating quantum invariants of knots to the hyperbolic geometry of their knot complements.
+Whitehead conjecture: every connected subcomplex of a two-dimensional aspherical CW complex is aspherical.
+Zeeman conjecture: given a finite contractible two-dimensional CW complex 
+
+
+
+K
+
+
+{\displaystyle K}
+
+, is the space 
+
+
+
+K
+×
+[
+0
+,
+1
+]
+
+
+{\displaystyle K\times [0,1]}
+
+ collapsible?
+Problems solved since 1995
+Ricci flow, here illustrated with a 2D manifold, was the key tool in Grigori Perelman's solution of the Poincaré conjecture.
+Algebra
+Mazur's conjecture B (Vessilin Dimitrov, Ziyang Gao, and Philipp Habegger, 2020)[160]
+Suita conjecture (Qi'an Guan and Xiangyu Zhou, 2015) [161]
+Torsion conjecture (Loïc Merel, 1996)[162]
+Carlitz–Wan conjecture (Hendrik Lenstra, 1995)[163]
+Serre's nonnegativity conjecture (Ofer Gabber, 1995)
+Analysis
+Kadison–Singer problem (Adam Marcus, Daniel Spielman and Nikhil Srivastava, 2013)[164][165] (and the Feichtinger's conjecture, Anderson's paving conjectures, Weaver's discrepancy theoretic 
+
+
+
+K
+
+S
+
+r
+
+
+
+
+{\displaystyle KS_{r}}
+
+ and 
+
+
+
+K
+
+S
+
+r
+
+′
+
+
+
+{\displaystyle KS'_{r}}
+
+ conjectures, Bourgain-Tzafriri conjecture and 
+
+
+
+
+R
+
+ϵ
+
+
+
+
+{\displaystyle R_{\epsilon }}
+
+-conjecture)
+Ahlfors measure conjecture (Ian Agol, 2004)[166]
+Gradient conjecture (Krzysztof Kurdyka, Tadeusz Mostowski, Adam Parusinski, 1999)[167]
+Combinatorics
+Erdős sumset conjecture (Joel Moreira, Florian Richter, Donald Robertson, 2018)[168]
+McMullen's g-conjecture on the possible numbers of faces of different dimensions in a simplicial sphere (also Grünbaum conjecture, several conjectures of Kühnel) (Karim Adiprasito, 2018)[169][170]
+Hirsch conjecture (Francisco Santos Leal, 2010)[171][172]
+Gessel's lattice path conjecture (Manuel Kauers, Christoph Koutschan, and Doron Zeilberger, 2009)[173]
+Stanley–Wilf conjecture (Gábor Tardos and Adam Marcus, 2004)[174] (and also the Alon–Friedgut conjecture)
+Kemnitz's conjecture (Christian Reiher, 2003, Carlos di Fiore, 2003)[175]
+Cameron–Erdős conjecture (Ben J. Green, 2003, Alexander Sapozhenko, 2003)[176][177]
+Dynamical systems
+Zimmer's conjecture (Aaron Brown, David Fisher, and Sebastián Hurtado-Salazar, 2017)[178]
+Painlevé conjecture (Jinxin Xue, 2014)[179][180]
+Game theory
+Existence of a non-terminating game of beggar-my-neighbour (Brayden Casella, 2024)[181]
+The angel problem (Various independent proofs, 2006)[182][183][184][185]
+Geometry
+21st century
+Einstein problem (David Smith, Joseph Samuel Myers, Craig S. Kaplan, Chaim Goodman-Strauss, 2023, still in peer review)[186]
+Maximal rank conjecture (Eric Larson, 2018)[187]
+Weibel's conjecture (Moritz Kerz, Florian Strunk, and Georg Tamme, 2018)[188]
+Yau's conjecture (Antoine Song, 2018)[189][190]
+Pentagonal tiling (Michaël Rao, 2017)[191]
+Willmore conjecture (Fernando Codá Marques and André Neves, 2012)[192]
+Erdős distinct distances problem (Larry Guth, Nets Hawk Katz, 2011)[193]
+Heterogeneous tiling conjecture (squaring the plane) (Frederick V. Henle and James M. Henle, 2008)[194]
+Tameness conjecture (Ian Agol, 2004)[166]
+Ending lamination theorem (Jeffrey F. Brock, Richard D. Canary, Yair N. Minsky, 2004)[195]
+Carpenter's rule problem (Robert Connelly, Erik Demaine, Günter Rote, 2003)[196]
+Lambda g conjecture (Carel Faber and Rahul Pandharipande, 2003)[197]
+Nagata's conjecture (Ivan Shestakov, Ualbai Umirbaev, 2003)[198]
+Double bubble conjecture (Michael Hutchings, Frank Morgan, Manuel Ritoré, Antonio Ros, 2002)[199]
+20th century
+Honeycomb conjecture (Thomas Callister Hales, 1999)[200]
+Lange's conjecture (Montserrat Teixidor i Bigas and Barbara Russo, 1999)[201]
+Bogomolov conjecture (Emmanuel Ullmo, 1998, Shou-Wu Zhang, 1998)[202][203]
+Kepler conjecture (Samuel Ferguson, Thomas Callister Hales, 1998)[204]
+Dodecahedral conjecture (Thomas Callister Hales, Sean McLaughlin, 1998)[205]
+Graph theory
+Kahn–Kalai conjecture (Jinyoung Park and Huy Tuan Pham, 2022)[206]
+Blankenship–Oporowski conjecture on the book thickness of subdivisions (Vida Dujmović, David Eppstein, Robert Hickingbotham, Pat Morin, and David Wood, 2021)[207]
+Ringel's conjecture that the complete graph 
+
+
+
+
+K
+
+2
+n
++
+1
+
+
+
+
+{\displaystyle K_{2n+1}}
+
+ can be decomposed into 
+
+
+
+2
+n
++
+1
+
+
+{\displaystyle 2n+1}
+
+ copies of any tree with 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ edges (Richard Montgomery, Benny Sudakov, Alexey Pokrovskiy, 2020)[208][209]
+Disproof of Hedetniemi's conjecture on the chromatic number of tensor products of graphs (Yaroslav Shitov, 2019)[210]
+Kelmans–Seymour conjecture (Dawei He, Yan Wang, and Xingxing Yu, 2020)[211][212][213][214]
+Goldberg–Seymour conjecture (Guantao Chen, Guangming Jing, and Wenan Zang, 2019)[215]
+Babai's problem (Alireza Abdollahi, Maysam Zallaghi, 2015)[216]
+Alspach's conjecture (Darryn Bryant, Daniel Horsley, William Pettersson, 2014)
+Alon–Saks–Seymour conjecture (Hao Huang, Benny Sudakov, 2012)
+Read–Hoggar conjecture (June Huh, 2009)[217]
+Scheinerman's conjecture (Jeremie Chalopin and Daniel Gonçalves, 2009)[218]
+Erdős–Menger conjecture (Ron Aharoni, Eli Berger 2007)[219]
+Road coloring conjecture (Avraham Trahtman, 2007)[220]
+Robertson–Seymour theorem (Neil Robertson, Paul Seymour, 2004)[221]
+Strong perfect graph conjecture (Maria Chudnovsky, Neil Robertson, Paul Seymour and Robin Thomas, 2002)[222]
+Toida's conjecture (Mikhail Muzychuk, Mikhail Klin, and Reinhard Pöschel, 2001)[223]
+Harary's conjecture on the integral sum number of complete graphs (Zhibo Chen, 1996)[224]
+Group theory
+Hanna Neumann conjecture (Joel Friedman, 2011, Igor Mineyev, 2011)[225][226]
+Density theorem (Hossein Namazi, Juan Souto, 2010)[227]
+Full classification of finite simple groups (Koichiro Harada, Ronald Solomon, 2008)
+Number theory
+21st century
+André–Oort conjecture (Jonathan Pila, Ananth Shankar, Jacob Tsimerman, 2021)[228]
+Duffin-Schaeffer conjecture (Dimitris Koukoulopoulos, James Maynard, 2019)
+Main conjecture in Vinogradov's mean-value theorem (Jean Bourgain, Ciprian Demeter, Larry Guth, 2015)[229]
+Goldbach's weak conjecture (Harald Helfgott, 2013)[230][231][232]
+Existence of bounded gaps between primes (Yitang Zhang, Polymath8, James Maynard, 2013)[233][234][235]
+Sidon set problem (Javier Cilleruelo, Imre Z. Ruzsa, and Carlos Vinuesa, 2010)[236]
+Serre's modularity conjecture (Chandrashekhar Khare and Jean-Pierre Wintenberger, 2008)[237][238][239]
+Green–Tao theorem (Ben J. Green and Terence Tao, 2004)[240]
+Catalan's conjecture (Preda Mihăilescu, 2002)[241]
+Erdős–Graham problem (Ernest S. Croot III, 2000)[242]
+20th century
+Lafforgue's theorem (Laurent Lafforgue, 1998)[243]
+Fermat's Last Theorem (Andrew Wiles and Richard Taylor, 1995)[244][245]
+Ramsey theory
+Burr–Erdős conjecture (Choongbum Lee, 2017)[246]
+Boolean Pythagorean triples problem (Marijn Heule, Oliver Kullmann, Victor W. Marek, 2016)[247][248]
+Theoretical computer science
+Sensitivity conjecture for Boolean functions (Hao Huang, 2019)[249]
+Topology
+Deciding whether the Conway knot is a slice knot (Lisa Piccirillo, 2020)[250][251]
+Virtual Haken conjecture (Ian Agol, Daniel Groves, Jason Manning, 2012)[252] (and by work of Daniel Wise also virtually fibered conjecture)
+Hsiang–Lawson's conjecture (Simon Brendle, 2012)[253]
+Ehrenpreis conjecture (Jeremy Kahn, Vladimir Markovic, 2011)[254]
+Atiyah conjecture for groups with finite subgroups of unbounded order (Austin, 2009)[255]
+Cobordism hypothesis (Jacob Lurie, 2008)[256]
+Spherical space form conjecture (Grigori Perelman, 2006)
+Poincaré conjecture (Grigori Perelman, 2002)[257]
+Geometrization conjecture, (Grigori Perelman,[257] series of preprints in 2002–2003)[258]
+Nikiel's conjecture (Mary Ellen Rudin, 1999)[259]
+Disproof of the Ganea conjecture (Iwase, 1997)[260]
+Uncategorised
+2010s
+Erdős discrepancy problem (Terence Tao, 2015)[261]
+Umbral moonshine conjecture (John F. R. Duncan, Michael J. Griffin, Ken Ono, 2015)[262]
+Anderson conjecture on the finite number of diffeomorphism classes of the collection of 4-manifolds satisfying certain properties (Jeff Cheeger, Aaron Naber, 2014)[263]
+Gaussian correlation inequality (Thomas Royen, 2014)[264]
+Beck's conjecture on discrepancies of set systems constructed from three permutations (Alantha Newman, Aleksandar Nikolov, 2011)[265]
+Bloch–Kato conjecture (Vladimir Voevodsky, 2011)[266] (and Quillen–Lichtenbaum conjecture and by work of Thomas Geisser and Marc Levine (2001) also Beilinson–Lichtenbaum conjecture[267][268]: 359 [269])
+2000s
+Kauffman–Harary conjecture (Thomas Mattman, Pablo Solis, 2009)[270]
+Surface subgroup conjecture (Jeremy Kahn, Vladimir Markovic, 2009)[271]
+Normal scalar curvature conjecture and the Böttcher–Wenzel conjecture (Zhiqin Lu, 2007)[272]
+Nirenberg–Treves conjecture (Nils Dencker, 2005)[273][274]
+Lax conjecture (Adrian Lewis, Pablo Parrilo, Motakuri Ramana, 2005)[275]
+The Langlands–Shelstad fundamental lemma (Ngô Bảo Châu and Gérard Laumon, 2004)[276]
+Milnor conjecture (Vladimir Voevodsky, 2003)[277]
+Kirillov's conjecture (Ehud Baruch, 2003)[278]
+Kouchnirenko's conjecture (Bertrand Haas, 2002)[279]
+n! conjecture (Mark Haiman, 2001)[280] (and also Macdonald positivity conjecture)
+Kato's conjecture (Pascal Auscher, Steve Hofmann, Michael Lacey, Alan McIntosh, and Philipp Tchamitchian, 2001)[281]
+Deligne's conjecture on 1-motives (Luca Barbieri-Viale, Andreas Rosenschon, Morihiko Saito, 2001)[282]
+Modularity theorem (Christophe Breuil, Brian Conrad, Fred Diamond, and Richard Taylor, 2001)[283]
+Erdős–Stewart conjecture (Florian Luca, 2001)[284]
+Berry–Robbins problem (Michael Atiyah, 2000)[285]
+See also
+List of conjectures
+List of unsolved problems in statistics
+List of unsolved problems in computer science
+List of unsolved problems in physics
+Lists of unsolved problems
+Open Problems in Mathematics
+The Great Mathematical Problems
+Scottish Book
+Notes
+
+
+^ An aperiodic monotile has been discovered and the formal proof is awaiting publication. A preprint of the proof is available.[72]
+
+^ A disproof has been announced, with a preprint made available on arXiv.[159]
+
+
+References
+
+
+^ Thiele, Rüdiger (2005), "On Hilbert and his twenty-four problems", in Van Brummelen, Glen (ed.), Mathematics and the historian's craft. The Kenneth O. May Lectures, CMS Books in Mathematics/Ouvrages de Mathématiques de la SMC, vol. 21, pp. 243–295, ISBN 978-0-387-25284-1
+
+^ Guy, Richard (1994), Unsolved Problems in Number Theory (2nd ed.), Springer, p. vii, ISBN 978-1-4899-3585-4, archived from the original on 2019-03-23, retrieved 2016-09-22.
+
+^ Shimura, G. (1989). "Yutaka Taniyama and his time". Bulletin of the London Mathematical Society. 21 (2): 186–196. doi:10.1112/blms/21.2.186.
+
+^ Friedl, Stefan (2014). "Thurston's vision and the virtual fibering theorem for 3-manifolds". Jahresbericht der Deutschen Mathematiker-Vereinigung. 116 (4): 223–241. doi:10.1365/s13291-014-0102-x. MR 3280572. S2CID 56322745.
+
+^ Thurston, William P. (1982). "Three-dimensional manifolds, Kleinian groups and hyperbolic geometry". Bulletin of the American Mathematical Society. New Series. 6 (3): 357–381. doi:10.1090/S0273-0979-1982-15003-0. MR 0648524.
+
+^ a b "Millennium Problems". claymath.org. Archived from the original on 2017-06-06. Retrieved 2015-01-20.
+
+^ "Fields Medal awarded to Artur Avila". Centre national de la recherche scientifique. 2014-08-13. Archived from the original on 2018-07-10. Retrieved 2018-07-07.
+
+^ Bellos, Alex (2014-08-13). "Fields Medals 2014: the maths of Avila, Bhargava, Hairer and Mirzakhani explained". The Guardian. Archived from the original on 2016-10-21. Retrieved 2018-07-07.
+
+^ Abe, Jair Minoro; Tanaka, Shotaro (2001). Unsolved Problems on Mathematics for the 21st Century. IOS Press. ISBN 978-90-5199-490-2.
+
+^ "DARPA invests in math". CNN. 2008-10-14. Archived from the original on 2009-03-04. Retrieved 2013-01-14.
+
+^ "Broad Agency Announcement (BAA 07-68) for Defense Sciences Office (DSO)". DARPA. 2007-09-10. Archived from the original on 2012-10-01. Retrieved 2013-06-25.
+
+^ "Poincaré Conjecture". Clay Mathematics Institute. Archived from the original on 2013-12-15.
+
+^ rybu (November 7, 2009). "Smooth 4-dimensional Poincare conjecture". Open Problem Garden. Archived from the original on 2018-01-25. Retrieved 2019-08-06.
+
+^ Khukhro, Evgeny I.; Mazurov, Victor D. (2019), Unsolved Problems in Group Theory. The Kourovka Notebook, arXiv:1401.0300v16
+
+^ RSFSR, MV i SSO; Russie), Uralʹskij gosudarstvennyj universitet im A. M. Gorʹkogo (Ekaterinbourg (1969). Свердловская тетрадь: нерешенные задачи теории подгрупп (in Russian). S. l.
+
+^ Свердловская тетрадь: Сб. нерешённых задач по теории полугрупп. Свердловск: Уральский государственный университет. 1979.
+
+^ Свердловская тетрадь: Сб. нерешённых задач по теории полугрупп. Свердловск: Уральский государственный университет. 1989.
+
+^ ДНЕСТРОВСКАЯ ТЕТРАДЬ [DNIESTER NOTEBOOK] (PDF) (in Russian), The Russian Academy of Sciences, 1993
+
+^ "DNIESTER NOTEBOOK: Unsolved Problems in the Theory of Rings and Modules" (PDF), University of Saskatchewan, retrieved 2019-08-15
+
+^ Эрлагольская тетрадь [Erlagol notebook] (PDF) (in Russian), The Novosibirsk State University, 2018
+
+^ Dowling, T. A. (February 1973). "A class of geometric lattices based on finite groups". Journal of Combinatorial Theory. Series B. 14 (1): 61–86. doi:10.1016/S0095-8956(73)80007-3.
+
+^ Aschbacher, Michael (1990), "On Conjectures of Guralnick and Thompson", Journal of Algebra, 135 (2): 277–343, doi:10.1016/0021-8693(90)90292-V
+
+^ Kung, H. T.; Traub, Joseph Frederick (1974), "Optimal order of one-point and multipoint iteration", Journal of the ACM, 21 (4): 643–651, doi:10.1145/321850.321860, S2CID 74921
+
+^ Smyth, Chris (2008), "The Mahler measure of algebraic numbers: a survey", in McKee, James; Smyth, Chris (eds.), Number Theory and Polynomials, London Mathematical Society Lecture Note Series, vol. 352, Cambridge University Press, pp. 322–349, ISBN 978-0-521-71467-9
+
+^ Berenstein, Carlos A. (2001) [1994], "Pompeiu problem", Encyclopedia of Mathematics, EMS Press
+
+^ a b Waldschmidt, Michel (2013), Diophantine Approximation on Linear Algebraic Groups: Transcendence Properties of the Exponential Function in Several Variables, Springer, pp. 14, 16, ISBN 978-3-662-11569-5
+
+^ For some background on the numbers in this problem, see articles by Eric W. Weisstein at Wolfram MathWorld (all articles accessed 15 December 2014): 
+pi (Archived 2014-12-06 at the Wayback Machine)
+e (Archived 2014-11-21 at the Wayback Machine)
+Khinchin's Constant (Archived 2014-11-05 at the Wayback Machine)
+irrational numbers (Archived 2015-03-27 at the Wayback Machine)
+transcendental numbers (Archived 2014-11-13 at the Wayback Machine)
+irrationality measures (Archived 2015-04-21 at the Wayback Machine)
+
+^ Waldschmidt, Michel (2008). An introduction to irrationality and transcendence methods (PDF). 2008 Arizona Winter School. Archived from the original (PDF) on 16 December 2014. Retrieved 15 December 2014.
+
+^ Albert, John, Some unsolved problems in number theory (PDF), archived from the original (PDF) on 17 January 2014, retrieved 15 December 2014
+
+^ Brightwell, Graham R.; Felsner, Stefan; Trotter, William T. (1995), "Balancing pairs and the cross product conjecture", Order, 12 (4): 327–349, CiteSeerX 10.1.1.38.7841, doi:10.1007/BF01110378, MR 1368815, S2CID 14793475.
+
+^ Tao, Terence (2018). "Some remarks on the lonely runner conjecture". Contributions to Discrete Mathematics. 13 (2): 1–31. arXiv:1701.02048. doi:10.11575/cdm.v13i2.62728.
+
+^ González-Jiménez, Enrique; Xarles, Xavier (2014). "On a conjecture of Rudin on squares in arithmetic progressions". LMS Journal of Computation and Mathematics. 17 (1): 58–76. arXiv:1301.5122. doi:10.1112/S1461157013000259. S2CID 11615385.
+
+^ Bruhn, Henning; Schaudt, Oliver (2015), "The journey of the union-closed sets conjecture" (PDF), Graphs and Combinatorics, 31 (6): 2043–2074, arXiv:1309.3297, doi:10.1007/s00373-014-1515-0, MR 3417215, S2CID 17531822, archived (PDF) from the original on 2017-08-08, retrieved 2017-07-18
+
+^ Murnaghan, F. D. (1938), "The Analysis of the Direct Product of Irreducible Representations of the Symmetric Groups", American Journal of Mathematics, 60 (1): 44–65, doi:10.2307/2371542, JSTOR 2371542, MR 1507301, PMC 1076971, PMID 16577800
+
+^ "Dedekind Numbers and Related Sequences" (PDF). Archived from the original (PDF) on 2015-03-15. Retrieved 2020-04-30.
+
+^ Liśkiewicz, Maciej; Ogihara, Mitsunori; Toda, Seinosuke (2003-07-28). "The complexity of counting self-avoiding walks in subgraphs of two-dimensional grids and hypercubes". Theoretical Computer Science. 304 (1): 129–156. doi:10.1016/S0304-3975(03)00080-X. S2CID 33806100.
+
+^ S. M. Ulam, Problems in Modern Mathematics. Science Editions John Wiley & Sons, Inc., New York, 1964, page 76.
+
+^ Kaloshin, Vadim; Sorrentino, Alfonso (2018). "On the local Birkhoff conjecture for convex billiards". Annals of Mathematics. 188 (1): 315–380. arXiv:1612.09194. doi:10.4007/annals.2018.188.1.6. S2CID 119171182.
+
+^ Sarnak, Peter (2011), "Recent progress on the quantum unique ergodicity conjecture", Bulletin of the American Mathematical Society, 48 (2): 211–228, doi:10.1090/S0273-0979-2011-01323-4, MR 2774090
+
+^ Paul Halmos, Ergodic theory. Chelsea, New York, 1956.
+
+^ Kari, Jarkko (2009). "Structure of reversible cellular automata". Structure of Reversible Cellular Automata. International Conference on Unconventional Computation. Lecture Notes in Computer Science. Vol. 5715. Springer. p. 6. Bibcode:2009LNCS.5715....6K. doi:10.1007/978-3-642-03745-0_5. ISBN 978-3-642-03744-3.
+
+^ a b c "Open Q - Solving and rating of hard Sudoku". english.log-it-ex.com. Archived from the original on 10 November 2017.
+
+^ "Higher-Dimensional Tic-Tac-Toe". PBS Infinite Series. YouTube. 2017-09-21. Archived from the original on 2017-10-11. Retrieved 2018-07-29.
+
+^ Barlet, Daniel; Peternell, Thomas; Schneider, Michael (1990). "On two conjectures of Hartshorne's". Mathematische Annalen. 286 (1–3): 13–25. doi:10.1007/BF01453563. S2CID 122151259.
+
+^ Maulik, Davesh; Nekrasov, Nikita; Okounov, Andrei; Pandharipande, Rahul (2004-06-05), Gromov–Witten theory and Donaldson–Thomas theory, I, arXiv:math/0312059, Bibcode:2003math.....12059M
+
+^ Zariski, Oscar (1971). "Some open questions in the theory of singularities". Bulletin of the American Mathematical Society. 77 (4): 481–491. doi:10.1090/S0002-9904-1971-12729-5. MR 0277533.
+
+^ Bereg, Sergey; Dumitrescu, Adrian; Jiang, Minghui (2010), "On covering problems of Rado", Algorithmica, 57 (3): 538–561, doi:10.1007/s00453-009-9298-z, MR 2609053, S2CID 6511998
+
+^ Melissen, Hans (1993), "Densest packings of congruent circles in an equilateral triangle", American Mathematical Monthly, 100 (10): 916–925, doi:10.2307/2324212, JSTOR 2324212, MR 1252928
+
+^ Conway, John H.; Neil J.A. Sloane (1999), Sphere Packings, Lattices and Groups (3rd ed.), New York: Springer-Verlag, pp. 21–22, ISBN 978-0-387-98585-5
+
+^ Hales, Thomas (2017), The Reinhardt conjecture as an optimal control problem, arXiv:1703.01352
+
+^ Brass, Peter; Moser, William; Pach, János (2005), Research Problems in Discrete Geometry, New York: Springer, p. 45, ISBN 978-0387-23815-9, MR 2163782
+
+^ Gardner, Martin (1995), New Mathematical Diversions (Revised Edition), Washington: Mathematical Association of America, p. 251
+
+^ Barros, Manuel (1997), "General Helices and a Theorem of Lancret", Proceedings of the American Mathematical Society, 125 (5): 1503–1509, doi:10.1090/S0002-9939-97-03692-7, JSTOR 2162098
+
+^ Katz, Mikhail G. (2007), Systolic geometry and topology, Mathematical Surveys and Monographs, vol. 137, American Mathematical Society, Providence, RI, p. 57, doi:10.1090/surv/137, ISBN 978-0-8218-4177-8, MR 2292367
+
+^ Rosenberg, Steven (1997), The Laplacian on a Riemannian Manifold: An introduction to analysis on manifolds, London Mathematical Society Student Texts, vol. 31, Cambridge: Cambridge University Press, pp. 62–63, doi:10.1017/CBO9780511623783, ISBN 978-0-521-46300-3, MR 1462892
+
+^ Ghosh, Subir Kumar; Goswami, Partha P. (2013), "Unsolved problems in visibility graphs of points, segments, and polygons", ACM Computing Surveys, 46 (2): 22:1–22:29, arXiv:1012.5187, doi:10.1145/2543581.2543589, S2CID 8747335
+
+^ Boltjansky, V.; Gohberg, I. (1985), "11. Hadwiger's Conjecture", Results and Problems in Combinatorial Geometry, Cambridge University Press, pp. 44–46.
+
+^ Morris, Walter D.; Soltan, Valeriu (2000), "The Erdős-Szekeres problem on points in convex position—a survey", Bull. Amer. Math. Soc., 37 (4): 437–458, doi:10.1090/S0273-0979-00-00877-6, MR 1779413; Suk, Andrew (2016), "On the Erdős–Szekeres convex polygon problem", J. Amer. Math. Soc., 30 (4): 1047–1053, arXiv:1604.08657, doi:10.1090/jams/869, S2CID 15732134
+
+^ Kalai, Gil (1989), "The number of faces of centrally-symmetric polytopes", Graphs and Combinatorics, 5 (1): 389–391, doi:10.1007/BF01788696, MR 1554357, S2CID 8917264.
+
+^ Moreno, José Pedro; Prieto-Martínez, Luis Felipe (2021). "El problema de los triángulos de Kobon" [The Kobon triangles problem]. La Gaceta de la Real Sociedad Matemática Española (in Spanish). 24 (1): 111–130. hdl:10486/705416. MR 4225268.
+
+^ Guy, Richard K. (1983), "An olla-podrida of open problems, often oddly posed", American Mathematical Monthly, 90 (3): 196–200, doi:10.2307/2975549, JSTOR 2975549, MR 1540158
+
+^ Matoušek, Jiří (2002), Lectures on discrete geometry, Graduate Texts in Mathematics, vol. 212, Springer-Verlag, New York, p. 206, doi:10.1007/978-1-4613-0039-7, ISBN 978-0-387-95373-1, MR 1899299
+
+^ Brass, Peter; Moser, William; Pach, János (2005), "5.1 The Maximum Number of Unit Distances in the Plane", Research problems in discrete geometry, Springer, New York, pp. 183–190, ISBN 978-0-387-23815-9, MR 2163782
+
+^ Dey, Tamal K. (1998), "Improved bounds for planar k-sets and related problems", Discrete & Computational Geometry, 19 (3): 373–382, doi:10.1007/PL00009354, MR 1608878; Tóth, Gábor (2001), "Point sets with many k-sets", Discrete & Computational Geometry, 26 (2): 187–194, doi:10.1007/s004540010022, MR 1843435.
+
+^ Aronov, Boris; Dujmović, Vida; Morin, Pat; Ooms, Aurélien; Schultz Xavier da Silveira, Luís Fernando (2019), "More Turán-type theorems for triangles in convex point sets", Electronic Journal of Combinatorics, 26 (1): P1.8, arXiv:1706.10193, Bibcode:2017arXiv170610193A, doi:10.37236/7224, archived from the original on 2019-02-18, retrieved 2019-02-18
+
+^ Atiyah, Michael (2001), "Configurations of points", Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences, 359 (1784): 1375–1387, Bibcode:2001RSPTA.359.1375A, doi:10.1098/rsta.2001.0840, ISSN 1364-503X, MR 1853626, S2CID 55833332
+
+^ Finch, S. R.; Wetzel, J. E. (2004), "Lost in a forest", American Mathematical Monthly, 11 (8): 645–654, doi:10.2307/4145038, JSTOR 4145038, MR 2091541
+
+^ Howards, Hugh Nelson (2013), "Forming the Borromean rings out of arbitrary polygonal unknots", Journal of Knot Theory and Its Ramifications, 22 (14): 1350083, 15, arXiv:1406.3370, doi:10.1142/S0218216513500831, MR 3190121, S2CID 119674622
+
+^ Solomon, Yaar; Weiss, Barak (2016), "Dense forests and Danzer sets", Annales Scientifiques de l'École Normale Supérieure, 49 (5): 1053–1074, arXiv:1406.3807, doi:10.24033/asens.2303, MR 3581810, S2CID 672315; Conway, John H., Five $1,000 Problems (Update 2017) (PDF), On-Line Encyclopedia of Integer Sequences, archived (PDF) from the original on 2019-02-13, retrieved 2019-02-12
+
+^ Brandts, Jan; Korotov, Sergey; Křížek, Michal; Šolc, Jakub (2009), "On nonobtuse simplicial partitions" (PDF), SIAM Review, 51 (2): 317–335, Bibcode:2009SIAMR..51..317B, doi:10.1137/060669073, MR 2505583, S2CID 216078793, archived (PDF) from the original on 2018-11-04, retrieved 2018-11-22. See in particular Conjecture 23, p. 327.
+
+^ Socolar, Joshua E. S.; Taylor, Joan M. (2012), "Forcing nonperiodicity with a single tile", The Mathematical Intelligencer, 34 (1): 18–28, arXiv:1009.1419, doi:10.1007/s00283-011-9255-y, MR 2902144, S2CID 10747746
+
+^ Smith, David; Myers, Joseph Samuel; Kaplan, Craig S.; Goodman-Strauss, Chaim (May 28, 2023). "A chiral aperiodic monotile". arXiv:2305.17743 [math.CO].
+
+^ Arutyunyants, G.; Iosevich, A. (2004), "Falconer conjecture, spherical averages and discrete analogs", in Pach, János (ed.), Towards a Theory of Geometric Graphs, Contemp. Math., vol. 342, Amer. Math. Soc., Providence, RI, pp. 15–24, doi:10.1090/conm/342/06127, ISBN 978-0-8218-3484-8, MR 2065249
+
+^ Matschke, Benjamin (2014), "A survey on the square peg problem", Notices of the American Mathematical Society, 61 (4): 346–352, doi:10.1090/noti1100
+
+^ Katz, Nets; Tao, Terence (2002), "Recent progress on the Kakeya conjecture", Proceedings of the 6th International Conference on Harmonic Analysis and Partial Differential Equations (El Escorial, 2000), Publicacions Matemàtiques, pp. 161–179, CiteSeerX 10.1.1.241.5335, doi:10.5565/PUBLMAT_Esco02_07, MR 1964819, S2CID 77088
+
+^ Weaire, Denis, ed. (1997), The Kelvin Problem, CRC Press, p. 1, ISBN 978-0-7484-0632-6
+
+^ Brass, Peter; Moser, William; Pach, János (2005), Research problems in discrete geometry, New York: Springer, p. 457, ISBN 978-0-387-29929-7, MR 2163782
+
+^ Mahler, Kurt (1939). "Ein Minimalproblem für konvexe Polygone". Mathematica (Zutphen) B: 118–127.
+
+^ Norwood, Rick; Poole, George; Laidacker, Michael (1992), "The worm problem of Leo Moser", Discrete & Computational Geometry, 7 (2): 153–162, doi:10.1007/BF02187832, MR 1139077
+
+^ Wagner, Neal R. (1976), "The Sofa Problem" (PDF), The American Mathematical Monthly, 83 (3): 188–189, doi:10.2307/2977022, JSTOR 2977022, archived (PDF) from the original on 2015-04-20, retrieved 2014-05-14
+
+^ Chai, Ying; Yuan, Liping; Zamfirescu, Tudor (June–July 2018), "Rupert Property of Archimedean Solids", The American Mathematical Monthly, 125 (6): 497–504, doi:10.1080/00029890.2018.1449505, S2CID 125508192
+
+^ Steininger, Jakob; Yurkevich, Sergey (December 27, 2021), An algorithmic approach to Rupert's problem, arXiv:2112.13754
+
+^ Demaine, Erik D.; O'Rourke, Joseph (2007), "Chapter 22. Edge Unfolding of Polyhedra", Geometric Folding Algorithms: Linkages, Origami, Polyhedra, Cambridge University Press, pp. 306–338
+
+^ Ghomi, Mohammad (2018-01-01). "Dürer's Unfolding Problem for Convex Polyhedra". Notices of the American Mathematical Society. 65 (1): 25–27. doi:10.1090/noti1609. ISSN 0002-9920.
+
+^ Whyte, L. L. (1952), "Unique arrangements of points on a sphere", The American Mathematical Monthly, 59 (9): 606–611, doi:10.2307/2306764, JSTOR 2306764, MR 0050303
+
+^ ACW (May 24, 2012), "Convex uniform 5-polytopes", Open Problem Garden, archived from the original on October 5, 2016, retrieved 2016-10-04.
+
+^ Pleanmani, Nopparat (2019), "Graham's pebbling conjecture holds for the product of a graph and a sufficiently large complete bipartite graph", Discrete Mathematics, Algorithms and Applications, 11 (6): 1950068, 7, doi:10.1142/s179383091950068x, MR 4044549, S2CID 204207428
+
+^ Baird, William; Bonato, Anthony (2012), "Meyniel's conjecture on the cop number: a survey", Journal of Combinatorics, 3 (2): 225–238, arXiv:1308.3385, doi:10.4310/JOC.2012.v3.n2.a6, MR 2980752, S2CID 18942362
+
+^ Bousquet, Nicolas; Bartier, Valentin (2019), "Linear Transformations Between Colorings in Chordal Graphs", in Bender, Michael A.; Svensson, Ola; Herman, Grzegorz (eds.), 27th Annual European Symposium on Algorithms, ESA 2019, September 9-11, 2019, Munich/Garching, Germany, LIPIcs, vol. 144, Schloss Dagstuhl - Leibniz-Zentrum für Informatik, pp. 24:1–24:15, doi:10.4230/LIPIcs.ESA.2019.24, ISBN 978-3-95977-124-5, S2CID 195791634
+
+^ Gethner, Ellen (2018), "To the Moon and beyond", in Gera, Ralucca; Haynes, Teresa W.; Hedetniemi, Stephen T. (eds.), Graph Theory: Favorite Conjectures and Open Problems, II, Problem Books in Mathematics, Springer International Publishing, pp. 115–133, doi:10.1007/978-3-319-97686-0_11, ISBN 978-3-319-97684-6, MR 3930641
+
+^ Chung, Fan; Graham, Ron (1998), Erdős on Graphs: His Legacy of Unsolved Problems, A K Peters, pp. 97–99.
+
+^ Chudnovsky, Maria; Seymour, Paul (2014), "Extending the Gyárfás-Sumner conjecture", Journal of Combinatorial Theory, Series B, 105: 11–16, doi:10.1016/j.jctb.2013.11.002, MR 3171779
+
+^ Toft, Bjarne (1996), "A survey of Hadwiger's conjecture", Congressus Numerantium, 115: 249–283, MR 1411244.
+
+^ Croft, Hallard T.; Falconer, Kenneth J.; Guy, Richard K. (1991), Unsolved Problems in Geometry, Springer-Verlag, Problem G10.
+
+^ Hägglund, Jonas; Steffen, Eckhard (2014), "Petersen-colorings and some families of snarks", Ars Mathematica Contemporanea, 7 (1): 161–173, doi:10.26493/1855-3974.288.11a, MR 3047618, archived from the original on 2016-10-03, retrieved 2016-09-30.
+
+^ Jensen, Tommy R.; Toft, Bjarne (1995), "12.20 List-Edge-Chromatic Numbers", Graph Coloring Problems, New York: Wiley-Interscience, pp. 201–202, ISBN 978-0-471-02865-9.
+
+^ Molloy, Michael; Reed, Bruce (1998), "A bound on the total chromatic number", Combinatorica, 18 (2): 241–280, CiteSeerX 10.1.1.24.6514, doi:10.1007/PL00009820, MR 1656544, S2CID 9600550.
+
+^ Barát, János; Tóth, Géza (2010), "Towards the Albertson Conjecture", Electronic Journal of Combinatorics, 17 (1): R73, arXiv:0909.0413, Bibcode:2009arXiv0909.0413B, doi:10.37236/345.
+
+^ Fulek, Radoslav; Pach, János (2011), "A computational approach to Conway's thrackle conjecture", Computational Geometry, 44 (6–7): 345–355, arXiv:1002.3904, doi:10.1016/j.comgeo.2011.02.001, MR 2785903.
+
+^ Gupta, Anupam; Newman, Ilan; Rabinovich, Yuri; Sinclair, Alistair (2004), "Cuts, trees and 
+
+
+
+
+ℓ
+
+1
+
+
+
+
+{\displaystyle \ell _{1}}
+
+-embeddings of graphs", Combinatorica, 24 (2): 233–269, CiteSeerX 10.1.1.698.8978, doi:10.1007/s00493-004-0015-x, MR 2071334, S2CID 46133408
+
+^ Hartsfield, Nora; Ringel, Gerhard (2013), Pearls in Graph Theory: A Comprehensive Introduction, Dover Books on Mathematics, Courier Dover Publications, p. 247, ISBN 978-0-486-31552-2, MR 2047103.
+
+^ Hliněný, Petr (2010), "20 years of Negami's planar cover conjecture" (PDF), Graphs and Combinatorics, 26 (4): 525–536, CiteSeerX 10.1.1.605.4932, doi:10.1007/s00373-010-0934-9, MR 2669457, S2CID 121645, archived (PDF) from the original on 2016-03-04, retrieved 2016-10-04.
+
+^ Nöllenburg, Martin; Prutkin, Roman; Rutter, Ignaz (2016), "On self-approaching and increasing-chord drawings of 3-connected planar graphs", Journal of Computational Geometry, 7 (1): 47–69, arXiv:1409.0315, doi:10.20382/jocg.v7i1a3, MR 3463906, S2CID 1500695
+
+^ Pach, János; Sharir, Micha (2009), "5.1 Crossings—the Brick Factory Problem", Combinatorial Geometry and Its Algorithmic Applications: The Alcalá Lectures, Mathematical Surveys and Monographs, vol. 152, American Mathematical Society, pp. 126–127.
+
+^ Demaine, E.; O'Rourke, J. (2002–2012), "Problem 45: Smallest Universal Set of Points for Planar Graphs", The Open Problems Project, archived from the original on 2012-08-14, retrieved 2013-03-19.
+
+^ Conway, John H., Five $1,000 Problems (Update 2017) (PDF), Online Encyclopedia of Integer Sequences, archived (PDF) from the original on 2019-02-13, retrieved 2019-02-12
+
+^ mdevos; Wood, David (December 7, 2019), "Jorgensen's Conjecture", Open Problem Garden, archived from the original on 2016-11-14, retrieved 2016-11-13.
+
+^ Ducey, Joshua E. (2017), "On the critical group of the missing Moore graph", Discrete Mathematics, 340 (5): 1104–1109, arXiv:1509.00327, doi:10.1016/j.disc.2016.10.001, MR 3612450, S2CID 28297244
+
+^ Blokhuis, A.; Brouwer, A. E. (1988), "Geodetic graphs of diameter two", Geometriae Dedicata, 25 (1–3): 527–533, doi:10.1007/BF00191941, MR 0925851, S2CID 189890651
+
+^ Florek, Jan (2010), "On Barnette's conjecture", Discrete Mathematics, 310 (10–11): 1531–1535, doi:10.1016/j.disc.2010.01.018, MR 2601261.
+
+^ Broersma, Hajo; Patel, Viresh; Pyatkin, Artem (2014), "On toughness and Hamiltonicity of $2K_2$-free graphs" (PDF), Journal of Graph Theory, 75 (3): 244–255, doi:10.1002/jgt.21734, MR 3153119, S2CID 1377980
+
+^ Jaeger, F. (1985), "A survey of the cycle double cover conjecture", Annals of Discrete Mathematics 27 – Cycles in Graphs, North-Holland Mathematics Studies, vol. 27, pp. 1–12, doi:10.1016/S0304-0208(08)72993-1, ISBN 978-0-444-87803-8.
+
+^ Heckman, Christopher Carl; Krakovski, Roi (2013), "Erdös-Gyárfás conjecture for cubic planar graphs", Electronic Journal of Combinatorics, 20 (2), P7, doi:10.37236/3252.
+
+^ Chudnovsky, Maria (2014), "The Erdös–Hajnal conjecture—a survey" (PDF), Journal of Graph Theory, 75 (2): 178–190, arXiv:1606.08827, doi:10.1002/jgt.21730, MR 3150572, S2CID 985458, Zbl 1280.05086, archived (PDF) from the original on 2016-03-04, retrieved 2016-09-22.
+
+^ Akiyama, Jin; Exoo, Geoffrey; Harary, Frank (1981), "Covering and packing in graphs. IV. Linear arboricity", Networks, 11 (1): 69–72, doi:10.1002/net.3230110108, MR 0608921.
+
+^ Babai, László (June 9, 1994). "Automorphism groups, isomorphism, reconstruction". Handbook of Combinatorics. Archived from the original (PostScript) on 13 June 2007.
+
+^ Lenz, Hanfried; Ringel, Gerhard (1991), "A brief review on Egmont Köhler's mathematical work", Discrete Mathematics, 97 (1–3): 3–16, doi:10.1016/0012-365X(91)90416-Y, MR 1140782
+
+^ Fomin, Fedor V.; Høie, Kjartan (2006), "Pathwidth of cubic graphs and exact algorithms", Information Processing Letters, 97 (5): 191–196, doi:10.1016/j.ipl.2005.10.012, MR 2195217
+
+^ Schwenk, Allen (2012). Some History on the Reconstruction Conjecture (PDF). Joint Mathematics Meetings. Archived from the original (PDF) on 2015-04-09. Retrieved 2018-11-26.
+
+^ Ramachandran, S. (1981), "On a new digraph reconstruction conjecture", Journal of Combinatorial Theory, Series B, 31 (2): 143–149, doi:10.1016/S0095-8956(81)80019-6, MR 0630977
+
+^ Kühn, Daniela; Mycroft, Richard; Osthus, Deryk (2011), "A proof of Sumner's universal tournament conjecture for large tournaments", Proceedings of the London Mathematical Society, Third Series, 102 (4): 731–766, arXiv:1010.4430, doi:10.1112/plms/pdq035, MR 2793448, S2CID 119169562, Zbl 1218.05034.
+
+^ Tuza, Zsolt (1990). "A conjecture on triangles of graphs". Graphs and Combinatorics. 6 (4): 373–380. doi:10.1007/BF01787705. MR 1092587. S2CID 38821128.
+
+^ Brešar, Boštjan; Dorbec, Paul; Goddard, Wayne; Hartnell, Bert L.; Henning, Michael A.; Klavžar, Sandi; Rall, Douglas F. (2012), "Vizing's conjecture: a survey and recent results", Journal of Graph Theory, 69 (1): 46–76, CiteSeerX 10.1.1.159.7029, doi:10.1002/jgt.20565, MR 2864622, S2CID 9120720.
+
+^ a b c d e Kitaev, Sergey; Lozin, Vadim (2015). Words and Graphs. Monographs in Theoretical Computer Science. An EATCS Series. doi:10.1007/978-3-319-25859-1. ISBN 978-3-319-25857-7. S2CID 7727433 – via link.springer.com.
+
+^ a b c d e Kitaev, Sergey (2017-05-16). A Comprehensive Introduction to the Theory of Word-Representable Graphs. International Conference on Developments in Language Theory. arXiv:1705.05924v1. doi:10.1007/978-3-319-62809-7_2.
+
+^ a b c d e Kitaev, S. V.; Pyatkin, A. V. (April 1, 2018). "Word-Representable Graphs: a Survey". Journal of Applied and Industrial Mathematics. 12 (2): 278–296. doi:10.1134/S1990478918020084. S2CID 125814097 – via Springer Link.
+
+^ a b c d e Kitaev, Sergey V.; Pyatkin, Artem V. (2018). "Графы, представимые в виде слов. Обзор результатов" [Word-representable graphs: A survey]. Дискретн. анализ и исслед. опер. (in Russian). 25 (2): 19–53. doi:10.17377/daio.2018.25.588.
+
+^ Marc Elliot Glen (2016). "Colourability and word-representability of near-triangulations". arXiv:1605.01688 [math.CO].
+
+^ Kitaev, Sergey (2014-03-06). "On graphs with representation number 3". arXiv:1403.1616v1 [math.CO].
+
+^ Glen, Marc; Kitaev, Sergey; Pyatkin, Artem (2018). "On the representation number of a crown graph". Discrete Applied Mathematics. 244: 89–93. arXiv:1609.00674. doi:10.1016/j.dam.2018.03.013. S2CID 46925617.
+
+^ Spinrad, Jeremy P. (2003), "2. Implicit graph representation", Efficient Graph Representations, American Mathematical Soc., pp. 17–30, ISBN 978-0-8218-2815-1.
+
+^ "Seymour's 2nd Neighborhood Conjecture". faculty.math.illinois.edu. Archived from the original on 11 January 2019. Retrieved 17 August 2022.
+
+^ mdevos (May 4, 2007). "5-flow conjecture". Open Problem Garden. Archived from the original on November 26, 2018.
+
+^ mdevos (March 31, 2010). "4-flow conjecture". Open Problem Garden. Archived from the original on November 26, 2018.
+
+^ Hrushovski, Ehud (1989). "Kueker's conjecture for stable theories". Journal of Symbolic Logic. 54 (1): 207–220. doi:10.2307/2275025. JSTOR 2275025. S2CID 41940041.
+
+^ a b c Shelah S (1990). Classification Theory. North-Holland.
+
+^ Shelah, Saharon (2009). Classification theory for abstract elementary classes. College Publications. ISBN 978-1-904987-71-0.
+
+^ Peretz, Assaf (2006). "Geometry of forking in simple theories". Journal of Symbolic Logic. 71 (1): 347–359. arXiv:math/0412356. doi:10.2178/jsl/1140641179. S2CID 9380215.
+
+^ Cherlin, Gregory; Shelah, Saharon (May 2007). "Universal graphs with a forbidden subtree". Journal of Combinatorial Theory. Series B. 97 (3): 293–333. arXiv:math/0512218. doi:10.1016/j.jctb.2006.05.008. S2CID 10425739.
+
+^ Džamonja, Mirna, "Club guessing and the universal models." On PCF, ed. M. Foreman, (Banff, Alberta, 2004).
+
+^ Shelah, Saharon (1999). "Borel sets with large squares". Fundamenta Mathematicae. 159 (1): 1–50. arXiv:math/9802134. Bibcode:1998math......2134S. doi:10.4064/fm-159-1-1-50. S2CID 8846429.
+
+^ Baldwin, John T. (July 24, 2009). Categoricity (PDF). American Mathematical Society. ISBN 978-0-8218-4893-7. Archived (PDF) from the original on July 29, 2010. Retrieved February 20, 2014.
+
+^ Shelah, Saharon (2009). "Introduction to classification theory for abstract elementary classes". arXiv:0903.3428 [math.LO].
+
+^ Gurevich, Yuri, "Monadic Second-Order Theories," in J. Barwise, S. Feferman, eds., Model-Theoretic Logics (New York: Springer-Verlag, 1985), 479–506.
+
+^ Makowsky J, "Compactness, embeddings and definability," in Model-Theoretic Logics, eds Barwise and Feferman, Springer 1985 pps. 645–715.
+
+^ Keisler, HJ (1967). "Ultraproducts which are not saturated". J. Symb. Log. 32 (1): 23–46. doi:10.2307/2271240. JSTOR 2271240. S2CID 250345806.
+
+^ Malliaris, Maryanthe; Shelah, Saharon (10 August 2012). "A Dividing Line Within Simple Unstable Theories". arXiv:1208.2140 [math.LO]. Malliaris, M.; Shelah, S. (2012). "A Dividing Line within Simple Unstable Theories". arXiv:1208.2140 [math.LO].
+
+^ Conrey, Brian (2016), "Lectures on the Riemann zeta function (book review)", Bulletin of the American Mathematical Society, 53 (3): 507–512, doi:10.1090/bull/1525
+
+^ Singmaster, David (1971), "Research Problems: How often does an integer occur as a binomial coefficient?", American Mathematical Monthly, 78 (4): 385–386, doi:10.2307/2316907, JSTOR 2316907, MR 1536288.
+
+^ Guo, Song; Sun, Zhi-Wei (2005), "On odd covering systems with distinct moduli", Advances in Applied Mathematics, 35 (2): 182–187, arXiv:math/0412217, doi:10.1016/j.aam.2005.01.004, MR 2152886, S2CID 835158
+
+^ "Are the Digits of Pi Random? Berkeley Lab Researcher May Hold Key". Archived from the original on 2016-03-27. Retrieved 2016-03-18.
+
+^ Robertson, John P. (1996-10-01). "Magic Squares of Squares". Mathematics Magazine. 69 (4): 289–293. doi:10.1080/0025570X.1996.11996457. ISSN 0025-570X.
+
+^ Aigner, Martin (2013), Markov's theorem and 100 years of the uniqueness conjecture, Cham: Springer, doi:10.1007/978-3-319-00888-2, ISBN 978-3-319-00887-5, MR 3098784
+
+^ Huisman, Sander G. (2016). "Newer sums of three cubes". arXiv:1604.07746 [math.NT].
+
+^ Dobson, J. B. (1 April 2017), "On Lerch's formula for the Fermat quotient", p. 23, arXiv:1103.3907v6 [math.NT]
+
+^ Ribenboim, P. (2006). Die Welt der Primzahlen. Springer-Lehrbuch (in German) (2nd ed.). Springer. pp. 242–243. doi:10.1007/978-3-642-18079-8. ISBN 978-3-642-18078-1.
+
+^ Mazur, Barry (1992), "The topology of rational points", Experimental Mathematics, 1 (1): 35–45, doi:10.1080/10586458.1992.10504244, S2CID 17372107, archived from the original on 2019-04-07, retrieved 2019-04-07
+
+^ Kuperberg, Greg (1994), "Quadrisecants of knots and links", Journal of Knot Theory and Its Ramifications, 3: 41–50, arXiv:math/9712205, doi:10.1142/S021821659400006X, MR 1265452, S2CID 6103528
+
+^ Burklund, Robert; Hahn, Jeremy; Levy, Ishan; Schlank, Tomer (2023). "K-theoretic counterexamples to Ravenel's telescope conjecture". arXiv:2310.17459 [math.AT].
+
+^ Dimitrov, Vessilin; Gao, Ziyang; Habegger, Philipp (2021). "Uniformity in Mordell–Lang for curves" (PDF). Annals of Mathematics. 194: 237–298. arXiv:2001.10276. doi:10.4007/annals.2021.194.1.4. S2CID 210932420.
+
+^ Guan, Qi'an; Zhou, Xiangyu (2015). "A solution of an 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L^{2}}
+
+ extension problem with optimal estimate and applications". Annals of Mathematics. 181 (3): 1139–1208. arXiv:1310.7169. doi:10.4007/annals.2015.181.3.6. JSTOR 24523356. S2CID 56205818.
+
+^ Merel, Loïc (1996). ""Bornes pour la torsion des courbes elliptiques sur les corps de nombres" [Bounds for the torsion of elliptic curves over number fields]". Inventiones Mathematicae. 124 (1): 437–449. Bibcode:1996InMat.124..437M. doi:10.1007/s002220050059. MR 1369424. S2CID 3590991.
+
+^ Cohen, Stephen D.; Fried, Michael D. (1995), "Lenstra's proof of the Carlitz–Wan conjecture on exceptional polynomials: an elementary version", Finite Fields and Their Applications, 1 (3): 372–375, doi:10.1006/ffta.1995.1027, MR 1341953
+
+^ Casazza, Peter G.; Fickus, Matthew; Tremain, Janet C.; Weber, Eric (2006). "The Kadison-Singer problem in mathematics and engineering: A detailed account". In Han, Deguang; Jorgensen, Palle E. T.; Larson, David Royal (eds.). Large Deviations for Additive Functionals of Markov Chains: The 25th Great Plains Operator Theory Symposium, June 7–12, 2005, University of Central Florida, Florida. Contemporary Mathematics. Vol. 414. American Mathematical Society. pp. 299–355. doi:10.1090/conm/414/07820. ISBN 978-0-8218-3923-2. Retrieved 24 April 2015.
+
+^ Mackenzie, Dana. "Kadison–Singer Problem Solved" (PDF). SIAM News. No. January/February 2014. Society for Industrial and Applied Mathematics. Archived (PDF) from the original on 23 October 2014. Retrieved 24 April 2015.
+
+^ a b Agol, Ian (2004). "Tameness of hyperbolic 3-manifolds". arXiv:math/0405568.
+
+^ Kurdyka, Krzysztof; Mostowski, Tadeusz; Parusiński, Adam (2000). "Proof of the gradient conjecture of R. Thom". Annals of Mathematics. 152 (3): 763–792. arXiv:math/9906212. doi:10.2307/2661354. JSTOR 2661354. S2CID 119137528.
+
+^ Moreira, Joel; Richter, Florian K.; Robertson, Donald (2019). "A proof of a sumset conjecture of Erdős". Annals of Mathematics. 189 (2): 605–652. arXiv:1803.00498. doi:10.4007/annals.2019.189.2.4. S2CID 119158401.
+
+^ Stanley, Richard P. (1994), "A survey of Eulerian posets", in Bisztriczky, T.; McMullen, P.; Schneider, R.; Weiss, A. IviÄ‡ (eds.), Polytopes: abstract, convex and computational (Scarborough, ON, 1993), NATO Advanced Science Institutes Series C: Mathematical and Physical Sciences, vol. 440, Dordrecht: Kluwer Academic Publishers, pp. 301–333, MR 1322068. See in particular p. 316.
+
+^ Kalai, Gil (2018-12-25). "Amazing: Karim Adiprasito proved the g-conjecture for spheres!". Archived from the original on 2019-02-16. Retrieved 2019-02-15.
+
+^ Santos, Franciscos (2012). "A counterexample to the Hirsch conjecture". Annals of Mathematics. 176 (1): 383–412. arXiv:1006.2814. doi:10.4007/annals.2012.176.1.7. S2CID 15325169.
+
+^ Ziegler, Günter M. (2012). "Who solved the Hirsch conjecture?". Documenta Mathematica (Extra Volume "Optimization Stories"): 75–85.
+
+^ Kauers, Manuel; Koutschan, Christoph; Zeilberger, Doron (2009-07-14). "Proof of Ira Gessel's lattice path conjecture". Proceedings of the National Academy of Sciences. 106 (28): 11502–11505. arXiv:0806.4300. Bibcode:2009PNAS..10611502K. doi:10.1073/pnas.0901678106. ISSN 0027-8424. PMC 2710637.
+
+^ Chung, Fan; Greene, Curtis; Hutchinson, Joan (April 2015). "Herbert S. Wilf (1931–2012)". Notices of the AMS. 62 (4): 358. doi:10.1090/noti1247. ISSN 1088-9477. OCLC 34550461. The conjecture was finally given an exceptionally elegant proof by A. Marcus and G. Tardos in 2004.
+
+^ Savchev, Svetoslav (2005). "Kemnitz' conjecture revisited". Discrete Mathematics. 297 (1–3): 196–201. doi:10.1016/j.disc.2005.02.018.
+
+^ Green, Ben (2004). "The Cameron–Erdős conjecture". The Bulletin of the London Mathematical Society. 36 (6): 769–778. arXiv:math.NT/0304058. doi:10.1112/S0024609304003650. MR 2083752. S2CID 119615076.
+
+^ "News from 2007". American Mathematical Society. AMS. 31 December 2007. Archived from the original on 17 November 2015. Retrieved 2015-11-13. The 2007 prize also recognizes Green for "his many outstanding results including his resolution of the Cameron-Erdős conjecture..."
+
+^ Brown, Aaron; Fisher, David; Hurtado, Sebastian (2017-10-07). "Zimmer's conjecture for actions of SL(𝑚,ℤ)". arXiv:1710.02735 [math.DS].
+
+^ Xue, Jinxin (2014). "Noncollision Singularities in a Planar Four-body Problem". arXiv:1409.0048 [math.DS].
+
+^ Xue, Jinxin (2020). "Non-collision singularities in a planar 4-body problem". Acta Mathematica. 224 (2): 253–388. doi:10.4310/ACTA.2020.v224.n2.a2. S2CID 226420221.
+
+^ 
+Richard P Mann. "Known Historical Beggar-My-Neighbour Records". Retrieved 2024-02-10.
+
+^ Bowditch, Brian H. (2006). "The angel game in the plane" (PDF). School of Mathematics, University of Southampton: warwick.ac.uk Warwick University. Archived (PDF) from the original on 2016-03-04. Retrieved 2016-03-18.
+
+^ Kloster, Oddvar. "A Solution to the Angel Problem" (PDF). Oslo, Norway: SINTEF ICT. Archived from the original (PDF) on 2016-01-07. Retrieved 2016-03-18.
+
+^ Mathe, Andras (2007). "The Angel of power 2 wins" (PDF). Combinatorics, Probability and Computing. 16 (3): 363–374. doi:10.1017/S0963548306008303. S2CID 16892955. Archived (PDF) from the original on 2016-10-13. Retrieved 2016-03-18.
+
+^ Gacs, Peter (June 19, 2007). "THE ANGEL WINS" (PDF). Archived from the original (PDF) on 2016-03-04. Retrieved 2016-03-18.
+
+^ Smith, David; Myers, Joseph Samuel; Kaplan, Craig S.; Goodman-Strauss, Chaim (2023). "An aperiodic monotile". arXiv:2303.10798v2 [math.CO].
+
+^ Larson, Eric (2017). "The Maximal Rank Conjecture". arXiv:1711.04906 [math.AG].
+
+^ Kerz, Moritz; Strunk, Florian; Tamme, Georg (2018), "Algebraic K-theory and descent for blow-ups", Inventiones Mathematicae, 211 (2): 523–577, arXiv:1611.08466, Bibcode:2018InMat.211..523K, doi:10.1007/s00222-017-0752-2, MR 3748313, S2CID 253741858
+
+^ Song, Antoine. "Existence of infinitely many minimal hypersurfaces in closed manifolds" (PDF). www.ams.org. Retrieved 19 June 2021. ..I will present a solution of the conjecture, which builds on min-max methods developed by F. C. Marques and A. Neves..
+
+^ "Antoine Song | Clay Mathematics Institute". ...Building on work of Codá Marques and Neves, in 2018 Song proved Yau's conjecture in complete generality
+
+^ Wolchover, Natalie (July 11, 2017), "Pentagon Tiling Proof Solves Century-Old Math Problem", Quanta Magazine, archived from the original on August 6, 2017, retrieved July 18, 2017
+
+^ Marques, Fernando C.; Neves, André (2013). "Min-max theory and the Willmore conjecture". Annals of Mathematics. 179 (2): 683–782. arXiv:1202.6036. doi:10.4007/annals.2014.179.2.6. S2CID 50742102.
+
+^ Guth, Larry; Katz, Nets Hawk (2015). "On the Erdos distinct distance problem in the plane". Annals of Mathematics. 181 (1): 155–190. arXiv:1011.4105. doi:10.4007/annals.2015.181.1.2.
+
+^ Henle, Frederick V.; Henle, James M. "Squaring the Plane" (PDF). www.maa.org Mathematics Association of America. Archived (PDF) from the original on 2016-03-24. Retrieved 2016-03-18.
+
+^ Brock, Jeffrey F.; Canary, Richard D.; Minsky, Yair N. (2012). "The classification of Kleinian surface groups, II: The Ending Lamination Conjecture". Annals of Mathematics. 176 (1): 1–149. arXiv:math/0412006. doi:10.4007/annals.2012.176.1.1.
+
+^ Connelly, Robert; Demaine, Erik D.; Rote, Günter (2003), "Straightening polygonal arcs and convexifying polygonal cycles" (PDF), Discrete & Computational Geometry, 30 (2): 205–239, doi:10.1007/s00454-003-0006-7, MR 1931840, S2CID 40382145
+
+^ Faber, C.; Pandharipande, R. (2003), "Hodge integrals, partition matrices, and the 
+
+
+
+
+λ
+
+g
+
+
+
+
+{\displaystyle \lambda _{g}}
+
+ conjecture", Ann. of Math., 2, 157 (1): 97–124, arXiv:math.AG/9908052, doi:10.4007/annals.2003.157.97
+
+^ Shestakov, Ivan P.; Umirbaev, Ualbai U. (2004). "The tame and the wild automorphisms of polynomial rings in three variables". Journal of the American Mathematical Society. 17 (1): 197–227. doi:10.1090/S0894-0347-03-00440-5. MR 2015334.
+
+^ Hutchings, Michael; Morgan, Frank; Ritoré, Manuel; Ros, Antonio (2002). "Proof of the double bubble conjecture". Annals of Mathematics. Second Series. 155 (2): 459–489. arXiv:math/0406017. doi:10.2307/3062123. hdl:10481/32449. JSTOR 3062123. MR 1906593.
+
+^ Hales, Thomas C. (2001). "The Honeycomb Conjecture". Discrete & Computational Geometry. 25: 1–22. arXiv:math/9906042. doi:10.1007/s004540010071.
+
+^ Teixidor i Bigas, Montserrat; Russo, Barbara (1999). "On a conjecture of Lange". Journal of Algebraic Geometry. 8 (3): 483–496. arXiv:alg-geom/9710019. Bibcode:1997alg.geom.10019R. ISSN 1056-3911. MR 1689352.
+
+^ Ullmo, E (1998). "Positivité et Discrétion des Points Algébriques des Courbes". Annals of Mathematics. 147 (1): 167–179. arXiv:alg-geom/9606017. doi:10.2307/120987. JSTOR 120987. S2CID 119717506. Zbl 0934.14013.
+
+^ Zhang, S.-W. (1998). "Equidistribution of small points on abelian varieties". Annals of Mathematics. 147 (1): 159–165. doi:10.2307/120986. JSTOR 120986.
+
+^ Hales, Thomas; Adams, Mark; Bauer, Gertrud; Dang, Dat Tat; Harrison, John; Hoang, Le Truong; Kaliszyk, Cezary; Magron, Victor; McLaughlin, Sean; Nguyen, Tat Thang; Nguyen, Quang Truong; Nipkow, Tobias; Obua, Steven; Pleso, Joseph; Rute, Jason; Solovyev, Alexey; Ta, Thi Hoai An; Tran, Nam Trung; Trieu, Thi Diep; Urban, Josef; Ky, Vu; Zumkeller, Roland (2017). "A formal proof of the Kepler conjecture". Forum of Mathematics, Pi. 5: e2. arXiv:1501.02155. doi:10.1017/fmp.2017.1.
+
+^ Hales, Thomas C.; McLaughlin, Sean (2010). "The dodecahedral conjecture". Journal of the American Mathematical Society. 23 (2): 299–344. arXiv:math/9811079. Bibcode:2010JAMS...23..299H. doi:10.1090/S0894-0347-09-00647-X.
+
+^ Park, Jinyoung; Pham, Huy Tuan (2022-03-31). "A Proof of the Kahn-Kalai Conjecture". arXiv:2203.17207 [math.CO].
+
+^ Dujmović, Vida; Eppstein, David; Hickingbotham, Robert; Morin, Pat; Wood, David R. (August 2021). "Stack-number is not bounded by queue-number". Combinatorica. 42 (2): 151–164. arXiv:2011.04195. doi:10.1007/s00493-021-4585-7. S2CID 226281691.
+
+^ Huang, C.; Kotzig, A.; Rosa, A. (1982). "Further results on tree labellings". Utilitas Mathematica. 21: 31–48. MR 0668845..
+
+^ Hartnett, Kevin (19 February 2020). "Rainbow Proof Shows Graphs Have Uniform Parts". Quanta Magazine. Retrieved 2020-02-29.
+
+^ Shitov, Yaroslav (1 September 2019). "Counterexamples to Hedetniemi's conjecture". Annals of Mathematics. 190 (2): 663–667. arXiv:1905.02167. doi:10.4007/annals.2019.190.2.6. JSTOR 10.4007/annals.2019.190.2.6. MR 3997132. S2CID 146120733. Zbl 1451.05087. Retrieved 19 July 2021.
+
+^ He, Dawei; Wang, Yan; Yu, Xingxing (2019-12-11). "The Kelmans-Seymour conjecture I: Special separations". Journal of Combinatorial Theory, Series B. 144: 197–224. arXiv:1511.05020. doi:10.1016/j.jctb.2019.11.008. ISSN 0095-8956. S2CID 29791394.
+
+^ He, Dawei; Wang, Yan; Yu, Xingxing (2019-12-11). "The Kelmans-Seymour conjecture II: 2-Vertices in K4−". Journal of Combinatorial Theory, Series B. 144: 225–264. arXiv:1602.07557. doi:10.1016/j.jctb.2019.11.007. ISSN 0095-8956. S2CID 220369443.
+
+^ He, Dawei; Wang, Yan; Yu, Xingxing (2019-12-09). "The Kelmans-Seymour conjecture III: 3-vertices in K4−". Journal of Combinatorial Theory, Series B. 144: 265–308. arXiv:1609.05747. doi:10.1016/j.jctb.2019.11.006. ISSN 0095-8956. S2CID 119625722.
+
+^ He, Dawei; Wang, Yan; Yu, Xingxing (2019-12-19). "The Kelmans-Seymour conjecture IV: A proof". Journal of Combinatorial Theory, Series B. 144: 309–358. arXiv:1612.07189. doi:10.1016/j.jctb.2019.12.002. ISSN 0095-8956. S2CID 119175309.
+
+^ Zang, Wenan; Jing, Guangming; Chen, Guantao (2019-01-29). "Proof of the Goldberg–Seymour Conjecture on Edge-Colorings of Multigraphs". arXiv:1901.10316v1 [math.CO].
+
+^ Abdollahi A., Zallaghi M. (2015). "Character sums for Cayley graphs". Communications in Algebra. 43 (12): 5159–5167. doi:10.1080/00927872.2014.967398. S2CID 117651702.
+
+^ Huh, June (2012). "Milnor numbers of projective hypersurfaces and the chromatic polynomial of graphs". Journal of the American Mathematical Society. 25 (3): 907–927. arXiv:1008.4749. doi:10.1090/S0894-0347-2012-00731-0.
+
+^ Chalopin, Jérémie; Gonçalves, Daniel (2009). "Every planar graph is the intersection graph of segments in the plane: extended abstract". In Mitzenmacher, Michael (ed.). Proceedings of the 41st Annual ACM Symposium on Theory of Computing, STOC 2009, Bethesda, MD, USA, May 31 - June 2, 2009. ACM. pp. 631–638. doi:10.1145/1536414.1536500.
+
+^ Aharoni, Ron; Berger, Eli (2009). "Menger's theorem for infinite graphs". Inventiones Mathematicae. 176 (1): 1–62. arXiv:math/0509397. Bibcode:2009InMat.176....1A. doi:10.1007/s00222-008-0157-3.
+
+^ Seigel-Itzkovich, Judy (2008-02-08). "Russian immigrant solves math puzzle". The Jerusalem Post. Retrieved 2015-11-12.
+
+^ Diestel, Reinhard (2005). "Minors, Trees, and WQO" (PDF). Graph Theory (Electronic Edition 2005 ed.). Springer. pp. 326–367.
+
+^ Chudnovsky, Maria; Robertson, Neil; Seymour, Paul; Thomas, Robin (2002). "The strong perfect graph theorem". Annals of Mathematics. 164: 51–229. arXiv:math/0212070. Bibcode:2002math.....12070C. doi:10.4007/annals.2006.164.51. S2CID 119151552.
+
+^ Klin, M. H., M. Muzychuk and R. Poschel: The isomorphism problem for circulant graphs via Schur ring theory, Codes and Association Schemes, American Math. Society, 2001.
+
+^ Chen, Zhibo (1996). "Harary's conjectures on integral sum graphs". Discrete Mathematics. 160 (1–3): 241–244. doi:10.1016/0012-365X(95)00163-Q.
+
+^ Friedman, Joel (January 2015). "Sheaves on Graphs, Their Homological Invariants, and a Proof of the Hanna Neumann Conjecture: with an Appendix by Warren Dicks" (PDF). Memoirs of the American Mathematical Society. 233 (1100): 0. doi:10.1090/memo/1100. ISSN 0065-9266. S2CID 117941803.
+
+^ Mineyev, Igor (2012). "Submultiplicativity and the Hanna Neumann conjecture". Annals of Mathematics. Second Series. 175 (1): 393–414. doi:10.4007/annals.2012.175.1.11. MR 2874647.
+
+^ Namazi, Hossein; Souto, Juan (2012). "Non-realizability and ending laminations: Proof of the density conjecture". Acta Mathematica. 209 (2): 323–395. doi:10.1007/s11511-012-0088-0.
+
+^ Pila, Jonathan; Shankar, Ananth; Tsimerman, Jacob; Esnault, Hélène; Groechenig, Michael (2021-09-17). "Canonical Heights on Shimura Varieties and the André-Oort Conjecture". arXiv:2109.08788 [math.NT].
+
+^ Bourgain, Jean; Ciprian, Demeter; Larry, Guth (2015). "Proof of the main conjecture in Vinogradov's Mean Value Theorem for degrees higher than three". Annals of Mathematics. 184 (2): 633–682. arXiv:1512.01565. Bibcode:2015arXiv151201565B. doi:10.4007/annals.2016.184.2.7. hdl:1721.1/115568. S2CID 43929329.
+
+^ Helfgott, Harald A. (2013). "Major arcs for Goldbach's theorem". arXiv:1305.2897 [math.NT].
+
+^ Helfgott, Harald A. (2012). "Minor arcs for Goldbach's problem". arXiv:1205.5252 [math.NT].
+
+^ Helfgott, Harald A. (2013). "The ternary Goldbach conjecture is true". arXiv:1312.7748 [math.NT].
+
+^ Zhang, Yitang (2014-05-01). "Bounded gaps between primes". Annals of Mathematics. 179 (3): 1121–1174. doi:10.4007/annals.2014.179.3.7. ISSN 0003-486X.
+
+^ "Bounded gaps between primes - Polymath Wiki". asone.ai. Archived from the original on 2020-12-08. Retrieved 2021-08-27.
+
+^ Maynard, James (2015-01-01). "Small gaps between primes". Annals of Mathematics: 383–413. arXiv:1311.4600. doi:10.4007/annals.2015.181.1.7. ISSN 0003-486X. S2CID 55175056.
+
+^ Cilleruelo, Javier (2010). "Generalized Sidon sets". Advances in Mathematics. 225 (5): 2786–2807. doi:10.1016/j.aim.2010.05.010. hdl:10261/31032. S2CID 7385280.
+
+^ Khare, Chandrashekhar; Wintenberger, Jean-Pierre (2009), "Serre's modularity conjecture (I)", Inventiones Mathematicae, 178 (3): 485–504, Bibcode:2009InMat.178..485K, CiteSeerX 10.1.1.518.4611, doi:10.1007/s00222-009-0205-7, S2CID 14846347
+
+^ Khare, Chandrashekhar; Wintenberger, Jean-Pierre (2009), "Serre's modularity conjecture (II)", Inventiones Mathematicae, 178 (3): 505–586, Bibcode:2009InMat.178..505K, CiteSeerX 10.1.1.228.8022, doi:10.1007/s00222-009-0206-6, S2CID 189820189
+
+^ "2011 Cole Prize in Number Theory" (PDF). Notices of the AMS. 58 (4): 610–611. ISSN 1088-9477. OCLC 34550461. Archived (PDF) from the original on 2015-11-06. Retrieved 2015-11-12.
+
+^ "Bombieri and Tao Receive King Faisal Prize" (PDF). Notices of the AMS. 57 (5): 642–643. May 2010. ISSN 1088-9477. OCLC 34550461. Archived (PDF) from the original on 2016-03-04. Retrieved 2016-03-18. Working with Ben Green, he proved there are arbitrarily long arithmetic progressions of prime numbers—a result now known as the Green–Tao theorem.
+
+^ Metsänkylä, Tauno (5 September 2003). "Catalan's conjecture: another old diophantine problem solved" (PDF). Bulletin of the American Mathematical Society. 41 (1): 43–57. doi:10.1090/s0273-0979-03-00993-5. ISSN 0273-0979. Archived (PDF) from the original on 4 March 2016. Retrieved 13 November 2015. The conjecture, which dates back to 1844, was recently proven by the Swiss mathematician Preda Mihăilescu.
+
+^ Croot, Ernest S. III (2000). Unit Fractions. Ph.D. thesis. University of Georgia, Athens. Croot, Ernest S. III (2003). "On a coloring conjecture about unit fractions". Annals of Mathematics. 157 (2): 545–556. arXiv:math.NT/0311421. Bibcode:2003math.....11421C. doi:10.4007/annals.2003.157.545. S2CID 13514070.
+
+^ Lafforgue, Laurent (1998), "Chtoucas de Drinfeld et applications" [Drinfelʹd shtukas and applications], Documenta Mathematica (in French), II: 563–570, ISSN 1431-0635, MR 1648105, archived from the original on 2018-04-27, retrieved 2016-03-18
+
+^ Wiles, Andrew (1995). "Modular elliptic curves and Fermat's Last Theorem" (PDF). Annals of Mathematics. 141 (3): 443–551. CiteSeerX 10.1.1.169.9076. doi:10.2307/2118559. JSTOR 2118559. OCLC 37032255. Archived (PDF) from the original on 2011-05-10. Retrieved 2016-03-06.
+
+^ Taylor R, Wiles A (1995). "Ring theoretic properties of certain Hecke algebras". Annals of Mathematics. 141 (3): 553–572. CiteSeerX 10.1.1.128.531. doi:10.2307/2118560. JSTOR 2118560. OCLC 37032255. Archived from the original on 16 September 2000.
+
+^ Lee, Choongbum (2017). "Ramsey numbers of degenerate graphs". Annals of Mathematics. 185 (3): 791–829. arXiv:1505.04773. doi:10.4007/annals.2017.185.3.2. S2CID 7974973.
+
+^ Lamb, Evelyn (26 May 2016). "Two-hundred-terabyte maths proof is largest ever". Nature. 534 (7605): 17–18. Bibcode:2016Natur.534...17L. doi:10.1038/nature.2016.19990. PMID 27251254.
+
+^ Heule, Marijn J. H.; Kullmann, Oliver; Marek, Victor W. (2016). "Solving and Verifying the Boolean Pythagorean Triples Problem via Cube-and-Conquer". In Creignou, N.; Le Berre, D. (eds.). Theory and Applications of Satisfiability Testing – SAT 2016. Lecture Notes in Computer Science. Vol. 9710. Springer, [Cham]. pp. 228–245. arXiv:1605.00723. doi:10.1007/978-3-319-40970-2_15. ISBN 978-3-319-40969-6. MR 3534782. S2CID 7912943.
+
+^ Linkletter, David (27 December 2019). "The 10 Biggest Math Breakthroughs of 2019". Popular Mechanics. Retrieved 20 June 2021.
+
+^ Piccirillo, Lisa (2020). "The Conway knot is not slice". Annals of Mathematics. 191 (2): 581–591. doi:10.4007/annals.2020.191.2.5. S2CID 52398890.
+
+^ Klarreich, Erica (2020-05-19). "Graduate Student Solves Decades-Old Conway Knot Problem". Quanta Magazine. Retrieved 2022-08-17.
+
+^ Agol, Ian (2013). "The virtual Haken conjecture (with an appendix by Ian Agol, Daniel Groves, and Jason Manning)" (PDF). Documenta Mathematica. 18: 1045–1087. arXiv:1204.2810v1. doi:10.4171/dm/421. S2CID 255586740.
+
+^ Brendle, Simon (2013). "Embedded minimal tori in 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+ and the Lawson conjecture". Acta Mathematica. 211 (2): 177–190. arXiv:1203.6597. doi:10.1007/s11511-013-0101-2.
+
+^ Kahn, Jeremy; Markovic, Vladimir (2015). "The good pants homology and the Ehrenpreis conjecture". Annals of Mathematics. 182 (1): 1–72. arXiv:1101.1330. doi:10.4007/annals.2015.182.1.1.
+
+^ Austin, Tim (December 2013). "Rational group ring elements with kernels having irrational dimension". Proceedings of the London Mathematical Society. 107 (6): 1424–1448. arXiv:0909.2360. Bibcode:2009arXiv0909.2360A. doi:10.1112/plms/pdt029. S2CID 115160094.
+
+^ Lurie, Jacob (2009). "On the classification of topological field theories". Current Developments in Mathematics. 2008: 129–280. arXiv:0905.0465. Bibcode:2009arXiv0905.0465L. doi:10.4310/cdm.2008.v2008.n1.a3. S2CID 115162503.
+
+^ a b "Prize for Resolution of the Poincaré Conjecture Awarded to Dr. Grigoriy Perelman" (PDF) (Press release). Clay Mathematics Institute. March 18, 2010. Archived from the original on March 22, 2010. Retrieved November 13, 2015. The Clay Mathematics Institute hereby awards the Millennium Prize for resolution of the Poincaré conjecture to Grigoriy Perelman.
+
+^ Morgan, John; Tian, Gang (2008). "Completion of the Proof of the Geometrization Conjecture". arXiv:0809.4040 [math.DG].
+
+^ Rudin, M.E. (2001). "Nikiel's Conjecture". Topology and Its Applications. 116 (3): 305–331. doi:10.1016/S0166-8641(01)00218-8.
+
+^ Norio Iwase (1 November 1998). "Ganea's Conjecture on Lusternik-Schnirelmann Category". ResearchGate.
+
+^ Tao, Terence (2015). "The Erdős discrepancy problem". arXiv:1509.05363v5 [math.CO].
+
+^ Duncan, John F. R.; Griffin, Michael J.; Ono, Ken (1 December 2015). "Proof of the umbral moonshine conjecture". Research in the Mathematical Sciences. 2 (1): 26. arXiv:1503.01472. Bibcode:2015arXiv150301472D. doi:10.1186/s40687-015-0044-7. S2CID 43589605.
+
+^ Cheeger, Jeff; Naber, Aaron (2015). "Regularity of Einstein Manifolds and the Codimension 4 Conjecture". Annals of Mathematics. 182 (3): 1093–1165. arXiv:1406.6534. doi:10.4007/annals.2015.182.3.5.
+
+^ Wolchover, Natalie (March 28, 2017). "A Long-Sought Proof, Found and Almost Lost". Quanta Magazine. Archived from the original on April 24, 2017. Retrieved May 2, 2017.
+
+^ Newman, Alantha; Nikolov, Aleksandar (2011). "A counterexample to Beck's conjecture on the discrepancy of three permutations". arXiv:1104.2922 [cs.DM].
+
+^ Voevodsky, Vladimir (1 July 2011). "On motivic cohomology with Z/l-coefficients" (PDF). annals.math.princeton.edu. Princeton, NJ: Princeton University. pp. 401–438. Archived (PDF) from the original on 2016-03-27. Retrieved 2016-03-18.
+
+^ Geisser, Thomas; Levine, Marc (2001). "The Bloch-Kato conjecture and a theorem of Suslin-Voevodsky". Journal für die Reine und Angewandte Mathematik. 2001 (530): 55–103. doi:10.1515/crll.2001.006. MR 1807268.
+
+^ Kahn, Bruno. "Algebraic K-Theory, Algebraic Cycles and Arithmetic Geometry" (PDF). webusers.imj-prg.fr. Archived (PDF) from the original on 2016-03-27. Retrieved 2016-03-18.
+
+^ "motivic cohomology – Milnor–Bloch–Kato conjecture implies the Beilinson-Lichtenbaum conjecture – MathOverflow". Retrieved 2016-03-18.
+
+^ Mattman, Thomas W.; Solis, Pablo (2009). "A proof of the Kauffman-Harary Conjecture". Algebraic & Geometric Topology. 9 (4): 2027–2039. arXiv:0906.1612. Bibcode:2009arXiv0906.1612M. doi:10.2140/agt.2009.9.2027. S2CID 8447495.
+
+^ Kahn, Jeremy; Markovic, Vladimir (2012). "Immersing almost geodesic surfaces in a closed hyperbolic three manifold". Annals of Mathematics. 175 (3): 1127–1190. arXiv:0910.5501. doi:10.4007/annals.2012.175.3.4.
+
+^ Lu, Zhiqin (September 2011) [2007]. "Normal Scalar Curvature Conjecture and its applications". Journal of Functional Analysis. 261 (5): 1284–1308. arXiv:0711.3510. doi:10.1016/j.jfa.2011.05.002.
+
+^ Dencker, Nils (2006), "The resolution of the Nirenberg–Treves conjecture" (PDF), Annals of Mathematics, 163 (2): 405–444, doi:10.4007/annals.2006.163.405, S2CID 16630732, archived (PDF) from the original on 2018-07-20, retrieved 2019-04-07
+
+^ "Research Awards". Clay Mathematics Institute. Archived from the original on 2019-04-07. Retrieved 2019-04-07.
+
+^ Lewis, A. S.; Parrilo, P. A.; Ramana, M. V. (2005). "The Lax conjecture is true". Proceedings of the American Mathematical Society. 133 (9): 2495–2499. doi:10.1090/S0002-9939-05-07752-X. MR 2146191. S2CID 17436983.
+
+^ "Fields Medal – Ngô Bảo Châu". International Congress of Mathematicians 2010. ICM. 19 August 2010. Archived from the original on 24 September 2015. Retrieved 2015-11-12. Ngô Bảo Châu is being awarded the 2010 Fields Medal for his proof of the Fundamental Lemma in the theory of automorphic forms through the introduction of new algebro-geometric methods.
+
+^ Voevodsky, Vladimir (2003). "Reduced power operations in motivic cohomology". Publications Mathématiques de l'IHÉS. 98: 1–57. arXiv:math/0107109. CiteSeerX 10.1.1.170.4427. doi:10.1007/s10240-003-0009-z. S2CID 8172797. Archived from the original on 2017-07-28. Retrieved 2016-03-18.
+
+^ Baruch, Ehud Moshe (2003). "A proof of Kirillov's conjecture". Annals of Mathematics. Second Series. 158 (1): 207–252. doi:10.4007/annals.2003.158.207. MR 1999922.
+
+^ Haas, Bertrand (2002). "A Simple Counterexample to Kouchnirenko's Conjecture" (PDF). Beiträge zur Algebra und Geometrie. 43 (1): 1–8. Archived (PDF) from the original on 2016-10-07. Retrieved 2016-03-18.
+
+^ Haiman, Mark (2001). "Hilbert schemes, polygraphs and the Macdonald positivity conjecture". Journal of the American Mathematical Society. 14 (4): 941–1006. doi:10.1090/S0894-0347-01-00373-3. MR 1839919. S2CID 9253880.
+
+^ Auscher, Pascal; Hofmann, Steve; Lacey, Michael; McIntosh, Alan; Tchamitchian, Ph. (2002). "The solution of the Kato square root problem for second order elliptic operators on 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+". Annals of Mathematics. Second Series. 156 (2): 633–654. doi:10.2307/3597201. JSTOR 3597201. MR 1933726.
+
+^ Barbieri-Viale, Luca; Rosenschon, Andreas; Saito, Morihiko (2003). "Deligne's Conjecture on 1-Motives". Annals of Mathematics. 158 (2): 593–633. arXiv:math/0102150. doi:10.4007/annals.2003.158.593.
+
+^ Breuil, Christophe; Conrad, Brian; Diamond, Fred; Taylor, Richard (2001), "On the modularity of elliptic curves over Q: wild 3-adic exercises", Journal of the American Mathematical Society, 14 (4): 843–939, doi:10.1090/S0894-0347-01-00370-8, ISSN 0894-0347, MR 1839918
+
+^ Luca, Florian (2000). "On a conjecture of Erdős and Stewart" (PDF). Mathematics of Computation. 70 (234): 893–897. Bibcode:2001MaCom..70..893L. doi:10.1090/s0025-5718-00-01178-9. Archived (PDF) from the original on 2016-04-02. Retrieved 2016-03-18.
+
+^ Atiyah, Michael (2000). "The geometry of classical particles". In Yau, Shing-Tung (ed.). Papers dedicated to Atiyah, Bott, Hirzebruch, and Singer. Surveys in Differential Geometry. Vol. 7. Somerville, Massachusetts: International Press. pp. 1–15. doi:10.4310/SDG.2002.v7.n1.a1. MR 1919420.
+
+
+Further reading
+Books discussing problems solved since 1995
+Singh, Simon (2002). Fermat's Last Theorem. Fourth Estate. ISBN 978-1-84115-791-7.
+O'Shea, Donal (2007). The Poincaré Conjecture. Penguin. ISBN 978-1-84614-012-9.
+Szpiro, George G. (2003). Kepler's Conjecture. Wiley. ISBN 978-0-471-08601-7.
+Ronan, Mark (2006). Symmetry and the Monster. Oxford. ISBN 978-0-19-280722-9.
+Books discussing unsolved problems
+Chung, Fan; Graham, Ron (1999). Erdös on Graphs: His Legacy of Unsolved Problems. AK Peters. ISBN 978-1-56881-111-6.
+Croft, Hallard T.; Falconer, Kenneth J.; Guy, Richard K. (1994). Unsolved Problems in Geometry. Springer. ISBN 978-0-387-97506-1.
+Guy, Richard K. (2004). Unsolved Problems in Number Theory. Springer. ISBN 978-0-387-20860-2.
+Klee, Victor; Wagon, Stan (1996). Old and New Unsolved Problems in Plane Geometry and Number Theory. The Mathematical Association of America. ISBN 978-0-88385-315-3.
+du Sautoy, Marcus (2003). The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics. Harper Collins. ISBN 978-0-06-093558-0.
+Derbyshire, John (2003). Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics. Joseph Henry Press. ISBN 978-0-309-08549-6.
+Devlin, Keith (2006). The Millennium Problems – The Seven Greatest Unsolved* Mathematical Puzzles Of Our Time. Barnes & Noble. ISBN 978-0-7607-8659-8.
+Blondel, Vincent D.; Megrestski, Alexandre (2004). Unsolved problems in mathematical systems and control theory. Princeton University Press. ISBN 978-0-691-11748-5.
+Ji, Lizhen; Poon, Yat-Sun; Yau, Shing-Tung (2013). Open Problems and Surveys of Contemporary Mathematics (volume 6 in the Surveys in Modern Mathematics series) (Surveys of Modern Mathematics). International Press of Boston. ISBN 978-1-57146-278-7.
+Waldschmidt, Michel (2004). "Open Diophantine Problems" (PDF). Moscow Mathematical Journal. 4 (1): 245–305. arXiv:math/0312440. doi:10.17323/1609-4514-2004-4-1-245-305. ISSN 1609-3321. S2CID 11845578. Zbl 1066.11030.
+Mazurov, V. D.; Khukhro, E. I. (1 Jun 2015). "Unsolved Problems in Group Theory. The Kourovka Notebook. No. 18 (English version)". arXiv:1401.0300v6 [math.GR].
+External links
+24 Unsolved Problems and Rewards for them
+List of links to unsolved problems in mathematics, prizes and research
+Open Problem Garden
+AIM Problem Lists
+Unsolved Problem of the Week Archive. MathPro Press.
+Ball, John M. "Some Open Problems in Elasticity" (PDF).
+Constantin, Peter. "Some open problems and research directions in the mathematical study of fluid dynamics" (PDF).
+Serre, Denis. "Five Open Problems in Compressible Mathematical Fluid Dynamics" (PDF).
+Unsolved Problems in Number Theory, Logic and Cryptography
+200 open problems in graph theory Archived 2017-05-15 at the Wayback Machine
+The Open Problems Project (TOPP), discrete and computational geometry problems
+Kirby's list of unsolved problems in low-dimensional topology
+Erdös' Problems on Graphs
+Unsolved Problems in Virtual Knot Theory and Combinatorial Knot Theory
+Open problems from the 12th International Conference on Fuzzy Set Theory and Its Applications
+List of open problems in inner model theory
+Aizenman, Michael. "Open Problems in Mathematical Physics".
+Barry Simon's 15 Problems in Mathematical Physics
+Alexandre Eremenko. Unsolved problems in Function Theory
+vteWell-known unsolved problems by discipline
+Astronomy
+Biology
+Chemistry
+Computer science
+Economics
+Fair division
+Geoscience
+Information theory
+Mathematics
+Medicine
+Neuroscience
+Physics
+Statistics
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_unsolved_problems_in_mathematics&oldid=1227463826"
+Categories: Unsolved problems in mathematicsConjecturesLists of unsolved problemsLists of problemsHidden categories: CS1 Russian-language sources (ru)Webarchive template wayback linksCS1 Spanish-language sources (es)CS1 German-language sources (de)CS1 French-language sources (fr)Wikipedia semi-protected pagesArticles with short descriptionShort description is different from WikidataDynamic listsArticles containing Russian-language text
+
+
+
+
+
+
+ This page was last edited on 5 June 2024, at 21:38 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

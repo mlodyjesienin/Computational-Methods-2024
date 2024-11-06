@@ -1,0 +1,530 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heisenberg's Uncertainty Principle - Chemistry LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+2: Fundamentals of Quantum MechanicsQuantum Mechanics{ Commuting_Operators : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", The_Uncertainty_Principle : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ Deriving_the_de_Broglie_Wavelength : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Deriving_the_Rayleigh-Jeans_Radiation_Law" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Deriving_the_Wien\'s_Displacement_Law_from_Planck\'s_Law" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Heisenberg\'s_Uncertainty_Principle" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Photons : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Quantum_FAQ : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Tunneling : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Wave-Particle_Duality" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "01._Waves_and_Particles" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02._Fundamental_Concepts_of_Quantum_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03._The_Tools_of_Quantum_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04._The_7_Postulates_of_Quantum_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05.5:_Particle_in_Boxes" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "06._One_Dimensional_Harmonic_Oscillator" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "07._Angular_Momentum" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "09._The_Hydrogen_Atom" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Multi-electron_Atoms" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_Angular_Momenta_Coupling" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_Molecules" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_Electron_Scattering" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_Stationary_Perturbation_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "13:_Fine_and_Hyperfine_Structure" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "14:_Systems_of_Identical_Particles" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "15:_Time-dependent_Quantum_Dynamics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16:_Molecular_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "17:_Quantum_Calculations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Chapter_14.__Nuclear_Magnetic_Resonance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Gen_Chem_Quantum_Theory : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Zeeman_Effect : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Mon, 30 Jan 2023 07:05:51 GMTHeisenberg's Uncertainty Principle16931693admin{ }AnonymousAnonymous User2falsefalse[ "article:topic", "Heisenberg Uncertainty Principle", "showtoc:no", "license:ccbyncsa", "licenseversion:40" ][ "article:topic", "Heisenberg Uncertainty Principle", "showtoc:no", "license:ccbyncsa", "licenseversion:40" ]https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FSupplemental_Modules_(Physical_and_Theoretical_Chemistry)%2FQuantum_Mechanics%2F02._Fundamental_Concepts_of_Quantum_Mechanics%2FHeisenberg's_Uncertainty_Principle
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Physical & Theoretical Chemistry
+                            
+
+
+
+
+                                    Supplemental Modules (Physical and Theoretical Chemistry)
+                            
+
+
+
+
+                                    Quantum Mechanics
+                            
+
+
+
+
+                                    2: Fundamentals of Quantum Mechanics
+                            
+
+
+
+                            Heisenberg's Uncertainty Principle
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        Heisenberg's Uncertainty Principle
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID1693
+
+
+
+
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+IntroductionWhat does it mean?ConsequencesProblemsAnswersReferencesContributors and Attributions
+
+
+
+Heisenberg’s Uncertainty Principle is one of the most celebrated results of quantum mechanics and states that one (often, but not always) cannot know all things about a particle (as it is defined by it’s wave function) at the same time. This principle is mathematically manifested as non-commuting operators.
+Introduction
+Heisenberg's Uncertainty Principle states that there is inherent uncertainty in the act of measuring a variable of a particle. Commonly applied to the position and momentum of a particle, the principle states that the more precisely the position is known the more uncertain the momentum is and vice versa. This is contrary to classical Newtonian physics which holds all variables of particles to be measurable to an arbitrary uncertainty given good enough equipment. The Heisenberg Uncertainty Principle is a fundamental theory in quantum mechanics that defines why a scientist cannot measure multiple quantum variables simultaneously. Until the dawn of quantum mechanics, it was held as a fact that all variables of an object could be known to exact precision simultaneously for a given moment. Newtonian physics placed no limits on how better procedures and techniques could reduce measurement uncertainty so that it was conceivable that with proper care and accuracy all information could be defined. Heisenberg made the bold proposition that there is a lower limit to this precision making our knowledge of a particle inherently uncertain.
+More specifically, if one knows the precise momentum of the particle, it is impossible to know the precise position, and vice versa. This relationship also applies to energy and time, in that one cannot measure the precise energy of a system in a finite amount of time. Uncertainties in the products of “conjugate pairs” (momentum/position) and (energy/time) were defined by Heisenberg as having a minimum value corresponding to Planck’s constant divided by \(4\pi\). More clearly:
+\[\Delta{p}\Delta{x} \ge \dfrac{h}{4\pi}\]
+\[\Delta{t}\Delta{E} \ge \dfrac{h}{4\pi}\]
+Where \(\Delta\) refers to the uncertainty in that variable and h is Planck's constant.
+Aside from the mathematical definitions, one can make sense of this by imagining that the more carefully one tries to measure position, the more disruption there is to the system, resulting in changes in momentum. For example compare the effect that measuring the position has on the momentum of an electron versus a tennis ball. Let’s say to measure these objects, light is required in the form of photon particles. These photon particles have a measurable mass and velocity, and come into contact with the electron and tennis ball in order to achieve a value in their position. As two objects collide with their respective momenta (p=m*v), they impart theses momenta onto each other. When the photon contacts the electron, a portion of its momentum is transferred and the electron will now move relative to this value depending on the ratio of their mass. The larger tennis ball when measured will have a transfer of momentum from the photons as well, but the effect will be lessened because its mass is several orders of magnitude larger than the photon. To give a more practical description, picture a tank and a bicycle colliding with one another, the tank portraying the tennis ball and the bicycle that of the photon. The sheer mass of the tank although it may be traveling at a much slower speed will increase its momentum much higher than that of the bicycle in effect forcing the bicycle in the opposite direction. The final result of measuring an object’s position leads to a change in its momentum and vice versa.
+All Quantum behavior follows this principle and it is important in determining spectral line widths, as the uncertainty in energy of a system corresponds to a line width seen in regions of the light spectrum explored in Spectroscopy.
+What does it mean?
+It is hard to imagine not being able to know exactly where a particle is at a given moment. It seems intuitive that if a particle exists in space, then we can point to where it is; however, the Heisenberg Uncertainty Principle clearly shows otherwise. This is because of the wave-like nature of a particle. A particle is spread out over space so that there simply is not a precise location that it occupies, but instead occupies a range of positions. Similarly, the momentum cannot be precisely known since a particle consists of a packet of waves, each of which have their own momentum so that at best it can be said that a particle has a range of momentum.
+
+Figure \(\PageIndex{1}\): A wave packet in space
+
+Let's consider if quantum variables could be measured exactly. A wave that has a perfectly measurable position is collapsed onto a single point with an indefinite wavelength and therefore indefinite momentum according to de Broglie's equation. Similarly, a wave with a perfectly measurable momentum has a wavelength that oscillates over all space infinitely and therefore has an indefinite position.
+You could do the same thought experiment with energy and time. To precisely measure a wave's energy would take an infinite amount of time while measuring a wave's exact instance in space would require to be collapsed onto a single moment which would have indefinite energy.
+Consequences
+The Heisenberg Principle has large bearing on practiced science and how experiments are designed. Consider measuring the momentum or position of a particle. To create a measurement, an interaction with the particle must occur that will alter it's other variables. For example, in order to measure the position of an electron there must be a collision between the electron and another particle such as a photon. This will impart some of the second particle's momentum onto the electron being measured and thereby altering it. A more accurate measurement of the electron's position would require a particle with a smaller wavelength, and therefore be more energetic, but then this would alter the momentum even more during collision. An experiment designed to determine momentum would have a similar effect on position. Consequently, experiments can only gather information about a single variable at a time with any amount of accuracy.
+Problems
+
+The uncertainty in the momentum \(\Delta{p}\) of a football thrown by Tom Brady during the superbowl traveling at \(40\; m/s\) is \(\ 1 \times 10^{-6}\) of its momentum. What is its uncertainty in position \(\Delta{x}\)? Mass=0.40kg
+You notice there is 2 mL of water traveling on the football at the same speed and \(\Delta{p}\). Calculate its \(\Delta{x}\).
+An electron in that molecule of water traveling at the same speed has the same \(\Delta{p}\). Calculate its \(\Delta{x}\) if the mass of an electron is \(\ 9.1 \times 10^{-31} kg\).
+Comment on the differences in the uncertainty of momentum between the ball, water, and electron. How does the mass effect this value?
+Taking into account all of the information presented above, can you state a situation in which the Heisenberg Uncertainty Principle has little effect on measuring the momentum and position of one object, but dominates for that of another when both objects are part of the same system?
+
+Answers
+1.
+\[ \begin{align} p&=mv\nonumber \\[4pt] &= (0.40\, kg)(40\,m/s)\nonumber \\[4pt] &= 16\,\dfrac{kg \, m}{s}\nonumber \end{align} \nonumber\]
+\[ \begin{align} \Delta{p} &= p (1 \times 10^{-6})\nonumber \\[4pt] &=16\dfrac{kg \, m}{s} (1 \times 10^{-6})\nonumber \\[4pt] &=16 \times 10^{-6}\dfrac{kg \, m}{s}\nonumber \end{align} \nonumber\]
+\[ \begin{align} \Delta{p}\Delta{x} & \ge \dfrac{h}{4\pi} \nonumber \\[4pt] \Delta{x} &\ge \dfrac{h}{4\pi\Delta{p}} \nonumber \\[4pt] &\ge \dfrac{6.626 \times 10^{-34}J \,s}{4\pi \left(16 \times 10^{-6}\dfrac{kg \, m}{s}\right)}\nonumber \\[4pt] &\ge 3.3 \times 10^{-30}m\nonumber \end{align} \nonumber\]
+Note that \(1\,J = 1 \dfrac{kg \, m^2}{s^2}\).
+2.
+The volume is not the property that matters, but the mass. So convert to mass with density.
+\[ (2\, mL ) \underbrace{\left(\dfrac{1\,g}{1\,mL}\right)}_{\text{density of water}} \left(\dfrac{1\,kg}{1,000\,g}\right) =2 \times 10^{-3} kg \nonumber\]
+\[ \begin{align} p&=m v\nonumber \\[4pt] &= (2 \times 10^{-3} kg)(40\,m/s)\nonumber \\[4pt] &= 8 \times 10^{-2}\dfrac{kg \, m}{s}\nonumber \end{align} \nonumber\]
+\[ \begin{align} \Delta{p} &=p (1 \times 10^{-6}) = (8 \times 10^{-2} \dfrac{kg \, m}{s})(1 \times 10^{-6}) = 8 \times 10^{-8} \dfrac{kg \, m}{s} \nonumber \end{align} \nonumber\]
+\[ \begin{align} \Delta{p}\Delta{x} &\ge \dfrac{h}{4\pi} \\ \Delta{x} &\ge \dfrac{h}{4\pi\Delta{p}} \nonumber \\[4pt] &\ge \dfrac{6.626 \times 10^{-34} J \, s}{4\pi \left(8 \times 10^{-8} \dfrac{kg \, m}{s}\right)}\nonumber \\[4pt] &\ge 6.6 \times 10^{-28}m \nonumber \end{align} \nonumber\]
+3
+\[ \begin{align} p&=m v \nonumber \\[4pt]&= (9.1 \times 10^{-31}kg)(40\,m/s) \nonumber \\[4pt] &= 3.6 \times 10^{-29}\dfrac{kg \, m}{s} \nonumber \end{align} \nonumber\]
+\[ \begin{align}\Delta{p} &= p \times 10^{-6} \nonumber \\[4pt] &= 3.6 \times 10^{-29}\dfrac{kg \, m}{s} \times 1 \times 10^{-6} \nonumber \\[4pt] &= 3.6 \times 10^{-35} \dfrac{kg \, m}{s} \nonumber \end{align} \nonumber\]
+\[ \begin{align} \Delta{p}\Delta{x} &\ge \dfrac{h}{4\pi} \nonumber \\[4pt] \Delta{x} &\ge \dfrac{h}{4\pi\Delta{p}} \nonumber \\[4pt] &\ge \dfrac{6.626 \times 10^{-34}J \times s}{4\pi 3.6 \times 10^{-35} \dfrac{kg \, m}{s}} \nonumber \\[4pt] &\ge1.5\,m \nonumber \end{align} \nonumber\]
+4
+The mass of the football is \(\ 4 \times 10^{-1} kg\), the water is \(\ 2 \times 10^{-3} kg\), and the electron is \(\ 9.1 \times 10^{-31} kg\). The mass of the water is 2 orders of magnitude smaller than that of the football, and the resulting position uncertainty is 2 orders of magnitude larger. Between the electron and water there is a difference of 28 orders of magnitude for both mass and \(\Delta{x}\). There is a direct correlation of inverse proportionality between the \(\Delta{x}\) and \(\Delta{p}\) as described by the Heisenberg Uncertainty Principle, and the much smaller electron has a larger position of uncertainty of 1.5 m compared to the larger football's of \(\ 3.3 \times 10^{-30} m\)
+5
+One example that can be used is a glass of water in a cup holder inside a moving car. This glass of water has multiple water molecules each consisting of electrons. The water in the glass is a macroscopic object and can be viewed with the naked eye. The electrons however occupy the same space as the water, but cannot be seen and therefore must be measured microscopically. As stated above in the introduction, the effect of measuring a tiny particle causes a change in its momentum and time in space, but this is not the case for the larger object. Thus, the uncertainty principle has much greater bearing on the electrons rather than the macroscopic water.
+References
+
+Chang, Raymond. Physical Chemistry for the Biosciences. Sausalito California: University Science Books, 2005.
+Mortimer, Robert G. Physical Chemistry. San Diego: Hardcourt Academic Press, 1993.
+Knight, Randall. Physics for Scientists and Engineers: A Strategic Approach. San Francisco: Addison Wesley, 2004.
+
+Contributors and Attributions
+
+Sarah Woods, Kris Baumgartner (UC Davis)
+
+
+
+Heisenberg's Uncertainty Principle is shared under a CC BY-NC-SA  4.0  license and was authored, remixed, and/or curated by LibreTexts.
+
+
+
+
+
+
+
+
+Back to top
+
+
+Deriving the Wien's Displacement Law from Planck's Law
+
+
+Commuting Operators
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+License
+CC BY-NC-SA
+
+
+License Version
+4.0
+
+
+Show Page TOC
+no on page
+
+
+
+Tags
+
+
+ Heisenberg Uncertainty Principle
+
+
+
+
+
+
+
+
+
+
+© Copyright 2024 Chemistry LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

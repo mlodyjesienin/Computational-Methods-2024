@@ -1,0 +1,1252 @@
+
+
+
+
+
+
+
+
+Differential Topology: Essential Concepts Explained
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insights Blog
+
+
+
+-- Browse All Articles --
+Physics Articles
+Physics Tutorials
+Physics Guides
+Physics FAQ
+Math Articles
+Math Tutorials
+Math Guides
+Math FAQ
+Education Articles
+Education Guides
+Bio/Chem Articles
+Technology Guides
+Computer Science Tutorials
+
+
+
+
+
+
+Forums
+
+
+
+General Math
+Calculus
+Differential Equations
+Topology and Analysis
+Linear and Abstract Algebra
+Differential Geometry
+Set Theory, Logic, Probability, Statistics
+MATLAB, Maple, Mathematica, LaTeX
+
+
+
+
+
+
+Trending
+
+
+
+
+Featured Threads
+
+
+
+
+
+
+
+
+Log in
+
+
+Register
+
+
+
+
+
+What's new
+
+
+
+Search
+
+
+
+Search
+
+
+
+
+Everywhere
+Threads
+This forum
+This thread
+
+
+
+
+Search titles only
+
+
+
+
+
+
+By:
+
+
+
+
+
+Search
+Advanced search…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Math
+
+
+
+
+Calculus
+
+
+
+
+Differential Equations
+
+
+
+
+Topology and Analysis
+
+
+
+
+Linear and Abstract Algebra
+
+
+
+
+Differential Geometry
+
+
+
+
+Set Theory, Logic, Probability, Statistics
+
+
+
+
+MATLAB, Maple, Mathematica, LaTeX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Log in
+
+
+
+
+
+Register
+
+
+
+
+Navigation
+
+More options
+
+Contact us
+
+
+Close Menu
+
+
+
+
+
+
+JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+
+
+
+
+
+
+
+Forums
+
+
+
+
+
+Mathematics
+
+
+
+
+
+Differential Geometry
+
+
+
+
+
+
+
+
+Differential Topology: Essential Concepts Explained
+
+
+
+
+
+
+
+
+
+Thread starter
+psholtz
+
+
+
+Start date
+Aug 20, 2009
+
+
+
+
+
+Tags
+
+
+
+
+Differential
+
+
+Differential topology
+
+
+Topology
+
+
+
+
+
+
+
+
+
+In summary, the conversation discusses the relationship between differential equations and topology/geometry. Specifically, it examines Laplace's equation and how its solutions differ depending on whether the problem is solved in a topologically closed or open region. The conversation also touches on the use of differential geometry and topology in solving differential equations and its applications in other areas of mathematics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 20, 2009
+
+
+
+
+
+
+
+
+
+#1
+
+
+
+
+
+
+
+
+psholtz
+
+
+
+
+
+136
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I have what's certainly a totally "newbie" question, but it's something I've been wondering about..
+
+Suppose we have a simple boundary value problem from electrostatics. For instance, suppose we have a conducting sphere held at some potential, [tex]\phi = \phi_0[/tex]. Because the sphere is conducting, and b/c we are dealing w/ the static case, take the entire surface of the sphere to be at the same potential ([tex]\phi_0[/tex] in this case).
+
+We now wish to solve Laplace's Equation, [tex]\nabla^2 \phi = 0[/tex]
+
+Note first that the surface of the sphere divides [tex]R^3[/tex] into two "topologically distinct" spaces: first there is the topologically "closed" region, which is the interior of the sphere, and second there is the toplogically "open" region, which is everything external to the sphere. 
+
+Note also the solutions to Laplace's equation (which in both cases are trivial) take two distinct forms in each topological region: in the interior (i.e., closed) region, the solution is to take the potential to be a constant, specifically [tex]\phi = \phi_0[/tex], which in the exterior (i.e., open) region, the solution is to take the potential as a 1/r function, specifically [tex]\phi = Q/r[/tex] for a constant Q.
+
+My point in going through this relatively simple example is simply this: here we have the same differential equation (Laplace's equation), subject to the same boundary condition (potential constant on the surface of a sphere), and yet we derive two distinct solutions to the DE depending on whether we are solving the system in a topologically closed region, versus a topologically open region. 
+
+Is this the essence of what differential topology, or differential geometry, concern themselves w/?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics news on Phys.org
+
+New technique could help build quantum computers of the future
+A strikingly natural coincidence: Researchers find heating gallium nitride and magnesium forms a superlattice
+New plasma escape mechanism could protect fusion vessels from excessive heat
+
+
+
+
+
+
+
+
+
+Aug 24, 2009
+
+
+
+
+
+
+
+
+
+#2
+
+
+
+
+
+
+
+
+
+Tac-Tics
+
+
+
+
+816
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+It doesn't matter if you consider the sphere itself to be part of the interior or the exterior (or you ignore it all together). So, the interior isn't necessarily closed and the exterior isn't necessarily open. The reason for the behaviors of the potential don't depend on the openness or closedness of the space.
+
+Differential geometry is something pretty different. It is the study of differentiable manifolds. Manifolds are topological spaces which are locally homeomorphic to Euclidean space. The best example is the surface of the Earth which "looks" 2 dimensional, even though it's not planar. 
+
+If you have a well-behaved manifold, you can do calculus on it. We call these differentiable manifolds. With these manifolds, we can study derivatives. On a sphere, we can pictorial represent derivatives as vectors which are tangent to it.
+
+If you have a well-behaved differential manifold, you can also take the dot product of vectors. We call these Riemannian manifolds. Riemnnian manifolds have a way to measure lengths of paths on the manifold, as well as a way to define "straight lines" (relative to the manifold) called geodesics.
+
+If we loosen up on what "dot product" means, we end up with pseudo Riemannian manifolds, which are the basis for general relativity in physics.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 24, 2009
+
+
+
+
+
+
+
+
+
+#3
+
+
+
+
+
+
+
+
+
+wofsy
+
+
+
+
+726
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your question is really good. The topology of a domain has a strong effect upon solution of PDE's such as Laplace's equation. And I think it is true that early ideas in topology came in part from attempts to solve Laplace's equation, e.g. the idea of Riemann surfaces. 
+
+In modern times the study of PDE's on manifolds has blossomed and has led to many profound results such as the solution of the Poincare conjecture in dimension 3. Since the Laplacian requires a metric in order to be deinfed - i.e. its definition requires a notion of shape - studies of solution of the Laplacian and the Heat Equation require differential geometry and lead to many geometric theorems. One can for instance prove the Hodge Theorem and the Gauss Bonnet Theorem by studying solutions of the heat equation on manifolds.
+
+A famous illustrative paper is Marc kac's "Can You hear the Shapre of a Drum?" which studies whether the spectrum of the Laplacian on a two dimensional bounded domain determines the domain's topology.
+
+Differential topology on the other hand does not require a metric - and thus is not a natural arena for studying the Laplace equation and its relatives. On the other hand one can study the global behavior of solutions of ODE's and arrive at theorems that do not depend on the particular equation. This area of mathematics was initiated by Poincare at the turn of the 20'th century and has many offshoots in modern times e.g. the study of mathematical chaos
+and the proof of the Poincare conjecture in dimensions 5 and above.
+
+The connection between differential equations and topology and geometry is huge. It is an exaggeration but still apt to say that most mathematics was developed to solve differential equations.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 25, 2009
+
+
+
+
+
+
+
+
+
+#4
+
+
+
+
+
+
+
+
+
+psholtz
+
+
+
+
+
+136
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tac-Tics said:
+
+
+
+It doesn't matter if you consider the sphere itself to be part of the interior or the exterior (or you ignore it all together). So, the interior isn't necessarily closed and the exterior isn't necessarily open. The reason for the behaviors of the potential don't depend on the openness or closedness of the space.
+
+
+Perhaps, but the interior of the sphere is bounded, and the space exterior to the sphere is unbounded, correct?
+
+
+
+
+Differential geometry is something pretty different. It is the study of differentiable manifolds. Manifolds are topological spaces which are locally homeomorphic to Euclidean space. The best example is the surface of the Earth which "looks" 2 dimensional, even though it's not planar.
+
+
+So a differential manifold is a vector space of at most (n-1) dimensions, embeded in a vector space of n (or more) dimensions?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 25, 2009
+
+
+
+
+
+
+
+
+
+#5
+
+
+
+
+
+
+
+
+
+Tac-Tics
+
+
+
+
+816
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+psholtz said:
+
+
+
+Perhaps, but the interior of the sphere is bounded, and the space exterior to the sphere is unbounded, correct?
+
+
+
+That much is true. What effect that has on possible scalar functions, I don't know.
+
+
+
+
+
+So a differential manifold is a vector space of at most (n-1) dimensions, embeded in a vector space of n (or more) dimensions?
+
+
+
+That's the intuition. But there is a little more to the actual definition.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related to Differential Topology: Essential Concepts Explained
+
+1. What is Differential Topology?Differential Topology is a branch of mathematics that deals with the study of smooth manifolds and maps between them. It focuses on understanding the global properties of differentiable functions and their behavior under continuous transformations.2. How is Differential Topology different from Algebraic Topology?While Algebraic Topology studies topological spaces by assigning algebraic structures to them, Differential Topology uses tools from calculus and differential equations to analyze smooth manifolds and their functions. In other words, Differential Topology focuses on the local behavior of smooth functions, while Algebraic Topology looks at the global properties of topological spaces.3. What are some essential concepts in Differential Topology?Some essential concepts in Differential Topology include manifolds, smooth maps, tangent spaces, vector fields, and differential forms. These concepts help to define and understand the properties of differentiable functions and their behavior on smooth manifolds.4. What are some real-world applications of Differential Topology?Differential Topology has various applications in fields such as physics, engineering, and computer science. It is used to study the behavior of physical systems, analyze complex data sets, and develop efficient algorithms for optimization problems.5. How can one learn more about Differential Topology?One can learn more about Differential Topology by studying textbooks, attending lectures and seminars, and actively participating in research projects. It is also helpful to have a strong foundation in calculus, linear algebra, and topology before delving into the subject.
+
+
+Similar threads
+
+
+
+
+
+I
+Definition of manifolds with boundary
+
+
+
+May 3, 2024
+Differential Geometry
+
+
+
+
+
+
+
+Replies
+3
+
+
+Views
+279
+
+
+
+
+
+
+I
+##SU(2)## homeomorphic with ##\mathbb S^3##
+
+
+
+Jan 27, 2024
+Topology and Analysis
+
+
+2
+
+
+
+
+
+
+
+Replies
+61
+
+
+Views
+1K
+
+
+
+
+
+
+A
+On the relationship between Chern number and zeros of a section
+
+
+
+Apr 3, 2021
+Differential Geometry
+
+
+
+
+
+
+
+Replies
+3
+
+
+Views
+2K
+
+
+
+
+
+
+I
+Question regarding Laplace's Equation for regions with charges
+
+
+
+Sep 21, 2022
+Electromagnetism
+
+
+
+
+
+
+
+Replies
+11
+
+
+Views
+912
+
+
+
+
+
+
+I
+Showing that the image of an arbitrary patch is an open set
+
+
+
+Sep 12, 2018
+Differential Geometry
+
+
+
+
+
+
+
+Replies
+7
+
+
+Views
+2K
+
+
+
+
+
+
+B
+Topology on flat space when a manifold is locally homeomorphic to it
+
+
+
+Jun 30, 2020
+Special and General Relativity
+
+
+
+
+
+
+
+Replies
+25
+
+
+Views
+2K
+
+
+
+
+
+
+I
+Gauge in the Aharonov Bohm effect
+
+
+
+Oct 6, 2021
+Quantum Physics
+
+
+
+
+
+
+
+Replies
+4
+
+
+Views
+1K
+
+
+
+
+
+
+A
+Finding Minimal Mean Distance Curves on the Unit Sphere
+
+
+
+Apr 14, 2023
+General Math
+
+
+
+
+
+
+
+Replies
+2
+
+
+Views
+1K
+
+
+
+
+
+
+Solution for differential equation
+
+
+
+Feb 12, 2023
+Calculus and Beyond Homework Help
+
+
+
+
+
+
+
+Replies
+2
+
+
+Views
+703
+
+
+
+
+
+
+Confused about the nature of Laplace vs Poisson equation in BVP
+
+
+
+Jan 9, 2022
+Advanced Physics Homework Help
+
+
+
+
+
+
+
+Replies
+11
+
+
+Views
+2K
+
+
+
+
+
+
+
+
+
+Share:
+
+
+
+Share
+
+
+
+
+
+
+
+
+Forums
+
+
+
+
+
+Mathematics
+
+
+
+
+
+Differential Geometry
+
+
+
+
+
+
+
+
+
+
+
+Hot Threads
+
+
+
+
+
+A 3-connection on nontrivial topological 3-manifold
+
+
+
+
+
+
+
+
+I Is Diagrammatic Tensor Notation Widely Used in Mathematics?
+
+
+
+
+
+
+
+
+I 3-parameter group of symmetries on the plane
+
+
+
+
+
+
+
+
+I Identification tangent bundle over affine space with product bundle
+
+
+
+
+
+
+
+
+I Definition of tangent vector on smooth manifold
+
+
+
+
+
+
+
+
+
+Recent Insights
+
+
+
+
+
+Insights Views On Complex Numbers
+
+
+
+
+
+
+
+
+Insights Addition of Velocities (Velocity Composition) in Special Relativity
+
+
+
+
+
+
+
+
+Insights Schrödinger’s Cat and the Qbit
+
+
+
+
+
+
+
+
+Insights The Slinky Drop Experiment Analysed
+
+
+
+
+
+
+
+
+Insights How to Solve a Multi-Atwood Machine Assembly
+
+
+
+
+
+
+
+
+Insights The Lambert W Function in Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Change width
+
+
+
+
+
+Contact
+About
+Terms
+Privacy
+Help
+RSS
+
+
+
+
+
+
+
+
+
+2024 © Physics Forums, All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+Back
+
+
+Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

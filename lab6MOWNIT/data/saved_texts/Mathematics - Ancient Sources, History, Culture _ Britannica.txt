@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics - Ancient Sources, History, Culture | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				mathematics
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionAncient mathematical sourcesMathematics in ancient MesopotamiaThe numeral system and arithmetic operationsGeometric and algebraic problemsMathematical astronomyMathematics in ancient EgyptThe numeral system and arithmetic operationsGeometryAssessment of Egyptian mathematicsGreek mathematicsThe development of pure mathematicsThe pre-Euclidean periodThe ElementsThe three classical problemsGeometry in the 3rd century bceArchimedesApolloniusApplied geometryLater trends in geometry and arithmeticGreek trigonometry and mensurationNumber theorySurvival and influence of Greek mathematicsMathematics in the Islamic world (8th–15th century)OriginsMathematics in the 9th centuryMathematics in the 10th centuryOmar KhayyamIslamic mathematics to the 15th centuryEuropean mathematics during the Middle Ages and RenaissanceThe transmission of Greek and Arabic learningThe universitiesThe RenaissanceMathematics in the 17th and 18th centuriesThe 17th centuryInstitutional backgroundNumerical calculationAnalytic geometryThe calculusThe precalculus periodNewton and LeibnizThe 18th centuryInstitutional backgroundAnalysis and mechanicsHistory of analysisOther developmentsTheory of equationsFoundations of geometryMathematics in the 19th centuryProjective geometryMaking the calculus rigorousFourier seriesElliptic functionsThe theory of numbersThe theory of equationsGaussNon-Euclidean geometryRiemannRiemann’s influenceDifferential equationsLinear algebraThe foundations of geometryThe foundations of mathematicsMathematics in the 20th and 21st centuriesCantorMathematical physicsAlgebraic topologyDevelopments in pure mathematicsMathematical physics and the theory of groupsProbabilistic mathematics
+
+				References & Edit History
+
+				Quick Facts & Related Topics
+
+
+
+				Images & Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+mathematics summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+
+
+
+
+Fun Facts of Measurement & Math
+
+
+
+
+
+
+
+
+
+Define It: Math Terms
+
+
+
+
+
+                        Read Next
+                    
+
+
+
+
+
+
+
+Is Zero an Even or an Odd Number?
+
+
+
+
+
+
+
+
+
+Unusual Counting Systems
+
+
+
+
+
+
+
+
+
+How Fast Is the Universe Expanding?
+
+
+
+
+
+
+
+
+
+5 Incredible Women in STEM You Need to Know
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+Why Do Bananas Turn Brown?
+
+
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+Why Was Nazi Germany Called the Third Reich?
+
+
+
+
+
+
+
+
+
+Inventors and Inventions of the Industrial Revolution
+
+
+
+
+
+
+
+
+
+Does Ball Lightning Exist?
+
+
+
+
+
+
+
+
+
+Titanosaurs: 8 of the World's Biggest Dinosaurs
+
+
+
+
+
+
+
+
+
+6 of the First Women to Become Heads of State
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+ Ancient mathematical sources It is important to be aware of the character of the sources for the study of the history of mathematics. The history of Mesopotamian and Egyptian mathematics is based on the extant original documents written by scribes. Although in the case of Egypt these documents are few, they are all of a type and leave little doubt that Egyptian mathematics was, on the whole, elementary and profoundly practical in its orientation. For Mesopotamian mathematics, on the other hand, there are a large number of clay tablets, which reveal mathematical achievements of a much higher order than those of the Egyptians. The tablets indicate that the Mesopotamians had a great deal of remarkable mathematical knowledge, although they offer no evidence that this knowledge was organized into a deductive system. Future research may reveal more about the early development of mathematics in Mesopotamia or about its influence on Greek mathematics, but it seems likely that this picture of Mesopotamian mathematics will stand. From the period before Alexander the Great, no Greek mathematical documents have been preserved except for fragmentary paraphrases, and, even for the subsequent period, it is well to remember that the oldest copies of Euclid’s Elements are in Byzantine manuscripts dating from the 10th century ce. This stands in complete contrast to the situation described above for Egyptian and Babylonian documents. Although, in general outline, the present account of Greek mathematics is secure, in such important matters as the origin of the axiomatic method, the pre-Euclidean theory of ratios, and the discovery of the conic sections, historians have given competing accounts based on fragmentary texts, quotations of early writings culled from nonmathematical sources, and a considerable amount of conjecture. Many important treatises from the early period of Islamic mathematics have not survived or have survived only in Latin translations, so that there are still many unanswered questions about the relationship between early Islamic mathematics and the mathematics of Greece and India. In addition, the amount of surviving material from later centuries is so large in comparison with that which has been studied that it is not yet possible to offer any sure judgment of what later Islamic mathematics did not contain, and therefore it is not yet possible to evaluate with any assurance what was original in European mathematics from the 11th to the 15th century. In modern times the invention of printing has largely solved the problem of obtaining secure texts and has allowed historians of mathematics to concentrate their editorial efforts on the correspondence or the unpublished works of mathematicians. However, the exponential growth of mathematics means that, for the period from the 19th century on, historians are able to treat only the major figures in any detail. In addition, there is, as the period gets nearer the present, the problem of perspective. Mathematics, like any other human activity, has its fashions, and the nearer one is to a given period, the more likely these fashions will look like the wave of the future. For this reason, the present article makes no attempt to assess the most recent developments in the subject. John L. Berggren   Mathematics in ancient Mesopotamia Until the 1920s it was commonly supposed that mathematics had its birth among the ancient Greeks. What was known of earlier traditions, such as the Egyptian as represented by the Rhind papyrus (edited for the first time only in 1877), offered at best a meagre precedent. This impression gave way to a very different view as historians succeeded in deciphering and interpreting the technical materials from ancient Mesopotamia. Owing to the durability of the Mesopotamian scribes’ clay tablets, the surviving evidence of this culture is substantial. Existing specimens of mathematics represent all the major eras—the Sumerian kingdoms of the 3rd millennium bce, the Akkadian and Babylonian regimes (2nd millennium), and the empires of the Assyrians (early 1st millennium), Persians (6th through 4th century bce), and Greeks (3rd century bce to 1st century ce). The level of competence was already high as early as the Old Babylonian dynasty, the time of the lawgiver-king Hammurabi (c. 18th century bce), but after that there were few notable advances. The application of mathematics to astronomy, however, flourished during the Persian and Seleucid (Greek) periods.  The numeral system and arithmetic operations Unlike the Egyptians, the mathematicians of the Old Babylonian period went far beyond the immediate challenges of their official accounting duties. For example, they introduced a versatile numeral system, which, like the modern system, exploited the notion of place value, and they developed computational methods that took advantage of this means of expressing numbers; they solved linear and quadratic problems by methods much like those now used in algebra; their success with the study of what are now called Pythagorean number triples was a remarkable feat in number theory. The scribes who made such discoveries must have believed mathematics to be worthy of study in its own right, not just as a practical tool. The older Sumerian system of numerals followed an additive decimal (base-10) principle similar to that of the Egyptians. But the Old Babylonian system converted this into a place-value system with the base of 60 (sexagesimal). The reasons for the choice of 60 are obscure, but one good mathematical reason might have been the existence of so many divisors (2, 3, 4, and 5, and some multiples) of the base, which would have greatly facilitated the operation of division. For numbers from 1 to 59, the symbols  for 1 and  for 10 were combined in the simple additive manner (e.g.,      represented 32). But to express larger values, the Babylonians applied the concept of place value. For example, 60 was written as , 70 as  , 80 as   , and so on. In fact,  could represent any power of 60. The context determined which power was intended. By the 3rd century bce, the Babylonians appear to have developed a placeholder symbol that functioned as a zero, but its precise meaning and use is still uncertain. Furthermore, they had no mark to separate numbers into integral and fractional parts (as with the modern decimal point). Thus, the three-place numeral 3 7 30 could represent 31/8 (i.e., 3 + 7/60 + 30/602), 1871/2 (i.e., 3 × 60 + 7 + 30/60), 11,250 (i.e., 3 × 602 + 7 × 60 + 30), or a multiple of these numbers by any power of 60. The four arithmetic operations were performed in the same way as in the modern decimal system, except that carrying occurred whenever a sum reached 60 rather than 10. Multiplication was facilitated by means of tables; one typical tablet lists the multiples of a number by 1, 2, 3,…, 19, 20, 30, 40, and 50. To multiply two numbers several places long, the scribe first broke the problem down into several multiplications, each by a one-place number, and then looked up the value of each product in the appropriate tables. He found the answer to the problem by adding up these intermediate results. These tables also assisted in division, for the values that head them were all reciprocals of regular numbers. Regular numbers are those whose prime factors divide the base; the reciprocals of such numbers thus have only a finite number of places (by contrast, the reciprocals of nonregular numbers produce an infinitely repeating numeral). In base 10, for example, only numbers with factors of 2 and 5 (e.g., 8 or 50) are regular, and the reciprocals (1/8 = 0.125, 1/50 = 0.02) have finite expressions; but the reciprocals of other numbers (such as 3 and 7) repeat infinitely  and , respectively, where the bar indicates the digits that continually repeat). In base 60, only numbers with factors of 2, 3, and 5 are regular; for example, 6 and 54 are regular, so that their reciprocals (10 and 1 6 40) are finite. The entries in the multiplication table for 1 6 40 are thus simultaneously multiples of its reciprocal 1/54. To divide a number by any regular number, then, one can consult the table of multiples for its reciprocal. Babylonian mathematical tabletAn interesting tablet in the collection of Yale University shows a square with its diagonals. On one side is written “30,” under one diagonal “42 25 35,” and right along the same diagonal “1 24 51 10” (i.e., 1 + 24/60 + 51/602 + 10/603). This third number is the correct value of Square root of√2 to four sexagesimal places (equivalent in the decimal system to 1.414213…, which is too low by only 1 in the seventh place), while the second number is the product of the third number and the first and so gives the length of the diagonal when the side is 30. The scribe thus appears to have known an equivalent of the familiar long method of finding square roots. An additional element of sophistication is that by choosing 30 (that is, 1/2) for the side, the scribe obtained as the diagonal the reciprocal of the value of Square root of√2 (since Square root of√2/2 = 1/Square root of√2), a result useful for purposes of division.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

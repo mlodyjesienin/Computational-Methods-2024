@@ -1,0 +1,2731 @@
+
+
+
+
+Chaos theory - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Introduction
+
+
+
+
+
+
+
+
+2
+Chaotic dynamics
+
+
+
+
+Toggle Chaotic dynamics subsection
+
+
+
+
+
+2.1
+Sensitivity to initial conditions
+
+
+
+
+
+
+
+
+2.2
+Non-periodicity
+
+
+
+
+
+
+
+
+2.3
+Topological mixing
+
+
+
+
+
+
+
+
+2.4
+Topological transitivity
+
+
+
+
+
+
+
+
+2.5
+Density of periodic orbits
+
+
+
+
+
+
+
+
+2.6
+Strange attractors
+
+
+
+
+
+
+
+
+2.7
+Coexisting attractors
+
+
+
+
+
+
+
+
+2.8
+Minimum complexity of a chaotic system
+
+
+
+
+
+
+
+
+2.9
+Infinite dimensional maps
+
+
+
+
+
+
+
+
+2.10
+Jerk systems
+
+
+
+
+
+
+
+
+
+
+3
+Spontaneous order
+
+
+
+
+
+
+
+
+4
+History
+
+
+
+
+
+
+
+
+5
+Lorenz's pioneering contributions to chaotic modeling
+
+
+
+
+
+
+
+
+6
+A popular but inaccurate analogy for chaos
+
+
+
+
+
+
+
+
+7
+Applications
+
+
+
+
+Toggle Applications subsection
+
+
+
+
+
+7.1
+Cryptography
+
+
+
+
+
+
+
+
+7.2
+Robotics
+
+
+
+
+
+
+
+
+7.3
+Biology
+
+
+
+
+
+
+
+
+7.4
+Economics
+
+
+
+
+
+
+
+
+7.5
+AI-Extended Modeling Framework
+
+
+
+
+
+
+
+
+7.6
+Other areas
+
+
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+10
+Further reading
+
+
+
+
+Toggle Further reading subsection
+
+
+
+
+
+10.1
+Articles
+
+
+
+
+
+
+
+
+10.2
+Textbooks
+
+
+
+
+
+
+
+
+10.3
+Semitechnical and popular works
+
+
+
+
+
+
+
+
+
+
+11
+External links
+
+
+
+
+
+
+
+
+12
+Copyright note
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Chaos theory
+
+
+
+67 languages
+
+
+
+
+AfrikaansالعربيةAsturianuAzərbaycancaবাংলাБашҡортсаБългарскиCatalàЧӑвашлаČeštinaCymraegDanskالدارجةDeitschDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego贛語한국어हिन्दीHrvatskiBahasa IndonesiaItalianoעבריתKapampanganLietuviųMagyarമലയാളംमराठीBahasa MelayuМонголNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀپنجابیPatoisPolskiPortuguêsRomânăРусскийSicilianuSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaதமிழ்ไทยTürkçeУкраїнськаاردوTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikiquote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Field of mathematics and science based on non-linear systems and initial conditions
+For other uses, see Chaos theory (disambiguation).
+A plot of the Lorenz attractor for values r = 28, σ = 10, b = 8/3
+An animation of a double-rod pendulum at an intermediate energy showing chaotic behavior. Starting the pendulum from a slightly different initial condition would result in a vastly different trajectory. The double-rod pendulum is one of the simplest dynamical systems with chaotic solutions.
+Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. It focuses on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions. These were once thought to have completely random states of disorder and irregularities.[1] Chaos theory states that within the apparent randomness of chaotic complex systems, there are underlying patterns, interconnection, constant feedback loops, repetition, self-similarity, fractals and self-organization.[2] The butterfly effect, an underlying principle of chaos, describes how a small change in one state of a deterministic nonlinear system can result in large differences in a later state (meaning there is sensitive dependence on initial conditions).[3] A metaphor for this behavior is that a butterfly flapping its wings in Brazil can cause a tornado in Texas.[4][5][6]
+Small differences in initial conditions, such as those due to errors in measurements or due to rounding errors in numerical computation, can yield widely diverging outcomes for such dynamical systems, rendering long-term prediction of their behavior impossible in general.[7] This can happen even though these systems are deterministic, meaning that their future behavior follows a unique evolution[8] and is fully determined by their initial conditions, with no random elements involved.[9] In other words, the deterministic nature of these systems does not make them predictable.[10][11] This behavior is known as deterministic chaos, or simply chaos. The theory was summarized by Edward Lorenz as:[12]
+
+Chaos: When the present determines the future but the approximate present does not approximately determine the future.
+Chaotic behavior exists in many natural systems, including fluid flow, heartbeat irregularities, weather and climate.[13][14][8] It also occurs spontaneously in some systems with artificial components, such as road traffic.[2] This behavior can be studied through the analysis of a chaotic mathematical model or through analytical techniques such as recurrence plots and Poincaré maps. Chaos theory has applications in a variety of disciplines, including meteorology,[8] anthropology,[15] sociology, environmental science, computer science, engineering, economics, ecology, and pandemic crisis management.[16][17] The theory formed the basis for such fields of study as complex dynamical systems, edge of chaos theory and self-assembly processes.
+
+
+Introduction[edit]
+Chaos theory concerns deterministic systems whose behavior can, in principle, be predicted. Chaotic systems are predictable for a while and then 'appear' to become random. The amount of time for which the behavior of a chaotic system can be effectively predicted depends on three things: how much uncertainty can be tolerated in the forecast, how accurately its current state can be measured, and a time scale depending on the dynamics of the system, called the Lyapunov time. Some examples of Lyapunov times are: chaotic electrical circuits, about 1 millisecond; weather systems, a few days (unproven); the inner solar system, 4 to 5 million years.[18] In chaotic systems, the uncertainty in a forecast increases exponentially with elapsed time. Hence, mathematically, doubling the forecast time more than squares the proportional uncertainty in the forecast. This means, in practice, a meaningful prediction cannot be made over an interval of more than two or three times the Lyapunov time. When meaningful predictions cannot be made, the system appears random.[19]
+Chaos theory is a method of qualitative and quantitative analysis to investigate the behavior of dynamic systems that cannot be explained and predicted by single data relationships, but must be explained and predicted by whole, continuous data relationships.
+
+Chaotic dynamics[edit]
+The map defined by x → 4 x (1 – x) and y → (x + y) mod 1 displays sensitivity to initial x positions. Here, two series of x and y values diverge markedly over time from a tiny initial difference.
+In common usage, "chaos" means "a state of disorder".[20][21] However, in chaos theory, the term is defined more precisely. Although no universally accepted mathematical definition of chaos exists, a commonly used definition, originally formulated by Robert L. Devaney, says that to classify a dynamical system as chaotic, it must have these properties:[22]
+
+it must be sensitive to initial conditions,
+it must be topologically transitive,
+it must have dense periodic orbits.
+In some cases, the last two properties above have been shown to actually imply sensitivity to initial conditions.[23][24] In the discrete-time case, this is true for all continuous maps on metric spaces.[25] In these cases, while it is often the most practically significant property, "sensitivity to initial conditions" need not be stated in the definition.
+If attention is restricted to intervals, the second property implies the other two.[26] An alternative and a generally weaker definition of chaos uses only the first two properties in the above list.[27]
+
+Sensitivity to initial conditions[edit]
+Main article: Butterfly effect
+Lorenz equations used to generate plots for the y variable. The initial conditions for x and z were kept the same but those for y were changed between 1.001, 1.0001 and 1.00001. The values for 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+, 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+ and 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ were 45.91, 16 and 4  respectively. As can be seen from the graph, even the slightest difference in initial values causes significant changes after about 12 seconds of evolution in the three cases. This is an example of sensitive dependence on initial conditions.
+Sensitivity to initial conditions means that each point in a chaotic system is arbitrarily closely approximated by other points that have significantly different future paths or trajectories. Thus, an arbitrarily small change or perturbation of the current trajectory may lead to significantly different future behavior.[2]
+Sensitivity to initial conditions is popularly known as the "butterfly effect", so-called because of the title of a paper given by Edward Lorenz in 1972 to the American Association for the Advancement of Science in Washington, D.C., entitled Predictability: Does the Flap of a Butterfly's Wings in Brazil set off a Tornado in Texas?.[28] The flapping wing represents a small change in the initial condition of the system, which causes a chain of events that prevents the predictability of large-scale phenomena. Had the butterfly not flapped its wings, the trajectory of the overall system could have been vastly different.
+As suggested in Lorenz's book entitled The Essence of Chaos, published in 1993,[5] "sensitive dependence can serve as an acceptable definition of chaos". In the same book, Lorenz defined the butterfly effect as: "The phenomenon that a small alteration in the state of a dynamical system will cause subsequent states to differ greatly from the states that would have followed without the alteration." The above definition is consistent with the sensitive dependence of solutions on initial conditions (SDIC). An idealized skiing model was developed to illustrate the sensitivity of time-varying paths to initial positions.[5] A predictability horizon can be determined before the onset of SDIC (i.e., prior to significant separations of initial nearby trajectories).[29]
+A consequence of sensitivity to initial conditions is that if we start with a limited amount of information about the system (as is usually the case in practice), then beyond a certain time, the system would no longer be predictable. This is most prevalent in the case of weather, which is generally predictable only about a week ahead.[30] This does not mean that one cannot assert anything about events far in the future—only that some restrictions on the system are present. For example, we know that the temperature of the surface of the earth will not naturally reach 100 °C (212 °F) or fall below −130 °C (−202 °F) on earth (during the current geologic era), but we cannot predict exactly which day will have the hottest temperature of the year.
+In more mathematical terms, the Lyapunov exponent measures the sensitivity to initial conditions, in the form of rate of exponential divergence from the perturbed initial conditions.[31] More specifically, given two starting trajectories in the phase space that are infinitesimally close, with initial separation 
+
+
+
+δ
+
+
+Z
+
+
+0
+
+
+
+
+{\displaystyle \delta \mathbf {Z} _{0}}
+
+, the two trajectories end up diverging at a rate given by
+
+
+
+
+
+
+|
+
+δ
+
+Z
+
+(
+t
+)
+
+|
+
+≈
+
+e
+
+λ
+t
+
+
+
+|
+
+δ
+
+
+Z
+
+
+0
+
+
+
+|
+
+,
+
+
+{\displaystyle |\delta \mathbf {Z} (t)|\approx e^{\lambda t}|\delta \mathbf {Z} _{0}|,}
+
+
+where 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ is the time and 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ is the Lyapunov exponent. The rate of separation depends on the orientation of the initial separation vector, so a whole spectrum of Lyapunov exponents can exist. The number of Lyapunov exponents is equal to the number of dimensions of the phase space, though it is common to just refer to the largest one. For example, the maximal Lyapunov exponent (MLE) is most often used, because it determines the overall predictability of the system. A positive MLE is usually taken as an indication that the system is chaotic.[8]
+In addition to the above property, other properties related to sensitivity of initial conditions also exist. These include, for example, measure-theoretical mixing (as discussed in ergodic theory) and properties of a K-system.[11]
+
+Non-periodicity[edit]
+A chaotic system may have sequences of values for the evolving variable that exactly repeat themselves, giving periodic behavior starting from any point in that sequence. However, such periodic sequences are repelling rather than attracting, meaning that if the evolving variable is outside the sequence, however close, it will not enter the sequence and in fact, will diverge from it. Thus for almost all initial conditions, the variable evolves chaotically with non-periodic behavior.
+
+Topological mixing[edit]
+Six iterations of a set of states 
+
+
+
+[
+x
+,
+y
+]
+
+
+{\displaystyle [x,y]}
+
+ passed through the logistic map. The first iterate (blue) is the initial condition, which essentially forms a circle. Animation shows the first to the sixth iteration of the circular initial conditions. It can be seen that mixing occurs as we progress in iterations. The sixth iteration shows that the points are almost completely scattered in the phase space. Had we progressed further in iterations, the mixing would have been homogeneous and irreversible. The logistic map has equation 
+
+
+
+
+x
+
+k
++
+1
+
+
+=
+4
+
+x
+
+k
+
+
+(
+1
+−
+
+x
+
+k
+
+
+)
+
+
+{\displaystyle x_{k+1}=4x_{k}(1-x_{k})}
+
+. To expand the state-space of the logistic map into two dimensions, a second state, 
+
+
+
+y
+
+
+{\displaystyle y}
+
+, was created as 
+
+
+
+
+y
+
+k
++
+1
+
+
+=
+
+x
+
+k
+
+
++
+
+y
+
+k
+
+
+
+
+{\displaystyle y_{k+1}=x_{k}+y_{k}}
+
+, if 
+
+
+
+
+x
+
+k
+
+
++
+
+y
+
+k
+
+
+<
+1
+
+
+{\displaystyle x_{k}+y_{k}<1}
+
+ and 
+
+
+
+
+y
+
+k
++
+1
+
+
+=
+
+x
+
+k
+
+
++
+
+y
+
+k
+
+
+−
+1
+
+
+{\displaystyle y_{k+1}=x_{k}+y_{k}-1}
+
+ otherwise.
+The map defined by x → 4 x (1 – x) and y → (x + y) mod 1 also displays topological mixing. Here, the blue region is transformed by the dynamics first to the purple region, then to the pink and red regions, and eventually to a cloud of vertical lines scattered across the space.
+Topological mixing (or the weaker condition of topological transitivity) means that the system evolves over time so that any given region or open set of its phase space eventually overlaps with any other given region. This mathematical concept of "mixing" corresponds to the standard intuition, and the mixing of colored dyes or fluids is an example of a chaotic system.
+Topological mixing is often omitted from popular accounts of chaos, which equate chaos with only sensitivity to initial conditions. However, sensitive dependence on initial conditions alone does not give chaos. For example, consider the simple dynamical system produced by repeatedly doubling an initial value. This system has sensitive dependence on initial conditions everywhere, since any pair of nearby points eventually becomes widely separated. However, this example has no topological mixing, and therefore has no chaos. Indeed, it has extremely simple behavior: all points except 0 tend to positive or negative infinity.
+
+Topological transitivity[edit]
+A map 
+
+
+
+f
+:
+X
+→
+X
+
+
+{\displaystyle f:X\to X}
+
+ is said to be topologically transitive if for any pair of non-empty open sets 
+
+
+
+U
+,
+V
+⊂
+X
+
+
+{\displaystyle U,V\subset X}
+
+, there exists 
+
+
+
+k
+>
+0
+
+
+{\displaystyle k>0}
+
+ such that 
+
+
+
+
+f
+
+k
+
+
+(
+U
+)
+∩
+V
+≠
+∅
+
+
+{\displaystyle f^{k}(U)\cap V\neq \emptyset }
+
+. Topological transitivity is a weaker version of topological mixing. Intuitively, if a map is topologically transitive then given a point x and a region V, there exists a point y near x whose orbit passes through V. This implies that it is impossible to decompose the system into two open sets.[32]
+An important related theorem is the Birkhoff Transitivity Theorem. It is easy to see that the existence of a dense orbit implies topological transitivity. The Birkhoff Transitivity Theorem states that if X is a second countable, complete metric space, then topological transitivity implies the existence of a dense set of points in X that have dense orbits.[33]
+
+Density of periodic orbits[edit]
+For a chaotic system to have dense periodic orbits means that every point in the space is approached arbitrarily closely by periodic orbits.[32] The one-dimensional logistic map defined by x → 4 x (1 – x) is one of the simplest systems with density of periodic orbits. For example, 
+
+
+
+
+
+
+
+5
+−
+
+
+5
+
+
+
+8
+
+
+
+
+
+{\displaystyle {\tfrac {5-{\sqrt {5}}}{8}}}
+
+ → 
+
+
+
+
+
+
+
+5
++
+
+
+5
+
+
+
+8
+
+
+
+
+
+{\displaystyle {\tfrac {5+{\sqrt {5}}}{8}}}
+
+ → 
+
+
+
+
+
+
+
+5
+−
+
+
+5
+
+
+
+8
+
+
+
+
+
+{\displaystyle {\tfrac {5-{\sqrt {5}}}{8}}}
+
+ (or approximately 0.3454915 → 0.9045085 → 0.3454915) is an (unstable) orbit of period 2, and similar orbits exist for periods 4, 8, 16, etc. (indeed, for all the periods specified by Sharkovskii's theorem).[34]
+Sharkovskii's theorem is the basis of the Li and Yorke[35] (1975) proof that any continuous one-dimensional system that exhibits a regular cycle of period three will also display regular cycles of every other length, as well as completely chaotic orbits.
+
+Strange attractors[edit]
+The Lorenz attractor displays chaotic behavior. These two plots demonstrate sensitive dependence on initial conditions within the region of phase space occupied by the attractor.
+Some dynamical systems, like the one-dimensional logistic map defined by x → 4 x (1 – x), are chaotic everywhere, but in many cases chaotic behavior is found only in a subset of phase space. The cases of most interest arise when the chaotic behavior takes place on an attractor, since then a large set of initial conditions leads to orbits that converge to this chaotic region.[36]
+An easy way to visualize a chaotic attractor is to start with a point in the basin of attraction of the attractor, and then simply plot its subsequent orbit. Because of the topological transitivity condition, this is likely to produce a picture of the entire final attractor, and indeed both orbits shown in the figure on the right give a picture of the general shape of the Lorenz attractor. This attractor results from a simple three-dimensional model of the Lorenz weather system. The Lorenz attractor is perhaps one of the best-known chaotic system diagrams, probably because it is not only one of the first, but it is also one of the most complex, and as such gives rise to a very interesting pattern that, with a little imagination, looks like the wings of a butterfly.
+Unlike fixed-point attractors and limit cycles, the attractors that arise from chaotic systems, known as strange attractors, have great detail and complexity. Strange attractors occur in both continuous dynamical systems (such as the Lorenz system) and in some discrete systems (such as the Hénon map). Other discrete dynamical systems have a repelling structure called a Julia set, which forms at the boundary between basins of attraction of fixed points. Julia sets can be thought of as strange repellers. Both strange attractors and Julia sets typically have a fractal structure, and the fractal dimension can be calculated for them.
+
+Coexisting attractors[edit]
+Coexisting chaotic and non-chaotic attractors within the generalized Lorenz model.[37][38][39] There are 128 orbits in different colors, beginning with different initial conditions for dimensionless time between 0.625 and 5 and a heating parameter r = 680. Chaotic orbits recurrently return close to the saddle point at the origin. Nonchaotic orbits eventually approach one of two stable critical points, as shown with large blue dots. Chaotic and nonchaotic orbits occupy different regions of attraction within the phase space.
+In contrast to single type chaotic solutions, recent studies using Lorenz models [40][41] have emphasized the importance of considering various types of solutions. For example, coexisting chaotic and non-chaotic may appear within the same model (e.g., the double pendulum system) using the same modeling configurations but different initial conditions. The findings of attractor coexistence, obtained from classical and generalized Lorenz models,[37][38][39] suggested a revised view that "the entirety of weather possesses a dual nature of chaos and order with distinct predictability", in contrast to the conventional view of "weather is chaotic".
+
+Minimum complexity of a chaotic system[edit]
+Bifurcation diagram of the logistic map x → r x (1 – x). Each vertical slice shows the attractor for a specific value of r. The diagram displays period-doubling as r increases, eventually producing chaos. Darker points are visited more frequently.
+Discrete chaotic systems, such as the logistic map, can exhibit strange attractors whatever their  dimensionality. In contrast, for continuous dynamical systems, the Poincaré–Bendixson theorem shows that a strange attractor can only arise in three or more dimensions. Finite-dimensional linear systems are never chaotic; for a dynamical system to display chaotic behavior, it must be either nonlinear or infinite-dimensional.
+The Poincaré–Bendixson theorem states that a two-dimensional differential equation has very regular behavior. The Lorenz attractor discussed below is generated by a system of three differential equations such as:
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+x
+
+
+
+d
+
+t
+
+
+
+
+
+
+=
+σ
+y
+−
+σ
+x
+,
+
+
+
+
+
+
+
+
+d
+
+y
+
+
+
+d
+
+t
+
+
+
+
+
+
+=
+ρ
+x
+−
+x
+z
+−
+y
+,
+
+
+
+
+
+
+
+
+d
+
+z
+
+
+
+d
+
+t
+
+
+
+
+
+
+=
+x
+y
+−
+β
+z
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}{\frac {\mathrm {d} x}{\mathrm {d} t}}&=\sigma y-\sigma x,\\{\frac {\mathrm {d} y}{\mathrm {d} t}}&=\rho x-xz-y,\\{\frac {\mathrm {d} z}{\mathrm {d} t}}&=xy-\beta z.\end{aligned}}}
+
+
+where 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, 
+
+
+
+y
+
+
+{\displaystyle y}
+
+, and 
+
+
+
+z
+
+
+{\displaystyle z}
+
+ make up the system state, 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ is time, and 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+, 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+, 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ are the system parameters. Five of the terms on the right hand side are linear, while two are quadratic; a total of seven terms. Another well-known chaotic attractor is generated by the Rössler equations, which have only one nonlinear term out of seven. Sprott[42] found a three-dimensional system with just five terms, that had only one nonlinear term, which exhibits chaos for certain parameter values. Zhang and Heidel[43][44] showed that, at least for dissipative and conservative quadratic systems, three-dimensional quadratic systems with only three or four terms on the right-hand side cannot exhibit chaotic behavior. The reason is, simply put, that solutions to such systems are asymptotic to a two-dimensional surface and therefore solutions are well behaved.
+While the Poincaré–Bendixson theorem shows that a continuous dynamical system on the Euclidean plane cannot be chaotic, two-dimensional continuous systems with non-Euclidean geometry can still exhibit some chaotic properties.[45] Perhaps surprisingly, chaos may occur also in linear systems, provided they are infinite dimensional.[46] A theory of linear chaos is being developed in a branch of mathematical analysis known as functional analysis.
+The above set of three ordinary differential equations has been referred to as the three-dimensional Lorenz model.[47] Since 1963, higher-dimensional Lorenz models have been developed in numerous studies[48][49][37][38] for examining the impact of an increased degree of nonlinearity, as well as its collective effect with heating and dissipations, on solution stability.
+
+Infinite dimensional maps[edit]
+The straightforward generalization of coupled discrete maps[50] is based upon convolution integral which mediates interaction between spatially distributed maps:
+
+
+
+
+
+ψ
+
+n
++
+1
+
+
+(
+
+
+
+r
+→
+
+
+
+,
+t
+)
+=
+∫
+K
+(
+
+
+
+r
+→
+
+
+
+−
+
+
+
+
+r
+→
+
+
+
+
+,
+
+
+,
+t
+)
+f
+[
+
+ψ
+
+n
+
+
+(
+
+
+
+
+r
+→
+
+
+
+
+,
+
+
+,
+t
+)
+]
+d
+
+
+
+
+r
+→
+
+
+
+
+,
+
+
+
+
+{\displaystyle \psi _{n+1}({\vec {r}},t)=\int K({\vec {r}}-{\vec {r}}^{,},t)f[\psi _{n}({\vec {r}}^{,},t)]d{\vec {r}}^{,}}
+
+,
+where kernel 
+
+
+
+K
+(
+
+
+
+r
+→
+
+
+
+−
+
+
+
+
+r
+→
+
+
+
+
+,
+
+
+,
+t
+)
+
+
+{\displaystyle K({\vec {r}}-{\vec {r}}^{,},t)}
+
+ is propagator derived as Green function of a relevant physical system,[51]
+
+
+
+
+f
+[
+
+ψ
+
+n
+
+
+(
+
+
+
+r
+→
+
+
+
+,
+t
+)
+]
+
+
+{\displaystyle f[\psi _{n}({\vec {r}},t)]}
+
+ might be logistic map alike 
+
+
+
+ψ
+→
+G
+ψ
+[
+1
+−
+tanh
+⁡
+(
+ψ
+)
+]
+
+
+{\displaystyle \psi \rightarrow G\psi [1-\tanh(\psi )]}
+
+ or complex map. For examples of complex maps the Julia set 
+
+
+
+f
+[
+ψ
+]
+=
+
+ψ
+
+2
+
+
+
+
+{\displaystyle f[\psi ]=\psi ^{2}}
+
+ or Ikeda map
+
+
+
+
+
+ψ
+
+n
++
+1
+
+
+=
+A
++
+B
+
+ψ
+
+n
+
+
+
+e
+
+i
+(
+
+|
+
+
+ψ
+
+n
+
+
+
+
+|
+
+
+2
+
+
++
+C
+)
+
+
+
+
+{\displaystyle \psi _{n+1}=A+B\psi _{n}e^{i(|\psi _{n}|^{2}+C)}}
+
+ may serve. When wave propagation problems at distance 
+
+
+
+L
+=
+c
+t
+
+
+{\displaystyle L=ct}
+
+ with wavelength 
+
+
+
+λ
+=
+2
+π
+
+/
+
+k
+
+
+{\displaystyle \lambda =2\pi /k}
+
+ are considered the kernel 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ may have a form of Green function for Schrödinger equation:.[52][53]
+
+
+
+
+K
+(
+
+
+
+r
+→
+
+
+
+−
+
+
+
+
+r
+→
+
+
+
+
+,
+
+
+,
+L
+)
+=
+
+
+
+i
+k
+exp
+⁡
+[
+i
+k
+L
+]
+
+
+2
+π
+L
+
+
+
+exp
+⁡
+[
+
+
+
+i
+k
+
+|
+
+
+
+
+r
+→
+
+
+
+−
+
+
+
+
+r
+→
+
+
+
+
+,
+
+
+
+
+|
+
+
+2
+
+
+
+
+2
+L
+
+
+
+]
+
+
+{\displaystyle K({\vec {r}}-{\vec {r}}^{,},L)={\frac {ik\exp[ikL]}{2\pi L}}\exp[{\frac {ik|{\vec {r}}-{\vec {r}}^{,}|^{2}}{2L}}]}
+
+.
+
+Jerk systems[edit]
+In physics, jerk is the third derivative of position, with respect to time. As such, differential equations of the form
+
+
+
+
+
+J
+
+(
+
+
+
+x
+
+.
+.
+.
+
+
+
+,
+
+
+
+x
+¨
+
+
+
+,
+
+
+
+x
+˙
+
+
+
+,
+x
+
+)
+
+=
+0
+
+
+{\displaystyle J\left({\overset {...}{x}},{\ddot {x}},{\dot {x}},x\right)=0}
+
+
+are sometimes called jerk equations. It has been shown that a jerk equation, which is equivalent to a system of three first order, ordinary, non-linear differential equations, is in a certain sense the minimal setting for solutions showing chaotic behavior. This motivates mathematical interest in jerk systems. Systems involving a fourth or higher derivative are called accordingly hyperjerk systems.[54]
+A jerk system's behavior is described by a jerk equation, and for certain jerk equations, simple electronic circuits can model solutions. These circuits are known as jerk circuits.
+One of the most interesting properties of jerk circuits is the possibility of chaotic behavior. In fact, certain well-known chaotic systems, such as the Lorenz attractor and the Rössler map, are conventionally described as a system of three first-order differential equations that can combine into a single (although rather complicated) jerk equation. Another example of a jerk equation with nonlinearity in the magnitude of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is:
+
+
+
+
+
+
+
+
+
+
+d
+
+
+3
+
+
+x
+
+
+
+d
+
+
+t
+
+3
+
+
+
+
+
++
+A
+
+
+
+
+
+d
+
+
+2
+
+
+x
+
+
+
+d
+
+
+t
+
+2
+
+
+
+
+
++
+
+
+
+
+d
+
+x
+
+
+
+d
+
+t
+
+
+
+−
+
+|
+
+x
+
+|
+
++
+1
+=
+0.
+
+
+{\displaystyle {\frac {\mathrm {d} ^{3}x}{\mathrm {d} t^{3}}}+A{\frac {\mathrm {d} ^{2}x}{\mathrm {d} t^{2}}}+{\frac {\mathrm {d} x}{\mathrm {d} t}}-|x|+1=0.}
+
+
+Here, A is an adjustable parameter. This equation has a chaotic solution for A=3/5 and can be implemented with the following jerk circuit; the required nonlinearity is brought about by the two diodes:
+
+
+In the above circuit, all resistors are of equal value, except 
+
+
+
+
+R
+
+A
+
+
+=
+R
+
+/
+
+A
+=
+5
+R
+
+/
+
+3
+
+
+{\displaystyle R_{A}=R/A=5R/3}
+
+, and all capacitors are of equal size. The dominant frequency is 
+
+
+
+1
+
+/
+
+2
+π
+R
+C
+
+
+{\displaystyle 1/2\pi RC}
+
+. The output of op amp 0 will correspond to the x variable, the output of 1 corresponds to the first derivative of x and the output of 2 corresponds to the second derivative.
+Similar circuits only require one diode[55] or no diodes at all.[56]
+See also the well-known Chua's circuit, one basis for chaotic true random number generators.[57] The ease of construction of the circuit has made it a ubiquitous real-world example of a chaotic system.
+
+Spontaneous order[edit]
+Under the right conditions, chaos spontaneously evolves into a lockstep pattern. In the Kuramoto model, four conditions suffice to produce synchronization in a chaotic system.
+Examples include the coupled oscillation of Christiaan Huygens' pendulums, fireflies, neurons, the London Millennium Bridge resonance, and large arrays of Josephson junctions.[58]
+Moreover, from the theoretical physics standpoint, dynamical chaos itself, in its most general manifestation, is a spontaneous order. The essence here is that most orders in nature arise from the spontaneous breakdown of various symmetries. This large family of phenomena includes elasticity, superconductivity, ferromagnetism, and many others. According to the supersymmetric theory of stochastic dynamics, chaos, or more precisely, its stochastic generalization, is also part of this family. The corresponding symmetry being broken is the topological supersymmetry which is hidden in all stochastic (partial) differential equations, and the corresponding order parameter is a field-theoretic embodiment of the butterfly effect.[59]
+
+History[edit]
+Barnsley fern created using the chaos game. Natural forms (ferns, clouds, mountains, etc.) may be recreated through an iterated function system (IFS).
+James Clerk Maxwell first emphasized the "butterfly effect", and is seen as being one of the earliest to discuss chaos theory, with work in the 1860s and 1870s.[60][61][62] An early proponent of chaos theory was Henri Poincaré. In the 1880s, while studying the three-body problem, he found that there can be orbits that are nonperiodic, and yet not forever increasing nor approaching a fixed point.[63][64][65] In 1898, Jacques Hadamard published an influential study of the chaotic motion of a free particle gliding frictionlessly on a surface of constant negative curvature, called "Hadamard's billiards".[66] Hadamard was able to show that all trajectories are unstable, in that all particle trajectories diverge exponentially from one another, with a positive Lyapunov exponent.
+Chaos theory began in the field of ergodic theory. Later studies, also on the topic of nonlinear differential equations, were carried out by George David Birkhoff,[67] Andrey Nikolaevich Kolmogorov,[68][69][70] Mary Lucy Cartwright and John Edensor Littlewood,[71] and Stephen Smale.[72] Except for Smale, these studies were all directly inspired by physics: the three-body problem in the case of Birkhoff, turbulence and astronomical problems in the case of Kolmogorov, and radio engineering in the case of Cartwright and Littlewood.[citation needed] Although chaotic planetary motion had not been observed, experimentalists had encountered turbulence in fluid motion and nonperiodic oscillation in radio circuits without the benefit of a theory to explain what they were seeing.
+Despite initial insights in the first half of the twentieth century, chaos theory became formalized as such only after mid-century, when it first became evident to some scientists that linear theory, the prevailing system theory at that time, simply could not explain the observed behavior of certain experiments like that of the logistic map. What had been attributed to measure imprecision and simple "noise" was considered by chaos theorists as a full component of the studied systems. In 1959 Boris Valerianovich Chirikov proposed a criterion for the emergence of classical chaos in Hamiltonian systems (Chirikov criterion). He applied this criterion to explain some experimental results on plasma confinement in open mirror traps.[73][74] This is regarded as the very first physical theory of chaos, which succeeded in explaining a concrete experiment. And Boris Chirikov himself is considered as a pioneer in classical and quantum chaos.[75][76][77]
+The main catalyst for the development of chaos theory was the electronic computer. Much of the mathematics of chaos theory involves the repeated iteration of simple mathematical formulas, which would be impractical to do by hand. Electronic computers made these repeated calculations practical, while figures and images made it possible to visualize these systems. As a graduate student in Chihiro Hayashi's laboratory at Kyoto University, Yoshisuke Ueda was experimenting with analog computers and noticed, on November 27, 1961, what he called "randomly transitional phenomena". Yet his advisor did not agree with his conclusions at the time, and did not allow him to report his findings until 1970.[78][79]
+
+Turbulence in the tip vortex from an airplane wing. Studies of the critical point beyond which a system creates turbulence were important for chaos theory, analyzed for example by the Soviet physicist Lev Landau, who developed the Landau-Hopf theory of turbulence. David Ruelle and Floris Takens later predicted, against Landau, that fluid turbulence could develop through a strange attractor, a main concept of chaos theory.
+Edward Lorenz was an early pioneer of the theory. His interest in chaos came about accidentally through his work on weather prediction in 1961.[13] Lorenz and his collaborator Ellen Fetter and Margaret Hamilton[80] were using a simple digital computer, a Royal McBee LGP-30, to run weather simulations. They wanted to see a sequence of data again, and to save time they started the simulation in the middle of its course. They did this by entering a printout of the data that corresponded to conditions in the middle of the original simulation. To their surprise, the weather the machine began to predict was completely different from the previous calculation. They tracked this down to the computer printout. The computer worked with 6-digit precision, but the printout rounded variables off to a 3-digit number, so a value like 0.506127 printed as 0.506. This difference is tiny, and the consensus at the time would have been that it should have no practical effect. However, Lorenz discovered that small changes in initial conditions produced large changes in long-term outcome.[81] Lorenz's discovery, which gave its name to Lorenz attractors, showed that even detailed atmospheric modeling cannot, in general, make precise long-term weather predictions.
+In 1963, Benoit Mandelbrot, studying information theory, discovered that noise in many phenomena (including stock prices and telephone circuits) was patterned like a Cantor set, a set of points with infinite roughness and detail [82] Mandelbrot described both the "Noah effect" (in which sudden discontinuous changes can occur) and the "Joseph effect" (in which persistence of a value can occur for a while, yet suddenly change afterwards).[83][84] In 1967, he published "How long is the coast of Britain? Statistical self-similarity and fractional dimension", showing that a coastline's length varies with the scale of the measuring instrument, resembles itself at all scales, and is infinite in length for an infinitesimally small measuring device.[85] Arguing that a ball of twine appears as a point when viewed from far away (0-dimensional), a ball when viewed from fairly near (3-dimensional), or a curved strand (1-dimensional), he argued that the dimensions of an object are relative to the observer and may be fractional. An object whose irregularity is constant over different scales ("self-similarity") is a fractal (examples include the Menger sponge, the Sierpiński gasket, and the Koch curve or snowflake, which is infinitely long yet encloses a finite space and has a fractal dimension of circa 1.2619). In 1982, Mandelbrot published The Fractal Geometry of Nature, which became a classic of chaos theory.[86]
+In December 1977, the New York Academy of Sciences organized the first symposium on chaos, attended by David Ruelle, Robert May, James A. Yorke (coiner of the term "chaos" as used in mathematics), Robert Shaw, and the meteorologist Edward Lorenz. The following year Pierre Coullet and Charles Tresser published "Itérations d'endomorphismes et groupe de renormalisation", and Mitchell Feigenbaum's article "Quantitative Universality for a Class of Nonlinear Transformations" finally appeared in a journal, after 3 years of referee rejections.[87][88] Thus Feigenbaum (1975) and Coullet & Tresser (1978) discovered the universality in chaos, permitting the application of chaos theory to many different phenomena.
+In 1979, Albert J. Libchaber, during a symposium organized in Aspen by Pierre Hohenberg, presented his experimental observation of the bifurcation cascade that leads to chaos and turbulence in Rayleigh–Bénard convection systems. He was awarded the Wolf Prize in Physics in 1986 along with Mitchell J. Feigenbaum for their inspiring achievements.[89]
+In 1986, the New York Academy of Sciences co-organized with the National Institute of Mental Health and the Office of Naval Research the first important conference on chaos in biology and medicine. There, Bernardo Huberman presented a mathematical model of the eye tracking dysfunction among people with schizophrenia.[90] This led to a renewal of physiology in the 1980s through the application of chaos theory, for example, in the study of pathological cardiac cycles.
+In 1987, Per Bak, Chao Tang and Kurt Wiesenfeld published a paper in Physical Review Letters[91] describing for the first time self-organized criticality (SOC), considered one of the mechanisms by which complexity arises in nature.
+Alongside largely lab-based approaches such as the Bak–Tang–Wiesenfeld sandpile, many other investigations have focused on large-scale natural or social systems that are known (or suspected) to display scale-invariant behavior. Although these approaches were not always welcomed (at least initially) by specialists in the subjects examined, SOC has nevertheless become established as a strong candidate for explaining a number of natural phenomena, including earthquakes, (which, long before SOC was discovered, were known as a source of scale-invariant behavior such as the Gutenberg–Richter law describing the statistical distribution of earthquake sizes, and the Omori law[92] describing the frequency of aftershocks), solar flares, fluctuations in economic systems such as financial markets (references to SOC are common in econophysics), landscape formation, forest fires, landslides, epidemics, and biological evolution (where SOC has been invoked, for example, as the dynamical mechanism behind the theory of "punctuated equilibria" put forward by Niles Eldredge and Stephen Jay Gould). Given the implications of a scale-free distribution of event sizes, some researchers have suggested that another phenomenon that should be considered an example of SOC is the occurrence of wars. These investigations of SOC have included both attempts at modelling (either developing new models or adapting existing ones to the specifics of a given natural system), and extensive data analysis to determine the existence and/or characteristics of natural scaling laws.
+Also in 1987 James Gleick published Chaos: Making a New Science, which became a best-seller and introduced the general principles of chaos theory as well as its history to the broad public.[93] Initially the domain of a few, isolated individuals, chaos theory progressively emerged as a transdisciplinary and institutional discipline, mainly under the name of nonlinear systems analysis. Alluding to Thomas Kuhn's concept of a paradigm shift exposed in The Structure of Scientific Revolutions (1962), many "chaologists" (as some described themselves) claimed that this new theory was an example of such a shift, a thesis upheld by Gleick.
+The availability of cheaper, more powerful computers broadens the applicability of chaos theory. Currently, chaos theory remains an active area of research,[94] involving many different disciplines such as mathematics, topology, physics,[95] social systems,[96] population modeling, biology, meteorology, astrophysics, information theory, computational neuroscience, pandemic crisis management,[16][17] etc.
+
+Lorenz's pioneering contributions to chaotic modeling[edit]
+Throughout his career, Professor Lorenz authored a total of 61 research papers, out of which 58 were solely authored by him.[97] Commencing with the 1960 conference in Japan, Lorenz embarked on a journey of developing diverse models aimed at uncovering the SDIC and chaotic features. A recent review of Lorenz's model[98][99] progression spanning from 1960 to 2008 revealed his adeptness at employing varied physical systems to illustrate chaotic phenomena. These systems encompassed Quasi-geostrophic systems, the Conservative Vorticity Equation, the Rayleigh-Bénard Convection Equations, and the Shallow Water Equations. Moreover, Lorenz can be credited with the early application of the logistic map to explore chaotic solutions, a milestone he achieved ahead of his colleagues (e.g. Lorenz 1964[100]).
+In 1972, Lorenz coined the term "butterfly effect" as a metaphor to discuss whether a small perturbation could eventually create a tornado with a three-dimensional, organized, and coherent structure. While connected to the original butterfly effect based on sensitive dependence on initial conditions, its metaphorical variant carries distinct nuances. To commemorate this milestone, a reprint book containing invited papers that deepen our understanding of both butterfly effects was officially published to celebrate the 50th anniversary of the metaphorical butterfly effect.[101]
+
+A popular but inaccurate analogy for chaos[edit]
+The sensitive dependence on initial conditions (i.e., butterfly effect) has been illustrated using the following folklore:[93]
+
+For want of a nail, the shoe was lost.
+For want of a shoe, the horse was lost.
+For want of a horse, the rider was lost.
+For want of a rider, the battle was lost.
+For want of a battle, the kingdom was lost.
+
+And all for the want of a horseshoe nail.
+Based on the above, many people mistakenly believe that the impact of a tiny initial perturbation monotonically increases with time and that any tiny perturbation can eventually produce a large impact on numerical integrations. However, in 2008, Lorenz stated that he did not feel that this verse described true chaos but that it better illustrated the simpler phenomenon of instability and that the verse implicitly suggests that subsequent small events will not reverse the outcome.[102] Based on the analysis, the verse only indicates divergence, not boundedness.[6] Boundedness is important for the finite size of a butterfly pattern.[6][102][103] In a recent study,[104] the characteristic of the aforementioned verse was recently denoted as "finite-time sensitive dependence".
+
+Applications[edit]
+A conus textile shell, similar in appearance to Rule 30, a cellular automaton with chaotic behaviour.[105]
+Although chaos theory was born from observing weather patterns, it has become applicable to a variety of other situations. Some areas benefiting from chaos theory today are geology, mathematics, biology, computer science, economics,[106][107][108] engineering,[109][110] finance,[111][112][113][114][115] meteorology, philosophy, anthropology,[15] physics,[116][117][118] politics,[119][120] population dynamics,[121] and robotics. A few categories are listed below with examples, but this is by no means a comprehensive list as new applications are appearing.
+
+Cryptography[edit]
+Chaos theory has been used for many years in cryptography. In the past few decades, chaos and nonlinear dynamics have been used in the design of hundreds of cryptographic primitives. These algorithms include image encryption algorithms, hash functions, secure pseudo-random number generators, stream ciphers, watermarking, and steganography.[122] The majority of these algorithms are based on uni-modal chaotic maps and a big portion of these algorithms use the control parameters and the initial condition of the chaotic maps as their keys.[123] From a wider perspective, without loss of generality, the similarities between the chaotic maps and the cryptographic systems is the main motivation for the design of chaos based cryptographic algorithms.[122] One type of encryption, secret key or symmetric key, relies on diffusion and confusion, which is modeled well by chaos theory.[124] Another type of computing, DNA computing, when paired with chaos theory, offers a way to encrypt images and other information.[125] Many of the DNA-Chaos cryptographic algorithms are proven to be either not secure, or the technique applied is suggested to be not efficient.[126][127][128]
+
+Robotics[edit]
+Robotics is another area that has recently benefited from chaos theory. Instead of robots acting in a trial-and-error type of refinement to interact with their environment, chaos theory has been used to build a predictive model.[129]
+Chaotic dynamics have been exhibited by passive walking biped robots.[130]
+
+Biology[edit]
+For over a hundred years, biologists have been keeping track of populations of different species with population models. Most models are continuous, but recently scientists have been able to implement chaotic models in certain populations.[131] For example, a study on models of Canadian lynx showed there was chaotic behavior in the population growth.[132] Chaos can also be found in ecological systems, such as hydrology. While a chaotic model for hydrology has its shortcomings, there is still much to learn from looking at the data through the lens of chaos theory.[133] Another biological application is found in cardiotocography. Fetal surveillance is a delicate balance of obtaining accurate information while being as noninvasive as possible. Better models of warning signs of fetal hypoxia can be obtained through chaotic modeling.[134]
+As Perry points out, modeling of chaotic time series in ecology is helped by constraint.[135]: 176, 177  There is always potential difficulty in distinguishing real chaos from chaos that is only in the model.[135]: 176, 177  Hence both constraint in the model and or duplicate time series data for comparison will be helpful in constraining the model to something close to the reality, for example Perry & Wall 1984.[135]: 176, 177  Gene-for-gene co-evolution sometimes shows chaotic dynamics in allele frequencies.[136] Adding variables exaggerates this: Chaos is more common in models incorporating additional variables to reflect additional facets of real populations.[136] Robert M. May himself did some of these foundational crop co-evolution studies, and this in turn helped shape the entire field.[136] Even for a steady environment, merely combining one crop and one pathogen may result in quasi-periodic- or chaotic- oscillations in pathogen population.[137]: 169 
+
+Economics[edit]
+It is possible that economic models can also be improved through an application of chaos theory, but predicting the health of an economic system and what factors influence it most is an extremely complex task.[138] Economic and financial systems are fundamentally different from those in the classical natural sciences since the former are inherently stochastic in nature, as they result from the interactions of people, and thus pure deterministic models are unlikely to provide accurate representations of the data. The empirical literature that tests for chaos in economics and finance presents very mixed results, in part due to confusion between specific tests for chaos and more general tests for non-linear relationships.[139]
+Chaos could be found in economics by the means of recurrence quantification analysis. In fact, Orlando et al.[140] by the means of the so-called recurrence quantification correlation index were able detect hidden changes in time series. Then, the same technique was employed to detect transitions from laminar (regular) to turbulent (chaotic) phases as well as differences between macroeconomic variables and highlight hidden features of economic dynamics.[141] Finally, chaos theory could help in modeling how an economy operates as well as in embedding shocks due to external events such as COVID-19.[142]
+
+AI-Extended Modeling Framework[edit]
+In AI-driven large language models, responses can exhibit sensitivities to factors like alterations in formatting and variations in prompts. These sensitivities are akin to butterfly effects.[143] Although classifying AI-powered large language models as classical deterministic chaotic systems poses challenges, chaos-inspired approaches and techniques (such as ensemble modeling) may be employed to extract reliable information from these expansive language models (see also "Butterfly Effect in Popular Culture").
+
+Other areas[edit]
+In chemistry, predicting gas solubility is essential to manufacturing polymers, but models using particle swarm optimization (PSO) tend to converge to the wrong points. An improved version of PSO has been created by introducing chaos, which keeps the simulations from getting stuck.[144] In celestial mechanics, especially when observing asteroids, applying chaos theory leads to better predictions about when these objects will approach Earth and other planets.[145] Four of the five moons of Pluto rotate chaotically. In quantum physics and electrical engineering, the study of large arrays of Josephson junctions benefitted greatly from chaos theory.[146] Closer to home, coal mines have always been dangerous places where frequent natural gas leaks cause many deaths. Until recently, there was no reliable way to predict when they would occur. But these gas leaks have chaotic tendencies that, when properly modeled, can be predicted fairly accurately.[147]
+Chaos theory can be applied outside of the natural sciences, but historically nearly all such studies have suffered from lack of reproducibility; poor external validity; and/or inattention to cross-validation, resulting in poor predictive accuracy (if out-of-sample prediction has even been attempted). Glass[148] and Mandell and Selz[149] have found that no EEG study has as yet indicated the presence of strange attractors or other signs of chaotic behavior.
+Researchers have continued to apply chaos theory to psychology. For example, in modeling group behavior in which heterogeneous members may behave as if sharing to different degrees what in Wilfred Bion's theory is a basic assumption, researchers have found that the group dynamic is the result of the individual dynamics of the members: each individual reproduces the group dynamics in a different scale, and the chaotic behavior of the group is reflected in each member.[150]
+Redington and Reidbord (1992) attempted to demonstrate that the human heart could display chaotic traits. They monitored the changes in between-heartbeat intervals for a single psychotherapy patient as she moved through periods of varying emotional intensity during a therapy session. Results were admittedly inconclusive. Not only were there ambiguities in the various plots the authors produced to purportedly show evidence of chaotic dynamics (spectral analysis, phase trajectory, and autocorrelation plots), but also when they attempted to compute a Lyapunov exponent as more definitive confirmation of chaotic behavior, the authors found they could not reliably do so.[151]
+In their 1995 paper, Metcalf and Allen[152] maintained that they uncovered in animal behavior a pattern of period doubling leading to chaos. The authors examined a well-known response called schedule-induced polydipsia, by which an animal deprived of food for certain lengths of time will drink unusual amounts of water when the food is at last presented. The control parameter (r) operating here was the length of the interval between feedings, once resumed. The authors were careful to test a large number of animals and to include many replications, and they designed their experiment so as to rule out the likelihood that changes in response patterns were caused by different starting places for r.
+Time series and first delay plots provide the best support for the claims made, showing a fairly clear march from periodicity to irregularity as the feeding times were increased. The various phase trajectory plots and spectral analyses, on the other hand, do not match up well enough with the other graphs or with the overall theory to lead inexorably to a chaotic diagnosis. For example, the phase trajectories do not show a definite progression towards greater and greater complexity (and away from periodicity); the process seems quite muddied. Also, where Metcalf and Allen saw periods of two and six in their spectral plots, there is room for alternative interpretations. All of this ambiguity necessitate some serpentine, post-hoc explanation to show that results fit a chaotic model.
+By adapting a model of career counseling to include a chaotic interpretation of the relationship between employees and the job market, Amundson and Bright found that better suggestions can be made to people struggling with career decisions.[153] Modern organizations are increasingly seen as open complex adaptive systems with fundamental natural nonlinear structures, subject to internal and external forces that may contribute chaos. For instance, team building and group development is increasingly being researched as an inherently unpredictable system, as the uncertainty of different individuals meeting for the first time makes the trajectory of the team unknowable.[154]
+Some say the chaos metaphor—used in verbal theories—grounded on mathematical models and psychological aspects of human behavior
+provides helpful insights to describing the complexity of small work groups, that go beyond the metaphor itself.[155]
+
+The red cars and blue cars take turns to move; the red ones only move upwards, and the blue ones move rightwards. Every time, all the cars of the same colour try to move one step if there is no car in front of it. Here, the model has self-organized in a somewhat geometric pattern where there are some traffic jams and some areas where cars can move at top speed.
+Traffic forecasting may benefit from applications of chaos theory. Better predictions of when a congestion will occur would allow measures to be taken to disperse it before it would have occurred. Combining chaos theory principles with a few other methods has led to a more accurate short-term prediction model (see the plot of the BML traffic model at right).[156]
+Chaos theory has been applied to environmental water cycle data (also hydrological data), such as rainfall and streamflow.[157] These studies have yielded controversial results, because the methods for detecting a chaotic signature are often relatively subjective. Early studies tended to "succeed" in finding chaos, whereas subsequent studies and meta-analyses called those studies into question and provided explanations for why these datasets are not likely to have low-dimension chaotic dynamics.[158]
+
+See also[edit]
+
+Mathematics portalSystems science portal
+Examples of chaotic systems
+
+
+Advected contours
+Arnold's cat map
+Bifurcation theory
+Bouncing ball dynamics
+Chua's circuit
+Cliodynamics
+Coupled map lattice
+Double pendulum
+Duffing equation
+Dynamical billiards
+Economic bubble
+Gaspard-Rice system
+Hénon map
+Horseshoe map
+List of chaotic maps
+Rössler attractor
+Standard map
+Swinging Atwood's machine
+Tilt A Whirl
+
+Other related topics
+
+
+Amplitude death
+Anosov diffeomorphism
+Catastrophe theory
+Causality
+Chaos as topological supersymmetry breaking
+Chaos machine
+Chaotic mixing
+Chaotic scattering
+Control of chaos
+Determinism
+Edge of chaos
+Emergence
+Mandelbrot set
+Kolmogorov–Arnold–Moser theorem
+Ill-conditioning
+Ill-posedness
+Nonlinear system
+Patterns in nature
+Predictability
+Quantum chaos
+Santa Fe Institute
+Shadowing lemma
+Synchronization of chaos
+Unintended consequence
+
+People
+
+
+Ralph Abraham
+Michael Berry
+Leon O. Chua
+Ivar Ekeland
+Doyne Farmer
+Martin Gutzwiller
+Brosl Hasslacher
+Michel Hénon
+Aleksandr Lyapunov
+Norman Packard
+Otto Rössler
+David Ruelle
+Oleksandr Mikolaiovich Sharkovsky
+Robert Shaw
+Floris Takens
+James A. Yorke
+George M. Zaslavsky
+
+References[edit]
+
+
+^ "chaos theory | Definition & Facts". Encyclopedia Britannica. Retrieved 2019-11-24.
+
+^ a b c "What is Chaos Theory? – Fractal Foundation". Retrieved 2019-11-24.
+
+^ Weisstein, Eric W. "Chaos". mathworld.wolfram.com. Retrieved 2019-11-24.
+
+^ Boeing, Geoff (26 March 2015). "Chaos Theory and the Logistic Map". Retrieved 2020-05-17.
+
+^ a b c Lorenz, Edward (1993). The Essence of Chaos. University of Washington Press. pp. 181–206.
+
+^ a b c Shen, Bo-Wen; Pielke, Roger A.; Zeng, Xubin; Cui, Jialin; Faghih-Naini, Sara; Paxson, Wei; Atlas, Robert (2022-07-04). "Three Kinds of Butterfly Effects within Lorenz Models". Encyclopedia. 2 (3): 1250–1259. doi:10.3390/encyclopedia2030084. ISSN 2673-8392.   Text was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+
+^ Kellert, Stephen H. (1993). In the Wake of Chaos: Unpredictable Order in Dynamical Systems. University of Chicago Press. p. 32. ISBN 978-0-226-42976-2.
+
+^ a b c d Bishop, Robert (2017), "Chaos", in Zalta, Edward N. (ed.), The Stanford Encyclopedia of Philosophy (Spring 2017 ed.), Metaphysics Research Lab, Stanford University, retrieved 2019-11-24
+
+^ Kellert 1993, p. 56
+
+^ Kellert 1993, p. 62
+
+^ a b Werndl, Charlotte (2009). "What are the New Implications of Chaos for Unpredictability?". The British Journal for the Philosophy of Science. 60 (1): 195–220. arXiv:1310.1576. doi:10.1093/bjps/axn053. S2CID 354849.
+
+^ Danforth, Christopher M. (April 2013). "Chaos in an Atmosphere Hanging on a Wall". Mathematics of Planet Earth 2013. Retrieved 12 June 2018.
+
+^ a b Lorenz, Edward N. (1963). "Deterministic non-periodic flow". Journal of the Atmospheric Sciences. 20 (2): 130–141. Bibcode:1963JAtS...20..130L. doi:10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2.
+
+^ Ivancevic, Vladimir G.; Tijana T. Ivancevic (2008). Complex nonlinearity: chaos, phase transitions, topology change, and path integrals. Springer. ISBN 978-3-540-79356-4.
+
+^ a b Mosko M.S., Damon F.H. (Eds.) (2005). On the order of chaos. Social anthropology and the science of chaos. Oxford: Berghahn Books.
+
+^ a b Piotrowski, Chris. "Covid-19 Pandemic and Chaos Theory: Applications based on a Bibliometric Analysis". researchgate.net. Retrieved 2020-05-13.
+
+^ a b Weinberger, David (2019). Everyday Chaos – Technology, Complexity and How We're Thriving in a New World of Possibility. Harvard Business Review Press. ISBN 9781633693968.
+
+^ Wisdom, Jack; Sussman, Gerald Jay (1992-07-03). "Chaotic Evolution of the Solar System". Science. 257 (5066): 56–62. Bibcode:1992Sci...257...56S. doi:10.1126/science.257.5066.56. hdl:1721.1/5961. ISSN 1095-9203. PMID 17800710. S2CID 12209977.
+
+^ Sync: The Emerging Science of Spontaneous Order, Steven Strogatz, Hyperion, New York, 2003, pages 189–190.
+
+^ Definition of chaos at Wiktionary;
+
+^ "Definition of chaos | Dictionary.com". www.dictionary.com. Retrieved 2019-11-24.
+
+^ Hasselblatt, Boris; Anatole Katok (2003). A First Course in Dynamics: With a Panorama of Recent Developments. Cambridge University Press. ISBN 978-0-521-58750-1.
+
+^ Elaydi, Saber N. (1999). Discrete Chaos. Chapman & Hall/CRC. p. 137. ISBN 978-1-58488-002-8.
+
+^ Basener, William F. (2006). Topology and its applications. Wiley. p. 42. ISBN 978-0-471-68755-9.
+
+^ Banks; Brooks; Cairns; Davis; Stacey (1992). "On Devaney's definition of chaos". The American Mathematical Monthly. 99 (4): 332–334. doi:10.1080/00029890.1992.11995856.
+
+^ Vellekoop, Michel; Berglund, Raoul (April 1994). "On Intervals, Transitivity = Chaos". The American Mathematical Monthly. 101 (4): 353–5. doi:10.2307/2975629. JSTOR 2975629.
+
+^ Medio, Alfredo; Lines, Marji (2001). Nonlinear Dynamics: A Primer. Cambridge University Press. p. 165. ISBN 978-0-521-55874-7.
+
+^ "Edward Lorenz, father of chaos theory and butterfly effect, dies at 90". MIT News. 16 April 2008. Retrieved 2019-11-24.
+
+^ Shen, Bo-Wen; Pielke, Roger A.; Zeng, Xubin (2022-05-07). "One Saddle Point and Two Types of Sensitivities within the Lorenz 1963 and 1969 Models". Atmosphere. 13 (5): 753. Bibcode:2022Atmos..13..753S. doi:10.3390/atmos13050753. ISSN 2073-4433.
+
+^ Watts, Robert G. (2007). Global Warming and the Future of the Earth. Morgan & Claypool. p. 17.
+
+^ Weisstein, Eric W. "Lyapunov Characteristic Exponent". mathworld.wolfram.com. Retrieved 2019-11-24.
+
+^ a b Devaney 2003
+
+^ Robinson 1995
+
+^ Alligood, Sauer & Yorke 1997
+
+^ Li, T.Y.; Yorke, J.A. (1975). "Period Three Implies Chaos" (PDF). American Mathematical Monthly. 82 (10): 985–92. Bibcode:1975AmMM...82..985L. CiteSeerX 10.1.1.329.5038. doi:10.2307/2318254. JSTOR 2318254. Archived from the original (PDF) on 2009-12-29.
+
+^ Strelioff, Christopher; et., al. (2006). "Medium-Term Prediction of Chaos". Phys. Rev. Lett. 96 (4): 044101. Bibcode:2006PhRvL..96d4101S. doi:10.1103/PhysRevLett.96.044101. PMID 16486826.
+
+^ a b c Shen, Bo-Wen (2019-03-01). "Aggregated Negative Feedback in a Generalized Lorenz Model". International Journal of Bifurcation and Chaos. 29 (3): 1950037–1950091. Bibcode:2019IJBC...2950037S. doi:10.1142/S0218127419500378. ISSN 0218-1274. S2CID 132494234.
+
+^ a b c Shen, Bo-Wen; Pielke, Roger A.; Zeng, Xubin; Baik, Jong-Jin; Faghih-Naini, Sara; Cui, Jialin; Atlas, Robert (2021-01-01). "Is Weather Chaotic?: Coexistence of Chaos and Order within a Generalized Lorenz Model". Bulletin of the American Meteorological Society. 102 (1): E148–E158. Bibcode:2021BAMS..102E.148S. doi:10.1175/BAMS-D-19-0165.1. ISSN 0003-0007. S2CID 208369617.
+
+^ a b Shen, Bo-Wen; Pielke Sr., Roger Pielke; Zeng, Xubin; Cui, Jialin; Faghih-Naini, Sara; Paxson, Wei; Kesarkar, Amit; Zeng, Xiping; Atlas, Robert (2022-11-12). "The Dual Nature of Chaos and Order in the Atmosphere". Atmosphere. 13 (11): 1892. Bibcode:2022Atmos..13.1892S. doi:10.3390/atmos13111892. ISSN 2073-4433.
+
+^ Yorke, James A.; Yorke, Ellen D. (1979-09-01). "Metastable chaos: The transition to sustained chaotic behavior in the Lorenz model". Journal of Statistical Physics. 21 (3): 263–277. Bibcode:1979JSP....21..263Y. doi:10.1007/BF01011469. ISSN 1572-9613. S2CID 12172750.
+
+^ Shen, Bo-Wen; Pielke Sr., R. A.; Zeng, X.; Baik, J.-J.; Faghih-Naini, S.; Cui, J.; Atlas, R.; Reyes, T. A. L. (2021). "Is Weather Chaotic? Coexisting Chaotic and Non-chaotic Attractors within Lorenz Models". In Skiadas, Christos H.; Dimotikalis, Yiannis (eds.). 13th Chaotic Modeling and Simulation International Conference. Springer Proceedings in Complexity. Cham: Springer International Publishing. pp. 805–825. doi:10.1007/978-3-030-70795-8_57. ISBN 978-3-030-70795-8. S2CID 245197840.
+
+^ Sprott, J.C. (1997). "Simplest dissipative chaotic flow". Physics Letters A. 228 (4–5): 271–274. Bibcode:1997PhLA..228..271S. doi:10.1016/S0375-9601(97)00088-1.
+
+^ Fu, Z.; Heidel, J. (1997). "Non-chaotic behaviour in three-dimensional quadratic systems". Nonlinearity. 10 (5): 1289–1303. Bibcode:1997Nonli..10.1289F. doi:10.1088/0951-7715/10/5/014. S2CID 250757113.
+
+^ Heidel, J.; Fu, Z. (1999). "Nonchaotic behaviour in three-dimensional quadratic systems II. The conservative case". Nonlinearity. 12 (3): 617–633. Bibcode:1999Nonli..12..617H. doi:10.1088/0951-7715/12/3/012. S2CID 250853499.
+
+^ Ulcigrai, Corinna (2021). "Slow chaos in surface flows". Bollettino dell'Unione Matematica Italiana. 14 (1): 231–255. arXiv:2010.06231. doi:10.1007/s40574-020-00267-0. ISSN 1972-6724.
+
+^ Bonet, J.; Martínez-Giménez, F.; Peris, A. (2001). "A Banach space which admits no chaotic operator". Bulletin of the London Mathematical Society. 33 (2): 196–8. doi:10.1112/blms/33.2.196. S2CID 121429354.
+
+^ Shen, Bo-Wen (2014-05-01). "Nonlinear Feedback in a Five-Dimensional Lorenz Model". Journal of the Atmospheric Sciences. 71 (5): 1701–1723. Bibcode:2014JAtS...71.1701S. doi:10.1175/JAS-D-13-0223.1. ISSN 0022-4928. S2CID 123683839.
+
+^ Musielak, Dora E.; Musielak, Zdzislaw E.; Kennamer, Kenny S. (2005-03-01). "The onset of chaos in nonlinear dynamical systems determined with a new fractal technique". Fractals. 13 (1): 19–31. doi:10.1142/S0218348X0500274X. ISSN 0218-348X.
+
+^ Roy, D.; Musielak, Z. E. (2007-05-01). "Generalized Lorenz models and their routes to chaos. I. Energy-conserving vertical mode truncations". Chaos, Solitons & Fractals. 32 (3): 1038–1052. Bibcode:2007CSF....32.1038R. doi:10.1016/j.chaos.2006.02.013. ISSN 0960-0779.
+
+^ Adachihara, H; McLaughlin, D W; Moloney, J V; Newell, A C (1988). "Solitary waves as fixed points of infinite-dimensional maps for an optical bistable ring cavity: Analysis". Journal of Mathematical Physics. 29 (1): 63. Bibcode:1988JMP....29...63A. doi:10.1063/1.528136.
+
+^ Okulov, A Yu; Oraevskiĭ, A N (1988). "Spatiotemporal dynamics of a wave packet in nonlinear medium and discrete maps". In N.G. Basov (ed.). Proceedings of the Lebedev Physics Institute (in Russian). Vol. 187. Nauka. pp. 202–222. LCCN 88174540.
+
+^ Okulov, A Yu (2000). "Spatial soliton laser: geometry and stability". Optics and Spectroscopy. 89 (1): 145–147. Bibcode:2000OptSp..89..131O. doi:10.1134/BF03356001. S2CID 122790937.
+
+^ Okulov, A Yu (2020). "Structured light entities, chaos and nonlocal maps". Chaos, Solitons & Fractals. 133 (4): 109638. arXiv:1901.09274. Bibcode:2020CSF...13309638O. doi:10.1016/j.chaos.2020.109638. S2CID 118828500.
+
+^ K. E. Chlouverakis and J. C. Sprott, Chaos Solitons & Fractals 28, 739–746 (2005), Chaotic Hyperjerk Systems, http://sprott.physics.wisc.edu/pubs/paper297.htm
+
+^ "A New Chaotic Jerk Circuit", J. C. Sprott, IEEE Transactions on Circuits and Systems,2011.
+
+^ "Simple Autonomous Chaotic Circuits", J. C. Sprott, IEEE Transactions on Circuits and Systems—II: Express Briefs, 2010.
+
+^ "Secure Image Encryption Based On a Chua Chaotic Noise Generator", A. S. Andreatos*, and A. P. Leros, Journal of Engineering Science and Technology Review, 2013.
+
+^ Steven Strogatz, Sync: The Emerging Science of Spontaneous Order, Hyperion, 2003.
+
+^ Ovchinnikov, I.V. (2024-02-15). "Ubiquitous order known as chaos". Chaos,Solitons & Fractals. 181 (5): 114611. Bibcode:2024CSF...18114611O. doi:10.1016/j.chaos.2024.114611. ISSN 0960-0779.
+
+^ Hunt, Brian R.; Yorke, James A. (1993). "Maxwell on Chaos" (PDF). Nonlinear Science Today. 3 (1).
+
+^ Everitt, Francis (2006-12-01). "James Clerk Maxwell: a force for physics". Physics World. Retrieved 2023-11-03.
+
+^ Gardini, Laura; Grebogi, Celso; Lenci, Stefano (2020-10-01). "Chaos theory and applications: a retrospective on lessons learned and missed or new opportunities". Nonlinear Dynamics. 102 (2): 643–644. doi:10.1007/s11071-020-05903-0. hdl:2164/17003. ISSN 1573-269X. S2CID 225246631.
+
+^ Poincaré, Jules Henri (1890). "Sur le problème des trois corps et les équations de la dynamique. Divergence des séries de M. Lindstedt". Acta Mathematica. 13 (1–2): 1–270. doi:10.1007/BF02392506.
+
+^ Poincaré, J. Henri (2017). The three-body problem and the equations of dynamics : Poincaré's foundational work on dynamical systems theory. Popp, Bruce D. (Translator). Cham, Switzerland: Springer International Publishing. ISBN 9783319528984. OCLC 987302273.
+
+^ Diacu, Florin; Holmes, Philip (1996). Celestial Encounters: The Origins of Chaos and Stability. Princeton University Press.
+
+^ Hadamard, Jacques (1898). "Les surfaces à courbures opposées et leurs lignes géodesiques". Journal de Mathématiques Pures et Appliquées. 4: 27–73.
+
+^ George D. Birkhoff, Dynamical Systems, vol. 9 of the American Mathematical Society Colloquium Publications (Providence, Rhode Island: American Mathematical Society, 1927)
+
+^ Kolmogorov, Andrey Nikolaevich (1941). "Local structure of turbulence in an incompressible fluid for very large Reynolds numbers". Doklady Akademii Nauk SSSR. 30 (4): 301–5. Bibcode:1941DoSSR..30..301K. Reprinted in: Kolmogorov, A. N. (1991). "The Local Structure of Turbulence in Incompressible Viscous Fluid for Very Large Reynolds Numbers". Proceedings of the Royal Society A. 434 (1890): 9–13. Bibcode:1991RSPSA.434....9K. doi:10.1098/rspa.1991.0075. S2CID 123612939.
+
+^ Kolmogorov, A. N. (1941). "On degeneration of isotropic turbulence in an incompressible viscous liquid". Doklady Akademii Nauk SSSR. 31 (6): 538–540. Reprinted in: Kolmogorov, A. N. (1991). "Dissipation of Energy in the Locally Isotropic Turbulence". Proceedings of the Royal Society A. 434 (1890): 15–17. Bibcode:1991RSPSA.434...15K. doi:10.1098/rspa.1991.0076. S2CID 122060992.
+
+^ Kolmogorov, A. N. (1979). "Preservation of conditionally periodic movements with small change in the Hamilton function". Stochastic Behavior in Classical and Quantum Hamiltonian Systems. Lecture Notes in Physics. pp. 51–56. Bibcode:1979LNP....93...51K. doi:10.1007/BFb0021737. ISBN 978-3-540-09120-2. Translation of Doklady Akademii Nauk SSSR (1954) 98: 527. See also Kolmogorov–Arnold–Moser theorem
+
+^ Cartwright, Mary L.; Littlewood, John E. (1945). "On non-linear differential equations of the second order, I: The equation y" + k(1−y2)y' + y = bλkcos(λt + a), k large". Journal of the London Mathematical Society. 20 (3): 180–9. doi:10.1112/jlms/s1-20.3.180. See also: Van der Pol oscillator
+
+^ Smale, Stephen (January 1960). "Morse inequalities for a dynamical system". Bulletin of the American Mathematical Society. 66: 43–49. doi:10.1090/S0002-9904-1960-10386-2.
+
+^ Chirikov, Boris. "РЕЗОНАНСНЫЕ ПРОЦЕССЫ В МАГНИТНЫХ ЛОВУШКАХ" (PDF). Атомная энергия. 6.
+
+^ Chirikov, B. V. (1960-12-01). "Resonance processes in magnetic traps". The Soviet Journal of Atomic Energy. 6 (6): 464–470. doi:10.1007/BF01483352. ISSN 1573-8205. S2CID 59483478.
+
+^ Jean, Bellissard; Dima, Shepelyansky (27 February 1998). "Boris Chirikov, a pioneer in classical and quantum chaos" (PDF). Annales Henri Poincaré. 68 (4): 379.
+
+^ Bellissard, J.; Bohigas, O.; Casati, G.; Shepelyansky, D.L. (1 July 1999). "A pioneer of chaos". Physica D: Nonlinear Phenomena. 131 (1–4): viii–xv. Bibcode:1999PhyD..131D...8B. doi:10.1016/s0167-2789(99)90007-6. ISSN 0167-2789. S2CID 119107150.
+
+^ Shepelyansky, Dima. Chaos at Fifty Four in 2013. OCLC 859751750.
+
+^ Abraham & Ueda 2000, See Chapters 3 and 4
+
+^ Sprott 2003, p. 89
+
+^ Sokol, Joshua (May 20, 2019). "The Hidden Heroines of Chaos". Quanta Magazine. Retrieved 2022-11-09.
+
+^ Gleick, James (1987). Chaos: Making a New Science. London: Cardinal. p. 17. ISBN 978-0-434-29554-8.
+
+^ Berger J.M.; Mandelbrot B. (1963). "A new model for error clustering in telephone circuits". IBM Journal of Research and Development. 7 (3): 224–236. doi:10.1147/rd.73.0224.
+
+^ Mandelbrot, B. (1977). The Fractal Geometry of Nature. New York: Freeman. p. 248.
+
+^ See also: Mandelbrot, Benoît B.; Hudson, Richard L. (2004). The (Mis)behavior of Markets: A Fractal View of Risk, Ruin, and Reward. New York: Basic Books. p. 201. ISBN 9780465043552.
+
+^ Mandelbrot, Benoît (5 May 1967). "How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension". Science. 156 (3775): 636–8. Bibcode:1967Sci...156..636M. doi:10.1126/science.156.3775.636. PMID 17837158. S2CID 15662830. Archived from the original on 19 October 2021. Retrieved 31 January 2022.
+
+^ Mandelbrot, B. (1982). The Fractal Geometry of Nature. New York: Macmillan. ISBN 978-0716711865.
+
+^ Feigenbaum, Mitchell (July 1978). "Quantitative universality for a class of nonlinear transformations". Journal of Statistical Physics. 19 (1): 25–52. Bibcode:1978JSP....19...25F. CiteSeerX 10.1.1.418.9339. doi:10.1007/BF01020332. S2CID 124498882.
+
+^ Coullet, Pierre, and Charles Tresser. "Iterations d'endomorphismes et groupe de renormalisation." Le Journal de Physique Colloques 39.C5 (1978): C5-25
+
+^ "The Wolf Prize in Physics in 1986". Archived from the original on 2024-05-25. Retrieved 2008-01-17.
+
+^ Huberman, B.A. (July 1987). "A Model for Dysfunctions in Smooth Pursuit Eye Movement". Annals of the New York Academy of Sciences. 504 Perspectives in Biological Dynamics and Theoretical Medicine (1): 260–273. Bibcode:1987NYASA.504..260H. doi:10.1111/j.1749-6632.1987.tb48737.x. PMID 3477120. S2CID 42733652.
+
+^ Bak, Per; Tang, Chao; Wiesenfeld, Kurt (27 July 1987). "Self-organized criticality: An explanation of the 1/f noise". Physical Review Letters. 59 (4): 381–4. Bibcode:1987PhRvL..59..381B. doi:10.1103/PhysRevLett.59.381. PMID 10035754. S2CID 7674321. However, the conclusions of this article have been subject to dispute. "?". Archived from the original on 2007-12-14.. See especially: Laurson, Lasse; Alava, Mikko J.; Zapperi, Stefano (15 September 2005). "Letter: Power spectra of self-organized critical sand piles". Journal of Statistical Mechanics: Theory and Experiment. 0511. L001.
+
+^ Omori, F. (1894). "On the aftershocks of earthquakes". Journal of the College of Science, Imperial University of Tokyo. 7: 111–200.
+
+^ a b Gleick, James (August 26, 2008). Chaos: Making a New Science. Penguin Books. ISBN 978-0143113454.
+
+^ Motter, A. E.; Campbell, D. K. (2013). "Chaos at fifty". Phys. Today. 66 (5): 27–33. arXiv:1306.5777. Bibcode:2013PhT....66e..27M. doi:10.1063/pt.3.1977. S2CID 54005470.
+
+^ Hubler, A.; Foster, G.; Phelps, K. (2007). "Managing chaos: Thinking out of the box". Complexity. 12 (3): 10. Bibcode:2007Cmplx..12c..10H. doi:10.1002/cplx.20159.
+
+^ Kiel, L.; Elliott, Euel, eds. (1996). Chaos Theory in the Social Sciences: Foundations and Applications. Ann Arbor, MI: University of Michigan Press. doi:10.3998/mpub.14623. hdl:2027/fulcrum.d504rm03n. ISBN 9780472106387.
+
+^ Chen, G.-R. (2020-01-01). "Butterfly Effect and Chaos" (PDF). Retrieved 1 July 2023.
+
+^ Shen, Bo-Wen; Pielke, Sr., Roger; Zeng, Xubin (2023-08-12). "The 50th Anniversary of the Metaphorical Butterfly Effect since Lorenz (1972): Multistability, Multiscale Predictability, and Sensitivity in Numerical Models". Atmosphere. 14 (8): 1279. Bibcode:2023Atmos..14.1279S. doi:10.3390/atmos14081279.
+
+^ Shen, Bo-Wen (2023-09-04). "A Review of Lorenz's Models from 1960 to 2008". International Journal of Bifurcation and Chaos. 33 (10): 2330024–2330220. Bibcode:2023IJBC...3330024S. doi:10.1142/S0218127423300240. S2CID 261548506.
+
+^ Lorenz, E. N. (1964). "The problem of deducing the climate from the governing equations". Tellus. 16 (1): 1–11. Bibcode:1964Tell...16....1L. doi:10.3402/tellusa.v16i1.8893.
+
+^ Shen, Bo-Wen; Pielke Sr., Roger; Zeng, Xubin, eds. (2023-10-11). 50th Anniversary of the Metaphorical Butterfly Effect since Lorenz (1972): Multistability, Multiscale Predictability, and Sensitivity in Numerical Models. MDPI. doi:10.3390/books978-3-0365-8911-4. ISBN 978-3-0365-8911-4.
+
+^ a b Lorenz, E. N. (December 2008). "The butterfly effect. In Premio Felice Pietro Chisesi E Caterina Tomassoni Award Lecture; University of Rome: Rome, Italy" (PDF). Archived from the original (PDF) on June 10, 2023. Retrieved January 29, 2023.
+
+^ Shen, Bo-Wen. "A Popular but Inaccurate Analogy for Chaos and Butterfly Effect". YouTube. Retrieved 2023-02-21.
+
+^ Saiki, Yoshitaka; Yorke, James A. (2023-05-02). "Can the Flap of a Butterfly's Wings Shift a Tornado into Texas—Without Chaos?". Atmosphere. 14 (5): 821. Bibcode:2023Atmos..14..821S. doi:10.3390/atmos14050821. ISSN 2073-4433.
+
+^ Stephen Coombes (February 2009). "The Geometry and Pigmentation of Seashells" (PDF). www.maths.nottingham.ac.uk. University of Nottingham. Archived (PDF) from the original on 2013-11-05. Retrieved 2013-04-10.
+
+^ Kyrtsou C.; Labys W. (2006). "Evidence for chaotic dependence between US inflation and commodity prices". Journal of Macroeconomics. 28 (1): 256–266. doi:10.1016/j.jmacro.2005.10.019.
+
+^ Kyrtsou C., Labys W.; Labys (2007). "Detecting positive feedback in multivariate time series: the case of metal prices and US inflation". Physica A. 377 (1): 227–229. Bibcode:2007PhyA..377..227K. doi:10.1016/j.physa.2006.11.002.
+
+^ Kyrtsou, C.; Vorlow, C. (2005). "Complex dynamics in macroeconomics: A novel approach". In Diebolt, C.; Kyrtsou, C. (eds.). New Trends in Macroeconomics. Springer Verlag.
+
+^ Hernández-Acosta, M. A.; Trejo-Valdez, M.; Castro-Chacón, J. H.; Miguel, C. R. Torres-San; Martínez-Gutiérrez, H. (2018). "Chaotic signatures of photoconductive Cu 2 ZnSnS 4 nanostructures explored by Lorenz attractors". New Journal of Physics. 20 (2): 023048. Bibcode:2018NJPh...20b3048H. doi:10.1088/1367-2630/aaad41. ISSN 1367-2630.
+
+^ "Applying Chaos Theory to Embedded Applications". Archived from the original on 9 August 2011.
+
+^ Hristu-Varsakelis, D.; Kyrtsou, C. (2008). "Evidence for nonlinear asymmetric causality in US inflation, metal and stock returns". Discrete Dynamics in Nature and Society. 2008: 1–7. doi:10.1155/2008/138547. 138547.
+
+^ Kyrtsou, C.; M. Terraza (2003). "Is it possible to study chaotic and ARCH behaviour jointly? Application of a noisy Mackey-Glass equation with heteroskedastic errors to the Paris Stock Exchange returns series". Computational Economics. 21 (3): 257–276. doi:10.1023/A:1023939610962. S2CID 154202123.
+
+^ Gregory-Williams, Justine; Williams, Bill (2004). Trading Chaos: Maximize Profits with Proven Technical Techniques (2nd ed.). New York: Wiley. ISBN 9780471463085.
+
+^ Peters, Edgar E. (1994). Fractal market analysis : applying chaos theory to investment and economics (2. print. ed.). New York u.a.: Wiley. ISBN 978-0471585244.
+
+^ Peters, / Edgar E. (1996). Chaos and order in the capital markets : a new view of cycles, prices, and market volatility (2nd ed.). New York: John Wiley & Sons. ISBN 978-0471139386.
+
+^ Hubler, A.; Phelps, K. (2007). "Guiding a self-adjusting system through chaos". Complexity. 13 (2): 62. Bibcode:2007Cmplx..13b..62W. doi:10.1002/cplx.20204.
+
+^ Gerig, A. (2007). "Chaos in a one-dimensional compressible flow". Physical Review E. 75 (4): 045202. arXiv:nlin/0701050. Bibcode:2007PhRvE..75d5202G. doi:10.1103/PhysRevE.75.045202. PMID 17500951. S2CID 45804559.
+
+^ Wotherspoon, T.; Hubler, A. (2009). "Adaptation to the Edge of Chaos in the Self-Adjusting Logistic Map". The Journal of Physical Chemistry A. 113 (1): 19–22. Bibcode:2009JPCA..113...19W. doi:10.1021/jp804420g. PMID 19072712.
+
+^ Borodkin, Leonid I. (2019). "Challenges of Instability: The Concepts of Synergetics in Studying the Historical Development of Russia". Ural Historical Journal. 63 (2): 127–136. doi:10.30759/1728-9718-2019-2(63)-127-136.
+
+^ Progonati, E (2018). "Brexit in the Light of Chaos Theory and Some Assumptions About the Future of the European Union". Chaos, complexity and leadership 2018 explorations of chaotic and complexity theory. Springer. ISBN 978-3-030-27672-0.
+
+^ Dilão, R.; Domingos, T. (2001). "Periodic and Quasi-Periodic Behavior in Resource Dependent Age Structured Population Models". Bulletin of Mathematical Biology. 63 (2): 207–230. doi:10.1006/bulm.2000.0213. PMID 11276524. S2CID 697164.
+
+^ a b Akhavan, A.; Samsudin, A.; Akhshani, A. (2011-10-01). "A symmetric image encryption scheme based on combination of nonlinear chaotic maps". Journal of the Franklin Institute. 348 (8): 1797–1813. doi:10.1016/j.jfranklin.2011.05.001.
+
+^ Behnia, S.; Akhshani, A.; Mahmodi, H.; Akhavan, A. (2008-01-01). "A novel algorithm for image encryption based on mixture of chaotic maps". Chaos, Solitons & Fractals. 35 (2): 408–419. Bibcode:2008CSF....35..408B. doi:10.1016/j.chaos.2006.05.011.
+
+^ Wang, Xingyuan; Zhao, Jianfeng (2012). "An improved key agreement protocol based on chaos". Commun. Nonlinear Sci. Numer. Simul. 15 (12): 4052–4057. Bibcode:2010CNSNS..15.4052W. doi:10.1016/j.cnsns.2010.02.014.
+
+^ Babaei, Majid (2013). "A novel text and image encryption method based on chaos theory and DNA computing". Natural Computing. 12 (1): 101–107. doi:10.1007/s11047-012-9334-9. S2CID 18407251.
+
+^ Akhavan, A.; Samsudin, A.; Akhshani, A. (2017-10-01). "Cryptanalysis of an image encryption algorithm based on DNA encoding". Optics & Laser Technology. 95: 94–99. Bibcode:2017OptLT..95...94A. doi:10.1016/j.optlastec.2017.04.022.
+
+^ Xu, Ming (2017-06-01). "Cryptanalysis of an Image Encryption Algorithm Based on DNA Sequence Operation and Hyper-chaotic System". 3D Research. 8 (2): 15. Bibcode:2017TDR.....8..126X. doi:10.1007/s13319-017-0126-y. ISSN 2092-6731. S2CID 125169427.
+
+^ Liu, Yuansheng; Tang, Jie; Xie, Tao (2014-08-01). "Cryptanalyzing a RGB image encryption algorithm based on DNA encoding and chaos map". Optics & Laser Technology. 60: 111–115. arXiv:1307.4279. Bibcode:2014OptLT..60..111L. doi:10.1016/j.optlastec.2014.01.015. S2CID 18740000.
+
+^ Nehmzow, Ulrich; Keith Walker (Dec 2005). "Quantitative description of robot–environment interaction using chaos theory" (PDF). Robotics and Autonomous Systems. 53 (3–4): 177–193. CiteSeerX 10.1.1.105.9178. doi:10.1016/j.robot.2005.09.009. Archived from the original (PDF) on 2017-08-12. Retrieved 2017-10-25.
+
+^ Goswami, Ambarish; Thuilot, Benoit; Espiau, Bernard (1998). "A Study of the Passive Gait of a Compass-Like Biped Robot: Symmetry and Chaos". The International Journal of Robotics Research. 17 (12): 1282–1301. CiteSeerX 10.1.1.17.4861. doi:10.1177/027836499801701202. S2CID 1283494.
+
+^ Eduardo, Liz; Ruiz-Herrera, Alfonso (2012). "Chaos in discrete structured population models". SIAM Journal on Applied Dynamical Systems. 11 (4): 1200–1214. doi:10.1137/120868980.
+
+^ Lai, Dejian (1996). "Comparison study of AR models on the Canadian lynx data: a close look at BDS statistic". Computational Statistics & Data Analysis. 22 (4): 409–423. doi:10.1016/0167-9473(95)00056-9.
+
+^ Sivakumar, B (31 January 2000). "Chaos theory in hydrology: important issues and interpretations". Journal of Hydrology. 227 (1–4): 1–20. Bibcode:2000JHyd..227....1S. doi:10.1016/S0022-1694(99)00186-9.
+
+^ Bozóki, Zsolt (February 1997). "Chaos theory and power spectrum analysis in computerized cardiotocography". European Journal of Obstetrics & Gynecology and Reproductive Biology. 71 (2): 163–168. doi:10.1016/s0301-2115(96)02628-0. PMID 9138960.
+
+^ a b c Perry, Joe; Smith, Robert; Woiwod, Ian; Morse, David (2000). Perry, Joe N; Smith, Robert H; Woiwod, Ian P; Morse, David R (eds.). Chaos in Real Data : The Analysis of Non-Linear Dynamics from Short Ecological Time Series. Population and Community Biology Series (1 ed.). Springer Science+Business Media Dordrecht. pp. xii+226. doi:10.1007/978-94-011-4010-2. ISBN 978-94-010-5772-1. S2CID 37855255.
+
+^ a b c 
+Thompson, John; Burdon, Jeremy (1992). "Gene-for-gene coevolution between plants and parasites". Review Article. Nature. 360 (6400). Nature Publishing Group: 121–125. Bibcode:1992Natur.360..121T. doi:10.1038/360121a0. eISSN 1476-4687. ISSN 0028-0836. S2CID 4346920.
+
+^ 
+Jones, Gareth (1998). Jones, D. Gareth (ed.). The Epidemiology of Plant Diseases (1 ed.). Springer Science+Business Media Dordrecht. pp. xvi + 460 + 26 b/w  ill. + 33 color ill. doi:10.1007/978-94-017-3302-1. ISBN 978-94-017-3302-1. S2CID 1793087.
+
+^ Juárez, Fernando (2011). "Applying the theory of chaos and a complex model of health to establish relations among financial indicators". Procedia Computer Science. 3: 982–986. doi:10.1016/j.procs.2010.12.161.
+
+^ Brooks, Chris (1998). "Chaos in foreign exchange markets: a sceptical view" (PDF). Computational Economics. 11 (3): 265–281. doi:10.1023/A:1008650024944. ISSN 1572-9974. S2CID 118329463. Archived (PDF) from the original on 2017-08-09.
+
+^ Orlando, Giuseppe; Zimatore, Giovanna (18 December 2017). "RQA correlations on real business cycles time series". Indian Academy of Sciences – Conference Series. 1 (1): 35–41. doi:10.29195/iascs.01.01.0009.
+
+^ Orlando, Giuseppe; Zimatore, Giovanna (1 May 2018). "Recurrence quantification analysis of business cycles". Chaos, Solitons & Fractals. 110: 82–94. Bibcode:2018CSF...110...82O. doi:10.1016/j.chaos.2018.02.032. ISSN 0960-0779. S2CID 85526993.
+
+^ Orlando, Giuseppe; Zimatore, Giovanna (1 August 2020). "Business cycle modeling between financial crises and black swans: Ornstein–Uhlenbeck stochastic process vs Kaldor deterministic chaotic model". Chaos: An Interdisciplinary Journal of Nonlinear Science. 30 (8): 083129. Bibcode:2020Chaos..30h3129O. doi:10.1063/5.0015916. PMID 32872798. S2CID 235909725.
+
+^ Salinas, Abel; Morstatter, Fred (2024-01-01). "The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance". arXiv:2401.03729 [cs.CL].
+
+^ Li, Mengshan; Xingyuan Huanga; Hesheng Liua; Bingxiang Liub; Yan Wub; Aihua Xiongc; Tianwen Dong (25 October 2013). "Prediction of gas solubility in polymers by back propagation artificial neural network based on self-adaptive particle swarm optimization algorithm and chaos theory". Fluid Phase Equilibria. 356: 11–17. doi:10.1016/j.fluid.2013.07.017.
+
+^ Morbidelli, A. (2001). "Chaotic diffusion in celestial mechanics". Regular & Chaotic Dynamics. 6 (4): 339–353. doi:10.1070/rd2001v006n04abeh000182.
+
+^ Steven Strogatz, Sync: The Emerging Science of Spontaneous Order, Hyperion, 2003
+
+^ Dingqi, Li; Yuanping Chenga; Lei Wanga; Haifeng Wanga; Liang Wanga; Hongxing Zhou (May 2011). "Prediction method for risks of coal and gas outbursts based on spatial chaos theory using gas desorption index of drill cuttings". Mining Science and Technology. 21 (3): 439–443. Bibcode:2011MiSTC..21..439L. doi:10.1016/j.mstc.2011.05.010.
+
+^ Glass, L (1997). "Dynamical disease: The impact of nonlinear dynamics and chaos on cardiology and medicine". In Grebogi, C; Yorke, J. A. (eds.). The impact of chaos on science and society. United Nations University Press.
+
+^ Mandell, A. J.; Selz, K. A. (1997). "Is the EEG a strange attractor?". In Grebogi, C; Yorke, J. A. (eds.). The impact of chaos on science and society. United Nations University Press.
+
+^ Dal Forno, Arianna; Merlone, Ugo (2013). "Nonlinear dynamics in work groups with Bion's basic assumptions". Nonlinear Dynamics, Psychology, and Life Sciences. 17 (2): 295–315. ISSN 1090-0578. PMID 23517610.
+
+^ Redington, D. J.; Reidbord, S. P. (1992). "Chaotic dynamics in autonomic nervous system activity of a patient during a psychotherapy session". Biological Psychiatry. 31 (10): 993–1007. doi:10.1016/0006-3223(92)90093-F. PMID 1511082. S2CID 214722.
+
+^ Metcalf, B. R.; Allen, J. D. (1995). "In search of chaos in schedule-induced polydipsia". In Abraham, F. D.; Gilgen, A. R. (eds.). Chaos theory in psychology. Greenwood Press.
+
+^ Pryor, Robert G. L.; Norman E. Amundson; Jim E. H. Bright (June 2008). "Probabilities and Possibilities: The Strategic Counseling Implications of the Chaos Theory of Careers". The Career Development Quarterly. 56 (4): 309–318. doi:10.1002/j.2161-0045.2008.tb00096.x.
+
+^ Thompson, Jamie; Johnstone, James; Banks, Curt (2018). "An examination of initiation rituals in a UK sporting institution and the impact on group development". European Sport Management Quarterly. 18 (5): 544–562. doi:10.1080/16184742.2018.1439984. S2CID 149352680.
+
+^ Dal Forno, Arianna; Merlone, Ugo (2013). "Chaotic Dynamics in Organization Theory". In Bischi, Gian Italo; Chiarella, Carl; Shusko, Irina (eds.). Global Analysis of Dynamic Models in Economics and Finance. Springer-Verlag. pp. 185–204. ISBN 978-3-642-29503-4.
+
+^ Wang, Jin; Qixin Shi (February 2013). "Short-term traffic speed forecasting hybrid model based on Chaos–Wavelet Analysis-Support Vector Machine theory". Transportation Research Part C: Emerging Technologies. 27: 219–232. doi:10.1016/j.trc.2012.08.004.
+
+^ "Dr. Gregory B. Pasternack – Watershed Hydrology, Geomorphology, and Ecohydraulics :: Chaos in Hydrology". pasternack.ucdavis.edu. Retrieved 2017-06-12.
+
+^ Pasternack, Gregory B. (1999-11-01). "Does the river run wild? Assessing chaos in hydrological systems". Advances in Water Resources. 23 (3): 253–260. Bibcode:1999AdWR...23..253P. doi:10.1016/s0309-1708(99)00008-1.
+
+
+Further reading[edit]
+Articles[edit]
+Sharkovskii, A.N. (1964). "Co-existence of cycles of a continuous mapping of the line into itself". Ukrainian Math. J. 16: 61–71.
+Li, T.Y.; Yorke, J.A. (1975). "Period Three Implies Chaos" (PDF). American Mathematical Monthly. 82 (10): 985–92. Bibcode:1975AmMM...82..985L. CiteSeerX 10.1.1.329.5038. doi:10.2307/2318254. JSTOR 2318254. Archived from the original (PDF) on 2009-12-29. Retrieved 2009-08-12.
+Alemansour, Hamed; Miandoab, Ehsan Maani; Pishkenari, Hossein Nejat (March 2017). "Effect of size on the chaotic behavior of nano resonators". Communications in Nonlinear Science and Numerical Simulation. 44: 495–505. Bibcode:2017CNSNS..44..495A. doi:10.1016/j.cnsns.2016.09.010.
+Crutchfield; Tucker; Morrison; J.D. Farmer; Packard; N.H.; Shaw; R.S (December 1986). "Chaos". Scientific American. 255 (6): 38–49 (bibliography p.136). Bibcode:1986SciAm.255d..38T. doi:10.1038/scientificamerican1286-46. Online version (Note: the volume and page citation cited for the online text differ from that cited here. The citation here is from a photocopy, which is consistent with other citations found online that don't provide article views. The online content is identical to the hardcopy text. Citation variations are related to country of publication).
+Kolyada, S.F. (2004). "Li-Yorke sensitivity and other concepts of chaos". Ukrainian Math. J. 56 (8): 1242–57. doi:10.1007/s11253-005-0055-4. S2CID 207251437.
+Day, R.H.; Pavlov, O.V. (2004). "Computing Economic Chaos". Computational Economics. 23 (4): 289–301. arXiv:2211.02441. doi:10.1023/B:CSEM.0000026787.81469.1f. S2CID 119972392. SSRN 806124.
+Strelioff, C.; Hübler, A. (2006). "Medium-Term Prediction of Chaos" (PDF). Phys. Rev. Lett. 96 (4): 044101. Bibcode:2006PhRvL..96d4101S. doi:10.1103/PhysRevLett.96.044101. PMID 16486826. 044101. Archived from the original (PDF) on 2013-04-26.
+Hübler, A.; Foster, G.; Phelps, K. (2007). "Managing Chaos: Thinking out of the Box" (PDF). Complexity. 12 (3): 10–13. Bibcode:2007Cmplx..12c..10H. doi:10.1002/cplx.20159. Archived from the original (PDF) on 2012-10-30. Retrieved 2011-07-17.
+Motter, Adilson E.; Campbell, David K. (2013). "Chaos at 50". Physics Today. 66 (5): 27. arXiv:1306.5777. Bibcode:2013PhT....66e..27M. doi:10.1063/PT.3.1977. S2CID 54005470.
+Textbooks[edit]
+Alligood, K.T.; Sauer, T.; Yorke, J.A. (1997). Chaos: an introduction to dynamical systems. Springer-Verlag. ISBN 978-0-387-94677-1.
+Baker, G. L. (1996). Chaos, Scattering and Statistical Mechanics. Cambridge University Press. ISBN 978-0-521-39511-3.
+Badii, R.; Politi A. (1997). Complexity: hierarchical structures and scaling in physics. Cambridge University Press. ISBN 978-0-521-66385-4.
+Collet, Pierre; Eckmann, Jean-Pierre (1980). Iterated Maps on the Interval as Dynamical Systems. Birkhauser. ISBN 978-0-8176-4926-5.
+Devaney, Robert L. (2003). An Introduction to Chaotic Dynamical Systems (2nd ed.). Westview Press. ISBN 978-0-8133-4085-2.
+Robinson, Clark (1995). Dynamical systems: Stability, symbolic dynamics, and chaos. CRC Press. ISBN 0-8493-8493-1.
+Feldman, D. P. (2012). Chaos and Fractals: An Elementary Introduction. Oxford University Press. ISBN 978-0-19-956644-0. Archived from the original on 2019-12-31. Retrieved 2016-12-29.
+Gollub, J. P.; Baker, G. L. (1996). Chaotic dynamics. Cambridge University Press. ISBN 978-0-521-47685-0.
+Guckenheimer, John; Holmes, Philip (1983). Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields. Springer-Verlag. ISBN 978-0-387-90819-9.
+Gulick, Denny (1992). Encounters with Chaos. McGraw-Hill. ISBN 978-0-07-025203-5.
+Gutzwiller, Martin (1990). Chaos in Classical and Quantum Mechanics. Springer-Verlag. ISBN 978-0-387-97173-5.
+Hoover, William Graham (2001) [1999]. Time Reversibility, Computer Simulation, and Chaos. World Scientific. ISBN 978-981-02-4073-8.
+Kautz, Richard (2011). Chaos: The Science of Predictable Random Motion. Oxford University Press. ISBN 978-0-19-959458-0.
+Kiel, L. Douglas; Elliott, Euel W. (1997). Chaos Theory in the Social Sciences. Perseus Publishing. ISBN 978-0-472-08472-2.
+Moon, Francis (1990). Chaotic and Fractal Dynamics. Springer-Verlag. ISBN 978-0-471-54571-2.
+Orlando, Giuseppe; Pisarchick, Alexander; Stoop, Ruedi (2021). Nonlinearities in Economics. Dynamic Modeling and Econometrics in Economics and Finance. Vol. 29. doi:10.1007/978-3-030-70982-2. ISBN 978-3-030-70981-5. S2CID 239756912.
+Ott, Edward (2002). Chaos in Dynamical Systems. Cambridge University Press. ISBN 978-0-521-01084-9.
+Strogatz, Steven (2000). Nonlinear Dynamics and Chaos. Perseus Publishing. ISBN 978-0-7382-0453-6.
+Sprott, Julien Clinton (2003). Chaos and Time-Series Analysis. Oxford University Press. ISBN 978-0-19-850840-3.
+Tél, Tamás; Gruiz, Márton (2006). Chaotic dynamics: An introduction based on classical mechanics. Cambridge University Press. ISBN 978-0-521-83912-9.
+Teschl, Gerald (2012). Ordinary Differential Equations and Dynamical Systems. Providence: American Mathematical Society. ISBN 978-0-8218-8328-0.
+Thompson JM, Stewart HB (2001). Nonlinear Dynamics And Chaos. John Wiley and Sons Ltd. ISBN 978-0-471-87645-8.
+Tufillaro; Reilly (1992). An experimental approach to nonlinear dynamics and chaos. American Journal of Physics. Vol. 61. Addison-Wesley. p. 958. Bibcode:1993AmJPh..61..958T. doi:10.1119/1.17380. ISBN 978-0-201-55441-0.
+Wiggins, Stephen (2003). Introduction to Applied Dynamical Systems and Chaos. Springer. ISBN 978-0-387-00177-7.
+Zaslavsky, George M. (2005). Hamiltonian Chaos and Fractional Dynamics. Oxford University Press. ISBN 978-0-19-852604-9.
+Semitechnical and popular works[edit]
+Christophe Letellier, Chaos in Nature, World Scientific Publishing Company, 2012, ISBN 978-981-4374-42-2.
+Abraham, Ralph H.; Ueda, Yoshisuke, eds. (2000). The Chaos Avant-Garde: Memoirs of the Early Days of Chaos Theory. World Scientific Series on Nonlinear Science Series A. Vol. 39. World Scientific. Bibcode:2000cagm.book.....A. doi:10.1142/4510. ISBN 978-981-238-647-2.
+Barnsley, Michael F. (2000). Fractals Everywhere. Morgan Kaufmann. ISBN 978-0-12-079069-2.
+Bird, Richard J. (2003). Chaos and Life: Complexity and Order in Evolution and Thought. Columbia University Press. ISBN 978-0-231-12662-5.
+John Briggs and David Peat, Turbulent Mirror: : An Illustrated Guide to Chaos Theory and the Science of Wholeness, Harper Perennial 1990, 224 pp.
+John Briggs and David Peat, Seven Life Lessons of Chaos: Spiritual Wisdom from the Science of Change, Harper Perennial 2000, 224 pp.
+Cunningham, Lawrence A. (1994). "From Random Walks to Chaotic Crashes: The Linear Genealogy of the Efficient Capital Market Hypothesis". George Washington Law Review. 62: 546.
+Predrag Cvitanović, Universality in Chaos, Adam Hilger 1989, 648 pp.
+Leon Glass and Michael C. Mackey, From Clocks to Chaos: The Rhythms of Life, Princeton University Press 1988, 272 pp.
+James Gleick, Chaos: Making a New Science, New York: Penguin, 1988. 368 pp.
+John Gribbin. Deep Simplicity. Penguin Press Science. Penguin Books.
+L Douglas Kiel, Euel W Elliott (ed.), Chaos Theory in the Social Sciences: Foundations and Applications, University of Michigan Press, 1997, 360 pp.
+Arvind Kumar, Chaos, Fractals and Self-Organisation; New Perspectives on Complexity in Nature , National Book Trust, 2003.
+Hans Lauwerier, Fractals, Princeton University Press, 1991.
+Edward Lorenz, The Essence of Chaos, University of Washington Press, 1996.
+Marshall, Alan (2002). The Unity of Nature - Wholeness and Disintegration in Ecology and Science. doi:10.1142/9781860949548. ISBN 9781860949548.
+David Peak and Michael Frame, Chaos Under Control: The Art and Science of Complexity, Freeman, 1994.
+Heinz-Otto Peitgen and Dietmar Saupe (Eds.), The Science of Fractal Images, Springer 1988, 312 pp.
+Nuria Perpinya, Caos, virus, calma. La Teoría del Caos aplicada al desórden artístico, social y político, Páginas de Espuma, 2021.
+Clifford A. Pickover, Computers, Pattern, Chaos, and Beauty: Graphics from an Unseen World , St Martins Pr 1991.
+Clifford A. Pickover, Chaos in Wonderland: Visual Adventures in a Fractal World, St Martins Pr 1994.
+Ilya Prigogine and Isabelle Stengers, Order Out of Chaos, Bantam 1984.
+Peitgen, Heinz-Otto; Richter, Peter H. (1986). The Beauty of Fractals. doi:10.1007/978-3-642-61717-1. ISBN 978-3-642-61719-5.
+David Ruelle, Chance and Chaos, Princeton University Press 1993.
+Ivars Peterson, Newton's Clock: Chaos in the Solar System, Freeman, 1993.
+Ian Roulstone; John Norbury (2013). Invisible in the Storm: the role of mathematics in understanding weather. Princeton University Press. ISBN 978-0691152721.
+Ruelle, D. (1989). Chaotic Evolution and Strange Attractors. doi:10.1017/CBO9780511608773. ISBN 9780521362726.
+Manfred Schroeder, Fractals, Chaos, and Power Laws, Freeman, 1991.
+Smith, Peter (1998). Explaining Chaos. doi:10.1017/CBO9780511554544. ISBN 9780511554544.
+Ian Stewart, Does God Play Dice?: The Mathematics of Chaos , Blackwell Publishers, 1990.
+Steven Strogatz, Sync: The emerging science of spontaneous order, Hyperion, 2003.
+Yoshisuke Ueda, The Road To Chaos, Aerial Pr, 1993.
+M. Mitchell Waldrop, Complexity : The Emerging Science at the Edge of Order and Chaos, Simon & Schuster, 1992.
+Antonio Sawaya, Financial Time Series Analysis : Chaos and Neurodynamics Approach, Lambert, 2012.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Chaos theory.
+
+
+
+Library resources about  Chaos theory 
+
+Resources in your library
+Resources in other libraries
+
+
+"Chaos", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Nonlinear Dynamics Research Group with Animations in Flash
+The Chaos group at the University of Maryland
+The Chaos Hypertextbook. An introductory primer on chaos and fractals
+ChaosBook.org An advanced graduate textbook on chaos (no fractals)
+Society for Chaos Theory in Psychology & Life Sciences
+Nonlinear Dynamics Research Group at CSDC, Florence, Italy
+Nonlinear dynamics: how science comprehends chaos, talk presented by Sunny Auyang, 1998.
+Nonlinear Dynamics. Models of bifurcation and chaos by Elmer G. Wiens
+Gleick's Chaos (excerpt) Archived 2007-02-02 at the Wayback Machine
+Systems Analysis, Modelling and Prediction Group at the University of Oxford
+A page about the Mackey-Glass equation
+High Anxieties — The Mathematics of Chaos (2008) BBC documentary directed by David Malone
+The chaos theory of evolution – article published in Newscientist featuring similarities of evolution and non-linear systems including fractal nature of life and chaos.
+Jos Leys, Étienne Ghys et Aurélien Alvarez, Chaos, A Mathematical Adventure. Nine films about dynamical systems, the butterfly effect and chaos theory, intended for a wide audience.
+"Chaos Theory", BBC Radio 4 discussion with Susan Greenfield, David Papineau & Neil Johnson (In Our Time, May 16, 2002)
+Chaos: The Science of the Butterfly Effect (2019) an explanation presented by Derek Muller
+Copyright note[edit]
+ This article incorporates text from a free content work.  Licensed under CC-BY (license statement/permission). Text taken from Three Kinds of Butterfly Effects within Lorenz Models​,  Bo-Wen Shen, Roger A. Pielke, Sr., Xubin Zeng, Jialin Cui, Sara Faghih-Naini, Wei Paxson, and Robert Atlas, MDPI. Encyclopedia.
+vteChaos theoryConceptsCore
+Attractor
+Bifurcation
+Fractal
+Limit set
+Lyapunov exponent
+Orbit
+Periodic point
+Phase space
+
+Anosov diffeomorphism
+Arnold tongue
+axiom A dynamical system
+Bifurcation diagram
+Box-counting dimension
+Correlation dimension
+Conservative system
+Ergodicity
+False nearest neighbors
+Hausdorff dimension
+Invariant measure
+Lyapunov stability
+Measure-preserving dynamical system
+Mixing
+Poincaré section
+Recurrence plot
+SRB measure
+Stable manifold
+Topological conjugacy
+Theorems
+Ergodic theorem
+Liouville's theorem
+Krylov–Bogolyubov theorem
+Poincaré–Bendixson theorem
+Poincaré recurrence theorem
+Stable manifold theorem
+Takens's theorem
+
+
+
+Theoreticalbranches
+Bifurcation theory
+Control of chaos
+Dynamical system
+Ergodic theory
+Quantum chaos
+Stability theory
+Synchronization of chaos
+Chaoticmaps (list)Discrete
+Arnold's cat map
+Baker's map
+Complex quadratic map
+Coupled map lattice
+Duffing map
+Dyadic transformation
+Dynamical billiards
+outer
+Exponential map
+Gauss map
+Gingerbreadman map
+Hénon map
+Horseshoe map
+Ikeda map
+Interval exchange map
+Irrational rotation
+Kaplan–Yorke map
+Langton's ant
+Logistic map
+Standard map
+Tent map
+Tinkerbell map
+Zaslavskii map
+Continuous
+Double scroll attractor
+Duffing equation
+Lorenz system
+Lotka–Volterra equations
+Mackey–Glass equations
+Rabinovich–Fabrikant equations
+Rössler attractor
+Three-body problem
+Van der Pol oscillator
+Physicalsystems
+Chua's circuit
+Convection
+Double pendulum
+Elastic pendulum
+FPUT problem
+Hénon–Heiles system
+Kicked rotator
+Multiscroll attractor
+Population dynamics
+Swinging Atwood's machine
+Tilt-A-Whirl
+Weather
+Chaostheorists
+Michael Berry
+Rufus Bowen
+Mary Cartwright
+Chen Guanrong
+Leon O. Chua
+Mitchell Feigenbaum
+Peter Grassberger
+Celso Grebogi
+Martin Gutzwiller
+Brosl Hasslacher
+Michel Hénon
+Svetlana Jitomirskaya
+Bryna Kra
+Edward Norton Lorenz
+Aleksandr Lyapunov
+Benoît Mandelbrot
+Hee Oh
+Edward Ott
+Henri Poincaré
+Itamar Procaccia
+Mary Rees
+Otto Rössler
+David Ruelle
+Caroline Series
+Yakov Sinai
+Oleksandr Mykolayovych Sharkovsky
+Nina Snaith
+Floris Takens
+Audrey Terras
+Mary Tsingou
+Marcelo Viana
+Amie Wilkinson
+James A. Yorke
+Lai-Sang Young
+Relatedarticles
+Butterfly effect
+Complexity
+Edge of chaos
+Predictability
+Santa Fe Institute
+
+vtePatterns in naturePatterns
+Crack
+Dune
+Foam
+Meander
+Parastichy
+Phyllotaxis
+Soap bubble
+Symmetry
+in crystals
+Quasicrystals
+in flowers
+in biology
+Tessellation
+Vortex street
+Wave
+Widmanstätten pattern
+Causes
+Pattern formation
+Biology
+Natural selection
+Camouflage
+Mimicry
+Sexual selection
+Mathematics
+Chaos theory
+Fractal
+Logarithmic spiral
+Physics
+Crystal
+Fluid dynamics
+Plateau's laws
+Self-organization
+People
+Plato
+Pythagoras
+Empedocles
+Fibonacci
+Liber Abaci
+Adolf Zeising
+Ernst Haeckel
+Joseph Plateau
+Wilson Bentley
+D'Arcy Wentworth Thompson
+On Growth and Form
+Alan Turing
+The Chemical Basis of Morphogenesis
+Aristid Lindenmayer
+Benoît Mandelbrot
+How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension
+Related
+Pattern recognition
+Emergence
+Mathematics and art
+
+Authority control databases: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Chaos_theory&oldid=1226326876"
+Categories: Chaos theoryComplex systems theoryComputational fields of studyHidden categories: CS1 Russian-language sources (ru)CS1: long volume valueArticles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2008Commons category link from WikidataWebarchive template wayback linksFree-content attributionFree content from MDPIArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NKC identifiers
+
+
+
+
+
+
+ This page was last edited on 29 May 2024, at 22:59 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

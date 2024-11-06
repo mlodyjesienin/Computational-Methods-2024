@@ -1,0 +1,808 @@
+
+
+
+
+Combinatorial principles - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Rule of sum
+
+
+
+
+
+
+
+
+2
+Rule of product
+
+
+
+
+
+
+
+
+3
+Inclusion–exclusion principle
+
+
+
+
+
+
+
+
+4
+Rule of division
+
+
+
+
+
+
+
+
+5
+Bijective proof
+
+
+
+
+
+
+
+
+6
+Double counting
+
+
+
+
+
+
+
+
+7
+Pigeonhole principle
+
+
+
+
+
+
+
+
+8
+Method of distinguished element
+
+
+
+
+
+
+
+
+9
+Generating function
+
+
+
+
+
+
+
+
+10
+Recurrence relation
+
+
+
+
+
+
+
+
+11
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Combinatorial principles
+
+
+
+9 languages
+
+
+
+
+አማርኛالعربيةEspañolEsperantoBahasa IndonesiaPortuguêsРусскийУкраїнська中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Methods used in combinatorics
+In proving results in combinatorics several useful combinatorial rules or combinatorial principles are commonly recognized and used.
+The rule of sum, rule of product, and inclusion–exclusion principle are often used for enumerative purposes. Bijective proofs are utilized to demonstrate that two sets have the same number of elements. The pigeonhole principle often ascertains the existence of something or is used to determine the minimum or maximum number of something in a discrete context. 
+Many combinatorial identities arise from double counting methods or the method of distinguished element. Generating functions and recurrence relations are powerful tools that can be used to manipulate sequences, and can describe if not resolve many combinatorial situations.
+
+
+Rule of sum[edit]
+Main article: Rule of sum
+The rule of sum is an intuitive principle stating that if there are a possible outcomes for an event (or ways to do something) and b possible outcomes for another event (or ways to do another thing), and the two events cannot both occur (or the two things can't both be done), then there are a + b total possible outcomes for the events (or total possible ways to do one of the things). More formally, the sum of the sizes of two disjoint sets is equal to the size of their union.
+
+Rule of product[edit]
+Main article: Rule of product
+The rule of product is another intuitive principle stating that if there are a ways to do something and b ways to do another thing, then there are a · b ways to do both things.
+
+Inclusion–exclusion principle[edit]
+Inclusion–exclusion illustrated for three sets
+Main article: Inclusion–exclusion principle
+The inclusion–exclusion principle relates the size of the union of multiple sets, the size of each set, and the size of each possible intersection of the sets. The smallest example is when there are two sets: the number of elements in the union of A and B is equal to the sum of the number of elements in A and B, minus the number of elements in their intersection.
+Generally, according to this principle, if A1, …, An are finite sets, then
+
+
+
+
+
+
+
+
+
+
+|
+
+
+⋃
+
+i
+=
+1
+
+
+n
+
+
+
+A
+
+i
+
+
+
+|
+
+
+
+
+
+
+=
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+|
+
+A
+
+i
+
+
+|
+
+−
+
+∑
+
+i
+,
+j
+
+:
+
+1
+≤
+i
+<
+j
+≤
+n
+
+
+
+|
+
+
+A
+
+i
+
+
+∩
+
+A
+
+j
+
+
+
+|
+
+
+
+
+
+
+
+
+
+
++
+
+∑
+
+i
+,
+j
+,
+k
+
+:
+
+1
+≤
+i
+<
+j
+<
+k
+≤
+n
+
+
+
+|
+
+
+A
+
+i
+
+
+∩
+
+A
+
+j
+
+
+∩
+
+A
+
+k
+
+
+
+|
+
+−
+ 
+⋯
+ 
++
+
+
+(
+
+−
+1
+
+)
+
+
+n
+−
+1
+
+
+
+|
+
+
+A
+
+1
+
+
+∩
+⋯
+∩
+
+A
+
+n
+
+
+
+|
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\left|\bigcup _{i=1}^{n}A_{i}\right|&{}=\sum _{i=1}^{n}\left|A_{i}\right|-\sum _{i,j\,:\,1\leq i<j\leq n}\left|A_{i}\cap A_{j}\right|\\&{}\qquad +\sum _{i,j,k\,:\,1\leq i<j<k\leq n}\left|A_{i}\cap A_{j}\cap A_{k}\right|-\ \cdots \ +\left(-1\right)^{n-1}\left|A_{1}\cap \cdots \cap A_{n}\right|.\end{aligned}}}
+
+
+Rule of division[edit]
+Main article: Rule of division (combinatorics)
+The rule of division states that there are n/d ways to do a task if it can be done using a procedure that can be carried out in n ways, and for every way w, exactly d of the n ways correspond to way w.
+
+Bijective proof[edit]
+Main article: Bijective proof
+Bijective proofs prove that two sets have the same number of elements by finding a bijective function (one-to-one correspondence) from one set to the other.
+
+Double counting[edit]
+Main article: Double counting (proof technique)
+Double counting is a technique that equates two expressions that count the size of a set in two ways.
+
+Pigeonhole principle[edit]
+Main article: Pigeonhole principle
+The pigeonhole principle states that if a items are each put into one of b boxes, where a > b, then one of the boxes contains more than one item. Using this one can, for example, demonstrate the existence of some element in a set with some specific properties.
+
+Method of distinguished element[edit]
+Main article: Method of distinguished element
+The method of distinguished element singles out a "distinguished element" of a set to prove some result.
+
+Generating function[edit]
+Main article: Generating function
+Generating functions can be thought of as polynomials with infinitely many terms whose coefficients correspond to terms of a sequence. This new representation of the sequence opens up new methods for finding identities and closed forms pertaining to certain sequences. The (ordinary) generating function of a sequence an is
+
+
+
+
+
+G
+(
+
+a
+
+n
+
+
+;
+x
+)
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+a
+
+n
+
+
+
+x
+
+n
+
+
+.
+
+
+{\displaystyle G(a_{n};x)=\sum _{n=0}^{\infty }a_{n}x^{n}.}
+
+
+Recurrence relation[edit]
+Main article: Recurrence relation
+A recurrence relation defines each term of a sequence in terms of the preceding terms. Recurrence relations may lead to previously unknown properties of a sequence, but generally closed-form expressions for the terms of a sequence are more desired.
+
+References[edit]
+van Lint, J.H.; Wilson, R.M. (2001). A Course in Combinatorics (2nd ed.). Cambridge University Press. ISBN 0-521-00601-5.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Combinatorial_principles&oldid=1205868018"
+Categories: CombinatoricsMathematical principlesHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 10 February 2024, at 16:43 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

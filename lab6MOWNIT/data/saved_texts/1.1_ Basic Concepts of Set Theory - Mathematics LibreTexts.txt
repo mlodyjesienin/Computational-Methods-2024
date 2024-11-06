@@ -1,0 +1,611 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.1: Basic Concepts of Set Theory - Mathematics LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+1: Tools for AnalysisIntroduction to Mathematical Analysis I (Lafferriere, Lafferriere, and Nguyen){ }{ "1.01:_Basic_Concepts_of_Set_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.02:_Functions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.03:_The_Natural_Numbers_and_Mathematical_Induction" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.04:_Ordered_Field_Axioms" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.05:_The_Completeness_Axiom_for_the_Real_Numbers" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "1.06:_Applications_of_the_Completeness_Axiom" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "01:_Tools_for_Analysis" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02:_Sequences" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03:_Limits_and_Continuity" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04:_Differentiation" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05:_Solutions_and_Hints_for_Selected_Exercises" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Sun, 05 Sep 2021 07:28:06 GMT1.1: Basic Concepts of Set Theory4909249092admin{ }AnonymousAnonymous2falsefalse[ "article:topic", "Rational Numbers", "license:ccbyncsa", "showtoc:no", "empty set", "Cartesian product", "elements (set)", "members of the set", "ordered pair", "authorname:lafferriereetal", "program:pdxopen" ][ "article:topic", "Rational Numbers", "license:ccbyncsa", "showtoc:no", "empty set", "Cartesian product", "elements (set)", "members of the set", "ordered pair", "authorname:lafferriereetal", "program:pdxopen" ]https://math.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fmath.libretexts.org%2FBookshelves%2FAnalysis%2FIntroduction_to_Mathematical_Analysis_I_(Lafferriere_Lafferriere_and_Nguyen)%2F01%253A_Tools_for_Analysis%2F1.01%253A_Basic_Concepts_of_Set_Theory
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Analysis
+                            
+
+
+
+
+                                    Introduction to Mathematical Analysis I (Lafferriere, Lafferriere, and Nguyen)
+                            
+
+
+
+
+                                    1: Tools for Analysis
+                            
+
+
+
+                            1.1: Basic Concepts of Set Theory
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        1.1: Basic Concepts of Set Theory
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID49092
+
+
+
+
+Lafferriere, Lafferriere, and NguyenPortland State University via PDXOpen: Open Educational Resources
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+Theorem \(\PageIndex{1}\)Theorem \(\PageIndex{2}\)Theorem \(\PageIndex{3}\)Example \(\PageIndex{1}\)Example \(\PageIndex{2}\)
+
+
+
+Intuitively, a set is a collection of objects with certain properties. The objects in a set are called the elements or members of the set. We usually use uppercase letters to denote sets and lowercase letters to denote elements of sets. If \(a\) is an element of set \(A\), we write \(a \in A\). If \(a\) is not an element of a set \(A\), we write \(a \notin A\). To specify a set, we can list all of its elements, if possible, or we can use a defining rule. For instance, to specify the fact that a set \(A\) contains four elements \(a, b, c, d\), we write
+\[A=\{a, b, c, d\}.\]
+To describe the set I containing all even integers, we write
+\[E=\{x: x=2 k\text{ for some integer } k \}.\]
+We say that a set \(A\) is a subset of a set \(B\) if every element of \(A\) is also an element of \(B\), and write \[A \subset B \text { or } B \supset A.\]
+Two sets are equal if they contain the same elements. If \(A\) and \(B\) are equal, we write \(A=B\). The following result is straightforward and very convenient for proving equality between sets.
+Theorem \(\PageIndex{1}\)
+Two sets \(A\) and \(B\) are equal if and only if \(A \subset B\) and \(B \subset A\).
+If \(A \subset B\) and \(A\) does not equal \(B\), we say that \(A\) is a proper subset of \(B\), and write \(A \subsetneq B\).
+
+The set \(\boldsymbol{\theta}=\{x: x \neq x\}\) is called the empty set. This set clearly has no elements. Using Theorem 1.1.1, it is easy to show that all sets with no elements are equal. Thus, we refer to the empty set.
+Throughout this book, we will discuss several sets of numbers which should be familiar to the reader:
+
+\(\mathbb{N}=\{1,2,3, \ldots\}\), the set of natural numbers or positive integers.
+\(\mathbb{Z}=\{0,1,-1,2,-2, \ldots\}\), the set of integers (that is, the natural numbers together with zero and the negative of each natural number).
+\(\mathbb{Q}=\{m / n: m, n \in \mathbb{Z}, n \neq 0\}\), the set of rational numbers.
+\(\mathbb{R}\), the set of real numbers.
+Intervals, for \(a, b \in \mathbb{R}\), we have
+
+\([ a, b]=\{x \in \mathbb{R}: a \leq x \leq b\}\),
+\((a, b]=\{x \in \mathbb{R}: a<x \leq b\}\),
+\([ a, \infty)=\{x \in \mathbb{R}: a \leq x\}\),
+\((a, \infty)=\{x \in \mathbb{R}: a<x\}\),
+and similar definitions for \((a,b)\), \([a,b)\), \((-\infty,b]\), and \((-\infty,b)\). We will say more about the symbols \(\infty\) and \(-\infty\) in Section 1.5.
+Since the real numbers are central to the study of analysis, we will discuss them in great detain in Sections 1.4, 1.5, and 1.6.
+For two sets \(A\) and \(B\), the union, intersection, difference, and symmetric difference of \(A\) and \(B\) are given respectively by
+\(A \cup B=\{x: x \in A \text { or } x \in B\}\)
+\(A \cap B=\{x: x \in A \text { and } x \in B\}\)
+\(A \backslash B=\{x: x \in A \text { and } x \notin B\}\), and
+\(A \Delta B=(A \backslash B) \cup(B \backslash A)\).
+If \(A \cap B=\emptyset\), we say that \(A\) and \(B\) are disjoint.
+The difference of \(A\) and \(B\) is also called the complement of \(B\) in \(A\). If \(X\) is a universal set, that is, a set containing all the objects under consideration, then the complement of \(A\) in \(X\) is denoted simply by \(A^{c}\)
+Theorem \(\PageIndex{2}\)
+Let \(A\),\(B\), and \(C\) be subsets of a universal set \(X\). Then the following hold:
+
+\(A \cup A^{c}=X\);
+\(A \cap A^{c}=\emptyset\);
+\(\left(A^{c}\right)^{c}=A\);
+\((\mathit{Distributive law}) A \cap(B \cup C)=(A \cap B) \cup(A \cap C)\);
+
+
+The proofs of the following properties are similar to those in Theorem 1.1.2. We include the proof of part (a) and leave the rest as an exercise.
+Theorem \(\PageIndex{3}\)
+Let \(\left\{A_{i}: i \in I\right\}\) be an indexed family of subsets of a universal set \(X\) and let \(B\) be a subset of \(X\). Then the following hold:
+
+\(B \cup\left(\bigcap_{i \in I} A_{i}\right)=\bigcap_{i \in I} B \cup A_{i}\);
+\(B \cup\left(\bigcap_{i \in I} A_{i}\right)=\bigcup_{i \in I} B \cup A_{i}\);
+\(B \backslash\left(\bigcap_{i \in I} A_{i}\right)=\bigcup_{i \in I} B \backslash A_{i}\);
+\(B \backslash\left(\bigcup_{i \in I} A_{i}\right)=\bigcap_{i \in I} B \backslash A_{i}\);
+\(\left(\bigcap_{i \in I} A_{i}\right)^{c}=\bigcup_{i \in I} A^{c}\);
+\(\left(\bigcup_{i \in I} A_{i}\right)^{c}=\bigcap_{i \in I} A^{c}\).
+
+
+Proof
+
+Proof of (a): Let \(x \in B \cup\left(\bigcap_{i \in I} A_{i}\right)\). Then \(x \in B\) or \(x \in \bigcap_{i \in I} A_{i}\). If \(x \in B\), then \(x \in B \cup A_{i}\) for all \(i \in I\) and, thus, \(x \in \bigcap_{i \in I} B \cup A_{i}\). If \(x \in \bigcap_{i \in I} A_{i}\), then \(x \in A_{i}\) for all \(i \in I\). Therefore, \(x \in B \cup A_{i}\) for all \(i \in I\) and, hence, \(x \in \bigcap_{i \in I} B \cup A_{i}\). We have thus showed \(B \cup\left(\bigcap_{i \in I} A_{i}\right) \subset \bigcap_{i \in I} B \cup A_{i}\).
+Now let \(x \in \bigcap_{i \in I} B \cup A_{i}\). Then \(x \in B \cup A_{i}\) for all \(i \in I\). If \(x \in B\), then \(x \in B \cup\left(\bigcap_{i \in I} A_{i}\right)\). If \(x \notin B\), then we must have that \(x \in A_{i}\) for all \(i \in I\). Therefore, \(x \in \bigcap_{i \in I} A_{i}\) and, hence, \(x \in B \cup\left(\bigcap_{i \in I} A_{i}\right)\). This proves the other inclusion and, so, the equality. \(\square\)
+
+
+
+We want to consider pairs of objects in which the order matters. Given objects \(a\) and \(b\), we will denote by \((a, b)\) the ordered pair where \(a\) is the first element and \(b\) is the second element. The main characteristic of ordered pairs is that \((a, b)=(c, d)\) if and only if \(a=c\) and \(b=d\). Thus, the ordered pair \((0,1)\) represents a different object than the pair \((1,0)\) (while the set \(\{0,1\}\) is the same as the set \(\{1,0\}\))1.
+Given two sets \(A\) and \(B\), the Cartesian product  of \(A\) and \(B\) is the set defined by
+\[A \times B:=\{(a, b): a \in A \text { and } b \in B\}.\]
+Example \(\PageIndex{1}\)
+If \(A=\{1,2\}\) and \(B=\{-2,0,1\}\), then
+\[A \times B=\{(1,-2),(1,0),(1,1),(2,-2),(2,0),(2,1)\}.\]
+
+Example \(\PageIndex{2}\)
+If \(A\) and \(B\) are the intervals \([-1,2]\) and \([0,7]\) respectively, then \(A \times B\) is the rectangle
+\[[-1,2] \times[0,7]=\{(x, y):-1 \leq x \leq 2,0 \leq y \leq 7\}.\]
+
+We will make use of cartesian products in the next section when we discuss functions.
+
+Exercise \(\PageIndex{1}\)
+Prove the remaining items in Theorem 1.1.2.
+
+Answer
+
+Add texts here. Do not delete this text first.
+
+
+
+
+Exercise \(\PageIndex{2}\)
+Let \(Y\) and \(Z\) be subsets of \(X\). Prove that
+\[(X \backslash Y) \cap Z=Z \backslash(Y \cap Z).\]
+
+Answer
+
+Add texts here. Do not delete this text first.
+
+
+
+
+Exercise \(\PageIndex{3}\)
+Prove the remaining items in Theorem 1.1.3.
+
+Answer
+
+Add texts here. Do not delete this text first.
+
+
+
+
+Exercise \(\PageIndex{4}\)
+Let \(A\), \(B\), \(C\), and \(D\) be sets. Prove the following.
+
+\((A \cap B) \times C=(A \times C) \cap(B \times C)\).
+\((A \cup B) \times C=(A \times C) \cup(B \times C)\)
+\((A \times B) \cap(C \times D)=(A \cap C) \times(B \cap D)\).
+
+
+Answer
+
+Add texts here. Do not delete this text first.
+
+
+
+
+Exercise \(\PageIndex{5}\)
+Let \(A \subset X\) and \(B \subset Y\). Determine if the following equalities are true and justify your answer:
+
+\((X \times Y) \backslash(A \times B)=(X \backslash A) \times(Y \backslash B)\).
+\((X \times Y) \backslash(A \times B)=[(X \backslash A) \times Y] \cup[X \times(Y \backslash B)]\).
+
+
+Answer
+
+Add texts here. Do not delete this text first.
+
+
+
+1 For a precise definition of ordered pair in terms of sets see [Lay13]
+
+This page titled 1.1: Basic Concepts of Set Theory is shared under a CC BY-NC-SA    license and was authored, remixed, and/or curated by Lafferriere, Lafferriere, and Nguyen (PDXOpen: Open Educational Resources) . 
+
+
+
+
+
+
+
+
+Back to top
+
+
+1: Tools for Analysis
+
+
+1.2: Functions
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+Author
+Lafferriere, Lafferriere, and Nguyen
+
+
+License
+CC BY-NC-SA
+
+
+OER program or Publisher
+PDXOpen
+
+
+Show Page TOC
+no
+
+
+
+Tags
+
+
+ Cartesian product
+ elements (set)
+ empty set
+ members of the set
+ ordered pair
+ Rational Numbers
+
+
+
+
+
+
+
+
+
+
+© Copyright 2024 Mathematics LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

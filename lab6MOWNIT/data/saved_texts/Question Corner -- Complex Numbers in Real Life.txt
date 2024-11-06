@@ -1,0 +1,190 @@
+
+
+
+
+Question Corner -- Complex Numbers in Real Life
+
+ Navigation Panel: Previous | Up | Forward | Graphical Version | PostScript version | U of T Math Network Home 
+University of Toronto Mathematics NetworkQuestion Corner and Discussion Area
+Complex Numbers in Real Life
+
+
+Asked by Domenico Tatone (teacher), Mayfield Secondary School on Friday May 3, 1996:
+I've been stumped!  
+After teaching complex numbers, my students have asked me the obvious question:
+Where is this math used in real life!
+Your assistance would be greatly appreciated.
+
+
+I'm going to give you my answer;
+if anybody else out there has some other
+particularly effective examples, please
+share them with us using the form below.
+There are two distinct areas that I would want to address when
+discussing complex numbers in real life:
+Real-life quantities that are naturally described by complex
+numbers rather than real numbers;
+Real-life quantities which, though they're described by real
+numbers, are nevertheless best understood through the mathematics of
+complex numbers.
+
+The problem is that most people are looking for examples of the first
+kind, which are fairly rare, whereas examples of the second kind occur
+all the time.
+Here are some examples of the first kind that spring to mind. In
+electronics, the state of a circuit element is described by two real
+numbers (the voltage V across it and the current I flowing through
+it). A circuit element also may possess a capacitance C and an
+inductance L that (in simplistic terms) describe its tendency to
+resist changes in voltage and current respectively.
+These are much better described by complex numbers. Rather than the
+circuit element's state having to be described by two different real
+numbers V and I, it can be described by a single complex number 
+z = V + i I.  Similarly, inductance and capacitance can be thought of as the
+real and imaginary parts of another single complex number w = C + i L.
+The laws of electricity can be expressed using complex addition and
+multiplication.
+Another example is electromagnetism. Rather than trying to describe an
+electromagnetic field by two real quantities (electric field strength
+and magnetic field strength), it is best described as a single complex
+number, of which the electric and magnetic components are simply the
+real and imaginary parts.
+What's a little bit lacking in these examples so far is why it is
+complex numbers (rather than just two-dimensional vectors) that are
+appropriate; i.e., what physical applications complex multiplication
+has. I'm not sure of the best way to do this without getting too far
+into the physics, but you could talk about a beam of light passing
+through a medium which both reduces the intensity and shifts the
+phase, and how that is simply multiplication by a single complex
+number.
+Much more important is the second kind of application of complex
+numbers, and this is much harder to get across. I'm inclined to do
+this by analogy. Think of measuring two populations: Population A, 236
+people, 48 of them children. Population B, 1234 people, 123 of them
+children. You might say that the fraction of children in population A
+is 48/236 while the fraction of children in population B is 123/1234,
+and that 48/236 (approx. 0.2) is much less than 123/1234
+(approx. 0.1), so population A is a much younger population on the
+whole.
+Now point out that you have used fractions, non-integer numbers, in a
+problem where they have no physical relevance. You can't measure
+populations in fractions; you can't have "half a person", for
+example. The kind of numbers that have direct relevance to measuring
+numbers of people are the natural numbers; fractions are just as alien
+to this context as the complex numbers are alien to most real-world
+measurements. And yet, despite this, allowing ourselves to move from
+the natural numbers to the larger set of rational numbers enabled us
+to deduce something about the real world situation, even though
+measurements in that particular real world situation only involve
+natural numbers.
+In the same way, being willing to think about what happens in the
+larger set of complex numbers allows us to draw conclusions about real
+world situations even when actual measurements in that particular real
+world situation only involve the real numbers. You can point out that
+this happens all the time in engineering applications. If your
+students have seen some calculus, you can talk about trying to solve
+equations like a y" + b y' + c y = 0 (*) for the unknown
+function y. State that there's a way to get the solutions provided one
+can solve the quadratic equation a r^2 + b r + c = 0 for the variable
+r. In the real numbers, there may not be any solutions. However, in
+the complex numbers there are, so one can find all complex-valued
+solutions to the equation (*), and then finally restrict oneself to
+those that are purely real-valued. The starting and ending points of
+the argument involve only real numbers, but one can't get from the
+start to the end without going through the complex numbers. Since
+equations like (*) need to be solved all the time in real-life
+applications such as engineering, complex numbers are needed.
+Those are some thoughts on how I would try to answer the question
+"where are complex numbers used in real life".
+
+Followup question by Greg Castle, Dickson College
+(Australia) on October 21, 1996:
+I am doing an assignment on complex numbers and their applications in
+the real world.  I have found some fields where they are used,
+in engineering for example, but I really require formulas.  Any
+formulas involving complex numbers that are used in the real world
+would be appreciated.
+
+
+It's a little difficult to answer you're question without knowing
+what kind of formulas you're asking for (it's sort of like asking somebody
+for a sentence; you could write a sentence about just about anything!)
+You can have formulas for simple laws; for example, the basic law relating
+current to voltage in a DC circuit, V = IR where V = voltage, I = current,
+and R = resistance, generalizes through the use of complex numbers
+to an AC signal of frequency w passing through a circuit with resitance,
+capacitance, and/or inductance, in the following way:
+A sinusoidal voltage of frequency w can be thought of as the
+real-valued part of a complex-valued exponential function
+
+                  i w t / (2 pi)
+        V(t) = A e               .
+Similarly, the corresponding current can be thought of as the
+real-valued part of a complex-valued function I(t). These complex-valued
+functions are examples of the second kind of application of
+complex numbers I described above: they don't have direct physical
+relevance
+(only their real parts do), but they provide a better context in which
+to understand the physically relevant parts.
+When such a voltage is passed through a circuit of resistance R,
+capacitance C, and inductance L, the circuit impedes the signal.
+The amount by which it impedes the signal is called the impedance
+and this is an example of the first kind of application
+of complex numbers I described above: a quantity with direct physical
+relevance that is described by a complex number. It is given by
+Z = R + i w L + 1 / (i w C) 
+and the circuit law becomes
+V = I Z 
+where these are all complex numbers and the multiplication is complex
+multiplication.
+So there's one example of a simple formula used in circuit analysis,
+generalizing the resistance-only case to the case of inductance,
+resistance,
+and capacitance in a single-frequency AC circuit.
+Other formulas using complex numbers arise in doing calculations even
+in cases where everything involved is a real number. For example,
+there's an easy direct way to solve a first order linear differential
+equation of the form y'(t) + a y(t) = h(t). But in applications,
+such as any kind of vibration analysis or wave motion analysis, one
+typically has a second order equation to solve.
+Consider, for instance,
+the equation y"(t) + y(t) = 1. For a direct solution, one would like
+to "factor out" the differentiation and write the equation as
+( (d/dt) + r ) ( (d/dt) + s ) (y(t)) = 1. Then you can let g(t)
+denote ( (d/dt) + s ) (y(t)), and we have the first-order equation
+g'(t) + r g(t) = 1 which can be solved for g(t) using the method
+for first-order equations. Finally, you then use the fact that
+y'(t) + s y(t) = g(t) to solve for y(t) using first-order methods.
+However, in order for ( (d/dt) + r ) ( (d/dt) + s ) (y(t))
+to be the same as y"(t) + y(t) (so that the method will work),
+it turns out that r and s have to be roots of the polynomial
+x^2+1, so we need r=i, s=-i. Therefore, passing through
+complex numbers gives a direct method of solving a differential
+equation, even though the equation itself and the final solution
+are all real-valued.
+I hope the formulas in this and the previous example are of some
+use to you.
+Asked by
+Melissa Bellin and Stephanie Carlson, students, Maple Grove Senior High on January 14, 1997:
+For my algebra class I need to find out how and why a 
+specific job uses the square roots of negative numbers.
+Thanks for your help!
+
+
+Some examples that come to mind are electrical engineers,
+electronic circuit designers,
+and also anyone in a profession where differential equations
+need to be solved. Besides, of course, mathematicians and
+physicists!
+For more information, you might want to look at the answers
+given previously in this question.
+
+[ Submit Your Own Question ] [
+Create a Discussion Topic ]
+This part of the site
+
+maintained by
+(No Current Maintainers)Last updated: April 19, 1999Original Web Site Creator / Mathematical Content Developer:
+Philip SpencerCurrent Network Coordinator and Contact Person:
+Joel Chan - mathnet@math.toronto.eduNavigation Panel:    Go backward to The Origin of Complex Numbers   Go up to Question Corner Index   Go forward to More Complex Number Questions   Switch to graphical version (better pictures & formulas)   Access printed version in PostScript format (requires PostScript printer)   Go to University of Toronto Mathematics Network
+Home Page

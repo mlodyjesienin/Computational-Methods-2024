@@ -1,0 +1,2336 @@
+
+
+
+
+teaching - Is Galois theory necessary (in a basic graduate algebra course)? - MathOverflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            MathOverflow
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            MathOverflow Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Is Galois theory necessary (in a basic graduate algebra course)?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+13 years, 10 months ago
+
+
+Modified
+8 years, 2 months ago
+
+
+Viewed
+                        25k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+            51
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+By definition, a basic graduate algebra course in a U.S. (or similar) university with
+a Ph.D. program in mathematics lasts part or all of an academic year and is taken 
+by first (sometimes second) year graduate students who are usually attracted 
+primarily to "pure" mathematics and hope for a career combining some mixture
+of teaching, problem-solving, basic research.  This definition already covers a lot of
+possibilities, especially if broadened to include those institutions offering only a 
+master's degree.   Most users of MO have probably had (or avoided) such
+an algebra course along the way, beyond an undergraduate introduction.
+There is a long "abstract" or "modern" algebra  tradition  going back to E. Noether 
+and B. van der Waerden, but the steady growth of mathematics has added a huge
+amount of material to textbooks and has also created too much competition for the
+time of beginning graduate students.    In practice many students can and do bypass
+algebra at this level.    My own sporadic teaching of algebra took place in three
+quite different departments (Oregon, Courant, UMass) with varying research
+emphasis on algebraic number theory: the most likely place where mathematicians
+will really need a lot of Galois theory.    
+Galois theory has an illustrious history and (to quote Lang) "gives very quickly an
+impression of depth".   It exposes students to real mathematics, combining the 
+study of polynomial rings, fields, and groups in unexpected ways.   But it also
+takes quite a bit of time to develop properly, together with supporting material.
+And people no longer care as much about solving polynomial equations exactly
+as about using sophisticated computational methods to estimate roots.   In real
+life the eigenvalues of a big matrix are not estimated by factoring the characteristic
+polynomial.
+Especially in a first semester algebra course taken by a wider range of students,
+I've found it more rewarding to spend time developing the parallel between 
+finite abelian groups and finitely generated torsion modules over $F[x]$ (unified
+in the theory of finitely generated modules over PIDs).   This is challenging 
+material but gets at some of the canonical form theory for operators in the way 
+most mathematicians should understand it for theory and applications.  The minimal polynomial comes into its own here.
+Even in a second semester course, where tradition at UMass and many other
+departments has favored Galois theory, there may be a stronger case to make for 
+teaching  basic character theory of finite groups.   This too is a meeting ground
+for many subjects and has even broader applicability than Galois theory when 
+developed into full scale representation theory.   (For number theorists, there is 
+the neat proof that degrees of irreducible characters divide the group order.)
+Working in algebraic Lie theory and representation theory, subjects unseen by most
+Ph.D. students, I am especially conscious of choices about which subjects students
+get exposed to formally.  Algebraic and differential geometry often have their
+own standard (but not first year) courses in departments like UMass, but most 
+people with a Ph.D. in mathematics get by without even those subjects in their
+background.     "What should every mathematician know?" seems more elusive 
+than ever.
+
+Is Galois theory necessary (in a basic graduate algebra course)?
+
+POSTSCRIPT: I appreciate the fact that so many people have actually given the whole issue careful thought, since it bothered me all through my own teaching years.   With so little time and so much to learn, choices are inevitable.   And it's always easiest to follow the existing course tradition and textbooks.   My definition above of "basic graduate course" doesn't fit everywhere, to be sure, but U.S. students usually don't learn much mathematics before that level no matter what their potential is.   So the issue won't go away in most U.S. universities that offer advanced work.   (It will also continue to be true that most people with a Ph.D. here in "mathematical sciences" will never encounter rigorous Galois theory in courses or in real life.)
+
+
+
+
+galois-theoryteachingsoft-question
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Sep 13, 2010 at 22:20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revisions
+        
+
+
+
+
+
+$\endgroup$
+
+17
+
+
+
+
+
+
+16
+
+
+
+
+$\begingroup$
+I'm not sure that Galois theory is necessary, but I think that a first year grad course in algebra needs some big capstone theorems.  The unsolvability of the quintic is a good candidate for such a theorem -- it uses everything that has gone before and is quite satisfying -- but I'd not be opposed to replacing it with something else.  However, I don't really know something appropriately deep, broad-ranging, and "cool" to replace it with that could easily be taught with such minimal prerequisites...
+$\endgroup$
+
+– Andy Putman
+
+Aug 1, 2010 at 17:15
+
+
+
+
+
+
+16
+
+
+
+
+$\begingroup$
+@Steve: The first graduate algebra course is often going to be the student's first introduction to algebra.  It's supposed to be abstract and intense!  If you muddy the waters with applications, your students will never get to that level of Zen you achieve after stumbling around in an algebra course.  It's like point-set topology, except the rabbit-hole called algebra goes much deeper and is much more important.
+$\endgroup$
+
+– Harry Gindi
+
+Aug 1, 2010 at 17:32
+
+
+
+
+
+
+9
+
+
+
+
+$\begingroup$
+@Harry: After my first algebra course I still didn't understand why I should actually much about Galois theory from a practical point of view until I saw $GF(2^n)$ in all sorts of applications. My experience has been that most students--even graduate students studying algebra--are not going to be interested in abstraction for its own sake. Mechanics can help to motivate calculus. The same can be true of information theory and algebra.
+$\endgroup$
+
+– Steve Huntsman
+
+Aug 1, 2010 at 20:51
+
+
+
+
+
+
+9
+
+
+
+
+$\begingroup$
+@Steve: Graduate math students shouldn't be taught things "from a practical point of view".  This isn't a gen. ed. class, and the abstract perspective one gains by really engaging algebra "as it is practiced) is completely worth the "journey in the desert", as it were.  This is the "Zen" I was talking about.  Also, I think that characterizing algebra as "abstraction for abstraction's sake" is really missing the point tremendously.  
+$\endgroup$
+
+– Harry Gindi
+
+Aug 2, 2010 at 6:02
+
+
+
+
+
+
+12
+
+
+
+
+$\begingroup$
+Harry: The journey through algebra does not necessarily have to go through the desert, nor is that necessarily the best or most ideal path. It might be so for you, but it is certainly not the best path for everybody. There are numerous other paths to take, most of which can lead and have lead people to mathematical understanding and success. Please take a moment to consider, for instance, Richard Borcherds' recent algebraic geometry examples post.
+$\endgroup$
+
+– Kevin H. Lin
+
+Aug 2, 2010 at 20:22
+
+
+
+
+
+
+
+ | 
+Show 12 more comments
+
+
+
+
+
+
+
+
+
+
+                                        9 Answers
+                                    9
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            27
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I am tempted to stump for the centrality of Galois theory in modern mathematics, but I feel that this subject is too close to my own research interests (e.g., I have worked on the Inverse Galois Problem) for me to do so in a truly sober manner.  So I will just make a few brief (edit: nope, guess not!) remarks:
+1) Certainly when I teach graduate level classes in number theory, arithmetic geometry or algebraic geometry, I do in practice expect my students to have seen Galois theory before.  I try to cultivate an attitude of "Of course you're not going to know / remember all possible background material, and I am more than willing to field background questions and point to literature [including my own notes, if possible] which contains this material."  In fact, I use a lot of background knowledge of field theory -- some of it that I know full well is not taught in most standard courses, some of it that I only thought about myself rather recently -- and judging from students' questions and solutions to problems, good old finite Galois theory is a relatively known subject, compared to say infinite Galois theory (e.g. the Krull topology) and things like inseparable field extensions, linear disjointness, transcendence bases....So I think it's worth remarking that Galois theory is more central, more applicable, and (fortunately) in practice better known than a lot of topics in pure field theory which are contained in a sufficiently thick standard graduate text.
+2) In response to one of Harry Gindi's comments, and to paraphrase Siegbert Tarrasch: before graduate algebra, the gods have placed undergraduate algebra.  A lot of people are talking about graduate algebra as a first introduction to things that I think should be first introduced in an undergraduate course.  I took a year-long sequence in undergraduate algebra at the University of Chicago that certainly included a unit on Galois theory.  This was the "honors" section, but I would guess that the non-honors section included some material on Galois theory as well.  Moreover -- and here's where the "but you became a Galois theorist!" objection may hold some water -- there were plenty of things that were a tougher sell and more confusing to me as a 19 year old beginning algebra student than Galois theory: I found all the talk about modules to be somewhat abstruse and (oh, the callowness of youth) even somewhat boring.  
+3) I think that someone in any branch of pure mathematics for whom the phrase "Galois correspondence" means nothing is really missing out on something important.  The Galois correspondence between subextensions and subgroups of a Galois extension is the most classical case and should be seen first, but a topologist / geometer needs to have a feel for the Galois correspondence between subgroups of the fundamental group and covering spaces, the algebraic geometer needs the Galois correspondence between Zariski-closed subsets and radical ideals, the model theorist needs the Galois correspondence between theories and classes of models, and so forth.  This is a basic, recurrent piece of mathematical structure.  Not doing all the gory detail of Galois theory is a reasonable option -- I agree that many people do not need to know the proofs, which are necessarily somewhat intricate -- but skipping it entirely feels like a big loss.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Aug 2, 2010 at 2:54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revisions
+        
+
+
+
+
+
+$\endgroup$
+
+16
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+I agree very much with what you say.  Undergraduate algebra should exist in the history of any grad student in math, yet from the question it seems like this really is a first course.  The graduate course at Chicago had a whole quarter devoted to commutative algebra, and that seems like a different level than the intuition of modules over a PID.  The undergraduate course you describe (which I also took) seemed to be the graduate course under discussion here.  If so, this is really a problem with undergraduate math education, that we have to make the choice in the question.
+$\endgroup$
+
+– Ryan Reich
+
+Aug 2, 2010 at 0:37
+
+
+
+
+
+
+8
+
+
+
+
+$\begingroup$
+Andrew L - that would not serve undergraduate math majors who are not going on to graduate school in math (and in many cases lack the ability to do graduate school in math) very well.  They are the vast majority, and their needs should come first.
+$\endgroup$
+
+– Alexander Woo
+
+Aug 2, 2010 at 1:01
+
+
+
+
+
+
+7
+
+
+
+
+$\begingroup$
+I went to college at McGill and their honours deg in math requires 2 full yrs each of both algebra and analysis. Canadian universities have fewer/no requirements outside of your major so the honours program has the room to require you to complete 20 math courses. For algebra, course1: intro to rings & fields, course2: adv. linear algebra, course3: group theory, course4:rings, fields, modules, Galois theory. Additionally, I took a the year-long graduate algebra sequence in my senior year. So, there are places in "america" where such programs exist, but only in the general sense of "america".
+$\endgroup$
+
+– Rob Harron
+
+Aug 2, 2010 at 3:09
+
+
+
+
+
+
+7
+
+
+
+
+$\begingroup$
+@Andrew L: Despite having taken solely math (and physics) courses in college, my general knowledge is not at all lacking. You really don't need to go to college to learn about general stuff. You need to go to college to learn certain things really well (at least some of us do...), and that's what mcgill allowed me to do. Waiting until college – relying on a liberal arts education – is probably a bit too late to start trying to "intellectualize" anyone anyway.
+$\endgroup$
+
+– Rob Harron
+
+Aug 2, 2010 at 5:38
+
+
+
+
+
+
+12
+
+
+
+
+$\begingroup$
+This is getting off-topic. Okay ----- US universities tend to require more breadth courses, whereas European universities do not. Both approaches have advantages and disadvantages. If y'all wanna debate which system is better, this is probably not an appropriate forum.
+$\endgroup$
+
+– Kevin H. Lin
+
+Aug 2, 2010 at 9:55
+
+
+
+
+
+
+
+ | 
+Show 11 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            25
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+In the recent years, the education in mathematics (at the university level) has shifted more toward the applied side.
+At least in the sense that students have to spend more time on the applied stuff.
+This of course means that they learn less abstract material. 
+I have taught graduate and undergraduate courses both in the US and in Germany.
+My impression is that linear algebra is neglected in the States (one semester course focussing on matrix manipulation), to the extent that graduate students have difficulties with the concept of a basis.  On this foundation it might be difficult to teach Galois theory.
+However, for mathematicians that plan to do research (get a PhD) it is absolutely necessary to see the merits of an abstract approach.  Galois theory not only does this, but also tells you what abstract linear algebra and group theory is useful for.  Clearly, groups, fields, vector spaces and polynomials are extremely important concepts in mathematics.
+After an overemphasis on ways to solve trig integrals in the calculus courses, Galois theory also has the potential to expose students to the true beauty of mathematics
+(and the fact that many great theories are based on the interaction of different subjects).
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Aug 2, 2010 at 5:52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        3 revisions, 3 usersStefan Geschke 80%
+        
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+This is really an important point,Stefan.Galois theory is one of the most imporant applications of linear algebra within mathematics.I have a lot to say on the teaching of algebra in general and I'd like to reserve it for when I have time to draft a proper answer to this question. But I will say this for now: I believe algebra has simply outgrown the conventional educational structure in scope and importance.We need to ask ourselves if splitting algebra into "undergraduate" and "graduate" courses is still a valid way of training students in it. 
+$\endgroup$
+
+– The Mathemagician
+
+Aug 1, 2010 at 18:49
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            12
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I think that, if I got hold of someone who knew no algebra, I would try to teach them rings and modules (together with linear algebra) rather than group theory.  The basic reason is that in any kind of "application" (both applied math and applications of algebra to other theoretical math) one always seems to end up linearizing.  Even in applications of group theory, especially to field theory, this is true; in fact, groups often come with a natural representation.  The most important groups are linear groups.
+The other reason for valuing ring theory is that it is more general.  The basic group theory course is misleading in its emphasis on convenient consequences of finiteness, and it is also burdened with technical complications related to noncommutativity (of course, the study of finite abelian groups is part of the study of modules, as Jim said.  There is a good case for spending time on that in the middle of the beginning of a rings course).
+But what about Galois theory?  It really ties the whole thing together; using a Galois theory course as an introduction to groups would be fascinating.  However, the basic ideas are founded in linear algebra and to do any constructions you need to know basic ring theory.  The linear algebra dependence is not strong; it is no stronger than the need to define groups before defining rings (which you really don't need to do), but the idea of having elements of the field act on the field itself as a vector space is not a comfortable one for beginners.
+Perhaps viewing Galois theory as an application is itself problematic.  It's a higher level theory; as Jim says in the question, people do not solve polynomials symbolically so much in applications.  Galois theory is the sort of course you should show people who are on the theoretical track and who have the experience to see it for what it is.  However, for a first algebra course I think that rings and modules with linear algebra should come first, followed by groups via some form of representation theory, possibly something with connections to analysis (I was never taught any use of algebra in analysis though I know it exists).  Analysis is a big field.
+For all its beauty, Galois theory is something of a niche product.  There is no right choice here (really, dropping Galois theory seems morally wrong) but it is also worth remembering that it doesn't take a miracle to get students excited about math when they are already in a graduate algebra course.  Representation theory is also very appealing (and for a similar reason, in fact), and a solid if utilitarian algebra course is very satisfying.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Aug 1, 2010 at 19:07
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Ryan Reich
+        
+
+
+
+
+
+$\endgroup$
+
+8
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+The unwary reader should note that I have neither taught an introductory algebra course nor really taken one.  This is truly an ivory tower perspective from within the ivory tower.
+$\endgroup$
+
+– Ryan Reich
+
+Aug 1, 2010 at 19:09
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+I agree that finite type abelian groups are a special case.  But from this perspective they are a special case of module theory, not of group theory, and it would be both easier and more instructive to treat them as such.  Also, the notions that go into that decomposition theorem are still more easily understood as being generalizations of concepts from linear algebra, so there is a small cycle in this program that needs to be broken somehow.  One way is to do linear algebra (modules over $\mathbb{Q}$) then abelian groups (modules over $\mathbb{Z}$) and finally, modules over $R$.
+$\endgroup$
+
+– Ryan Reich
+
+Aug 1, 2010 at 23:40
+
+
+
+
+
+
+9
+
+
+
+
+$\begingroup$
+Ryan, your passage about applications always involving linearization may have been true only 25 years ago. However, it's dramatically wrong now: due to rise in the importance of computers, digital media and electronic communication, the #1 area for applications of abstract algebra currently is cryptography, which gets by with surprisingly "poor" algebraic structures. In particular, many nontrivial and important results are based only on the group structure of cyclic groups! 
+$\endgroup$
+
+– Victor Protsak
+
+Aug 2, 2010 at 1:20
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+Initially, authors of textbooks were slow to pick up on the trend (L.Childs' book was about the only one written from this perspective), but this has changed entirely in the past 5 years or so. The books of Shoup, Hoffstein-Piper-Silverman, Baldoni-Ciliberto-Cattaneo, W.Stein are just a few examples of recent additions to literature based on actual courses in applied algebra. Now, it will be facetious to claim that fields and rings play no role - they do - but not in the way you've described. For Diffie-Hellman, Pollard rho, Shanks baby steps-giant steps... it's the group structure that's key.
+$\endgroup$
+
+– Victor Protsak
+
+Aug 2, 2010 at 1:30
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+This approach (rings first) can work for undergrad courses, too. My first undergrad course in algebra used the book "Abstract Algebra: An Introduction" by Hungerford. The book starts off by talking about $\mathbb{Z}$ and then rings, and then polynomial rings, before going into groups and then fields and Galois theory. I thought it was a nice approach at the time, and I still think it's quite nice now.
+$\endgroup$
+
+– Kevin H. Lin
+
+Aug 2, 2010 at 9:45
+
+
+
+
+
+
+
+ | 
+Show 3 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+First, my perspective: at my institution, we teach two streams of undergrad algebra, a standard stream, and an honours-type stream.  Both cover some Galois theory, certainly with more being done in the honours stream; in that stream, all the basic theory of finite separable extensions is covered, probably inseparable extensions get a brief mention (char. p is present, but is probably always a little murky compared to char. zero), and insolvability of the quintic is proved.
+We also teach a year long (three 10-week (approximately) quarters) first year grad algebra course, which is taken by a mixture of strong undergraduates and first year grad students who haven't passed the prelim in algebra.   I think that in the course we presume a background similar to that which we give in our honours-stream undergraduate course.
+In the three quarters, the first quarter is group theory and Galois theory.  The Galois theory component includes a rapid development/revision of the finite degree case, and a fairly careful treatment of the infinite degree case.
+The next two quarters are Wedderburn theory and rep's of finite groups; and then commutative algebra.
+If I had to drop one of the three quarters (which is to some extent the context of the question, since it involves passing from quarters to semesters), I would probably drop the first.
+My reasoning: Galois theory is vital to algebraic number theory, and useful (sometimes) to algebraic geometry.  But I get the feeling that it (like much of algebra, in fact) has the status of esoterica in the larger (pure) mathematical world.   Crudely put, people don't use it.  
+Finite group representation theory, on the other hand, introduces in a simple setting a number of vital concepts which are widely used throughout mathematics.  (Wedderburn theory outside the context of group rep'n theory is probably an unnecessary indulgence; it is beautiful, but (for example) the Brauer group is probably even more esoteric than Galois theory.  But one can certainly streamline it if necessary, and get pretty straight to the good stuff.)
+Commutative algebra is also fairly esoteric, but the linkage to algebraic geometry gives a way of presenting it which adds to the appeal, and in any case, the final quarter/semester
+probably needs less justification than the first.
+One thing that I think is important (which we put into the second quarter) is a good treatment of multilinear algebra; lots of people will need to know this.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Aug 5, 2010 at 5:34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revisions
+        
+
+
+
+
+
+$\endgroup$
+
+13
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+The gradual phasing out of multilinear algebra in abstract algebra courses is probably a result of the fact that most first year graduate courses on differential manifolds/differential topology cover a substantial part of tensor algebra out of necessity. Still,there's certainly something to be said for covering it as part of a substantial algebra sequence since the presentation in the manifolds course is mostly "need to know" and omits a great deal that is important to algebra.An algebra course in Russia would be unthinkable without it-in keeping with the "organic" Russian school.
+$\endgroup$
+
+– The Mathemagician
+
+Aug 2, 2010 at 4:45
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Continued: There is much that is wise in this organic approach. 
+$\endgroup$
+
+– The Mathemagician
+
+Aug 2, 2010 at 4:46
+
+
+
+
+
+
+5
+
+
+
+
+$\begingroup$
+Andrew, there is not a general "phasing out" of multilinear algebra from graduate algebra courses.  Where did this impression come from? It's as imp. to know that for algebra as it is for geometry.  There's more that students should ideally know in algebra than can physically be covered in a year-long course, so it depends on where the instructors set their priorities. I'd put multilinear alg. very high on the list, but that's not the topic of this MO question. 
+$\endgroup$
+
+– KConrad
+
+Aug 2, 2010 at 6:04
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@Emerton: I think the problem with Galois theory is that the way most textbooks and teachers treat it, it is simply not up-to-date. This is probably a sad fate of most theories which happened to be discovered that long ago. Galois theory in the classical form is non-constructive (try to use all those nice theorems to actually compute something), non-canonical (there is some inherent noncanonicity in field extensions, but one could try to reduce it to a minimum), intricate (even those theorems that do have slick proofs are usually presented with long and unmotivated arguments in most of...
+$\endgroup$
+
+– darij grinberg
+
+Aug 4, 2010 at 21:13
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@Yai0Phah: I haven't gone seriously enough into the subject to have a good overview. But to me, the main constructive hook into Galois groups should be the universal splitting ring: If $f \in R\left[t\right]$ is a monic polynomial of degree $n$ over a commutative ring $R$, then we can consider the category $\mathcal{C}_f$ of all commutative $R$-algebras $S$ with $n$ chosen elements $x_1, x_2, \ldots, x_n$ such that $f$ factors as $\left(t-x_1\right)\left(t-x_2\right)\cdots\left(t-x_n\right)$ over $S$. (The morphisms of this category are $R$-algebra homomorphisms that ...
+$\endgroup$
+
+– darij grinberg
+
+Oct 16, 2019 at 22:13
+
+
+
+
+
+
+
+
+
+
+ | 
+Show 8 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            6
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I'm learning Galois by rational resolvents, yielding n! distinct values as the roots are permutated. Then the Galois group of a polynomial eqn over Q is generated very wonderfully as a set of permutations that have these two properties regarding rational expressions in the roots.  This group is a property of the polynomial equation, with a life of its own.  Then the way the group has subgroups as numbers are added to Q is quite extraordinary and equally wonderful.  Normality of a subgroup leaps off the page as the Galois group over Q has numbers (or functions) added to it.  We see Galois' research actually happening before our eyes.  I am a very weak math guy, with a weak undergrad degree, but even I can sense the extraordinary discovery that Galois made when he saw this group emerging.  Isn't this work the basis for the whole subsequent course of enquiry regarding "abstraction", as mathematicians looked for invariants and characteristics of entities which were not before suspected or dreamed to exist?  I cannot imagine how a student would not be curious as to the provenance of the groovy iso and epi and etc- morphisms and fields and vector spaces et al that he or she learns to be more or less fluent in, for more or less varied reasons.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Mar 24, 2012 at 0:06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        philip dabous
+        
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I am not a graduate student (yet), and don't really know about what first-year grad courses are like, but I don't think that Galois theory should be dropped because "it takes too long to develop", at least not the finite theory.
+The only reason why (finite) Galois theory seems to require a lot of time to develop is (I believe) that the standard (I'm inferring from textbooks and course notes I have read) development is backwards. All questions of constructing extension fields (which are the only place where you need ring theory) can be tacitly omitted (or given as homework in a ring theory module), while extending field automorphisms, and the notions of splitting and separable extensions, can be motivated and illustrated by determining the Galois correspondence itself.
+A brief outline of the lectures in my head is this. Suppose E is a field. The stabilizer of any group of automorphisms of E must be a subfield of E. Given F a subfield of E, what are necessary and sufficient conditions that F be the stabilizer of a subgroup of automorphisms of E? (why do we care? you're a grad student, that's why you care.)
+Clearly, these automorphisms will belong to Aut(E/F), and one immediately derives the necessary conditions that any (irreducible) polynomial f with coefficients in F that has a root in E must have deg f distinct roots in E, since otherwise the product of the (x-r) where r ranges over the distinct roots of the polynomial in E will be fixed by Aut(E:F) and of lower degree than f, thus it will have some coefficient not in F and that coefficient will be fixed by Aut(E/F), which would mean that F is not the stabilizer of Aut(E/F).
+The two ways in which polynomial can go bad, then, is that they don't split or have repeated roots, thus motivating the notions of split/normal and separable extensions.
+From this perspective, the fundamental theorem of Galois theory says that for finite extensions, the conditions of splitting and separability are in fact sufficient. Here you develop the necessary tools of degree of extension fields, simple extensions, extending automorphisms of intermediate fields and (bless his soul) Emil Artin's linearly independent characters, and you're done (with finite extensions).
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Aug 4, 2010 at 21:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Vladimir Sotirov
+        
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Developing field theory is time well spent. Besides, it's not an issue in a graduate algebra course, because field extensions must have been long since constructed and internalized by the time Galois theory comes along. There can be no Galois theory before field theory, just like there can be no group representation theory before group theory (I must stress that I am talking about systematic treatments in a course; for self-education and single issue purposes you must do whatever it takes).
+$\endgroup$
+
+– Victor Protsak
+
+Aug 5, 2010 at 1:53
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I definitely did not mean to suggest that ring theory or field theory not be developed at all! (Dispensing with algebra all together is clearly way too radical an approach that the mass public is not yet ready for, pedagogically.) I just don't think that it is reasonable to omit Galois theory from such a systematic course due to time concerns; at the very least it can be introduced and its applications alluded to.  Also, +1 for "for self-education and single issue purposes you must do whatever it takes"
+$\endgroup$
+
+– Vladimir Sotirov
+
+Aug 5, 2010 at 19:23
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Personally, what I feel is that whether the course is required or not really doesn't matter. All that matters is how challenging the student environment is. If you ever feel that they have understood the concepts of groups, rings, and fields clearly, then the next option is Galois theory.
+As I said before, it boils down to one thing: how inquisitive the students are in learning the subject.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Aug 1, 2010 at 20:06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revisions, 2 usersChandru1 55%
+        
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+9
+
+
+
+
+$\begingroup$
+There is a book by V.Alexeev, "Abel's theorem in problems and solutions", that is based on V.I.Arnold's lectures to high school students. Granted, the students were bright, but I am mentioning this to dispel the myth that one needs to undergo algebraic indoctrination first in order to start on Galois theory. In fact, none of the founders of the theory knew what an abstract group was, let alone a ring or a field. I am also including Riemann in the founders, because his contribution was, perhaps, the deepest and also led to the most important applications outside of pure algebra.
+$\endgroup$
+
+– Victor Protsak
+
+Aug 2, 2010 at 1:43
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+That's a great little book, Victor. It's full of V. I. Arnold's typical pedagogical gems, e.g. a subgroup is normal when it is "relativistically invariant"!
+$\endgroup$
+
+– Per Vognsen
+
+Aug 2, 2010 at 7:28
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Is that book available in English or in other language that uses latin alphabet?
+$\endgroup$
+
+– Marcos Cossarini
+
+Feb 5, 2012 at 20:51
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Marcos Yes, springer.com/gp/book/9781402021862
+$\endgroup$
+
+– user20948
+
+Oct 16, 2019 at 19:58
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Double majoring in physics and math, I was undecided about entering graduate school, and if I did, I was anticipating going further into physics instead of math, probably. My junior year abstract algebra course and ESPECIALLY GALOIS THEORY is the reason I chose to apply to math Ph. D. programs. I'm glad I did. 'Nuf said!
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Apr 2, 2016 at 16:40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Michael Rieck
+        
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Sorry, I believe it should be covered carefully at the undergraduate level, as expected preparation at the graduate level.
+$\endgroup$
+
+– Michael Rieck
+
+Apr 2, 2016 at 16:47
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I don't really know how to have a clarifying discussion on such topics, but perhaps I have a little distance these days. There is such a topic as "applied algebra", though I suppose it is hardly ever called that: you break down subjects such as algebraic topology, algebraic number theory, algebraic geometry and others, by saying "what here is the algebra that is applied"? This sounds more like what is intended in the question than "group theory for group theorists", ring theory for ring theorists", and so on, counting as "pure algebra". So that Galois theory is not very relevant for algebraic topology, but is very relevant to algebraic number theory and many parts of algebraic geometry. For algebraic topology there is basic material giving access to homological algebra. 
+Anyway, some effort has to be made to map out areas of mathematics that are active in research terms, and to delineate such algebra as constitutes the prerequisites, to get any relevant answers for graduate education. The approach should be global-to-local. (If it were the other way round, perhaps sheaf theory could be applied.) 
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Aug 2, 2010 at 7:43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revisions
+        
+
+
+
+
+
+$\endgroup$
+
+3
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Part of the problem here is the enormous growth of the importance of algebra in other areas of mathematics since the 1950's. I doubt half the areas of mathematics that have either been created or undergone serious development since then-such as noncommutative geometry and modern deformation theory-could even be EXPRESSED without a mastery of a huge-and very nonspecific-chunk of the machinery of abstract algebra.So the question of what mathematicans need to know about algebra these days before beginning thesis research is a difficult one indeed. 
+$\endgroup$
+
+– The Mathemagician
+
+Aug 1, 2010 at 22:48
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+The usual statements of Galois theory for fields may not seem relevant for algebraic topology, but its methods are akin to the fundamental group-covering spaces line of development in AT (with monodromy group providing a direct connection).
+$\endgroup$
+
+– Victor Protsak
+
+Aug 2, 2010 at 1:53
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+@Andrew L: Certainly. But the trouble in such discussions (apart from the fact that such a course is probably also remedial for students who, perhaps for no fault of their own, have not learned much as an undergraduate of core 20th century mathematics) is that if people saying "noncommutative geometry" engage in debate with people saying "quintics are not solved by radicals", where does the pedagogic truth lie? Mathematical fashion does vary. But matrices aren't going to start to commute, and not all modules are free, and Riemann surfaces (per Victor) are still a testbed of what we understand.
+$\endgroup$
+
+– Charles Matthews
+
+Aug 2, 2010 at 7:51
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to MathOverflow!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged galois-theoryteachingsoft-question or ask your own question.                                
+
+
+
+
+
+Related
+
+
+
+24
+
+Curriculum reform success stories at an "average" research university
+
+
+
+32
+
+The interrelationship problem of modern mathematics – How to deal with it in first year graduate courses?
+
+
+
+21
+
+What should be taught in a 1st course on Riemann Surfaces?
+
+
+
+47
+
+Possibility of an Elementary Differential Geometry Course
+
+
+
+3
+
+What to teach in a second graduate course in algebra? What textbook to use?
+
+
+
+5
+
+Any suggestions for a course in Mathematical Logic?
+
+
+
+11
+
+Calculus Teaching: Is it possible or desirable to give a severely abbreviated treatment of series convergence tests?
+
+
+
+33
+
+Does seeing beyond the course you teach matter? The case of linear algebra and matrices
+
+
+
+8
+
+Final project ideas - computational geometry
+
+
+
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MathOverflow
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

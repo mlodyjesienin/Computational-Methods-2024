@@ -1,0 +1,1686 @@
+
+
+
+
+List of theorems - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of theorems
+
+
+
+13 languages
+
+
+
+
+العربيةDeutschFrançaisहिन्दीBahasa IndonesiaქართულიPolskiPortuguêsRomânăСрпски / srpskiSvenskaTürkçe中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This article may be in need of reorganization to comply with Wikipedia's layout guidelines. The reason given is: it should be sorted by subdiscipline rather than alphabetically for ease of navigation. Please help by editing the article to make improvements to the overall structure. (February 2024) (Learn how and when to remove this message)
+This is a list of notable theorems. Lists of theorems and similar statements include:
+
+List of algebras
+List of algorithms
+List of axioms
+List of conjectures
+List of data structures
+List of derivatives and integrals in alternative calculi
+List of equations
+List of fundamental theorems
+List of hypotheses
+List of inequalities
+Lists of integrals
+List of laws
+List of lemmas
+List of limits
+List of logarithmic identities
+List of mathematical functions
+List of mathematical identities
+List of mathematical proofs
+List of misnamed theorems
+List of scientific laws
+List of theories
+Most of the results below come from pure mathematics, but some are from theoretical physics, economics, and other applied fields.
+
+
+
+Contents: 
+
+Top
+0–9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z 
+
+
+
+0–9[edit]
+2-factor theorem (graph theory)
+15 and 290 theorems (number theory)
+2π theorem (Riemannian geometry)
+A[edit]
+
+AF+BG theorem (algebraic geometry)
+ATS theorem (number theory)
+Abel's binomial theorem (combinatorics)
+Abel's curve theorem (mathematical analysis)
+Abel's theorem (mathematical analysis)
+Abelian and Tauberian theorems (mathematical analysis)
+Abel–Jacobi theorem (algebraic geometry)
+Abel–Ruffini theorem (theory of equations, Galois theory)
+Abhyankar–Moh theorem (algebraic geometry)
+Absolute convergence theorem (mathematical series)
+Acyclic models theorem (algebraic topology)
+Addition theorem (algebraic geometry)
+Adiabatic theorem (physics)
+Ado's theorem (Lie algebra)
+Akhiezer's theorem (complex analysis)
+Akra–Bazzi theorem (computer science)
+Alternate Interior Angles Theorem (geometry)
+Albert–Brauer–Hasse–Noether theorem (algebras)
+Alchian–Allen theorem (economics)
+Alexandrov's uniqueness theorem (discrete geometry)
+Alperin–Brauer–Gorenstein theorem (finite groups)
+Alspach's theorem (graph theory)
+Amitsur–Levitzki theorem (linear algebra)
+Analyst's traveling salesman theorem (discrete mathematics)
+Analytic Fredholm theorem (functional analysis)
+Anderson's theorem (real analysis)
+Andreotti–Frankel theorem (algebraic geometry)
+Angle bisector theorem (Euclidean geometry)
+Ankeny–Artin–Chowla theorem (number theory)
+Anne's theorem (geometry)
+Apéry's theorem (number theory)
+Apollonius's theorem (plane geometry)
+Appell–Humbert theorem (complex manifold)
+Arakelyan's theorem (complex analysis)
+Area theorem (conformal mapping) (complex analysis)
+Arithmetic Riemann–Roch theorem (algebraic geometry)
+Aronszajn–Smith theorem (functional analysis)
+Arrival theorem (queueing theory)
+Arrow's impossibility theorem (game theory)
+Arrow-Lind theorem (welfare economics)
+Art gallery theorem (geometry)
+Artin approximation theorem (commutative algebra)
+Artin–Schreier theorem (real closed fields)
+Artin–Verdier duality theorem (number theory)
+Artin–Wedderburn theorem (abstract algebra)
+Artin–Zorn theorem (algebra)
+Artstein's theorem (control theory)
+Arzelà–Ascoli theorem (functional analysis)
+Atiyah–Bott fixed-point theorem (differential topology)
+Atiyah–Segal completion theorem (homotopy theory)
+Atiyah–Singer index theorem (elliptic differential operators, harmonic analysis)
+Atkinson's theorem (operator theory)
+Aumann's agreement theorem (statistics)
+Autonomous convergence theorem (dynamical systems)
+Auxiliary polynomial theorem (Diophantine approximation)
+Ax–Grothendieck theorem (model theory)
+Ax–Kochen theorem (number theory)
+Aztec diamond theorem (combinatorics)
+B[edit]
+
+BBD decomposition theorem (algebraic geometry)
+BEST theorem (graph theory)
+Babuška–Lax–Milgram theorem (partial differential equations)
+Baily–Borel theorem (algebraic geometry)
+Baire category theorem (topology, metric spaces)
+Baker's theorem (number theory)
+Balian–Low theorem (Fourier analysis)
+Balinski's theorem (combinatorics)
+Banach–Alaoglu theorem (functional analysis)
+Banach–Mazur theorem (functional analysis)
+Banach fixed-point theorem (metric spaces, differential equations)
+Banach–Steinhaus theorem (functional analysis)
+Banach–Stone theorem (operator theory)
+Banach–Tarski theorem (measure theory)
+Bang's theorem (geometry)
+Barban–Davenport–Halberstam theorem (analytic number theory)
+Barbier's theorem (geometry)
+Bapat–Beg theorem (statistics)
+Baranyai's theorem (combinatorics)
+Barwise compactness theorem (mathematical logic)
+Base change theorems (algebraic geometry)
+Basel problem (mathematical analysis)
+Bass's theorem (group theory)
+Basu's theorem (statistics)
+Bauer–Fike theorem (spectral theory)
+Bayes' theorem (probability)
+Beatty's theorem (Diophantine approximation)
+Beauville–Laszlo theorem (vector bundles)
+Beck's monadicity theorem (category theory)
+Beck's theorem (incidence geometry)
+Beckman–Quarles theorem (Euclidean geometry)
+Beer's theorem (metric geometry)
+Behnke–Stein theorem (several complex variables)
+Behrend's theorem (number theory)
+Bell's theorem (quantum mechanics)
+Beltrami's theorem (Riemannian geometry)
+Belyi's theorem (algebraic geometry)
+Bendixson–Dulac theorem (dynamical systems)
+Berge's theorem (graph theory)
+Berger–Kazdan comparison theorem (Riemannian geometry)
+Bernstein's theorem (approximation theory)
+Bernstein's theorem (functional analysis)
+Berry–Esséen theorem (probability theory)
+Bertini's theorem (algebraic geometry)
+Bertrand–Diquet–Puiseux theorem (differential geometry)
+Bertrand's ballot theorem (probability theory, combinatorics)
+Bertrand's postulate (number theory)
+Besicovitch covering theorem (mathematical analysis)
+Betti's theorem (physics)
+Beurling–Lax theorem (Hardy spaces)
+Bézout's theorem (algebraic geometry)
+Bing metrization theorem (general topology)
+Bing's recognition theorem (geometric topology)
+Binomial inverse theorem (linear algebra)
+Binomial theorem (algebra, combinatorics)
+Birch's theorem (algebraic number theory)
+Birkhoff–Grothendieck theorem (complex geometry)
+Birkhoff–Von Neumann theorem (linear algebra)
+Birkhoff's representation theorem (lattice theory)
+Birkhoff's theorem (ergodic theory)
+Birkhoff's theorem (general relativity)
+Bishop–Cannings theorem (economics)
+Blaschke selection theorem (geometric topology)
+Bloch's theorem (complex analysis)
+Blondel's theorem (electric power) (physics)
+Blum's speedup theorem (computational complexity theory)
+Bôcher's theorem (complex analysis)
+Bochner's tube theorem (complex analysis)
+Bogoliubov–Parasyuk theorem (quantum field theory)
+Bohr–Mollerup theorem (gamma function)
+Bohr–van Leeuwen theorem (physics)
+Bolyai–Gerwien theorem (discrete geometry)
+Bolzano's theorem (real analysis, calculus)
+Bolzano–Weierstrass theorem (real analysis, calculus)
+Bombieri's theorem (number theory)
+Bombieri–Friedlander–Iwaniec theorem (number theory)
+Bondareva–Shapley theorem (economics)
+Bondy's theorem (graph theory, combinatorics)
+Bondy–Chvátal theorem (graph theory)
+Bonnet theorem (differential geometry)
+Boolean prime ideal theorem (mathematical logic)
+Borel–Bott–Weil theorem (representation theory)
+Borel–Carathéodory theorem (complex analysis)
+Borel–Weil theorem (representation theory)
+Borel determinacy theorem (set theory)
+Borel fixed-point theorem (algebraic geometry)
+Borsuk–Ulam theorem (topology)
+Bott periodicity theorem (homotopy theory)
+Bounded convergence theorem (measure theory)
+Bounded inverse theorem (operator theory)
+Bourbaki–Witt theorem (order theory)
+Brahmagupta theorem (Euclidean geometry)
+Branching theorem (complex manifold)
+Brauer–Nesbitt theorem (representation theory of finite groups)
+Brauer–Siegel theorem (number theory)
+Brauer–Suzuki theorem (finite groups)
+Brauer–Suzuki–Wall theorem (group theory)
+Brauer's theorem (number theory)
+Brauer's theorem on induced characters (representation theory of finite groups)
+Brauer's three main theorems (finite groups)
+Brauer–Cartan–Hua theorem (ring theory)
+Bregman–Minc inequality (discrete mathematics)
+Brianchon's theorem (conics)
+British flag theorem (Euclidean geometry)
+Brooks's theorem (graph theory)
+Brouwer fixed-point theorem (topology)
+Browder–Minty theorem (operator theory)
+Brown's representability theorem (homotopy theory)
+Bruck–Chowla–Ryser theorem (combinatorics)
+Brun's theorem (number theory)
+Brun–Titchmarsh theorem (number theory)
+Brunn–Minkowski theorem (Riemannian geometry)
+Büchi-Elgot-Trakhtenbrot theorem (mathematical logic)
+Buckingham π theorem (dimensional analysis)
+Burke's theorem (probability theory, queueing theory)
+Burnside's theorem (group theory)
+Busemann's theorem (Euclidean geometry)
+Butterfly theorem (Euclidean geometry)
+Byers–Yang theorem (quantum mechanics)
+C[edit]
+
+C-theorem (physics)
+CAP theorem (theoretical computer science)
+CPCTC (triangle geometry)
+Cameron–Erdős theorem (discrete mathematics)
+Cameron–Martin theorem (measure theory)
+Cantor–Bernstein–Schroeder theorem (set theory, cardinal numbers)
+Cantor's intersection theorem (real analysis)
+Cantor's isomorphism theorem (order theory)
+Cantor's theorem (set theory, Cantor's diagonal argument)
+Carathéodory–Jacobi–Lie theorem (symplectic topology)
+Carathéodory's existence theorem (ordinary differential equations)
+Carathéodory's theorem (complex analysis)
+Carathéodory's theorem (convex geometry)
+Carathéodory's theorem (measure theory)
+Carathéodory's extension theorem (measure theory)
+Caristi fixed-point theorem (fixed points)
+Carleson–Jacobs theorem (complex analysis)
+Carlson's theorem (complex analysis)
+Carmichael's theorem (Fibonacci numbers)
+Carnot's theorem (geometry)
+Carnot's theorem (thermodynamics)
+Cartan–Dieudonné theorem (group theory)
+Cartan–Hadamard theorem (Riemannian geometry)
+Cartan–Kähler theorem (partial differential equations)
+Cartan–Kuranishi prolongation theorem (partial differential equations)
+Cartan's theorem (Lie group)
+Cartan's theorems A and B (several complex variables)
+Casey's theorem (Euclidean geometry)
+Castelnuovo theorem (algebraic geometry)
+Castelnuovo–de Franchis theorem (algebraic geometry)
+Castigliano's first and second theorems (structural analysis)
+Cauchy integral theorem (complex analysis)
+Cauchy–Hadamard theorem (complex analysis)
+Cauchy–Kowalevski theorem (partial differential equations)
+Cauchy's theorem (geometry)
+Cauchy's theorem (finite groups)
+Cayley–Bacharach theorem (projective geometry)
+Cayley–Hamilton theorem (Linear algebra)
+Cayley–Salmon theorem (algebraic surfaces)
+Cayley's theorem (group theory)
+Central limit theorem (probability)
+Cesàro's theorem (real analysis)
+Ceva's theorem (geometry)
+Chasles's theorems
+Chebotarev's density theorem (number theory)
+Chen's theorem (number theory)
+Cheng's eigenvalue comparison theorem (Riemannian geometry)
+Chern–Gauss–Bonnet theorem (differential geometry)
+Chevalley's structure theorem (algebraic geometry)
+Chevalley–Shephard–Todd theorem (finite group)
+Chevalley–Warning theorem (field theory)
+Chinese remainder theorem (number theory)
+Choi's theorem on completely positive maps (operator theory)
+Chomsky–Schützenberger enumeration theorem (formal language theory)
+Chomsky–Schützenberger representation theorem (formal language theory)
+Choquet–Bishop–de Leeuw theorem (functional analysis)
+Chow's theorem (algebraic geometry)
+Chowla–Mordell theorem (number theory)
+Church–Rosser theorem (lambda calculus)
+Clairaut's theorem (physics)
+Clapeyron's theorem (physics)
+Clark–Ocone theorem (stochastic processes)
+Classification of finite simple groups (group theory)
+Classification of Platonic solids (geometry)
+Clausius theorem (physics)
+Clifford's circle theorems (Euclidean plane geometry)
+Clifford's theorem on special divisors (algebraic curves)
+Closed graph theorem (functional analysis)
+Closed range theorem (functional analysis)
+Cluster decomposition theorem (quantum field theory)
+Coase theorem (economics)
+Cochran's theorem (statistics)
+Codd's theorem (relational model)
+Cohen structure theorem (commutative algebra)
+Cohn's irreducibility criterion (polynomials)
+Coleman–Mandula theorem (quantum field theory)
+Commandino's theorem (geometry)
+Commutation theorem (von Neumann algebra)
+Compactness theorem (mathematical logic)
+Compression theorem (computational complexity theory, structural complexity theory)
+Conley–Zehnder theorem (dynamical systems)
+Conservativity theorem (mathematical logic)
+Constant chord theorem (geometry)
+Constant rank theorem ( multivariate calculus)
+Continuous mapping theorem (probability theory)
+Convolution theorem (Fourier transforms)
+Conway circle theorem (Euclidean plane geometry)
+Cook's theorem (computational complexity theory)
+Corners theorem (arithmetic combinatorics)
+Corona theorem (complex analysis)
+Courcelle's theorem (graph theory)
+Cox's theorem (probability)
+Craig's theorem (mathematical logic)
+Craig's interpolation theorem (mathematical logic)
+Cramér’s decomposition theorem (statistics)
+Cramér's theorem (large deviations) (probability)
+Cramer's theorem (algebraic curves) (analytic geometry)
+Cramér–Wold theorem (measure theory)
+Critical line theorem (number theory)
+Crooks fluctuation theorem (physics)
+Crossbar theorem (Euclidean plane geometry)
+Crystallographic restriction theorem (group theory, crystallography)
+Curtis–Hedlund–Lyndon theorem (cellular automata)
+Cut-elimination theorem (proof theory)
+D[edit]
+
+Dandelin's theorem (solid geometry)
+Danskin's theorem (convex analysis)
+Darboux's theorem (real analysis)
+Darboux's theorem (symplectic topology)
+Davenport–Schmidt theorem (number theory, Diophantine approximations)
+Dawson–Gärtner theorem (asymptotic analysis)
+de Branges's theorem (complex analysis)
+de Bruijn's theorem (discrete geometry)
+De Bruijn–Erdős theorem (incidence geometry)
+De Bruijn–Erdős theorem (graph theory)
+De Finetti's theorem (probability)
+De Franchis theorem (Riemann surfaces)
+De Gua's theorem (geometry)
+De Moivre's theorem (complex analysis)
+De Rham's theorem (differential topology)
+Deduction theorem (logic)
+Denjoy theorem (dynamical systems)
+Denjoy–Carleman theorem (functional analysis)
+Desargues's theorem (projective geometry)
+Descartes's theorem (plane geometry)
+Descartes's theorem on total angular defect (polyhedra)
+Diller–Dress theorem (field theory)
+Dilworth's theorem (combinatorics, order theory)
+Dinostratus' theorem (geometry, analysis)
+Dimension theorem for vector spaces (vector spaces, linear algebra)
+Dini's theorem (analysis)
+Dirac's theorems (graph theory)
+Dirichlet's approximation theorem (Diophantine approximations)
+Dirichlet's theorem on arithmetic progressions (number theory)
+Dirichlet's unit theorem (algebraic number theory)
+Disintegration theorem (measure theory)
+Divergence theorem (vector calculus)
+Dominated convergence theorem (Lebesgue integration)
+Donaldson's theorem (differential topology)
+Donsker's theorem (probability theory)
+Doob decomposition theorem (stochastic processes)
+Doob's martingale convergence theorems (stochastic processes)
+Doob–Meyer decomposition theorem (stochastic processes)
+Dudley's theorem (probability)
+Duggan–Schwartz theorem (voting theory)
+Dunford–Pettis theorem (probability theory)
+Dunford–Schwartz theorem (functional analysis)
+E[edit]
+
+Earnshaw's theorem (electrostatics)
+Easton's theorem (set theory)
+Eberlein–Šmulian theorem (functional analysis)
+Edge-of-the-wedge theorem (complex analysis)
+Edgeworth's limit theorem (economics)
+Egorov's theorem (measure theory)
+Ehresmann's theorem (differential topology)
+Eilenberg–Zilber theorem (algebraic topology)
+Elitzur's theorem (quantum field theory, statistical field theory)
+Envelope theorem (calculus of variations)
+Equal incircles theorem (Euclidean geometry)
+Equidistribution theorem (ergodic theory)
+Equipartition theorem (ergodic theory)
+Erdős–Anning theorem (discrete geometry)
+Erdős–Dushnik–Miller theorem (set theory)
+Erdős–Gallai theorem (graph theory)
+Erdős–Ginzburg–Ziv theorem (number theory)
+Erdős–Kac theorem (number theory)
+Erdős–Ko–Rado theorem (combinatorics)
+Erdős–Nagy theorem (discrete geometry)
+Erdős–Pósa theorem (graph theory)
+Erdős–Rado theorem (set theory)
+Erdős–Stone theorem (graph theory)
+Erdős–Szekeres theorem (discrete geometry)
+Euclid's theorem (number theory)
+Euclid–Euler theorem (number theory)
+Euler's partition theorem (number theory)
+Euler's polyhedron theorem (polyhedra)
+Euler's quadrilateral theorem (geometry)
+Euler's rotation theorem (geometry)
+Euler's theorem (differential geometry)
+Euler's theorem (number theory)
+Euler's theorem in geometry (triangle geometry)
+Euler's theorem on homogeneous functions (multivariate calculus)
+Exchange theorem (linear algebra)
+Excision theorem (homology theory)
+Exterior angle theorem (triangle geometry)
+Extreme value theorem (calculus)
+F[edit]
+
+F. and M. Riesz theorem (measure theory)
+FWL theorem (economics)
+Faltings's theorem (Diophantine geometry)
+Farrell–Markushevich theorem (complex analysis)
+Fáry's theorem (graph theory)
+Fáry–Milnor theorem (knot theory)
+Fatou's theorem (complex analysis)
+Fatou–Lebesgue theorem (real analysis)
+Faustman–Ohlin theorem (economics)
+Feferman–Vaught theorem (model theory)
+Feit–Thompson theorem (finite groups)
+Fenchel's duality theorem (convex analysis)
+Fenchel's theorem (differential geometry)
+Fenchel–Moreau theorem (mathematical analysis)
+Fermat's Last Theorem (number theory)
+Fermat's little theorem (number theory)
+Fermat's theorem on sums of two squares (number theory)
+Fermat's theorem (stationary points) (real analysis)
+Fermat polygonal number theorem (number theory)
+Fernique's theorem (measure theory)
+Ferrero–Washington theorem (algebraic number theory)
+Feuerbach's theorem (geometry)
+Fieller's theorem (statistics)
+Final value theorem (mathematical analysis)
+Finsler–Hadwiger theorem (geometry)
+Fisher separation theorem (economics)
+Fisher–Tippett–Gnedenko theorem (statistics)
+Fitting's theorem (group theory)
+Five circles theorem (circles)
+Five color theorem (graph theory)
+Fixed-point theorems in infinite-dimensional spaces
+Floquet's theorem (differential equations)
+Fluctuation dissipation theorem (physics)
+Fluctuation theorem (statistical mechanics)
+Ford's theorem (number theory)
+Focal subgroup theorem (abstract algebra)
+Folk theorem (game theory)
+Foster's theorem (statistics)
+Four color theorem (graph theory)
+Four functions theorem (combinatorics)
+Four-vertex theorem (differential geometry)
+Fourier inversion theorem (harmonic analysis)
+Fourier theorem (harmonic analysis)
+Franel–Landau theorem (number theory)
+Fraňková–Helly selection theorem (mathematical analysis)
+Fredholm's theorem (linear algebra)
+Freidlin–Wentzell theorem (stochastic processes)
+Freiman's theorem (number theory)
+Freudenthal suspension theorem (homotopy theory)
+Freyd's adjoint functor theorem (category theory)
+Friedberg–Muchnik theorem (mathematical logic)
+Friendship theorem (graph theory)
+Frobenius determinant theorem (group theory)
+Frobenius reciprocity theorem (group representations)
+Frobenius theorem (foliations)
+Frobenius theorem (abstract algebras)
+Froda's theorem (mathematical analysis)
+Frucht's theorem (graph theory)
+Fubini's theorem (integration)
+Fubini's theorem on differentiation (real analysis)
+Fuchs's theorem (differential equations)
+Fuglede's theorem (functional analysis)
+Full employment theorem (theoretical computer science)
+Fulton–Hansen connectedness theorem (algebraic geometry)
+Fundamental theorem of algebra (complex analysis)
+Fundamental theorem of arbitrage-free pricing (financial mathematics)
+Fundamental theorem of arithmetic (number theory)
+Fundamental theorem of calculus (calculus)
+Fundamental theorem on homomorphisms (abstract algebra)
+Fundamental theorems of welfare economics (economics)
+Furry's theorem (quantum field theory)
+G[edit]
+
+Galvin's theorem (combinatorics)
+Gauss theorem (vector calculus)
+Gamas's Theorem (multilinear algebra)
+Gauss's Theorema Egregium (differential geometry)
+Gauss–Bonnet theorem (differential geometry)
+Gauss–Lucas theorem (complex analysis)
+Gauss–Markov theorem (statistics)
+Gauss–Wantzel theorem (geometry)
+Gelfand–Mazur theorem (Banach algebra)
+Gelfand–Naimark theorem (functional analysis)
+Gelfond–Schneider theorem (transcendental number theory)
+Gell-Mann and Low theorem (quantum field theory)
+Geometric mean theorem (geometry)
+Geroch's splitting theorem (differential geometry)
+Gershgorin circle theorem (matrix theory)
+Gibbard–Satterthwaite theorem (voting methods)
+Girsanov's theorem (stochastic processes)
+Glaisher's theorem (number theory)
+Gleason's theorem (Hilbert space)
+Glivenko's theorem (mathematical logic)
+Glivenko's theorem (probability)
+Glivenko–Cantelli theorem (probability)
+Goddard–Thorn theorem (vertex algebras)
+Gödel's completeness theorem (mathematical logic)
+Gödel's incompleteness theorem (mathematical logic)
+Godunov's theorem (numerical analysis)
+Going-up and going-down theorems (commutative algebra)
+Goldberg–Sachs theorem (physics)
+Goldie's theorem (ring theory)
+Goldstine theorem (functional analysis)
+Goldstone's theorem (physics)
+Golod–Shafarevich theorem (group theory)
+Gomory's theorem (mathematical logic)
+Goodstein's theorem (mathematical logic)
+Gordon–Newell theorem (queueing theory)
+Gottesman–Knill theorem (quantum computation)
+Gradient theorem (vector calculus)
+Graph structure theorem (graph theory)
+Grauert–Riemenschneider vanishing theorem (algebraic geometry)
+Great orthogonality theorem (group theory)
+Green–Tao theorem (number theory)
+Green's theorem (vector calculus)
+Grinberg's theorem (graph theory)
+Gromov's compactness theorem (Riemannian geometry)
+Gromov's compactness theorem (symplectic topology)
+Gromov's theorem on groups of polynomial growth (geometric group theory)
+Gromov–Ruh theorem (differential geometry)
+Gross–Zagier theorem (number theory)
+Grothendieck–Hirzebruch–Riemann–Roch theorem (algebraic geometry)
+Grothendieck's connectedness theorem (algebraic geometry)
+Grötzsch's theorem (graph theory)
+Grunsky's theorem (complex analysis)
+Grunwald–Wang theorem (algebraic number theory)
+Grushko theorem (group theory)
+H[edit]
+
+H-cobordism theorem (differential topology)
+H-theorem (thermodynamics)
+Haag's theorem (quantum field theory)
+Haag–Łopuszański–Sohnius theorem (physics)
+Haboush's theorem (algebraic groups, representation theory, invariant theory)
+Hadamard three-circle theorem (complex analysis)
+Hadamard three-lines theorem (complex analysis)
+Hadwiger's theorem (geometry, measure theory)
+Hahn decomposition theorem (measure theory)
+Hahn embedding theorem (ordered groups)
+Hairy ball theorem (algebraic topology)
+Hahn–Banach theorem (functional analysis)
+Hahn–Kolmogorov theorem (measure theory)
+Hahn–Mazurkiewicz theorem (continuum theory)
+Hajnal–Szemerédi theorem (graph theory)
+Hales–Jewett theorem (combinatorics)
+Hall's marriage theorem (combinatorics)
+Halpern–Läuchli theorem (Ramsey theory)
+Ham sandwich theorem (topology)
+Hammersley–Clifford theorem (probability)
+Hardy's theorem (complex analysis)
+Hardy–Littlewood maximal theorem (real analysis)
+Hardy–Littlewood tauberian theorem (mathematical analysis)
+Hardy–Ramanujan theorem (number theory)
+Harish–Chandra theorem (representation theory)
+Harish–Chandra's regularity theorem (representation theory)
+Harnack's curve theorem (real algebraic geometry)
+Harnack's theorem (complex analysis)
+Hartman–Grobman theorem (dynamical systems)
+Hartogs–Rosenthal theorem (complex analysis)
+Hartogs's theorem (complex analysis)
+Hartogs's extension theorem (several complex variables)
+Hasse norm theorem (number theory)
+Hasse's theorem on elliptic curves (number theory)
+Hasse–Arf theorem (local class field theory)
+Hasse–Minkowski theorem (number theory)
+Heckscher–Ohlin theorem (economics)
+Heine–Borel theorem (real analysis)
+Heine–Cantor theorem (metric geometry)
+Hellinger–Toeplitz theorem (functional analysis)
+Hellmann–Feynman theorem (physics)
+Helly–Bray theorem (probability theory)
+Helly's selection theorem (mathematical analysis)
+Helly's theorem (convex sets)
+Helmholtz theorem (classical mechanics) (physics)
+Helmholtz's theorems (physics)
+Herbrand's theorem (logic)
+Herbrand–Ribet theorem (cyclotomic fields)
+Higman's embedding theorem (group theory)
+Hilbert's basis theorem (commutative algebra,invariant theory)
+Hilbert's Nullstellensatz (theorem of zeroes) (commutative algebra, algebraic geometry)
+Hilbert–Schmidt theorem (functional analysis)
+Hilbert–Speiser theorem (cyclotomic fields)
+Hilbert–Waring theorem (number theory)
+Hilbert's irreducibility theorem (number theory)
+Hilbert's syzygy theorem (commutative algebra)
+Hilbert's theorem (differential geometry)
+Hilbert's theorem 90 (number theory)
+Hilbert projection theorem (convex analysis)
+Hille–Yosida theorem (functional analysis)
+Hindman's theorem (Ramsey theory)
+Hinge theorem (geometry)
+Hironaka theorem (algebraic geometry)
+Hirzebruch signature theorem (topology, algebraic geometry)
+Hirzebruch–Riemann–Roch theorem (complex manifolds)
+Hjelmslev's theorem (geometry)
+Hobby–Rice theorem (mathematical analysis)
+Hodge index theorem (algebraic surfaces)
+Hohenberg–Kohn theorems (density functional theory)
+Hölder's theorem (mathematical analysis)
+Holditch's theorem (plane geometry)
+Holland's schema theorem (genetic algorithm)
+Holmström's theorem (economics)
+Hopf–Rinow theorem (differential geometry)
+Hurewicz theorem (algebraic topology)
+Hurwitz's automorphisms theorem (algebraic curves)
+Hurwitz's theorem (complex analysis)
+Hurwitz's theorem (normed division algebras)
+Hurwitz's theorem (number theory)
+I[edit]
+
+Identity theorem (complex analysis)
+Identity theorem for Riemann surfaces (Riemann surfaces)
+Immerman–Szelepcsényi theorem (computational complexity theory)
+Implicit function theorem (vector calculus)
+Impossibility of angle trisection (geometry)
+Increment theorem (mathematical analysis)
+Independence of the axiom of choice (mathematical logic)
+Independence of the continuum hypothesis (mathematical logic)
+Independence of the parallel postulate (geometry)
+Infinite monkey theorem (probability)
+Integral root theorem (algebra, polynomials)
+Initial value theorem (integral transform)
+Integral representation theorem for classical Wiener space (measure theory)
+Intermediate value theorem (calculus)
+Intercept theorem (Euclidean geometry)
+Intersecting chords theorem (Euclidean geometry)
+Intersecting secants theorem (Euclidean geometry)
+Intersection theorem (projective geometry)
+Inverse eigenvalues theorem (linear algebra)
+Inverse function theorem (vector calculus)
+Ionescu-Tulcea theorem (probability theory)
+Isomorphism extension theorem (abstract algebra)
+Isomorphism theorem (abstract algebra)
+Isoperimetric theorem (curves, calculus of variations)
+J[edit]
+
+Jackson's theorem (queueing theory)
+Jacobi's four-square theorem (number theory)
+Jacobson density theorem (ring theory)
+Jacobson–Bourbaki theorem (algebra)
+Jacobson–Morozov theorem (Lie algebra)
+Japanese theorem for concyclic polygons (Euclidean geometry)
+Japanese theorem for concyclic quadrilaterals (Euclidean geometry)
+John ellipsoid (geometry)
+Jordan curve theorem (topology)
+Jordan–Hölder theorem (group theory)
+Jordan–Schönflies theorem (geometric topology)
+Jordan–Schur theorem (group theory)
+Jordan's theorem (multiply transitive groups) (group theory)
+Joubert's theorem (algebra)
+Jung's theorem (geometry)
+Jurkat–Richert theorem (analytic number theory)
+K[edit]
+
+Kachurovskii's theorem (convex analysis)
+Kanamori–McAloon theorem (mathematical logic)
+Kantorovich theorem (functional analysis)
+Kaplansky density theorem (von Neumann algebra)
+Kaplansky's theorem on quadratic forms (number theory)
+Karhunen–Loève theorem (stochastic processes)
+Karp–Lipton theorem (computational complexity theory)
+Katz–Lang finiteness theorem (number theory)
+Kawamata–Viehweg vanishing theorem (algebraic geometry)
+Kawasaki's theorem (mathematics of paper folding)
+Kelvin's circulation theorem (physics)
+Kempf–Ness theorem (algebraic geometry)
+Kharitonov's theorem (control theory)
+Khinchin's theorem (probability)
+Killing–Hopf theorem (Riemannian geometry)
+Kinoshita–Lee–Nauenberg theorem (quantum field theory)
+Kirby–Paris theorem (proof theory)
+Kirchberger's theorem (discrete geometry)
+Kirchhoff's theorem (graph theory)
+Kirszbraun theorem (Lipschitz continuity)
+Kleene fixed-point theorem (order theory)
+Kleene's recursion theorem (recursion theory)
+Knaster–Tarski theorem (order theory)
+Kneser's theorem (combinatorics)
+Kneser's theorem (differential equations)
+Kochen–Specker theorem (physics)
+Kodaira embedding theorem (algebraic geometry)
+Kodaira vanishing theorem (complex manifold)
+Koebe 1/4 theorem (complex analysis)
+Kolmogorov extension theorem (stochastic processes)
+Kolmogorov's three-series theorem (mathematical series)
+Kolmogorov–Arnold representation theorem (real analysis, approximation theory)
+Kolmogorov–Arnold–Moser theorem (dynamical systems)
+König's theorem (bipartite graphs)
+König's theorem (physics)
+König's theorem (set theory, mathematical logic)
+Kövari–Sós–Turán theorem (graph theory)
+Kraft–McMillan theorem (coding theory)
+Kramers' theorem (physics)
+Krein–Milman theorem (mathematical analysis, discrete geometry)
+Krener's theorem (control theory)
+Kronecker's theorem (Diophantine approximation)
+Kronecker–Weber theorem (number theory)
+Krull's principal ideal theorem (commutative algebra)
+Krull–Schmidt theorem (group theory)
+Kruskal's tree theorem (order theory)
+Kruskal–Katona theorem (combinatorics)
+Krylov–Bogolyubov theorem (dynamical systems)
+Kuhn's theorem (game theory)
+Kuiper's theorem (operator theory, topology)
+Künneth theorem (algebraic topology)
+Kurosh subgroup theorem (group theory)
+Kutta–Joukowski theorem (physics)
+Kōmura's theorem (measure theory)
+L[edit]
+
+L-balance theorem (finite groups)
+Ladner's theorem (computational complexity theory)
+Lafforgue's theorem (algebraic number theory)
+Lagrange's theorem (group theory)
+Lagrange's theorem (number theory)
+Lagrange's four-square theorem (number theory)
+Lagrange inversion theorem (mathematical analysis, combinatorics)
+Lagrange reversion theorem (mathematical analysis, combinatorics)
+Lambek–Moser theorem (combinatorics)
+Lamé’s theorem (computational complexity theory)
+Lami's theorem (statics)
+Landau prime ideal theorem (number theory)
+Lasker–Noether theorem (commutative algebra)
+Lattice theorem (abstract algebra)
+Laurent expansion theorem (complex analysis)
+Lauricella's theorem (functional analysis)
+Lax–Milgram theorem (partial differential equations)
+Lax–Richtmyer theorem (numerical analysis)
+Lax–Wendroff theorem (numerical analysis)
+Lebesgue covering dimension (dimension theory)
+Lebesgue's decomposition theorem (dimension theory)
+Lebesgue's density theorem (dimension theory)
+Lee Hwa Chung theorem (symplectic topology)
+Lebesgue differentiation theorem (real analysis)
+Le Cam's theorem (probability theory)
+Lee–Yang theorem (statistical mechanics)
+Lefschetz fixed-point theorem (fixed points, algebraic topology)
+Lefschetz–Hopf theorem (topology)
+Lefschetz hyperplane theorem (algebraic topology)
+Lefschetz theorem on (1,1)-classes (algebraic geometry)
+Lehmann–Scheffé theorem (statistics)
+Leray's theorem (algebraic geometry)
+Leray–Hirsch theorem (algebraic topology)
+Lerner symmetry theorem (economics)
+Lester's theorem (Euclidean plane geometry)
+Levi's theorem (Lie groups)
+Levitzky's theorem (ring theory)
+Lévy continuity theorem (probability)
+Lévy's modulus of continuity theorem (probability)
+Lickorish twist theorem (geometric topology)
+Lickorish–Wallace theorem (3-manifolds)
+Lie's theorem (Lie algebra)
+Lie's third theorem (Lie group)
+Lie–Palais theorem (differential geometry)
+Lindemann–Weierstrass theorem (transcendental number theory)
+Lie–Kolchin theorem (algebraic groups, representation theory)
+Liénard's theorem (dynamical systems)
+Lindelöf's theorem (complex analysis)
+Lindström's theorem (mathematical logic)
+Linear congruence theorem (number theory, modular arithmetic)
+Linear speedup theorem (computational complexity theory)
+Linnik's theorem (number theory)
+Lions–Lax–Milgram theorem (partial differential equations)
+Liouville's theorem (complex analysis, entire functions)
+Liouville's theorem (conformal mappings)
+Liouville's theorem (Hamiltonian mechanics)
+Löb's theorem (mathematical logic)
+Lochs's theorem (number theory)
+Looman–Menchoff theorem (complex analysis)
+Łoś' theorem (model theory)
+Lovelock's theorem (physics)
+Löwenheim–Skolem theorem (mathematical logic)
+Lucas's theorem (number theory)
+Lukacs's proportion-sum independence theorem (probability)
+Lumer–Phillips theorem (semigroup theory)
+Luzin's theorem (real analysis)
+Lyapunov–Malkin theorem (stability theory)
+Lyapunov's central limit theorem (probability theory)
+M[edit]
+
+M. Riesz extension theorem (functional analysis)
+MacMahon Master theorem (enumerative combinatorics)
+Maharam's theorem (measure theory)
+Mahler's compactness theorem (geometry of numbers)
+Mahler's theorem (p-adic analysis)
+Maier's theorem (analytic number theory)
+Malgrange preparation theorem (singularity theory)
+Malgrange–Ehrenpreis theorem (differential equations)
+Malgrange–Zerner theorem (complex analysis)
+Manin–Drinfeld theorem (number theory)
+Mann's theorem (number theory)
+Marcinkiewicz theorem (functional analysis)
+Marden's theorem (polynomials)
+Mazur's control theorem (number theory)
+Mergelyan's theorem (complex analysis)
+Marginal value theorem (biology, optimization)
+Markus−Yamabe theorem (dynamical systems)
+Martingale representation theorem (probability theory)
+Mason–Stothers theorem (polynomials)
+Master theorem (analysis of algorithms) (recurrence relations, asymptotic analysis)
+Maschke's theorem (group representations)
+Matiyasevich's theorem (mathematical logic)
+Max flow min cut theorem (graph theory)
+Max Noether's theorem (algebraic geometry)
+Maximal ergodic theorem (ergodic theory)
+Maximum power theorem (electrical circuits)
+Maxwell's theorem (probability theory)
+May's theorem (game theory)
+Mazur–Ulam theorem (normed spaces)
+Mazur's torsion theorem (algebraic geometry)
+Mean value theorem (calculus)
+Measurable Riemann mapping theorem (conformal mapping)
+Mellin inversion theorem (complex analysis)
+Menelaus's theorem (geometry)
+Menger's theorem (graph theory)
+Mercer's theorem (functional analysis)
+Mermin–Wagner theorem (physics)
+Mertens's theorems (number theory)
+Metrization theorems (topological spaces)
+Meusnier's theorem (differential geometry)
+Midy's theorem (number theory)
+Mihăilescu's theorem (number theory)
+Milliken–Taylor theorem (Ramsey theory)
+Milliken's tree theorem (Ramsey theory)
+Milman–Pettis theorem (Banach space)
+Min-max theorem (functional analysis)
+Minimax theorem (game theory)
+Minkowski's theorem (geometry of numbers)
+Minkowski's second theorem (geometry of numbers)
+Minkowski–Hlawka theorem (geometry of numbers)
+Minlos's theorem (functional analysis)
+Miquel's theorem (geometry)
+Mirsky–Newman theorem (group theory)
+Mitchell's embedding theorem (category theory)
+Mittag-Leffler's theorem (complex analysis)
+Modigliani–Miller theorem (finance theory)
+Modularity theorem (number theory)
+Mohr–Mascheroni theorem (geometry)
+Monge's theorem (geometry)
+Monodromy theorem (complex analysis)
+Monotone class theorem (measure theory)
+Monotone convergence theorem (mathematical analysis)
+Monsky's theorem (discrete geometry)
+Montel's theorem (complex analysis)
+Moore–Aronszajn theorem (Hilbert space)
+Mordell–Weil theorem (number theory)
+Moreau's theorem (convex analysis)
+Morera's theorem (complex analysis)
+Morley's categoricity theorem (model theory)
+Morley's trisector theorem (geometry)
+Morton's theorem (game theory)
+Mostow rigidity theorem (differential geometry)
+Mountain pass theorem (calculus of variations)
+Moving equilibrium theorem (economics)
+Multinomial theorem (algebra, combinatorics)
+Multiplication theorem (special functions)
+Multiplicity-one theorem (group representations)
+Mumford vanishing theorem (algebraic geometry)
+Mutual fund separation theorem (financial mathematics)
+Müntz–Szász theorem (functional analysis)
+Mycielski's theorem (graph theory)
+Myers theorem (differential geometry)
+Myhill–Nerode theorem (formal languages)
+N[edit]
+
+Nachbin's theorem(complex analysis)
+Nagata's compactification theorem (algebraic geometry)
+Nagata–Smirnov metrization theorem(general topology)
+Nagell–Lutz theorem (elliptic curves)
+Napoleon's theorem (triangle geometry)
+Nash embedding theorem (differential geometry)
+Nash–Moser theorem (mathematical analysis)
+Netto's theorem (topology)
+Newlander–Niremberg theorem (differential geometry)
+Newton's theorem about ovals (curves)
+Newton's theorem (quadrilateral) (geometry)
+Nicomachus's theorem (number theory)
+Nielsen fixed-point theorem (fixed points)
+Nielsen–Ninomiya theorem (quantum field theory)
+Nielsen realization problem (geometric topology)
+Nielsen–Schreier theorem (free groups)
+Niven's theorem (number theory)
+No-broadcasting theorem (quantum information theory)
+No-cloning theorem (quantum computation)
+No-communication theorem (quantum information theory)
+No-deleting theorem (quantum information theory)
+No free lunch theorem (philosophy of mathematics)
+No-hair theorem (physics)
+No-trade theorem (economics)
+No wandering domain theorem (ergodic theory)
+Noether's theorem (Lie groups, calculus of variations, differential invariants, physics)
+Noether's second theorem (calculus of variations, physics)
+Noether's theorem on rationality for surfaces (algebraic surfaces)
+Non-squeezing theorem (symplectic geometry)
+Norton's theorem (electrical networks)
+Novikov's compact leaf theorem (foliations)
+Nyquist–Shannon sampling theorem (information theory)
+O[edit]
+
+Odd number theorem (physics)
+Open mapping theorem (complex analysis)
+Open mapping theorem (functional analysis)
+Optical equivalence theorem (quantum optics)
+Optical theorem (physics)
+Optional stopping theorem (probability theory)
+Orbit theorem (Nagano–Sussmann) (control theory)
+Orbit-stabilizer theorem (group theory)
+Ore's theorem (graph theory)
+Orlicz–Pettis theorem (functional analysis)
+Ornstein theorem (ergodic theory)
+Oseledec theorem (ergodic theory)
+Osterwalder–Schrader theorem (physics)
+Ostrowski's theorem (number theory)
+Ostrowski–Hadamard gap theorem (complex analysis)
+P[edit]
+
+PCP theorem (computational complexity theory)
+Paley's theorem (algebra)
+Paley–Wiener theorem (Fourier transforms)
+Pandya theorem (nuclear physics)
+Pappus's area theorem (geometry)
+Pappus's centroid theorem (geometry)
+Pappus's hexagon theorem (geometry)
+Paris–Harrington theorem (mathematical logic)
+Parovicenko's theorem (topology)
+Parallel axis theorem (physics)
+Parseval's theorem (Fourier analysis)
+Parthasarathy's theorem (game theory)
+Pascal's theorem (conics)
+Pasch's theorem (order theory)
+Peano existence theorem (ordinary differential equations)
+Peeling theorem (physics)
+Peetre theorem (functional analysis)
+Peixoto's theorem (dynamical systems)
+Penrose–Hawking singularity theorems (physics)
+Pentagonal number theorem (number theory)
+Perfect graph theorem (graph theory)
+Perlis theorem (graph theory)
+Perpendicular axis theorem (physics)
+Perron–Frobenius theorem (matrix theory)
+Peter–Weyl theorem (representation theory)
+Phragmén–Lindelöf theorem (complex analysis)
+Picard theorem (complex analysis)
+Picard–Lindelöf theorem (ordinary differential equations)
+Pick's theorem (geometry)
+Pickands–Balkema–de Haan theorem (extreme value theory)
+Pitman–Koopman–Darmois theorem (statistics)
+Pitot theorem (plane geometry)
+Pizza theorem (geometry)
+Pivot theorem (circles)
+Planar separator theorem (graph theory)
+Plancherel theorem (Fourier analysis)
+Plancherel theorem for spherical functions (representation theory)
+Poincaré–Bendixson theorem (dynamical systems)
+Poincaré–Birkhoff–Witt theorem (universal enveloping algebras)
+Poincaré–Hopf theorem (differential topology)
+Poincaré duality theorem (algebraic topology of manifolds)
+Poincaré recurrence theorem (dynamical systems)
+Poisson limit theorem (probability)
+Pólya enumeration theorem (combinatorics)
+Pomeranchuk's theorem (physics)
+Pompeiu's theorem (Euclidean geometry)
+Poncelet's closure theorem (conics)
+Poncelet–Steiner theorem (geometry)
+Positive energy theorem (physics)
+Post's theorem (mathematical logic)
+Poynting's theorem (physics)
+Preimage theorem (differential topology)
+Price's theorem (general relativity)
+Prime number theorem (number theory)
+Primitive element theorem (field theory)
+Principal axis theorem (linear algebra)
+Principal ideal theorem (algebraic number theory)
+Prokhorov's theorem (measure theory)
+Proper base change theorem (algebraic geometry)
+Proth's theorem (number theory)
+Pseudorandom generator theorem (computational complexity theory)
+Ptolemy's theorem (geometry)
+Puiseux's theorem (algebraic geometry)
+Pythagorean theorem (geometry)
+Q[edit]
+
+Quillen–Suslin theorem (abstract algebra)
+Quadratic reciprocity theorem
+Quantum threshold theorem (computer science) (theoretical computer science)
+Quotient of subspace theorem (functional analysis)
+R[edit]
+
+Rademacher's theorem (mathematical analysis)
+Rado's theorem (harmonic analysis)
+Radon's theorem (convex sets)
+Radon–Nikodym theorem (measure theory)
+Raikov's theorem (probability)
+Ramanujam vanishing theorem (algebraic geometry)
+Ramanujan–Skolem's theorem (Diophantine equations)
+Ramsey's theorem (graph theory, combinatorics)
+Rank–nullity theorem (linear algebra)
+Rao–Blackwell theorem (statistics)
+Rashevsky–Chow theorem (control theory)
+Rational root theorem (algebra, polynomials)
+Rationality theorem (politics)
+Ratner's theorems (ergodic theory)
+Rauch comparison theorem (Riemannian geometry)
+Rédei's theorem (group theory)
+Reeb sphere theorem (foliations)
+Reeh–Schlieder theorem (local quantum field theory)
+Reflection theorem (algebraic number theory)
+Regev's theorem (ring theory)
+Reidemeister–Singer Theorem (geometric topology)
+Reider's theorem (algebraic surfaces)
+Remmert–Stein theorem (complex analysis)
+Residue theorem (complex analysis)
+Reuschle's theorem (Euclidean geometry)
+Reversed compound agent theorem (probability)
+Reynolds transport theorem (fluid dynamics)
+Ribet's theorem (elliptic curves)
+Rice's theorem (recursion theory, computer science)
+Rice–Shapiro theorem (computer science)
+Richardson's theorem (mathematical logic)
+Riemann mapping theorem (complex analysis)
+Riemann series theorem (mathematical series)
+Riemann's existence theorem (algebraic geometry)
+Riemann's theorem on removable singularities (complex analysis)
+Riemann–Roch theorem (Riemann surfaces, algebraic curves)
+Riemann–Roch theorem for smooth manifolds (differential topology)
+Riemann–Roch theorem for surfaces (algebraic surfaces)
+Riemann singularity theorem (algebraic geometry)
+Riesz representation theorem (functional analysis, Hilbert space)
+Riesz–Fischer theorem (real analysis)
+Riesz–Thorin theorem (functional analysis)
+Ringel–Youngs theorem (graph theory)
+Robbins theorem (graph theory)
+Robertson–Seymour theorem (graph theory)
+Robin's theorem (number theory)
+Robinson's joint consistency theorem (mathematical logic)
+Rokhlin's theorem (geometric topology)
+Rolle's theorem (calculus)
+Rosser's theorem (number theory)
+Rouché's theorem (complex analysis)
+Rouché–Capelli theorem (Linear algebra)
+Routh's theorem (triangle geometry)
+Routh–Hurwitz theorem (polynomials)
+Runge's theorem (complex analysis)
+Rybczynski theorem (economics)
+Ryll-Nardzewski fixed-point theorem (functional analysis)
+S[edit]
+
+S–cobordism theorem (differential topology)
+Saccheri–Legendre theorem (absolute geometry)
+Sahlqvist correspondence theorem (modal logic)
+Saint-Venant's theorem (physics)
+Sard's theorem (differential geometry)
+Sarkovskii's theorem (dynamical systems)
+Savitch's theorem (computational complexity theory)
+Sazonov's theorem (functional analysis)
+Schaefer's dichotomy theorem (computational complexity theory)
+Schauder fixed-point theorem (functional analysis)
+Schilder's theorem (stochastic processes)
+Schnyder's theorem (graph theory)
+Schreier refinement theorem (group theory)
+Schröder–Bernstein theorems for operator algebras (operator algebras)
+Schroeder–Bernstein theorem for measurable spaces (measure theory)
+Schur's lemma (representation theory)
+Schur's theorem (Ramsey theory)
+Schur–Zassenhaus theorem (group theory)
+Schwartz kernel theorem (generalized functions)
+Schwartz–Zippel theorem (polynomials)
+Schwarz–Ahlfors–Pick theorem (differential geometry)
+Schwenk's theorem (graph theory)
+Scott core theorem (3-manifolds)
+Seifert–van Kampen theorem (algebraic topology)
+Sela's theorem (hyperbolic groups)
+Separating axis theorem (convex geometry)
+Shannon–Hartley theorem (information theory)
+Shannon's expansion theorem (Boolean algebra)
+Shannon's source coding theorem (information theory)
+Shell theorem (physics)
+Shirshov–Cohn theorem (Jordan algebras)
+Shirshov–Witt theorem (Lie algebras)
+Shannon's theorem (information theory)
+Shift theorem (differential operators)
+Siegel–Walfisz theorem (analytic number theory)
+Silverman–Toeplitz theorem (mathematical analysis)
+Simplicial approximation theorem (algebraic topology)
+Sinkhorn's theorem (matrix theory)
+Sion's minimax theorem (game theory)
+Sipser–Lautemann theorem (probabilistic complexity theory) (structural complexity theory)
+Siu's semicontinuity theorem (complex analysis)
+Six circles theorem (circles)
+Six exponentials theorem (transcendental number theory)
+Sklar's theorem (statistics)
+Skoda–El Mir theorem (complex geometry)
+Skolem–Mahler–Lech theorem (number theory)
+Skolem–Noether theorem (simple algebras)
+Skorokhod's embedding theorem (statistics)
+Skorokhod's representation theorem (statistics)
+Śleszyński–Pringsheim theorem (continued fraction)
+Slutsky's theorem (probability theory)
+Smn theorem (recursion theory, computer science)
+Sobolev embedding theorem (mathematical analysis)
+Sokhatsky–Weierstrass theorem (complex analysis)
+Solèr's theorem (mathematical logic)
+Solutions of a general cubic equation (algebra)
+Solutions of a general quartic equation (algebra)
+Solutions to Pell's equation (number theory)
+Sonnenschein–Mantel–Debreu Theorem (economics)
+Sophie Germain's theorem (number theory)
+Soul theorem (Riemannian geometry)
+Soundness theorem (mathematical logic)
+Space hierarchy theorem (computational complexity theory)
+Specht's theorem (matrix theory)
+Spectral theorem (functional analysis)
+Speedup theorem (computational complexity theory)
+Sperner's theorem (combinatorics)
+Sphere theorem (Riemannian geometry)
+Spin–statistics theorem (physics)
+Sprague–Grundy theorem (combinatorial game theory)
+Squeeze theorem (mathematical analysis)
+Stahl's theorem (matrix analysis)
+Stallings theorem about ends of groups (group theory)
+Stallings–Zeeman theorem (algebraic topology)
+Stanley's reciprocity theorem (combinatorics)
+Star of David theorem (combinatorics)
+Stark–Heegner theorem (number theory)
+Stein–Strömberg theorem (measure theory)
+Steiner–Lehmus theorem (triangle geometry)
+Steinhaus theorem (measure theory)
+Steinitz theorem (graph theory)
+Stewart's theorem (plane geometry)
+Stinespring factorization theorem (operator theory)
+Stirling's theorem (mathematical analysis)
+Stokes's theorem (vector calculus, differential topology)
+Stolper–Samuelson theorem (economics)
+Stolz–Cesàro theorem (calculus)
+Stone's representation theorem for Boolean algebras (mathematical logic)
+Stone's theorem on one-parameter unitary groups (functional analysis)
+Stone–Tukey theorem (topology)
+Stone–von Neumann theorem (functional analysis, representation theory of the Heisenberg group, quantum mechanics)
+Stone–Weierstrass theorem (functional analysis)
+Strassmann's theorem (field theory)
+Strong perfect graph theorem (graph theory)
+Structure theorem for finitely generated modules over a principal ideal domain (abstract algebra)
+Structure theorem for Gaussian measures (measure theory)
+Structured program theorem (computer science)
+Sturm's theorem (theory of equations)
+Sturm–Picone comparison theorem (differential equations)
+Subspace theorem (Diophantine approximation)
+Supersymmetry nonrenormalization theorems (physics)
+Supporting hyperplane theorem (convex geometry)
+Swan's theorem (module theory)
+Sylow theorems (group theory)
+Sylvester's determinant theorem (determinants)
+Sylvester's theorem (number theory)
+Sylvester pentahedral theorem (invariant theory)
+Sylvester's law of inertia (quadratic forms)
+Sylvester–Gallai theorem (plane geometry)
+Symmetric hypergraph theorem (graph theory)
+Symphonic theorem (triangle geometry)
+Synge's theorem (Riemannian geometry)
+Sz.-Nagy's dilation theorem (operator theory)
+Szegő limit theorems (mathematical analysis)
+Szemerédi's theorem (combinatorics)
+Szemerédi–Trotter theorem (combinatorics)
+Szpilrajn extension theorem (axiom of choice)
+T[edit]
+
+Takagi existence theorem (number theory)
+Takens's theorem (dynamical systems)
+Tameness theorem (3-manifolds)
+Tangent-secant theorem (geometry)
+Tarski's indefinability theorem (mathematical logic)
+Taylor's theorem (calculus)
+Taylor–Proudman theorem (physics)
+Tennenbaum's theorem (model theory)
+Thabit ibn Qurra's theorem (amicable numbers)
+Thales's theorem (geometry)
+The duality theorem (topology)
+Thébault's theorem (geometry)
+Theorem of de Moivre–Laplace (probability theory)
+Theorem of the cube (algebraic varieties)
+Theorem of the gnomon (geometry)
+Theorem of three moments (physics)
+Theorem on friends and strangers (Ramsey theory)
+Thévenin's theorem (electrical circuits)
+Thompson transitivity theorem (finite groups)
+Thompson uniqueness theorem (finite groups)
+Thomsen's theorem (geometry)
+Thue's theorem (Diophantine equation)
+Thue–Siegel–Roth theorem (Diophantine approximation)
+Tietze extension theorem (general topology)
+Tijdeman's theorem (Diophantine equations)
+Tikhonov fixed-point theorem (functional analysis)
+Time hierarchy theorem (computational complexity theory)
+Titchmarsh theorem (integral transform)
+Titchmarsh convolution theorem (complex analysis)
+Tits alternative (geometric group theory)
+Toda's theorem (computational complexity theory)
+Tomita's theorem (operator algebras)
+Tonelli's theorem (functional analysis)
+Topkis's theorem (economics)
+Toponogov's theorem (Riemannian geometry)
+Torelli theorem (algebraic geometry)
+Trichotomy theorem (finite groups)
+Trombi–Varadarajan theorem (Lie group)
+Trudinger's theorem (functional analysis)
+Tsen's theorem (algebraic geometry)
+Tunnell's theorem (number theory)
+Tutte theorem (graph theory)
+Turán's theorem (graph theory)
+Turán–Kubilius theorem (number theory)
+Tverberg's theorem (discrete geometry)
+Tychonoff's theorem (general topology)
+U[edit]
+
+Ugly duckling theorem (computer science)
+Uncountability of the continuum (set theory)
+Uniformization theorem (complex analysis, differential geometry)
+Universal approximation theorem (artificial neural networks)
+Universal coefficient theorem (algebraic topology)
+Unmixedness theorem (algebraic geometry)
+V[edit]
+
+Vafa–Witten theorem (physics)
+Valiant–Vazirani theorem (computational complexity theory)
+Van Aubel's theorem (quadrilaterals)
+Van der Waerden's theorem (combinatorics)
+Van Schooten's theorem  (Euclidean geometry)
+Van Vleck's theorem (mathematical analysis)
+Vantieghems theorem (number theory)
+Varignon's theorem (Euclidean geometry)
+Vieta's formulas (quadratics)
+Vietoris–Begle mapping theorem (algebraic topology)
+Vinogradov's theorem (number theory)
+Virial theorem (classical mechanics)
+Vitali convergence theorem (measure theory)
+Vitali covering theorem (measure theory)
+Vitali theorem (measure theory)
+Vitali–Hahn–Saks theorem (measure theory)
+Viviani's theorem (Euclidean geometry)
+Von Neumann bicommutant theorem (functional analysis)
+Von Neumann's theorem (operator theory)
+Von Staudt–Clausen theorem (number theory)
+W[edit]
+
+Wagner's theorem (graph theory)
+Waldhausen's theorem (geometric topology)
+Wallace–Bolyai–Gerwien theorem (discrete geometry)
+Walter theorem (finite groups)
+Weber's theorem (algebraic curves)
+Wedderburn's little theorem (ring theory)
+Wedderburn's theorem (abstract algebra)
+Weierstrass–Casorati theorem (complex analysis)
+Weierstrass factorization theorem (complex analysis)
+Weierstrass preparation theorem (several complex variables, commutative algebra)
+Weinberg–Witten theorem (quantum field theory)
+Well-ordering theorem (mathematical logic)
+Whitehead theorem (homotopy theory)
+Whitney embedding theorem (differential manifolds)
+Whitney extension theorem (mathematical analysis)
+Whitney immersion theorem (differential topology)
+Whitney–Graustein Theorem (algebraic topology)
+Wick's theorem (physics)
+Wiener's tauberian theorem (real analysis)
+Wiener–Ikehara theorem (number theory)
+Wigner–Eckart theorem (Clebsch–Gordan coefficients)
+Wilkie's theorem (model theory)
+Wilson's theorem (number theory)
+Witt's theorem (quadratic forms)
+Wold's theorem (statistics)
+Wolstenholme's theorem (number theory)
+Z[edit]
+
+Z* theorem (finite groups)
+ZJ theorem (finite groups)
+Zahorski theorem (real analysis)
+Zariski's connectedness theorem (algebraic geometry)
+Zariski's main theorem (algebraic geometry)
+Zeckendorf's theorem (number theory)
+Zeilberger–Bressoud theorem (combinatorics)
+Zsigmondy's theorem (number theory)
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_theorems&oldid=1222372077"
+Categories: Mathematics-related listsTheoremsHidden categories: Articles with short descriptionShort description is different from WikidataWikipedia articles needing reorganization from February 2024
+
+
+
+
+
+
+ This page was last edited on 5 May 2024, at 17:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

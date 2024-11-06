@@ -1,0 +1,1273 @@
+
+
+
+
+gauge theory - What are some of the benefits of understanding differential geometry? - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What are some of the benefits of understanding differential geometry?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+3 years, 1 month ago
+
+
+Modified
+3 years, 1 month ago
+
+
+Viewed
+                        2k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            7
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+This question isn't as well-defined as I would like, but here goes.
+I'm interested in gauge theory, e.g., Aharonov-Bohm effect, the Berry phase, etc, and I have seen that this can be formulated rigorously in the context of holonomy in differential geometry. However, is there any substantial benefit in formulating it this way, other than it being rigorous? For example, is there some concept/effect that is very difficult to understand unless I know the details of differential geometry. Or maybe is there something that becomes trivial once I understand differential geometry? Examples would be greatly appreciated.
+I understand the non-rigorous approach to explaining such phenomena and have some background in (real) manifold theory, but since a lot of gauge theory is formulated in terms of principal fibre bundles and complex manifolds with hermitian metrics, it's quite a learning curve and I'm not sure if it's worth delving into full rigor.
+
+
+
+
+differential-geometrygauge-theorysoft-questioneducation
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited May 3, 2021 at 2:39
+
+
+
+
+
+
+Qmechanic♦
+
+205k4747 gold badges560560 silver badges2.3k2.3k bronze badges
+
+
+
+
+
+
+
+
+            asked May 3, 2021 at 0:27
+
+
+
+
+
+
+Andrew YuanAndrew Yuan
+
+2,1131111 silver badges1919 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+My diff geometry and analogous physics is not that great, but i think math differential geometry and physics like gauge theory are formulated differently. They look at it differently, that i would think from physics, differential geometry will not be effective at a normal superficial level, weather the relations will very deep mathematical. So it kind of like math definitions of integrals and derivative with limits, for physics but a lot more complicated. And it is not readily useful per say to physics. You know not to differentiate but physics is scientific and concerned with emperical law
+$\endgroup$
+
+– marshal craft
+
+May 3, 2021 at 17:27
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I guess to be short and to point, math looks at things with different motives then physicist. While they can work together on highest levels, the differences are by no means trivial for anyone. Is it useful, yes, but that doesn't change anything.
+$\endgroup$
+
+– marshal craft
+
+May 3, 2021 at 17:52
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        2 Answers
+                                    2
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            16
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+This is a classic tradeoff in research-level physics. A more sophisticated approach can often
+(a) explain otherwise mysterious results,
+(b) provide an invariant formulation that does not depend on arbitrary choices of coordinates, and
+(c) suggest new directions and connections that are not obvious.
+If you are a student, then learning "standard" tools in your field is also important, even if there is some up front cost, because ultimately you will need to have a new idea and so you have to know the "standard" ideas people in your field will know to try. But, it is also often not strictly necessary to use sophisticated new tools. And it is also certainly possible to invest in learning a new tool, and then find it does not give you a good return for your (time and effort) investment. I also personally have the opinion -- probably not shared by everyone -- that differential geometry applied to gauge theories helps elucidate mathematical aspects of Yang-Mills theory, but doesn't add physical insight (I also have the same opinion about GR, that differential geometry gives us a nice mathematical understanding but not a physical one -- this is a viewpoint advocated in Weinberg's textbook, but again is not a universally held opinion). Of course you have to learn differential geometry to do GR, and parts of research involving gauge theory, but you should just know why you are learning it.
+Anyway, the point of this rant is that I'm not going to say whether it is or is not worth learning differential geometry, because I don't know your field, your level, or background, or your goals. On top of that, there is a wide range of what one might mean by differential geometry, from "hardcore" (fiber bundles, holonomy groups) that is fairly specialized, to "vanilla" differential geometry (connections, Lie algebra, differential forms) which basically every working field theorist needs to know. (And that's not even getting into "very hardcore" topics like twistor theory). But I can give an example of (a), (b), and (c):
+(a) Differential geometry can explain results in gauge theory. A magnetic monopole can exist because it's not always possible to find a globally defined smooth vector potential on the surface of a sphere.
+(b) Berry's phase can be understood in an invariant way as a geometric phase which does not depend on a specific path. The generality is very clear from the geometric formulation, but it might be less obvious if one only looks at specific examples that have to be calculated on a case-by-case basis.
+(c) Differential geometry can suggest new directions. Instantons are a major topic in modern gauge theory, and a lot of the language needed to classify and understand these solutions is based on differential geometry.
+In the comments, @ChiralAnamoly mentioned a beautiful application to chiral anomalies that is too nice not to bring up. One of the most remarkable results in mathematical physics in the second half of the 20th century is the Atiyah-Singer index theorem, which relates the global topology of a manifold to its local geometry, making essential use of the Dirac operator defined on this manifold. Besides its mathematical interest, this result can be used to give a very elegant derivation of the chiral anomaly, which is a result showing that a chiral symmetry present in the classical Lagrangian is broken at the quantum level. Again, this result can be derived using "standard" methods by computing certain 1-loop diagrams, but differential geometry provides a deeper understanding of what is going on.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited May 3, 2021 at 11:00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered May 3, 2021 at 1:04
+
+
+
+
+
+
+AndrewAndrew
+
+50.2k44 gold badges8181 silver badges159159 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+Nice answer (+1). My only complaint is that you forgot to mention chiral anomalies. ;)
+$\endgroup$
+
+– Chiral Anomaly
+
+May 3, 2021 at 4:28
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+@ChiralAnomaly That is too nice not to bring up so I added a paragraph :)
+$\endgroup$
+
+– Andrew
+
+May 3, 2021 at 11:00
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I would say thanks to reading your answer, that diff geometry is good up to the point that calculations and operations performed, make sense and basically the math is correct. An analogy would be limits, convergent series, not really useful to physicist, but then when using finite/numerical approximations, how do we know that mathematically these results are real, well using math we can prove they converge to the continuous case etc. So there is small cases for strait mathematics views, but these aren't every day, and then you can always take a trip to the math department and have them check
+$\endgroup$
+
+– marshal craft
+
+May 3, 2021 at 17:41
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@marshalcraft I think overall that is a fine analogy -- not necessarily important for calculations, but crucial for understanding some of the patterns behind those calculations. There are some specialized cases, though, where differential geometry really is the tool you need to do the calculation -- such as when studying instantons or anamolies in a general context.
+$\endgroup$
+
+– Andrew
+
+May 3, 2021 at 17:47
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            6
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I like your question a lot, and this is isn't an answer but it made me think of something Douglas Stanford said on the awesome podcast "the universe speaks in numbers". (timestamp around 23 minutes)
+Stanford was working on a problem and was able to compute some complicated result - he believed the answer, however he had no satisfying explanation as to why he got the answer that he did. He then encountered Ed Witten and after chatting about his result, Witten explained to him how to understand the problem using "fancy mathematics" (what mathematics this means is not specified in the podcast, but knowing who Witten is, it probably was a geometrical insight).
+What Stanford said about this is interesting and amusing: he said this was "some simple problem that he cared about" and he thought this should have nothing to do with any fancy mathematics naively. But Witten showed him that day that the fancy mathematics provided the "right" way to derive his result.
+I've always wondered what that problem was, and how the fancy math (probably geometry) simplified that Standford's calculation. And your question made me think of that, so here's some food for thought. Again, this is not an answer but maybe someone reading this may know about the specifics of the above problem and this can prompt an answer.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered May 3, 2021 at 2:28
+
+
+
+
+
+
+QuantumEyedeaQuantumEyedea
+
+3,67911 gold badge2121 silver badges5454 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+I strongly suspect Stanford was referring to how Ed Witten knew about Mirzakhani's work on the volume of moduli spaces of something or other, see here arxiv.org/abs/1907.03363
+$\endgroup$
+
+– user1379857
+
+May 3, 2021 at 3:23
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+This question actually made me think of the same anecdote :)
+$\endgroup$
+
+– Andrew
+
+May 3, 2021 at 13:47
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to Physics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged differential-geometrygauge-theorysoft-questioneducation or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+3
+
+Wave function constrained to a fixed trajectory? Really?
+
+
+
+17
+
+Understanding gauge fields as connections on a principal G-bundle
+
+
+
+0
+
+What is the Mathematical description of Weak Interaction at low energies?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Is there a phrase like "etymologically related" but for food?
+                
+
+
+
+                    What happens to the souls of non-evil creatures when they reach their aligned outer plane?
+                
+
+
+
+                    Meaning of にしておく here
+                
+
+
+
+                    What is the maximum number of fish possible in your tank?
+                
+
+
+
+                    In the Unabomber case, was "call Nathan R" really mistakenly written by a New York Times intern?
+                
+
+
+
+                    is_decimal Function Implementation in C++
+                
+
+
+
+                    How is indium tin oxide a n-type semiconductor?
+                
+
+
+
+                    "Better break out the weapons" before the leave the ship and explore the planet -- what kind?
+                
+
+
+
+                    Why Did The Drywall Tape Fail in My Garage? And How Can I Fix It?
+                
+
+
+
+                    How to use 'awkward' as an adjective in Chinese
+                
+
+
+
+                    Is this deck post getting cracks due to overloaded?
+                
+
+
+
+                    Password protect directory listing only and not the files themselves
+                
+
+
+
+                    Can this flying island survive a 15kt nuke? (and if yes, how much more can it take?)
+                
+
+
+
+                    Why are pointers to data members callable in C++?
+                
+
+
+
+                    Cryptic Clue Explanation: Tree that's sported to keep visitors out at university (3)
+                
+
+
+
+                    Why does Mars have a jagged light curve?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    70s or 80s film or TV show with a handgun that fires backwards and a torture chamber that burns the skin off and chars the victims black
+                
+
+
+
+                    Is there a matrix with rational entries similar to a given matrix?
+                
+
+
+
+                    How to negotiate such toxic competitiveness during my master’s studies?
+                
+
+
+
+                    Does speeding turn an accident into manslaughter?
+                
+
+
+
+                    MOSFET driver: Totem Pole or NPN Self-Biasing Turn-Off Circuit
+                
+
+
+
+                    Why are ETFs so bad at tracking Japanese indices?
+                
+
+
+
+                    Brake Line no Longer Connected to Brake Lever
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

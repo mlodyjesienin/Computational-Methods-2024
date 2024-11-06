@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+Axiom Systems of Present-Day Mathematics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A New Kind of Science|Online
+Books
+Latest Writings
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+Mathematics and Physics Have the Same Foundations
+
+The Underlying Structure of Mathematics and Physics
+
+The Metamodeling of Axiomatic Mathematics
+
+Some Simple Examples with Mathematical Interpretations
+
+Metamathematical Space
+
+The Issue of Generated Variables
+
+Rules Applied to Rules
+
+Accumulative Evolution
+
+Accumulative String Systems
+
+The Case of Hypergraphs
+
+Proofs in Accumulative Systems
+
+Beyond Substitution: Cosubstitution and Bisubstitution
+
+Some First Metamathematical Phenomenology
+
+Relations to Automated Theorem Proving
+
+Axiom Systems of Present-Day Mathematics
+
+The Model-Theoretic Perspective
+
+Axiom Systems in the Wild
+
+The Topology of Proof Space
+
+Time, Timelessness and Entailment Fabrics
+
+The Notion of Truth
+
+What Can Human Mathematics Be Like?
+
+Going below Axiomatic Mathematics
+
+The Physicalized Laws of Mathematics
+
+Uniformity and Motion in Metamathematical Space
+
+Gravitational and Relativistic Effects in Metamathematics
+
+Empirical Metamathematics
+
+Invented or Discovered? How Mathematics Relates to Humans
+
+What Axioms Can There Be for Human Mathematics?
+
+Counting the Emes of Mathematics and Physics
+
+Some Historical (and Philosophical) Background
+
+Implications for the Future of Mathematics
+
+Some Personal History: The Evolution of These Ideas
+
+Notes & Thanks
+
+Graphical Key
+
+Glossary
+
+Bibliography
+
+Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to page 
+Look up in index 
+
+×
+
+
+
+
+
+
+ 
+   
+
+ 
+   
+
+
+Physicalization of Metamathematics Axiom Systems of Present-Day Mathematics
+
+15 Axiom Systems of Present-Day Mathematics
+
+
+The axiom systems we’ve been talking about so far were chosen largely for their axiomatic simplicity. But what happens if we consider axiom systems that are used in practice in present-day mathematics? 
+The simplest common example are the axioms (actually, a single axiom) of semigroup theory, stated in our notation as:
+
+
+
+
+
+Using only substitution, all we ever get after any number of steps is the token-event graph (i.e. “entailment cone”):
+
+
+
+
+
+But with bisubstitution, even after one step we already get the entailment cone
+
+
+
+
+
+which contains such theorems as:
+
+
+
+
+
+After 2 steps, the entailment cone becomes
+
+
+
+
+
+which contains 1617 theorems such as 
+
+
+
+
+
+with sizes distributed as follows:
+
+
+
+
+
+Looking at these theorems we can see that—in fact by construction—they are all just statements of the associativity of ∘. Or, put another way, they state that under this axiom all expression trees that have the same sequence of leaves are equivalent.
+What about group theory? The standard axioms can be written
+
+
+
+
+
+where ∘ is interpreted as the binary group multiplication operation, overbar as the unary inverse operation, and 1 as the constant identity element (or, equivalently, zero-argument function).
+One step of substitution already gives:
+
+
+
+
+
+It’s notable that in this picture one can already see “different kinds of theorems” ending up in different “metamathematical locations”. One also sees some “obvious” tautological “theorems”, like a=a and 1=1.
+If we use full bisubstitution, we get 56 rather than 27 theorems, and many of the theorems are more complicated:
+
+
+
+
+
+After 2 steps of pure substitution, the entailment cone in this case becomes
+
+
+
+
+
+which includes 792 theorems with sizes distributed according to:
+
+
+
+
+
+But among all these theorems, do straightforward “textbook theorems” appear, like:
+
+
+
+
+
+The answer is no. It’s inevitable that in the end all such theorems must appear in the entailment cone. But it turns out that it takes quite a few steps. And indeed with automated theorem proving we can find “paths” that can be taken to prove these theorems—involving significantly more than two steps:
+
+
+
+
+
+So how about logic, or, more specifically Boolean algebra? A typical textbook axiom system for this (represented in terms of And ∧, Or ∨ and Not ) is:
+
+
+
+
+
+After one step of substitution from these axioms we get
+
+
+
+
+
+or in our more usual rendering:
+
+
+
+
+
+So what happens here with “named textbook theorems” (excluding commutativity and distributivity, which already appear in the particular axioms we’re using)?
+
+
+
+
+
+Once again none of these appear in the first step of the entailment cone. But at step 2 with full bisubstitution the idempotence laws show up
+
+
+
+
+
+where here we’re only operating on theorems with leaf count below 14 (of which there are a total of 27,953). 
+And if we go to step 3—and use leaf count below 9—we see the law of excluded middle and the law of noncontradiction show up:
+
+
+
+
+
+How are these reached? Here’s the smallest fragment of token-event graph (“shortest path”) within this entailment cone from the axioms to the law of excluded middle:
+
+
+
+
+
+There are actually many possible “paths” (476 in all with our leaf count restriction); the next smallest ones with distinct structures are: 
+
+
+
+
+
+Here’s the “path” for this theorem found by automated theorem proving:
+
+
+
+
+
+Most of the other “named theorems” involve longer proofs—and so won’t show up until much later in the entailment cone:
+
+
+
+
+
+The axiom system we’ve used for Boolean algebra here is by no means the only possible one. For example, it’s stated in terms of And, Or and Not—but one doesn’t need all those operators; any Boolean expression (and thus any theorem in Boolean algebra) can also be stated just in terms of the single operator Nand. 
+And in terms of that operator the very simplest axiom system for Boolean algebra contains (as I found in 2000) just one axiom (where here ∘ is now interpreted as Nand):
+
+
+
+
+
+Here’s one step of the substitution entailment cone for this axiom:
+
+
+
+
+
+After 2 steps this gives an entailment cone with 5486 theorems
+
+
+
+
+
+with size distribution:
+
+
+
+
+
+When one’s working with Nand, it’s less clear what one should consider to be “notable theorems”. But an obvious one is the commutativity of Nand:
+
+
+
+
+
+Here’s a proof of this obtained by automated theorem proving (tipped on its side for readability):
+
+
+
+
+
+Eventually it’s inevitable that this theorem must show up in the entailment cone for our axiom system. But based on this proof we would expect it only after something like 102 steps. And with the entailment cone growing exponentially this means that by the time  p∘qq∘p shows up, perhaps 10100 other theorems would have done so—though most vastly more complicated.
+We’ve looked at axioms for group theory and for Boolean algebra. But what about other axiom systems from present-day mathematics? In a sense it’s remarkable how few of these there are—and indeed I was able to list essentially all of them in just two pages in A New Kind of Science:
+
+
+
+
+
+The longest axiom system listed here is a precise version of Euclid’s original axioms
+
+
+
+
+
+where we are listing everything (even logic) in explicit (Wolfram Language) functional form. Given these axioms we should now be able to prove all theorems in Euclidean geometry. As an example (that’s already complicated enough) let’s take Euclid’s very first “proposition” (Book 1, Proposition 1) which states that it’s possible “with a ruler and compass” (i.e. with lines and circles) to construct an equilateral triangle based on any line segment—as in:
+
+
+
+
+
+We can write this theorem by saying that given the axioms together with the “setup” 
+
+
+
+
+
+it’s possible to derive: 
+
+
+
+
+
+We can now use automated theorem proving to generate a proof
+
+
+
+
+
+and in this case the proof takes 272 steps. But the fact that it’s possible to generate this proof shows that (up to various issues about the “setup conditions”) the theorem it proves must eventually “occur naturally” in the entailment cone of the original axioms—though along with an absolutely immense number of other theorems that Euclid didn’t “call out” and write down in his books.
+Looking at the collection of axiom systems from A New Kind of Science (and a few related ones) for many of them we can just directly start generating entailment cones—here shown after one step, using substitution only:
+
+
+
+
+
+But if we’re going to make entailment cones for all axiom systems there are a few other technical wrinkles we have to deal with. The axiom systems shown above are all “straightforwardly equational” in the sense that they in effect state what amount to “algebraic relations” (in the sense of universal algebra) universally valid for all choices of variables. But some axiom systems traditionally used in mathematics also make other kinds of statements. In the traditional formalism and notation of mathematical logic these can look quite complicated and abstruse. But with a metamodel of mathematics like ours it’s possible to untangle things to the point where these different kinds of statements can also be handled in a streamlined way.
+In standard mathematical notation one might write
+
+
+
+
+
+which we can read as “for all a and b, a∘b equals b∘a”—and which we can interpret in our “metamodel” of mathematics as the (two-way) rule:
+
+
+
+
+
+What this says is just that any time we see an expression that matches the pattern a_∘b_ we can replace it by b_∘a_ (or in Wolfram Language notation just b∘a), and vice versa, so that in effect a_∘b_ can be said to entail b_∘a_.
+But what if we have axioms that involve not just universal statements (“for all...”) but also existential statements (“there exists...”)? In a sense we’re already dealing with these. Whenever we write a_∘b_—or in explicit functional form, say o[a_, b_]—we’re effectively asserting that there exists some operator o that we can do operations with. It’s important to note that once we introduce o (or ∘) we imagine that it represents the same thing wherever it appears (in contrast to a pattern variable like a_ that can represent different things in different instances).
+Now consider an “explicit existential statement” like 
+
+
+
+
+
+which we can read as “there exists something a for which a∘a equals a”. To represent the “something” we just introduce a “constant”, or equivalently an expression with head, say, α, and zero arguments: α[]. Now we can write our existential statement as
+
+
+
+
+
+or:
+
+
+
+
+
+We can operate on this using rules like a_∘b_b_∘a_, with α[] always “passing through” unchanged—but with its mere presence asserting that “it exists”.
+A very similar setup works even if we have both universal and existential quantifiers. For example, we can represent 
+
+
+
+
+
+as just
+
+
+
+
+
+where now there isn’t just a single object, say β[], that we assert exists; instead there are “lots of different β’s”, “parametrized” in this case by a. 
+We can apply our standard accumulative bisubstitution process to this statement—and after one step we get:
+
+
+
+
+
+Note that this is a very different result from the one for the “purely universal” statement:
+
+
+
+
+
+
+
+
+
+
+In general, we can “compile” any statement in terms of quantifiers into our metamodel, essentially using the standard technique of Skolemization from mathematical logic. Thus for example
+
+
+
+
+
+can be “compiled into”
+
+
+
+
+
+while 
+
+
+
+
+
+can be compiled into:
+
+
+
+
+
+If we look at the actual axiom systems used in current mathematics there’s one more issue to deal with—which doesn’t affect the axioms for logic or group theory, but does show up, for example, in the Peano axioms for arithmetic. And the issue is that in addition to quantifying over “variables”, we also need to quantify over “functions”. Or formulated differently, we need to set up not just individual axioms, but a whole “axiom schema” that can generate an infinite sequence of “ordinary axioms”, one for each possible “function”. 
+In our metamodel of mathematics, we can think of this in terms of “parametrized functions”, or in Wolfram Language, just as having functions whose heads are themselves patterns, as in f[n_][a_].
+Using this setup we can then “compile” the standard induction axiom of Peano Arithmetic
+
+
+
+
+
+into the (Wolfram Language) metamodel form
+
+
+
+
+
+where the “implications” in the original axiom have been converted into one-way rules, so that what the axiom can now be seen to do is to define a transformation for something that is not an “ordinary mathematical-style expression” but rather an expression that is itself a rule.
+But the important point is that our whole setup of doing substitutions in symbolic expressions—like Wolfram Language—makes no fundamental distinction between dealing with “ordinary expressions” and with “rules” (in Wolfram Language, for example, ab is just Rule[a,b]). And as a result we can expect to be able to construct token-event graphs, build entailment cones, etc. just as well for axiom systems like Peano Arithmetic, as for ones like Boolean algebra and group theory.
+The actual number of nodes that appear even in what might seem like simple cases can be huge, but the whole setup makes it clear that exploring an axiom system like this is just another example—that can be uniformly represented with our metamodel of mathematics—of a form of sampling of the ruliad.
+
+
+Download Notebook
+Open in Wolfram Cloud
+Discuss This Page
+Related Q&A
+
+
+
+
+
+
+
+
+
+    © 2024 Stephen Wolfram, LLC
+    |
+    Contact info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7431 @@
+
+
+
+
+Quantum field theory - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Theoretical background
+
+
+
+
+
+
+
+
+1.2
+Quantum electrodynamics
+
+
+
+
+
+
+
+
+1.3
+Infinities and renormalization
+
+
+
+
+
+
+
+
+1.4
+Non-renormalizability
+
+
+
+
+
+
+
+
+1.5
+Source theory
+
+
+
+
+
+
+
+
+1.6
+Standard-Model
+
+
+
+
+
+
+
+
+1.7
+Other developments
+
+
+
+
+
+
+
+
+1.8
+Condensed-matter-physics
+
+
+
+
+
+
+
+
+
+
+2
+Principles
+
+
+
+
+Toggle Principles subsection
+
+
+
+
+
+2.1
+Classical fields
+
+
+
+
+
+
+
+
+2.2
+Canonical quantization
+
+
+
+
+
+
+
+
+2.3
+Path integrals
+
+
+
+
+
+
+
+
+2.4
+Two-point correlation function
+
+
+
+
+
+
+
+
+2.5
+Feynman diagram
+
+
+
+
+
+
+
+
+2.6
+Renormalization
+
+
+
+
+
+
+2.6.1
+Renormalization group
+
+
+
+
+
+
+
+
+
+
+2.7
+Other theories
+
+
+
+
+
+
+2.7.1
+Gauge symmetry
+
+
+
+
+
+
+
+
+2.7.2
+Spontaneous symmetry-breaking
+
+
+
+
+
+
+
+
+2.7.3
+Supersymmetry
+
+
+
+
+
+
+
+
+2.7.4
+Other spacetimes
+
+
+
+
+
+
+
+
+2.7.5
+Topological quantum field theory
+
+
+
+
+
+
+
+
+
+
+2.8
+Perturbative and non-perturbative methods
+
+
+
+
+
+
+
+
+
+
+3
+Mathematical rigor
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+6
+Further reading
+
+
+
+
+
+
+
+
+7
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Quantum field theory
+
+
+
+64 languages
+
+
+
+
+AlemannischالعربيةAsturianuتۆرکجهবাংলাБеларускаяБеларуская (тарашкевіца)БългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaItalianoעבריתҚазақшаКыргызчаLatinaLietuviųMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskOccitanOʻzbekcha / ўзбекчаਪੰਜਾਬੀپنجابیپښتوPolskiPortuguêsRomânăРусскийSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்Татарча / tatarçaไทยTürkçeУкраїнськаTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikibooksWikiquote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Theoretical framework
+Quantum field theoryFeynman diagram
+History
+Background
+Field theory
+Electromagnetism
+Weak force
+Strong force
+Quantum mechanics
+Special relativity
+General relativity
+Gauge theory
+Yang–Mills theory
+
+Symmetries
+Symmetry in quantum mechanics
+C-symmetry
+P-symmetry
+T-symmetry
+Lorentz symmetry
+Poincaré symmetry
+Gauge symmetry
+Explicit symmetry breaking
+Spontaneous symmetry breaking
+Noether charge
+Topological charge
+
+Tools
+Anomaly
+Background field method
+BRST quantization
+Correlation function
+Crossing
+Effective action
+Effective field theory
+Expectation value
+Feynman diagram
+Lattice field theory
+LSZ reduction formula
+Partition function
+Propagator
+Quantization
+Regularization
+Renormalization
+Vacuum state
+Wick's theorem
+
+Equations
+Dirac equation
+Klein–Gordon equation
+Proca equations
+Wheeler–DeWitt equation
+Bargmann–Wigner equations
+
+Standard Model
+Quantum electrodynamics
+Electroweak interaction
+Quantum chromodynamics
+Higgs mechanism
+
+Incomplete theories
+String theory
+Supersymmetry
+Technicolor
+Theory of everything
+Quantum gravity
+
+Scientists
+Adler
+Anderson
+Anselm
+Bargmann
+Becchi
+Belavin
+Bell
+Berezin
+Bethe
+Bjorken
+Bleuer
+Bogoliubov
+Brodsky
+Brout
+Buchholz
+Cachazo
+Callan
+Coleman
+Dashen
+DeWitt
+Dirac
+Doplicher
+Dyson
+Englert
+Faddeev
+Fadin
+Fayet
+Fermi
+Feynman
+Fierz
+Fock
+Frampton
+Fritzsch
+Fröhlich
+Fredenhagen
+Furry
+Glashow
+Gelfand
+Gell-Mann
+Glimm
+Goldstone
+Gribov
+Gross
+Gupta
+Guralnik
+Haag
+Heisenberg
+Hepp
+Higgs
+Hagen
+'t Hooft
+Iliopoulos
+Ivanenko
+Jackiw
+Jaffe
+Jona-Lasinio
+Jordan
+Jost
+Källén
+Kendall
+Kinoshita
+Klebanov
+Kontsevich
+Kuraev
+Landau
+Lee
+Lehmann
+Leutwyler
+Lipatov
+Łopuszański
+Low
+Lüders
+Maiani
+Majorana
+Maldacena
+Migdal
+Mills
+Møller
+Naimark
+Nambu
+Neveu
+Nishijima
+Oehme
+Oppenheimer
+Osterwalder
+Parisi
+Pauli
+Peskin
+Plefka
+Polyakov
+Pomeranchuk
+Popov
+Proca
+Rubakov
+Ruelle
+Salam
+Schrader
+Schwarz
+Schwinger
+Segal
+Seiberg
+Semenoff
+Shifman
+Shirkov
+Skyrme
+Sommerfield
+Stora
+Stueckelberg
+Sudarshan
+Symanzik
+Thirring
+Tomonaga
+Tyutin
+Vainshtein
+Veltman
+Virasoro
+Ward
+Weinberg
+Weisskopf
+Wentzel
+Wess
+Wetterich
+Weyl
+Wick
+Wightman
+Wigner
+Wilczek
+Wilson
+Witten
+Yang
+Yukawa
+Zamolodchikov
+Zamolodchikov
+Zee
+Zimmermann
+Zinn-Justin
+Zuber
+Zumino
+
+
+
+vte
+In theoretical physics, quantum field theory (QFT) is a theoretical framework that combines classical field theory, special relativity, and quantum mechanics.[1]: xi  QFT is used in particle physics to construct physical models of subatomic particles and in condensed matter physics to construct models of quasiparticles. The current standard model of particle physics is based on quantum field theory.
+QFT treats particles as excited states (also called quantum levels) of their underlying quantum fields, which are more fundamental than the particles. The equation of motion of the particle is determined by minimization of the action computed for the Lagrangian, a function of fields associated with the particle. Interactions between particles are described by interaction terms in the Lagrangian involving their corresponding quantum fields.  Each interaction can be visually represented by a Feynman diagram according to perturbation theory in quantum mechanics.
+
+
+History[edit]
+Main article: History of quantum field theory
+Quantum field theory emerged from the work of generations of theoretical physicists spanning much of the 20th century. Its development began in the 1920s with the description of interactions between light and electrons, culminating in the first quantum field theory—quantum electrodynamics. A major theoretical obstacle soon followed with the appearance and persistence of various infinities in perturbative calculations, a problem only resolved in the 1950s with the invention of the renormalization procedure. A second major barrier came with QFT's apparent inability to describe the weak and strong interactions, to the point where some theorists called for the abandonment of the field theoretic approach. The development of gauge theory and the completion of the Standard Model in the 1970s led to a renaissance of quantum field theory.
+
+Theoretical background[edit]
+Magnetic field lines visualized using iron filings. When a piece of paper is sprinkled with iron filings and placed above a bar magnet, the filings align according to the direction of the magnetic field, forming arcs allowing viewers to clearly see the poles of the magnet and to see the magnetic field generated.
+Quantum field theory results from the combination of classical field theory, quantum mechanics, and special relativity.[1]: xi  A brief overview of these theoretical precursors follows.
+The earliest successful classical field theory is one that emerged from Newton's law of universal gravitation, despite the complete absence of the concept of fields from his 1687 treatise Philosophiæ Naturalis Principia Mathematica. The force of gravity as described by Isaac Newton is an "action at a distance"—its effects on faraway objects are instantaneous, no matter the distance. In an exchange of letters with Richard Bentley, however, Newton stated that "it is inconceivable that inanimate brute matter should, without the mediation of something else which is not material, operate upon and affect other matter without mutual contact".[2]: 4  It was not until the 18th century that mathematical physicists discovered a convenient description of gravity based on fields—a numerical quantity (a vector in the case of gravitational field) assigned to every point in space indicating the action of gravity on any particle at that point. However, this was considered merely a mathematical trick.[3]: 18 
+Fields began to take on an existence of their own with the development of electromagnetism in the 19th century. Michael Faraday coined the English term "field" in 1845. He introduced fields as properties of space (even when it is devoid of matter) having physical effects. He argued against "action at a distance", and proposed that interactions between objects occur via space-filling "lines of force". This description of fields remains to this day.[2][4]: 301 [5]: 2 
+The theory of classical electromagnetism was completed in 1864 with Maxwell's equations, which described the relationship between the electric field, the magnetic field, electric current, and electric charge. Maxwell's equations implied the existence of electromagnetic waves, a phenomenon whereby electric and magnetic fields propagate from one spatial point to another at a finite speed, which turns out to be the speed of light. Action-at-a-distance was thus conclusively refuted.[2]: 19 
+Despite the enormous success of classical electromagnetism, it was unable to account for the discrete lines in atomic spectra, nor for the distribution of blackbody radiation in different wavelengths.[6] Max Planck's study of blackbody radiation marked the beginning of quantum mechanics. He treated atoms, which absorb and emit electromagnetic radiation, as tiny oscillators with the crucial property that their energies can only take on a series of discrete, rather than continuous, values. These are known as quantum harmonic oscillators. This process of restricting energies to discrete values is called quantization.[7]: Ch.2  Building on this idea, Albert Einstein proposed in 1905 an explanation for the photoelectric effect, that light is composed of individual packets of energy called photons (the quanta of light). This implied that the electromagnetic radiation, while being waves in the classical electromagnetic field, also exists in the form of particles.[6]
+In 1913, Niels Bohr introduced the Bohr model of atomic structure, wherein electrons within atoms can only take on a series of discrete, rather than continuous, energies. This is another example of quantization. The Bohr model successfully explained the discrete nature of atomic spectral lines. In 1924, Louis de Broglie proposed the hypothesis of wave–particle duality, that microscopic particles exhibit both wave-like and particle-like properties under different circumstances.[6] Uniting these scattered ideas, a coherent discipline, quantum mechanics, was formulated between 1925 and 1926, with important contributions from Max Planck, Louis de Broglie, Werner Heisenberg, Max Born, Erwin Schrödinger, Paul Dirac, and Wolfgang Pauli.[3]: 22–23 
+In the same year as his paper on the photoelectric effect, Einstein published his theory of special relativity, built on Maxwell's electromagnetism. New rules, called Lorentz transformations, were given for the way time and space coordinates of an event change under changes in the observer's velocity, and the distinction between time and space was blurred.[3]: 19  It was proposed that all physical laws must be the same for observers at different velocities, i.e. that physical laws be invariant under Lorentz transformations.
+Two difficulties remained. Observationally, the Schrödinger equation underlying quantum mechanics could explain the stimulated emission of radiation from atoms, where an electron emits a new photon under the action of an external electromagnetic field, but it was unable to explain spontaneous emission, where an electron spontaneously decreases in energy and emits a photon even without the action of an external electromagnetic field. Theoretically, the Schrödinger equation could not describe photons and was inconsistent with the principles of special relativity—it treats time as an ordinary number while promoting spatial coordinates to linear operators.[6]
+
+Quantum electrodynamics[edit]
+Quantum field theory naturally began with the study of electromagnetic interactions, as the electromagnetic field was the only known classical field as of the 1920s.[8]: 1 
+Through the works of Born, Heisenberg, and Pascual Jordan in 1925–1926, a quantum theory of the free electromagnetic field (one with no interactions with matter) was developed via canonical quantization by treating the electromagnetic field as a set of quantum harmonic oscillators.[8]: 1  With the exclusion of interactions, however, such a theory was yet incapable of making quantitative predictions about the real world.[3]: 22 
+In his seminal 1927 paper The quantum theory of the emission and absorption of radiation, Dirac coined the term quantum electrodynamics (QED), a theory that adds upon the terms describing the free electromagnetic field an additional interaction term between electric current density and the electromagnetic vector potential. Using first-order perturbation theory, he successfully explained the phenomenon of spontaneous emission. According to the uncertainty principle in quantum mechanics, quantum harmonic oscillators cannot remain stationary, but they have a non-zero minimum energy and must always be oscillating, even in the lowest energy state (the ground state). Therefore, even in a perfect vacuum, there remains an oscillating electromagnetic field having zero-point energy. It is this quantum fluctuation of electromagnetic fields in the vacuum that "stimulates" the spontaneous emission of radiation by electrons in atoms. Dirac's theory was hugely successful in explaining both the emission and absorption of radiation by atoms; by applying second-order perturbation theory, it was able to account for the scattering of photons, resonance fluorescence and non-relativistic Compton scattering. Nonetheless, the application of higher-order perturbation theory was plagued with problematic infinities in calculations.[6]: 71 
+In 1928, Dirac wrote down a wave equation that described relativistic electrons: the Dirac equation. It had the following important consequences: the spin of an electron is 1/2; the electron g-factor is 2; it led to the correct Sommerfeld formula for the fine structure of the hydrogen atom; and it could be used to derive the Klein–Nishina formula for relativistic Compton scattering. Although the results were fruitful, the theory also apparently implied the existence of negative energy states, which would cause atoms to be unstable, since they could always decay to lower energy states by the emission of radiation.[6]: 71–72 
+The prevailing view at the time was that the world was composed of two very different ingredients: material particles (such as electrons) and quantum fields (such as photons). Material particles were considered to be eternal, with their physical state described by the probabilities of finding each particle in any given region of space or range of velocities. On the other hand, photons were considered merely the excited states of the underlying quantized electromagnetic field, and could be freely created or destroyed. It was between 1928 and 1930 that Jordan, Eugene Wigner, Heisenberg, Pauli, and Enrico Fermi discovered that material particles could also be seen as excited states of quantum fields. Just as photons are excited states of the quantized electromagnetic field, so each type of particle had its corresponding quantum field: an electron field, a proton field, etc. Given enough energy, it would now be possible to create material particles. Building on this idea, Fermi proposed in 1932 an explanation for beta decay known as Fermi's interaction. Atomic nuclei do not contain electrons per se, but in the process of decay, an electron is created out of the surrounding electron field, analogous to the photon created from the surrounding electromagnetic field in the radiative decay of an excited atom.[3]: 22–23 
+It was realized in 1929 by Dirac and others that negative energy states implied by the Dirac equation could be removed by assuming the existence of particles with the same mass as electrons but opposite electric charge. This not only ensured the stability of atoms, but it was also the first proposal of the existence of antimatter. Indeed, the evidence for positrons was discovered in 1932 by Carl David Anderson in cosmic rays. With enough energy, such as by absorbing a photon, an electron-positron pair could be created, a process called pair production; the reverse process, annihilation, could also occur with the emission of a photon. This showed that particle numbers need not be fixed during an interaction. Historically, however, positrons were at first thought of as "holes" in an infinite electron sea, rather than a new kind of particle, and this theory was referred to as the Dirac hole theory.[6]: 72 [3]: 23  QFT naturally incorporated antiparticles in its formalism.[3]: 24 
+
+Infinities and renormalization[edit]
+Robert Oppenheimer showed in 1930 that higher-order perturbative calculations in QED always resulted in infinite quantities, such as the electron self-energy and the vacuum zero-point energy of the electron and photon fields,[6] suggesting that the computational methods at the time could not properly deal with interactions involving photons with extremely high momenta.[3]: 25  It was not until 20 years later that a systematic approach to remove such infinities was developed.
+A series of papers was published between 1934 and 1938 by Ernst Stueckelberg that established a relativistically invariant formulation of QFT. In 1947, Stueckelberg also independently developed a complete renormalization procedure. Such achievements were not understood and recognized by the theoretical community.[6]
+Faced with these infinities, John Archibald Wheeler and Heisenberg proposed, in 1937 and 1943 respectively, to supplant the problematic QFT with the so-called S-matrix theory. Since the specific details of microscopic interactions are inaccessible to observations, the theory should only attempt to describe the relationships between a small number of observables (e.g. the energy of an atom) in an interaction, rather than be concerned with the microscopic minutiae of the interaction. In 1945, Richard Feynman and Wheeler daringly suggested abandoning QFT altogether and proposed action-at-a-distance as the mechanism of particle interactions.[3]: 26 
+In 1947, Willis Lamb and Robert Retherford measured the minute difference in the 2S1/2 and 2P1/2 energy levels of the hydrogen atom, also called the Lamb shift. By ignoring the contribution of photons whose energy exceeds the electron mass, Hans Bethe successfully estimated the numerical value of the Lamb shift.[6][3]: 28  Subsequently, Norman Myles Kroll, Lamb, James Bruce French, and Victor Weisskopf again confirmed this value using an approach in which infinities cancelled other infinities to result in finite quantities. However, this method was clumsy and unreliable and could not be generalized to other calculations.[6]
+
+The breakthrough eventually came around 1950 when a more robust method for eliminating infinities was developed by Julian Schwinger, Richard Feynman, Freeman Dyson, and Shinichiro Tomonaga. The main idea is to replace the calculated values of mass and charge, infinite though they may be, by their finite measured values. This systematic computational procedure is known as renormalization and can be applied to arbitrary order in perturbation theory.[6]  As Tomonaga said in his Nobel lecture:Since those parts of the modified mass and charge due to field reactions [become infinite], it is impossible to calculate them by the theory. However, the mass and charge observed in experiments are not the original mass and charge but the mass and charge as modified by field reactions, and they are finite. On the other hand, the mass and charge appearing in the theory are… the values modified by field reactions. Since this is so, and particularly since the theory is unable to calculate the modified mass and charge, we may adopt the procedure of substituting experimental values for them phenomenologically... This procedure is called the renormalization of mass and charge… After long, laborious calculations, less skillful than Schwinger's, we obtained a result... which was in agreement with [the] Americans'.[9]
+By applying the renormalization procedure, calculations were finally made to explain the electron's anomalous magnetic moment (the deviation of the electron g-factor from 2) and vacuum polarization. These results agreed with experimental measurements to a remarkable degree, thus marking the end of a "war against infinities".[6]
+At the same time, Feynman introduced the path integral formulation of quantum mechanics and Feynman diagrams.[8]: 2  The latter can be used to visually and intuitively organize and to help compute terms in the perturbative expansion. Each diagram can be interpreted as paths of particles in an interaction, with each vertex and line having a corresponding mathematical expression, and the product of these expressions gives the scattering amplitude of the interaction represented by the diagram.[1]: 5 
+It was with the invention of the renormalization procedure and Feynman diagrams that QFT finally arose as a complete theoretical framework.[8]: 2 
+
+Non-renormalizability[edit]
+Given the tremendous success of QED, many theorists believed, in the few years after 1949, that QFT could soon provide an understanding of all microscopic phenomena, not only the interactions between photons, electrons, and positrons. Contrary to this optimism, QFT entered yet another period of depression that lasted for almost two decades.[3]: 30 
+The first obstacle was the limited applicability of the renormalization procedure. In perturbative calculations in QED, all infinite quantities could be eliminated by redefining a small (finite) number of physical quantities (namely the mass and charge of the electron). Dyson proved in 1949 that this is only possible for a small class of theories called "renormalizable theories", of which QED is an example. However, most theories, including the Fermi theory of the weak interaction, are "non-renormalizable". Any perturbative calculation in these theories beyond the first order would result in infinities that could not be removed by redefining a finite number of physical quantities.[3]: 30 
+The second major problem stemmed from the limited validity of the Feynman diagram method, which is based on a series expansion in perturbation theory. In order for the series to converge and low-order calculations to be a good approximation, the coupling constant, in which the series is expanded, must be a sufficiently small number. The coupling constant in QED is the fine-structure constant α ≈ 1/137, which is small enough that only the simplest, lowest order, Feynman diagrams need to be considered in realistic calculations. In contrast, the coupling constant in the strong interaction is roughly of the order of one, making complicated, higher order, Feynman diagrams just as important as simple ones. There was thus no way of deriving reliable quantitative predictions for the strong interaction using perturbative QFT methods.[3]: 31 
+With these difficulties looming, many theorists began to turn away from QFT. Some focused on symmetry principles and conservation laws, while others picked up the old S-matrix theory of Wheeler and Heisenberg. QFT was used heuristically as guiding principles, but not as a basis for quantitative calculations.[3]: 31 
+
+Source theory[edit]
+Schwinger, however, took a different route. For more than a decade he and his students had been nearly the only exponents of field theory,[10] but in 1951[11][12] he found a way around the problem of the infinities with a new method using external sources as currents coupled to gauge fields.[13] Motivated by the former findings, Schwinger kept pursuing this approach in order to "quantumly" generalize the classical process of coupling external forces to the configuration space parameters known as Lagrange multipliers. He summarized his source theory in 1966[14] then expanded the theory's applications to quantum electrodynamics in his three volume-set titled: Particles, Sources, and Fields.[15][16][17] Developments in pion physics, in which the new viewpoint was most successfully applied, convinced him of the great advantages of mathematical simplicity and conceptual clarity that its use bestowed.[15]
+In source theory there are no divergences, and no renormalization. It may be regarded as the calculational tool of field theory, but it is more general.[18]  Using source theory, Schwinger was able to calculate the anomalous magnetic moment of the electron, which he had done in 1947, but this time with no ‘distracting remarks’ about infinite quantities.[19]
+
+Schwinger also applied source theory to his QFT theory of gravity, and was able to reproduce all four of Einstein's classic results: gravitational red shift, deflection and slowing of light by gravity, and the perihelion precession of Mercury.[20]  The neglect of source theory by the physics community was a major disappointment for Schwinger:The lack of appreciation of these facts by others was depressing, but understandable.  -J. Schwinger[15]See "the shoes incident" between J. Schwinger and S. Weinberg.[21]
+Standard-Model[edit]
+Elementary particles of the Standard Model: six types of quarks, six types of leptons, four types of gauge bosons that carry fundamental interactions, as well as the Higgs boson, which endow elementary particles with mass.
+In 1954, Yang Chen-Ning and Robert Mills generalized the local symmetry of QED, leading to non-Abelian gauge theories (also known as Yang–Mills theories), which are based on more complicated local symmetry groups.[22]: 5  In QED, (electrically) charged particles interact via the exchange of photons, while in non-Abelian gauge theory, particles carrying a new type of "charge" interact via the exchange of massless gauge bosons. Unlike photons, these gauge bosons themselves carry charge.[3]: 32 [23]
+Sheldon Glashow developed a non-Abelian gauge theory that unified the electromagnetic and weak interactions in 1960. In 1964, Abdus Salam and John Clive Ward arrived at the same theory through a different path. This theory, nevertheless, was non-renormalizable.[24]
+Peter Higgs, Robert Brout, François Englert, Gerald Guralnik, Carl Hagen, and Tom Kibble proposed in their famous Physical Review Letters papers that the gauge symmetry in Yang–Mills theories could be broken by a mechanism called spontaneous symmetry breaking, through which originally massless gauge bosons could acquire mass.[22]: 5–6 
+By combining the earlier theory of Glashow, Salam, and Ward with the idea of spontaneous symmetry breaking, Steven Weinberg wrote down in 1967 a theory describing electroweak interactions between all leptons and the effects of the Higgs boson. His theory was at first mostly ignored,[24][22]: 6  until it was brought back to light in 1971 by Gerard 't Hooft's proof that non-Abelian gauge theories are renormalizable. The electroweak theory of Weinberg and Salam was extended from leptons to quarks in 1970 by Glashow, John Iliopoulos, and Luciano Maiani, marking its completion.[24]
+Harald Fritzsch, Murray Gell-Mann, and Heinrich Leutwyler discovered in 1971 that certain phenomena involving the strong interaction could also be explained by non-Abelian gauge theory. Quantum chromodynamics (QCD) was born. In 1973, David Gross, Frank Wilczek, and Hugh David Politzer showed that non-Abelian gauge theories are "asymptotically free", meaning that under renormalization, the coupling constant of the strong interaction decreases as the interaction energy increases. (Similar discoveries had been made numerous times previously, but they had been largely ignored.) [22]: 11  Therefore, at least in high-energy interactions, the coupling constant in QCD becomes sufficiently small to warrant a perturbative series expansion, making quantitative predictions for the strong interaction possible.[3]: 32 
+These theoretical breakthroughs brought about a renaissance in QFT. The full theory, which includes the electroweak theory and chromodynamics, is referred to today as the Standard Model of elementary particles.[25] The Standard Model successfully describes all fundamental interactions except gravity, and its many predictions have been met with remarkable experimental confirmation in subsequent decades.[8]: 3  The Higgs boson, central to the mechanism of spontaneous symmetry breaking, was finally detected in 2012 at CERN, marking the complete verification of the existence of all constituents of the Standard Model.[26]
+
+Other developments[edit]
+The 1970s saw the development of non-perturbative methods in non-Abelian gauge theories. The 't Hooft–Polyakov monopole was discovered theoretically by 't Hooft and Alexander Polyakov, flux tubes by Holger Bech Nielsen and Poul Olesen, and instantons by Polyakov and coauthors. These objects are inaccessible through perturbation theory.[8]: 4 
+Supersymmetry also appeared in the same period. The first supersymmetric QFT in four dimensions was built by Yuri Golfand and Evgeny Likhtman in 1970, but their result failed to garner widespread interest due to the Iron Curtain. Supersymmetry only took off in the theoretical community after the work of Julius Wess and Bruno Zumino in 1973.[8]: 7 
+Among the four fundamental interactions, gravity remains the only one that lacks a consistent QFT description. Various attempts at a theory of quantum gravity led to the development of string theory,[8]: 6  itself a type of two-dimensional QFT with conformal symmetry.[27] Joël Scherk and John Schwarz first proposed in 1974 that string theory could be the quantum theory of gravity.[28]
+
+Condensed-matter-physics[edit]
+Although quantum field theory arose from the study of interactions between elementary particles, it has been successfully applied to other physical systems, particularly to many-body systems in condensed matter physics.
+Historically, the Higgs mechanism of spontaneous symmetry breaking was a result of Yoichiro Nambu's application of superconductor theory to elementary particles, while the concept of renormalization came out of the study of second-order phase transitions in matter.[29]
+Soon after the introduction of photons, Einstein performed the quantization procedure on vibrations in a crystal, leading to the first quasiparticle—phonons. Lev Landau claimed that low-energy excitations in many condensed matter systems could be described in terms of interactions between a set of quasiparticles. The Feynman diagram method of QFT was naturally well suited to the analysis of various phenomena in condensed matter systems.[30]
+Gauge theory is used to describe the quantization of magnetic flux in superconductors, the resistivity in the quantum Hall effect, as well as the relation between frequency and voltage in the AC Josephson effect.[30]
+
+Principles[edit]
+For simplicity, natural units are used in the following sections, in which the reduced Planck constant ħ and the speed of light c are both set to one.
+
+Classical fields[edit]
+See also: Classical field theory
+A classical field is a function of spatial and time coordinates.[31] Examples include the gravitational field in Newtonian gravity g(x, t) and the electric field E(x, t) and magnetic field B(x, t) in classical electromagnetism. A classical field can be thought of as a numerical quantity assigned to every point in space that changes in time. Hence, it has infinitely many degrees of freedom.[31][32]
+Many phenomena exhibiting quantum mechanical properties cannot be explained by classical fields alone. Phenomena such as the photoelectric effect are best explained by discrete particles (photons), rather than a spatially continuous field. The goal of quantum field theory is to describe various quantum mechanical phenomena using a modified concept of fields.
+Canonical quantization and path integrals are two common formulations of QFT.[33]: 61  To motivate the fundamentals of QFT, an overview of classical field theory follows.
+The simplest classical field is a real scalar field — a real number at every point in space that changes in time. It is denoted as ϕ(x, t), where x is the position vector, and t is the time. Suppose the Lagrangian of the field, 
+
+
+
+L
+
+
+{\displaystyle L}
+
+, is
+
+
+
+
+
+L
+=
+∫
+
+d
+
+3
+
+
+x
+
+
+
+L
+
+
+=
+∫
+
+d
+
+3
+
+
+x
+
+
+[
+
+
+
+1
+2
+
+
+
+
+
+
+ϕ
+˙
+
+
+
+
+2
+
+
+−
+
+
+1
+2
+
+
+(
+∇
+ϕ
+
+)
+
+2
+
+
+−
+
+
+1
+2
+
+
+
+m
+
+2
+
+
+
+ϕ
+
+2
+
+
+
+]
+
+,
+
+
+{\displaystyle L=\int d^{3}x\,{\mathcal {L}}=\int d^{3}x\,\left[{\frac {1}{2}}{\dot {\phi }}^{2}-{\frac {1}{2}}(\nabla \phi )^{2}-{\frac {1}{2}}m^{2}\phi ^{2}\right],}
+
+
+where 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ is the Lagrangian density, 
+
+
+
+
+
+
+ϕ
+˙
+
+
+
+
+
+{\displaystyle {\dot {\phi }}}
+
+ is the time-derivative of the field, ∇ is the gradient operator, and m is a real parameter (the "mass" of the field). Applying the Euler–Lagrange equation on the Lagrangian:[1]: 16 
+
+
+
+
+
+
+
+∂
+
+∂
+t
+
+
+
+
+[
+
+
+
+∂
+
+
+L
+
+
+
+
+∂
+(
+∂
+ϕ
+
+/
+
+∂
+t
+)
+
+
+
+]
+
++
+
+∑
+
+i
+=
+1
+
+
+3
+
+
+
+
+∂
+
+∂
+
+x
+
+i
+
+
+
+
+
+
+[
+
+
+
+∂
+
+
+L
+
+
+
+
+∂
+(
+∂
+ϕ
+
+/
+
+∂
+
+x
+
+i
+
+
+)
+
+
+
+]
+
+−
+
+
+
+∂
+
+
+L
+
+
+
+
+∂
+ϕ
+
+
+
+=
+0
+,
+
+
+{\displaystyle {\frac {\partial }{\partial t}}\left[{\frac {\partial {\mathcal {L}}}{\partial (\partial \phi /\partial t)}}\right]+\sum _{i=1}^{3}{\frac {\partial }{\partial x^{i}}}\left[{\frac {\partial {\mathcal {L}}}{\partial (\partial \phi /\partial x^{i})}}\right]-{\frac {\partial {\mathcal {L}}}{\partial \phi }}=0,}
+
+
+we obtain the equations of motion for the field, which describe the way it varies in time and space:
+
+
+
+
+
+
+(
+
+
+
+
+∂
+
+2
+
+
+
+∂
+
+t
+
+2
+
+
+
+
+
+−
+
+∇
+
+2
+
+
++
+
+m
+
+2
+
+
+
+)
+
+ϕ
+=
+0.
+
+
+{\displaystyle \left({\frac {\partial ^{2}}{\partial t^{2}}}-\nabla ^{2}+m^{2}\right)\phi =0.}
+
+
+This is known as the Klein–Gordon equation.[1]: 17 
+The Klein–Gordon equation is a wave equation, so its solutions can be expressed as a sum of normal modes (obtained via Fourier transform) as follows:
+
+
+
+
+
+ϕ
+(
+
+x
+
+,
+t
+)
+=
+∫
+
+
+
+
+d
+
+3
+
+
+p
+
+
+(
+2
+π
+
+)
+
+3
+
+
+
+
+
+
+
+1
+
+2
+
+ω
+
+
+p
+
+
+
+
+
+
+
+(
+
+
+a
+
+
+p
+
+
+
+
+e
+
+−
+i
+
+ω
+
+
+p
+
+
+
+t
++
+i
+
+p
+
+⋅
+
+x
+
+
+
++
+
+a
+
+
+p
+
+
+
+∗
+
+
+
+e
+
+i
+
+ω
+
+
+p
+
+
+
+t
+−
+i
+
+p
+
+⋅
+
+x
+
+
+
+
+)
+
+,
+
+
+{\displaystyle \phi (\mathbf {x} ,t)=\int {\frac {d^{3}p}{(2\pi )^{3}}}{\frac {1}{\sqrt {2\omega _{\mathbf {p} }}}}\left(a_{\mathbf {p} }e^{-i\omega _{\mathbf {p} }t+i\mathbf {p} \cdot \mathbf {x} }+a_{\mathbf {p} }^{*}e^{i\omega _{\mathbf {p} }t-i\mathbf {p} \cdot \mathbf {x} }\right),}
+
+
+where a is a complex number (normalized by convention), * denotes complex conjugation, and ωp is the frequency of the normal mode:
+
+
+
+
+
+
+ω
+
+
+p
+
+
+
+=
+
+
+
+|
+
+
+p
+
+
+
+|
+
+
+2
+
+
++
+
+m
+
+2
+
+
+
+
+.
+
+
+{\displaystyle \omega _{\mathbf {p} }={\sqrt {|\mathbf {p} |^{2}+m^{2}}}.}
+
+
+Thus each normal mode corresponding to a single p can be seen as a classical harmonic oscillator with frequency ωp.[1]: 21,26 
+
+Canonical quantization[edit]
+Main article: Canonical quantization
+The quantization procedure for the above classical field to a quantum operator field is analogous to the promotion of a classical harmonic oscillator to a quantum harmonic oscillator.
+The displacement of a classical harmonic oscillator is described by
+
+
+
+
+
+x
+(
+t
+)
+=
+
+
+1
+
+2
+ω
+
+
+
+a
+
+e
+
+−
+i
+ω
+t
+
+
++
+
+
+1
+
+2
+ω
+
+
+
+
+a
+
+∗
+
+
+
+e
+
+i
+ω
+t
+
+
+,
+
+
+{\displaystyle x(t)={\frac {1}{\sqrt {2\omega }}}ae^{-i\omega t}+{\frac {1}{\sqrt {2\omega }}}a^{*}e^{i\omega t},}
+
+
+where a is a complex number (normalized by convention), and ω is the oscillator's frequency. Note that x is the displacement of a particle in simple harmonic motion from the equilibrium position,  not to be confused with the spatial label x of a quantum field.
+For a quantum harmonic oscillator, x(t) is promoted to a linear operator 
+
+
+
+
+
+
+x
+^
+
+
+
+(
+t
+)
+
+
+{\displaystyle {\hat {x}}(t)}
+
+:
+
+
+
+
+
+
+
+
+x
+^
+
+
+
+(
+t
+)
+=
+
+
+1
+
+2
+ω
+
+
+
+
+
+
+a
+^
+
+
+
+
+e
+
+−
+i
+ω
+t
+
+
++
+
+
+1
+
+2
+ω
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+e
+
+i
+ω
+t
+
+
+.
+
+
+{\displaystyle {\hat {x}}(t)={\frac {1}{\sqrt {2\omega }}}{\hat {a}}e^{-i\omega t}+{\frac {1}{\sqrt {2\omega }}}{\hat {a}}^{\dagger }e^{i\omega t}.}
+
+
+Complex numbers a and a* are replaced by the annihilation operator 
+
+
+
+
+
+
+a
+^
+
+
+
+
+
+{\displaystyle {\hat {a}}}
+
+ and the creation operator 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+
+{\displaystyle {\hat {a}}^{\dagger }}
+
+, respectively, where † denotes Hermitian conjugation. The commutation relation between the two is
+
+
+
+
+
+
+[
+
+
+
+
+a
+^
+
+
+
+,
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+]
+
+=
+1.
+
+
+{\displaystyle \left[{\hat {a}},{\hat {a}}^{\dagger }\right]=1.}
+
+
+The Hamiltonian of the simple harmonic oscillator can be written as
+
+
+
+
+
+
+
+
+H
+^
+
+
+
+=
+ℏ
+ω
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+
+
+a
+^
+
+
+
++
+
+
+1
+2
+
+
+ℏ
+ω
+.
+
+
+{\displaystyle {\hat {H}}=\hbar \omega {\hat {a}}^{\dagger }{\hat {a}}+{\frac {1}{2}}\hbar \omega .}
+
+
+The vacuum state 
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+, which is the lowest energy state, is defined by
+
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+|
+
+0
+⟩
+=
+0
+
+
+{\displaystyle {\hat {a}}|0\rangle =0}
+
+
+and has energy 
+
+
+
+
+
+1
+2
+
+
+ℏ
+ω
+.
+
+
+{\displaystyle {\frac {1}{2}}\hbar \omega .}
+
+
+One can easily check that 
+
+
+
+[
+
+
+
+H
+^
+
+
+
+,
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+]
+=
+ℏ
+ω
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+,
+
+
+{\displaystyle [{\hat {H}},{\hat {a}}^{\dagger }]=\hbar \omega {\hat {a}}^{\dagger },}
+
+ which implies that 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+
+{\displaystyle {\hat {a}}^{\dagger }}
+
+ increases the energy of the simple harmonic oscillator by 
+
+
+
+ℏ
+ω
+
+
+{\displaystyle \hbar \omega }
+
+. For example, the state 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle {\hat {a}}^{\dagger }|0\rangle }
+
+ is an eigenstate of energy 
+
+
+
+3
+ℏ
+ω
+
+/
+
+2
+
+
+{\displaystyle 3\hbar \omega /2}
+
+.
+Any energy eigenstate state of a single harmonic oscillator can be obtained from 
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+ by successively applying the creation operator 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+
+
+{\displaystyle {\hat {a}}^{\dagger }}
+
+:[1]: 20  and any state of the system can be expressed as a linear combination of the states
+
+
+
+
+
+
+|
+
+n
+⟩
+∝
+
+
+(
+
+
+
+
+a
+^
+
+
+
+
+†
+
+
+)
+
+
+n
+
+
+
+|
+
+0
+⟩
+.
+
+
+{\displaystyle |n\rangle \propto \left({\hat {a}}^{\dagger }\right)^{n}|0\rangle .}
+
+
+A similar procedure can be applied to the real scalar field ϕ, by promoting it to a quantum field operator 
+
+
+
+
+
+
+ϕ
+^
+
+
+
+
+
+{\displaystyle {\hat {\phi }}}
+
+, while the annihilation operator 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+
+
+{\displaystyle {\hat {a}}_{\mathbf {p} }}
+
+, the creation operator 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+†
+
+
+
+
+{\displaystyle {\hat {a}}_{\mathbf {p} }^{\dagger }}
+
+ and the angular frequency 
+
+
+
+
+ω
+
+
+p
+
+
+
+
+
+{\displaystyle \omega _{\mathbf {p} }}
+
+are now for a particular p:
+
+
+
+
+
+
+
+
+ϕ
+^
+
+
+
+(
+
+x
+
+,
+t
+)
+=
+∫
+
+
+
+
+d
+
+3
+
+
+p
+
+
+(
+2
+π
+
+)
+
+3
+
+
+
+
+
+
+
+1
+
+2
+
+ω
+
+
+p
+
+
+
+
+
+
+
+(
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+
+e
+
+−
+i
+
+ω
+
+
+p
+
+
+
+t
++
+i
+
+p
+
+⋅
+
+x
+
+
+
++
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+†
+
+
+
+e
+
+i
+
+ω
+
+
+p
+
+
+
+t
+−
+i
+
+p
+
+⋅
+
+x
+
+
+
+
+)
+
+.
+
+
+{\displaystyle {\hat {\phi }}(\mathbf {x} ,t)=\int {\frac {d^{3}p}{(2\pi )^{3}}}{\frac {1}{\sqrt {2\omega _{\mathbf {p} }}}}\left({\hat {a}}_{\mathbf {p} }e^{-i\omega _{\mathbf {p} }t+i\mathbf {p} \cdot \mathbf {x} }+{\hat {a}}_{\mathbf {p} }^{\dagger }e^{i\omega _{\mathbf {p} }t-i\mathbf {p} \cdot \mathbf {x} }\right).}
+
+
+Their commutation relations are:[1]: 21 
+
+
+
+
+
+
+[
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+,
+
+
+
+
+a
+^
+
+
+
+
+
+q
+
+
+
+†
+
+
+
+]
+
+=
+(
+2
+π
+
+)
+
+3
+
+
+δ
+(
+
+p
+
+−
+
+q
+
+)
+,
+
+
+[
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+,
+
+
+
+
+a
+^
+
+
+
+
+
+q
+
+
+
+
+]
+
+=
+
+[
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+†
+
+
+,
+
+
+
+
+a
+^
+
+
+
+
+
+q
+
+
+
+†
+
+
+
+]
+
+=
+0
+,
+
+
+{\displaystyle \left[{\hat {a}}_{\mathbf {p} },{\hat {a}}_{\mathbf {q} }^{\dagger }\right]=(2\pi )^{3}\delta (\mathbf {p} -\mathbf {q} ),\quad \left[{\hat {a}}_{\mathbf {p} },{\hat {a}}_{\mathbf {q} }\right]=\left[{\hat {a}}_{\mathbf {p} }^{\dagger },{\hat {a}}_{\mathbf {q} }^{\dagger }\right]=0,}
+
+
+where δ is the Dirac delta function. The vacuum state 
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+ is defined by
+
+
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+
+|
+
+0
+⟩
+=
+0
+,
+
+
+for all 
+
+
+p
+
+.
+
+
+{\displaystyle {\hat {a}}_{\mathbf {p} }|0\rangle =0,\quad {\text{for all }}\mathbf {p} .}
+
+
+Any quantum state of the field can be obtained from 
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+ by successively applying creation operators 
+
+
+
+
+
+
+
+a
+^
+
+
+
+
+
+p
+
+
+
+†
+
+
+
+
+{\displaystyle {\hat {a}}_{\mathbf {p} }^{\dagger }}
+
+ (or by a linear combination of such states), e.g. [1]: 22 
+
+
+
+
+
+
+
+(
+
+
+
+
+a
+^
+
+
+
+
+
+
+p
+
+
+3
+
+
+
+
+†
+
+
+)
+
+
+3
+
+
+
+
+
+
+a
+^
+
+
+
+
+
+
+p
+
+
+2
+
+
+
+
+†
+
+
+
+
+(
+
+
+
+
+a
+^
+
+
+
+
+
+
+p
+
+
+1
+
+
+
+
+†
+
+
+)
+
+
+2
+
+
+
+|
+
+0
+⟩
+.
+
+
+{\displaystyle \left({\hat {a}}_{\mathbf {p} _{3}}^{\dagger }\right)^{3}{\hat {a}}_{\mathbf {p} _{2}}^{\dagger }\left({\hat {a}}_{\mathbf {p} _{1}}^{\dagger }\right)^{2}|0\rangle .}
+
+
+While the state space of a single quantum harmonic oscillator contains all the discrete energy states of one oscillating particle, the state space of a quantum field contains the discrete energy levels of an arbitrary number of particles. The latter space is known as a Fock space, which can account for the fact that particle numbers are not fixed in relativistic quantum systems.[34] The process of quantizing an arbitrary number of particles instead of a single particle is often also called second quantization.[1]: 19 
+The foregoing procedure is a direct application of non-relativistic quantum mechanics and can be used to quantize (complex) scalar fields, Dirac fields,[1]: 52  vector fields (e.g. the electromagnetic field), and even strings.[35] However, creation and annihilation operators are only well defined in the simplest theories that contain no interactions (so-called free theory). In the case of the real scalar field, the existence of these operators was a consequence of the decomposition of solutions of the classical equations of motion into a sum of normal modes. To perform calculations on any realistic interacting theory, perturbation theory would be necessary.
+The Lagrangian of any quantum field in nature would contain interaction terms in addition to the free theory terms. For example, a quartic interaction term could be introduced to the Lagrangian of the real scalar field:[1]: 77 
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+1
+2
+
+
+(
+
+∂
+
+μ
+
+
+ϕ
+)
+
+(
+
+
+∂
+
+μ
+
+
+ϕ
+
+)
+
+−
+
+
+1
+2
+
+
+
+m
+
+2
+
+
+
+ϕ
+
+2
+
+
+−
+
+
+λ
+
+4
+!
+
+
+
+
+ϕ
+
+4
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}={\frac {1}{2}}(\partial _{\mu }\phi )\left(\partial ^{\mu }\phi \right)-{\frac {1}{2}}m^{2}\phi ^{2}-{\frac {\lambda }{4!}}\phi ^{4},}
+
+
+where μ is a spacetime index, 
+
+
+
+
+∂
+
+0
+
+
+=
+∂
+
+/
+
+∂
+t
+,
+ 
+
+∂
+
+1
+
+
+=
+∂
+
+/
+
+∂
+
+x
+
+1
+
+
+
+
+{\displaystyle \partial _{0}=\partial /\partial t,\ \partial _{1}=\partial /\partial x^{1}}
+
+, etc. The summation over the index μ has been omitted following the Einstein notation. If the parameter λ is sufficiently small, then the interacting theory described by the above Lagrangian can be considered as a small perturbation from the free theory.
+
+Path integrals[edit]
+Main article: Path integral formulation
+The path integral formulation of QFT is concerned with the direct computation of the scattering amplitude of a certain interaction process, rather than the establishment of operators and state spaces. To calculate the probability amplitude for a system to evolve from some initial state 
+
+
+
+
+|
+
+
+ϕ
+
+I
+
+
+⟩
+
+
+{\displaystyle |\phi _{I}\rangle }
+
+ at time t = 0 to some final state 
+
+
+
+
+|
+
+
+ϕ
+
+F
+
+
+⟩
+
+
+{\displaystyle |\phi _{F}\rangle }
+
+ at t = T, the total time T is divided into N small intervals. The overall amplitude is the product of the amplitude of evolution within each interval, integrated over all intermediate states. Let H be the Hamiltonian (i.e. generator of time evolution), then[33]: 10 
+
+
+
+
+
+⟨
+
+ϕ
+
+F
+
+
+
+|
+
+
+e
+
+−
+i
+H
+T
+
+
+
+|
+
+
+ϕ
+
+I
+
+
+⟩
+=
+∫
+d
+
+ϕ
+
+1
+
+
+∫
+d
+
+ϕ
+
+2
+
+
+⋯
+∫
+d
+
+ϕ
+
+N
+−
+1
+
+
+
+⟨
+
+ϕ
+
+F
+
+
+
+|
+
+
+e
+
+−
+i
+H
+T
+
+/
+
+N
+
+
+
+|
+
+
+ϕ
+
+N
+−
+1
+
+
+⟩
+⋯
+⟨
+
+ϕ
+
+2
+
+
+
+|
+
+
+e
+
+−
+i
+H
+T
+
+/
+
+N
+
+
+
+|
+
+
+ϕ
+
+1
+
+
+⟩
+⟨
+
+ϕ
+
+1
+
+
+
+|
+
+
+e
+
+−
+i
+H
+T
+
+/
+
+N
+
+
+
+|
+
+
+ϕ
+
+I
+
+
+⟩
+.
+
+
+{\displaystyle \langle \phi _{F}|e^{-iHT}|\phi _{I}\rangle =\int d\phi _{1}\int d\phi _{2}\cdots \int d\phi _{N-1}\,\langle \phi _{F}|e^{-iHT/N}|\phi _{N-1}\rangle \cdots \langle \phi _{2}|e^{-iHT/N}|\phi _{1}\rangle \langle \phi _{1}|e^{-iHT/N}|\phi _{I}\rangle .}
+
+
+Taking the limit N → ∞, the above product of integrals becomes the Feynman path integral:[1]: 282 [33]: 12 
+
+
+
+
+
+⟨
+
+ϕ
+
+F
+
+
+
+|
+
+
+e
+
+−
+i
+H
+T
+
+
+
+|
+
+
+ϕ
+
+I
+
+
+⟩
+=
+∫
+
+
+D
+
+
+ϕ
+(
+t
+)
+
+exp
+⁡
+
+{
+
+i
+
+∫
+
+0
+
+
+T
+
+
+d
+t
+
+L
+
+}
+
+,
+
+
+{\displaystyle \langle \phi _{F}|e^{-iHT}|\phi _{I}\rangle =\int {\mathcal {D}}\phi (t)\,\exp \left\{i\int _{0}^{T}dt\,L\right\},}
+
+
+where L is the Lagrangian involving ϕ and its derivatives with respect to spatial and time coordinates, obtained from the Hamiltonian H via Legendre transformation. The initial and final conditions of the path integral are respectively
+
+
+
+
+
+ϕ
+(
+0
+)
+=
+
+ϕ
+
+I
+
+
+,
+
+ϕ
+(
+T
+)
+=
+
+ϕ
+
+F
+
+
+.
+
+
+{\displaystyle \phi (0)=\phi _{I},\quad \phi (T)=\phi _{F}.}
+
+
+In other words, the overall amplitude is the sum over the amplitude of every possible path between the initial and final states, where the amplitude of a path is given by the exponential in the integrand.
+
+Two-point correlation function[edit]
+Main article: Correlation function (quantum field theory)
+In calculations, one often encounters expression like
+
+
+
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+}
+
+|
+
+0
+⟩
+
+
+or
+
+
+⟨
+Ω
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+}
+
+|
+
+Ω
+⟩
+
+
+{\displaystyle \langle 0|T\{\phi (x)\phi (y)\}|0\rangle \quad {\text{or}}\quad \langle \Omega |T\{\phi (x)\phi (y)\}|\Omega \rangle }
+
+in the free or interacting theory, respectively. Here, 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ are position four-vectors, 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is the time ordering operator that shuffles its operands so the time-components 
+
+
+
+
+x
+
+0
+
+
+
+
+{\displaystyle x^{0}}
+
+ and 
+
+
+
+
+y
+
+0
+
+
+
+
+{\displaystyle y^{0}}
+
+ increase from right to left, and 
+
+
+
+
+|
+
+Ω
+⟩
+
+
+{\displaystyle |\Omega \rangle }
+
+ is the ground state (vacuum state) of the interacting theory, different from the free ground state 
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+. This expression represents the probability amplitude for the field to propagate from y to x, and goes by multiple names, like the two-point propagator, two-point correlation function, two-point Green's function or two-point function for short.[1]: 82 
+The free two-point function, also known as the Feynman propagator, can be found for the real scalar field by either canonical quantization or path integrals to be[1]: 31,288 [33]: 23 
+
+
+
+
+
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+}
+
+|
+
+0
+⟩
+≡
+
+D
+
+F
+
+
+(
+x
+−
+y
+)
+=
+
+lim
+
+ϵ
+→
+0
+
+
+∫
+
+
+
+
+d
+
+4
+
+
+p
+
+
+(
+2
+π
+
+)
+
+4
+
+
+
+
+
+
+
+i
+
+
+p
+
+μ
+
+
+
+p
+
+μ
+
+
+−
+
+m
+
+2
+
+
++
+i
+ϵ
+
+
+
+
+e
+
+−
+i
+
+p
+
+μ
+
+
+(
+
+x
+
+μ
+
+
+−
+
+y
+
+μ
+
+
+)
+
+
+.
+
+
+{\displaystyle \langle 0|T\{\phi (x)\phi (y)\}|0\rangle \equiv D_{F}(x-y)=\lim _{\epsilon \to 0}\int {\frac {d^{4}p}{(2\pi )^{4}}}{\frac {i}{p_{\mu }p^{\mu }-m^{2}+i\epsilon }}e^{-ip_{\mu }(x^{\mu }-y^{\mu })}.}
+
+
+In an interacting theory, where the Lagrangian or Hamiltonian contains terms 
+
+
+
+
+L
+
+I
+
+
+(
+t
+)
+
+
+{\displaystyle L_{I}(t)}
+
+ or 
+
+
+
+
+H
+
+I
+
+
+(
+t
+)
+
+
+{\displaystyle H_{I}(t)}
+
+ that describe interactions, the two-point function is more difficult to define. However, through both the canonical quantization formulation and the path integral formulation, it is possible to express it through an infinite perturbation series of the free two-point function.
+In canonical quantization, the two-point correlation function can be written as:[1]: 87 
+
+
+
+
+
+⟨
+Ω
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+}
+
+|
+
+Ω
+⟩
+=
+
+lim
+
+T
+→
+∞
+(
+1
+−
+i
+ϵ
+)
+
+
+
+
+
+⟨
+
+0
+
+|
+
+T
+
+{
+
+
+ϕ
+
+I
+
+
+(
+x
+)
+
+ϕ
+
+I
+
+
+(
+y
+)
+exp
+⁡
+
+[
+
+−
+i
+
+∫
+
+−
+T
+
+
+T
+
+
+d
+t
+
+
+H
+
+I
+
+
+(
+t
+)
+
+]
+
+
+}
+
+
+|
+
+0
+
+⟩
+
+
+⟨
+
+0
+
+|
+
+T
+
+{
+
+exp
+⁡
+
+[
+
+−
+i
+
+∫
+
+−
+T
+
+
+T
+
+
+d
+t
+
+
+H
+
+I
+
+
+(
+t
+)
+
+]
+
+
+}
+
+
+|
+
+0
+
+⟩
+
+
+
+,
+
+
+{\displaystyle \langle \Omega |T\{\phi (x)\phi (y)\}|\Omega \rangle =\lim _{T\to \infty (1-i\epsilon )}{\frac {\left\langle 0\left|T\left\{\phi _{I}(x)\phi _{I}(y)\exp \left[-i\int _{-T}^{T}dt\,H_{I}(t)\right]\right\}\right|0\right\rangle }{\left\langle 0\left|T\left\{\exp \left[-i\int _{-T}^{T}dt\,H_{I}(t)\right]\right\}\right|0\right\rangle }},}
+
+
+where ε is an infinitesimal number and ϕI is the field operator under the free theory. Here, the exponential should be understood as its power series expansion. For example, in 
+
+
+
+
+ϕ
+
+4
+
+
+
+
+{\displaystyle \phi ^{4}}
+
+-theory, the interacting term of the Hamiltonian is 
+
+
+
+
+H
+
+I
+
+
+(
+t
+)
+=
+∫
+
+d
+
+3
+
+
+x
+
+
+
+λ
+
+4
+!
+
+
+
+
+ϕ
+
+I
+
+
+(
+x
+
+)
+
+4
+
+
+
+
+{\textstyle H_{I}(t)=\int d^{3}x\,{\frac {\lambda }{4!}}\phi _{I}(x)^{4}}
+
+,[1]: 84  and the expansion of the two-point correlator in terms of 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ becomes
+
+
+
+⟨
+Ω
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+}
+
+|
+
+Ω
+⟩
+=
+
+
+
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+
+(
+−
+i
+λ
+
+)
+
+n
+
+
+
+
+(
+4
+!
+
+)
+
+n
+
+
+n
+!
+
+
+
+∫
+
+d
+
+4
+
+
+
+z
+
+1
+
+
+⋯
+∫
+
+d
+
+4
+
+
+
+z
+
+n
+
+
+⟨
+0
+
+|
+
+T
+{
+
+ϕ
+
+I
+
+
+(
+x
+)
+
+ϕ
+
+I
+
+
+(
+y
+)
+
+ϕ
+
+I
+
+
+(
+
+z
+
+1
+
+
+
+)
+
+4
+
+
+⋯
+
+ϕ
+
+I
+
+
+(
+
+z
+
+n
+
+
+
+)
+
+4
+
+
+}
+
+|
+
+0
+⟩
+
+
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+
+(
+−
+i
+λ
+
+)
+
+n
+
+
+
+
+(
+4
+!
+
+)
+
+n
+
+
+n
+!
+
+
+
+∫
+
+d
+
+4
+
+
+
+z
+
+1
+
+
+⋯
+∫
+
+d
+
+4
+
+
+
+z
+
+n
+
+
+⟨
+0
+
+|
+
+T
+{
+
+ϕ
+
+I
+
+
+(
+
+z
+
+1
+
+
+
+)
+
+4
+
+
+⋯
+
+ϕ
+
+I
+
+
+(
+
+z
+
+n
+
+
+
+)
+
+4
+
+
+}
+
+|
+
+0
+⟩
+
+
+
+.
+
+
+{\displaystyle \langle \Omega |T\{\phi (x)\phi (y)\}|\Omega \rangle ={\frac {\displaystyle \sum _{n=0}^{\infty }{\frac {(-i\lambda )^{n}}{(4!)^{n}n!}}\int d^{4}z_{1}\cdots \int d^{4}z_{n}\langle 0|T\{\phi _{I}(x)\phi _{I}(y)\phi _{I}(z_{1})^{4}\cdots \phi _{I}(z_{n})^{4}\}|0\rangle }{\displaystyle \sum _{n=0}^{\infty }{\frac {(-i\lambda )^{n}}{(4!)^{n}n!}}\int d^{4}z_{1}\cdots \int d^{4}z_{n}\langle 0|T\{\phi _{I}(z_{1})^{4}\cdots \phi _{I}(z_{n})^{4}\}|0\rangle }}.}
+
+This perturbation expansion expresses the interacting two-point function in terms of quantities 
+
+
+
+⟨
+0
+
+|
+
+⋯
+
+|
+
+0
+⟩
+
+
+{\displaystyle \langle 0|\cdots |0\rangle }
+
+ that are evaluated in the free theory.
+In the path integral formulation, the two-point correlation function can be written[1]: 284 
+
+
+
+
+
+⟨
+Ω
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+}
+
+|
+
+Ω
+⟩
+=
+
+lim
+
+T
+→
+∞
+(
+1
+−
+i
+ϵ
+)
+
+
+
+
+
+∫
+
+
+D
+
+
+ϕ
+
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+exp
+⁡
+
+[
+
+i
+
+∫
+
+−
+T
+
+
+T
+
+
+
+d
+
+4
+
+
+z
+
+
+
+L
+
+
+
+]
+
+
+
+∫
+
+
+D
+
+
+ϕ
+
+exp
+⁡
+
+[
+
+i
+
+∫
+
+−
+T
+
+
+T
+
+
+
+d
+
+4
+
+
+z
+
+
+
+L
+
+
+
+]
+
+
+
+
+,
+
+
+{\displaystyle \langle \Omega |T\{\phi (x)\phi (y)\}|\Omega \rangle =\lim _{T\to \infty (1-i\epsilon )}{\frac {\int {\mathcal {D}}\phi \,\phi (x)\phi (y)\exp \left[i\int _{-T}^{T}d^{4}z\,{\mathcal {L}}\right]}{\int {\mathcal {D}}\phi \,\exp \left[i\int _{-T}^{T}d^{4}z\,{\mathcal {L}}\right]}},}
+
+
+where 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ is the Lagrangian density. As in the previous paragraph, the exponential can be expanded as a series in λ, reducing the interacting two-point function to quantities in the free theory.
+Wick's theorem further reduce any n-point correlation function in the free theory to a sum of products of two-point correlation functions. For example,
+
+
+
+
+
+
+
+
+
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+1
+
+
+)
+ϕ
+(
+
+x
+
+2
+
+
+)
+ϕ
+(
+
+x
+
+3
+
+
+)
+ϕ
+(
+
+x
+
+4
+
+
+)
+}
+
+|
+
+0
+⟩
+
+
+
+=
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+1
+
+
+)
+ϕ
+(
+
+x
+
+2
+
+
+)
+}
+
+|
+
+0
+⟩
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+3
+
+
+)
+ϕ
+(
+
+x
+
+4
+
+
+)
+}
+
+|
+
+0
+⟩
+
+
+
+
+
+
++
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+1
+
+
+)
+ϕ
+(
+
+x
+
+3
+
+
+)
+}
+
+|
+
+0
+⟩
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+2
+
+
+)
+ϕ
+(
+
+x
+
+4
+
+
+)
+}
+
+|
+
+0
+⟩
+
+
+
+
+
+
++
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+1
+
+
+)
+ϕ
+(
+
+x
+
+4
+
+
+)
+}
+
+|
+
+0
+⟩
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+2
+
+
+)
+ϕ
+(
+
+x
+
+3
+
+
+)
+}
+
+|
+
+0
+⟩
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\langle 0|T\{\phi (x_{1})\phi (x_{2})\phi (x_{3})\phi (x_{4})\}|0\rangle &=\langle 0|T\{\phi (x_{1})\phi (x_{2})\}|0\rangle \langle 0|T\{\phi (x_{3})\phi (x_{4})\}|0\rangle \\&+\langle 0|T\{\phi (x_{1})\phi (x_{3})\}|0\rangle \langle 0|T\{\phi (x_{2})\phi (x_{4})\}|0\rangle \\&+\langle 0|T\{\phi (x_{1})\phi (x_{4})\}|0\rangle \langle 0|T\{\phi (x_{2})\phi (x_{3})\}|0\rangle .\end{aligned}}}
+
+
+Since interacting correlation functions can be expressed in terms of free correlation functions, only the latter need to be evaluated in order to calculate all physical quantities in the (perturbative) interacting theory.[1]: 90  This makes the Feynman propagator one of the most important quantities in quantum field theory.
+
+Feynman diagram[edit]
+Main article: Feynman diagram
+Correlation functions in the interacting theory can be written as a perturbation series. Each term in the series is a product of Feynman propagators in the free theory and can be represented visually by a Feynman diagram. For example, the λ1 term in the two-point correlation function in the ϕ4 theory is
+
+
+
+
+
+
+
+
+−
+i
+λ
+
+
+4
+!
+
+
+
+∫
+
+d
+
+4
+
+
+z
+
+⟨
+0
+
+|
+
+T
+{
+ϕ
+(
+x
+)
+ϕ
+(
+y
+)
+ϕ
+(
+z
+)
+ϕ
+(
+z
+)
+ϕ
+(
+z
+)
+ϕ
+(
+z
+)
+}
+
+|
+
+0
+⟩
+.
+
+
+{\displaystyle {\frac {-i\lambda }{4!}}\int d^{4}z\,\langle 0|T\{\phi (x)\phi (y)\phi (z)\phi (z)\phi (z)\phi (z)\}|0\rangle .}
+
+
+After applying Wick's theorem, one of the terms is
+
+
+
+
+
+12
+⋅
+
+
+
+−
+i
+λ
+
+
+4
+!
+
+
+
+∫
+
+d
+
+4
+
+
+z
+
+
+D
+
+F
+
+
+(
+x
+−
+z
+)
+
+D
+
+F
+
+
+(
+y
+−
+z
+)
+
+D
+
+F
+
+
+(
+z
+−
+z
+)
+.
+
+
+{\displaystyle 12\cdot {\frac {-i\lambda }{4!}}\int d^{4}z\,D_{F}(x-z)D_{F}(y-z)D_{F}(z-z).}
+
+
+This term can instead be obtained from the Feynman diagram
+
+.
+The diagram consists of
+
+external vertices connected with one edge and represented by dots (here labeled 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+).
+internal vertices connected with four edges and represented by dots (here labeled 
+
+
+
+z
+
+
+{\displaystyle z}
+
+).
+edges connecting the vertices and represented by lines.
+Every vertex corresponds to a single 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ field factor at the corresponding point in spacetime, while the edges correspond to the propagators between the spacetime points. The term in the perturbation series corresponding to the diagram is obtained by writing down the expression that follows from the so-called Feynman rules:
+
+For every internal vertex 
+
+
+
+
+z
+
+i
+
+
+
+
+{\displaystyle z_{i}}
+
+, write down a factor 
+
+
+
+−
+i
+λ
+∫
+
+d
+
+4
+
+
+
+z
+
+i
+
+
+
+
+{\textstyle -i\lambda \int d^{4}z_{i}}
+
+.
+For every edge that connects two vertices 
+
+
+
+
+z
+
+i
+
+
+
+
+{\displaystyle z_{i}}
+
+ and 
+
+
+
+
+z
+
+j
+
+
+
+
+{\displaystyle z_{j}}
+
+, write down a factor 
+
+
+
+
+D
+
+F
+
+
+(
+
+z
+
+i
+
+
+−
+
+z
+
+j
+
+
+)
+
+
+{\displaystyle D_{F}(z_{i}-z_{j})}
+
+.
+Divide by the symmetry factor of the diagram.
+With the symmetry factor 
+
+
+
+2
+
+
+{\displaystyle 2}
+
+, following these rules yields exactly the expression above. By Fourier transforming the propagator, the Feynman rules can be reformulated from position space into momentum space.[1]: 91–94 
+In order to compute the n-point correlation function to the k-th order, list all valid Feynman diagrams with n external points and k or fewer vertices, and then use Feynman rules to obtain the expression for each term. To be precise,
+
+
+
+
+
+⟨
+Ω
+
+|
+
+T
+{
+ϕ
+(
+
+x
+
+1
+
+
+)
+⋯
+ϕ
+(
+
+x
+
+n
+
+
+)
+}
+
+|
+
+Ω
+⟩
+
+
+{\displaystyle \langle \Omega |T\{\phi (x_{1})\cdots \phi (x_{n})\}|\Omega \rangle }
+
+
+is equal to the sum of (expressions corresponding to) all connected diagrams with n external points. (Connected diagrams are those in which every vertex is connected to an external point through lines. Components that are totally disconnected from external lines are sometimes called "vacuum bubbles".) In the ϕ4 interaction theory discussed above, every vertex must have four legs.[1]: 98 
+In realistic applications, the scattering amplitude of a certain interaction or the decay rate of a particle can be computed from the S-matrix, which itself can be found using the Feynman diagram method.[1]: 102–115 
+Feynman diagrams devoid of "loops" are called tree-level diagrams, which describe the lowest-order interaction processes; those containing n loops are referred to as n-loop diagrams, which describe higher-order contributions, or radiative corrections, to the interaction.[33]: 44  Lines whose end points are vertices can be thought of as the propagation of virtual particles.[1]: 31 
+
+Renormalization[edit]
+Main article: Renormalisation
+Feynman rules can be used to directly evaluate tree-level diagrams. However, naïve computation of loop diagrams such as the one shown above will result in divergent momentum integrals, which seems to imply that almost all terms in the perturbative expansion are infinite. The renormalisation procedure is a systematic process for removing such infinities.
+Parameters appearing in the Lagrangian, such as the mass m and the coupling constant λ, have no physical meaning — m, λ, and the field strength ϕ are not experimentally measurable quantities and are referred to here as the bare mass, bare coupling constant, and bare field, respectively. The physical mass and coupling constant are measured in some interaction process and are generally different from the bare quantities. While computing physical quantities from this interaction process, one may limit the domain of divergent momentum integrals to be below some momentum cut-off Λ, obtain expressions for the physical quantities, and then take the limit Λ → ∞. This is an example of regularization, a class of methods to treat divergences in QFT, with Λ being the regulator.
+The approach illustrated above is called bare perturbation theory, as calculations involve only the bare quantities such as mass and coupling constant. A different approach, called renormalized perturbation theory, is to use physically meaningful quantities from the very beginning. In the case of ϕ4 theory, the field strength is first redefined:
+
+
+
+
+
+ϕ
+=
+
+Z
+
+1
+
+/
+
+2
+
+
+
+ϕ
+
+r
+
+
+,
+
+
+{\displaystyle \phi =Z^{1/2}\phi _{r},}
+
+
+where ϕ is the bare field, ϕr is the renormalized field, and Z is a constant to be determined. The Lagrangian density becomes:
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+1
+2
+
+
+(
+
+∂
+
+μ
+
+
+
+ϕ
+
+r
+
+
+)
+(
+
+∂
+
+μ
+
+
+
+ϕ
+
+r
+
+
+)
+−
+
+
+1
+2
+
+
+
+m
+
+r
+
+
+2
+
+
+
+ϕ
+
+r
+
+
+2
+
+
+−
+
+
+
+λ
+
+r
+
+
+
+4
+!
+
+
+
+
+ϕ
+
+r
+
+
+4
+
+
++
+
+
+1
+2
+
+
+
+δ
+
+Z
+
+
+(
+
+∂
+
+μ
+
+
+
+ϕ
+
+r
+
+
+)
+(
+
+∂
+
+μ
+
+
+
+ϕ
+
+r
+
+
+)
+−
+
+
+1
+2
+
+
+
+δ
+
+m
+
+
+
+ϕ
+
+r
+
+
+2
+
+
+−
+
+
+
+δ
+
+λ
+
+
+
+4
+!
+
+
+
+
+ϕ
+
+r
+
+
+4
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}={\frac {1}{2}}(\partial _{\mu }\phi _{r})(\partial ^{\mu }\phi _{r})-{\frac {1}{2}}m_{r}^{2}\phi _{r}^{2}-{\frac {\lambda _{r}}{4!}}\phi _{r}^{4}+{\frac {1}{2}}\delta _{Z}(\partial _{\mu }\phi _{r})(\partial ^{\mu }\phi _{r})-{\frac {1}{2}}\delta _{m}\phi _{r}^{2}-{\frac {\delta _{\lambda }}{4!}}\phi _{r}^{4},}
+
+
+where mr and λr are the experimentally measurable, renormalized, mass and coupling constant, respectively, and
+
+
+
+
+
+
+δ
+
+Z
+
+
+=
+Z
+−
+1
+,
+
+
+δ
+
+m
+
+
+=
+
+m
+
+2
+
+
+Z
+−
+
+m
+
+r
+
+
+2
+
+
+,
+
+
+δ
+
+λ
+
+
+=
+λ
+
+Z
+
+2
+
+
+−
+
+λ
+
+r
+
+
+
+
+{\displaystyle \delta _{Z}=Z-1,\quad \delta _{m}=m^{2}Z-m_{r}^{2},\quad \delta _{\lambda }=\lambda Z^{2}-\lambda _{r}}
+
+
+are constants to be determined. The first three terms are the ϕ4 Lagrangian density written in terms of the renormalized quantities, while the latter three terms are referred to as "counterterms". As the Lagrangian now contains more terms, so the Feynman diagrams should include additional elements, each with their own Feynman rules. The procedure is outlined as follows. First select a regularization scheme (such as the cut-off regularization introduced above or dimensional regularization); call the regulator Λ. Compute Feynman diagrams, in which divergent terms will depend on Λ. Then, define δZ, δm, and δλ such that Feynman diagrams for the counterterms will exactly cancel the divergent terms in the normal Feynman diagrams when the limit Λ → ∞ is taken. In this way, meaningful finite quantities are obtained.[1]: 323–326 
+It is only possible to eliminate all infinities to obtain a finite result in renormalizable theories, whereas in non-renormalizable theories infinities cannot be removed by the redefinition of a small number of parameters. The Standard Model of elementary particles is a renormalizable QFT,[1]: 719–727  while quantum gravity is non-renormalizable.[1]: 798 [33]: 421 
+
+Renormalization group[edit]
+Main article: Renormalization group
+The renormalization group, developed by Kenneth Wilson, is a mathematical apparatus used to study the changes in physical parameters (coefficients in the Lagrangian) as the system is viewed at different scales.[1]: 393  The way in which each parameter changes with scale is described by its β function.[1]: 417  Correlation functions, which underlie quantitative physical predictions, change with scale according to the Callan–Symanzik equation.[1]: 410–411 
+As an example, the coupling constant in QED, namely the elementary charge e, has the following β function:
+
+
+
+
+
+β
+(
+e
+)
+≡
+
+
+1
+Λ
+
+
+
+
+
+d
+e
+
+
+d
+Λ
+
+
+
+=
+
+
+
+e
+
+3
+
+
+
+12
+
+π
+
+2
+
+
+
+
+
++
+O
+
+
+
+(
+
+e
+
+5
+
+
+)
+
+
+
+,
+
+
+{\displaystyle \beta (e)\equiv {\frac {1}{\Lambda }}{\frac {de}{d\Lambda }}={\frac {e^{3}}{12\pi ^{2}}}+O{\mathord {\left(e^{5}\right)}},}
+
+
+where Λ is the energy scale under which the measurement of e is performed. This differential equation implies that the observed elementary charge increases as the scale increases.[36] The renormalized coupling constant, which changes with the energy scale, is also called the running coupling constant.[1]: 420 
+The coupling constant g in quantum chromodynamics, a non-Abelian gauge theory based on the symmetry group SU(3), has the following β function:
+
+
+
+
+
+β
+(
+g
+)
+≡
+
+
+1
+Λ
+
+
+
+
+
+d
+g
+
+
+d
+Λ
+
+
+
+=
+
+
+
+g
+
+3
+
+
+
+16
+
+π
+
+2
+
+
+
+
+
+
+(
+
+−
+11
++
+
+
+2
+3
+
+
+
+N
+
+f
+
+
+
+)
+
++
+O
+
+
+
+(
+
+g
+
+5
+
+
+)
+
+
+
+,
+
+
+{\displaystyle \beta (g)\equiv {\frac {1}{\Lambda }}{\frac {dg}{d\Lambda }}={\frac {g^{3}}{16\pi ^{2}}}\left(-11+{\frac {2}{3}}N_{f}\right)+O{\mathord {\left(g^{5}\right)}},}
+
+
+where Nf is the number of quark flavours. In the case where Nf ≤ 16 (the Standard Model has Nf = 6), the coupling constant g decreases as the energy scale increases. Hence, while the strong interaction is strong at low energies, it becomes very weak in high-energy interactions, a phenomenon known as asymptotic freedom.[1]: 531 
+Conformal field theories (CFTs) are special QFTs that admit conformal symmetry. They are insensitive to changes in the scale, as all their coupling constants have vanishing β function. (The converse is not true, however — the vanishing of all β functions does not imply conformal symmetry of the theory.)[37] Examples include string theory[27] and N = 4 supersymmetric Yang–Mills theory.[38]
+According to Wilson's picture, every QFT is fundamentally accompanied by its energy cut-off Λ, i.e. that the theory is no longer valid at energies higher than Λ, and all degrees of freedom above the scale Λ are to be omitted. For example, the cut-off could be the inverse of the atomic spacing in a condensed matter system, and in elementary particle physics it could be associated with the fundamental "graininess" of spacetime caused by quantum fluctuations in gravity. The cut-off scale of theories of particle interactions lies far beyond current experiments. Even if the theory were very complicated at that scale, as long as its couplings are sufficiently weak, it must be described at low energies by a renormalizable effective field theory.[1]: 402–403  The difference between renormalizable and non-renormalizable theories is that the former are insensitive to details at high energies, whereas the latter do depend on them.[8]: 2  According to this view, non-renormalizable theories are to be seen as low-energy effective theories of a more fundamental theory. The failure to remove the cut-off Λ from calculations in such a theory merely indicates that new physical phenomena appear at scales above Λ, where a new theory is necessary.[33]: 156 
+
+Other theories[edit]
+The quantization and renormalization procedures outlined in the preceding sections are performed for the free theory and ϕ4 theory of the real scalar field. A similar process can be done for other types of fields, including the complex scalar field, the vector field, and the Dirac field, as well as other types of interaction terms, including the electromagnetic interaction and the Yukawa interaction.
+As an example, quantum electrodynamics contains a Dirac field ψ representing the electron field and a vector field Aμ representing the electromagnetic field (photon field). (Despite its name, the quantum electromagnetic "field" actually corresponds to the classical electromagnetic four-potential, rather than the classical electric and magnetic fields.) The full QED Lagrangian density is:
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+
+ψ
+¯
+
+
+
+
+(
+
+i
+
+γ
+
+μ
+
+
+
+∂
+
+μ
+
+
+−
+m
+
+)
+
+ψ
+−
+
+
+1
+4
+
+
+
+F
+
+μ
+ν
+
+
+
+F
+
+μ
+ν
+
+
+−
+e
+
+
+
+ψ
+¯
+
+
+
+
+γ
+
+μ
+
+
+ψ
+
+A
+
+μ
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}={\bar {\psi }}\left(i\gamma ^{\mu }\partial _{\mu }-m\right)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }-e{\bar {\psi }}\gamma ^{\mu }\psi A_{\mu },}
+
+
+where γμ are Dirac matrices, 
+
+
+
+
+
+
+ψ
+¯
+
+
+
+=
+
+ψ
+
+†
+
+
+
+γ
+
+0
+
+
+
+
+{\displaystyle {\bar {\psi }}=\psi ^{\dagger }\gamma ^{0}}
+
+, and 
+
+
+
+
+F
+
+μ
+ν
+
+
+=
+
+∂
+
+μ
+
+
+
+A
+
+ν
+
+
+−
+
+∂
+
+ν
+
+
+
+A
+
+μ
+
+
+
+
+{\displaystyle F_{\mu \nu }=\partial _{\mu }A_{\nu }-\partial _{\nu }A_{\mu }}
+
+ is the electromagnetic field strength. The parameters in this theory are the (bare) electron mass m and the (bare) elementary charge e. The first and second terms in the Lagrangian density correspond to the free Dirac field and free vector fields, respectively. The last term describes the interaction between the electron and photon fields, which is treated as a perturbation from the free theories.[1]: 78 
+
+Shown above is an example of a tree-level Feynman diagram in QED. It describes an electron and a positron annihilating, creating an off-shell photon, and then decaying into a new pair of electron and positron. Time runs from left to right. Arrows pointing forward in time represent the propagation of positrons, while those pointing backward in time represent the propagation of electrons. A wavy line represents the propagation of a photon. Each vertex in QED Feynman diagrams must have an incoming and an outgoing fermion (positron/electron) leg as well as a photon leg.
+
+Gauge symmetry[edit]
+Main article: Gauge theory
+If the following transformation to the fields is performed at every spacetime point x (a local transformation), then the QED Lagrangian remains unchanged, or invariant:
+
+
+
+
+
+ψ
+(
+x
+)
+→
+
+e
+
+i
+α
+(
+x
+)
+
+
+ψ
+(
+x
+)
+,
+
+
+A
+
+μ
+
+
+(
+x
+)
+→
+
+A
+
+μ
+
+
+(
+x
+)
++
+i
+
+e
+
+−
+1
+
+
+
+e
+
+−
+i
+α
+(
+x
+)
+
+
+
+∂
+
+μ
+
+
+
+e
+
+i
+α
+(
+x
+)
+
+
+,
+
+
+{\displaystyle \psi (x)\to e^{i\alpha (x)}\psi (x),\quad A_{\mu }(x)\to A_{\mu }(x)+ie^{-1}e^{-i\alpha (x)}\partial _{\mu }e^{i\alpha (x)},}
+
+
+where α(x) is any function of spacetime coordinates. If a theory's Lagrangian (or more precisely the action) is invariant under a certain local transformation, then the transformation is referred to as a gauge symmetry of the theory.[1]: 482–483  Gauge symmetries form a group at every spacetime point. In the case of QED, the successive application of two different local symmetry transformations 
+
+
+
+
+e
+
+i
+α
+(
+x
+)
+
+
+
+
+{\displaystyle e^{i\alpha (x)}}
+
+ and 
+
+
+
+
+e
+
+i
+
+α
+′
+
+(
+x
+)
+
+
+
+
+{\displaystyle e^{i\alpha '(x)}}
+
+ is yet another symmetry transformation 
+
+
+
+
+e
+
+i
+[
+α
+(
+x
+)
++
+
+α
+′
+
+(
+x
+)
+]
+
+
+
+
+{\displaystyle e^{i[\alpha (x)+\alpha '(x)]}}
+
+. For any α(x), 
+
+
+
+
+e
+
+i
+α
+(
+x
+)
+
+
+
+
+{\displaystyle e^{i\alpha (x)}}
+
+ is an element of the U(1) group, thus QED is said to have U(1) gauge symmetry.[1]: 496  The photon field Aμ may be referred to as the U(1) gauge boson.
+U(1) is an Abelian group, meaning that the result is the same regardless of the order in which its elements are applied. QFTs can also be built on non-Abelian groups, giving rise to non-Abelian gauge theories (also known as Yang–Mills theories).[1]: 489  Quantum chromodynamics, which describes the strong interaction, is a non-Abelian gauge theory with an SU(3) gauge symmetry. It contains three Dirac fields ψi, i = 1,2,3 representing quark fields as well as eight vector fields Aa,μ, a = 1,...,8 representing gluon fields, which are the SU(3) gauge bosons.[1]: 547  The QCD Lagrangian density is:[1]: 490–491 
+
+
+
+
+
+
+
+L
+
+
+=
+i
+
+
+
+
+ψ
+¯
+
+
+
+
+i
+
+
+
+γ
+
+μ
+
+
+(
+
+D
+
+μ
+
+
+
+)
+
+i
+j
+
+
+
+ψ
+
+j
+
+
+−
+
+
+1
+4
+
+
+
+F
+
+μ
+ν
+
+
+a
+
+
+
+F
+
+a
+,
+μ
+ν
+
+
+−
+m
+
+
+
+
+ψ
+¯
+
+
+
+
+i
+
+
+
+ψ
+
+i
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}=i{\bar {\psi }}^{i}\gamma ^{\mu }(D_{\mu })^{ij}\psi ^{j}-{\frac {1}{4}}F_{\mu \nu }^{a}F^{a,\mu \nu }-m{\bar {\psi }}^{i}\psi ^{i},}
+
+
+where Dμ is the gauge covariant derivative:
+
+
+
+
+
+
+D
+
+μ
+
+
+=
+
+∂
+
+μ
+
+
+−
+i
+g
+
+A
+
+μ
+
+
+a
+
+
+
+t
+
+a
+
+
+,
+
+
+{\displaystyle D_{\mu }=\partial _{\mu }-igA_{\mu }^{a}t^{a},}
+
+
+where g is the coupling constant, ta are the eight generators of SU(3) in the fundamental representation (3×3 matrices),
+
+
+
+
+
+
+F
+
+μ
+ν
+
+
+a
+
+
+=
+
+∂
+
+μ
+
+
+
+A
+
+ν
+
+
+a
+
+
+−
+
+∂
+
+ν
+
+
+
+A
+
+μ
+
+
+a
+
+
++
+g
+
+f
+
+a
+b
+c
+
+
+
+A
+
+μ
+
+
+b
+
+
+
+A
+
+ν
+
+
+c
+
+
+,
+
+
+{\displaystyle F_{\mu \nu }^{a}=\partial _{\mu }A_{\nu }^{a}-\partial _{\nu }A_{\mu }^{a}+gf^{abc}A_{\mu }^{b}A_{\nu }^{c},}
+
+
+and fabc are the structure constants of SU(3). Repeated indices i,j,a are implicitly summed over following Einstein notation. This Lagrangian is invariant under the transformation:
+
+
+
+
+
+
+ψ
+
+i
+
+
+(
+x
+)
+→
+
+U
+
+i
+j
+
+
+(
+x
+)
+
+ψ
+
+j
+
+
+(
+x
+)
+,
+
+
+A
+
+μ
+
+
+a
+
+
+(
+x
+)
+
+t
+
+a
+
+
+→
+U
+(
+x
+)
+
+[
+
+
+A
+
+μ
+
+
+a
+
+
+(
+x
+)
+
+t
+
+a
+
+
++
+i
+
+g
+
+−
+1
+
+
+
+∂
+
+μ
+
+
+
+]
+
+
+U
+
+†
+
+
+(
+x
+)
+,
+
+
+{\displaystyle \psi ^{i}(x)\to U^{ij}(x)\psi ^{j}(x),\quad A_{\mu }^{a}(x)t^{a}\to U(x)\left[A_{\mu }^{a}(x)t^{a}+ig^{-1}\partial _{\mu }\right]U^{\dagger }(x),}
+
+
+where U(x) is an element of SU(3) at every spacetime point x:
+
+
+
+
+
+U
+(
+x
+)
+=
+
+e
+
+i
+α
+(
+x
+
+)
+
+a
+
+
+
+t
+
+a
+
+
+
+
+.
+
+
+{\displaystyle U(x)=e^{i\alpha (x)^{a}t^{a}}.}
+
+
+The preceding discussion of symmetries is on the level of the Lagrangian. In other words, these are "classical" symmetries. After quantization, some theories will no longer exhibit their classical symmetries, a phenomenon called anomaly. For instance, in the path integral formulation, despite the invariance of the Lagrangian density 
+
+
+
+
+
+L
+
+
+[
+ϕ
+,
+
+∂
+
+μ
+
+
+ϕ
+]
+
+
+{\displaystyle {\mathcal {L}}[\phi ,\partial _{\mu }\phi ]}
+
+ under a certain local transformation of the fields, the measure 
+
+
+
+∫
+
+
+D
+
+
+ϕ
+
+
+{\textstyle \int {\mathcal {D}}\phi }
+
+ of the path integral may change.[33]: 243  For a theory describing nature to be consistent, it must not contain any anomaly in its gauge symmetry. The Standard Model of elementary particles is a gauge theory based on the group SU(3) × SU(2) × U(1), in which all anomalies exactly cancel.[1]: 705–707 
+The theoretical foundation of general relativity, the equivalence principle, can also be understood as a form of gauge symmetry, making general relativity a gauge theory based on the Lorentz group.[39]
+Noether's theorem states that every continuous symmetry, i.e. the parameter in the symmetry transformation being continuous rather than discrete, leads to a corresponding conservation law.[1]: 17–18 [33]: 73  For example, the U(1) symmetry of QED implies charge conservation.[40]
+Gauge-transformations do not relate distinct quantum states. Rather, it relates two equivalent mathematical descriptions of the same quantum state. As an example, the photon field Aμ, being a four-vector, has four apparent degrees of freedom, but the actual state of a photon is described by its two degrees of freedom corresponding to the polarization. The remaining two degrees of freedom are said to be "redundant" — apparently different ways of writing Aμ can be related to each other by a gauge transformation and in fact describe the same state of the photon field. In this sense, gauge invariance is not a "real" symmetry, but a reflection of the "redundancy" of the chosen mathematical description.[33]: 168 
+To account for the gauge redundancy in the path integral formulation, one must perform the so-called Faddeev–Popov gauge fixing procedure. In non-Abelian gauge theories, such a procedure introduces new fields called "ghosts". Particles corresponding to the ghost fields are called ghost particles, which cannot be detected externally.[1]: 512–515  A more rigorous generalization of the Faddeev–Popov procedure is given by BRST quantization.[1]: 517 
+
+Spontaneous symmetry-breaking[edit]
+Main article: Spontaneous symmetry breaking
+Spontaneous symmetry breaking is a mechanism whereby the symmetry of the Lagrangian is violated by the system described by it.[1]: 347 
+To illustrate the mechanism, consider a linear sigma model containing N real scalar fields, described by the Lagrangian density:
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+1
+2
+
+
+
+(
+
+
+∂
+
+μ
+
+
+
+ϕ
+
+i
+
+
+
+)
+
+
+(
+
+
+∂
+
+μ
+
+
+
+ϕ
+
+i
+
+
+
+)
+
++
+
+
+1
+2
+
+
+
+μ
+
+2
+
+
+
+ϕ
+
+i
+
+
+
+ϕ
+
+i
+
+
+−
+
+
+λ
+4
+
+
+
+
+(
+
+
+ϕ
+
+i
+
+
+
+ϕ
+
+i
+
+
+
+)
+
+
+2
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}={\frac {1}{2}}\left(\partial _{\mu }\phi ^{i}\right)\left(\partial ^{\mu }\phi ^{i}\right)+{\frac {1}{2}}\mu ^{2}\phi ^{i}\phi ^{i}-{\frac {\lambda }{4}}\left(\phi ^{i}\phi ^{i}\right)^{2},}
+
+
+where μ and λ are real parameters. The theory admits an O(N) global symmetry:
+
+
+
+
+
+
+ϕ
+
+i
+
+
+→
+
+R
+
+i
+j
+
+
+
+ϕ
+
+j
+
+
+,
+
+R
+∈
+
+O
+
+(
+N
+)
+.
+
+
+{\displaystyle \phi ^{i}\to R^{ij}\phi ^{j},\quad R\in \mathrm {O} (N).}
+
+
+The lowest energy state (ground state or vacuum state) of the classical theory is any uniform field ϕ0 satisfying
+
+
+
+
+
+
+ϕ
+
+0
+
+
+i
+
+
+
+ϕ
+
+0
+
+
+i
+
+
+=
+
+
+
+μ
+
+2
+
+
+λ
+
+
+.
+
+
+{\displaystyle \phi _{0}^{i}\phi _{0}^{i}={\frac {\mu ^{2}}{\lambda }}.}
+
+
+Without loss of generality, let the ground state be in the N-th direction:
+
+
+
+
+
+
+ϕ
+
+0
+
+
+i
+
+
+=
+
+(
+
+0
+,
+⋯
+,
+0
+,
+
+
+μ
+
+λ
+
+
+
+
+)
+
+.
+
+
+{\displaystyle \phi _{0}^{i}=\left(0,\cdots ,0,{\frac {\mu }{\sqrt {\lambda }}}\right).}
+
+
+The original N fields can be rewritten as:
+
+
+
+
+
+
+ϕ
+
+i
+
+
+(
+x
+)
+=
+
+(
+
+
+π
+
+1
+
+
+(
+x
+)
+,
+⋯
+,
+
+π
+
+N
+−
+1
+
+
+(
+x
+)
+,
+
+
+μ
+
+λ
+
+
+
++
+σ
+(
+x
+)
+
+)
+
+,
+
+
+{\displaystyle \phi ^{i}(x)=\left(\pi ^{1}(x),\cdots ,\pi ^{N-1}(x),{\frac {\mu }{\sqrt {\lambda }}}+\sigma (x)\right),}
+
+
+and the original Lagrangian density as:
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+1
+2
+
+
+
+(
+
+
+∂
+
+μ
+
+
+
+π
+
+k
+
+
+
+)
+
+
+(
+
+
+∂
+
+μ
+
+
+
+π
+
+k
+
+
+
+)
+
++
+
+
+1
+2
+
+
+
+(
+
+
+∂
+
+μ
+
+
+σ
+
+)
+
+
+(
+
+
+∂
+
+μ
+
+
+σ
+
+)
+
+−
+
+
+1
+2
+
+
+
+(
+
+2
+
+μ
+
+2
+
+
+
+)
+
+
+σ
+
+2
+
+
+−
+
+
+λ
+
+
+μ
+
+σ
+
+3
+
+
+−
+
+
+λ
+
+
+μ
+
+π
+
+k
+
+
+
+π
+
+k
+
+
+σ
+−
+
+
+λ
+2
+
+
+
+π
+
+k
+
+
+
+π
+
+k
+
+
+
+σ
+
+2
+
+
+−
+
+
+λ
+4
+
+
+
+
+(
+
+
+π
+
+k
+
+
+
+π
+
+k
+
+
+
+)
+
+
+2
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}={\frac {1}{2}}\left(\partial _{\mu }\pi ^{k}\right)\left(\partial ^{\mu }\pi ^{k}\right)+{\frac {1}{2}}\left(\partial _{\mu }\sigma \right)\left(\partial ^{\mu }\sigma \right)-{\frac {1}{2}}\left(2\mu ^{2}\right)\sigma ^{2}-{\sqrt {\lambda }}\mu \sigma ^{3}-{\sqrt {\lambda }}\mu \pi ^{k}\pi ^{k}\sigma -{\frac {\lambda }{2}}\pi ^{k}\pi ^{k}\sigma ^{2}-{\frac {\lambda }{4}}\left(\pi ^{k}\pi ^{k}\right)^{2},}
+
+
+where k = 1, ..., N − 1. The original O(N) global symmetry is no longer manifest, leaving only the subgroup O(N − 1). The larger symmetry before spontaneous symmetry breaking is said to be "hidden" or spontaneously broken.[1]: 349–350 
+Goldstone's theorem states that under spontaneous symmetry breaking, every broken continuous global symmetry leads to a massless field called the Goldstone boson. In the above example, O(N) has N(N − 1)/2 continuous symmetries (the dimension of its Lie algebra), while O(N − 1) has (N − 1)(N − 2)/2. The number of broken symmetries is their difference, N − 1, which corresponds to the N − 1 massless fields πk.[1]: 351 
+On the other hand, when a gauge (as opposed to global) symmetry is spontaneously broken, the resulting Goldstone boson is "eaten" by the corresponding gauge boson by becoming an additional degree of freedom for the gauge boson. The Goldstone boson equivalence theorem states that at high energy, the amplitude for emission or absorption of a longitudinally polarized massive gauge boson becomes equal to the amplitude for emission or absorption of the Goldstone boson that was eaten by the gauge boson.[1]: 743–744 
+In the QFT of ferromagnetism, spontaneous symmetry breaking can explain the alignment of magnetic dipoles at low temperatures.[33]: 199  In the Standard Model of elementary particles, the W and Z bosons, which would otherwise be massless as a result of gauge symmetry, acquire mass through spontaneous symmetry breaking of the Higgs boson, a process called the Higgs mechanism.[1]: 690 
+
+Supersymmetry[edit]
+Main article: Supersymmetry
+All experimentally known symmetries in nature relate bosons to bosons and fermions to fermions. Theorists have hypothesized the existence of a type of symmetry, called supersymmetry, that relates bosons and fermions.[1]: 795 [33]: 443 
+The Standard Model obeys Poincaré symmetry, whose generators are the spacetime translations Pμ and the Lorentz transformations Jμν.[41]: 58–60  In addition to these generators, supersymmetry in (3+1)-dimensions includes additional generators Qα, called supercharges, which themselves transform as Weyl fermions.[1]: 795 [33]: 444  The symmetry group generated by all these generators is known as the super-Poincaré group. In general there can be more than one set of supersymmetry generators, QαI, I = 1, ..., N, which generate the corresponding N = 1 supersymmetry, N = 2 supersymmetry, and so on.[1]: 795 [33]: 450  Supersymmetry can also be constructed in other dimensions,[42] most notably in (1+1) dimensions for its application in superstring theory.[43]
+The Lagrangian of a supersymmetric theory must be invariant under the action of the super-Poincaré group.[33]: 448  Examples of such theories include: Minimal Supersymmetric Standard Model (MSSM), N = 4 supersymmetric Yang–Mills theory,[33]: 450  and superstring theory. In a supersymmetric theory, every fermion has a bosonic superpartner and vice versa.[33]: 444 
+If supersymmetry is promoted to a local symmetry, then the resultant gauge theory is an extension of general relativity called supergravity.[44]
+Supersymmetry is a potential solution to many current problems in physics. For example, the hierarchy problem of the Standard Model—why the mass of the Higgs boson is not radiatively corrected (under renormalization) to a very high scale such as the grand unified scale or the Planck scale—can be resolved by relating the Higgs field and its super-partner, the Higgsino. Radiative corrections due to Higgs boson loops in Feynman diagrams are cancelled by corresponding Higgsino loops. Supersymmetry also offers answers to the grand unification of all gauge coupling constants in the Standard Model as well as the nature of dark matter.[1]: 796–797 [45]
+Nevertheless, experiments have yet to provide evidence for the existence of supersymmetric particles. If supersymmetry were a true symmetry of nature, then it must be a broken symmetry, and the energy of symmetry breaking must be higher than those achievable by present-day experiments.[1]: 797 [33]: 443 
+
+Other spacetimes[edit]
+The ϕ4 theory, QED, QCD, as well as the whole Standard Model all assume a (3+1)-dimensional Minkowski space (3 spatial and 1 time dimensions) as the background on which the quantum fields are defined. However, QFT a priori imposes no restriction on the number of dimensions nor the geometry of spacetime.
+In condensed matter physics, QFT is used to describe (2+1)-dimensional electron gases.[46] In high-energy physics, string theory is a type of (1+1)-dimensional QFT,[33]: 452 [27] while Kaluza–Klein theory uses gravity in extra dimensions to produce gauge theories in lower dimensions.[33]: 428–429 
+In Minkowski space, the flat metric ημν is used to raise and lower spacetime indices in the Lagrangian, e.g.
+
+
+
+
+
+
+A
+
+μ
+
+
+
+A
+
+μ
+
+
+=
+
+η
+
+μ
+ν
+
+
+
+A
+
+μ
+
+
+
+A
+
+ν
+
+
+,
+
+
+∂
+
+μ
+
+
+ϕ
+
+∂
+
+μ
+
+
+ϕ
+=
+
+η
+
+μ
+ν
+
+
+
+∂
+
+μ
+
+
+ϕ
+
+∂
+
+ν
+
+
+ϕ
+,
+
+
+{\displaystyle A_{\mu }A^{\mu }=\eta _{\mu \nu }A^{\mu }A^{\nu },\quad \partial _{\mu }\phi \partial ^{\mu }\phi =\eta ^{\mu \nu }\partial _{\mu }\phi \partial _{\nu }\phi ,}
+
+
+where ημν is the inverse of ημν satisfying ημρηρν = δμν. 
+For QFTs in curved spacetime on the other hand, a general metric (such as the Schwarzschild metric describing a black hole) is used:
+
+
+
+
+
+
+A
+
+μ
+
+
+
+A
+
+μ
+
+
+=
+
+g
+
+μ
+ν
+
+
+
+A
+
+μ
+
+
+
+A
+
+ν
+
+
+,
+
+
+∂
+
+μ
+
+
+ϕ
+
+∂
+
+μ
+
+
+ϕ
+=
+
+g
+
+μ
+ν
+
+
+
+∂
+
+μ
+
+
+ϕ
+
+∂
+
+ν
+
+
+ϕ
+,
+
+
+{\displaystyle A_{\mu }A^{\mu }=g_{\mu \nu }A^{\mu }A^{\nu },\quad \partial _{\mu }\phi \partial ^{\mu }\phi =g^{\mu \nu }\partial _{\mu }\phi \partial _{\nu }\phi ,}
+
+
+where gμν is the inverse of gμν. 
+For a real scalar field, the Lagrangian density in a general spacetime background is
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+
+|
+
+g
+
+|
+
+
+
+
+(
+
+
+
+1
+2
+
+
+
+g
+
+μ
+ν
+
+
+
+∇
+
+μ
+
+
+ϕ
+
+∇
+
+ν
+
+
+ϕ
+−
+
+
+1
+2
+
+
+
+m
+
+2
+
+
+
+ϕ
+
+2
+
+
+
+)
+
+,
+
+
+{\displaystyle {\mathcal {L}}={\sqrt {|g|}}\left({\frac {1}{2}}g^{\mu \nu }\nabla _{\mu }\phi \nabla _{\nu }\phi -{\frac {1}{2}}m^{2}\phi ^{2}\right),}
+
+
+where g = det(gμν), and ∇μ denotes the covariant derivative.[47] The Lagrangian of a QFT, hence its calculational results and physical predictions, depends on the geometry of the spacetime background.
+
+Topological quantum field theory[edit]
+Main article: Topological quantum field theory
+The correlation functions and physical predictions of a QFT depend on the spacetime metric gμν. For a special class of QFTs called topological quantum field theories (TQFTs), all correlation functions are independent of continuous changes in the spacetime metric.[48]: 36  QFTs in curved spacetime generally change according to the geometry (local structure) of the spacetime background, while TQFTs are invariant under spacetime diffeomorphisms but are sensitive to the topology (global structure) of spacetime. This means that all calculational results of TQFTs are topological invariants of the underlying spacetime. Chern–Simons theory is an example of TQFT and has been used to construct models of quantum gravity.[49] Applications of TQFT include the fractional quantum Hall effect and topological quantum computers.[50]: 1–5  The world line trajectory of fractionalized particles (known as anyons) can form a link configuration in the spacetime,[51] which relates the braiding statistics of anyons in physics to the
+link invariants in mathematics. Topological quantum field theories (TQFTs) applicable to the frontier research of topological quantum matters include Chern-Simons-Witten gauge theories in 2+1 spacetime dimensions, other new exotic TQFTs in 3+1 spacetime dimensions and beyond.[52]
+
+Perturbative and non-perturbative methods[edit]
+Using perturbation theory, the total effect of a small interaction term can be approximated order by order by a series expansion in the number of virtual particles participating in the interaction. Every term in the expansion may be understood as one possible way for (physical) particles to interact with each other via virtual particles, expressed visually using a Feynman diagram. The electromagnetic force between two electrons in QED is represented (to first order in perturbation theory) by the propagation of a virtual photon. In a similar manner, the W and Z bosons carry the weak interaction, while gluons carry the strong interaction. The interpretation of an interaction as a sum of intermediate states involving the exchange of various virtual particles only makes sense in the framework of perturbation theory. In contrast, non-perturbative methods in QFT treat the interacting Lagrangian as a whole without any series expansion. Instead of particles that carry interactions, these methods have spawned such concepts as 't Hooft–Polyakov monopole, domain wall, flux tube, and instanton.[8] Examples of QFTs that are completely solvable non-perturbatively include minimal models of conformal field theory[53] and the Thirring model.[54]
+
+Mathematical rigor[edit]
+In spite of its overwhelming success in particle physics and condensed matter physics, QFT itself lacks a formal mathematical foundation. For example, according to Haag's theorem, there does not exist a well-defined interaction picture for QFT, which implies that perturbation theory of QFT, which underlies the entire Feynman diagram method, is fundamentally ill-defined.[55]
+However, perturbative quantum field theory, which only requires that quantities be computable as a formal power series without any convergence requirements, can be given a rigorous mathematical treatment. In particular, Kevin Costello's monograph Renormalization and Effective Field Theory[56] provides a rigorous formulation of perturbative renormalization that combines both the effective-field theory approaches of Kadanoff, Wilson, and Polchinski, together with the Batalin-Vilkovisky approach to quantizing gauge theories. Furthermore,  perturbative path-integral methods, typically understood as formal computational methods inspired from finite-dimensional integration theory,[57] can be given a sound mathematical interpretation from their finite-dimensional analogues.[58]
+Since the 1950s,[59] theoretical physicists and mathematicians have attempted to organize all QFTs into a set of axioms, in order to establish the existence of concrete models of relativistic QFT in a mathematically rigorous way and to study their properties. This line of study is called constructive quantum field theory, a subfield of mathematical physics,[60]: 2  which has led to such results as CPT theorem, spin–statistics theorem, and Goldstone's theorem,[59] and also to mathematically rigorous constructions of many interacting QFTs in two and three spacetime dimensions, e.g. two-dimensional scalar field theories with arbitrary polynomial interactions,[61] the three-dimensional scalar field theories with a quartic interaction, etc.[62]
+Compared to ordinary QFT, topological quantum field theory and conformal field theory are better supported mathematically — both can be classified in the framework of representations of cobordisms.[63]
+Algebraic quantum field theory is another approach to the axiomatization of QFT, in which the fundamental objects are local operators and the algebraic relations between them. Axiomatic systems following this approach include Wightman axioms and Haag–Kastler axioms.[60]: 2–3  One way to construct theories satisfying Wightman axioms is to use Osterwalder–Schrader axioms, which give the necessary and sufficient conditions for a real time theory to be obtained from an imaginary time theory by analytic continuation (Wick rotation).[60]: 10 
+Yang–Mills existence and mass gap, one of the Millennium Prize Problems, concerns the well-defined existence of Yang–Mills theories as set out by the above axioms. The full problem statement is as follows.[64]
+
+
+Prove that for any compact simple gauge group G, a non-trivial quantum Yang–Mills theory exists on 
+
+
+
+
+
+R
+
+
+4
+
+
+
+
+{\displaystyle \mathbb {R} ^{4}}
+
+ and has a mass gap Δ > 0. Existence includes establishing axiomatic properties at least as strong as those cited in Streater & Wightman (1964), Osterwalder & Schrader (1973) and Osterwalder & Schrader (1975).
+
+
+See also[edit]
+
+Mathematics portalPhysics portal
+
+Abraham–Lorentz force
+AdS/CFT correspondence
+Axiomatic quantum field theory
+Introduction to quantum mechanics
+Common integrals in quantum field theory
+Conformal field theory
+Constructive quantum field theory
+Dirac's equation
+Form factor (quantum field theory)
+Feynman diagram
+Green–Kubo relations
+Green's function (many-body theory)
+Group field theory
+Lattice field theory
+List of quantum field theories
+Local quantum field theory
+Noncommutative quantum field theory
+Quantization of a field
+Quantum electrodynamics
+Quantum field theory in curved spacetime
+Quantum chromodynamics
+Quantum flavordynamics
+Quantum hadrodynamics
+Quantum hydrodynamics
+Quantum triviality
+Relation between Schrödinger's equation and the path integral formulation of quantum mechanics
+Relationship between string theory and quantum field theory
+Schwinger–Dyson equation
+Static forces and virtual-particle exchange
+Symmetry in quantum mechanics
+Theoretical and experimental justification for the Schrödinger equation
+Topological quantum field theory
+Ward–Takahashi identity
+Wheeler–Feynman absorber theory
+Wigner's classification
+Wigner's theorem
+
+References[edit]
+
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au av aw ax ay az Peskin, M.; Schroeder, D. (1995). An Introduction to Quantum Field Theory. Westview Press. ISBN 978-0-201-50397-5.
+
+^ a b c Hobson, Art (2013). "There are no particles, there are only fields". American Journal of Physics. 81 (211): 211–223. arXiv:1204.4616. Bibcode:2013AmJPh..81..211H. doi:10.1119/1.4789885. S2CID 18254182.
+
+^ a b c d e f g h i j k l m n o p Weinberg, Steven (1977). "The Search for Unity: Notes for a History of Quantum Field Theory". Daedalus. 106 (4): 17–35. JSTOR 20024506.
+
+^ John L. Heilbron (14 February 2003). The Oxford Companion to the History of Modern Science. Oxford University Press. ISBN 978-0-19-974376-6.
+
+^ Joseph John Thomson (1893). Notes on Recent Researches in Electricity and Magnetism: Intended as a Sequel to Professor Clerk-Maxwell's 'Treatise on Electricity and Magnetism'. Dawsons.
+
+^ a b c d e f g h i j k l m Weisskopf, Victor (November 1981). "The development of field theory in the last 50 years". Physics Today. 34 (11): 69–85. Bibcode:1981PhT....34k..69W. doi:10.1063/1.2914365.
+
+^ Werner Heisenberg (1999). Physics and Philosophy: The Revolution in Modern Science. Prometheus Books. ISBN 978-1-57392-694-2.
+
+^ a b c d e f g h i j Shifman, M. (2012). Advanced Topics in Quantum Field Theory. Cambridge University Press. ISBN 978-0-521-19084-8.
+
+^ Tomonaga, Shinichiro (1966). "Development of Quantum Electrodynamics". Science. 154 (3751): 864–868. Bibcode:1966Sci...154..864T. doi:10.1126/science.154.3751.864. PMID 17744604.
+
+^ Mehra and Milton (2000). Climbing the Mountain: The scientific biography of Julian Schwinger. Oxford University Press. p. 454.
+
+^ Schwinger, Julian (July 1951). "On the Green's functions of quantized fields. I". Proceedings of the National Academy of Sciences. 37 (7): 452–455. Bibcode:1951PNAS...37..452S. doi:10.1073/pnas.37.7.452. ISSN 0027-8424. PMC 1063400. PMID 16578383.
+
+^ Schwinger, Julian (July 1951). "On the Green's functions of quantized fields. II". Proceedings of the National Academy of Sciences. 37 (7): 455–459. Bibcode:1951PNAS...37..455S. doi:10.1073/pnas.37.7.455. ISSN 0027-8424. PMC 1063401. PMID 16578384.
+
+^ Schweber, Silvan S. (2005-05-31). "The sources of Schwinger's Green's functions". Proceedings of the National Academy of Sciences. 102 (22): 7783–7788. doi:10.1073/pnas.0405167101. ISSN 0027-8424. PMC 1142349. PMID 15930139.
+
+^ Schwinger, Julian (1966). "Particles and Sources". Phys Rev. 152 (4): 1219. Bibcode:1966PhRv..152.1219S. doi:10.1103/PhysRev.152.1219.
+
+^ a b c Schwinger, Julian (1998). Particles, Sources and Fields vol. 1. Reading, MA: Perseus Books. p. xi. ISBN 0-7382-0053-0.
+
+^ Schwinger, Julian (1998). Particles, sources, and fields. 2 (1. print ed.). Reading, Mass: Advanced Book Program, Perseus Books. ISBN 978-0-7382-0054-5.
+
+^ Schwinger, Julian (1998). Particles, sources, and fields. 3 (1. print ed.). Reading, Mass: Advanced Book Program, Perseus Books. ISBN 978-0-7382-0055-2.
+
+^ C.R. Hagen; et al., eds. (1967). Proc of the 1967 Int. Conference on Particles and Fields. NY: Interscience. p. 128.
+
+^ Mehra and Milton (2000). Climbing the Mountain: The scientific biography of Julian Schwinger. Oxford University Press. p. 467.
+
+^ Schwinger, Julian (1998). Particles, Sources and Fields vol. 1. Reading, MA: Perseus Bookks. pp. 82–85.
+
+^ Mehra, Jagdish; Milton, Kimball A. (2005). Climbing the mountain: the scientific biography of Julian Schwinger (Reprinted ed.). Oxford: Oxford Univ. Press. ISBN 978-0-19-852745-9.
+
+^ a b c d 't Hooft, Gerard (2015-03-17). "The Evolution of Quantum Field Theory". The Standard Theory of Particle Physics. Advanced Series on Directions in High Energy Physics. Vol. 26. pp. 1–27. arXiv:1503.05007. Bibcode:2016stpp.conf....1T. doi:10.1142/9789814733519_0001. ISBN 978-981-4733-50-2. S2CID 119198452.
+
+^ Yang, C. N.; Mills, R. L. (1954-10-01). "Conservation of Isotopic Spin and Isotopic Gauge Invariance". Physical Review. 96 (1): 191–195. Bibcode:1954PhRv...96..191Y. doi:10.1103/PhysRev.96.191.
+
+^ a b c Coleman, Sidney (1979-12-14). "The 1979 Nobel Prize in Physics". Science. 206 (4424): 1290–1292. Bibcode:1979Sci...206.1290C. doi:10.1126/science.206.4424.1290. JSTOR 1749117. PMID 17799637.
+
+^ Sutton, Christine. "Standard model". britannica.com. Encyclopædia Britannica. Retrieved 2018-08-14.
+
+^ Kibble, Tom W. B. (2014-12-12). "The Standard Model of Particle Physics". arXiv:1412.4094 [physics.hist-ph].
+
+^ a b c Polchinski, Joseph (2005). String Theory. Vol. 1. Cambridge University Press. ISBN 978-0-521-67227-6.
+
+^ Schwarz, John H. (2012-01-04). "The Early History of String Theory and Supersymmetry". arXiv:1201.0981 [physics.hist-ph].
+
+^ "Common Problems in Condensed Matter and High Energy Physics" (PDF). science.energy.gov. Office of Science, U.S. Department of Energy. 2015-02-02. Retrieved 2018-07-18.
+
+^ a b Wilczek, Frank (2016-04-19). "Particle Physics and Condensed Matter: The Saga Continues". Physica Scripta. 2016 (T168): 014003. arXiv:1604.05669. Bibcode:2016PhST..168a4003W. doi:10.1088/0031-8949/T168/1/014003. S2CID 118439678.
+
+^ a b Tong 2015, Chapter 1
+
+^ In fact, its number of degrees of freedom is uncountable, because the vector space dimension of the space of continuous (differentiable, real analytic) functions on even a finite dimensional Euclidean space is uncountable.  On the other hand, subspaces (of these function spaces) that one typically considers, such as Hilbert spaces (e.g. the space of square integrable real valued functions) or separable Banach spaces (e.g. the space of continuous real-valued functions on a compact interval, with the uniform convergence norm), have denumerable (i. e. countably infinite) dimension in the category of Banach spaces (though still their Euclidean vector space dimension is uncountable), so in these restricted contexts, the number of degrees of freedom (interpreted now as the vector space dimension of a dense subspace rather than the vector space dimension of the function space of interest itself) is denumerable.
+
+^ a b c d e f g h i j k l m n o p q r s t Zee, A. (2010). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 978-0-691-01019-9.
+
+^ Fock, V. (1932-03-10). "Konfigurationsraum und zweite Quantelung". Zeitschrift für Physik (in German). 75 (9–10): 622–647. Bibcode:1932ZPhy...75..622F. doi:10.1007/BF01344458. S2CID 186238995.
+
+^ Becker, Katrin; Becker, Melanie; Schwarz, John H. (2007). String Theory and M-Theory. Cambridge University Press. p. 36. ISBN 978-0-521-86069-7.
+
+^ Fujita, Takehisa (2008-02-01). "Physics of Renormalization Group Equation in QED". arXiv:hep-th/0606101.
+
+^ Aharony, Ofer; Gur-Ari, Guy; Klinghoffer, Nizan (2015-05-19). "The Holographic Dictionary for Beta Functions of Multi-trace Coupling Constants". Journal of High Energy Physics. 2015 (5): 31. arXiv:1501.06664. Bibcode:2015JHEP...05..031A. doi:10.1007/JHEP05(2015)031. S2CID 115167208.
+
+^ Kovacs, Stefano (1999-08-26). "N = 4 supersymmetric Yang–Mills theory and the AdS/SCFT correspondence". arXiv:hep-th/9908171.
+
+^ Veltman, M. J. G. (1976). Methods in Field Theory, Proceedings of the Les Houches Summer School, Les Houches, France, 1975.
+
+^ Brading, Katherine A. (March 2002). "Which symmetry? Noether, Weyl, and conservation of electric charge". Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics. 33 (1): 3–22. Bibcode:2002SHPMP..33....3B. CiteSeerX 10.1.1.569.106. doi:10.1016/S1355-2198(01)00033-8.
+
+^ Weinberg, Steven (1995). The Quantum Theory of Fields. Cambridge University Press. ISBN 978-0-521-55001-7.
+
+^ de Wit, Bernard; Louis, Jan (1998-02-18). "Supersymmetry and Dualities in various dimensions". arXiv:hep-th/9801132.
+
+^ Polchinski, Joseph (2005). String Theory. Vol. 2. Cambridge University Press. ISBN 978-0-521-67228-3.
+
+^ Nath, P.; Arnowitt, R. (1975). "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories". Physics Letters B. 56 (2): 177. Bibcode:1975PhLB...56..177N. doi:10.1016/0370-2693(75)90297-x.
+
+^ Munoz, Carlos (2017-01-18). "Models of Supersymmetry for Dark Matter". EPJ Web of Conferences. 136: 01002. arXiv:1701.05259. Bibcode:2017EPJWC.13601002M. doi:10.1051/epjconf/201713601002. S2CID 55199323.
+
+^ Morandi, G.; Sodano, P.; Tagliacozzo, A.; Tognetti, V. (2000). Field Theories for Low-Dimensional Condensed Matter Systems. Springer. ISBN 978-3-662-04273-1.
+
+^ Parker, Leonard E.; Toms, David J. (2009). Quantum Field Theory in Curved Spacetime. Cambridge University Press. p. 43. ISBN 978-0-521-87787-9.
+
+^ Ivancevic, Vladimir G.; Ivancevic, Tijana T. (2008-12-11). "Undergraduate Lecture Notes in Topological Quantum Field Theory". arXiv:0810.0344v5 [math-th].
+
+^ Carlip, Steven (1998). Quantum Gravity in 2+1 Dimensions. Cambridge University Press. pp. 27–29. arXiv:2312.12596. doi:10.1017/CBO9780511564192. ISBN 9780511564192.
+
+^ Carqueville, Nils; Runkel, Ingo (2018). "Introductory lectures on topological quantum field theory". Banach Center Publications. 114: 9–47. arXiv:1705.05734. doi:10.4064/bc114-1. S2CID 119166976.
+
+^ Witten, Edward (1989). "Quantum Field Theory and the Jones Polynomial". Communications in Mathematical Physics. 121 (3): 351–399. Bibcode:1989CMaPh.121..351W. doi:10.1007/BF01217730. MR 0990772. S2CID 14951363.
+
+^ Putrov, Pavel; Wang, Juven; Yau, Shing-Tung (2017). "Braiding Statistics and Link Invariants of Bosonic/Fermionic Topological Quantum Matter in 2+1 and 3+1 dimensions". Annals of Physics. 384 (C): 254–287. arXiv:1612.09298. Bibcode:2017AnPhy.384..254P. doi:10.1016/j.aop.2017.06.019. S2CID 119578849.
+
+^ Di Francesco, Philippe; Mathieu, Pierre; Sénéchal, David (1997). Conformal Field Theory. Springer. ISBN 978-1-4612-7475-9.
+
+^ Thirring, W. (1958). "A Soluble Relativistic Field Theory?". Annals of Physics. 3 (1): 91–112. Bibcode:1958AnPhy...3...91T. doi:10.1016/0003-4916(58)90015-0.
+
+^ Haag, Rudolf (1955). "On Quantum Field Theories" (PDF). Dan Mat Fys Medd. 29 (12).
+
+^ Kevin Costello, Renormalization and Effective Field Theory, Mathematical Surveys and Monographs Volume 170, American Mathematical Society, 2011, ISBN 978-0-8218-5288-0
+
+^ Gerald B. Folland, Quantum Field Theory: A Tourist Guide for Mathematicians, Mathematical Surveys and Monographs Volume 149, American Mathematical Society, 2008, ISBN 0821847058 | chapter=8
+
+^ Nguyen, Timothy (2016). "The perturbative approach to path integrals: A succinct mathematical treatment". J. Math. Phys. 57 (9): 092301. arXiv:1505.04809. Bibcode:2016JMP....57i2301N. doi:10.1063/1.4962800. S2CID 54813572.
+
+^ a b Buchholz, Detlev (2000). "Current Trends in Axiomatic Quantum Field Theory". Quantum Field Theory. Lecture Notes in Physics. Vol. 558. pp. 43–64. arXiv:hep-th/9811233. Bibcode:2000LNP...558...43B. doi:10.1007/3-540-44482-3_4. ISBN 978-3-540-67972-1. S2CID 5052535.
+
+^ a b c Summers, Stephen J. (2016-03-31). "A Perspective on Constructive Quantum Field Theory". arXiv:1203.3991v2 [math-ph].
+
+^ Simon, Barry (1974). The P(phi)_2 Euclidean (quantum) field theory. Princeton, New Jersey: Princeton University Press. ISBN 0-691-08144-1. OCLC 905864308.
+
+^ Glimm, James; Jaffe, Arthur (1987). Quantum Physics : a Functional Integral Point of View. New York, NY: Springer New York. ISBN 978-1-4612-4728-9. OCLC 852790676.
+
+^ Sati, Hisham; Schreiber, Urs (2012-01-06). "Survey of mathematical foundations of QFT and perturbative string theory". arXiv:1109.0955v2 [math-ph].
+
+^ Jaffe, Arthur; Witten, Edward. "Quantum Yang–Mills Theory" (PDF). Clay Mathematics Institute. Archived from the original (PDF) on 2015-03-30. Retrieved 2018-07-18.
+
+
+Bibliography
+Streater, R.; Wightman, A. (1964). PCT, Spin and Statistics and all That. W. A. Benjamin.
+Osterwalder, K.; Schrader, R. (1973). "Axioms for Euclidean Green's functions". Communications in Mathematical Physics. 31 (2): 83–112. Bibcode:1973CMaPh..31...83O. doi:10.1007/BF01645738. S2CID 189829853.
+Osterwalder, K.; Schrader, R. (1975). "Axioms for Euclidean Green's functions II". Communications in Mathematical Physics. 42 (3): 281–305. Bibcode:1975CMaPh..42..281O. doi:10.1007/BF01608978. S2CID 119389461.
+Further reading[edit]
+General readers
+Pais, A. (1994) [1986]. Inward Bound: Of Matter and Forces in the Physical World (reprint ed.). Oxford, New York, Toronto: Oxford University Press. ISBN 978-0198519973.
+Schweber, S. S. (1994). QED and the Men Who Made It: Dyson, Feynman, Schwinger, and Tomonaga. Princeton University Press. ISBN 9780691033273.
+Feynman, R.P. (2001) [1964]. The Character of Physical Law. MIT Press. ISBN 978-0-262-56003-0.
+Feynman, R.P. (2006) [1985]. QED: The Strange Theory of Light and Matter. Princeton University Press. ISBN 978-0-691-12575-6.
+Gribbin, J. (1998). Q is for Quantum: Particle Physics from A to Z. Weidenfeld & Nicolson. ISBN 978-0-297-81752-9.
+Introductory texts
+McMahon, D. (2008). Quantum Field Theory. McGraw-Hill. ISBN 978-0-07-154382-8.
+Bogolyubov, N.; Shirkov, D. (1982). Quantum Fields. Benjamin Cummings. ISBN 978-0-8053-0983-6.
+Frampton, P.H. (2000). Gauge Field Theories. Frontiers in Physics (2nd ed.). Wiley.; Frampton, Paul H. (22 September 2008). 2008, 3rd edition. John Wiley & Sons. ISBN 978-3527408351.
+Greiner, W.; Müller, B. (2000). Gauge Theory of Weak Interactions. Springer. ISBN 978-3-540-67672-0.
+Itzykson, C.; Zuber, J.-B. (1980). Quantum Field Theory. McGraw-Hill. ISBN 978-0-07-032071-0.
+Kane, G.L. (1987). Modern Elementary Particle Physics. Perseus Group. ISBN 978-0-201-11749-3.
+Kleinert, H.; Schulte-Frohlinde, Verena (2001). Critical Properties of φ4-Theories. World Scientific. ISBN 978-981-02-4658-7.
+Kleinert, H. (2008). Multivalued Fields in Condensed Matter, Electrodynamics, and Gravitation (PDF). World Scientific. ISBN 978-981-279-170-2.
+Lancaster, T., & Blundell, S. J. (2014). Quantum field theory for the gifted amateur. OUP Oxford. ISBN 9780199699339
+Loudon, R. (1983). The Quantum Theory of Light. Oxford University Press. ISBN 978-0-19-851155-7.
+Mandl, F.; Shaw, G. (1993). Quantum Field Theory. John Wiley & Sons. ISBN 978-0-471-94186-6.
+Ryder, L.H. (1985). Quantum Field Theory. Cambridge University Press. ISBN 978-0-521-33859-2.
+Schwartz, M.D. (2014). Quantum Field Theory and the Standard Model. Cambridge University Press. ISBN 978-1107034730. Archived from the original on 2018-03-22. Retrieved 2020-05-13.
+Ynduráin, F.J. (1996). Relativistic Quantum Mechanics and Introduction to Field Theory (1st ed.). Springer. Bibcode:1996rqmi.book.....Y. doi:10.1007/978-3-642-61057-8. ISBN 978-3-540-60453-2.
+Greiner, W.; Reinhardt, J. (1996). Field Quantization. Springer. ISBN 978-3-540-59179-5.
+Peskin, M.; Schroeder, D. (1995). An Introduction to Quantum Field Theory. Westview Press. ISBN 978-0-201-50397-5.
+Scharf, Günter (2014) [1989]. Finite Quantum Electrodynamics: The Causal Approach (third ed.). Dover Publications. ISBN 978-0486492735.
+Srednicki, M. (2007). Quantum Field Theory. Cambridge University Press. ISBN 978-0521-8644-97.
+Tong, David (2015). "Lectures on Quantum Field Theory". Retrieved 2016-02-09.
+Williams, A.G. (2022). Introduction to Quantum Field Theory: Classical Mechanics to Gauge Field Theories. Cambridge University Press. ISBN 978-1108470902.
+Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0691140346.
+Advanced texts
+Brown, Lowell S. (1994). Quantum Field Theory. Cambridge University Press. ISBN 978-0-521-46946-3.
+Bogoliubov, N.; Logunov, A.A.; Oksak, A.I.; Todorov, I.T. (1990). General Principles of Quantum Field Theory. Kluwer Academic Publishers. ISBN 978-0-7923-0540-8.
+Weinberg, S. (1995). The Quantum Theory of Fields. Vol. 1. Cambridge University Press. ISBN 978-0521550017.
+External links[edit]
+ Media related to Quantum field theory at Wikimedia Commons
+
+
+
+One-dimensional quantum field theory on Wikiversity
+
+"Quantum field theory", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Stanford Encyclopedia of Philosophy: "Quantum Field Theory", by Meinard Kuhlmann.
+Siegel, Warren, 2005. Fields. arXiv:hep-th/9912205.
+Quantum Field Theory by P. J. Mulders
+vteQuantum field theoriesTheories
+Algebraic QFT
+Axiomatic QFT
+Conformal field theory
+Lattice field theory
+Noncommutative QFT
+Gauge theory
+QFT in curved spacetime
+String theory
+Supergravity
+Thermal QFT
+Topological QFT
+Two-dimensional conformal field theory
+ModelsRegular
+Born–Infeld
+Euler–Heisenberg
+Ginzburg–Landau
+Non-linear sigma
+Proca
+Quantum electrodynamics
+Quantum chromodynamics
+Quartic interaction
+Scalar electrodynamics
+Scalar chromodynamics
+Soler
+Yang–Mills
+Yang–Mills–Higgs
+Yukawa
+Low dimensional
+2D Yang–Mills
+Bullough–Dodd
+Gross–Neveu
+Schwinger
+Sine-Gordon
+Thirring
+Thirring–Wess
+Toda
+Conformal
+2D free massless scalar
+Liouville
+Minimal
+Polyakov
+Wess–Zumino–Witten
+Supersymmetric
+4D N = 1
+N = 1 super Yang–Mills
+Seiberg–Witten
+Super QCD
+Wess–Zumino
+Superconformal
+6D (2,0)
+ABJM
+N = 4 super Yang–Mills
+Supergravity
+4D N = 1
+Higher dimensional
+N = 8
+Pure 4D N = 1
+Topological
+BF
+Chern–Simons
+Particle theory
+Chiral
+Fermi
+MSSM
+Nambu–Jona-Lasinio
+NMSSM
+Standard Model
+Stueckelberg
+Related
+Casimir effect
+Cosmic string
+History
+Loop quantum gravity
+Loop quantum cosmology
+On shell and off shell
+Quantum chaos
+Quantum dynamics
+Quantum foam
+Quantum fluctuations
+links
+Quantum gravity
+links
+Quantum hadrodynamics
+Quantum hydrodynamics
+Quantum information
+Quantum information science
+links
+Quantum logic
+Quantum thermodynamics
+See also:  Template:Quantum mechanics topics
+vteQuantum mechanicsBackground
+Introduction
+History
+Timeline
+Classical mechanics
+Old quantum theory
+Glossary
+Fundamentals
+Born rule
+Bra–ket notation
+ Complementarity
+Density matrix
+Energy level
+Ground state
+Excited state
+Degenerate levels
+Zero-point energy
+Entanglement
+Hamiltonian
+Interference
+Decoherence
+Measurement
+Nonlocality
+Quantum state
+Superposition
+Tunnelling
+Scattering theory
+Symmetry in quantum mechanics
+Uncertainty
+Wave function
+Collapse
+Wave–particle duality
+Formulations
+Formulations
+Heisenberg
+Interaction
+Matrix mechanics
+Schrödinger
+Path integral formulation
+Phase space
+Equations
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+Interpretations
+Bayesian
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden-variable
+Local
+Superdeterminism
+Many-worlds
+Objective collapse
+Quantum logic
+Relational
+Transactional
+Von Neumann–Wigner
+Experiments
+Bell test
+Davisson–Germer
+Delayed-choice quantum eraser
+Double-slit
+Franck–Hertz
+Mach–Zehnder interferometer
+Elitzur–Vaidman
+Popper
+Quantum eraser
+Stern–Gerlach
+Wheeler's delayed choice
+Science
+Quantum biology
+Quantum chemistry
+Quantum chaos
+Quantum cosmology
+Quantum differential calculus
+Quantum dynamics
+Quantum geometry
+Quantum measurement problem
+Quantum mind
+Quantum stochastic calculus
+Quantum spacetime
+Technology
+Quantum algorithms
+Quantum amplifier
+Quantum bus
+Quantum cellular automata
+Quantum finite automata
+Quantum channel
+Quantum circuit
+Quantum complexity theory
+Quantum computing
+Timeline
+Quantum cryptography
+Quantum electronics
+Quantum error correction
+Quantum imaging
+Quantum image processing
+Quantum information
+Quantum key distribution
+Quantum logic
+Quantum logic gates
+Quantum machine
+Quantum machine learning
+Quantum metamaterial
+Quantum metrology
+Quantum network
+Quantum neural network
+Quantum optics
+Quantum programming
+Quantum sensing
+Quantum simulator
+Quantum teleportation
+Extensions
+Quantum fluctuation
+Casimir effect
+Quantum statistical mechanics
+Quantum field theory
+History
+Quantum gravity
+Relativistic quantum mechanics
+Related
+Schrödinger's cat
+in popular culture
+Wigner's friend
+EPR paradox
+Quantum mysticism
+
+ Category
+
+vteQuantum gravityCentral concepts
+AdS/CFT correspondence
+Ryu–Takayanagi conjecture
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck units
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+Faddeev–Popov ghost
+Batalin-Vilkovisky formalism
+CA-duality
+Toy models
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+Quantum field theoryin curved spacetime
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+Black holes
+Black hole complementarity
+Black hole information paradox
+Black-hole thermodynamics
+Bekenstein bound
+Bousso's holographic bound
+Cosmic censorship hypothesis
+ER = EPR
+Firewall (physics)
+Gravitational singularity
+ApproachesString theory
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+Canonical quantum gravity
+Loop quantum gravity
+Wheeler–DeWitt equation
+Euclidean quantum gravity
+Hartle–Hawking state
+Others
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+Dual graviton
+Applications
+Quantum cosmology
+Eternal inflation
+Multiverse
+FRW/CFT duality
+See also:  Template:Quantum mechanics topics
+vteMajor branches of physicsDivisions
+Pure
+Applied
+Engineering
+Approaches
+Experimental
+Theoretical
+Computational
+Classical
+Classical mechanics
+Newtonian
+Analytical
+Celestial
+Continuum
+Acoustics
+Classical electromagnetism
+Classical optics
+Ray
+Wave
+Thermodynamics
+Statistical
+Non-equilibrium
+Modern
+Relativistic mechanics
+Special
+General
+Nuclear physics
+Quantum mechanics
+Particle physics
+Atomic, molecular, and optical physics
+Atomic
+Molecular
+Modern optics
+Condensed matter physics
+Interdisciplinary
+Astrophysics
+Atmospheric physics
+Biophysics
+Chemical physics
+Geophysics
+Materials science
+Mathematical physics
+Medical physics
+Ocean physics
+Quantum information science
+Related
+History of physics
+Nobel Prize in Physics
+Philosophy of physics
+Physics education
+Timeline of physics discoveries
+
+vteStandard ModelBackground
+Particle physics
+Fermions
+Gauge boson
+Higgs boson
+Quantum field theory
+Gauge theory
+Strong interaction
+Color charge
+Quantum chromodynamics
+Quark model
+Electroweak interaction
+Weak interaction
+Quantum electrodynamics
+Fermi's interaction
+Weak hypercharge
+Weak isospin
+Constituents
+CKM matrix
+Spontaneous symmetry breaking
+Higgs mechanism
+Mathematical formulation of the Standard Model
+Beyond theStandard ModelEvidence
+Hierarchy problem
+Dark matter
+Cosmological constant
+problem
+Strong CP problem
+Neutrino oscillation
+Theories
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+Supersymmetry
+MSSM
+NMSSM
+Split supersymmetry
+Supergravity
+Quantum gravity
+String theory
+Superstring theory
+Loop quantum gravity
+Causal dynamical triangulation
+Canonical quantum gravity
+Superfluid vacuum theory
+Twistor theory
+Experiments
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+
+ Category
+ Commons
+
+Authority control databases: National 
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Quantum_field_theory&oldid=1227686545"
+Categories: Quantum field theoryQuantum mechanicsMathematical physicsHidden categories: CS1 German-language sources (de)Articles with short descriptionShort description is different from WikidataCommons category link from WikidataArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with NKC identifiers
+
+
+
+
+
+
+ This page was last edited on 7 June 2024, at 07:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

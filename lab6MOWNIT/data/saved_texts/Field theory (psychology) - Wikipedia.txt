@@ -1,0 +1,607 @@
+
+
+
+
+Field theory (psychology) - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Kurt Lewin's influence
+
+
+
+
+
+
+
+
+3
+Main principles
+
+
+
+
+Toggle Main principles subsection
+
+
+
+
+
+3.1
+The life space
+
+
+
+
+
+
+3.1.1
+Environment
+
+
+
+
+
+
+
+
+3.1.2
+Person
+
+
+
+
+
+
+
+
+3.1.3
+Behavior
+
+
+
+
+
+
+
+
+
+
+
+
+4
+Theory and experimental evidence
+
+
+
+
+
+
+
+
+5
+Reception and implications
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+Major publications
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+Toggle References subsection
+
+
+
+
+
+8.1
+Citations
+
+
+
+
+
+
+
+
+8.2
+Sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Field theory (psychology)
+
+
+
+13 languages
+
+
+
+
+العربيةБългарскиDeutschFrançais한국어ItalianoქართულიPolskiPortuguêsРусскийСрпски / srpskiTürkçeУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Psychological theory
+In topological and vector psychology, field theory is a psychological theory that examines patterns of interaction between the individual and the total field, or environment. The concept first made its appearance in psychology with roots in the holistic perspective of Gestalt theories. It was developed by Kurt Lewin, a Gestalt psychologist, in the 1940s.
+Lewin's field theory can be expressed by a formula: B = f(p,e), meaning that behavior (B) is a function of the person (p) and their cultural environment (e).[1]
+
+
+History[edit]
+Early philosophers believed the body to have a rational, inner nature that helped guide our thoughts and bodies.  This intuitive force, our soul, was viewed as having supreme control over our entire being.   However, this view changed during the intellectual revolution of the 17th century.[2]   The mind versus the body was a forever evolving concept that received great attention from the likes of Descartes, Locke and Kant.  From once believing that the mind and body interact, to thinking the mind is completely separate from the body, rationalist and empirical views were deeply rooted in the understanding of this phenomenon.  Field Theory emerged when Lewin considered a person's behavior to consist of many different interactions.  He believed people to have dynamic thoughts, forces, and emotions that shifted their behavior to reflect their present state.
+
+Kurt Lewin's influence[edit]
+Kurt Lewin was born in Germany in 1890.  He originally wanted to pursue behaviorism, but later found an interest in Gestalt psychology while volunteering in the German army in 1914. He went on to work at the Psychological Institute in the University of Berlin after World War 1. There he worked with two of the founders of gestalt psychology, Max Wertheimer and Wolfgang Köhler.[1] When Lewin moved to the USA, he had become more involved with real world issues and the need to understand and change human behavior. His desire and personal involvement with gestalt psychology led to the development of his field theory.[1] Lewin's field theory emphasized interpersonal conflict, individual personalities, and situational variables. He proposed that behavior is the result of the individual and their environment.[3]  In viewing a person's social environment and its effect on their dynamic field, Lewin also found that a person's psychological state influences their social field.[4]
+Wanting to shift the focus of psychology away from Aristotelian views and more towards Galileo's approach, he believed psychology needed to follow physics. Drawing from both mathematics and physics, Lewin took the concept of the field, the focus of one's experiences, personal needs, and topography to map spatial relationships.  Lewin created a field theory rule that says analysis can only start with the situation represented as a whole, so in order for change to take place, the entire situation must be considered.  There seems to be a repetition of people having the same unsuccessful attempts to grow and develop themselves and field theory draws the conclusion that this repetition comes from forces within our fields.  To display this psychological field, Lewin constructed "topological maps" that showed inter-related areas and indicated the directions of people's goals.[5]
+
+Main principles[edit]
+The life space[edit]
+The idea that an individual's behavior, at any time, is manifested only within the coexisting factors of the current "life space" or "psychological field."  So a life space is the combination of all the factors that influences a person's behavior at any time. Therefore, behavior can be expressed as a function of the life space B=ƒ(LS). Furthermore, the interaction of the person (P), and the environment (E) produces this life space. In symbolic expression, B=ƒ(LS)=F(P,E).[6] An example of a more complex life-space concept is the idea that two people's experience of a situation can become one when they converse together. This does not happen if the two people do not interact with each other, such as being in the same room but not talking to each other. This combined space can be "built" up as the two people share more ideas and create a more complex life-space together.[7]
+
+Environment[edit]
+The environment as demonstrated in the life space, refers to the objective situation in which the person perceives and acts. The life space environment (E) is completely subjective within each context as it depends not only on the objective situation, but also on the characteristics of the person (P).[6] It is necessary to consider all aspects of a person's conscious and unconscious environment in order to map out the person's life space.[1] The combined state, influenced by the environment as well as the person's perspective, conscious, and unconscious, must be viewed as a whole. While each part can be viewed as a separate entity, to observe the totality of the situation one must take all inputs into consideration.[1]
+
+Person[edit]
+Lewin applied the term person in three different ways.
+
+Properties/characteristics of the individual. (needs, beliefs, values, abilities)
+A way of representing essentially the same psychological facts of "life space" itself.
+"The behaving self".[6]
+"The behaving self may be seen as the individual's perception of his relations to the environment he perceives."[6]
+The development of the person inevitably affects the life space. As a person undergoes changes with their body or their image of themselves changes, this can cause an instability in the region of life space. Additionally, an instability in the psychological environment or life space can lead to the instability of the person.[8]
+
+Behavior[edit]
+Any change within the life space subject to psychological laws. Accordingly, an action of the person (P) or a change in the environment (E) resulting from said action, can be considered behavior (B).[6] These behaviors can make large or small influences on the totality of the life space. Regardless, they must be taken into consideration.  Field theory holds that behavior must be derived from a totality of coexisting facts. These coexisting facts make up a "dynamic field[9]", which means that the state of any part of the field depends on every other part of it. This not only includes both mental and physical fields, but also unseen forces such as magnetism and gravity. This can be elaborated by imagining the difference that a force can make by acting from a distance. When considering something such as the Moon's influence on the Earth, it is clear that there is an effect even though it acts from a large distance away.[2] Behavior depends on the present field rather than on the past or the future.
+Development also plays a major role in life space behavior. From the beginning of one's life behavior is molded in all respects to his or her social situation. This of course brings up the sociological discussion of nature versus nurture. Experimental psychology studies have shown the formation of aspiration, the driving factor of actions and expressions (behavior), is directly influenced by the presence or absence of certain individuals within one's life space.[8] A child's development naturally leads to an opening up of new unknown life space regions. Transitional periods such as adolescence are characterized by a greater effect of these new regions. Therefore, an adolescent entering a new social group or life space can be seen psychologically as entering a cognitively unstructured field. This new field makes it difficult for the individual to know what behavior is appropriate within the field. This is believed to be a possibility for changes in child and adolescent behavior.[8]
+
+Theory and experimental evidence[edit]
+Field Theory Image 1
+Field Theory Image 2
+According to field theory, a person's life is made up of multiple distinct spaces. Image 1 is an example of the total field, or environment. Image 2 is showing a person, and a goal they have. This image shows that there are forces pushing a person toward their goal. The dotted line is everything one must go through to reach their goal, and how one must go through many different spaces. Individuals may have the same goal, but the field to get there may be different. One's field may be adjusted in order to gain the most in life. Some fields may be deleted, and some added, all depending on certain events that occur in a person's lifetime.[1]
+Field theory also includes the idea that every person holds a different experience for a situation. This is not to say that two people's experience of an event will not be similar, but that there will be some difference. This leads to the idea that no two experiences are the same for a person either, as the dynamic field is constantly changing.[7] This is to say that the dynamic field is like a stream, constantly flowing while changing slightly. Another piece of field theory is the idea that no part of a person's field can be viewed as being pointless. Every part of a total field must be viewed as having possible meaning and importance. This must be done regardless of how pointless or non-important the part of the field may seem, it should still be accounted for.[7] The totality of an individual's field seems to have no bounds, as research has shown that even an infant's experience of World War II could possibly affect life later on, due to the change in field.[7] This is a good example of how broad field theory can span, as a person's preconsciousness may be altered due to field changes that occurred before any major development.
+
+Reception and implications[edit]
+Field theory is important aspect of Gestalt theory, a doctrine that includes many important methods and discoveries. It is a crucial building block to the foundation of Gestalt psychologists' concepts and applications. 
+The field theory is also a cornerstone of Gestalt therapy[7] together with phenomenology and existentialist dialog.
+
+See also[edit]
+Force-field analysis
+Humanistic psychology
+Major publications[edit]
+Lewin, K. (1935). A dynamic theory of personality. New York: McGraw-Hill.
+Lewin, K. (1936). Principles of topological psychology. New York: McGraw-Hill.
+Lewin, K. (1938). The conceptual representation and measurement of psychological forces. Durham, NC: Duke University Press.
+Lewin, K. (1951). Field theory in social science. New York: Harper.
+References[edit]
+Citations[edit]
+
+
+^ a b c d e f Burnes, Bernard; Cooke, Bill (2013). "Kurt Lewin's Field Theory: A Review and Re-evaluation". International Journal of Management Reviews. 15 (4): 408–425. doi:10.1111/j.1468-2370.2012.00348.x. S2CID 142831688.
+
+^ a b Rummel, R.J. "Psychological Field Theories". Retrieved 2014-10-13.
+
+^ Cherry, Kendra. "Kurt Lewin Biography (1890-1974)". About Education. Archived from the original on 2014-11-07. Retrieved 2014-10-25.
+
+^ Neill, James. "Field Theory- Kurt Lewin". Wilderdom. Retrieved 2014-10-25.
+
+^ Neumann, Jean. "Kurt Lewin-Field Theory Rule". Tavistock. Retrieved 2014-10-25.
+
+^ a b c d e Deutsch, Morton (1954). "Field Theory in Social Psychology" (PDF). In Lindzey, G.; Aronson, E. (eds.). The Handbook of Social Psychology, Vol. 1 (2nd ed.). pp. 412–487. Archived from the original (PDF) on 2016-08-04. Retrieved 2016-11-29.
+
+^ a b c d e Parlet, Malcolm (1991). "Reflections on Field Theory". The British Gestalt Journal 1: 68–91. Retrieved 31 October 2014
+
+^ a b c Lewin, Kurt (May 1939). "Field Theory and Experiment in Social Psychology". American Journal of Sociology. 44 (6): 868–896. doi:10.1086/218177. JSTOR 2769418. S2CID 143603759.
+
+^ Martin, John Levi (July 2003). "What Is Field Theory?". American Journal of Sociology. 109 (1): 1–49. doi:10.1086/375201. S2CID 142570658.
+
+
+Sources[edit]
+
+Sundberg, Norman (2001). Clinical Psychology: Evolving Theory, Practice, and Research. Englewood Cliffs: Prentice Hall. ISBN 0-13-087119-2.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Field_theory_(psychology)&oldid=1218333771"
+Category: Psychological theoriesHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 11 April 2024, at 02:56 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

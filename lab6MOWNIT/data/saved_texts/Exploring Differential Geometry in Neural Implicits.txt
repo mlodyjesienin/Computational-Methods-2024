@@ -1,0 +1,233 @@
+
+
+
+
+
+
+Exploring Differential Geometry in Neural Implicits
+
+
+
+
+
+
+
+
+
+
+
+
+Exploring Differential Geometry in Neural Implicits
+
+
+
+Tiago Novello1*
+Guilherme Schardong1,3*
+Hélio Lopes2*
+
+
+Vinícius da Silva2*
+Luiz Schirmer1,3*
+Luiz Velho1*
+
+
+1IMPA
+2PUC-Rio
+3University of Coimbra
+
+
+
+
+ description 
+                    Paper
+                
+
+ description 
+                    Appx
+                
+
+ videocam 
+                    Video
+                
+
+ code 
+                    Code
+                
+
+
+
+
+
+
+
+
+
+
+                Armadillo curvature rendering. An important advantage of using neural implicit functions to represent surfaces is that we can compute their differentiable objects analytically. The image was generated using a transfer function to visualize the gaussian and mean curvatures of the neural surface. This function relates points with high/medium/low curvatures to the red/white/blue colors. Our model enables both normal vectors and mean curvature to be calculated analytically through their formulas using torch.autograd.
+            
+
+
+
+
+                Your browser does not support the video tag.
+            
+
+
+
+                Stanford Bunny, Dragon, Armadillo and Happy Buddha trained with the proposed framework.
+            
+
+
+
+News
+
+
+ description  [Jan 27th 2022] Page online.
+
+
+ description  [Set 5th 2022] Accepted for publication on Computer&Graphics.
+
+
+ description  [Set 5th 2022] Code available online.
+
+
+ description  [Set 6th 2022] Appendix added.
+
+
+ description  [TBA] Presentation on SIBGRAPI (2022).
+
+
+
+Abstract
+
+
+      We introduce a neural implicit framework that exploits the differentiable properties of neural networks and the discrete geometry of point-sampled surfaces to approximate them as the level sets of neural implicit functions.
+
+      To train a neural implicit function, we propose a loss functional that approximates a signed distance function, and allows terms with high-order derivatives, such as the alignment between the principal directions of curvature, to learn more geometric details.
+      During training, we consider a non-uniform sampling strategy based on the curvatures of the point-sampled surface to prioritize points with more geometric details. This sampling implies faster learning while preserving geometric~accuracy when compared with previous approaches.
+
+      We also use the analytical derivatives of a neural implicit function to estimate the differential measures of the underlying point-sampled surface.
+    
+
+
+Overview
+
+
+            The main contribution of our work is a global geometric representation in the continuous setting using neural networks as implicit functions. Besides capturing geometric detail, this model is robust for shape analysis and it is efficient since we have its derivatives in closed form.
+
+            Specifically, we propose a loss function that allows the exploration of tools from continuous differential geometry during the training of the neural implicit function. This results in high fidelity when reconstructing geometric features of the surface.
+
+            During the training of the neural implicit function, we use the discrete differential geometry of the dataset (triangle mesh) to sample important regions. This results in robust and fast training, without losing geometric details.
+
+
+
+
+
+Results
+
+
+
+Bunny
+
+
+
+
+                        Your browser does not support the video tag.
+                    
+
+
+
+Dragon
+
+
+
+
+                        Your browser does not support the video tag.
+                    
+
+
+
+
+
+Armadillo
+
+
+
+
+                        Your browser does not support the video tag.
+                    
+
+
+
+Buddha
+
+
+
+
+                        Your browser does not support the video tag.
+                    
+
+
+
+
+
+Paper
+
+
+
+
+
+
+Exploring Differential Geometry in Neural Implicits
+Tiago Novello, Guilherme Schardong, Luiz Schirmer, Vinícius da Silva, Hélio Lopes and Luiz Velho
+ description  Paper preprint (PDF, 10.4 MB)
+ description  arXiv version
+ insert_comment  BibTeX
+ videocam  Video
+Please send feedback and questions to Tiago Novello.
+
+
+
+
+Citation
+
+@article{novello:i3d:2022,
+  title = {Exploring differential geometry in neural implicits},
+  journal = {Computers & Graphics},
+  volume = {108},
+  pages = {49-60},
+  year = {2022},
+  issn = {0097-8493},
+  doi = {https://doi.org/10.1016/j.cag.2022.09.003},
+  url = {https://www.sciencedirect.com/science/article/pii/S0097849322001649},
+  author = {Tiago Novello and Guilherme Schardong and Luiz Schirmer and Vinícius {da Silva} and Hélio Lopes
+    and Luiz Velho},
+  keywords = {Implicit surfaces, Neural Implicits, Neural Networks, Curvatures},
+}
+
+
+Acknowledgements
+
+
+
+            We would like to thank
+            Towaki Takikawa,
+            Joey Litalien,
+            Kangxue Yin,
+            Karsten Kreis,
+            Charles Loop,
+            Derek Nowrouzezahrai,
+            Alec Jacobson,
+            Morgan McGuire and
+            Sanja Fidler
+            for licensing the code of the paper Neural Geometric Level of Detail:
+                Real-time Rendering with Implicit 3D Surfaces and project page under the MIT License. This website is based on that page.
+            
+
+We also thank the Stanford Computer Graphics Laboratory for the Bunny, Dragon, Armadillo, and Happy Buddha, acquired through the Stanford 3D scan repository.
+            
+
+
+
+
+

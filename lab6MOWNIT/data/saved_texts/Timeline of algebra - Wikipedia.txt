@@ -1,0 +1,894 @@
+
+
+
+
+Timeline of algebra - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+See also
+
+
+
+
+
+
+
+
+2
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Timeline of algebra
+
+
+
+1 language
+
+
+
+
+Français
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Notable events in the history of algebra
+The following is a timeline of key developments of algebra:
+
+
+
+Year
+Event
+
+
+c. 1800 BC
+An Old Babylonian tablet (Strasbourg 363) seeks the solution of a quadratic equation.[1]
+
+
+c. 1800 BC
+The Plimpton 322 tablet gives a table of Pythagorean triples in Babylonian Cuneiform script.[2]
+
+
+1800 BC
+Berlin Papyrus 6619 (19th dynasty) contains a quadratic equation and its solution.[3][4]
+
+
+800 BC
+Baudhayana, author of the Baudhayana Sulba Sutra, a Vedic Sanskrit geometric text, contains quadratic equations, and calculates the square root of 2 correct to five decimal places
+
+
+c. 300 BC
+Euclid's Elements gives a geometric construction with Euclidean tools for the solution of the quadratic equation for positive real roots.[5]
+
+
+c. 300 BC
+A geometric construction for the solution of the cubic is sought (doubling the cube problem).  It is now well known that the general cubic has no such solution using Euclidean tools.
+
+
+150 BC
+Jain mathematicians in India write the “Sthananga Sutra”, which contains work on the theory of numbers, arithmetical operations, geometry, operations with fractions, simple equations, cubic equations, quartic equations, and permutations and combinations.
+
+
+250 BC
+Algebraic equations are treated in the Chinese mathematics book Jiuzhang suanshu (The Nine Chapters on the Mathematical Art), which contains solutions of linear equations solved using the rule of double false position, geometric solutions of quadratic equations, and the solutions of matrices equivalent to the modern method, to solve systems of simultaneous linear equations.[6]
+
+
+1st century AD
+Hero of Alexandria gives the earliest fleeting reference to square roots of negative numbers.
+
+
+c. 150
+Greek mathematician Hero of Alexandria, treats algebraic equations in three volumes of mathematics.
+
+
+c. 200
+Hellenistic mathematician Diophantus, who lived in Alexandria and is often considered to be the "father of algebra", writes his famous Arithmetica, a work featuring solutions of algebraic equations and on the theory of numbers.
+
+
+499
+Indian mathematician Aryabhata, in his treatise Aryabhatiya, obtains whole-number solutions to linear equations, describes the general  solution of the indeterminate linear equation.[citation needed]
+
+
+c. 625
+Chinese mathematician Wang Xiaotong finds numerical solutions to certain cubic equations.[7]
+
+
+c. 7th centuryDates vary from the 3rd to the 12th centuries.[8]
+The Bakhshali Manuscript written in ancient India uses a form of algebraic notation using letters of the alphabet and other signs, and contains cubic and quartic equations, algebraic solutions of linear equations with up to five unknowns, the general algebraic formula for the quadratic equation, and solutions of indeterminate quadratic equations and simultaneous equations.[citation needed]
+
+
+7th century
+Brahmagupta invents the method of solving indeterminate equations of the second degree . He also develops methods for calculations of the motions and places of various planets, their rising and setting, conjunctions, and the calculation of eclipses of the sun and the moon
+
+
+628
+Brahmagupta writes the Brahmasphuta-siddhanta, where zero is clearly explained, and where the modern place-value Indian numeral system is fully developed. It also gives rules for manipulating both negative and positive numbers, methods for computing square roots, methods of solving linear and quadratic equations, and rules for summing series, Brahmagupta's identity, and the Brahmagupta theorem
+
+
+8th century
+Virasena gives explicit rules for the Fibonacci sequence, gives the derivation of the volume of a frustum using an infinite procedure, and also deals with the logarithm to base 2
+
+
+c. 800
+The Abbasid patrons of learning, al-Mansur, Haroun al-Raschid, and al-Mamun, has Greek, Babylonian, and Indian mathematical and scientific works translated into Arabic and begins a cultural, scientific and mathematical awakening after a century devoid of mathematical achievements.[9]
+
+
+820
+The word algebra is derived from operations described in the treatise written by the  Persian mathematician, Muḥammad ibn Mūsā al-Ḵhwārizmī, titled Al-Kitab al-Jabr wa-l-Muqabala (meaning "The Compendious Book on Calculation by Completion and Balancing") on the systematic solution of linear and quadratic equations. Al-Khwarizmi is often considered the "father of algebra", for founding algebra as an independent discipline and for introducing the methods of "reduction" and "balancing" (the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation) which was what he originally used the term al-jabr to refer to.[10] His algebra was also no longer concerned "with a series of problems to be resolved, but an exposition which starts with primitive terms in which the combinations must give all possible prototypes for equations, which henceforward explicitly constitute the true object of study." He also studied an equation for its own sake and "in a generic manner, insofar as it does not simply emerge in the course of solving a problem, but is specifically called on to define an infinite class of problems."[11]
+
+
+c. 990
+Persian mathematician Al-Karaji (also known as al-Karkhi), in his treatise Al-Fakhri, further develops algebra by extending Al-Khwarizmi's methodology to incorporate integral powers and integral roots of unknown quantities. He replaces geometrical operations of algebra with modern arithmetical operations, and defines the monomials x, x2, x3, .. and 1/x, 1/x2, 1/x3, .. and gives rules for the products of any two of these.[12] He also discovers the first numerical solution to equations of the form ax2n + bxn = c.[13] Al-Karaji is also regarded as the first person to free algebra from geometrical operations and replace them with the type of arithmetic operations which are at the core of algebra today. His work on algebra and polynomials, gave the rules for arithmetic operations to manipulate polynomials. The historian of mathematics F. Woepcke, in Extrait du Fakhri, traité d'Algèbre par Abou Bekr Mohammed Ben Alhacan Alkarkhi (Paris, 1853), praised Al-Karaji for being "the first who introduced the theory of algebraic calculus". Stemming from this, Al-Karaji investigated binomial coefficients and Pascal's triangle.[12]
+
+
+895
+Thabit ibn Qurra: the only surviving fragment of his original work contains a chapter on the solution and properties of cubic equations. He also generalized the Pythagorean theorem, and discovered the theorem by which pairs of amicable numbers can be found, (i.e., two numbers such that each is the sum of the proper divisors of the other).
+
+
+953
+Al-Karaji is the “first person to completely free algebra from geometrical operations and to replace them with the arithmetical type of operations which are at the core of algebra today. He [is] first to define the monomials 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, 
+
+
+
+
+x
+
+2
+
+
+
+
+{\displaystyle x^{2}}
+
+, 
+
+
+
+
+x
+
+3
+
+
+
+
+{\displaystyle x^{3}}
+
+, … and 
+
+
+
+1
+
+/
+
+x
+
+
+{\displaystyle 1/x}
+
+, 
+
+
+
+1
+
+/
+
+
+x
+
+2
+
+
+
+
+{\displaystyle 1/x^{2}}
+
+, 
+
+
+
+1
+
+/
+
+
+x
+
+3
+
+
+
+
+{\displaystyle 1/x^{3}}
+
+, … and to give rules for products of any two of these. He start[s] a school of algebra which flourished for several hundreds of years”. He also discovers the binomial theorem for integer exponents, which “was a major factor in the development of numerical analysis based on the decimal system.”
+
+
+c. 1000
+Abū Sahl al-Qūhī (Kuhi) solves equations higher than the second degree.
+
+
+c. 1050
+Chinese mathematician Jia Xian finds numerical solutions of polynomial equations of arbitrary degree.[14]
+
+
+1070
+Omar Khayyám begins to write Treatise on Demonstration of Problems of Algebra and classifies cubic equations.
+
+
+1072
+Persian mathematician Omar Khayyam gives a complete classification of cubic equations with positive roots and gives general geometric solutions to these equations found by means of intersecting conic sections.[15]
+
+
+12th century
+Bhaskara Acharya writes the “Bijaganita” (“Algebra”), which is the first text that recognizes that a positive number has two square roots
+
+
+1130
+Al-Samawal gives a definition of algebra: “[it is concerned] with operating on unknowns using all the arithmetical tools, in the same way as the arithmetician operates on the known.”[16]
+
+
+c. 1200
+Sharaf al-Dīn al-Tūsī (1135–1213) writes the Al-Mu'adalat (Treatise on Equations), which deals with eight types of cubic equations with positive solutions and five types of cubic equations which may not have positive solutions. He uses what would later be known as the "Ruffini-Horner method" to numerically approximate the root of a cubic equation. He also develops the concepts of the maxima and minima of curves in order to solve cubic equations which may not have positive solutions.[17] He understands the importance of the discriminant of the cubic equation and uses an early version of Cardano's formula[18] to find algebraic solutions to certain types of cubic equations. Some scholars, such as Roshdi Rashed, argue that Sharaf al-Din discovered the derivative of cubic polynomials and realized its significance, while other scholars connect his solution to the ideas of Euclid and Archimedes.[19]
+
+
+1202
+Leonardo Fibonacci of Pisa publishes his Liber Abaci, a work on algebra that introduces Arabic numerals to Europe.[20]
+
+
+c. 1300
+Chinese mathematician Zhu Shijie deals with polynomial algebra, solves quadratic equations, simultaneous equations and equations with up to four unknowns, and numerically solves some quartic, quintic and higher-order polynomial equations.[21]
+
+
+c. 1400
+Indian mathematician Madhava of Sangamagrama documents infinite series approximations of trigonometry functions.[22]
+
+
+15th century
+Nilakantha Somayaji, a Kerala school mathematician, writes the “Aryabhatiya Bhasya”, which contains work on infinite-series expansions, problems of algebra, and spherical geometry
+
+
+1412–1482
+Arab mathematician Abū al-Hasan ibn Alī al-Qalasādī takes "the first steps toward the introduction of algebraic symbolism." He uses "short Arabic words, or just their initial letters, as mathematical symbols."[23]
+
+
+1535
+Scipione del Ferro and Niccolò Fontana Tartaglia, in Italy, independently solve the general cubic equation.[24]
+
+
+1545
+Girolamo Cardano publishes Ars magna -The great art which gives del Ferro's solution to the cubic equation[24] and Lodovico Ferrari's solution to the quartic equation.
+
+
+1572
+Rafael Bombelli recognizes the complex roots of the cubic and improves current notation.[25]
+
+
+1591
+Franciscus Vieta develops improved symbolic notation for various powers of an unknown and uses vowels for unknowns and consonants for constants in In artem analyticam isagoge.[citation needed]
+
+
+1608
+Christopher Clavius publishes his Algebra
+
+
+1619
+René Descartes discovers analytic geometry. (Pierre de Fermat claimed that he also discovered it independently.)
+
+
+1631
+Thomas Harriot in a posthumous publication is the first to use symbols < and > to indicate "less than" and "greater than", respectively.[26]
+
+
+1637
+Pierre de Fermat claims to have proven Fermat's Last Theorem in his copy of Diophantus' Arithmetica,
+
+
+1637
+René Descartes introduces the use of the letters z, y, and x for unknown quantities.[27][28]
+
+
+1637
+The term imaginary number is first used by René Descartes; it is meant to be derogatory.
+
+
+1682
+Gottfried Wilhelm Leibniz develops his notion of symbolic manipulation with formal rules which he calls characteristica generalis.[29]
+
+
+1683
+Japanese mathematician Kowa Seki, in his Method of solving the dissimulated problems, discovers the determinant,[30] discriminant,[citation needed] and Bernoulli numbers.[30]
+
+
+1693
+Leibniz solves systems of simultaneous linear equations using matrices and determinants.[citation needed]
+
+
+1722
+Abraham de Moivre states de Moivre's formula connecting trigonometric functions and complex numbers,
+
+
+1750
+Gabriel Cramer, in his treatise Introduction to the analysis of algebraic curves, states Cramer's rule and studies algebraic curves, matrices and determinants.[31]
+
+
+1797
+Caspar Wessel associates vectors with complex numbers and studies complex number operations in geometrical terms,
+
+
+1799
+Carl Friedrich Gauss proves the fundamental theorem of algebra (every polynomial equation has a solution among the complex numbers),
+
+
+1799
+Paolo Ruffini partially proves the Abel–Ruffini theorem that quintic or higher equations cannot be solved by a general formula,
+
+
+1806
+Jean-Robert Argand publishes proof of the Fundamental theorem of algebra and the Argand diagram,
+
+
+1824
+Niels Henrik Abel proves that the general quintic equation is insoluble by radicals.[24]
+
+
+1832
+Galois theory is developed by Évariste Galois in his work on abstract algebra.[24]
+
+
+1843
+William Rowan Hamilton discovers quaternions.
+
+
+1853
+Arthur Cayley provides a modern definition of groups.
+
+
+1847
+George Boole formalizes symbolic logic in  The Mathematical Analysis of Logic, defining what now is called Boolean algebra.
+
+
+1873
+Charles Hermite proves that e is transcendental.
+
+
+1878
+Charles Hermite solves the general quintic equation by means of elliptic and modular functions.
+
+
+1926
+Emmy Noether extends Hilbert's theorem on the finite basis problem to representations of a finite group over any field.
+
+
+1929
+Emmy Noether combines work on structure theory of associative algebras and the representation theory of groups into a single arithmetic theory of modules and ideals in rings satisfying ascending chain conditions, providing the foundation for modern algebra.
+
+
+1981
+Mikhail Gromov develops the theory of hyperbolic groups, revolutionizing both infinite group theory and global differential geometry,
+
+See also[edit]
+ Mathematics portal
+History of algebra – Historical development of algebra
+References[edit]
+
+
+^ Archibald, Raymond Clare (December 1936). "Babylonian Mathematics". Isis. 26 (1). University of Chicago Press: 63–81. doi:10.1086/347127. JSTOR 225054. See also "StrKT 07 (P414660)". Cuneiform Digital Library Initiative., Mathematical tablet excavated in Uruk (mod. Warka), dated to the Old Babylonian (ca. 1900-1600 BC) period and now kept in Bibliothèque Nationale et Universitaire de Strasbourg, Strasbourg, France, museum number BNUS 363.
+
+^ Anglin, W.S (1994). Mathematics: A Concise History and Philosophy. Springer. p. 8. ISBN 978-0-387-94280-3.
+
+^ Smith, David Eugene Smith (1958). History of Mathematics. Courier Dover Publications. p. 443. ISBN 978-0-486-20430-7.
+
+^ "Egyptian Mathematics Papyri". Mathematicians and Scientists of the African Diaspora. The State University of New York at Buffalo.
+
+^ Euclid (January 1956). Euclid's Elements. Courier Dover Publications. p. 258. ISBN 978-0-486-60089-5.
+
+^ Crossley, John; W.-C. Lun, Anthony (1999). The Nine Chapters on the Mathematical Art: Companion and Commentary. Oxford University Press. p. 349. ISBN 978-0-19-853936-0.
+
+^ O'Connor, John J.; Robertson, Edmund F., "Wang Xiaotong", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ Hayashi (2005), p. 371. "The dates so far proposed for the Bakhshali work vary from the third to the twelfth centuries AD, but a recently made comparative study has shown many similarities, particularly in the style of exposition and terminology, between Bakhshalī work and Bhāskara I's commentary on the Āryabhatīya. This seems to indicate that both works belong to nearly the same period, although this does not deny the possibility that some of the rules and examples in the Bakhshālī work date from anterior periods."
+
+^ Boyer (1991), "The Arabic Hegemony" p. 227. "The first century of the Muslim empire had been devoid of scientific achievement. This period (from about 650 to 750) had been, in fact, perhaps the nadir in the development of mathematics, for the Arabs had not yet achieved intellectual drive, and concern for learning in other parts of the world had faded. Had it not been for the sudden cultural awakening in Islam during the second half of the eighth century, considerably more of ancient science and mathematics would have been lost. To Baghdad at that time were called scholars from Syria, Iran, and Mesopotamia, including Jews and Nestorian Christians; under three great Abbasid patrons of learning - al Mansur, Haroun al-Raschid, and al-Mamun - The city became a new Alexandria. It was during the caliphate of al-Mamun (809-833), however, that the Arabs fully indulged their passion for translation. The caliph is said to have had a dream in which Aristotle appeared, and as a consequence al-Mamun determined to have Arabic versions made of all the Greek works that he could lay his hands on, including Ptolemy's Almagest and a complete version of Euclid's Elements. From the Byzantine Empire, with which the Arabs maintained an uneasy peace, Greek manuscripts were obtained through peace treaties. Al-Mamun established at Baghdad a "House of Wisdom" (Bait al-hikma) comparable to the ancient Museum at Alexandria."
+
+^ Boyer (1991), "The Arabic Hegemony" p. 229. "It is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the translation above. The word al-jabr presumably meant something like "restoration" or "completion" and seems to refer to the transposition of subtracted terms to the other side of an equation; the word muqabalah is said to refer to "reduction" or "balancing" - that is, the cancellation of like terms on opposite sides of the equation."
+
+^ Rashed, R.; Armstrong, Angela (1994). The Development of Arabic Mathematics. Springer. pp. 11–2. ISBN 0-7923-2565-6. OCLC 29181926.
+
+^ a b O'Connor, John J.; Robertson, Edmund F., "Abu Bekr ibn Muhammad ibn al-Husayn Al-Karaji", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ Boyer (1991), "The Arabic Hegemony" p. 239. "Abu'l Wefa was a capable algebraist aws well as a trionometer. [..] His successor al-Karkhi evidently used this translation to become an Arabic disciple of Diophantus - but without Diophantine analysis! [..] In particular, to al-Karaji is attributed the first numerical solution of equations of the form ax2n + bxn = c (only equations with positive roots were considered)."
+
+^ O'Connor, John J.; Robertson, Edmund F., "Jia Xian", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ Boyer (1991), "The Arabic Hegemony" pp. 241–242. "Omar Khayyam (ca. 1050-1123), the "tent-maker," wrote an Algebra that went beyond that of al-Khwarizmi to include equations of third degree. Like his Arab predecessors, Omar Khayyam provided for quadratic equations both arithmetic and geometric solutions; for general cubic equations, he believed (mistakenly, as the sixteenth century later showed), arithmetic solutions were impossible; hence he gave only geometric solutions. The scheme of using intersecting conics to solve cubics had been used earlier by Menaechmus, Archimedes, and Alhazan, but Omar Khayyam took the praiseworthy step of generalizing the method to cover all third-degree equations (having positive roots)."
+
+^ Arabic mathematics, MacTutor History of Mathematics archive, University of St Andrews, Scotland
+
+^ O'Connor, John J.; Robertson, Edmund F., "Sharaf al-Din al-Muzaffar al-Tusi", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ Rashed, Roshdi; Armstrong, Angela (1994). The Development of Arabic Mathematics. Springer. pp. 342–3. ISBN 0-7923-2565-6.
+
+^ Berggren, J. L.; Al-Tūsī, Sharaf Al-Dīn; Rashed, Roshdi; Al-Tusi, Sharaf Al-Din (1990). "Innovation and Tradition in Sharaf al-Din al-Tusi's Muadalat". Journal of the American Oriental Society. 110 (2): 304–9. doi:10.2307/604533. JSTOR 604533. Rashed has argued that Sharaf al-Din discovered the derivative of cubic polynomials and realized its significance for investigating conditions under which cubic equations were solvable; however, other scholars have suggested quite difference explanations of Sharaf al-Din's thinking, which connect it with mathematics found in Euclid or Archimedes.
+
+^ Ball, W. W. Rouse (1960). A Short Account of the History of Mathematics. Courier Dover Publications. p. 167. ISBN 978-0-486-15784-9.
+
+^ Grattan-Guinness, Ivor (1997). The Norton History of the Mathematical Sciences. W.W. Norton. p. 108. ISBN 978-0-393-04650-2.
+
+^ Katz, Victor J. "Ideas of Calculus in Islam and India". Mathematics Magazine.
+
+^ O'Connor, John J.; Robertson, Edmund F., "Abu'l Hasan ibn Ali al Qalasadi", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ a b c d Stewart, Ian (2004). Galois Theory (Third ed.). Chapman & Hall/CRC Mathematics. ISBN 9781584883937.
+
+^ Cooke, Roger (16 May 2008). Classical Algebra: Its Nature, Origins, and Uses. John Wiley & Sons. p. 70. ISBN 978-0-470-27797-3.
+
+^ Boyer (1991), "Prelude to Modern Mathematics" p. 306. "Harriot knew of relationships between roots and coefficients and between roots and factors, but like Viète he was hampered by failure to take note of negative and imaginary roots. In notation, however, he advanced the use of symbolism, being responsible for the signs > and < for 'greater than' and 'less than.'"
+
+^ Cajori, Florian (1919). "How x Came to Stand for Unknown Quantity". School Science and Mathematics. 19 (8): 698–699. doi:10.1111/j.1949-8594.1919.tb07713.x.
+
+^ Cajori, Florian (1928). A History of Mathematical Notations. Vol. 1. Chicago: Open Court Publishing. p. 381. ISBN 9780486677668.
+
+^ Struik, D. J. A Source Book in Mathematics, 1200-1800. Harvard University Press. p. 123. ISBN 978-0-674-82355-6.
+
+^ a b O'Connor, John J.; Robertson, Edmund F., "Takakazu Shinsuke Seki", MacTutor History of Mathematics Archive, University of St Andrews
+
+^ O'Connor, John J.; Robertson, Edmund F., "Gabriel Cramer", MacTutor History of Mathematics Archive, University of St Andrews
+
+
+Boyer, Carl B. (1991). A History of Mathematics (Second ed.). John Wiley & Sons, Inc. ISBN 0-471-54397-7.
+Hayashi, Takao (2005). "Indian Mathematics". In Flood, Gavin (ed.). The Blackwell Companion to Hinduism. Oxford: Basil Blackwell. pp. 360–375. ISBN 978-1-4051-3251-0.
+vteHistory of mathematics (timeline)By topic
+Algebra
+timeline
+Algorithms
+timeline
+Arithmetic
+timeline
+Calculus
+timeline
+Grandi's series
+Category theory
+timeline
+Topos theory
+Combinatorics
+Functions
+Logarithms
+Geometry
+Trigonometry
+timeline
+Group theory
+Information theory
+timeline
+Logic
+timeline
+Math notation
+Number theory
+timeline
+Statistics
+timeline
+Probability
+Topology
+Manifolds
+timeline
+Separation axioms
+Numeral systems
+Prehistoric
+Ancient
+Hindu-Arabic
+By ancient cultures
+Mesopotamia
+Ancient Egypt
+Ancient Greece
+China
+India
+Medieval Islamic world
+Controversies
+Brouwer–Hilbert
+Over Cantor's theory
+Leibniz–Newton
+Hobbes–Wallis
+Other
+Women in mathematics
+timeline
+Approximations of π
+timeline
+Future of mathematics
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Timeline_of_algebra&oldid=1228254853"
+Categories: History of algebraMathematics timelinesHidden categories: Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from April 2007Articles with unsourced statements from July 2008
+
+
+
+
+
+
+ This page was last edited on 10 June 2024, at 07:25 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

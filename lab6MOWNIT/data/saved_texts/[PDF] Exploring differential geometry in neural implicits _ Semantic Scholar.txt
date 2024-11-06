@@ -1,0 +1,99 @@
+
+
+
+
+[PDF] Exploring differential geometry in neural implicits | Semantic Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to search formSkip to main contentSkip to account menuSemantic ScholarSemantic Scholar's LogoSearch 218,958,887 papers from all fields of scienceSearchSign InCreate Free AccountDOI:10.1016/j.cag.2022.09.003Corpus ID: 251718698Exploring differential geometry in neural implicits@article{Novello2022ExploringDG,
+  title={Exploring differential geometry in neural implicits},
+  author={Tiago Novello and Guilherme Gonçalves Schardong and Luiz Schirmer and Vin{\'i}cius da Silva and H{\'e}lio Lopes and Luiz Velho},
+  journal={Comput. Graph.},
+  year={2022},
+  volume={108},
+  pages={49-60},
+  url={https://api.semanticscholar.org/CorpusID:251718698}
+}Tiago Novello, Guilherme Gonçalves Schardong, +3 authors L. VelhoPublished in Computers & graphics 23 January 2022Computer Science, Mathematics[PDF] Semantic ReaderSave to LibrarySaveCreate AlertAlertCiteShare19 CitationsHighly Influential Citations3Background Citations9 Methods Citations8View AllFigures and Tables from this paperfigure 1table 1figure 2table 2figure 3figure 4figure 5figure 6figure 7figure 8figure 9figure 10figure 11View All 13 Figures & TablesTopicsAI-GeneratedGeometric Details (opens in a new tab)Point-sampled Surfaces (opens in a new tab)Neural Implicit (opens in a new tab)Neural Implicit Function (opens in a new tab)Higher Order Derivatives (opens in a new tab)Level Sets (opens in a new tab)Signed Distance Function (opens in a new tab)Analytical Derivatives (opens in a new tab)Differential Geometry (opens in a new tab)Principal Directions Of Curvature (opens in a new tab)Ask This PaperBETAAI-PoweredOur system tries to constrain to information found in this paper. Results quality may vary. Learn more about how we generate these answers.Feedback? Contact Us19 CitationsCitation TypeHas PDFAuthorMore FiltersMore FiltersFiltersSort by RelevanceSort by Most Influenced PapersSort by Citation CountSort by RecencyNeural Implicit Surface EvolutionTiago NovelloV. SilvaGuilherme Gonçalves SchardongL. SchirmerH. LopesL. VelhoComputer ScienceIEEE International Conference on Computer Vision2023This work investigates the use of smooth neural networks for modeling dynamic variations of implicit surfaces under the level set equation (LSE). For this, it extends the representation of neural… Expand5Highly Influenced[PDF]5 ExcerptsSaveEnhancing Surface Neural Implicits with Curvature-Guided Sampling and Uncertainty-Augmented RepresentationsLu SangAbhishek SarohaMaolin GaoD. CremersComputer Science2023TLDRThis paper introduces a sampling method with an uncertainty-augmented surface implicit representation that employs a sampling technique that considers the geometric characteristics of inputs and offers insights into the occupancy and reliability of the output signed distance value, thereby expanding representation capabilities into open surfaces.ExpandHighly Influenced[PDF]6 ExcerptsSaveReSDF: Redistancing Implicit Surfaces using Neural NetworksYesom ParkChanghoon SongJ. HahnMyung-joo KangComputer ScienceJournal of Computational Physics2024TLDRA deep-learning-based method for recovering a signed distance function (SDF) of a given hypersurface represented by an implicit level set function using an augmented network by defining an auxiliary output to represent the gradient of the SDF is proposed.Expand1[PDF]1 ExcerptSaveNeural Implicit Shape Editing using Boundary SensitivityArturs BerzinsMoritz IbingL. KobbeltComputer ScienceInternational Conference on Learning…2023Neural fields are receiving increased attention as a geometric representation due to their ability to compactly store detailed and smooth shapes and easily undergo topological changes. Compared to… Expand3[PDF]2 ExcerptsSaveDUDF: Differentiable Unsigned Distance Fields with Hyperbolic ScalingMiguel FainsteinViviana SilessEmmanuel IarussiComputer Science, MathematicsarXiv.org2024TLDRThis paper proposes to learn a hyperbolic scaling of the unsigned distance field, which defines a new Eikonal problem with distinct boundary conditions, which allows the formulation to integrate seamlessly with state-of-the-art continuously differentiable implicit neural representation networks.Expand1[PDF]2 ExcerptsSaveNeural Implicit Mapping via Nested NeighborhoodsV. SilvaTiago NovelloGuilherme Gonçalves SchardongL. SchirmerH. LopesL. VelhoComputer Science2022TLDRA novel approach for rendering static and dynamic 3D neural signed distance functions (SDF) in real-time using nested neighborhoods of zero-level sets of neural SDFs, and mappings between them.Expand3Highly Influenced[PDF]4 ExcerptsSaveGeometry-Informed Neural NetworksArturs BerzinsAndreas RadlerSebastian SanokowskiSepp HochreiterJohannes BrandstetterComputer Science, MathematicsarXiv.org2024TLDRThis work introduces geometry-informed neural networks (GINNs) to train shape generative models in a data-free setting, and demonstrates the feasibility of training shape generative models in a data-free setting.Expand[PDF]1 ExcerptSaveImplicit Neural Representation of Tileable Material TexturesHallison PazTiago NovelloLuiz VelhoComputer Science, Materials SciencearXiv.org2024TLDRThe proposed neural implicit representation is compact and enables efficient reconstruction of high-resolution textures with high visual fidelity and sharpness across multiple levels of detail.Expand[PDF]SaveMARF: The Medial Atom Ray Field Object RepresentationPeder Bergebakken SundtT. TheoharisComputer ScienceComputers & graphics20232Highly Influenced[PDF]4 ExcerptsSaveNeural Implicit Morphing of Face ImagesGuilherme Gonçalves SchardongTiago Novello+4 authors Nuno GonccalvesComputer SciencearXiv.org2023TLDRThe results of the experiments indicate that the proposed neural warping method is competitive with both classical and generative models under the lens of image quality and face-morphing detectors and presents a seamless blending of diverse faces not yet usual in the literature.Expand2Highly Influenced[PDF]1 ExcerptSave...12...45 ReferencesCitation TypeHas PDFAuthorMore FiltersMore FiltersFiltersSort by RelevanceSort by Most Influenced PapersSort by Citation CountSort by RecencyNeural Implicit Surfaces in Higher DimensionTiago NovelloV. SilvaH. LopesGuilherme Gonçalves SchardongL. SchirmerL. VelhoComputer Science, MathematicsarXiv.org2022TLDRThis work extends the representation of diﬀerentiable neural implicit surfaces to higher dimensions, which opens up mechanisms that allow to exploit geometric transformations in many settings, from animation and surface evolution to shape morphing and design galleries.Expand5SaveImplicit Geometric Regularization for Learning ShapesAmos GroppLior YarivNiv HaimMatan AtzmonY. LipmanComputer Science, MathematicsInternational Conference on Machine Learning2020TLDRIt is observed that a rather simple loss function, encouraging the neural network to vanish on the input point cloud and to have a unit norm gradient, possesses an implicit geometric regularization property that favors smooth and natural zero level set surfaces, avoiding bad zero-loss solutions.Expand651[PDF]3 ExcerptsSaveImplicit Surface Representations As Layers in Neural NetworksMateusz MichalkiewiczJ. K. PontesDominic JackMahsa BaktashAnders P. ErikssonComputer ScienceIEEE International Conference on Computer Vision2019TLDRThis work proposes a novel formulation that permits the use of implicit representations of curves and surfaces, of arbitrary topology, as individual layers in Neural Network architectures with end-to-end trainability, and proposes to represent the output as an oriented level set of a continuous and discretised embedding function.Expand236PDF1 ExcerptSaveMIP-plicits: Level of Detail Factorization of Neural Implicits Sphere TracingV. SilvaTiago NovelloGuilherme Gonçalves SchardongL. SchirmerH. LopesL. VelhoComputer SciencearXiv.org2022We introduce MIP-plicits, a novel approach for rendering 3D and 4D Neural Implicits that divide the problem into macro and meso components. We rely on the iterative nature of the sphere tracing… Expand42 ExcerptsSaveGeometry Processing with Neural FieldsGuandao YangSerge J. BelongieBharath HariharanV. KoltunComputer Science, MathematicsNeural Information Processing Systems2021TLDRThis paper proposes the use of neural fields for geometry processing, and introduces loss functions and architectures to show that some of the most challenging geometry processing tasks, such as deformation and filtering, can be done with neural fields.Expand68PDF1 ExcerptSaveDiscrete Differential-Geometry Operators for Triangulated 2-ManifoldsMark MeyerM. DesbrunP. SchröderA. BarrMathematics, Computer ScienceInternational Workshop on Visualization and…2002TLDRA unified and consistent set of flexible tools to approximate important geometric attributes, including normal vectors and curvatures on arbitrary triangle meshes, using averaging Voronoi cells and the mixed Finite-Element/Finite-Volume method is proposed.Expand2,089Highly InfluentialPDF4 ExcerptsSaveImplicit Neural Representations with Periodic Activation FunctionsV. SitzmannJulien N. P. MartelAlexander W. BergmanDavid B. LindellGordon WetzsteinComputer ScienceNeural Information Processing Systems2020TLDRThis work proposes to leverage periodic activation functions for implicit neural representations and demonstrates that these networks, dubbed sinusoidal representation networks or Sirens, are ideally suited for representing complex natural signals and their derivatives.Expand1,810Highly Influential[PDF]8 ExcerptsSaveCvxNet: Learnable Convex DecompositionBoyang DengKyle GenovaS. YazdaniSofien BouazizGeoffrey E. HintonA. TagliasacchiComputer Science, MathematicsComputer Vision and Pattern Recognition2020TLDRThis work introduces a network architecture to represent a low dimensional family of convexes, automatically derived via an auto-encoding process, and investigates the applications including automatic convex decomposition, image to 3D reconstruction, and part-based shape retrieval.Expand228PDF1 ExcerptSaveDeepSDF: Learning Continuous Signed Distance Functions for Shape RepresentationJeong Joon ParkPeter R. FlorenceJulian StraubRichard A. NewcombeS. LovegroveComputer Science, EngineeringComputer Vision and Pattern Recognition2019TLDRThis work introduces DeepSDF, a learned continuous Signed Distance Function (SDF) representation of a class of shapes that enables high quality shape representation, interpolation and completion from partial and noisy 3D input data.Expand2,855[PDF]1 ExcerptSaveDeep Structured Implicit FunctionsKyle GenovaForrester ColeAvneesh SudAaron SarnaT. FunkhouserComputer SciencearXiv.org2019TLDRDeep Structured Implicit Functions (DSIF), a 3D shape representation that decomposes space into a structured set of local deep implicit functions that provides 10.3 points higher surface reconstruction accuracy than the state-of-the-art (OccNet), while requiring fewer than 1 percent of the network parameters.Expand44[PDF]2 ExcerptsSave...12345...Related PapersShowing 1 through 3 of 0 Related PapersFigures and TablesTopicsAsk This Paper19 Citations45 ReferencesRelated PapersStay Connected With Semantic ScholarSign UpWhat Is Semantic Scholar?Semantic Scholar is a free, AI-powered research tool for scientific literature, based at the Allen Institute for AI.Learn MoreAboutAbout UsMeet the TeamPublishersBlog (opens in a new tab)AI2 Careers (opens in a new tab)ProductProduct OverviewSemantic ReaderScholar's HubBeta ProgramRelease NotesAPIAPI OverviewAPI TutorialsAPI Documentation (opens in a new tab)API GalleryResearchPublicationsResearchersResearch CareersPrototypesResourcesHelpFAQLibrariansTutorialsContactProudly built by AI2 (opens in a new tab)Collaborators & Attributions •Terms of Service (opens in a new tab)•Privacy Policy (opens in a new tab)•API License AgreementThe Allen Institute for AI (opens in a new tab)By clicking accept or continuing to use the site, you agree to the terms outlined in our Privacy Policy (opens in a new tab), Terms of Service (opens in a new tab), and Dataset License (opens in a new tab)ACCEPT & CONTINUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

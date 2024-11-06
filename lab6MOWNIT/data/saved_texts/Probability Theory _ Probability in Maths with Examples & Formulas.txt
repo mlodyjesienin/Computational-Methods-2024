@@ -1,0 +1,1055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Probability Theory | Probability in Maths with Examples & Formulas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+TutorialsPython TutorialTaking Input in PythonPython OperatorsPython Data TypesPython NumbersPython StringPython ListsPython TuplesSets in PythonPython DictionaryPython Loops and Control FlowPython Conditional StatementsPython LoopsPython FunctionsPython OOPS ConceptPython Data StructuresPython DSALinked ListStackQueueTreeHeapHashingGraphSetsMapAdvance Data StructureSorting AlgorithmsSearching AlgorithmsPython Exception HandlingPython File HandlingPython ExercisesPython List ExercisePython String ExercisePython Tuple ExercisePython Dictionary ExercisePython Set ExercisePython Design PatternsPython Programming ExamplesPython Practice QuestionsJavaJava Programming LanguageJava TutorialData TypesVariablesOperatorsFlow Control in JavaLoops in JavaMethodsStringsArraysOOPs ConceptsOOPs ConceptsClasses and ObjectsAccess ModifiersInheritanceAbstractionEncapsulationPolymorphismInterfacePackagesMultithreadingFile HandlingRegular ExpressionJava CollectionsJava CollectionsCollection ClassList InterfaceArrayListLinkedList ClassQueue InterfaceSet InterfaceHashSet ClassMap InterfaceHashMap ClassHashTable ClassIteratorComparatorCollection Interview QuestionsJava 8 TutorialJava ProgramsJava Programming ExamplesJava Array ProgramsJava String ProgramsJava Date-Time ProgramsJava File Handling ProgramsJava Collection ProgramsJava JDBC ProgramsJava Apache POI ProgramsJava OpenCV ProgramsJava Interview QuestionsJava Interview QuestionsCore Java Interview Questions-FreshersJava Multithreading Interview QuestionsOOPs Interview Questions and AnswersJava ExercisesJava QuizJava QuizCore Java MCQJava ProjectsAdvance JavaSpring TutorialSpring Boot TutorialSpring Boot Interview QuestionsSpring MVC TutorialSpring MVC Interview QuestionsHibernate TutorialHibernate Interview QuestionsProgramming LanguagesCC++JavaScriptPHPR TutorialC#SQLScalaPerlGo LanguageKotlinSystem DesignSystem Design TutorialWhat is System DesignKey Terminologies in System DesignAnalysis and Architecture of SystemsScalability in System DesignDatabases in System DesignHigh Level Design or HLDLow Level Design or LLDCase Studies in Designing SystemsComplete System Design TutorialSoftware Design PatternsSystem Design RoadmapTop 10 System Design Interview Questions and AnswersInterview CornerCompany PreparationTop TopicsPractice Company QuestionsInterview ExperiencesExperienced InterviewsInternship InterviewsCompetitive ProgrammingMultiple Choice QuizzesAptitude for PlacementsComputer Science SubjectsOperating SystemDBMSComputer NetworksEngineering MathematicsComputer Organization and ArchitectureTheory of ComputationCompiler DesignDigital LogicSoftware EngineeringDevOpsGITAWSDockerKubernetesMicrosoft Azure TutorialGoogle Cloud PlatformLinuxLinux TutorialLinux Commands A-ZLinux Commands CheatsheetFile Permission CommandsLinux System AdministrationLinux File SystemLinux Shell ScriptingLinux NetworkingLinux Interview QuestionsSoftware TestingSoftware Testing TutorialSoftware Engineering TutorialTesting Interview QuestionsJiraDatabasesDBMS TutorialSQL TutorialPostgreSQL TutorialMongoDB TutorialSQL Interview QuestionsMySQL Interview QuestionsPL/SQL Interview QuestionsAndroidAndroid TutorialAndroid Studio TutorialKotlin For AndroidAndroid ProjectsAndroid Interview Questions6 Weeks of Android App DevelopmentExcelMS Excel TutorialIntroduction to MS ExcelData Analysis in ExcelBasic Excel Formulas & FunctionsData Analysis in Advanced ExcelWorkbooksStatistical FunctionsData Visualization in ExcelPivot Tables in ExcelExcel Spreadsheets in PythonBasic Excel ShortcutsMathematicsNumber SystemAlgebraLinear AlgebraTrigonometrySet TheoryStatisticsProbabilityGeometryMensurationLogarithmsCalculusCommerceBusiness StudiesAccountancyMicroeconomicsStatistics for EconomicsMacroeconomicsHuman Resource Management (HRM)ManagementFinanceCommerce Complete GuideAptitudeAptitude Question and AnswersQuantitative AptitudeLogical ReasoningVerbal AbilityDSAData StructuresArraysMatrixStringsLinked ListSingly Linked ListDoubly Linked ListCircular Linked ListDoubly Circular Linked ListLinked List TutorialStackQueueTreeGeneric TreeBinary TreeBinary Search TreeAVL TreeB TreeB+ TreeRed Black TreeTree Data Structure TutorialHeapHashingGraphSet Data StructureMap Data StructureAdvanced Data StructureData Structures TutorialAlgorithmsAnalysis of AlgorithmsDesign and Analysis of AlgorithmsAsymptotic AnalysisAsymptotic NotationsWorst, Average and Best CasesSearching AlgorithmsLinear SearchBinary SearchSearching Algorithms TutorialSorting AlgorithmsSelection SortBubble SortInsertion SortMerge SortQuick SortHeap SortCounting SortRadix SortBucket SortSorting Algorithms TutorialGreedy AlgorithmsDynamic ProgrammingGraph AlgorithmsPattern SearchingRecursionBacktrackingDivide and ConquerMathematical AlgorithmsGeometric AlgorithmsBitwise AlgorithmsRandomized AlgorithmsBranch and BoundAlgorithms TutorialDSA TutorialPracticeAll DSA ProblemsProblem of the DayCompany Wise Coding PracticeAmazonMicrosoftFlipkartExplore AllGfG SDE SheetPractice Problems Difficulty WiseSchoolBasicEasyMediumHardLanguage Wise Coding PracticeCPPJavaPythonCurated DSA ListsBeginner's DSA SheetTop 50 Array ProblemsTop 50 String ProblemsTop 50 DP ProblemsTop 50 Graph ProblemsTop 50 Tree ProblemsCompetitive ProgrammingCompany Wise SDE SheetsFacebook SDE SheetAmazon SDE SheetApple SDE SheetNetflix SDE SheetGoogle SDE SheetDSA Cheat SheetsSDE SheetDSA Sheet for BeginnersFAANG Coding SheetProduct-Based Coding SheetCompany-Wise Preparation SheetTop Interview QuestionsTop 100 DSA Interview Questions Topic-wisePuzzlesAll PuzzlesTop 100 Puzzles Asked In InterviewsTop 20 Puzzles Commonly Asked During SDE InterviewsData SciencePython TutorialR TutorialMachine LearningData Science using PythonData Science using RData Science PackagesPandas TutorialNumPy TutorialData VisualizationPython Data Visualization TutorialData Visualization with RData AnalysisData Analysis with PythonData Analysis with RDeep LearningNLP TutorialWeb TechHTML TutorialCSS TutorialJavaScript TutorialPHP TutorialReactJS TutorialNodeJS TutorialAngularJS TutorialBootstrap TutorialTypescriptWeb Development Using PythonDjangoDjango TutorialDjango ProjectsDjango Interview QuestionsFlaskFlask TutorialFlask ProjectsFlask Interview QuestionsPostmanGithubWordpress TutorialWeb DesignCheat SheetsHTML Cheat SheetCSS Cheat SheetJavaScript Cheat SheetReact Cheat SheetAngular Cheat SheetjQuery Cheat SheetBootstrap Cheat SheetJavaScript ProjectsLearn Complete Web DevelopmentCoursesCoding for EveryoneDSA to DevelopmentMachine Learning & Data ScienceGenerative AI & ChatGPTBecome AWS CertifiedDSA CoursesData Structure & Algorithm(C++/JAVA)Data Structure & Algorithm(Python)Data Structure & Algorithm(JavaScript)Programming LanguagesCPPJavaPythonJavaScriptC
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+School GuideCBSEClass 10 SyllabusMaths Notes Class 10Science Notes Class 10History Notes Class 10Geography Notes Class 10Political Science Notes Class 10NCERT Soln. Class 10 MathsRD Sharma Soln. Class 10Math Formulas Class 10 
+
+
+
+
+▲
+
+
+
+
+
+
+
+
+
+
+
+
+Open In App
+
+
+
+
+
+
+
+
+
+
+CBSE Class 10 Maths Notes PDF: Chapter Wise Notes 2024Chapter 1: Real NumbersReal NumbersEuclid's Division LemmaFundamental Theorem of ArithmeticHCF and LCM: Definition, Formula, Full Form, ExamplesIrrational Numbers: Definition, Examples, Symbol, PropertiesDecimal Expansions of Rational NumbersRational Numbers: Definition, Examples, WorksheetChapter 2: PolynomialsAlgebraic Expressions in Math: Definition, Example and EquationPolynomial FormulaTypes of Polynomials (Based on Terms and Degrees)Zeros of PolynomialGeometrical meaning of the Zeroes of a PolynomialFactorization of PolynomialDivision Algorithm for PolynomialsAlgebraic IdentitiesRelationship between Zeroes and Coefficients of a PolynomialDivision Algorithm Problems and SolutionsChapter 3: Pair of Linear equations in two variablesLinear Equation in Two VariablesPair of Linear Equations in Two VariablesGraphical Methods of Solving Pair of Linear Equations in Two VariablesSolve the Linear Equation using Substitution MethodSolving Linear Equations Using the Elimination MethodChapter 4: Quadratic EquationsQuadratic Equations: Formula, Method and ExamplesRoots of Quadratic EquationSolving Quadratic EquationsHow to find the Discriminant of a Quadratic Equation?Chapter 5: Arithmetic ProgressionsArithmetic Progressions Class 10: NCERT NotesSequences and SeriesArithmetic ProgressionArithmetic Progression - Common difference and Nth term | Class 10 MathsHow to find the nth term of an Arithmetic Sequence?Arithmetic Progression – Sum of First n Terms | Class 10 MathsArithmetic MeanArithmetic Progression – Sum of First n Terms | Class 10 MathsChapter 6: TrianglesTriangles in GeometrySimilar TrianglesCriteria for Similarity of TrianglesBasic Proportionality Theorem (BPT) Class 10 | Proof and ExamplesPythagoras Theorem | Formula, Proof and ExamplesChapter 7: Coordinate GeometryCoordinate GeometryDistance formula - Coordinate Geometry | Class 10 MathsDistance Between Two PointsSection FormulaHow to find the ratio in which a point divides a line?How to find the Trisection Points of a line?How to find the Centroid of a Triangle?Area of a Triangle in Coordinate GeometryChapter 8: Introduction to TrigonometryTrigonometric RatiosUnit Circle: Definition, Formula, Diagram and Solved ExamplesTrigonometric Ratios of Some Specific AnglesTrigonometric IdentitiesChapter 9: Some Applications of TrigonometryHeight and Distance | Applications of TrigonometryChapter 10: CirclesTangent to a CircleTheorem - The tangent at any point of a circle is perpendicular to the radius through the point of contact - Circles | Class 10 MathsTheorem - The lengths of tangents drawn from an external point to a circle are equal - Circles | Class 10 MathsNumber of Tangents from a Point on a CircleChapter 11: ConstructionsDivision of Line Segment in Given Ratio - Constructions | Class 10 MathsConstruction of Similar TrianglesConstructions of Tangents to a CircleChapter 12: Areas related to circlesArea of a Circle: Formula, Derivation, ExamplesCircumference of Circle - Definition, Perimeter Formula, and ExamplesSector of a CircleArc Length FormulaChapter 13: Surface Areas and VolumeSurface Area of CuboidVolume of Cuboid | Formula and ExamplesSurface Area of CubeVolume of a CubeSurface Area of Cylinder | Curved and Total Surface Area of CylinderVolume of a Cylinder: Formula, Definition and ExamplesSurface Area of ConeVolume of Cone: Formula, Derivation and ExamplesSurface Area of Sphere: Formula, Derivation and Solved ExamplesVolume of a SphereSurface Area of a HemisphereVolume of HemisphereVolume of Combination of SolidsFrustum of ConeConversion of solids - Surface Areas and VolumesSurface Areas and VolumesChapter 14: StatisticsHow to find Mean of grouped data by direct method?Shortcut Method for Arithmetic MeanHow to calculate the mean using Step deviation method?Graphical determination of MedianOgive (Cumulative Frequency Curve) and its TypesChapter 15: ProbabilityTypes of Events in ProbabilityDependent and Independent EventsExperimental ProbabilityProbability TheoryExperimental ProbabilityCBSE Class 10th Maths Formulas: Chapter Wise Formula and PointsNCERT Solutions for Class 10 Maths: Chapter Wise PDFRD Sharma Class 10 Solutions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Probability Theory
+
+
+Last Updated : 
+31 May, 2024
+
+
+
+ 
+
+Improve
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improve
+
+
+ 
+
+
+Like Article
+
+
+
+Like
+
+
+
+
+
+
+
+
+Save
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Report
+
+
+
+
+
+
+
+Probability Theory: Probability is defined as the chance of happening or occurrences of an event. Generally, the possibility of analyzing the occurrence of any event concerning previous data is called probability. For example, if a fair coin is tossed, what is the chance that it lands on the head? These types of questions are answered under probability. 
+Probability measures the likelihood of an event’s occurrence. In situations where the outcome of an event is uncertain, we discuss the probability of specific outcomes to understand their chances of happening. The study of events influenced by probability falls under the domain of statistics.
+
+Table of Content
+
+What is Probability Theory in Maths?
+Real-Life Example of Probability – Flipping a Coin
+Probability Theory Definition
+Theoretical and Experimental Probabilities
+Theoretical Probability
+Experimental Probability
+Probability Theory Examples
+Basics of Probability Theory
+
+Random Experiment
+Sample Space
+Event
+
+Random Variable
+
+Discrete Random Variable
+Continuous Random Variable
+
+Probability Theory Formulas
+Probability Theory in Statistics
+Applications of Probability Theory
+Solved Examples on Probability Theory
+
+
+In this article, we will learn about, Probability theory, its formulas, examples, applications, and others in detail.
+What is Probability Theory in Maths?
+Probability theory uses the concept of random variables and probability distribution to find the outcome of any situation. Probability theory is an advanced branch of mathematics that deals with the odds and statistics of an event.
+Real-Life Example of Probability – Flipping a Coin
+
+Flipping a coin is a classic example used to illustrate basic probability principles because it embodies randomness and has a straightforward set of possible outcomes: heads or tails. Each time you flip a fair coin (one that’s not biased), there are exactly two possible outcomes, each with an equal chance of occurring. Therefore, the probability of landing on heads is 1/2, and similarly, the probability of landing on tails is also 1/2. This scenario exemplifies a simple random experiment where each outcome has an equal likelihood, making it a foundational example for teaching and understanding probability theory.
+
+Probability Theory Definition
+Probability theory studies random events and tells us about their occurrence. The two main approaches for studying probability theory are.
+
+Theoretical Probability
+Experimental Probability
+
+Theoretical and Experimental Probabilities
+The image given below shows the Theoretical and Experimental Probabilities and their differences.
+
+Theoretical Probability
+Theoretical Probability deals with assumptions in order to avoid unfeasible or expensive repetition of experiments. The theoretical Probability for an Event A can be calculated as follows:    
+
+P(A) = (Number of outcomes favourable to Event A) / (Number of all possible outcomes)
+
+The image shown below shows the theoretical probability formula.
+
+Note: Here we assume the outcomes of an event as equally likely.
+Now, as we learn the formula, let’s put this formula in our coin-tossing case. In tossing a coin, there are two outcomes: Head or Tail. Hence, The Probability of occurrence of Head on tossing a coin is
+P(H) = 1/2
+Similarly, The Probability of the occurrence of a Tail on tossing a coin is
+P(T) = 1/2
+The following image shows an unbiased coin that has an equal probability of landing both heads and tails
+
+Experimental Probability
+Experimental probability is found by performing a series of experiments and observing their outcomes. These random experiments are also known as trials. The experimental probability for Event A can be calculated as follows:
+
+P(E) = (Number of times event A happened) / (Total number of trials)
+
+The following image shows the Experimental Probability Formula,
+
+Now, as we learn the formula, let’s put this formula in our coin-tossing case. If we tossed a coin 10 times and recorded heads for 4 times and a tail 6 times then the Probability of Occurrence of Head on tossing a coin:
+P(H) = 4/10
+Similarly, the Probability of Occurrence of Tails on tossing a coin:
+P(T) = 6/10
+Probability Theory Examples
+We can study the concept of probability with the help of the example discussed below,
+Example: Let’s take two random dice and roll them randomly, now the probability of getting a total of 10 is calculated.
+Solution:
+
+Total Possible events that can occur (sample space) {(1,1), (1,2),…, (1,6),…, (6,6)}. The total spaces are 36.
+Now the required events, {(4,6), (5,5), (6,4)} are all which adds up to 10.
+So the probability of getting a total of 10 is = 3/36 = 1/12
+
+Basics of Probability Theory
+Various terms used in probability theory are discussed below,
+Random Experiment
+In probability theory, any event which can be repeated multiple times and its outcome is not hampered by its repetition is called a Random Experiment. Tossing a coin, rolling dice, etc. are random experiments.
+Sample Space
+The set of all possible outcomes for any random experiment is called sample space. For example, throwing dice results in six outcomes, which are 1, 2, 3, 4, 5, and 6. Thus, its sample space is (1, 2, 3, 4, 5, 6)
+Event
+The outcome of any experiment is called an event. Various types of events used in probability theory are,
+
+Independent Events: The events whose outcomes are not affected by the outcomes of other future and/or past events are called independent events. For example, the output of tossing a coin in repetition is not affected by its previous outcome.
+Dependent Events: The events whose outcomes are affected by the outcome of other events are called dependent events. For example, picking oranges from a bag that contains 100 oranges without replacement.
+Mutually Exclusive Events: The events that can not occur simultaneously are called mutually exclusive events. For example, obtaining a head or a tail in tossing a coin, because both (head and tail) can not be obtained together.
+Equally likely Events: The events that have an equal chance or probability of happening are known as equally likely events. For example, observing any face in rolling dice has an equal probability of 1/6.
+
+Random Variable
+A variable that can assume the value of all possible outcomes of an experiment is called a random variable in Probability Theory. Random variables in probability theory are of two types which are discussed below,
+Discrete Random Variable
+Variables that can take countable values such as 0, 1, 2,… are called discrete random variables.
+Continuous Random Variable
+Variables that can take an infinite number of values in a given range are called continuous random variables.
+Probability Theory Formulas
+There are various formulas that are used in probability theory and some of them are discussed below,
+
+Theoretical Probability Formula: (Number of Favourable Outcomes) / (Number of Total Outcomes)
+Empirical Probability Formula: (Number of times event A happened) / (Total number of trials)
+Addition Rule of Probability: P(A ∪ B) = P(A) + P(B) – P(A∩B)
+Complementary Rule of Probability: P(A’) = 1 – P(A)
+Independent Events: P(A∩B) = P(A) ⋅ P(B)
+Conditional Probability: P(A | B) = P(A∩B) / P(B)
+Bayes’ Theorem: P(A | B) = P(B | A) ⋅ P(A) / P(B)
+
+Read in Detail: Bayes Theorem
+Probability Theory in Statistics
+Probability has various number of applications in Statistics. These are mentioned below:
+
+Descriptive Statistics: Probability theory helps in understanding and interpreting data summaries and distributions.
+Inferential Statistics: It forms the basis for making inferences about populations from samples, including hypothesis testing and the construction of confidence intervals.
+Regression Analysis: Probability distributions of errors are used to estimate the relationships between variables.
+Bayesian Statistics: Uses probability to represent uncertainty about the parameters of interest and updates this uncertainty as more data becomes available.
+
+Applications of Probability Theory
+Probability theory is widely used in our life, it is used to find answers to various types of questions, such as will it rain tomorrow? what is the chance of landing on the Moon? what is the chance of the evolution of humans? and others. Some of the important uses of probability theory are,
+
+Probability theory is used to predict the performance of stocks and bonds.
+Probability theory is used in casinos and gambling.
+Probability theory is used in weather forecasting.
+Probability theory is used in Risk mitigation.
+Probability theory is used in consumer industries to mitigate the risk of product failure.
+
+People Also Read:
+
+
+Probability
+Permutations and Combinations
+Binomial Theorem
+
+
+Conclusion – Probability Theory
+Probability theory is a crucial branch of mathematics that analyzes the likelihood of events occurring, utilizing concepts of random variables and probability distributions to ascertain outcomes in various scenarios. It distinguishes between theoretical probability, which is based on assumptions and calculations of favorable outcomes over possible ones, and experimental probability, derived from actual experiment outcomes. 
+For instance, flipping a coin has a theoretical probability of 1/2 for landing on heads or tails, a principle that can extend to more complex situations like rolling dice. Probability theory encompasses key terms such as random experiments, sample space, events (independent, dependent, mutually exclusive, and equally likely), and random variables (discrete and continuous). It employs formulas for calculating probabilities, including the addition rule, complementary rule, and Bayes’ theorem, integral to both descriptive and inferential statistics, regression analysis, and Bayesian statistics. 
+Applications of probability theory span diverse fields, from predicting stock performance and weather forecasting to risk mitigation in consumer industries, underscoring its significance in daily decision-making and scientific inquiry.
+Solved Examples on Probability Theory
+Example 1: Consider a jar with 7 red marbles, 3 green marbles, and 4 blue marbles. What is the probability of randomly selecting a non-blue marble from the jar?
+Solution:
+
+Given,
+Number of Red Marbles = 7, Number of Green Marbles = 3, Number of Blue Marbles = 4
+So, Total number of possible outcomes in this case: 7 + 3 + 4 = 14
+Now, Number of non-blue marbles are: 7 + 3 = 10
+According to the formula of theoretical Probability we can find, P(Non-Blue) = 10/14 = 5/7 
+Hence, theoretical probability of selecting a non-blue marble is 5/7. 
+
+Example 2: Consider Two players, Naveena and Isha, playing a table tennis match. The probability of Naveena winning the match is 0.76. What is the probability of Isha winning the match?
+Solution:
+
+Let N and M represent the events that Naveena wins the match and Ashlesha wins the match, respectively. 
+The probability of Naveena’s winning P(N) = 0.62 (given)
+The probability of Isha’s winning P(I) = ?
+Winning of the match is an mutually exclusive event, since only one of them can win the match. 
+Therefore, 
+P(N) + P(I) =1 
+P(I) = 1 –  P(N) 
+P(I) = 1 –  0.62 = 0.38
+Thus, the Probability of Isha winning the match is 0.38.
+
+Example 3: If someone takes out one card from a 52-card deck, what is the probability of the card being a heart? What is the probability of obtaining a 7-number card? 
+Solution:
+
+Total number of cards in a deck = 52
+Total Number of heart cards in a deck = 13
+So, the probability of obtaining a heart, 
+P(heart) = 13/52 = 1/4
+Total number of 7-number cards in a deck = 4
+So, the probability of obtaining a 7-number card, 
+P(7-number) = 4/52 = 1/13
+
+Example 4: Find the probability of rolling an even number when you roll a die containing the numbers 1-6. Express the probability as a fraction, decimal, ratio, or percent.
+Solution:
+
+Out of 1 to 6 number, even numbers are 2, 4, and 6.
+So, Number of favorable outcomes = 3.
+Total number of outcomes = 6.
+Probability of obtaining an even number P(Even)= 1/2 = 0.5 = 1 : 2 = 50%
+
+Probability Theory – FAQs
+What is the concept of Probability Theory?
+
+The branch of mathematics that deals with the odds of happening an event is called the Probability Theory. It tells us about the odds of occurring an event and also all the possible outcomes of any event.
+
+What are the two types of probabilities in Probability Theory?
+
+The two types of probabilities in probability theory are 
+
+Theoretical Probability
+Experimental probability
+
+
+Who invented probability theory?
+
+The credit for the creation of modern probability theory goes to Intalian mathematics Gerolamo Cardano.
+
+What is a random variable in Probability Theory?
+
+A variable that describes all the possible outcomes of any random experiment is called a random variable. A random variable can either be continuous or discrete.
+
+What are the formulas for Probability Theory?
+
+The main formulas used in probability theory are,
+
+Theoretical probability: (Number of outcomes favourable to Event A) / (Number of all possible outcomes) 
+Experimental Probability: (Number of times event A happened) / (Total number of trials)
+
+
+
+
+
+
+
+
+P
+
+
+
+
+ 
+
+prasadgambhire 
+
+
+
+
+
+ Follow 
+
+
+
+
+ 
+
+
+
+
+
+
+
+Improve
+
+
+
+
+
+
+
+
+Previous Article
+
+
+
+Experimental Probability
+
+
+
+
+Next Article
+
+
+
+
+Experimental Probability
+
+
+
+
+
+
+
+
+
+  Please Login to comment...
+
+
+
+
+
+
+
+
+
+Similar Reads
+
+
+
+Proof: Why Probability of complement of A equals to one minus Probability of A [ P(A') = 1-P(A) ]
+Probability refers to the extent of the occurrence of events. When an event occurs like throwing a ball, picking a card from the deck, etc., then there must be some probability associated with that event. Basic Terminologies: Random Event-If the repetition of an experiment occurs several times under similar conditions, if it does not produce the sa
+
+
+
+4 min read
+
+
+
+
+Conditional Probability and Independence - Probability | Class 12 Maths
+Let B be an event with non-zero probability. The conditional probability of any event A given B is defined as: [Tex]P(A|B) = \frac{P(A \cap B)}{ P(B)} [/Tex] In other words, P(A|B) is the probability measure of event A after observing the occurrence of event B. Two events are called independent if and only if P(A∩B) = P(A)P(B) (or equivalently, P(A
+
+
+
+8 min read
+
+
+
+
+Behavior of Gas Molecules - Kinetic Theory, Boyle's Law, Charles's Law
+The kinetic theory of gases is a simple, historically significant classical model of gas thermodynamic behavior that laid the groundwork for many fundamental thermodynamic notions. A gas is described by the model as a vast number of identical submicroscopic particles (atoms or molecules) moving in a random, continuous motion. Their size is thought
+
+
+
+9 min read
+
+
+
+
+Collision Theory
+Collision Theory says that when particles collide (strike) each other, a chemical reaction occurs. However, this is necessary but may not be a sufficient condition for the chemical reaction. The collision of molecules must be sufficient to produce the desired products following the chemical reaction. The effective collision process, on the other ha
+
+
+
+7 min read
+
+
+
+
+Drawbacks of Dalton's Atomic Theory
+The idea of atoms dates back two millennia, long before John Dalton introduced the concept of atoms in 1803. Kanada, an ancient Indian philosopher, discussed the existence of indivisible particles, which he referred to as "anu." The rule of conservation of matter was introduced by French scientist Lavoisier in 1773. In which he suggested that in a
+
+
+
+6 min read
+
+
+
+
+Molecular Orbital Theory
+The Molecular Orbital Theory is a chemical bonding theory developed at the turn of the twentieth century by F. R. Hund and R. S. Mulliken to explain the structure and properties of various molecules. The valence-bond theory failed to adequately explain how certain molecules, such as resonance-stabilized molecules, contain two or more equivalent bon
+
+
+
+7 min read
+
+
+
+
+Kinetic Molecular Theory of Gases
+The kinetic molecular theory of gases explains a gas's three macroscopic characteristics in terms of the microscopic nature of the gas's atoms and molecules. The size, shape, mass, and volume of solids and liquids are commonly used to characterize their physical properties. Gases, on the other hand, have no definite shape or size, and their mass an
+
+
+
+9 min read
+
+
+
+
+Crystal Field Theory
+A coordination compound consists of a metal atom or ion at the centre, surrounded by a number of oppositely charged ions or neutral molecules. A coordinate connection connects these ions or molecules to the metal atom or ion. When dissolved in water, they do not dissociate into simple ions. Crystal Field Theory H. Bethe and V. Bleck proposed the cr
+
+
+
+7 min read
+
+
+
+
+Valence Bond Theory in Coordination Compounds
+There have been numerous approaches proposed to explain the nature of bonding in coordination molecules. One of them is the Valence Bond (VB) Theory. The Valence Bond Theory was developed to describe chemical bonding using the quantum mechanics method. This theory is largely concerned with the production of individual bonds from the atomic orbitals
+
+
+
+9 min read
+
+
+
+
+Huygen's Wave Theory
+Christiaan Huygens proposed the Huygens principle. In 1678, he changed the way we think about light and its properties. You've probably heard of the rectilinear theory of light, which states that light travels in straight lines. One of the most important ways for examining various optical phenomena is the Huygens principle. The principle is an anal
+
+
+
+8 min read
+
+
+
+View More Articles
+
+
+
+Article Tags : 
+
+
+Maths-Class-10
+
+
+Probability
+
+
+Technical Scripter 2020
+
+
+Class 10
+
+
+Mathematics
+
+
+School Learning
+
+
+Technical Scripter
+ 
++4 More
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Explore More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 201305                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CompanyAbout UsLegalCareersIn MediaContact UsAdvertise with usGFG Corporate SolutionPlacement Training ProgramExploreHack-A-ThonsGfG Weekly ContestDSA in JAVA/C++Master System DesignMaster CPGeeksforGeeks VideosGeeks CommunityLanguagesPythonJavaC++PHPGoLangSQLR LanguageAndroid TutorialTutorials ArchiveDSAData StructuresAlgorithmsDSA for BeginnersBasic DSA ProblemsDSA RoadmapTop 100 DSA Interview ProblemsDSA Roadmap by Sandeep JainAll Cheat SheetsData Science & MLData Science With PythonData Science For BeginnerMachine Learning TutorialML MathsData Visualisation TutorialPandas TutorialNumPy TutorialNLP TutorialDeep Learning TutorialHTML & CSSHTMLCSSWeb TemplatesCSS FrameworksBootstrapTailwind CSSSASSLESSWeb DesignPython TutorialPython Programming ExamplesPython ProjectsPython TkinterWeb ScrapingOpenCV TutorialPython Interview QuestionDjangoComputer ScienceOperating SystemsComputer NetworkDatabase Management SystemSoftware EngineeringDigital Logic DesignEngineering MathsDevOpsGitAWSDockerKubernetesAzureGCPDevOps RoadmapCompetitive ProgrammingTop DS or Algo for CPTop 50 TreeTop 50 GraphTop 50 ArrayTop 50 StringTop 50 DPTop 15 Websites for CPSystem DesignHigh Level DesignLow Level DesignUML DiagramsInterview GuideDesign PatternsOOADSystem Design BootcampInterview QuestionsJavaScriptJavaScript ExamplesTypeScriptReactJSNextJSAngularJSNodeJSLodashWeb BrowserPreparation CornerCompany-Wise Recruitment ProcessResume TemplatesAptitude PreparationPuzzlesCompany-Wise PreparationSchool SubjectsMathematicsPhysicsChemistryBiologySocial ScienceEnglish GrammarWorld GKManagement & FinanceManagementHR ManagementFinanceOrganisational BehaviourMarketingFree Online ToolsTyping TestImage EditorCode FormattersCode ConvertersCurrency ConverterRandom Number GeneratorRandom Password GeneratorMore TutorialsSoftware DevelopmentSoftware TestingProduct ManagementSEO - Search Engine OptimizationLinuxExcelAll CheatsheetsGeeksforGeeks VideosDSAPythonJavaC++Web DevelopmentData ScienceCS Subjects 
+
+
+
+
+
+
+@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved
+
+
+
+
+
+
+
+
+
+
+        We use cookies to ensure you have the best browsing experience on our website. By using our site, you
+        acknowledge that you have read and understood our
+        Cookie Policy &
+        Privacy Policy
+
+
+        Got It !
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improvement
+
+
+
+
+
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+This article is being improved by another user right now. You can suggest the changes for now and it will be under the article's discussion tab.
+You will be notified via email once the article is available for improvement.
+                        Thank you for your valuable feedback!
+                    
+
+Suggest changes
+
+
+
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+
+
+Suggest Changes
+Help us improve. Share your suggestions to enhance the article. Contribute your expertise and make a difference in the GeeksforGeeks portal.
+
+
+
+
+
+
+
+Create Improvement
+Enhance the article with your expertise. Contribute to the GeeksforGeeks community and help create better learning resources for all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suggest Changes
+
+
+
+
+
+
+
+Suggestion[CharLimit:2000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create Improvement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What kind of Experience do you want to share?
+
+
+
+
+
+
+
+
+
+Interview Experiences
+
+
+
+
+
+
+
+Admission Experiences
+
+
+
+
+
+
+
+Career Journeys
+
+
+
+
+
+
+
+Work Experiences
+
+
+
+
+
+
+
+Campus Experiences
+
+
+
+
+
+
+
+Competitive Exam Experiences
+
+
+
+
+
+
+                        Can't choose a topic to write? click here for suggested topics
+                    
+
+
+
+                       Write and publish your own Article
+                    
+
+
+
+
+
+
+
+

@@ -1,0 +1,210 @@
+Probability Theory - Formulas, Examples, Definition, BasicsYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsAlready booked a tutor?Book A FREE ClassYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsFind your Math Personality!Find your Math Personality!LearnPracticeDownload 
+Probability Theory
+Probability theory is a branch of mathematics that investigates the probabilities associated with a random phenomenon. A random phenomenon can have several outcomes. Probability theory describes the chance of occurrence of a particular outcome by using certain formal concepts.
+Probability theory makes use of some fundamentals such as sample space, probability distributions, random variables, etc. to find the likelihood of occurrence of an event. In this article, we will take a look at the definition, basics, formulas, examples, and applications of probability theory.
+
+
+
+1.
+What is Probability Theory?
+
+
+2.
+Probability Theory Basics
+
+
+3.
+Probability Theory Formulas
+
+
+4.
+Applications of Probability Theory
+
+
+5.
+FAQs on Probability Theory
+
+
+
+
+What is Probability Theory?
+
+Probability theory makes the use of random variables and probability distributions to assess uncertain situations mathematically. In probability theory, the concept of probability is used to assign a numerical description to the likelihood of occurrence of an event. Probability can be defined as the number of favorable outcomes divided by the total number of possible outcomes of an event
+
+Probability Theory Definition
+Probability theory is a field of mathematics and statistics that is concerned with finding the probabilities associated with random events. There are two main approaches available to study probability theory. These are theoretical probability and experimental probability. Theoretical probability is determined on the basis of logical reasoning without conducting experiments. In contrast, experimental probability is determined on the basis of historic data by performing repeated experiments.
+Probability Theory Example
+Suppose the probability of obtaining a number 4 on rolling a fair dice needs to be established. The number of favorable outcomes is 1. The possible outcomes of the dice are {1, 2, 3, 4, 5, 6}. This implies that there are a total of 6 outcomes. Thus, the probability of obtaining 4 on a dice roll, using probability theory, can be computed as 1 / 6 = 0.167.
+
+Probability Theory Basics
+
+There are some basic terminologies associated with probability theory that aid in the understanding of this field of mathematics.
+Random Experiment
+A random experiment, in probability theory, can be defined as a trial that is repeated multiple times in order to get a well-defined set of possible outcomes. Tossing a coin is an example of a random experiment.
+Sample Space
+Sample space can be defined as the set of all possible outcomes that result from conducting a random experiment. For example, the sample space of tossing a fair coin is {heads, tails}.
+Event
+Probability theory defines an event as a set of outcomes of an experiment that forms a subset of the sample space. The types of events are given as follows:
+
+Independent events: Events that are not affected by other events are independent events.
+Dependent events: Events that are affected by other events are known as dependent events.
+Mutually exclusive events: Events that cannot take place at the same time are mutually exclusive events.
+Equally likely events: Two or more events that have the same chance of occurring are known as equally likely events.
+Exhaustive events: An exhaustive event is one that is equal to the sample space of an experiment.
+
+Random Variable
+In probability theory, a random variable can be defined as a variable that assumes the value of all possible outcomes of an experiment. There are two types of random variables as given below.
+
+Discrete Random Variable: Discrete random variables can take an exact countable value such as 0, 1, 2... It can be described by the cumulative distribution function and the probability mass function.
+Continuous Random Variable: A variable that can take on an infinite number of values is known as a continuous random variable. The cumulative distribution function and probability density function are used to define the characteristics of this variable.
+
+Probability
+Probability, in probability theory, can be defined as the numerical likelihood of occurrence of an event. The probability of an event taking place will always lie between 0 and 1. This is because the number of desired outcomes can never exceed the total number of outcomes of an event. Theoretical probability and empirical probability are used in probability theory to measure the chance of an event taking place.
+
+Conditional Probability
+When the likelihood of occurrence of an event needs to be determined given that another event has already taken place, it is known as conditional probability. It is denoted as P(A | B). This represents the conditional probability of event A given that event B has already occurred.
+Expectation
+The expectation of a random variable, X, can be defined as the average value of the outcomes of an experiment when it is conducted multiple times. It is denoted as E[X]. It is also known as the mean of the random variable.
+Variance
+Variance is the measure of dispersion that shows how the distribution of a random variable varies with respect to the mean. It can be defined as the average of the squared differences from the mean of the random variable. Variance can be denoted as Var[X].
+Probability Theory Distribution Function
+Probability distribution or cumulative distribution function is a function that models all the possible values of an experiment along with their probabilities using a random variable. Bernoulli distribution, binomial distribution, are some examples of discrete probability distributions in probability theory. Normal distribution is an example of a continuous probability distribution.
+Probability Mass Function
+Probability mass function can be defined as the probability that a discrete random variable will be exactly equal to a specific value.
+Probability Density Function
+Probability density function is the probability that a continuous random variable will take on a set of possible values.
+
+Probability Theory Formulas
+
+There are many formulas in probability theory that help in calculating the various probabilities associated with events. The most important probability theory formulas are listed below.
+
+Theoretical probability: Number of favorable outcomes / Number of possible outcomes.
+Empirical probability: Number of times an event occurs / Total number of trials.
+Addition Rule: P(A ∪ B) = P(A) + P(B) - P(A∩B), where A and B are events.
+Complementary Rule: P(A') = 1 - P(A). P(A') denotes the probability of an event not happening.
+Independent events: P(A∩B) = P(A) ⋅ P(B)
+Conditional probability: P(A | B) = P(A∩B) / P(B)
+Bayes' Theorem: P(A | B) = P(B | A) ⋅ P(A) / P(B)
+Probability mass function: f(x) = P(X = x)
+Probability density function: p(x) = p(x) = \(\frac{\mathrm{d} F(x)}{\mathrm{d} x}\) = F'(x), where F(x) is the cumulative distribution function.
+Expectation of a continuous random variable: \(\int xf(x)dx\), where f(x) is the pdf.
+Expectation of a discrete random variable: \(\sum xp(x)\), where p(x) is the pmf.
+Variance: Var(X) = E[X2] - (E[X])2
+
+
+Applications of Probability Theory
+
+Probability theory is used in every field to assess the risk associated with a particular decision. Some of the important applications of probability theory are listed below:
+
+In the finance industry, probability theory is used to create mathematical models of the stock market to predict future trends. This helps investors to invest in the least risky asset which gives the best returns.
+The consumer industry uses probability theory to reduce the probability of failure in a product's design.
+Casinos use probability theory to design a game of chance so as to make profits.
+
+Related Articles:
+
+Probability Rules
+Probability and Statistics
+Geometric Distribution
+
+Important Notes on Probability Theory
+
+Probability theory is a branch of mathematics that deals with the probabilities of random events.
+The concept of probability in probability theory gives the measure of the likelihood of occurrence of an event.
+The probability value will always lie between 0 and 1.
+In probability theory, all the possible outcomes of a random experiment give the sample space.
+Probability theory uses important concepts such as random variables, and cumulative distribution functions to model a random event and determine various associated probabilities.
+
+ 
+
+
+Examples on Probability Theory
+
+
+
+Example 1: When two dice are rolled what is the probability of getting a sum of 8?
+Solution: When two dice are rolled there are 36 possible outcomes.
+
+To get the sum as 8 there are 5 favorable outcomes.
+[(2, 6), (6, 2), (3, 5), (5, 3), (4, 4)]
+Using probability theory formulas,
+Probability = Number of favorable outcomes / total number of possible outcomes.
+= 5 / 36
+Answer: The probability of getting the sum as 8 when two dice are rolled is 5 / 36.
+
+
+
+
+Example 2: What is the probability of drawing a queen from a deck of cards?
+Solution: A deck of cards has 4 suits. Each suit consists of 13 cards.
+Thus, the total number of possible outcomes = (4)(13) = 52
+There can be 4 queens, one belonging to each suit. Hence, the number of favorable outcomes = 4.
+The card probability = 4 / 52 = 1 / 13
+Answer: The probability of getting a queen from a deck of cards is 1 / 13
+
+
+
+Example 3: Out of 10 people, 3 bought pencils, 5 bought notebooks and 2 got both pencils and notebooks. If a customer bought a notebook what is the probability that she also bought a pencil.
+Solution: Using the concept of conditional probability in probability theory,
+	P(A | B) = P(A∩B) / P(B).
+	Let A be the event of people buying pencils and B be the event people of buying notebooks.
+	P(A) = 3 / 10 = 0.3
+	P(B) = 5 / 10 = 0.5
+	P(A∩B) = 2 / 10 = 0.2
+	Substituting the values in the given formula,
+	P(A | B) = 0.2 / 0.5 = 0.4
+Answer: The probability that a customer bought a pencil given that she bought a notebook is 0.4.
+
+
+
+Show more >
+go to slidego to slidego to slide
+
+
+
+Breakdown tough concepts through simple visuals.
+Math will no longer be a tough subject, especially when you understand the concepts through visualizations.
+Book a Free Trial Class
+
+
+Practice Questions on Probability Theory
+
+
+
+ 
+
+
+ 
+
+
+
+Check Answer >
+ 
+go to slidego to slide
+
+
+
+
+FAQs on Probability Theory
+
+What is the Concept of Probability Theory?
+Probability theory is a branch of mathematics that deals with the likelihood of occurrence of a random event. It encompasses several formal concepts related to probability such as random variables, probability theory distribution, expectation, etc.
+What are the Two Types of Probabilities in Probability Theory?
+The two types of probabilities in probability theory are theoretical probability and experimental probability. Theoretical probability gives the probability of what is expected to happen without conducting any experiments. Experimental probability uses repeated experiments to give the probability of an event taking place.
+What are the Formulas for Probability Theory?
+The main probability theory formulas are as follows:
+
+Independent events: P(A∩B) = P(A) ⋅ P(B)
+Conditional probability: P(A | B) = P(A∩B) / P(B)
+Bayes' Theorem: P(A | B) = P(B | A) ⋅ P(A) / P(B)
+Theoretical probability: Number of favorable outcomes / Number of possible outcomes.
+
+Why is Probability Theory Used in Statistics?
+Probability theory is useful in making predictions that form an important part of research. Further analysis of situations is made using statistical tools. Thus, statistics is dependent on probability theory to draw sound conclusions.
+Can the Value of Probability Be Negative According to Probability Theory?
+According to probability theory, the value of any probability lies between 0 and 1. 0 implies that an event does not happen and 1 denotes that the event takes place. Thus, probability cannot be negative.
+What is a Random Variable in Probability Theory?
+A random variable in probability theory can be defined as a variable that is used to model the probabilities of all possible outcomes of an event. A random variable can be either continuous or discrete.
+What are the Applications of Probability Theory?
+Probability theory has applications in almost all industrial fields. It is used to gauge and analyze the risk associated with an event and helps to make robust decisions.
+
+Explore math programDownload FREE Study MaterialsProbability Theory WorksheetExplore math programMath worksheets and visual curriculumBook A FREE ClassFOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandFOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsTerms and ConditionsPrivacy Policy

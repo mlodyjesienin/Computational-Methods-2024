@@ -1,0 +1,2424 @@
+
+
+
+
+Mathematical modelling of infectious diseases - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Assumptions
+
+
+
+
+
+
+
+
+3
+Types of epidemic models
+
+
+
+
+Toggle Types of epidemic models subsection
+
+
+
+
+
+3.1
+Stochastic
+
+
+
+
+
+
+
+
+3.2
+Deterministic
+
+
+
+
+
+
+
+
+
+
+4
+Sub-exponential growth
+
+
+
+
+Toggle Sub-exponential growth subsection
+
+
+
+
+
+4.1
+Epidemic Models on Networks
+
+
+
+
+
+
+
+
+
+
+5
+Reproduction number
+
+
+
+
+
+
+
+
+6
+Endemic steady state
+
+
+
+
+
+
+
+
+7
+Compartmental models in epidemiology
+
+
+
+
+Toggle Compartmental models in epidemiology subsection
+
+
+
+
+
+7.1
+The SIR model
+
+
+
+
+
+
+
+
+7.2
+Other compartmental models
+
+
+
+
+
+
+
+
+
+
+8
+Infectious disease dynamics
+
+
+
+
+
+
+
+
+9
+Mathematics of mass vaccination
+
+
+
+
+Toggle Mathematics of mass vaccination subsection
+
+
+
+
+
+9.1
+When mass vaccination cannot exceed the herd immunity
+
+
+
+
+
+
+
+
+9.2
+When mass vaccination exceeds the herd immunity
+
+
+
+
+
+
+
+
+
+
+10
+Reliability
+
+
+
+
+
+
+
+
+11
+See also
+
+
+
+
+
+
+
+
+12
+References
+
+
+
+
+
+
+
+
+13
+Further reading
+
+
+
+
+
+
+
+
+14
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Mathematical modelling of infectious diseases
+
+
+
+8 languages
+
+
+
+
+العربيةDeutschEspañolՀայերենItalianoMagyarSuomiУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Using mathematical models to understand infectious disease transmission
+Mathematical models can project how infectious diseases progress to show the likely outcome of an epidemic (including in plants) and help inform public health and plant health interventions. Models use basic assumptions or collected statistics along with mathematics to find parameters for various infectious diseases and use those parameters to calculate the effects of different interventions, like mass vaccination programs. The modelling can help decide which intervention(s) to avoid and which to trial, or can predict future growth patterns, etc.
+
+
+History[edit]
+The modelling of infectious diseases is a tool that has been used to study the mechanisms by which diseases spread, to predict the future course of an outbreak and to evaluate strategies to control an epidemic.[1]
+The first scientist who systematically tried to quantify causes of death was John Graunt in his book Natural and Political Observations made upon the Bills of Mortality, in 1662. The bills he studied were listings of numbers and causes of deaths published weekly. Graunt's analysis of causes of death is considered the beginning of the "theory of competing risks" which according to Daley and Gani [1] is "a theory that is now well established among modern epidemiologists".
+The earliest account of mathematical modelling of spread of disease was carried out in 1760 by Daniel Bernoulli. Trained as a physician, Bernoulli created a mathematical model to defend the practice of inoculating against smallpox.[2] The calculations from this model showed that universal inoculation against smallpox would increase the life expectancy from 26 years 7 months to 29 years 9 months.[3] Daniel Bernoulli's work preceded the modern understanding of germ theory.[4]
+In the early 20th century,  William Hamer[5] and Ronald Ross[6] applied the law of mass action to explain epidemic behaviour.
+The 1920s saw the emergence of compartmental models. The Kermack–McKendrick epidemic model (1927) and the Reed–Frost epidemic model (1928) both describe the relationship between susceptible, infected and immune individuals in a population. The Kermack–McKendrick epidemic model was successful in predicting the behavior of outbreaks very similar to that observed in many recorded epidemics.[7]
+Recently, agent-based models (ABMs) have been used in exchange for simpler compartmental models.[8] For example, epidemiological ABMs have been used to inform public health (nonpharmaceutical) interventions against the spread of SARS-CoV-2.[9] Epidemiological ABMs, in spite of their complexity and requiring high computational power, have been criticized for simplifying and unrealistic assumptions.[10][11] Still, they can be useful in informing decisions regarding mitigation and suppression measures in cases when ABMs are accurately calibrated.[12]
+
+Assumptions[edit]
+Models are only as good as the assumptions on which they are based. If a model makes predictions that are out of line with observed results and the mathematics is correct, the initial assumptions must change to make the model useful.[13]
+
+Rectangular and stationary age distribution, i.e., everybody in the population lives to age L and then dies, and for each age (up to L) there is the same number of people in the population. This is often well-justified for developed countries where there is a low infant mortality and much of the population lives to the life expectancy.
+Homogeneous mixing of the population, i.e., individuals of the population under scrutiny assort and make contact at random and do not mix mostly in a smaller subgroup. This assumption is rarely justified because social structure is widespread. For example, most people in London only make contact with other Londoners. Further, within London then there are smaller subgroups, such as the Turkish community or teenagers (just to give two examples), who mix with each other more than people outside their group. However, homogeneous mixing is a standard assumption to make the mathematics tractable.
+Types of epidemic models[edit]
+Stochastic[edit]
+"Stochastic" means being or having a random variable. A stochastic model is a tool for estimating probability distributions of potential outcomes by allowing for random variation in one or more inputs over time. Stochastic models depend on the chance variations in risk of exposure, disease and other illness dynamics. Statistical agent-level disease dissemination in small or large populations can be determined by stochastic methods.[14]
+[15][16]
+
+Deterministic[edit]
+When dealing with large populations, as in the case of tuberculosis, deterministic or compartmental mathematical models are often used.  In a deterministic model, individuals in the population are assigned to different subgroups or compartments, each representing a specific stage of the epidemic.[17]
+The transition rates from one class to another are mathematically expressed as derivatives, hence the model is formulated using differential equations.  While building such models, it must be assumed that the population size in a compartment is differentiable with respect to time and that the epidemic process is deterministic. In other words, the changes in population of a compartment can be calculated using only the history that was used to develop the model.[7]
+
+Sub-exponential growth[edit]
+A common explanation for the growth of epidemics holds that 1 person infects 2, those 2 infect 4 and so on and so on with the number of infected doubling every generation.
+It is analogous to a game of tag where 1 person tags 2, those 2 tag 4 others who've never been tagged and so on. As this game progresses it becomes increasing frenetic as the tagged run past the previously tagged to hunt down those who have never been tagged.
+Thus this model of an epidemic leads to a curve that grows exponentially until it crashes to zero as all the population have been infected. i.e. no herd immunity and no peak and gradual decline as seen in reality.[18]
+
+Epidemic Models on Networks[edit]
+Epidemics can be modeled as diseases spreading over networks of contact between people. Such a network can be represented mathematically with a graph and is called the contact network.[19] Every node in a contact network is a representation of an individual and each link (edge) between a pair of nodes represents the contact between them. Links in the contact networks may be used to transmit the disease between the individuals and each disease has its own dynamics on top of its contact network.  The combination of disease dynamics under the influence of interventions, if any, on a contact network may be modeled with another network, known as a transmission network. In a transmission network, all the links are responsible for transmitting the disease. If such a network is a locally tree-like network, meaning that any local neighborhood in such a network takes the form of a tree, then the basic reproduction can be written in terms of the average excess degree of the transmission network such that:
+
+
+
+
+
+R
+
+0
+
+
+=
+
+
+
+⟨
+
+k
+
+2
+
+
+⟩
+
+
+⟨
+k
+⟩
+
+
+
+−
+1
+,
+
+
+{\displaystyle R_{0}={\frac {\langle k^{2}\rangle }{\langle k\rangle }}-1,}
+
+
+where 
+
+
+
+
+⟨
+k
+⟩
+
+
+
+{\displaystyle {\langle k\rangle }}
+
+ is the mean-degree (average degree) of the network and 
+
+
+
+
+⟨
+
+k
+
+2
+
+
+⟩
+
+
+
+{\displaystyle {\langle k^{2}\rangle }}
+
+ is the second moment of the transmission network degree distribution. It is, however, not always straightforward to find the transmission network out of the contact network and the disease dynamics.[20] For example, if a contact network can be approximated with an Erdős–Rényi graph with a Poissonian degree distribution, and the disease spreading parameters are as defined in the example above, such that 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ is the transmission rate per person and the disease has a mean infectious period of 
+
+
+
+
+
+
+1
+γ
+
+
+
+
+
+{\displaystyle {\dfrac {1}{\gamma }}}
+
+, then the basic reproduction number is 
+
+
+
+
+R
+
+0
+
+
+=
+
+
+
+β
+γ
+
+
+
+
+⟨
+k
+⟩
+
+
+
+{\displaystyle R_{0}={\dfrac {\beta }{\gamma }}{\langle k\rangle }}
+
+[21][22] since  
+
+
+
+
+⟨
+
+k
+
+2
+
+
+⟩
+
+−
+
+
+⟨
+k
+⟩
+
+
+2
+
+
+=
+
+⟨
+k
+⟩
+
+
+
+{\displaystyle {\langle k^{2}\rangle }-{\langle k\rangle }^{2}={\langle k\rangle }}
+
+ for a Poisson distribution.
+
+Reproduction number[edit]
+Main article: Basic reproduction numberThe basic reproduction number (denoted by R0) is a measure of how transferable a disease is. It is the average number of people that a single infectious person will infect over the course of their infection. This quantity determines whether the infection will increase sub-exponentially, die out, or remain constant: if R0 > 1, then each person on average infects more than one other person so the disease will spread; if R0 < 1, then each person infects fewer than one person on average so the disease will die out; and if R0 = 1, then each person will infect on average exactly one other person, so the disease will become endemic: it will move throughout the population but not increase or decrease.[23]
+Endemic steady state[edit]
+An infectious disease is said to be endemic when it can be sustained in a population without the need for external inputs. This means that, on average, each infected person is infecting exactly one other person (any more and the number of people infected will grow sub-exponentially and there will be an epidemic, any less and the disease will die out). In mathematical terms, that is:
+
+
+
+
+
+ 
+
+R
+
+0
+
+
+S
+ 
+=
+1.
+
+
+{\displaystyle \ R_{0}S\ =1.}
+
+
+The basic reproduction number (R0) of the disease, assuming everyone is susceptible, multiplied by the proportion of the population that is actually susceptible (S) must be one (since those who are not susceptible do not feature in our calculations as they cannot contract the disease). Notice that this relation means that for a disease to be in the endemic steady state, the higher the basic reproduction number, the lower the proportion of the population susceptible must be, and vice versa. This expression has limitations concerning the susceptibility proportion, e.g. the R0 equals 0.5 implicates S has to be 2, however this proportion exceeds the population size.[citation needed]
+Assume the rectangular stationary age distribution and let also the ages of infection have the same distribution for each birth year. Let the average age of infection be A, for instance when individuals younger than A are susceptible and those older than A are immune (or infectious). Then it can be shown by an easy argument that the proportion of the population that is susceptible is given by:
+
+
+
+
+
+S
+=
+
+
+A
+L
+
+
+.
+
+
+{\displaystyle S={\frac {A}{L}}.}
+
+
+We reiterate that L is the age at which in this model every individual is assumed to die. But the mathematical definition of the endemic steady state can be rearranged to give:
+
+
+
+
+
+S
+=
+
+
+1
+
+R
+
+0
+
+
+
+
+.
+
+
+{\displaystyle S={\frac {1}{R_{0}}}.}
+
+
+Therefore, due to the transitive property:
+
+
+
+
+
+
+
+1
+
+R
+
+0
+
+
+
+
+=
+
+
+A
+L
+
+
+⇒
+
+R
+
+0
+
+
+=
+
+
+L
+A
+
+
+.
+
+
+{\displaystyle {\frac {1}{R_{0}}}={\frac {A}{L}}\Rightarrow R_{0}={\frac {L}{A}}.}
+
+
+This provides a simple way to estimate the parameter R0 using easily available data.
+For a population with an exponential age distribution,
+
+
+
+
+
+
+R
+
+0
+
+
+=
+1
++
+
+
+L
+A
+
+
+.
+
+
+{\displaystyle R_{0}=1+{\frac {L}{A}}.}
+
+
+This allows for the basic reproduction number of a disease given A and L in either type of population distribution.
+
+Compartmental models in epidemiology[edit]
+Main article: Compartmental models in epidemiology Compartmental models are formulated as Markov chains.[24] A classic compartmental model in epidemiology is the SIR model, which may be used as a simple model for modelling epidemics. Multiple other types of compartmental models are also employed.
+The SIR model[edit]
+Diagram of the SIR model with initial values 
+
+
+
+S
+(
+0
+)
+=
+997
+,
+I
+(
+0
+)
+=
+3
+,
+R
+(
+0
+)
+=
+0
+
+
+{\textstyle S(0)=997,I(0)=3,R(0)=0}
+
+, and rates for infection 
+
+
+
+β
+=
+0.4
+
+
+{\textstyle \beta =0.4}
+
+ and for recovery 
+
+
+
+γ
+=
+0.04
+
+
+{\textstyle \gamma =0.04}
+
+
+Animation of the SIR model with initial values 
+
+
+
+S
+(
+0
+)
+=
+997
+,
+I
+(
+0
+)
+=
+3
+,
+R
+(
+0
+)
+=
+0
+
+
+{\textstyle S(0)=997,I(0)=3,R(0)=0}
+
+, and rate of recovery 
+
+
+
+γ
+=
+0.04
+
+
+{\textstyle \gamma =0.04}
+
+. The animation shows the effect of reducing the rate of infection from 
+
+
+
+β
+=
+0.5
+
+
+{\textstyle \beta =0.5}
+
+ to 
+
+
+
+β
+=
+0.12
+
+
+{\textstyle \beta =0.12}
+
+. If there is no medicine or vaccination available, it is only possible to reduce the infection rate (often referred to as "flattening the curve") by appropriate measures such as social distancing.
+In 1927, W. O. Kermack and A. G. McKendrick created a model in which they considered a fixed population with only three compartments: susceptible, 
+
+
+
+S
+(
+t
+)
+
+
+{\displaystyle S(t)}
+
+; infected, 
+
+
+
+I
+(
+t
+)
+
+
+{\displaystyle I(t)}
+
+; and recovered, 
+
+
+
+R
+(
+t
+)
+
+
+{\displaystyle R(t)}
+
+. The compartments used for this model consist of three classes:[25]
+
+
+
+
+
+S
+(
+t
+)
+
+
+{\displaystyle S(t)}
+
+ is used to represent the individuals not yet infected with the disease at time t, or those susceptible to the disease of the population.
+
+
+
+
+I
+(
+t
+)
+
+
+{\displaystyle I(t)}
+
+ denotes the individuals of the population who have been infected with the disease and are capable of spreading the disease to those in the susceptible category.
+
+
+
+
+R
+(
+t
+)
+
+
+{\displaystyle R(t)}
+
+ is the compartment used for the individuals of the population who have been infected and then removed from the disease, either due to immunization or due to death. Those in this category are not able to be infected again or to transmit the infection to others.
+Other compartmental models[edit]
+There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR).[citation needed]
+
+Infectious disease dynamics[edit]
+Mathematical models need to integrate the increasing volume of data being generated on host-pathogen interactions. Many theoretical studies of the population dynamics, structure and evolution of infectious diseases of plants and animals, including humans, are concerned with this problem.[26]
+Research topics include:
+
+antigenic shift
+epidemiological networks
+evolution and spread of resistance
+immuno-epidemiology
+intra-host dynamics
+Pandemic
+pathogen population genetics
+persistence of pathogens within hosts
+phylodynamics
+role and identification of infection reservoirs
+role of host genetic factors
+spatial epidemiology
+statistical and mathematical tools and innovations
+Strain (biology) structure and interactions
+transmission, spread and control of infection
+virulence
+Mathematics of mass vaccination[edit]
+If the proportion of the population that is immune exceeds the herd immunity level for the disease, then the disease can no longer persist in the population and its transmission dies out.[27] Thus, a disease can be eliminated from a population if enough individuals are immune due to either vaccination or recovery from prior exposure to disease. For example, smallpox eradication, with the last wild case in 1977, and certification of the eradication of indigenous transmission of 2 of the 3 types of wild poliovirus (type 2 in 2015, after the last reported case in 1999, and type 3 in 2019, after the last reported case in 2012).[28]
+The herd immunity level will be denoted q. Recall that, for a stable state:[citation needed]
+
+
+
+
+
+
+R
+
+0
+
+
+⋅
+S
+=
+1.
+
+
+{\displaystyle R_{0}\cdot S=1.}
+
+
+In turn,
+
+
+
+
+
+
+R
+
+0
+
+
+=
+
+
+N
+S
+
+
+=
+
+
+
+μ
+N
+E
+⁡
+(
+
+T
+
+L
+
+
+)
+
+
+μ
+N
+E
+⁡
+[
+min
+(
+
+T
+
+L
+
+
+,
+
+T
+
+S
+
+
+)
+]
+
+
+
+=
+
+
+
+E
+⁡
+(
+
+T
+
+L
+
+
+)
+
+
+E
+⁡
+[
+min
+(
+
+T
+
+L
+
+
+,
+
+T
+
+S
+
+
+)
+]
+
+
+
+,
+
+
+{\displaystyle R_{0}={\frac {N}{S}}={\frac {\mu N\operatorname {E} (T_{L})}{\mu N\operatorname {E} [\min(T_{L},T_{S})]}}={\frac {\operatorname {E} (T_{L})}{\operatorname {E} [\min(T_{L},T_{S})]}},}
+
+
+which is approximately:[citation needed]
+
+
+
+
+
+
+
+
+
+E
+
+⁡
+(
+
+T
+
+L
+
+
+)
+
+
+
+E
+
+⁡
+(
+
+T
+
+S
+
+
+)
+
+
+
+=
+1
++
+
+
+λ
+μ
+
+
+=
+
+
+
+β
+N
+
+v
+
+
+.
+
+
+{\displaystyle {\frac {\operatorname {\operatorname {E} } (T_{L})}{\operatorname {\operatorname {E} } (T_{S})}}=1+{\frac {\lambda }{\mu }}={\frac {\beta N}{v}}.}
+
+
+Graph of herd immunity threshold vs basic reproduction number with selected diseases
+S will be (1 − q), since q is the proportion of the population that is immune and q + S must equal one  (since in this simplified model, everyone is either susceptible or immune). Then:
+
+
+
+
+
+
+
+
+
+
+
+R
+
+0
+
+
+⋅
+(
+1
+−
+q
+)
+=
+1
+,
+
+
+
+
+
+1
+−
+q
+=
+
+
+1
+
+R
+
+0
+
+
+
+
+,
+
+
+
+
+
+q
+=
+1
+−
+
+
+1
+
+R
+
+0
+
+
+
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}&R_{0}\cdot (1-q)=1,\\[6pt]&1-q={\frac {1}{R_{0}}},\\[6pt]&q=1-{\frac {1}{R_{0}}}.\end{aligned}}}
+
+
+Remember that this is the threshold level. Die out of transmission will only occur if the proportion of immune individuals exceeds this level due to a mass vaccination programme.
+We have just calculated the critical immunization threshold (denoted qc). It is the minimum proportion of the population that must be immunized at birth (or close to birth) in order for the infection to die out in the population.
+
+
+
+
+
+
+q
+
+c
+
+
+=
+1
+−
+
+
+1
+
+R
+
+0
+
+
+
+
+.
+
+
+{\displaystyle q_{c}=1-{\frac {1}{R_{0}}}.}
+
+
+Because the fraction of the final size of the population p that is never infected can be defined as:
+
+
+
+
+
+
+lim
+
+t
+→
+∞
+
+
+S
+(
+t
+)
+=
+
+e
+
+−
+
+∫
+
+0
+
+
+∞
+
+
+λ
+(
+t
+)
+
+d
+t
+
+
+=
+1
+−
+p
+.
+
+
+{\displaystyle \lim _{t\to \infty }S(t)=e^{-\int _{0}^{\infty }\lambda (t)\,dt}=1-p.}
+
+
+Hence,
+
+
+
+
+
+p
+=
+1
+−
+
+e
+
+−
+
+∫
+
+0
+
+
+∞
+
+
+β
+I
+(
+t
+)
+
+d
+t
+
+
+=
+1
+−
+
+e
+
+−
+
+R
+
+0
+
+
+p
+
+
+.
+
+
+{\displaystyle p=1-e^{-\int _{0}^{\infty }\beta I(t)\,dt}=1-e^{-R_{0}p}.}
+
+
+Solving for 
+
+
+
+
+R
+
+0
+
+
+
+
+{\displaystyle R_{0}}
+
+, we obtain:
+
+
+
+
+
+
+R
+
+0
+
+
+=
+
+
+
+−
+ln
+⁡
+(
+1
+−
+p
+)
+
+p
+
+
+.
+
+
+{\displaystyle R_{0}={\frac {-\ln(1-p)}{p}}.}
+
+
+When mass vaccination cannot exceed the herd immunity[edit]
+If the vaccine used is insufficiently effective or the required coverage cannot be reached, the program may fail to exceed qc. Such a program will protect vaccinated individuals from disease, but may change the dynamics of transmission.[citation needed]
+Suppose that a proportion of the population q (where q < qc) is immunised at birth against an infection with R0 > 1. The vaccination programme changes R0 to Rq where
+
+
+
+
+
+
+R
+
+q
+
+
+=
+
+R
+
+0
+
+
+(
+1
+−
+q
+)
+
+
+{\displaystyle R_{q}=R_{0}(1-q)}
+
+
+This change occurs simply because there are now fewer susceptibles in the population who can be infected. Rq is simply R0 minus those that would normally be infected but that cannot be now since they are immune.
+As a consequence of this lower basic reproduction number, the average age of infection A will also change to some new value Aq in those who have been left unvaccinated.
+Recall the relation that linked R0, A and L. Assuming that life expectancy has not changed, now:[citation needed]
+
+
+
+
+
+
+R
+
+q
+
+
+=
+
+
+L
+
+A
+
+q
+
+
+
+
+,
+
+
+{\displaystyle R_{q}={\frac {L}{A_{q}}},}
+
+
+
+
+
+
+
+A
+
+q
+
+
+=
+
+
+L
+
+R
+
+q
+
+
+
+
+=
+
+
+L
+
+
+R
+
+0
+
+
+(
+1
+−
+q
+)
+
+
+
+.
+
+
+{\displaystyle A_{q}={\frac {L}{R_{q}}}={\frac {L}{R_{0}(1-q)}}.}
+
+
+But R0 = L/A so:
+
+
+
+
+
+
+A
+
+q
+
+
+=
+
+
+L
+
+(
+L
+
+/
+
+A
+)
+(
+1
+−
+q
+)
+
+
+
+=
+
+
+
+A
+L
+
+
+L
+(
+1
+−
+q
+)
+
+
+
+=
+
+
+A
+
+1
+−
+q
+
+
+
+.
+
+
+{\displaystyle A_{q}={\frac {L}{(L/A)(1-q)}}={\frac {AL}{L(1-q)}}={\frac {A}{1-q}}.}
+
+
+Thus, the vaccination program may raise the average age of infection, and unvaccinated individuals will experience a reduced force of infection due to the presence of the vaccinated group.  For a disease that leads to greater clinical severity in older populations, the unvaccinated proportion of the population may experience the disease relatively later in life than would occur in the absence of vaccine.
+
+When mass vaccination exceeds the herd immunity[edit]
+If a vaccination program causes the proportion of immune individuals in a population to exceed the critical threshold for a significant length of time, transmission of the infectious disease in that population will stop. If elimination occurs everywhere at the same time, then this can lead to eradication.[citation needed]
+
+Elimination
+Interruption of endemic transmission of an infectious disease, which occurs if each infected individual infects less than one other, is achieved by maintaining vaccination coverage to keep the proportion of immune individuals above the critical immunization threshold.[citation needed]
+Eradication
+Elimination everywhere at the same time such that the infectious agent dies out (for example, smallpox and rinderpest).[citation needed]
+Reliability[edit]
+Models have the advantage of examining multiple outcomes simultaneously, rather than making a single forecast. Models have shown broad degrees of reliability in past pandemics, such as SARS, SARS-CoV-2,[29] Swine flu, MERS and Ebola.[30]
+
+See also[edit]
+
+Basic reproduction number
+Compartmental models in epidemiology
+Contact tracing
+Critical community size
+Disease surveillance
+Ecosystem model
+Force of infection
+Landscape epidemiology
+Next-generation matrix
+Pandemic
+Risk factor
+Sexual network
+WAIFW matrix
+
+References[edit]
+
+
+^ a b Daley DJ, Gani J (2005). Epidemic Modeling: An Introduction. New York: Cambridge University Press.
+
+^ Hethcote HW (2000). "The mathematics of infectious diseases". SIAM Review. 42 (4): 599–653. Bibcode:2000SIAMR..42..599H. doi:10.1137/S0036144500371907. S2CID 10836889.
+
+^ Blower S, Bernoulli D (2004). "An attempt at a new analysis of the mortality caused by smallpox and of the advantages of inoculation to prevent it". Reviews in Medical Virology. 14 (5): 275–88. doi:10.1002/rmv.443. PMID 15334536. S2CID 8169180.
+
+^ "Germ Theory - an overview | ScienceDirect Topics".
+
+^ Hamer W (1928). Epidemiology Old and New. London: Kegan Paul.
+
+^ Ross R (1910). The Prevention of Malaria. Dutton.
+
+^ a b Brauer F, Castillo-Chávez C (2001). Mathematical Models in Population Biology and Epidemiology. New York: Springer.
+
+^ Eisinger D, Thulke HH (April 2008). "Spatial pattern formation facilitates eradication of infectious diseases". The Journal of Applied Ecology. 45 (2): 415–423. Bibcode:2008JApEc..45..415E. doi:10.1111/j.1365-2664.2007.01439.x. PMC 2326892. PMID 18784795.
+
+^ Adam D (April 2020). "Special report: The simulations driving the world's response to COVID-19". Nature. 580 (7803): 316–318. Bibcode:2020Natur.580..316A. doi:10.1038/d41586-020-01003-6. PMID 32242115. S2CID 214771531.
+
+^ Squazzoni F, Polhill JG, Edmonds B, Ahrweiler P, Antosz P, Scholz G, et al. (2020). "Computational Models That Matter During a Global Pandemic Outbreak: A Call to Action". Journal of Artificial Societies and Social Simulation. 23 (2): 10. doi:10.18564/jasss.4298. hdl:10037/19057. ISSN 1460-7425. S2CID 216426533.
+
+^ Sridhar D, Majumder MS (April 2020). "Modelling the pandemic". BMJ. 369: m1567. doi:10.1136/bmj.m1567. PMID 32317328. S2CID 216074714.
+
+^ Maziarz M, Zach M (October 2020). "Agent-based modelling for SARS-CoV-2 epidemic prediction and intervention assessment: A methodological appraisal". Journal of Evaluation in Clinical Practice. 26 (5): 1352–1360. doi:10.1111/jep.13459. PMC 7461315. PMID 32820573.
+
+^ Huppert A, Katriel G (2013). "Mathematical modelling and prediction in infectious disease epidemiology". Clinical Microbiology and Infection. 19 (11): 999–1005. doi:10.1111/1469-0691.12308. PMID 24266045.
+
+^ Tembine H. "COVID-19: Data-Driven Mean-Field-Type Game Perspective. Games". Games Journal. doi:10.3390/g11040051. hdl:10419/257469. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ Nakamura GM, Monteiro AC, Cardoso GC, Martinez AS (February 2017). "Efficient method for comprehensive computation of agent-level epidemic dissemination in networks". Scientific Reports. 7 (1): 40885. arXiv:1606.07825. Bibcode:2017NatSR...740885N. doi:10.1038/srep40885. ISSN 2045-2322. PMC 5247741. PMID 28106086.
+
+^ Nakamura GM, Cardoso GC, Martinez AS (February 2020). "Improved susceptible–infectious–susceptible epidemic equations based on uncertainties and autocorrelation functions". Royal Society Open Science. 7 (2): 191504. Bibcode:2020RSOS....791504N. doi:10.1098/rsos.191504. ISSN 2054-5703. PMC 7062106. PMID 32257317.
+
+^ Dietz K (1967). "Epidemics and Rumours: A Survey". Journal of the Royal Statistical Society. Series A (General). 130 (4): 505–528. doi:10.2307/2982521. JSTOR 2982521.
+
+^ Maier BF, Brockmann D (2020). "Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China". Science. 368 (6492): 742–746. Bibcode:2020Sci...368..742M. doi:10.1126/science.abb4557. PMC 7164388. PMID 32269067.
+
+^ Network Science by Albert-László Barabási.
+
+^ Kenah E, Robins JM (September 2007). "Second look at the spread of epidemics on networks". Physical Review E. 76 (3 Pt 2): 036113. arXiv:q-bio/0610057. Bibcode:2007PhRvE..76c6113K. doi:10.1103/PhysRevE.76.036113. ISSN 1539-3755. PMC 2215389. PMID 17930312.
+
+^ Pastor-Satorras R, Castellano C, Van Mieghem P, Vespignani A (2015-08-31). "Epidemic processes in complex networks". Reviews of Modern Physics. 87 (3): 925–979. arXiv:1408.2701. Bibcode:2015RvMP...87..925P. doi:10.1103/RevModPhys.87.925. S2CID 14306926.
+
+^ K Rizi A, Faqeeh A, Badie-Modiri A, Kivelä M (2022-04-20). "Epidemic spreading and digital contact tracing: Effects of heterogeneous mixing and quarantine failures". Physical Review E. 105 (4): 044313. arXiv:2103.12634. Bibcode:2022PhRvE.105d4313R. doi:10.1103/PhysRevE.105.044313. PMID 35590624. S2CID 232320251.
+
+^ "Basic Reproduction Number - an overview | ScienceDirect Topics".
+
+^ Cosma Shalizi (15 November 2018). "Data over Space and Time; Lecture 21: Compartment Models" (PDF). Carnegie Mellon University. Retrieved September 19, 2020.
+
+^ Kermack WO, McKendrick AG (1991). "Contributions to the mathematical theory of epidemics--I. 1927". Bulletin of Mathematical Biology. 53 (1–2): 33–55. Bibcode:1927RSPSA.115..700K. doi:10.1007/BF02464423. JSTOR 94815. PMID 2059741.
+
+^ Brauer F (2017). "Mathematical epidemiology: Past, present, and future". Infectious Disease Modelling. 2 (2): 113–127. doi:10.1016/j.idm.2017.02.001. PMC 6001967. PMID 29928732.
+
+^ Britton T, Ball F, Trapman P (2020). "A mathematical model reveals the influence of population heterogeneity on herd immunity to SARS-CoV-2". Science. 369 (6505): 846–849. Bibcode:2020Sci...369..846B. doi:10.1126/science.abc6810. PMC 7331793. PMID 32576668.
+
+^ Pollard AJ, Bijker EM (2021). "A guide to vaccinology: From basic principles to new developments". Nature Reviews Immunology. 21 (2): 83–100. doi:10.1038/s41577-020-00479-7. PMC 7754704. PMID 33353987.
+
+^ 
+Renz A, Widerspick L, Dräger A (2020). "FBA reveals guanylate kinase as a potential target for antiviral therapies against SARS-CoV-2". Bioinformatics. 36 (Supplement_2): i813–i821. doi:10.1093/bioinformatics/btaa813. PMC 7773487. PMID 33381848.
+
+^ Costris-Vas C, Schwartz EJ, Smith? RJ (November 2020). "Predicting COVID-19 using past pandemics as a guide: how reliable were mathematical models then, and how reliable will they be now?". Mathematical Biosciences and Engineering. 17 (6): 7502–7518. doi:10.3934/mbe.2020383 (inactive 2024-04-24). PMID 33378907.{{cite journal}}:  CS1 maint: DOI inactive as of April 2024 (link)
+
+
+Further reading[edit]
+
+Keeling M, Rohani P. Modeling Infectious Diseases: In Humans and Animals. Princeton: Princeton University Press.
+von Csefalvay C. Computational Modeling of Infectious Disease. Cambridge, MA: Elsevier/Academic Press. Retrieved 2023-02-27.
+Vynnycky E, White RG. An Introduction to Infectious Disease Modelling. Retrieved 2016-02-15. An introductory book on infectious disease modelling and its applications.
+Grassly NC, Fraser C (June 2008). "Mathematical models of infectious disease transmission". Nature Reviews. Microbiology. 6 (6): 477–87. doi:10.1038/nrmicro1845. PMC 7097581. PMID 18533288.
+Boily MC, Mâsse B (Jul–Aug 1997). "Mathematical models of disease transmission: a precious tool for the study of sexually transmitted diseases". Canadian Journal of Public Health. 88 (4): 255–65. doi:10.1007/BF03404793. PMC 6990198. PMID 9336095.
+Capasso V. Mathematical Structures of Epidemic Systems. Second Printing. Heidelberg, 2008: Springer.{{cite book}}:  CS1 maint: location (link)
+
+External links[edit]
+Software
+Model-Builder: Interactive (GUI-based) software to build, simulate, and analyze ODE models.
+GLEaMviz Simulator: Enables simulation of emerging infectious diseases spreading across the world.
+STEM: Open source framework for Epidemiological Modeling available through the Eclipse Foundation.
+R package surveillance: Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena
+vteConcepts in infectious disease (Outline)DeterminantsAgent
+Biofilm
+Germ theory of disease
+Infectivity
+Infectious dose
+Pathogenicity
+Attack rate
+Quorum sensing
+Virulence
+Endotoxin
+Exotoxin
+Case fatality rate
+factors
+Antimicrobial resistance
+Drug resistance
+Horizontal gene transfer
+Multidrug-resistant bacteria
+Host tropism
+Host
+Burn
+Comorbidity
+Diabetes
+Host–pathogen interaction
+Immune response
+Immunodeficiency
+Immunosuppression
+Microbiome health
+Opportunistic infection
+Risk of infection
+Susceptible individual
+Age
+Gender
+Nutrition status
+Vaccination status
+Genetic predisposition
+Behavioral/lifestyle factors
+Smoking
+Pregnancy
+Stress levels
+Environment
+Access to water, sanitation and hygiene
+Air quality
+Biodiversity loss
+Climate change
+Climate zones
+El Niño
+Tropical diseases
+Commerce
+Deforestation
+Ecology
+Humidity
+Injection drug use
+Natural disaster
+Flood
+Poultry and livestock
+Poverty
+Travel
+Urbanization
+Vector control
+War and conflict
+TransmissionBasic concepts
+Asymptomatic carrier
+Chain of infection
+Fomite
+Host
+Incubation period
+Index case
+Infectious period
+Latent period
+Natural reservoir
+Opportunistic infection
+Silent/Subclinical infection
+Superinfection
+Super-spreader
+Viral load
+Window period
+ModesEndogenous
+Endogenous overgrowth
+Normal flora overgrowth
+Endogenous reactivation
+Microbial translocation
+Endogenous seeding
+Biofilm formation
+ExogenousCross-species
+Spillover infection
+Vector
+Zoonosis
+Reverse zoonosis
+Human-to-human/Cross-infection
+Contagious disease
+Source
+Community
+Nosocomial/Hospital
+Iatrogenic/Medical care
+Generational difference
+Vertical/Congenital
+Prenatal
+Perinatal
+Neonatal
+Horizontal
+Breakthrough infection
+Environment-to-human
+Sapronosis
+RoutesRespiratory
+Air
+Bioaerosol
+Aerosol-generating procedure
+Dental aerosol
+Respiratory droplet
+Linked toVascular system
+Blood-borne disease
+Percutaneous inoculation
+Injection site
+Intravenous line
+Insect bite
+Animal bite
+Surgical intervention
+Postoperative wound
+Surgical site infection
+Vector-borne
+Mosquito
+Tick
+Gastrointestinal
+Food
+Contamination
+Breastmilk
+Water
+Feces
+Cutaneous
+Burn
+Fomite
+Soil
+Open wound
+Genitourinary
+Sex
+Trans-placental
+Prenatal
+Cervico-vaginal
+Perinatal
+Other
+Ocular (Eye) mucosal membrane
+Modelling
+Agent-based model
+Animal disease model
+Attack rate
+Basic reproduction number
+Compartmental models in epidemiology
+Critical community size
+Force of infection
+Herd immunity
+Infection rate
+Machine learning
+Multiplicity of infection
+Serial interval
+WAIFW matrix
+Occurrencein population
+Cluster
+Endemic
+Epidemic
+Curve
+Farr's laws
+Holoendemic
+Hyperendemic
+Incidence
+Inequality
+Mesoendemic
+Outbreak
+Pandemic
+Prevalence
+Seasonality
+Geographic distribution
+Sporadic
+Syndemic
+Twindemic
+Anatomical location
+Respiratory
+Ear-Nose-Throat/Upper respiratory tract
+Chest/Lower respiratory tract
+Gastrointestinal
+Intestinal
+Genitourinary
+Nervous system
+Skin
+Soft tissue
+Bone
+Joint
+Cardiovascular
+Systemic/Generalized
+Blood
+Tooth
+Mouth
+Fetus
+Eye
+Preventionand ControlmeasuresPharmaceutical
+Antibiotic
+prophylactic
+Antifungal
+Anthelmintic
+Ascaricide
+Antimicrobial
+Antimicrobial stewardship
+Antiseptic
+Antiviral
+Asepsis
+Combination
+Drug safety
+Immunization
+Immunotherapy
+Monoclonal antibody therapy
+Inoculation
+Phage therapy
+Pre-exposure prophylaxis
+Post-exposure prophylaxis
+Repurposed drugs
+Vaccination
+efficacy/effectiveness
+booster
+resistance
+Vaccine-preventable disease
+Ring vaccination
+Non-pharmaceutical
+Contact tracing
+Cordon sanitaire
+Disease surveillance
+Disinfection
+Flattening the curve
+Hygiene
+Food hygiene
+Hand washing
+Gloves
+Isolation
+Barrier nursing
+Lockdown
+Notification
+list
+Protective sequestration
+Public health
+Community health services
+Health communication
+Health education
+Outbreak response
+Quarantine
+Respiratory source control
+Surgical mask
+PPE
+Safe sex
+Sanitation
+Screening
+Social distancing
+Standard infection control precautions
+Sterilization
+Transmission-based precautions
+Travel restrictions
+Universal precautions
+Vector control
+Wastewater surveillance
+Zoning
+Emerging infections
+Antigenic drift
+Antigenic shift
+Antimicrobial resistance surveillance
+EARS-Net
+Biosecurity
+CRISPR
+Disease X
+Emergent virus
+Evolutionary epidemiology
+Genetic epidemiology
+Global Health Initiatives
+Microbial phylogenetics
+One Health Model
+Genomic reassortment
+Re-emerging disease
+Reverse zoonosis
+Selection pressure
+Synthetic biology
+Viral phylodynamics
+Other
+Discovery
+Eradication
+Economics of Infectious Diseases
+Infectious disease (medical specialty)
+Infectious disease informatics
+Microbial bioterrorism
+Pandemic prevention
+Tropical disease
+Tropical medicine
+
+vteArtificial induction of immunity / Immunization: Vaccines, Vaccination, Infection, Inoculation (J07)Development
+Adjuvants
+Vaccine ingredients
+list
+Mathematical modelling
+Storage
+Timeline
+Trials
+Classes
+Conjugate
+Inactivated
+Live
+Attenuated
+Heterologous
+Subunit/component / Peptide / Virus-like particle / Synthetic
+DNA / mRNA
+Therapeutic
+Toxoid
+Administration
+Global:
+GAVI Alliance
+NITAG
+SAGE
+Vaccine wastage
+Policy
+Schedule
+Vaccine injury
+US:
+ACIP
+Vaccine court
+Vaccines for Children Program
+VAERS
+VSD
+VaccinesBacterial
+Anthrax
+Brucellosis
+Cholera#
+Diphtheria#
+Hib#
+Leptospirosis
+Lyme disease‡
+Meningococcus#
+MeNZB
+NmVac4-A/C/Y/W-135
+Pertussis#
+Plague
+Pneumococcal#
+PCV
+PPSV
+Q fever
+Tetanus#
+Tuberculosis
+BCG#
+Typhoid#
+Ty21a
+ViCPS
+Typhus
+combination:
+DPT/DTwP/DTaP
+Td/Tdap
+research:
+Clostridioides difficile
+Group B streptococcal disease
+Shigellosis
+Viral
+Adenovirus
+Chikungunya
+Ebola
+rVSV-ZEBOV
+Flu#
+H1N1 (Pandemrix)
+H5N1
+LAIV
+Hantavirus
+Hepatitis A#
+Hepatitis B#
+Hepatitis E
+HPV#
+Cervarix
+Gardasil
+Japanese encephalitis#
+Measles#
+Mumps#
+Polio#
+Sabin
+Salk
+Rabies#
+Rotavirus#
+Rubella#
+SARS-CoV-2
+Corbevax†
+Bharat Biotech†
+CanSino†
+CoronaVac†
+EpiVacCorona†
+Janssen
+Moderna
+Novavax
+Oxford–AstraZeneca
+Pfizer–BioNTech
+Sanofi–GSK†
+Sinopharm BIBP†
+Skycovione†
+Sputnik V†
+Valneva†
+Respiratory syncytial virus (RSV)
+Smallpox
+Tick-borne encephalitis#
+Varicella zoster
+Chicken pox#
+Shingles
+Yellow fever#
+combination:
+Hepatitis A and B
+MMR
+MMRV
+research:
+Cytomegalovirus
+Dengue#
+Epstein–Barr virus
+Hepatitis C
+Herpes simplex
+HIV
+Zika
+Protozoan
+Malaria
+RTS,S
+research:
+Trypanosomiasis
+Helminthiasis
+research:
+Hookworm
+Schistosomiasis
+Other
+Androvax (androstenedione albumin)
+Cancer vaccines
+ALVAC-CEA
+BCG#
+Hepatitis B#
+HPV#
+Cervarix
+Gardasil
+Prostvac
+NicVAX
+Ovandrotone albumin (Fecundin)
+TA-CD
+TA-NIC
+combination:
+DTaP-IPV/Hib
+DTaP-IPV-HepB
+DTwP-HepB-Hib
+Hexavalent vaccine
+Inventors/researchers
+Edward Jenner
+Louis Pasteur
+Hilary Koprowski
+Jonas Salk
+John Franklin Enders
+Maurice Hilleman
+Stanley Plotkin
+H. Fred Clark
+Paul Offit
+Katalin Karikó
+Drew Weissman
+Controversy
+General
+MMR (Lancet MMR autism fraud)
+NCVIA
+Pox party
+Thiomersal
+Vaccines and SIDS
+Cedillo v. Secretary of Health and Human Services
+Alternative vaccination schedule
+Related
+Epidemiology
+Eradication of infectious diseases
+Vaccinate Your Family
+List of vaccine topics
+
+#WHO-EM
+‡Withdrawn from market
+Clinical trials:
+†Phase III
+§Never to phase III
+
+vteScientific modellingBiological
+Cellular model
+Chemical process modeling
+Ecosystem model
+Infectious disease model
+Metabolic network modelling
+Modelling biological systems
+Protein structure prediction
+Environmental
+Atmospheric model
+Chemical transport model
+Climate model
+Geologic modelling
+Groundwater model
+Hydrological model
+Hydrological transport model
+Modular Ocean Model
+Wildfire modeling
+Sustainability
+Energy modeling
+Integrated assessment modelling
+Population model
+Social
+Biopsychosocial model
+Business process modelling
+Catastrophe modeling
+Construction and management simulation
+Crime mapping
+Economic model
+Input–output model
+Related topics
+Data visualization
+List of computer simulation software
+Mathematical modeling
+Systems theory
+Systems thinking
+Visual analytics
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mathematical_modelling_of_infectious_diseases&oldid=1223787431"
+Categories: EpidemiologyMathematical and theoretical biologyVaccinationMedical statisticsHidden categories: CS1 errors: missing periodicalCS1 maint: DOI inactive as of April 2024Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from March 2022Articles with unsourced statements from January 2024Articles with unsourced statements from July 2023CS1 maint: location
+
+
+
+
+
+
+ This page was last edited on 14 May 2024, at 10:38 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

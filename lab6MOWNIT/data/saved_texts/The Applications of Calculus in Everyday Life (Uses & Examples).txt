@@ -1,0 +1,1664 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Applications of Calculus in Everyday Life (Uses & Examples)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coding
+
+Learn with Coding
+Life with Coding
+
+
+Math
+
+Learn with Math
+World of Math
+
+
+Music
+
+Learn with Music
+World of Music
+Guitar Tuner
+
+
+Parenting
+In the News
+Student Of The Month
+Newsletter
+Summer Camp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                            Sign in                            
+
+
+
+
+
+                            Sign In 
+
+
+
+
+
+
+
+Book a FREE Trial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coding
+
+Learn with Coding
+Life with Coding
+
+
+Math
+
+Learn with Math
+World of Math
+
+
+Music
+
+Learn with Music
+World of Music
+Guitar Tuner
+
+
+Parenting
+In the News
+Student Of The Month
+Newsletter
+Summer Camp
+ 
+Category
+Coding
+       Learn with Coding
+       Life with Coding
+Math
+       Learn with Math
+       World of Math
+Music
+       Learn with Music
+       World of Music
+       Guitar Tuner
+Parenting
+In the News
+Student Of The Month
+Newsletter
+Summer Camp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home / Blog / Math / The Applications of Calculus in Everyday Life (Uses & Examples) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Applications of Calculus in Everyday Life (Uses & Examples)
+
+
+
+ 
+
+
+ 6
+
+
+
+
+
+
+
+
+
+
+BYJU'S FutureSchool
+
+Last Updated: Dec 5, 2021, 3:03 PM CST
+6 Min Read
+
+
+
+
+
+Although it may not always be obvious, we actually use calculus quite often in our daily lives. Various fields such as engineering, medicine, biological research, economics, architecture, space science, electronics, statistics, and pharmacology all benefit from the use of calculus. Although the average person isn’t solving differential or integral calculus problems daily, we are using technology and equipment developed through the application of calculus in almost every aspect of our lives. 
+[Read: Math in Real Life]
+
+
+
+
+
+Table of Contents
+
+What is Calculus?Implications of Calculus in Everyday Life1. Engineering Structural Engineering:  Civil Engineering:Electrical Engineering:Mechanical Engineering:  Space Flight Engineering: 2. Medicine : Bacterial growth: Patient Diagnosis: Epidemiology: Cancer: Surgical Control of Red Blood Cells: Cardiology: Pharmacology: Neurology: Entomology:3. BusinessCredit card payments: Economics: 4. MusicHarmonics: Acoustics: 5. Research AnalyticsVariables in manufacturing: Evaluate survey data: Computing birth and death rates: Simulation for video games: 6. MeteorologyComputing Weather Patterns: 
+What is Calculus?
+Calculus means ‘small pebble’ in Latin, and is named after the rocks used by the Romans for counting. Sir Isaac Newton, one of the greatest scientists and mathematicians in history, is credited as the founder of calculus. Over centuries, many mathematicians have contributed to the further development of calculus as a branch of mathematics and physics. 
+What does calculus actually do? Well, calculus measures the rate of change that occurs in almost every phenomenon in the universe. There are two branches of calculus, integrals and derivatives. The derivative component of a mathematical function defines the rate of change at a specific point, whereas integrals show the accumulation of discrete values of a function over a range.
+Implications of Calculus in Everyday Life
+1. Engineering 
+Real life applications of calculus is incredibly prevalent in the field of engineering. Let’s discuss a few of its applications below:
+Structural Engineering:  
+One of the most critical applications of calculus in real life is in structural engineering. Calculus is used to calculate heat loss in buildings, forces in complex structural configurations, and structural analysis in seismic design requirements. Architects use calculus to determine the ever-important quantity of materials required for constructing support systems that can withstand stress over long periods of time. Even notable monuments such as the Eiffel Tower were constructed using calculus to predict the impact of wind resistance.   
+[Read: Applications of Trigonometry]
+
+
+
+Civil Engineering:
+When designing bridges, civil engineers need to consider three structural elements: beams, tension, and compression members. Using calculus, we can determine the amount of force acting on the beam including the weight of pedestrians, weight of vehicles, and the amount of traffic anticipated on that bridge. Based on these factors, the materials, size, and capacity can be computed.
+Electrical Engineering:
+Integral and differential calculus are crucial for calculating voltage or current through a capacitor. Integral calculus is also a main consideration in calculating the exact length of a power cable necessary for connecting substations that are miles apart from each other.
+Mechanical Engineering:  
+Mechanical engineering is yet another great example. The pump used for filling an overhead tank, gardening tools, cars, motorcycles, robots, and many household appliances are designed using the principles of calculus.   
+Space Flight Engineering: 
+Before launching a rocket or exploratory probe, engineers must use calculus to figure out the gravitational pulls of the sun and moon in order to know how to launch a probe or hit the velocity needed to orbit the earth.
+2. Medicine : 
+Calculus can also be applied in medicine. Applications of calculus in medical science include:
+Bacterial growth: 
+Biologists use differential calculus to compute the exact bacterial growth rate in a culture by varying environmental factors such as temperature and food source.   
+Patient Diagnosis: 
+Calculus is crucial in medical tests used for measuring cardiac output, blood flow, and tumor growth. This data is needed to properly assess a patient’s health condition. 
+Epidemiology: 
+Epidemiologists who conduct research on infectious diseases use calculus to discover the spread rate and area where an infection will likely occur. Calculus can also help create a containment plan and investigate the source of an infection.   
+Cancer: 
+Calculus is used to determine the growth or shrinkage and number of cells of a cancerous tumor. Using an exponential function, oncologists analyze the progression or regression of a disease.
+
+Surgical Control of Red Blood Cells: 
+The blood in the human body is made up of red blood cells. While undergoing surgery, a patient’s blood volume has to be maintained by injecting a saline solution that mixes quickly with the blood and dilutes as time passes. Calculus is used for computing the volume of red blood cells so the proper amount of saline solution can be given to the patient during surgery.
+[Read: Probability in Real Life]
+
+
+
+Cardiology: 
+Cardiologists use differential calculus to understand the blood flow dynamics needed for building an artificial aorta model in order to make sure it is placed correctly during transplant.  
+Pharmacology: 
+Understanding drug sensitivity is crucial in finding the proper dosage for maximum output of drug integration. The side effects of a drug, brought about by factors like body temperature change, can be computed through integral calculus. Pharmacologists can make a kidney a changing function in the calculus-based Cockcroft-Gault equation and determine the creatinine levels in the blood to assess the kidney’s functionality. Using these results, the dosage of drugs for treatment can be finalized.
+Neurology: 
+Neurology is the study of the human nervous system, which is a very complex network of neurons that pass the brain’s signals to the entire body and control all physical activities. The system consists of the central nervous system, the brain, and the spinal cord. Integral calculus is used to compute the voltage of a neuron at a certain point. In contrast, differential calculus is used for calculating the change of voltage in a neuron with respect to time.    
+Entomology:
+Entomology is the study of insects. An entomologist conducts research, classifies insects based on species, and finds safe solutions to control insect infestations in indoor and outdoor environments. Calculus is used for modeling and generating insect proficiency through partial derivatives.
+3. Business
+Modern business also benefits from the application of calculus. Some of its uses include: 
+Credit card payments: 
+Calculus is used for setting payment structures and the minimum due amount by the credit card company by considering variables such as interest rates and fluctuating balance. 
+Economics: 
+The price elasticity of supply and demand is determined using calculus. Economists use variables such as the supply-demand curve to find the exact measure of elasticity at a particular point according to changes in price.
+4. Music
+You may be surprised  to know that the use of calculus is not restricted to engineering or medical science, but can also be applied to music. Some applications include:
+Harmonics: 
+An oscillation created by a damped harmonic is not infinite, as friction and air resistance will dissipate the energy. Calculus is used to anticipate these motions to make the proper adjustments and provide the best musical experience to the listeners.
+[Read: Applications of Algebra]
+
+
+
+Acoustics: 
+Resonance and forced oscillation can be computed using calculus. Air resistance varies at different frequencies and resonates throughout an enclosed space whenever a musical instrument is played. Through calculus, we can make improvements on acoustics and improve the listener’s experience. 
+5. Research Analytics
+The application of calculus in research and development has paved the way for manufacturing, data management, gaming, and other service industries to grow exponentially. These applications include:
+Variables in manufacturing: 
+Research analysts use calculus while observing different processes. Based on collected data, companies can optimize their output, productivity, and efficiency, which improves the industry’s quality and revenue.
+Evaluate survey data: 
+Statisticians make use of survey data to find a range of answers for different questions. Using calculus allows them to make accurate predictions, which helps their decision making process.
+Computing birth and death rates: 
+Ecologists use calculus to make dynamic population models that showcase growth without any environmental constraints. Through calculus, accurate predictions on population changes can be made, taking birth and death rates into account.   
+Simulation for video games: 
+Graphic designers use calculus to understand 3D models created through changing conditions.  Based on the results derived from calculus, video games and animated movies are made with a real world perspective.
+6. Meteorology
+Understanding weather patterns is crucial for agriculture, weather warnings, and for preparation in case of extreme conditions. 
+Computing Weather Patterns: 
+Meteorologists use differential calculus equations to predict the effects of varying weather conditions on the atmosphere with respect to temperature, humidity, and pressure changes.  
+[Read: Father of Mathematics]
+
+
+
+Learning calculus is not just beneficial in early academics, but also incredibly useful for a child’s future career. The examples provided can help a student understand just how important the application of calculus is for real life, and why it is so important to learn. At BYJU’S FutureSchool, we celebrate learning in all its forms and would love to help your child expand their mathematical mindset. We teach classes on math, coding, and music (with an expanded curriculum on the way). Regardless of your child’s age or knowledge, there’s a course that’s perfect for them. Check out our website to browse our catalog and sign up for a FREE trial.
+
+
+
+
+Learn with Math, Math 
+
+
+
+
+
+
+
+
+About the Author
+
+
+
+
+
+
+BYJU'S FutureSchool
+
+ 
+View All Articles
+
+
+
+More than just Coding and Math! Our proprietary, activity-based curriculum with live, real-time instruction facilitates: Problem Solving. Creative Thinking. Grit. Confidence. Communication
+
+
+
+
+
+Share Article:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Worksheets to Practice:
+Math Addition Worksheets, Math Subtraction Worksheets, Math Number Worksheets, Math Coins Worksheets, Math Place Value Worksheets, Math Time Worksheets, Math Addition and Subtraction Worksheets, Math Fact Family Worksheets 
+
+
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+Josiah Willard Gibbs, the Math Genius Behind Gibbs Free Energy!
+
+
+
+
+BYJU'S FutureSchool
+
+Apr 12, 2023, 9:09 AM CST
+
+
+
+
+Josiah Willard Gibbs, the Math Genius Behind Gibbs Free Energy!
+                    
+                Most of you have probably heard of Gibbs free energy, as it is one of the essential concepts in math and science. But how many
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+A Brief Introduction to George Dantzig, the Father of Linear Programming!
+
+
+
+
+BYJU'S FutureSchool
+
+Apr 6, 2023, 10:10 AM CST
+
+
+
+
+A Brief Introduction to George Dantzig, the Father of Linear Programming!
+                    
+                Do you recall ever hearing about George Dantzig? Did you know that this math prodigy’s success has a very intriguing backstory? Continue reading to learn
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+Lotfi Zadeh: The Man Behind Fuzzy Logic
+
+
+
+
+BYJU'S FutureSchool
+
+Apr 4, 2023, 8:08 AM CST
+
+
+
+
+Lotfi Zadeh: The Man Behind Fuzzy Logic
+                    
+                Have you heard of Fuzzy Math or Fuzzy Logic? Do you know what the terms mean or their significance? What is Fuzzy Logic? The mathematical
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+How to Create a Mobile Math Game?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 28, 2023, 8:08 AM CST
+
+
+
+
+How to Create a Mobile Math Game?
+                    
+                There is no question that mobile devices are everywhere, and with the advent of powerful smartphones and tablets, there is no end in sight for
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+How Effective is High School Math in Solving Real-life Problems?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 26, 2023, 8:08 AM CST
+
+
+
+
+How Effective is High School Math in Solving Real-life Problems?
+                    
+                People have always contended that math is not useful in the “real world.”1 However, is this true? After all, math is the basis for many
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+What is the Importance of Math in Computer Science?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 24, 2023, 10:10 AM CST
+
+
+
+
+What is the Importance of Math in Computer Science?
+                    
+                Math is one of the most important subjects you can learn for computer science. It teaches problem-solving skills, logical thinking, and how to structure and
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+What Type of Math is Used in Gaming?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 22, 2023, 9:09 AM CST
+
+
+
+
+What Type of Math is Used in Gaming?
+                    
+                Math is used in gaming in various ways. One way that math is used is when gamers are trying to achieve high scores. Gamers often
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+What are the Uses of Math in Everyday Life?
+
+
+
+
+BYJU'S FutureSchool
+
+Mar 20, 2023, 8:08 AM CST
+
+
+
+
+What are the Uses of Math in Everyday Life?
+                    
+                Many people view math as a dry and difficult subject, but its applications are quite helpful in everyday life. For instance, mathematical concepts can be
+Read More...
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+
+
+
+Most Popular
+
+
+
+              The Father of Math - Want to know who created Math?            
+
+
+
+
+
+
+
+
+
+
+              Applications of Trigonometry in Real Life (Uses & Examples)            
+
+
+
+
+
+
+
+
+
+
+              The Importance of Visual Learning in Math            
+
+
+
+
+
+
+
+
+
+
+              10 Applications Of Probability In Real Life            
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+              The Most Famous Mathematicians in the World            
+
+
+
+
+
+
+
+
+
+
+              Math in Everyday Life: Know the Uses & Examples for Making Math Meaningful            
+
+
+
+
+
+
+
+
+
+
+              Why is Math Important? Discover the Purpose of Mathematics            
+
+
+
+
+
+
+
+
+
+
+              Benefits of Math: 3 Surprising Ways it Helps Kids            
+
+
+
+
+
+
+
+
+
+
+              19 Simple Math Magic Tricks to Intrigue Your Child            
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+
+
+
+
+
+ 
+
+
+
+
+Most Popular
+
+
+
+              The Father of Math - Want to know who created Math?            
+
+
+
+
+
+
+
+
+
+
+              Applications of Trigonometry in Real Life (Uses & Examples)            
+
+
+
+
+
+
+
+
+
+
+              The Importance of Visual Learning in Math            
+
+
+
+
+
+
+
+
+
+
+              10 Applications Of Probability In Real Life            
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+              The Most Famous Mathematicians in the World            
+
+
+
+
+
+
+
+
+
+
+              Math in Everyday Life: Know the Uses & Examples for Making Math Meaningful            
+
+
+
+
+
+
+
+
+
+
+              Why is Math Important? Discover the Purpose of Mathematics            
+
+
+
+
+
+
+
+
+
+
+              Benefits of Math: 3 Surprising Ways it Helps Kids            
+
+
+
+
+
+
+
+
+
+
+              19 Simple Math Magic Tricks to Intrigue Your Child            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trigger Popup
+
+
+
+
+
+Start Learning Now
+ 
+            BYJU’S FutureSchool’s live instruction with highly skilled teachers is enhanced by engaging activities, supplemental projects, and dynamic, global events.        
+
+
+
+
+
+Schedule a free class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SubjectsMath
+Coding
+Music
+PoliciesTerms & conditons
+Privacy policy
+Fulfillment policy
+Quick linksJoin as teacher
+Teacher login
+Student login
+Register
+About BYJU’S FutureSchoolAbout us
+Contact us
+Press
+Blogs
+Careers
+Group companiesTynker
+WhiteHat Jr
+Toppr
+BYJU’S Early Learn
+Osmo
+Epic!
+CursosMatemáticas
+Programación
+PolíticasTérminos y condiciones
+Política de privacidad
+Política de reembolsos
+Enlaces claveInicio de sesión: maestras
+Inicio de sesión: alumnos
+Regístrate
+Sobre BYJU’S FutureSchoolNosotros
+Contacto
+Blog
+Carreras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                United States
+                                    
+India
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+© Byju's Future School 2022.
+All Rights Reserved            
+
+                Made with 
+
+
+ in India.            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+No credit card needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATH can be magical.
+Experience it with a FREE trial class!
+
+
+
+
+Book Your Free Class
+Select Your Child’s Grade
+
+
+
+
+
+            Grade        
+            
+1
+
+
+
+
+
+            Grade        
+            
+2
+
+
+
+
+
+            Grade        
+            
+3
+
+
+
+
+
+            Grade        
+            
+4
+
+
+
+
+
+
+
+            Grade        
+            
+5
+
+
+
+
+
+            Grade        
+            
+6
+
+
+
+
+
+            Grade        
+            
+7
+
+
+
+
+
+            Grade        
+            
+8
+
+
+
+ 
+
+
+                        Schedule a free class                    
+
+No credit card needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

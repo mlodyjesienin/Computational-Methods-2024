@@ -1,0 +1,273 @@
+
+
+
+
+
+
+
+Richard Feynman On Knowing Versus Understanding -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+Search
+ 
+
+
+
+
+CurriculaCurricula 
+
+Newsletter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Main Menu
+
+ 
+
+
+
+
+
+
+
+
+
+Newsletter 
+
+
+
+Search for:
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Richard Feynman On Knowing Versus UnderstandingBy  
+
+TeachThought Staff 
+
+
+/  March 30, 2024  / Critical Thinking
+
+
+778ViewsFacebookTwitterSubscribe
+
+
+
+
+
+Richard Feynman On Knowing Versus Understanding
+
+
+
+by TeachThought Staff
+Who is Richard Feynman?
+Richard Feynman, born in 1918, was a theoretical physicist whose work in quantum mechanics earned him the Nobel Prize in Physics in 1965. 
+According to nobelprize.org, Feynman obtained his B.Sc. in 1939 at the Massachusetts Institute of Technology and studied “at Princeton University, where he obtained his Ph.D. in 1942. “He was Research Assistant at Princeton (1940-1941), Professor of Theoretical Physics at Cornell University (1945-1950), Visiting Professor and thereafter appointed Professor of Theoretical Physics at the California Institute of Technology (1950-1959).”
+Feynman’s legendary intelligence–often mentioned alongside Isaac Newton and Albert Einstein–extends beyond theory and practice in science. Feynman was also renowned for his ability to explain complex concepts with clarity and humor. His innovative teaching methods, characterized by wit and a deep understanding of fundamental principles, inspire educators globally. Feynman’s legacy emphasizes the importance of curiosity, imagination, and critical thinking.
+The following is an excerpt from a lecture titled, ‘The Value of Science,’ delivered in New York City in 1955 at the National Science Teachers Association meeting.
+See also What Is The Feynman Technique?
+“Newton’s ideas about space and time agreed with experiment very well, but in order to get the correct motion of the orbit of Mercury, which was a tiny, tiny difference, the difference in the character of the theory needed was enormous. The reason is that Newton’s laws were so simple and so perfect, and they produced definite results. In order to get something that would produce a slightly different result it had to be completely different. In stating a new law you cannot make imperfections on a perfect thing; you have to have another perfect thing. So the differences in philosophical ideas between Newton’s and Einstein’s theories of gravitation are enormous. 
+What are these philosophies? They are really tricky ways to compute consequences quickly. A philosophy, which is sometimes called an understanding of the law, is simply a way that a person holds the laws in his mind in order to guess quickly at consequences. Some people have said, and it is true in cases like Maxwell’s equations, ‘Never mind the philosophy, never mind anything of this kind, just guess the equations. The problem is only to compute the answers so that they agree with experiment, and it is not necessary to have a philosophy, or argument, or words, about the equation’.
+That is good in the sense that if you only guess the equation you are not prejudicing yourself, and you will guess better. On the other hand, maybe the philosophy helps you to guess. It is very hard to say. For those people who insist that the only thing that is important is that the theory agrees with experiment, I would like to imagine a discussion between a Mayan astronomer and his student. The Mayans were able to calculate with great precision predictions, for example, for eclipses and for the position of the moon in the sky, the position of Venus, etc. It was all done by arithmetic. They counted a certain number and subtracted some numbers, and so on. There was no discussion of what the moon was. There was no discussion even of the idea that it went around. They just calculated the time when there would be an eclipse, or when the moon would rise at the full, and so on.
+
+That is good in the sense that if you only guess the equation you are not prejudicing yourself, and you will guess better. On the other hand, maybe the philosophy helps you to guess. It is very hard to say.
+Feynman
+Suppose that a young man went to the astronomer and said, ‘I have an idea. Maybe those things are going around, and there are balls of something like rocks out there, and we could calculate how they move in a completely different way from just calculating what time they appear in the sky’. ‘Yes’, says the astronomer, ‘and how accurately can you predict eclipses?’ He says, ‘I haven’t developed the thing very far yet’. Then says the astronomer, ‘Well, we can calculate eclipses more accurately than you can with your model, so you must not pay any attention to your idea because obviously the mathematical scheme is better’.
+There is a very strong tendency, when someone comes up with an idea and says, ‘Let’s suppose that the world is this way’, for people to say to him, ‘What would you get for the answer to such and such a problem?’ And he says, ‘I haven’t developed it far enough’. And they say, ‘Well, we have already developed it much further, and we can get the answers very accurately’.
+So it is a problem whether or not to worry about philosophies behind ideas. Another way of working, of course, is to guess new principles. In Einstein’s theory of gravitation he guessed, on top of all the other principles, the principle that corresponded to the idea that the forces are always proportional to the masses. He guessed the principle that if you are in an accelerating car you cannot distinguish that from being in a gravitational field, and by adding that principle to all the other principles, he was able to deduce the correct laws of gravitation.
+One of the most important things in this ‘guess – compute consequences – compare with experiment’ business is to know when you are right. It is possible to know when you are right way ahead of checking all the consequences. You can recognize truth by its beauty and simplicity. It is always easy when you have made a guess, and done two or three little calculations to make sure that it is not obviously wrong, to know that it is right. When you get it right, it is obvious that it is right – at least if you have any experience – because usually what happens is that more comes out than goes in. Your guess is, in fact, that something is very simple. If you cannot see immediately that it is wrong, and it is simpler than it was before, then it is right.
+The inexperienced, and crackpots, and people like that, make guesses that are simple, but you can immediately see that they are wrong, so that does not count. Others, the inexperienced students, make guesses that are very complicated, and it sort of looks as if it is all right, but I know it is not true because the truth always turns out to be simpler than you thought. What we need is imagination, but imagination in a terrible strait-jacket. We have to find a new view of the world that has to agree with everything that is known, but disagree in its predictions somewhere, otherwise it is not interesting. And in that disagreement it must agree with nature.
+
+Others, the inexperienced students, make guesses that are very complicated, and it sort of looks as if it is all right, but I know it is not true because the truth always turns out to be simpler than you thought. 
+Feyman
+If you can find any other view of the world which agrees over the entire range where things have already been observed, but disagrees somewhere else, you have made a great discovery. It is very nearly impossible, but not quite, to find any theory which agrees with experiments over the entire range in which all theories have been checked, and yet gives different consequences in some other range, even a theory whose different consequences do not turn out to agree with nature. A new idea is extremely difficult to think of. It takes a fantastic imagination…”
+
+
+
+Video Transcription Courtesy Of Reddit user Reltpid
+
+
+
+   About The Author      TeachThought Staff  TeachThought is an organization dedicated to innovation in education through the growth of outstanding teachers.   
+
+Post navigation
+← Previous PostNext Post →
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2024 TeachThought
+ 
+
+
+
+ TeachThought is intended for users over the age of 18 in the United States and doesn’t specifically target any markets outside of the US nor does it specifically target users in California.
+
+    Quick Search  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

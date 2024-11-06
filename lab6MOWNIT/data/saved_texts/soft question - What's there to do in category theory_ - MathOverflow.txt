@@ -1,0 +1,1570 @@
+
+
+
+
+soft question - What's there to do in category theory? - MathOverflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            MathOverflow
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            MathOverflow Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's there to do in category theory?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+6 years, 6 months ago
+
+
+Modified
+5 years ago
+
+
+Viewed
+                        11k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+            67
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Disclaimer: I posted this question on MSE only a few days ago; and received very few comments. I know that the etiquette is to wait a bit more than that before moving a post from MSE to MO, but I figured that posting it on MO would be an actual improvement because there would be some actual researchers in category theory on this site, willing to give details about what it is they do, what's interesting about it, etc, whereas there may be less of them on MSE. If this isn't appropriate, I'll remove this post, and if it's the case I'm sorry for the disturbance. 
+
+I'm sure anyone who's heard of categories has also heard the classical "Well obviously there aren't any real theorems in category theory, it's much too general", or something in the likes of it.
+Now obviously this argument is invalid (although its conclusion may be correct) because the same could be said of set theory, but there are clearly many really important theorems and results in set theory (I guess I don't have to justify that's it a huge field of research).
+Now these theorems come from the fact that, when we do set theory, we don't just look at $\in$, we look at "derived stuff", like transitive sets, well-ordered sets, models of certain things, filters, etc. (I'm just giving a few examples to explain what I mean, I perfectly know that there's much much more to set theory than just those).
+So the same thing should apply to category theory : of course we're not going to prove of we just stand there with our arrows and objects; you have to consider interesting ones, with more properties etc. 
+My question is about these (sorry for the lengthy intrduction). I know that a big part of category theory (although I don't really know in what proportion) is devoted to studying topoi(/ses ?) and for instance cartesian closed categories.
+But I'm also guessing that there's much more than that to category theory; and my problem is that I don't know much about what is currently studied, what the major subfields of category theory are, or for that matter what subfields there are; so that when I want to refute the argument given at the very beginning I'm a bit stuck because I feel like I'm reducing category theory to topos theory and abelian categories.
+Here's the actual question (after the too wordy introduction) : could you give some examples of subfields of research (if possible, currently, or previously very active fields) in category theory, paradigmatic questions or theorems in those subfields; how they're interesting in themselves and for some, how they can be interesting for other areas in maths (more than just giving a common language) ?
+
+
+
+
+ct.category-theorysoft-questionhigher-category-theoryabelian-categories
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 5, 2017 at 21:21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        3 revs, 3 users 81%Max
+
+
+
+
+
+
+$\endgroup$
+
+5
+
+
+
+
+
+
+18
+
+
+
+
+$\begingroup$
+Just a remark: this impression that a big part of category theory is about topos theory might have been valid at some point  (I believe in the late 80s and during the 90s) but toposes are (sadly) a little bit out of fashion today (that does not means they are not studied any more, just a lot less). My (probably biased) impression is that nowdays the bigest sub-topic in category theory is higher category theory.
+$\endgroup$
+
+– Simon Henry
+
+Nov 29, 2017 at 22:19
+
+
+
+
+
+
+8
+
+
+
+
+$\begingroup$
+You can get some way by looking at the programmes of recent CT conferences, e.g. CT2017 Coimbra and CT2016 Halifax.  I would second what @SimonHenry says about higher category theory being a very active sub-topic; also categorical logic.  Of course, these come first to my mind because they’re the ones I’m involved with myself…
+$\endgroup$
+
+– Peter LeFanu Lumsdaine
+
+Nov 29, 2017 at 22:29
+
+
+
+
+
+
+6
+
+
+
+
+$\begingroup$
+(∞,1)-category theory is now very well-developed, with analogues of almost all 1-categorical results, but (∞,2)-category theory right now is missing huge pieces of the theory of 2-categories, for instance a complete version of the Yoneda lemma.  Dominic Verity has some unpublished results using complicial sets that achieve this in the general (∞,n)-case, but his complicial framework has not yet been adopted by many mathematicians.  Since Yoneda's lemma is fundamental to further development of (∞,n)-category theory, the field is wide open in the complicial arena.
+$\endgroup$
+
+– Harry Gindi
+
+Nov 30, 2017 at 1:18
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+John Baez' Applied Category Theory group are probably worth a mention.
+$\endgroup$
+
+– James Smith
+
+Dec 5, 2017 at 16:42
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+This paper focuses on a concrete category of countable sets, whose nontriviality requires some large cardinal assumptions.  See Theorem 3 and Questions 3-6 at the end.  I don’t usually deal in categorical terms, but it was the right concept to use to organize our ideas and formulate natural questions.
+$\endgroup$
+
+– Monroe Eskew
+
+May 24, 2019 at 16:54
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        4 Answers
+                                    4
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            37
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+There is a majestic paper by Mac Lane
+
+MacLane, Saunders. "Possible programs for categorists." Category Theory, Homology Theory and their Applications I. Springer, Berlin, Heidelberg, 1969. 123-131.
+
+whose opening line is one of the most beautiful I've ever read:
+
+Communication among Mathematicians is governed by a number of unspoken rules. One of these specifies that a Mathematician should talk about explicit theorems or concrete examples, and not about speculative programs. I propose to violate this excellent rule.
+
+I've often wondered what does remains of those suggestions, and I strongly recommend you (if you haven't already) to have a look at this inspiring note: it is a masterpiece of neat exposition and it is replete with the hope that category theory becomes deeper and stronger, with the passing of time.
+It is organized in brief, lapidary short sections, and proposes several directions in which category theory can, should or will go: in a few words
+
+we shall find new general concepts, 
+we shall polish and adapt old ones through (hard work and) time, 
+we shall reach a deeper understanding of structured and low-dimensional higher categories (monoidal categories, bi- and tri-categories and their multiple applications),
+we shall link category theory to differential geometry, mathematical analysis and mathematical physics,
+we shall ground category theory on a real foundation (or even better we shall use it as a foundation).
+
+I'll leave you the pleasure of reading the note for yourself. My opinion (which is only the humble feeling of a young craftman) is that there are few items we can feel we have completely solved, even 50 years later. 
+Of course, today we have more higher category theory than we could ever hope for. Of course, we have a few people working in axiomatic cohesion. Of course, we have people in type theory and in HoTT. And also, we are lucky because today few people question the "importance of being abstract". But there is so much still to do!
+And the best way I can explain what I'm saying is by adding an item to the otherwise complete Mac Lane's list.
+
+We shall work together to let more and more mathematicians see how profound, and beautiful, and inspiring, and elegant category theory is.
+
+Category theory is huge, but few people outside pure mathematics apply it. Many people know that it exists, but few people appreciate its elegant, tautological statements and try to apply it to different things (those who do it are outstanding mathematicians, way better than I will ever be). This is what makes pure mathematics vital: a bunch of flippant engineers and physicists and biologists shaking it, breaking it, deforming it. We shall give other people tools to package immensely deep ideas in an extremely low volume ("rings are spaces"; "homotopy theory is localization"; "the Yoneda lemma"...).
+Last, but not least, I feel we shall communicate why we feel lucky: category theory is an island of beauty in the already beautiful land of mathematics, and we are in love with it. We shall communicate the bliss we feel when we do it. 
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited May 24, 2019 at 16:04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        3 revs, 2 users 98%Fosco Loregian
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I am curious what has been done regarding the fourth item in MacLanes list. I am coming from mathematical analysis and my impression is that CT is more or less non existent there.
+$\endgroup$
+
+– Sebastian Bechtel
+
+Dec 31, 2017 at 11:26
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@SebastianBechtel There are definitely non-trivial links to differential geometry and mathematical physics. I'm not so aware of links to analysis though, but it is not really an area I've spent much time in. Some of the theory of coinduction may be relevant though.
+$\endgroup$
+
+– Derek Elkins left SE
+
+Jan 4, 2018 at 4:53
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@SebastianBechtel Actually Paul Taylor's work on Abstract Stone Duality may or may not at least be in the ball park of what you are hoping for.
+$\endgroup$
+
+– Derek Elkins left SE
+
+Jan 4, 2018 at 7:32
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Few people outside pure math applied category theory back in 2019, but that's changing fast.   Nowadays we're using it to improve modeling techniques in epidemiology, and this is just one of a host of possible applications - it just happens that an expert in epidemiology knew some category theory and was frustrated with the existing sofware for modeling.     There are some papers and a (very gentle introductory) talk here:  math.ucr.edu/home/baez/epidemiology_african
+$\endgroup$
+
+– John Baez
+
+May 31, 2023 at 22:00
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            22
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Through extended TQFT and the cobordism hypothesis, many questions in topological quantum field theory have been turned into explicit questions about higher category theory.
+A TQFT is formalized as a symmetric monoidal functor $Z\colon\mathsf{Bord}_n\to\mathsf C$, where $\mathsf C$ is some symmetric monoidal $(\infty, n)$-category and $\mathsf{Bord}_n$ is the symmetric monoidal cobordism $(\infty, n)$-category.
+Given a group homomorphism $\rho\colon H_n\to \mathrm O_n$, it's possible to consider manifolds with $H_n$-structure, e.g. $\mathrm{SO}_n$ gives an orientation, $\mathrm{Spin}_n$ gives a spin structure, and define a cobordism category of manifolds with $H_n$-structure and hence TQFTs with $H_n$-structure.
+The cobordism hypothesis says that a TQFT is determined by the object of $\mathsf C$ it assigns to a point, and further characterizes which objects can occur: a TQFT with $H_n$-structure is the same data as an $H_n$-homotopy fixed point in the subcategory of fully dualizable objects in $\mathsf C$. (For more on the cobordism hypothesis, check out Dan Freed's exposition.)
+For example, an $\mathrm{SO}_2$-homotopy fixed point in the Morita 2-category of algebras is the same thing as a semisimple Frobenius algebra, and this implies that a semisimple Frobenius algebra determines and is determined by a 2D oriented TQFT.
+More generally, given a dimension and a symmetry type $H_n\to\mathrm O_n$, we would like a similar algebraic characterization, so that we can study TQFTs with algebra and then use algebra to construct TQFTs. In dimension 3, there are examples of algebraic constructions of TQFTs, most notably the Turaev-Viro-Barratt-Westbury (TVBW) construction, whose input data is a spherical fusion category. So these should relate to $\mathrm{SO}_3$-homotopy fixed point structures in some symmetric monoidal 3-category, and characterizing these is as far as I know an open question. This and several related questions are examined by Douglas, Schommer-Pries, and Snyder, among others.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Nov 30, 2017 at 1:08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Arun Debray
+        
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            19
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I apologize in advance for this very long answer. I am pretty sure that many people could write a better version of it. Unfortunately, they are not doing it. So, here we are.
+The very beginning of the question asks for some even classical results in category theory that are relevant outside category theory. My knowledge is very limited thus I will list just few examples. A good research on google could produce the same, even better, result. Few example are better exposed because they are closer to my understanding.
+
+The theory of algebraic theories, known also with the name of Lawevere theories.
+The theory of monads.
+Abelian categories.
+Between 70's and 80's there was a very interesting fashion, that eventually died and I do not understand why. 
+Consider a category, say Hausdorff spaces, can we find a full embedding into a category of algebras?
+This is a very natural question, that we can rephrase in the following way: given a category, how effective can algebra be  when studying it?
+Pultr and Kucera gave a partial answer to this question in The category of compact Hausdorff spaces is not algebraic if there are too many measurable cardinals. In the same fashion Freyd proved that the homotopy category of topological spaces is not concrete. Thus there is no way of building a beautiful fundamental group which classifies homotopical algebra, somehow higher algebra is required by the complexity of the category. One could also relate this article to this subject.
+The theory of locally presentable categories. Given a category $\mathcal{K}$ there is a natural notion of size for its objects called presentability rank. This was introduced by Makkai and Paré. Presentability rank coincides with cardinality (up to some subtleties) in category of models of a theory. It coincides with density of a space in metric spaces, with cardinality of an Hilbert basis in the case of Hilbert spaces. Do you think that such a unifying gadget should be studied? This is just a feature of this theory, the easiest to formulate.
+
+
+As people told you the community seems to be working on HoTT and higher categories but there are also other projects around.
+
+There is an open connection between accessible categories and abstract elementary classes that lately attracted the interest of Grossberg, Boney and Vasey.
+Still some people are working on categorical logic à la Makkai, extending some completeness results to infinitary logic. This is the case of C. Espindola.
+Still some people are working on topos theory, this is the case of Nate Ackerman. O. Caramello is trying to apply this framework to algebraic geometry. The same is trying to do Ingo Blechschmidt.
+W. Kubis gave a shorter proof of the uniqueness of the Gurarii space with a strongly category theoretic approach. This is linked to its presentation of Fraissé theory.
+
+
+As a final remark, I will list three question that I asked on this platform. Obviously this is not interest of any research but they witness how naturally questions in category theory  are related to other fields of mathematics and are not just a rewriting of known results.
+
+How to compute cocontinuity of a functor.
+Free objects in first order theories.
+Model existence theorem in elementary topoi.
+
+
+Now that I have produced some mathematical argumentation in defense of my position, I would like to say that MO is an online community that everybody reads, especially young students.
+I do believe that category theory has proven to be useful in many fields and it is time to stop answering to this kind of questions. One could say that this is just a genuine attempt to ask for the activity of a field but this is just rhetoric. It is impossible for people outside a subject to get into its research just asking "what are you guys doing?" Imagine to do it with algebraic geometry. You simply wouldn't understand the answer.
+This kind of questions cannot be well answered because of the ignorance of the asker. Unfortunately this produces a misperception in the average reader, that will pretend there is no technical research in the subject.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Feb 10, 2018 at 23:40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        12 revsIvan Di Liberti
+
+
+
+
+
+
+$\endgroup$
+
+3
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+Although writing out responses to these kinds of questions is a huge pain (so kudos for what you have written above), it is reasonable in person for an educated graduate student to ask a professor "what are you guys doing?" about their field. (Such a question isn't asking to get into research, just a flavor of the kinds of problems people work on.)  If the professor cannot (after some thought) give an informative even if informal response conveying some illuminating examples and/or motivation (which may take a while to convey!) then the fault is on the professor for not trying hard enough.
+$\endgroup$
+
+– nfdc23
+
+Dec 16, 2017 at 18:28
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+To be honest I don't understand the last part of your answer. I'm sure if I asked this about algebraic geometry I would get great answers, just as I did here. I'm not asking for technical details, but for things like (and I quote my own question) "paradigmatic questions" , and surely these should be explainable to a math student with reasonable mathematical culture. As for why I asked this about category theory and not, say, algebraic geometry, is that I feel around me a lot of hostility towards category theory, which is pereceived as a useless/uninteresting subject by many, (cont.)
+$\endgroup$
+
+– Maxime Ramzi
+
+Feb 11, 2018 at 9:56
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+(Cont.) Hostility which I'm not seeing towards algebraic geometry. Since I'm a big fan of category theory and I'm convinced that it's neither useless nor uninteresting, even at a high mathematical level (i.e. one can go beyond trivial theorems such as "a full and faithful functor reflects monomorphisms"); I wanted to support this idea with more than "well there's toopos theory"; hence the question. And since it was clear in the question that i was not asking for technical stuff, I hope a reader passing by will not be surprised that the answers aren't technical
+$\endgroup$
+
+– Maxime Ramzi
+
+Feb 11, 2018 at 9:59
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            -3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Category Theory is deeply rooted in Computer Science. 
+A by now Classic book is:
+Barr, Wells,  "Category Theory for Computing Science", 1998.
+I also know that software companies (in the Netherlands) apply it.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 4, 2017 at 19:21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Henk Koppelaar
+        
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+6
+
+
+
+
+$\begingroup$
+Can you perhaps elaborate a bit more on that answer? For instance how can it be applied to computer science ? What kind of results are proved for thid purpose ?
+$\endgroup$
+
+– Maxime Ramzi
+
+Dec 4, 2017 at 19:54
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+@Max Category theory is almost everywhere in computer science.
+$\endgroup$
+
+– Philippe Gaucher
+
+Dec 6, 2017 at 10:01
+
+
+
+
+
+
+9
+
+
+
+
+$\begingroup$
+@PhilippeGaucher : I have to admit I don't know much about computer science, and knowing it's "almost everywhere" doesn't help me to grasp how it can be applied
+$\endgroup$
+
+– Maxime Ramzi
+
+Dec 6, 2017 at 11:00
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+This doesn't seem to address the question.
+$\endgroup$
+
+– user21349
+
+Dec 16, 2017 at 20:00
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to MathOverflow!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged ct.category-theorysoft-questionhigher-category-theoryabelian-categories or ask your own question.                                
+
+
+
+
+
+Linked
+
+
+
+10
+
+Free objects in first order theories
+
+
+
+12
+
+Model existence theorem in topos theory
+
+
+
+4
+
+How to compute (co)continuity of functors
+
+
+
+
+Related
+
+
+
+45
+
+Non-examples of model structures, that fail for subtle/surprising reasons?
+
+
+
+71
+
+Is there a nice application of category theory to functional/complex/harmonic analysis?
+
+
+
+6
+
+Untyped Higher Category Theory
+
+
+
+11
+
+'Category-theory'-free areas of pure math, 'category-theory'-loaded areas of applied math
+
+
+
+87
+
+Why higher category theory?
+
+
+
+14
+
+2-category theory
+
+
+
+10
+
+random category theory
+
+
+
+8
+
+What are a couple of examples of finite sized but interesting categories?
+
+
+
+14
+
+Category theory & geometric measure theory?
+
+
+
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MathOverflow
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,436 @@
+
+
+
+
+Differential topology - Wikiversity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Differential topology
+
+From Wikiversity
+
+
+
+Jump to navigation
+Jump to search
+Introduction to Differential Topology  by Prof. Justin Sawon
+Differential topology is a subject in which geometry and analysis are used to obtain topological invariants of spaces, often numerical. Some examples are the degree of a map, the Euler number of a vector bundle, the genus of a surface, the cobordism class of a manifold (the last example is not numerical).
+A manifold is a topological space which is locally homeomorphic to R^n. It is made of open subsets of R^n glued together by homeomorphisms. If these gluing maps are diffeomorphisms, then we obtain a smooth (or differentiable) manifold. These are the basic objects of study of differential topology. They are also the basic objects of study of differential geometry, but whereas differential geometry is concerned mainly with local invariants (for example, curvature), differential topology is concerned with global issues.
+Manifold occur in many branches of mathematics, for example as Lie groups in algebra, as space-time in relativity, as phase-space in mechanics, as state-space in dynamics and differential equations. An important idea in differential topology is the passage from local to global information. As an illustration of the distinction consider differential equations : two solutions which may look similar locally can turn out to have very different global properties (one may be periodic, the other convergent).
+In the above examples there is typically additional structure, such as a group structure (multiplication and inverses), a metric, or a symplectic structure. In differential topology we are interested in the manifold itself and the additional structure is just a tool. This is similar to algebraic topology, which employs triangulations and uses combinatorial methods to obtain topological information.
+As an example, let's look at the Euler characteristic of the sphere S^2. In algebraic topology we have a combinatorial definition. We take a triangulation, and then count the number of vertices, minus the number of edges, plus the number of faces, to get two. In the case of a Platonic solid this is just Euler's theorem. In differential topology we count the number of zeros of a smooth vector field, weighted by their indices, and once again get two. There can be no non-vanishing smooth vector field, a fact known as the hairy ball theorem. Finally, a more geometric definition requires us to choose a metric on the sphere then take the Gaussian curvature K of the corresponding connection. Integrating over the sphere we one again get two (up to a factor of 2Pi). This is the Gauss-Bonnet formula. In all of these definitions we employ some additional structure (a triangulation, a vector field, a metric) but ultimately define a topological invariant which is independent of the choices made.
+From a topological point of view, manifolds have no local invariants. They look the same at every point, and there are symmetries taking a given point to any other in the same connected component. The kinds of questions that one asks in differential topology are therefore global. For example, can we embed one manifold M in another N? If M is homeomorphic to N, is it diffeomorphic to N? Given M, does there exist N such that M is the boundary of N?
+Note: The above text is an excerpt from the course synopsis of MAT 566, Fall 2002, taught at State University of New York/Stony Brook by Prof. Justin Sawon (now teaching in the Mathematics Dept at Colorado State). Permission to use the above excerpt was duly granted by author on 15 January 2007 via E-mail correspondance.No copyright assigned.
+
+External links[edit | edit source]
+vteMathematics resourcesActivities
+Analytical astronomy
+Astrognosy
+Becoming an observer
+Binary stars and extrasolar planets
+Cassiopeia and Ursa Major
+Cosmogony laboratory
+Cratering laboratory
+Distance to the Moon
+Electric orbits
+Electron beam heating
+Empirical radiation astronomy
+Galaxies
+Intergalactic medium
+International Year of Astronomy
+Liquid water on Europa
+Locating the Sun
+Lunar Boom Town
+Lunarpedia
+Magnetic field reversal
+Meteorites
+Neutrinos from the Sun
+Observational astronomy
+Polar reversals
+Spectrum of Vega
+Standard candles
+Stellarium
+Vertical precession
+X-ray classification of a star
+X-ray trigonometric parallax
+Articles
+Radio Interferometer Telescope
+Spectral analysis of stars
+Vedic mathematics
+VELS mathematics
+Categories
+Algebra
+Algorithms
+Analysis
+Applied mathematics
+Arithmetic‎
+Basic mathematics
+Calculus
+College algebra
+Complex analysis‎
+Complex Function Theory
+Complex numbers
+Discrete mathematics‎
+Drilling and threading
+Elementary mathematics
+Equations‎
+Finite element analysis‎
+Finite element software
+Floating point
+Formulas
+Functional analysis
+Functions
+Further Study, College Algebra
+Further Study, Introduction to Limits‎
+Geomathematic‎
+Geometry
+Introduction to Topology
+Laboratory on Mathematics and Mathematics Education
+Mathematical analysis
+Mathematical physics
+Mathematical proofs
+Mathematical theorems
+Mathematics Media
+Numerical analysis
+Numerical methods
+Olympiads
+Philosophy of mathematics
+Pre-Calculus‎
+Probability
+Proofs
+Pure Mathematics
+Real numbers
+Representation theory
+School of Mathematics
+Secondary Math Courses
+Secondary Math Lessons
+Secondary Math Quizzes
+Systems theory
+Trigonometry
+Units of measurement
+Courses
+Calculus I
+Calculus II
+Design and Analysis of Algorithms
+Foundations of mathematical concepts
+Geometry
+Information geometry
+Introduction to calculus
+Introduction to finite elements
+Introduction to Real Analysis
+Introduction to Statistical Analysis
+Introduction to Strategic Studies
+Introductory Algebra
+Mathematical Methods in Physics
+Our Playground: The Real Numbers and Their Development
+Ordinary differential equations
+The Real and Complex Number System
+Vector calculus
+Glossaries
+KinderCalculus/Glossary
+Laboratory on Mathematics and Mathematics Education/Glossary
+Lectures
+Abstract concept generator
+Actuarial Mathematics
+Actuarial science
+Applied analysis
+Astrophysics
+Calculus
+Christoffel symbols
+Discrete mathematics
+Empirical radiation astronomy
+LaTeX
+Mathematical astronomy
+Mathematical induction
+Modelling
+Optimisation
+Probability
+Radiation mathematics
+Scattered disc
+Skewness
+Statistics
+Taylor's series
+Topology
+T-test
+Variable
+X-ray trigonometric parallax
+Z-test
+Lessons
+Haskell/Lesson one
+Introduction to Algebra; Introduction to Calculus./lesson01
+Lesson 1: Topics Map
+Lesson Five: Analytic Geometry
+Factorising quadratics
+Lists
+Materials Science and Engineering/List of Topics
+Tables of Physics Formulae
+Portals
+Discrete Mathematics for Computer Science
+Mathematics
+Problem sets
+Angular momentum and energy
+Column densities
+Cosmic circuits
+Differential equations/Assignment 1
+Energy phantoms
+Furlongs per fortnight
+Lenses and focal length
+Neutrino emissions
+Nonlinear finite elements/Homework 1
+Planck's equation
+Radiation astronomy/Problem set
+Radiation dosage
+Radiation mathematics/Problem set
+Section 1.2 problem
+Spectrographs
+Star jumping
+Synchrotron radiation
+Telescopes and cameras
+Unknown coordinate systems
+Unusual units
+Vectors and coordinates
+Projects
+Astronomy Project
+Quizzes
+Abstract concept generator/Quiz
+Astrophysics/Quiz
+Calculus/Quiz
+Complex Analysis/Sample Midterm Exam 1
+Conditions/Quiz
+Control group/Quiz
+Empirical astronomy/Quiz
+Empirical radiation astronomy/Quiz
+Logic/Quiz
+Magnetohydrodynamics/Quiz
+MacLaurin series/Quiz
+Mathematical astronomy/Quiz
+Mathematical induction/Quiz
+Mathematics/Quiz
+Radiation mathematics/Quiz
+Radiation physics/Quiz
+Scattered disc/Quiz
+X-ray trigonometric parallax/Quiz
+Schools
+Biomathematics
+Mathematics
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Learn more about Differential topology
+
+
+
+
+Retrieved from "https://en.wikiversity.org/w/index.php?title=Differential_topology&oldid=2013149"
+Categories: Resources last modified in May 2019Topology
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+ResourceDiscuss
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadEditEdit sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main PageBrowseRecent changesGuided toursRandomHelpDonate
+
+
+
+
+
+community
+
+
+
+PortalColloquiumNewsProjectsSandbox
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+wikimedia projects
+
+
+
+CommonsWikibooksWikidataWikinewsWikipediaWikiquoteWikisourceWikispeciesWikivoyageWiktionaryMeta-WikiOutreachMediaWikiWikimania
+
+
+
+
+
+Print/export
+
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+In other projects
+
+
+
+Wikimedia CommonsWikipediaWikiquote
+
+
+
+
+
+In other languages
+
+
+
+
+Add links
+
+
+
+
+
+
+ This page was last edited on 11 May 2019, at 23:37.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikiversity
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+

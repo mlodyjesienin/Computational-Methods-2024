@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Are Prime Numbers Used In Cryptography? » ScienceABC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Astrophysics
+Theoretical Physics
+Sports
+Super Heroes
+Earth Science
+
+
+Chemistry
+Biology
+
+Botany
+Zoology
+Medicine
+Neuroscience
+
+
+Engineering
+
+Technology
+Artificial Intelligence
+Computing
+
+
+Mathematics
+Social Science
+
+Psychology
+History
+Sociology
+Geography
+Philosophy
+Economics
+Linguistics
+Art
+
+
+Videos
+Forum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Astrophysics
+Theoretical Physics
+Sports
+Super Heroes
+Earth Science
+
+
+Chemistry
+Biology
+
+Botany
+Zoology
+Medicine
+Neuroscience
+
+
+Engineering
+
+Technology
+Artificial Intelligence
+Computing
+
+
+Mathematics
+Social Science
+
+Psychology
+History
+Sociology
+Geography
+Philosophy
+Economics
+Linguistics
+Art
+
+
+Videos
+Forum
+ 
+
+
+
+
+
+ 
+
+Home  »  Technology
+
+
+
+
+
+
+How Are Prime Numbers Used In Cryptography?
+
+Written by Akash PeshinLast Updated On: 19 Oct 2023Published On: 7 May 2018
+
+
+
+
+Table of Contents (click to expand)TrapdoorThe KeysToo tired to read? Listen on Spotify:
+ Prime numbers are used in cryptography because they are difficult to factorize. This means that it is difficult to find the prime factors of a composite number without knowing the factors to begin with. This makes it difficult for someone to intercept a message and read it without the proper key. A hacker or thief attempting to crack a 400-digit encryption code that obscures your credit card details, with a computer that tests 1 million combinations per second, would take around 10 raised to the power 194 seconds to accomplish the feat. The Universe is 10 raised to the power 18 seconds old. As far as I know, cracking such a code then seems to be quite a tedious task. When Fermat, primarily known for Fermat’s Last Theorem, discovered a subtle method to determine whether a number is prime or composite, his peers couldn’t comprehend the proof’s utility. The proof, for most of its existence, was perceived as a statue is – beautiful, but utterly useless. In fact, discoveries regarding prime numbers were venerated for merely the essence of discovery — for disclosing and making sense of the hidden complexities in mathematics, for solving a curious puzzle — except that they didn’t contribute any substantial solutions to the problems of the real world. In fact, discoveries regarding prime numbers were venerated for merely the essence of discovery — for disclosing and making sense of the hidden complexities in mathematics. (Photo Credit: Wallpoper / Wikimedia Commons) This was until 400 years later when the Internet was born, and the privacy of its billion users, from the content of confidential emails to transactions on e-commerce websites, relied solely on prime numbers. Recommended Video for you:Why is a Circle 360 Degrees, Why Not a Simpler Number, like 100?  Trapdoor Prime numbers are commonly referred to as the “atoms” of the numerical realm, for they are the fundamental, indivisible units that make up every number. For instance, 10 can be written as a product of 2 and 5, two prime numbers. Or, 150 as a product of 15 and 10, which can be further broken down and written as the product of 3, 5, 2 and 5 – all prime numbers. Or, a larger number such as 126, 356, which is composed of larger prime numbers 2,2,31 and 1019. This process of reducing a composite number to a product of prime numbers is known as prime factorization. For a computer, multiplying two prime numbers, each even 100 digits long, isn’t that difficult, however, factorizing the product back into its components is notoriously difficult, even for supercomputers. It is this shortcoming that Rivest, Shamir and Adleman exploited to create RSA encryption in 1977. In cryptography jargon, this unidirectionality is known as a “trapdoor”. For a computer, multiplying two prime numbers, each even 100 digits long, isn’t that difficult, however, factorizing the product back into its components is notoriously difficult, even for supercomputers. (Photo Credit: Pixabay)  Also Read: How Do You Find Prime Numbers?The Keys Let’s say that C is a product of two prime numbers P and Q. While encrypting, say, your credit card details, the number C is used to generate the “public” key. This key, as its name suggests, is available to the public, meaning that it can be intercepted and read by anyone in the network. Banks are known to use public keys that are 617 digits long to secure your private transactions. A public key secures private information by locking it in a box whose handles are tightly clasped with a several hundred-digit combination-lock. The box itself can be accessed by anyone, but the content inside it can’t. While a thief may furtively steal the box, he can’t unlock it without knowing the combination, without possessing the “private” key. This private key is only possessed by the sender and receiver of the content — the bank and you, the proprietor of the credit card.  The private key constitutes the two prime numbers P and Q, which were multiplied to produce C, the public key. Without their knowledge, the thief, to peek in, must factorize C, which could take him thousands of years if the numbers are hundreds of digits long. And trust me, there are a lot of huge prime numbers. The largest I found is 2 raised to the power 43,112,609 subtracted by 1 whose primality was verified by a computer. If you were to write this number on an A4-size paper, it would take you a total of 4376 papers, yes, a tremendously thick stack of 4,376 papers, to complete the sequence. Lastly, factorization is not impossible; it can be done. It is just exorbitantly time-consuming. As technology progresses, we might be able to crunch numbers more quickly. Quantum computers might be highly successful in achieving this, but currently, there are years, and probably decades, before they become fully-functional and ubiquitous. The largest numbers a computer drudgingly factorized into their primes were, 2 raised to the power 512 and recently, 2 raised to the power 768-digit long. Messages are encrypted by 2 raised to the power 1024-digit long public keys, some even by a 2 raised to the power 2048-digit long public key. So, don’t worry, your drunk texts are in safe hands. Also Read: Importance Of Prime Numbers In Nature, Popular Culture And The InternetReferences (click to expand)The science of encryption: prime numbers and mod n arithmetic. The University of California, BerkeleyPrime Numbers - Cryptography Fundamentals. cryptofundamentals.com
+
+
+
+
+Tags: Cryptography, Integer factorization, Mathematics, Prime number, Public-key cryptography
+About the AuthorAkash Peshin is an Electronic Engineer from the University of Mumbai, India and a science writer at ScienceABC. Enamored with science ever since discovering a picture book about Saturn at the age of 7, he believes that what fundamentally fuels this passion is his curiosity and appetite for wonder.
+More from this author   -   Contact UsRelated Posts 
+
+ 
+
+What Are Twin Primes, Cousin Primes And Sexy Primes?
+
+ January 28, 2019
+ Mathematics
+
+
+
+
+
+ 
+
+What Is The Four Fours Puzzle?
+
+ March 31, 2018
+ Mathematics
+
+
+
+
+
+ 
+
+Cracking The Uncrackable: How Did Alan Turing And His Team Crack The Enigma Code?
+
+ December 27, 2015
+ Technology
+
+
+
+
+
+ 
+
+How High Can You Count On Your Fingers?
+
+ February 11, 2017
+ Mathematics
+
+
+
+
+
+ 
+
+Why Is Pi So Important?
+
+ March 14, 2018
+ Mathematics
+
+
+
+
+
+ 
+
+Why Are ATM Card PINs Usually Just 4-Digit Long?
+
+ December 15, 2017
+ Technology
+
+
+
+Related Videos 
+
+ 
+
+What is the Fibonacci Sequence & the Golden Ratio? Simple Explanation and Examples in Everyday Life
+
+ April 23, 2021
+
+
+
+
+
+ 
+
+Human Brain vs Supercomputer: Which One Wins?
+
+ May 19, 2022
+
+
+
+
+
+ 
+
+What Is Pi? Is It Infinite?
+
+ June 30, 2023
+
+
+
+
+
+ 
+
+Is Mathematics INVENTED or DISCOVERED?
+
+ March 13, 2023
+
+
+
+
+
+ 
+
+How Are Computer Games ‘Cracked’?
+
+ June 2, 2023
+
+
+
+
+
+ 
+
+Why Are There '24' Hours In A Day?
+
+ November 3, 2022
+
+
+
+ 
+
+
+
+
+
+Popular Posts  
+
+ 
+
+
+
+
+Why Does Some Poop Float While Others Sink?
+
+
+
+  
+
+ 
+
+
+
+
+Is A Straight Line Always The Shortest Distance Between Two Points?
+
+
+
+  
+
+ 
+
+
+
+
+Can Parasites Control Your Mind?
+
+
+
+  
+
+ 
+
+
+
+
+How Does Our Conscience Work? Do We Have Some Aspect Of It At Birth Or …
+
+
+
+  
+
+ 
+
+
+
+
+How Do Astronauts Grow Plants In Space?
+
+
+
+  
+
+ 
+
+
+
+
+Gunshot To The Head: Does It Always Mean Instant Death?
+
+
+
+  
+
+ 
+
+
+
+
+How Are Computer Games ‘Cracked’?
+
+
+
+  
+
+ 
+
+
+
+
+Blue-Black Or White-Gold? What Color Is The Damn Dress!
+
+
+
+  
+
+ 
+
+
+
+
+What If Earth Had No Atmosphere?
+
+
+
+  
+
+ 
+
+
+
+
+How Do Bug Sprays (Like Raid And Baygon) Kill Cockroaches?
+
+
+
+ 
+Recent Posts  
+
+ 
+
+
+
+
+How Does A Bacteria Become A Superbug?
+
+
+
+  
+
+ 
+
+
+
+
+Why Should We Expose Mushrooms To Sunlight Before Cooking?
+
+
+
+  
+
+ 
+
+
+
+
+Why Do Some People Have Curly Hair While Others Have Straight Hair?
+
+
+
+  
+
+ 
+
+
+
+
+Why Do The Japanese Bow?
+
+
+
+  
+
+ 
+
+
+
+
+Why Do Some People Have A Better Memory Than Others?
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ScienceABC participates in the Amazon
+Associates Program, affiliate advertising program designed to provide a means
+for sites to earn commissions by linking to Amazon. This means that whenever you
+buy a product on Amazon from a link on here, we get a small percentage of its
+price. That helps support ScienceABC with some money to maintain the site.
+Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
+
+
+
+
+
+ScienceABC Copyright © 2024. 
+
+
+
+
+About Us
+Publishing Policy
+Privacy Policy
+Terms of Use
+Contact Us
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

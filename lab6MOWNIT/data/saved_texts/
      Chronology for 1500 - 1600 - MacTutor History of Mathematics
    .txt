@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+      Chronology for 1500 - 1600 - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Chronology
+1500 - 1600
+
+
+
+
+
+
+Previous Chronology
+
+    (1300 - 1500)
+    
+  
+
+Chronology Index
+
+
+All Chronology
+
+
+Next Chronology
+
+    (1600 - 1625)
+    
+  
+
+
+
+
+
+1514
+
+Vander Hoecke uses the + and - signs.
+
+1515
+
+Del Ferro discovers a formula to solve cubic equations. (See this History Topic.)
+
+1522
+
+Tunstall publishes De arte supputandi libri quattuor (On the Art of Computation), an arithmetic book based on Pacioli's Summa.
+
+1525
+
+Rudolff introduces a symbol resembling â for square roots in his Die Coss the first German algebra book. He understands that x0=1x^{0}  = 1x0=1.
+DÃ¼rer publishes Unterweisung der Messung mit dem Zirkel und Richtscheit, the first mathematics book published in German. It is a work on geometric constructions.
+
+1533
+
+Frisius publishes a method for accurate surveying using trigonometry. He is the first to propose the triangulation method.
+
+1535
+
+Tartaglia solves the cubic equation independently of del Ferro. (See this History Topic.)
+
+1536
+
+Hudalrichus Regius finds the fifth perfect number. The number 212 (213  - 1) = 33550336 is the first perfect number to be discovered since ancient times. (See this History Topic.)
+
+1540
+
+Ferrari discovers a formula to solve quartic equations. (See this History Topic.)
+
+1541
+
+Rheticus publishes his trigonometric tables and the trigonometrical parts of Copernicus's work.
+
+1543
+
+Copernicus publishes De revolutionibus orbium coelestium (On the revolutions of the heavenly spheres). It gives a full account of the Copernican theory, namely that the Sun (not the Earth) is at rest in the centre of the Universe.
+
+1544
+
+Stifel publishes Arithmetica integra which contains binomial coefficients and the notation +, -, â.
+
+1545
+
+Cardan publishes Ars Magna giving the formula that will solve any cubic equation based on Tartaglia's work and the formula for quartics discovered by Ferrari. (See this History Topic.)
+
+1550
+
+Ries publishes his famous arithmetic book Rechenung nach der lenge, auff den Linihen vnd Feder. It taught arithmetic both by the old abacus method and the new Indian method.
+
+1551
+
+Recorde translates and abridges the ancient Greek mathematician Euclid's Elements as The Pathewaie to Knowledge.
+
+1555
+
+J Scheybl gives the sixth perfect number 216 (217  - 1) = 8589869056 but his work remains unknown until 1977. (See this History Topic.)
+
+1557
+
+Recorde publishes The Whetstone of Witte which introduces = (the equals sign) into mathematics. He uses the symbol "bicause noe 2 thynges can be moare equalle".
+
+1563
+
+Cardan writes his book Liber de Ludo Aleae on games of chance but it would not be published until 1663.
+
+1571
+
+ViÃ¨te begins publishing the Canon Mathematicus which he intends as a mathematical introduction to his astronomy treatise. It covers trigonometry, containing trigonometric tables and the theory behind their construction.
+
+1572
+
+Bombelli publishes the first three parts of his Algebra. He is the first to gives the rules for calculating with complex numbers.
+
+1575
+
+Maurolico publishes Arithmeticorum libri duo which contains examples of inductive proofs.
+
+1585
+
+Stevin publishes De Thiende in which he presents an elementary and thorough account of decimal fractions.
+
+1586
+
+Stevin publishes De Beghinselen der Weeghconst containing the theorem of the triangle of forces.
+
+1590
+
+Cataldi uses continued fractions in finding square roots.
+
+1591
+
+ViÃ¨te writes In artem analyticam isagoge (Introduction to the analytical art), using letters as symbols for quantities, both known and unknown. He uses vowels for the unknowns and consonants for known quantities. Descartes, later, introduces the use of letters x,y...x, y ...x,y... at the end of the alphabet for unknowns.
+
+1593
+
+Van Roomen calculates Ï to 16 decimal places. (See this History Topic.)
+
+1595
+
+Pitiscus becomes the first to employ the term trigonometry in a printed publication.
+Clavius writes Novi calendarii romani apologia justifying calendar reforms.
+
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

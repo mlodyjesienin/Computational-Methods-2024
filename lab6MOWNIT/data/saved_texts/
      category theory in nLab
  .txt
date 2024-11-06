@@ -1,0 +1,904 @@
+
+
+
+
+
+      category theory in nLab
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nLab
+      category theory
+  
+
+Skip the Navigation Links | 
+
+Home Page |
+    All Pages |
+    Latest Revisions |
+    Discuss this page |
+    Pages contributed to
+ 
+ 
+
+
+
+Contents
+
+
+
+Context
+Category theory
+
+category theory
+Concepts
+
+
+category
+
+
+functor
+
+
+natural transformation
+
+
+Cat
+
+
+Universal constructions
+
+
+universal construction
+
+
+representable functor
+
+
+adjoint functor
+
+
+limit/colimit
+
+
+weighted limit
+
+
+end/coend
+
+
+Kan extension
+
+
+
+
+Theorems
+
+
+Yoneda lemma
+
+
+Isbell duality
+
+
+Grothendieck construction
+
+
+adjoint functor theorem
+
+
+monadicity theorem
+
+
+adjoint lifting theorem
+
+
+Tannaka duality
+
+
+Gabriel-Ulmer duality
+
+
+small object argument
+
+
+Freyd-Mitchell embedding theorem
+
+
+relation between type theory and category theory
+
+
+Extensions
+
+
+sheaf and topos theory
+
+
+enriched category theory
+
+
+higher category theory
+
+
+Applications
+
+applications of (higher) category theory
+
+
+
+Edit this sidebar
+
+
+Mathematics
+
+
+
+mathematics
+
+
+math resources
+
+
+history of mathematics
+
+
+
+
+Structural Foundations
+
+
+logic
+
+internal language
+classical mathematics
+constructive mathematics
+predicative mathematics
+category:foundational axiom
+
+
+
+set theory
+
+structural set theory
+
+
+
+category theory
+
+
+Categories and Sheaves
+
+
+topos theory
+
+Sheaves in Geometry and Logic
+
+
+
+
+
+higher category theory
+
+
+higher topos theory
+
+(∞,1)-topos theory
+
+models for ∞-stack (∞,1)-toposes
+cohomology
+
+
+
+
+
+homotopy theory
+
+stable homotopy theory
+rational homotopy theory
+
+
+
+
+
+
+
+Topology and Geometry
+
+geometry (general list), topology (general list)
+general topology
+differential topology
+differential geometry
+
+synthetic differential geometry
+symplectic geometry
+
+
+algebraic geometry
+noncommutative algebraic geometry
+noncommutative geometry (general flavour)
+higher geometry
+
+
+
+Algebra
+
+
+universal algebra
+
+
+higher algebra
+
+
+homological algebra
+
+
+group theory, ring theory
+
+representation theory
+
+
+
+algebraic approaches to differential calculus
+
+
+counterexamples in algebra
+
+
+
+
+analysis
+
+
+nonstandard analysis
+
+
+functional analysis
+
+operator algebras
+
+
+
+Fourier transform
+
+
+
+
+Lie theory
+
+higher Lie theory
+
+
+
+probability theory
+
+
+discrete mathematics
+
+
+
+
+Edit this sidebar
+
+
+
+
+Contents
+
+
+Idea
+
+Paradigm
+The basic trinity of concepts
+Conceptual unification
+Abstract nonsense
+The nPOV
+
+The central constructions
+
+Presheaves
+Universal constructions
+The central theorems
+
+Applications
+
+In pure mathematics
+Outside of mathematics
+
+Contrast to theories of other objects
+
+Category theory vs. set theory
+Category theory vs. order theory
+
+Theorems
+Related concepts
+References
+
+History
+Textbooks
+
+Basic category theory
+Topos theory
+Higher category theory
+
+Foundations
+Course notes
+Videos
+Relation to philosophy
+Further resources and links
+
+
+
+Idea
+Category theory is a toolset for describing the general abstract structures in mathematics.
+
+Paradigm
+As opposed to set theory, category theory focuses not on elements x,y,⋯x,y, \cdots – called objects – but on the relations between these objects: the (homo)morphisms between them
+x→fy.
+  x \stackrel{f}{\to} y
+  \,.
+
+
+Later this will lead naturally on to an infinite sequence of steps: first 2-category theory which focuses on relation between relations, morphisms between morphisms: 2-morphisms, then 3-category theory, etc. and to various variants, bicategories, Gray categories …. Eventually this leads to higher category theory, where one considers kk-morphisms in all dimensions and to a wealth of interacting intuitions and concepts.
+
+The concept that formalizes this is that of a category: a collection of arrows/morphism that can be composed if they are adjacent
+(x ↓ f y ↓ g z)↦(x ↓ g∘f z).
+  \left(
+    \array{
+       x
+       \\
+       \downarrow^{\mathrlap{f}}
+       \\
+       y
+       \\
+       \downarrow^{\mathrlap{g}}
+       \\
+       z
+    }
+  \;\right)
+  \;\;\;\;
+  \mapsto
+  \;\;\;\;
+
+  \left(
+    \array{
+       x
+       \\
+       \downarrow^{\mathrlap{g \circ f}}
+       \\
+       z
+    }
+  \;\;\;\right)
+  \,.
+
+
+
+Examples
+The archetypical example of a category is the category Set of sets and functions between sets.
+The classical examples of categories are concrete categories whose objects are sets with extra structure and whose morphisms are structure preserving functions of sets, such as Top, Grp, Vect. These are the examples from which the term category derives: these categories literally categorize mathematical structures by packing structures of the same type (same category) and structure preserving mappings between them into a single whole structure, a category.
+But it is far from the case that all categories are of this type. Categories are much more versatile than these classical examples suggest. After all, a category is just a quiver (a directed graph) with a notion of composition of its edges. As such it generalizes the concepts of monoid and poset. If the category is a groupoid, it generalizes the concept of group (in a sense called horizontal categorification) and also the concept of equivalence relation. Thinking of a category as a generalized poset is particularly useful when studying limits and adjunctions.
+Archetypical examples of non-concrete categories are the fundamental groupoid of a topological space and the fundamental category of a directed space.
+
+
+Terminology
+Categories were named after the examples of concrete categories. As Saunders Mac Lane writes
+
+Now the discovery of ideas as general as these is chiefly the willingness to make a brash or speculative abstraction, in this case supported by the pleasure of purloining words from the philosophers: “Category” from Aristotle and Kant, “Functor” from Carnap (Logische Syntax der Sprache), and “natural transformation” from then current informal parlance.
+(Saunders Mac Lane, Categories for the Working Mathematician, 29–30).
+
+However, the categories of category theory are way more general than these concrete categories, and the way Aristotle and Kant use the term in philosophy is not particularly related to what Eilenberg & Mac Lane did with it.
+
+
+The basic trinity of concepts
+Category theory reflects on itself. Categories are about collections of morphisms. And there are evident morphisms between categories: functors. And there are evident morphisms between functors: natural transformations.
+This trinity of concepts
+
+
+category
+
+
+functor
+
+
+natural transformation
+
+
+is what category theory is built on.
+In higher category theory this continues with
+
+kk-transfors for all k∈ℕk \in \mathbb{N}.
+
+
+
+Conceptual unification
+A major driving force behind the development of category theory is its ability to abstract and unify concepts. General statements about categories apply to each specific concrete category of mathematical structures. The general notion of universal constructions in categories, such as representable functors, adjoint functors and limits, turns out to prevail throughout mathematics and manifest itself in myriads of special examples.
+
+
+Abstract nonsense
+This abstraction power of category theory has led Norman Steenrod to coin the term abstract nonsense or general abstract nonsense for it. It is being used as in “This property is not specific to this context, it already follows from general abstract nonsense”. Peter Freyd expressed a similar feeling by his witticism:
+
+ “Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.”
+
+But abstract nonsense still tends to meet with some resistance. In the preface of Mitchell (1965) it says:
+
+A number of sophisticated people tend to disparage category theory as consistently as others disparage certain kinds of classical music. When obliged to speak of a category they do so in an apologetic tone, similar to the way some say, “It was a gift – I’ve never even played it” when a record of Chopin Nocturnes is discovered in their possession. For this reason I add to the usual prerequisite that the reader have a fair amount of mathematical sophistication, the further prerequisite that he have no other kind.
+
+
+
+The nPOV
+The vast applicability and expressiveness of category theory leads to the observation that most structures in mathematics are best understood from a category theoretic or higher category theoretic viewpoint. This is the nPOV.
+
+The central constructions
+Presheaves
+Much of the power of category theory rests in the fact that it reflects on itself. For instance that functors between two categories form themselves a category: the functor category.
+This leads to the notion of presheaf categories and sheaf toposes. Much of category theory is topos theory.
+Under Isbell duality this sets the stage for everything in mathematics related to space and algebra and their duality.
+Universal constructions
+Elementary as it is, the definition of a category supports a powerful set of constructions: universal constructions. These include
+
+
+limit and colimit;
+
+
+adjunction;
+
+
+Kan extension
+
+
+end and coend.
+
+
+All these are special cases of each other and thus reflect different aspect of one single phenomenon. Applying category theory means applying these constructions in specific situations and using general abstract theorems for deducing statements about concrete contexts.
+The central theorems
+Category theory has a handful of central lemmas and theorems. Their proof is typically easy, sometimes almost tautological. Their power rests in the fact that they apply over and over again all over mathematics. Many concrete constructions get simplified by observing that they are but special realizations of these general abstract results in category theory. Among these central theorems are
+
+
+first and foremost: the Yoneda lemma;
+
+
+Isbell duality;
+
+
+the Grothendieck construction;
+
+
+the adjoint functor theorem;
+
+
+the monadicity theorem;
+
+
+Tannaka duality.
+
+
+Applications
+For a detailed list of applications see
+
+applications of (higher) category theory.
+
+In pure mathematics
+Apart from its general role in mathematics, category theory provides the high-level language for
+
+
+logic / type theory
+
+
+higher algebra
+
+
+higher geometry .
+
+
+Outside of mathematics
+Outside of pure mathematics, category theory finds major applications in
+
+
+fundamental physics – see higher category theory and physics
+
+
+theoretical computer science
+
+
+and is increasingly finding applications in such diverse areas as chemistry, network theory and natural language processing. Further information can be found on the applied category theory page.
+Contrast to theories of other objects
+Category theory vs. set theory
+Here set theory is assumed to be a theory of the usual concept of sets, that is material set theory.
+No one of these is more fundamental than the other as a foundation of mathematics. Category theory is a holistic (structural) approach to mathematics that can (through such methods as Lawvere’s ETCS) provide foundations of mathematics and (through algebraic set theory) reproduce all the different axiomatic set theories; elementary category theory does not need the concept of set to be formulated. Set theory is an analytic approach (element-wise) and can reproduce category theory by simply defining all the concepts in the usual way, as long as one include a technique to handle large categories (for instance by using classes instead of sets, or by including as an axiom that an uncountable inaccessible cardinal exists or even that Grothendieck universes exist).
+Set theoryCategory theorymembership relation-
+setscategories
+elementsobjects
+-morphisms
+functionsfunctors
+equations between elementsisomorphisms between objects
+equations between setsequivalences between categories
+equations between functionsnatural transformations between functors
+
+Lawvere pointed out that set theory is axiomatized by a binary membership relation while category theory is axiomatized by a ternary composition relation.
+The process of going from sets to categories is a special case of categorification and the reverse process is a special case of decategorification.
+For a philosophical consideration of foundations covering and comparing sets, structuralism (a la Bourbaki?) and categories, see the article
+
+Sets, categories and structuralism - Costas Drossos
+
+Category theory vs. order theory
+A category may be thought of as a categorification of a poset rather than of a set; much (but by no means all) of category theory also appears in order theory.
+See category theory vs order theory for more discussion.
+Theorems
+
+
+Yoneda lemma
+
+
+Isbell duality
+
+
+Grothendieck construction
+
+
+adjoint functor theorem
+
+
+monadicity theorem
+
+
+adjoint lifting theorem
+
+
+Tannaka duality
+
+
+Gabriel-Ulmer duality
+
+
+small object argument
+
+
+Freyd-Mitchell embedding theorem
+
+
+Related concepts
+
+
+formal category theory
+
+
+enriched category theory
+
+
+internal categorytheory
+
+
+
+higher category theory
+
+
+(0,1)-category theory
+
+
+1-category theory, (∞,1)-category theory
+enriched category theory
+
+
+2-category theory, (∞,2)-category theory
+
+
+(∞,n)-category theory
+
+
+
+
+
+type theory
+
+relation between category theory and type theory
+
+
+
+computer science
+
+computational trinitarianism
+
+
+
+References
+For more see the references at category.
+History
+The concepts of category, functor and natural transformation were introduced in
+
+Samuel Eilenberg, Saunders MacLane, General Theory of Natural Equivalences, Transactions of the American Mathematical Society 58 2 (1945) 231-294 [doi:10.1090/S0002-9947-1945-0013131-6, jstor:1990284]
+
+apparently (see there) taking inspiration from:
+
+Hans Freudenthal, Entwicklungen von Räumen und ihren Gruppen, Comp. Math. 4 (1937) 145-234. [numdam]
+
+The rational for introducing the concept of categories was to introduce the concept of functors, and the reason for introducing functors was to introduce the concept of natural transformations (more specifically natural equivalences) in order to make precise the meaning of “natural” means in mathematics:
+
+If topology were publicly defined as the study of families of sets closed under finite intersection and infinite unions a serious disservice would be perpetrated on embryonic students of topology. The mathematical correctness of such a definition reveals nothing about topology except that its basic axioms can be made quite simple. And with category theory we are confronted with the same pedagogical problem. The basic axioms, which we will shortly be forced to give, are much too simple.
+A better (albeit not perfect) description of topology is that it is the study of continuous maps; and category theory is likewise better described as the theory of functors. Both descriptions are logically inadmissible as initial definitions, but they more accurately reflect both the present and the historical motivations of the subjects.
+ It is not too misleading, at least historically, to say that categories are what one must define in order to define natural transformations.
+(from Freyd 64, page 1)
+
+and
+
+ Category theory is an embodiment of Klein’s dictum that it is the maps that count in mathematics. If the dictum is true, then it is the functors between categories that are important, not the categories. And such is the case. Indeed, the notion of category is best excused as that which is necessary in order to have the notion of functor. But the progression does not stop here. There are maps between functors, and they are called natural transformations. And it was in order to define these that Eilenberg and MacLane first defined functors.
+(from Freyd 65, beginning of Part Two)
+
+The paper Eilenberg-Maclane 45 was a clash of ideas from abstract algebra (Mac Lane) and topology/homotopy theory (Eilenberg). It was first rejected on the ground that it had no content but was later published. Since then category theory has flourished into almost all areas of mathematics, has found many applications outside mathematics and even attempts to build a foundations of mathematics.
+This and much more history is recalled in
+
+
+Saunders MacLane, Concepts and Categories in Perspective, AMS (pdf)
+
+
+Ralf Krömer, Tool and object: A history and philosophy of category theory, Science Networks. Historical Studies 32 (2007) [doi:10.1007/978-3-7643-7524-9]
+
+
+See also:
+
+
+Jean-Pierre Marquis, What is Category Theory?, in G. Sica (ed.) What is Category Theory?, Polimetrica (2006) 221-256 [pdf, semanticscholar]
+
+
+Jean-Pierre Marquis, From a Geometrical Point of View: A Study of the History and Philosophy of Category Theory, Springer (2009) [doi:10.1007/978-1-4020-9384-5]
+
+
+Textbooks
+Basic category theory
+
+
+Peter Freyd, Abelian Categories – An Introduction to the theory of functors, Harper and Row (1964), Reprints in Theory and Applications of Categories, 3 (2003) [tac:tr3, pdf]
+
+
+Peter Freyd, The theories of functors and models, in: Proceedings of Symposium on the Theory of Models, North Holland (1965) [doi:10.1016/C2013-0-11897-1]
+
+
+Barry Mitchell, Theory of categories, Pure and Applied Mathematics 17, Academic Press (1965) [ISBN:978-0-12-499250-4]
+
+
+Saunders MacLane (notes by Ellis Cooper), Lectures on category theory, Bowdoin Summer School (1969)
+
+
+Peter Hilton (ed.) Category Theory, Homology Theory and Their Applications,
+vol 1: Lecture Notes in Mathematics 86, Springer (1969) [doi:10.1007/BFb0079380]
+vol 2: Lecture Notes in Mathematics 92, Springer (1969) [doi:10.1007/BFb0080761]
+vol 3: Lecture Notes in Mathematics 99, Springer (1969) [doi:10.1007/BFb0081959]
+
+
+Bodo Pareigis, Categories and Functors, Pure and Applied Mathematics 39, Academic Press (1970) [doi:10.5282/ubm/epub.7244, pdf]
+
+
+Saunders MacLane, Categories for the Working Mathematician, Graduate texts in mathematics 5, Springer (1971, second ed. 1997) [doi:10.1007/978-1-4757-4721-8]
+
+
+John Gray, Formal category theory: adjointness for 
+
+
+2
+
+2
+
+-categories, Lecture Notes in Mathematics, 391, Springer 1974 (doi:10.1007/BFb0061280)
+(formal category theory in the 2-category Cat)
+
+
+Horst Schubert, Categories, Springer (1972) [doi:10.1007/978-3-642-65364-3]
+
+
+Robert Geroch, Mathematical Physics, University of Chicago Press (1985) [ISBN:9780226223063]
+
+(introduces categories by examples arising in mathematical physics)
+
+
+
+Jiri Adamek, Horst Herrlich, George Strecker, Abstract and Concrete Categories, John Wiley and Sons, New York (1990) reprinted as: Reprints in Theory and Applications of Categories 17 (2006) 1-507 [tac:tr17, book webpage]
+
+
+Peter Freyd, Andre Scedrov, Categories, Allegories, Mathematical Library Vol 39, North-Holland (1990) (ISBN 978-0-444-70368-2)
+
+
+Benjamin Pierce, Basic category theory for computer scientists, 1991 20 (publisher)
+
+
+Francis Borceux, Handbook of Categorical Algebra, Encyclopedia of Mathematics and its Applications 50, Cambridge University Press (1994)
+
+
+Roy L. Crole, Categories for types, Cambridge University Press (1994) [doi:10.1017/CBO9781139172707]
+
+(categorical semantics of type theory)
+
+
+
+Michael Barr, Charles Wells, Category theory for computing science, Prentice-Hall International Series in Computer Science (1995); reprinted in: Reprints in Theory and Applications of Categories 22 (2012) 1-538 [pdf, tac:tr22]
+
+(aimed at computer science, see computational trilogy)
+
+
+
+Steve Awodey, Category theory, Oxford University Press (2006, 2010) [doi:10.1093/acprof:oso/9780198568612.001.0001, ISBN:9780199237180, pdf]
+
+
+Masaki Kashiwara, Pierre Schapira, Categories and Sheaves, 2006
+
+
+F. William Lawvere and Stephen Schanuel, Conceptual Mathematics: A first introduction to categories, 2 nd2^{nd} Edition, Cambridge University Press 2009 (pdf)
+
+
+David Spivak, Category theory for scientists (arXiv:1302.6946)
+
+
+Tom Leinster, Basic Category Theory, 2014
+
+
+Emily Riehl, Category Theory in Context, Dover Publications (2017) [pdf]
+
+
+Martin Brandenburg, Einführung in die Kategorientheorie, Springer 2017
+(doi:10.1007/978-3-662-53521-9)
+
+
+Brendan Fong, David Spivak, An invitation to applied category theory, 2018 (web, pdf)
+
+
+Chris Heunen, Jamie Vicary, Categories for Quantum Theory, Oxford University Press 2019 (ISBN:9780198739616)
+
+(emphasis on monoidal category-theory with an eye towards finite quantum mechanics in terms of dagger-compact categories and quantum computation)
+
+
+
+Marco Grandis, Category Theory and Applications: A Textbook for Beginners, World Scientific, 2021 (doi:10.1142/12253)
+
+
+On category theory in computer science/programming languages (such as for monads in computer science):
+
+Bartosz Milewski (compiled by Igal Tabachnik), Category Theory for Programmers, Blurb (2019) [pdf, github, webpage, ISBN:9780464243878]
+
+Topos theory
+Monographs with focus on topos theory:
+
+
+Peter Johnstone, Topos theory, 1977.
+
+
+Michael Barr, Charles Wells, Toposes, Triples, and Theories, Grundlehren der math. Wissenschaften 278 Springer 1983 (TAC reprints)
+
+(Here “triple” means“ monad”).
+
+
+
+Robert Goldblatt, Topoi, the categorial analysis of logic, 1984 (gbnooks)
+
+
+Colin McLarty, Elementary Categories, Elementary Toposes, Oxford University Press 1992 (ISBN:9780198514732)
+
+
+Ieke Moerdijk, Saunders Mac Lane, Sheaves in Geometry and Logic Springer 1992
+
+
+Peter Johnstone, Sketches of an Elephant, vol 1-2, Oxford University Press 2002
+
+
+Higher category theory
+
+
+Carlos Simpson, Homotopy Theory of Higher Categories (pdf)
+
+
+Project description: higher categorical structures and their applications (pdf)
+
+
+Jacob Lurie, Higher Topos Theory (pdf)
+
+
+Tom Leinster, Higher operads, higher categories, math.CT/0305049
+
+
+Eugenia Cheng, Aaron Lauda, Higher-dimensional categories: an illustrated guide book free online
+
+
+Towards homotopy theory:
+
+Birgit Richter, From categories to homotopy theory, Cambridge Studies in Advanced Mathematics 188, Cambridge University Press 2020 (doi:10.1017/9781108855891, book webpage, pdf)
+
+Foundations
+The foundation of category theory in homotopy type theory (see at internal category in homotopy type theory) is discussed in
+
+Benedikt Ahrens, Chris Kapulkin, Michael Shulman, Univalent categories and the Rezk completion (arXiv:1303.0584)
+
+Course notes
+
+
+Jaap van Oosten, Basic category theory (2002) [pdf]
+
+
+Thomas Streicher, Introduction to Category Theory and Categorical Logic (2003) [pdf, pdf]
+
+
+Bodo Pareigis, Category theory (2004) [dvi, ps, pdf]
+
+
+Tom Leinster, Notes on basic category theory (2007) [web]
+
+
+David Spivak, Category theory for scientists [arXiv:1302.6946]
+
+
+Peter Johnstone, Category Theory , Lecture notes taken by David Mehrle, University of Cambridge (2015) [pdf]
+
+
+Paolo Perrone, Notes on Category Theory with examples from basic mathematics (2019) [arXiv:1912.10642]
+
+
+André Joyal, Categories
+
+
+Benedikt Ahrens and Kobe Wullaert, Category Theory for Programming (2022) [arXiv:2209.01259]
+
+
+Videos
+
+The Catsters, Videos on various topics in category theory. (YouTube link)
+
+Videos at an introductory level that cover basic concepts and constructions of category theory. The Catsters are Eugenia Cheng and Simon Willerton (anyone else?).
+
+Tom LaGatta, Category theory (video)
+
+Enthusiastic, mostly nontechnical talk given by a probability theorist, made for an audience innocent of any exposure to category theory.
+Relation to philosophy
+Discussion of the relation to and motivation from the philosophy of mathematics includes
+
+Colin McLarty, The Last Mathematician from Hilbert’s Göttingen: Saunders Mac Lane as Philosopher of Mathematics,Brit. J. Phil. Sci. 2007 (pdf)
+
+Further resources and links
+There are several networks of category theorists organised, initially, at a national level and aiming to join forces to organise conferences, online seminars, etc.:
+
+networks of category theorists.
+
+
+
+
+
+    Last revised on April  4, 2024 at 18:55:31.
+    See the history of this page for a list of all contributions to it.
+    
+
+
+EditDiscussPrevious revisionChanges from previous revisionHistory (284 revisions)
+Cite
+Print
+Source
+
+ 
+ 
+
+

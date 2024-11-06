@@ -1,0 +1,871 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foundations of Topology: An Approach to Convenient Topology | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Book
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Foundations of Topology
+        
+An Approach to Convenient Topology
+
+Book
+© 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Gerhard Preuss
+0
+
+
+
+
+
+
+Gerhard Preuss
+
+
+
+                                    
+                                        Institut für Mathematik I, Freie Universität Berlin, Berlin, Germany
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+5399 Accesses
+
+
+
+
+32 
+Citations
+
+
+
+
+
+5
+                    
+Altmetric
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 85.59 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 106.99 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 106.99 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (8 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-xviii
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Preliminaries
+
+
+Gerhard Preuss
+
+Pages 1-27
+
+
+
+
+
+
+
+
+Topological Constructs
+
+
+Gerhard Preuss
+
+Pages 29-43
+
+
+
+
+
+
+
+
+Reflections and Coreflections
+
+
+Gerhard Preuss
+
+Pages 45-89
+
+
+
+
+
+
+
+
+Topological Universes
+
+
+Gerhard Preuss
+
+Pages 91-110
+
+
+
+
+
+
+
+
+Completions of Semiuniform Convergence Spaces
+
+
+Gerhard Preuss
+
+Pages 111-159
+
+
+
+
+
+
+
+
+Connectedness Properties
+
+
+Gerhard Preuss
+
+Pages 161-179
+
+
+
+
+
+
+
+
+Function Spaces
+
+
+Gerhard Preuss
+
+Pages 181-217
+
+
+
+
+
+
+
+
+Relations between Semiuniform Convergence Spaces and Merotopic Spaces (including Nearness Spaces)
+
+
+Gerhard Preuss
+
+Pages 219-253
+
+
+
+
+
+
+
+Back Matter
+Pages 255-303
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+algebra
+
+
+
+
+function space
+
+
+
+
+topology
+
+
+
+
+
+
+About this book
+
+                    A new foundation of Topology, summarized under the name Convenient Topology, is considered such that several deficiencies of topological and uniform spaces are remedied. This does not mean that these spaces are superfluous. It means exactly that a better framework for handling problems of a topological nature is used. In this setting semiuniform convergence spaces play an essential role. They include not only convergence structures such as topological structures and limit space structures, but also uniform convergence structures such as uniform structures and uniform limit space structures, and they are suitable for studying continuity, Cauchy continuity and uniform continuity as well as convergence structures in function spaces, e.g. simple convergence, continuous convergence and uniform convergence. Various interesting results are presented which cannot be obtained by using topological or uniform spaces in the usual context. The text is self-contained with the exception of the last chapter, where the intuitive concept of nearness is incorporated in Convenient Topology (there exist already excellent expositions on nearness spaces).
+                
+
+
+Authors and Affiliations
+
+
+
+
+                                        Institut für Mathematik I, Freie Universität Berlin, Berlin, Germany
+                                    
+
+                                    
+                                        Gerhard Preuss
+                                    
+                                
+
+
+
+
+
+Bibliographic Information
+
+
+
+Book Title: Foundations of Topology
+Book Subtitle: An Approach to Convenient Topology
+Authors: Gerhard Preuss
+DOI: https://doi.org/10.1007/978-94-010-0489-3
+Publisher: Springer Dordrecht
+
+eBook Packages: 
+
+Springer Book Archive
+
+
+
+Copyright Information: Springer Science+Business Media Dordrecht 2002
+Hardcover ISBN: 978-1-4020-0891-7Published: 31 October 2002
+Softcover ISBN: 978-94-010-3940-6Published: 02 November 2012
+eBook ISBN: 978-94-010-0489-3Published: 27 June 2011
+Edition Number: 1
+Number of Pages: XVIII, 303
+Number of Illustrations: 2 b/w illustrations
+Topics: 
+
+Topology, 
+Algebraic Topology, 
+Category Theory, Homological Algebra, 
+Functional Analysis
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 85.59 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 106.99 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 106.99 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.3: The Manhattan Project - Labs and Fuel - Chemistry LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+6: Nuclear Weapons- Fission and FusionCHM101: Chemistry and Global Awareness (Gordon){ }{ "6.01:__The_History_and_Basics_of_Fission" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.02:_The_Manhattan_Project_-_Prewar" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.03:_The_Manhattan_Project_-_Labs_and_Fuel" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.04:_The_Manhattan_Project_-_Critical_Mass_and_Bomb_Construction" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.05:_Hiroshima_and_Nagasaki" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.06:_Aftermath_of_Bombings" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.07:_Fusion" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.08:_Fallout_and_Weapons_Testing" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.09:_Additional_Readings_and_Media_Fun" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "6.E:_Nuclear_Weapons-_Fission_and_Fusion_(Exercises)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "01:_Introduction_to_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02:_The_Mathematics_of_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03:_Atoms_and_the_Periodic_Table" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04:_Valence_Electrons_and_Bonding" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05:_Basics_of_Nuclear_Science" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "06:_Nuclear_Weapons-_Fission_and_Fusion" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "07:_Nuclear_Energy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "08:_Water_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "09:_Organic_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Pharmaceuticals" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Mon, 26 Jun 2023 19:58:00 GMT6.3: The Manhattan Project - Labs and Fuel106759106759admin{ }AnonymousAnonymous User2falsefalse[ "article:topic", "authorname:gordone", "showtoc:no", "license:ccbyncsa", "licenseversion:40" ][ "article:topic", "authorname:gordone", "showtoc:no", "license:ccbyncsa", "licenseversion:40" ]https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FCourses%2FFurman_University%2FCHM101%253A_Chemistry_and_Global_Awareness_(Gordon)%2F06%253A_Nuclear_Weapons-_Fission_and_Fusion%2F6.03%253A_The_Manhattan_Project_-_Labs_and_Fuel
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Campus Bookshelves
+                            
+
+
+
+
+                                    Furman University
+                            
+
+
+
+
+                                    CHM101: Chemistry and Global Awareness (Gordon)
+                            
+
+
+
+
+                                    6: Nuclear Weapons- Fission and Fusion
+                            
+
+
+
+                            6.3: The Manhattan Project - Labs and Fuel
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        6.3: The Manhattan Project - Labs and Fuel
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID106759
+
+
+
+
+Elizabeth GordonFurman University
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+Designated Areas for Laboratories Four Major ProjectsProject 1: Obtaining and purifying U-235Mining UraniumGaseous DiffusionElectromagnetic SeparationUse of enriched U-235Project 2: Synthesizing Pu-239Example \(\PageIndex{1}\)SourcesContributors and Attributions
+
+
+
+Designated Areas for Laboratories 
+For security purposes, the Manhattan Project selected several different geographical locations for laboratory research areas. Most employees at a research facility were not aware of the ultimate goal of this endeavor. Only selected scientists and engineers were informed of the existence of other working laboratories that would contribute to the construction of the first atomic bomb. The Manhattan Project employed over 130,000 people at a cost of 2 billion dollars at the time (today's estimate would be over 20 billion).
+
+Figure \(\PageIndex{1}\): Shift-change at the Y-12 plant in Oak Ridge, Tennessee.
+
+Different laboratory sites employed all types of workers. Engineers and scientists focused on different mechanisms of the atomic bomb. Construction workers built barracks, laboratories, schools, and community buildings. Medical personnel assisted residents with health care concerns and needs. Educators were hired for newly constructed schools. In addition, factory workers were employed to man different stations of each research facility. Figure \(\PageIndex{2}\) shows the integral laboratories of the Manhattan Project. For a sample of what is was like to work at one of these settings, click on this link and watch a part of the entire interview of a female scientist who worked at Los Alamos National Laboratory.
+
+Figure \(\PageIndex{2}\):Various lab locations during the Manhattan Project. Image taken from: https://www.osti.gov/opennet/manhatt...esMapLarge.jpg
+
+Four Major Projects
+From December of 1941 to August 1945, the labs showed in Figure \(\PageIndex{2}\) focused on four major problems in the construction of the first nuclear weapon. In this section of the text, we will analyze two of these issues. It is important for you to grasp the basic chemistry/physics incorporated to solve the problem. In addition, please correlate the lab responsible for solving each problem with its lead scientists. The four major obstacles that plagued Manhattan Project Scientists/ Engineers were:
+
+Obtaining and purifying U-235 to use as weapon fuel (Oak Ridge, TN by Ernest Lawrence)
+Synthesizing Pu-239 to be used as an alternate weapon fuel (Hanford, WA by Glen Seaborg)
+Calculating the critical mass of nuclear fuel to ensure a chain reaction (the University of Chicago, IL by Enrico Fermi and Leo Szilard)
+Assembling and then testing nuclear device (Los Alamos, NM by J. Robert Oppenheimer) 
+
+Project 1: Obtaining and purifying U-235
+Mining Uranium
+Significant amounts of uranium can be found the western part of the United States, Australia,Canada, and Kazakhstan.  When located in the earth, uranium exists as an oxide (UO2).  This compound is part of an ore that contains other minerals.  The most common of these uranium containing ores is called pitchblende or Uraninite.  
+
+
+
+
+
+Figure \(\PageIndex{3}\): (left) Uranium Ore. Collected by Verl Allman, November 1965, from Shinkolobwe, Belgian Congo. Mineral collection of Brigham Young University Department of Geology, Provo, Utah. Photograph by Andrew Silver. No BYU index, U. (right) A photo of yellowcake uranium, a solid form of uranium oxide produced from uranium ore. Yellowcake must be processed further before it is made into nuclear fuel. Courtesy of Energy Fuels Inc.
+
+Once harvested, pitchblende is crushed and treated with acid to isolate UO2.  Typically, a ton of pitchblende mined will yield only 2 to 4 pounds of UO2.  The purified form of UO2 is dried to form a cake- like solid.  From here, uranium yellowcake is combined with fluorine to form gaseous uranium hexafluoride (UF6).  This product will be enriched in order to meet the nuclear requirements of a country (nuclear reactors use 2-5% enriched fuel while nuclear bombs utilize 90 % enriched material).
+ 
+
+Natural uranium contains 0.7205% U-235, the fissile isotope of uranium. The remaining mass includes 99.274% U-238 and a small amount of U-234 (0.0055%). Uranium-238 does not contribute to slow neutron fission; however, it can react with neutrons to form a fissile isotope of plutonium, Pu-239. Thus U-238 is known as a fertile material, i.e., one that can produce fissile materials. Although U-235 and U-238 are chemically identical, they differ slightly in their physical properties, most importantly mass. This small mass difference allows the isotopes to be separated and makes it possible to increase (enrich) the percentage of U-235 in uranium.
+In producing U-235 for the first atomic bomb, Manhattan Project scientists considered four physical processes for uranium enrichment:
+
+gaseous diffusion (effusion),
+electromagnetic separation,
+liquid thermal diffusion, and
+centrifugation.
+
+This text will focus only on the first two mentioned methods of isotopic separation. During the project, the electromagnetic separation, gaseous diffusion, and liquid thermal diffusion were employed at Oak Ridge, Tennessee. The combination of these processes formulated the fuel for the Hiroshima bomb (Little Boy). Centrifugation was abandoned because the technology and materials required to spin corrosive uranium hexafluoride with a rotator at high speeds were not practical for industrial, large-scale separations. However, advances in technology and materials make centrifugation the preferred method of enrichment today.
+Gaseous Diffusion
+Gaseous diffusion has been used to produce enriched uranium for use in nuclear power plants and weapons. Nuclear reactors require fuel that is 2–5% 235U, and nuclear bombs need around 90% U-235 concentrations. In a gaseous diffusion enrichment plant, uranium hexafluoride (UF6, the only uranium compound that is volatile enough to work) is slowly pumped through large cylindrical vessels called diffusers, which contain porous barriers with microscopic openings. The process is one of diffusion because the other side of the barrier is not evacuated. The 235UF6 molecules have a higher average speed and diffuse through the barrier a little faster than the heavier 238UF6 molecules. The gas that has passed through the barrier is slightly enriched in 235UF6 and the residual gas is slightly depleted. The small difference in molecular weights between 235UF6 and 238UF6 only about 0.4% enrichment, is achieved in one diffuser (Figure \(\PageIndex{4}\)). But by connecting many diffusers in a sequence of stages (called a cascade), the desired level of enrichment can be attained.
+
+Figure \(\PageIndex{4}\): In a diffuser, gaseous UF6 is pumped through a porous barrier, which partially separates 235UF6 from 238UF6 The UF6 must pass through many large diffuser units to achieve sufficient enrichment in 235U.
+
+The gaseous diffusion method of isotopic separation presented many problems. First, a non-corrosive material (nickel and aluminum oxide) would need to be selected to serve as a barrier. The holes in the barrier needed to be microscopic (approximately one-millionth of an inch in diameter) and uniform in size. Gaseous diffusion plants require very large amounts of energy to alter pressurized areas in the diffuser cascades. In addition, the entire system must be leak-free; no air can be allowed in and no uranium hexafluoride (extremely corrosive gas) can escape.
+
+Figure \(\PageIndex{5}\): The K25 Gaseous Diffusion Plant at Oak Ridge, Tennessee. Courtesy of Atomic Archive
+
+The laboratory facility that would handle the large-scale separation of gaseous 235UF6 from 238UF6 was constructed at Oak Ridge, Tennessee. This plant, built during World War II, was half a mile long, six stories high, and covered 43 acres.
+Electromagnetic Separation
+The electromagnetic isotope separation (EMIS) process is based on the principle of a simple mass spectrometer, which states that a charged particle will follow a circular path when passing through a uniform magnetic field. Thus, uranium tetrachloride chloride ions containing U-235 and those containing U-238 with the same charge and kinetic energy (energy-related to movement) will have slightly different paths when moving through a magnetic field. The radius of the path traversed by the heavier U-238 ions will be larger than the radius of the path of the lighter U-235 ions. This allows for the separation and collection of the isotopes in receivers (Figure \(\PageIndex{4}\)).
+
+Figure \(\PageIndex{6}\): J. Robert Oppenheimer (father of the atomic bomb), Enrico Fermi (the scientist who invented fission), and Ernest Lawrence (the engineer who designed calutrons) discussing U-235 enrichment. Photograph of the calutron in the Y-12 facility. Images were taken from upload.wikimedia.org/wikiped..._Lawrence.jpeg and upload.wikimedia.org/wikiped...lpha_Track.jpg
+
+EMIS units, known as "calutrons", were operated in the Y-12 area of Oak Ridge. EMIS is a batch process, with each unit requiring a long time to produce small amounts of U-235, many units were used to produce the first fissionable uranium. Uranium ions for the EMIS are generated by heating solid uranium tetrachloride, \(\ce{UCl4}\), to produce a vapor that is then bombarded with electrons to produce positively charged ions. There was a major problem with this process: less than half of the original U-235 was collected in the receivers. The rest was scattered throughout the calutron and was difficult to recover. At Oak Ridge, two groups of calutrons were used to produce weapons-grade uranium. The first group, or alpha calutrons, enriched uranium (7.0% U-235) from the gaseous diffusion plant to between 12 and 20% U-235. The second group, or beta calutrons, took the alpha product and enriched it to approximately 90% U-235 (weapons-grade uranium). As difficulties with the gaseous diffusion process were overcome, the EMIS process was phased out.
+Use of enriched U-235
+By the spring of 1945, Oak Ridge had shipped approximately 132 lbs. of enriched uranium (90% U-235) to Los Alamos, New Mexico; it had been produced using thermal diffusion, gaseous diffusion, and electromagnetic separation (Figure \(\PageIndex{7}\)). This enriched uranium was used in "Little Boy", the bomb dropped on Hiroshima on August 6, 1945. With the discontinuation of thermal diffusion and electromagnetic separation after the war, gaseous diffusion became the primary method for enriching uranium in the United States. Today, most nuclear weapons use plutonium as the fissionable component.
+
+Figure \(\PageIndex{8}\): Methods Used to Produce Enriched Uranium for the First Atomic Bomb(Frank Settle)
+
+Project 2: Synthesizing Pu-239
+In the winter of 1940, a group of chemists (Glenn Seaborg, Edwin McMillan, Joseph Kennedy, and Arthur Wahl) bombarded U-238 with deuterons (H-2) in the University of California (Berkeley) cyclotron. They identified a new isotope of Np, which decayed by beta emission and produced a new element, plutonium.
+
+\[\ce{^{238}_{92}U_{92}} + \ce{^2_1H} \rightarrow \ce{^{ 238}_{93}Np} + \ce{2^1n_0} \nonumber \]
+\[ \ce{^{238}_{93}Np} \overset{ \tau_½ = 2.12 days}{\longrightarrow } \ce{^{238}_{94}Pu} + \beta^- \nonumber \]
+\[\ce{^{238}_{94}Pu} \overset{ \tau_½ = 90 year}{\longrightarrow } \alpha^{2+} + \ce{^{236}_{92}U} \nonumber \]
+
+Figure \(\PageIndex{8}\): Glen Seaborg, the discoverer of Pu-239, standing in his laboratory. (Public Domain; United States Department of Energy).
+
+The new plutonium atom was chemically different from U, Np, and other reaction products. At this time, Seaborg and Wahl could not identify which Pu isotope produced the alpha activity. It was later identified as Pu-238. In the spring of 1941, another more important isotope of plutonium, Pu-239, was produced using neutrons from the Berkeley cyclotron to target a uranium compound surrounded by paraffin. This new Pu isotope, an alpha emitter with a half-life of about 24,000 years, was separated from other reaction products using the same chemistry as that used to isolate Pu-238. However, the longer half-life of Pu-239 reduced its activity, making it more difficult to detect than Pu-238.
+\[\ce{ ^{238}_{92}U + ^1n_0 \rightarrow ^{ 239}_{92}U + \gamma} \nonumber \]
+\[\ce{^{239}_{92} U \overset{ \tau_½ = 23.5 min}{\longrightarrow } \, ^{239}_{93}Np + \beta^{-}} \nonumber \]
+\[\ce{^{239}_{93}Np \overset{ \tau_½ = 2.35 days}{\longrightarrow }\, ^{239}_{94}Pu + \beta^{-}} \nonumber \]
+\[\ce{^{239}_{93} Pu\overset{ \tau_½ = 24,110 yrs}{\longrightarrow }\, ^{235}_{92}U + \alpha} \nonumber \]
+In March 1941, Seaborg’s group irradiated a sample estimated to contain 0.25 mg of Pu-239 surrounded by paraffin with neutrons produced in the cyclotron. Under these conditions, this isotope appeared to undergo fission. When the Pu was replaced with a sample containing approximately 0.5 mg U-235, the other known fissionable material, neutron-induced fission was also observed, but at a rate approximately half that of Pu-239. This discovery raised the possibility of using a controlled chain reaction to produce quantities of Pu-239 sufficient for nuclear weapons. The product Pu-239 would have to be separated from the unreacted uranium and fission products by chemical means. It now became important to investigate the chemistry of plutonium to develop large-scale separation procedures.
+However, in the summer of 1942, the cyclotron was the only means of producing plutonium, and the amounts produced were so small that they could not be seen or weighed with existing balances. Calculations showed that long periods of neutron bombardment of uranium in the cyclotron would produce only a few micrograms of Pu-239, much less than that normally required to determine the physical and chemical properties of a new element. The preparation and measurement of such small quantities of plutonium required the development of "ultramicrochemical" techniques and equipment.
+At the University of Chicago's Metallurgical Lab (referred to as the Met Lab), the first weighing of a plutonium compound occurred in the fall of 1942. Only 2.77 micrograms of PuO2 were isolated and measured with a balance especially designed for small masses. In November 1943, the first pure plutonium metal was chemically prepared at a temperature of 1,400o C. The plutonium metal appeared as silvery globules weighing about 3 micrograms each.
+
+Figure \(\PageIndex{9}\): Twenty micrograms of plutonium hydroxide in a capillary tube, September 1942 (Courtesy of the University of California, Berkeley)
+
+Although the Pu-239 isotope had the potential to be fissionable material for bombs or power generation, the realization of this potential required larger amounts of this isotope. Large-scale production of Pu-239 required a controlled nuclear chain reaction of uranium, a feat that would soon be achieved by Enrico Fermi and Leo Szilard in Chicago. A facility to mass-produce Pu-239 was built in Hanford, Washington. Glenn Seaborg was assigned to direct this particular laboratory. The resulting fuel would be used in the Trinity test bomb, the Nagasaki bomb, and two reserve weapons.
+
+Figure \(\PageIndex{11}\): Routes to Fissionable Materials for Atomic Bombs
+
+
+Example \(\PageIndex{1}\)
+Watch from the 11-minute mark of this video to the 23:20 mark. Then, answer the questions below.
+
+
+What region of the country was selected to be the bomb design site?
+Who did General Groves select to be the lead scientist? Briefly describe his personality.
+How much U-235 was enriched during the Manhattan Project? What amount of U-235 was used in the construction of Little Boy?
+What was special about the construction of Y-12? Where was this facility and what did it provide for the Manhattan Project?
+How did Groves convince construction workers to come to Y-12?
+Did the calutrons work perfectly when the alpha one racetrack was started?
+What was the Gadget? What type of fuel would it use and how would it explode?
+What element was made in 1941? What area of the country would produce this isotope in large amounts?
+Is Pu-239 more or less likely to undergo fission than U-235?
+What is K-25 and where is it located? What would K-25 produce?
+
+Sources
+
+http://www.history.com/topics/the-manhattan-project
+https://www.osti.gov/opennet/manhatt...m_research.htm
+
+Contributors and Attributions
+
+Frank A. Settle (Washington and Lee University)
+
+Muneeba Ali (Furman University)
+
+
+
+This page titled 6.3: The Manhattan Project - Labs and Fuel is shared under a CC BY-NC-SA  4.0  license and was authored, remixed, and/or curated by Elizabeth Gordon. 
+
+
+
+
+
+
+
+
+Back to top
+
+
+6.2: The Manhattan Project - Prewar
+
+
+6.4: The Manhattan Project - Critical Mass and Bomb Construction
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+Author
+Elizabeth Gordon
+
+
+License
+CC BY-NC-SA
+
+
+License Version
+4.0
+
+
+Show Page TOC
+no on page
+
+
+
+Tags
+
+
+
+            This page has no tags.
+    
+
+
+
+
+
+
+
+
+© Copyright 2024 Chemistry LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

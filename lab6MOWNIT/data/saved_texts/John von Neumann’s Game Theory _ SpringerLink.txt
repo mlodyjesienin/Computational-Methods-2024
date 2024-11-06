@@ -1,0 +1,664 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+John von Neumann’s Game Theory | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Moral Calculations
+
+
+
+
+
+Chapter
+
+
+
+John von Neumann’s Game Theory
+
+Chapter
+
+
+
+ pp 83–102
+
+
+Cite this chapter
+
+
+
+
+
+
+
+
+
+
+
+Moral Calculations
+
+
+
+
+
+
+
+
+
+
+
+
+
+László Mérő 
+
+
+
+
+
+
+565 Accesses
+
+
+
+
+1 
+Citations
+
+
+
+
+
+
+
+
+
+AbstractThe fundamental theorem of John von Neumann’s game theory states that in a broad category of games it is always possible to find an equilibrium from which neither player should deviate unilaterally. Such equilibria exist in every two-person game that satisfies the following criteria:
+
+
+1.
+The game is finite both in that the number of options at each move is finite and in that the game always ends in a finite number of moves.
+
+
+2.
+It is a zero-sum game: One player’s gain is exactly the other’s loss.
+
+
+3.
+The game is one of complete information: Each player knows precisely all the options available to him and to his opponent, the value of each possible outcome of the game, and his own and his opponent’s scales of values. (If the game is zero-sum, these two values are the same. There exist non-zero-sum games with complete information content, but von Neumann’s theorem does not encompass them.)
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this chapter
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chapter
+      
+
+
+        EUR 29.95
+       
+
+
+       Price includes VAT (Poland)
+      
+
+        
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter 
+       
+
+
+
+
+
+
+
+ eBook
+      
+
+       EUR 42.79
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+ Softcover Book
+      
+
+       EUR 53.49
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+ Hardcover Book
+      
+
+       EUR 53.49
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+
+
+
+
+
+
+
+Institutional subscriptions
+                                        
+
+
+
+
+
+
+
+Preview
+
+
+Unable to display preview. Download preview
+                                        PDF.
+
+Unable to display preview. Download preview
+                                    PDF.
+
+
+
+
+
+AuthorsLászló MérőView author publicationsYou can also search for this author in
+                        PubMed Google ScholarRights and permissionsReprints and permissionsCopyright information© 1998 Springer Science+Business Media New YorkAbout this chapterCite this chapterMérő, L. (1998).  John von Neumann’s Game Theory.
+
+                     In:  Moral Calculations. Springer, New York, NY. https://doi.org/10.1007/978-1-4612-1654-4_6Download citation.RIS.ENW.BIBDOI: https://doi.org/10.1007/978-1-4612-1654-4_6
+                            Publisher Name: Springer, New York, NY
+                                Print ISBN: 978-1-4612-7232-8
+                                Online ISBN: 978-1-4612-1654-4eBook Packages: Springer Book ArchiveShare this chapterAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                                Provided by the Springer Nature SharedIt content-sharing initiative
+                            Publish with usPolicies and ethics
+
+
+
+
+
+
+
+
+
+
+Access this chapter
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chapter
+      
+
+
+        EUR 29.95
+       
+
+
+       Price includes VAT (Poland)
+      
+
+        
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter 
+       
+
+
+
+
+
+
+
+ eBook
+      
+
+       EUR 42.79
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+ Softcover Book
+      
+
+       EUR 53.49
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+ Hardcover Book
+      
+
+       EUR 53.49
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+
+
+
+
+
+
+
+Institutional subscriptions
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+
+

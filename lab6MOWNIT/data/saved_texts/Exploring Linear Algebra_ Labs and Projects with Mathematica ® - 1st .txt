@@ -1,0 +1,764 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploring Linear Algebra: Labs and Projects with Mathematica ® - 1st 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+ Free standard shipping on all orders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+To hear autocomplete suggestions tab past the search button after typing keywords.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Shop By Subject 
+
+
+
+
+
+
+
+
+
+
+ New & Bestselling 
+
+
+
+
+ Instructors & Students 
+
+
+
+
+ Professional Practice 
+
+
+ Publish With Us 
+
+
+
+
+ Sale & Offers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Preview Book
+
+
+
+
+
+Preview Book
+
+
+ 
+
+
+
+
+
+ Table of Contents
+ Book Description
+Critics' Reviews
+ Instructor Resources
+
+
+1st Edition
+Exploring Linear Algebra
+Labs and Projects with Mathematica ®
+
+
+By Crista Arangala
+Copyright 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+152 Pages
+38 B/W Illustrations
+
+
+
+by
+Chapman & Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+151 Pages
+
+
+
+by
+Chapman & Hall
+
+
+
+
+
+
+Learn about VitalSource eBooks Opens popup
+
+
+Also available as eBook on:
+
+
+
+ Taylor & Francis eBooks 
+(Institutional Purchase)Opens in new tab or window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+
+Exploring Linear Algebra: Labs and Projects with Mathematica® is a hands-on lab manual for daily use in the classroom. Each lab includes exercises, theorems, and problems that guide your students on an exploration of linear algebra. 
+
+The exercises section integrates problems, technology, Mathematica® visualization, and Mathematica CDFs, enabling students to discover the theory and applications of linear algebra in a meaningful way. The theorems and problems section presents the theoretical aspects of linear algebra. Students are encouraged to discover the truth of each theorem and problem, to move toward proving (or disproving) each statement, and to present their results to their peers. 
+
+Each chapter also contains a project set consisting of application-driven projects that emphasize the material in the chapter. Students can use these projects as the basis for further undergraduate research.
+
+
+
+
+
+
+Table of Contents
+
+
+
+Matrix Operations Lab 0: An Introduction to Mathematica Lab 1: Matrix Basics and Operations Lab 2: A Matrix Representation of Linear Systems Lab 3: Powers, Inverses, and Special Matrices Lab 4: Graph Theory and Adjacency Matrices Lab 5: Permutations and Determinants Lab 6: 4 x 4 Determinants and Beyond Project Set 1 
+
+Invertibility Lab 7: Singular or Nonsingular? Why Singularity Matters Lab 8: Mod It Out, Matrices with Entries in ZpLab 9: It’s a Complex World Lab 10: Declaring Independence: Is It Linear? Project Set 2 
+
+Vector Spaces Lab 11: Vector Spaces and SubspacesLab 12: Basing It All on Just a Few Vectors Lab 13: Linear Transformations Lab 14: Eigenvalues and Eigenspaces Lab 15: Markov Chains, An Application of Eigenvalues Project Set 3 
+
+Orthogonality Lab 16: Inner Product Spaces Lab 17: The Geometry of Vector and Inner Product SpacesLab 18: Orthogonal Matrices, QR Decomposition, and Least Squares Regression Lab 19: Symmetric Matrices and Quadratic Forms Project Set 4 
+
+Matrix Decomposition with Applications Lab 20: Singular Value Decomposition (SVD) Lab 21: Cholesky Decomposition and Its Application to Statistics Lab 22: Jordan Canonical Form Project Set 5 
+
+Applications to Differential Equations Lab 23: Linear Differential Equations Lab 24: Higher-Order Linear Differential Equations Lab 25: Phase Portraits, Using the Jacobian Matrix to Look Closer at Equilibria Project Set 6 
+
+Mathematica Demonstrations and References 
+Index
+
+
+
+
+
+Author(s)
+
+
+
+Biography
+
+Crista Arangala
+
+
+
+
+
+
+
+Critics' Reviews
+
+
+
+
+"The presented book provides readers with a set of interesting exercises and problems regarding linear algebra. The book covers the scope of an undergraduate course … excellent supplementary material for a linear algebra course …"—Zentralblatt MATH 1320
+
+
+
+
+
+
+
+
+ Add to Cart
+
+
+
+
+
+
+
+
+
+About VitalSource eBooks
+
+
+
+VitalSource is a leading provider of eBooks.
+
+ Access your materials anywhere, at anytime.
+ Customer preferences like text size, font type, page color and more.
+ Take annotations in line as you read.
+
+
+
+View VitalSource eBook FAQs »
+
+
+
+
+
+
+
+
+
+
+Multiple eBook Copies
+
+
+
+This eBook is already in your shopping cart. If you would like to replace it with a different purchasing option please remove the current eBook option from your cart.
+
+
+
+
+
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Book Series
+
+This book is included in the following book series:
+
+ Textbooks in Mathematics
+
+
+
+
+
+Related Subjects
+
+
+Mathematics & Statistics for Engineers
+
+
+Algebra
+
+
+Engineering & Technology
+
+
+Advanced Mathematics
+
+
+Mathematics & Statistics
+
+
+Algebra
+
+
+Mathematics for Engineering
+
+
+
+
+Frequently Bought Together
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Book Preview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back To Top 
+
+
+
+
+
+
+
+
+
+
+
+
+©  Informa UK Limited, an Informa Plc company
+
+
+
+
+Contact Us
+
+
+Customer Service
+
+
+Editorial Contacts
+
+
+Sales Contacts
+
+
+Rights and Permissions
+
+
+Become an Affiliate Partner Opens in new tab or window
+
+
+FAQs
+Partners
+
+
+Customer Resources
+
+
+Authors
+
+
+Booksellers
+
+
+Instructors
+
+
+Request An Inspection Copy
+
+
+Librarians
+
+
+Press and Media
+
+
+Professionals
+
+
+Societies and Associations
+
+
+Students
+
+
+
+
+Our Products
+
+
+eBooks
+
+
+eBook+
+
+
+Book Series
+
+
+Online Platforms
+
+
+Open Access Books
+
+
+Focus Shortform Books 
+
+
+
+
+About Us
+
+
+About Routledge
+
+
+About Taylor & Francis Opens in new tab or window
+
+
+Taylor & Francis Journals Opens in new tab or window
+
+
+Careers Opens in new tab or window
+
+
+Blog
+Topics
+
+
+Policies
+
+
+Shipping Information
+
+
+Returns and Cancellations
+
+
+Terms and Conditions
+
+
+Inspection Copies
+
+
+Sustainability
+
+
+Accessibility
+
+
+Privacy Policy Opens in new tab or window
+
+
+
+SOCIAL  NETWORKS 
+Facebook - Opens in new tab or window       LinkedIn - Opens in new tab or window      Twitter - Opens in new tab or window       YouTube - Opens in new tab or window   
+
+
+
+
+
+
+
+
+
+
+
+
+
+The country you have selected will result in the following:
+
+
+
+Product pricing will be adjusted to match the corresponding currency.
+The title Perception will be removed from your cart because it is not available in this region.
+
+
+
+
+Continue
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

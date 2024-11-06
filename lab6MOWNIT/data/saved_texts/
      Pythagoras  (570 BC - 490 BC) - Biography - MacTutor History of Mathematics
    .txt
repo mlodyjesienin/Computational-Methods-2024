@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+      Pythagoras  (570 BC - 490 BC) - Biography - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Pythagoras of Samos
+
+
+
+
+
+Quick Info
+Born
+
+      about 570 BC   Samos, Ionia 
+
+Died
+
+      about 490 BC  
+    
+
+Summary
+Pythagoras was a Greek philosopher who made important developments in mathematics, astronomy, and the theory of music. The theorem now known as Pythagoras's theorem was known to the Babylonians 1000 years earlier but he may have been the first to prove it.
+
+
+
+
+
+      View twelve larger pictures
+
+
+
+
+
+Biography
+Pythagoras of Samos is often described as the first pure mathematician. He is an extremely important figure in the development of mathematics yet we know relatively little about his mathematical achievements. Unlike many later Greek mathematicians, where at least we have some of the books which they wrote, we have nothing of Pythagoras's writings. The society which he led, half religious and half scientific, followed a code of secrecy which certainly means that today Pythagoras is a mysterious figure.
+
+
+We do have details of Pythagoras's life from early biographies which use important original sources yet are written by authors who attribute divine powers to him, and whose aim was to present him as a god-like figure. What we present below is an attempt to collect together the most reliable sources to reconstruct an account of Pythagoras's life. There is fairly good agreement on the main events of his life but most of the dates are disputed with different scholars giving dates which differ by 20 years. Some historians treat all this information as merely legends but, even if the reader treats it in this way, being such an early record it is of historical importance.
+
+
+Pythagoras's father was Mnesarchus ([12] and [13]), while his mother was Pythais [8] and she was a native of Samos. Mnesarchus was a merchant who came from Tyre, and there is a story ([12] and [13]) that he brought corn to Samos at a time of famine and was granted citizenship of Samos as a mark of gratitude. As a child Pythagoras spent his early years in Samos but travelled widely with his father. There are accounts of Mnesarchus returning to Tyre with Pythagoras and that he was taught there by the Chaldaeans and the learned men of Syria. It seems that he also visited Italy with his father.
+
+
+Little is known of Pythagoras's childhood. All accounts of his physical appearance are likely to be fictitious except the description of a striking birthmark which Pythagoras had on his thigh. It is probable that he had two brothers although some sources say that he had three. Certainly he was well educated, learning to play the lyre, learning poetry and to recite Homer. There were, among his teachers, three philosophers who were to influence Pythagoras while he was a young man. One of the most important was Pherekydes who many describe as the teacher of Pythagoras.
+
+
+The other two philosophers who were to influence Pythagoras, and to introduce him to mathematical ideas, were Thales and his pupil Anaximander who both lived on Miletus. In [8] it is said that Pythagoras visited Thales in Miletus when he was between 18 and 20 years old. By this time Thales was an old man and, although he created a strong impression on Pythagoras, he probably did not teach him a great deal. However he did contribute to Pythagoras's interest in mathematics and astronomy, and advised him to travel to Egypt to learn more of these subjects. Thales's pupil, Anaximander, lectured on Miletus and Pythagoras attended these lectures. Anaximander certainly was interested in geometry and cosmology and many of his ideas would influence Pythagoras's own views.
+
+
+In about 535 BC Pythagoras went to Egypt. This happened a few years after the tyrant Polycrates seized control of the city of Samos. There is some evidence to suggest that Pythagoras and Polycrates were friendly at first and it is claimed [5] that Pythagoras went to Egypt with a letter of introduction written by Polycrates. In fact Polycrates had an alliance with Egypt and there were therefore strong links between Samos and Egypt at this time. The accounts of Pythagoras's time in Egypt suggest that he visited many of the temples and took part in many discussions with the priests. According to Porphyry ([12] and [13]) Pythagoras was refused admission to all the temples except the one at Diospolis where he was accepted into the priesthood after completing the rites necessary for admission.
+
+
+It is not difficult to relate many of Pythagoras's beliefs, ones he would later impose on the society that he set up in Italy, to the customs that he came across in Egypt. For example the secrecy of the Egyptian priests, their refusal to eat beans, their refusal to wear even cloths made from animal skins, and their striving for purity were all customs that Pythagoras would later adopt. Porphyry in [12] and [13] says that Pythagoras learnt geometry from the Egyptians but it is likely that he was already acquainted with geometry, certainly after teachings from Thales and Anaximander.
+
+
+In 525 BC Cambyses II, the king of Persia, invaded Egypt. Polycrates abandoned his alliance with Egypt and sent 40 ships to join the Persian fleet against the Egyptians. After Cambyses had won the Battle of Pelusium in the Nile Delta and had captured Heliopolis and Memphis, Egyptian resistance collapsed. Pythagoras was taken prisoner and taken to Babylon. Iamblichus writes that Pythagoras (see [8]):-
+... was transported by the followers of Cambyses as a prisoner of war. Whilst he was there he gladly associated with the Magoi ... and was instructed in their sacred rites and learnt about a very mystical worship of the gods. He also reached the acme of perfection in arithmetic and music and the other mathematical sciences taught by the Babylonians...
+In about 520 BC Pythagoras left Babylon and returned to Samos. Polycrates had been killed in about 522 BC and Cambyses died in the summer of 522 BC, either by committing suicide or as the result of an accident. The deaths of these rulers may have been a factor in Pythagoras's return to Samos but it is nowhere explained how Pythagoras obtained his freedom. Darius of Persia had taken control of Samos after Polycrates' death and he would have controlled the island on Pythagoras's return. This conflicts with the accounts of Porphyry and Diogenes Laertius who state that Polycrates was still in control of Samos when Pythagoras returned there.
+
+
+Pythagoras made a journey to Crete shortly after his return to Samos to study the system of laws there. Back in Samos he founded a school which was called the semicircle. Iamblichus [8] writes in the third century AD that:-
+... he formed a school in the city [of Samos], the 'semicircle' of Pythagoras, which is known by that name even today, in which the Samians hold political meetings. They do this because they think one should discuss questions about goodness, justice and expediency in this place which was founded by the man who made all these subjects his business. Outside the city he made a cave the private site of his own philosophical teaching, spending most of the night and daytime there and doing research into the uses of mathematics...
+Pythagoras left Samos and went to southern Italy in about 518 BC (some say much earlier). Iamblichus [8] gives some reasons for him leaving. First he comments on the Samian response to his teaching methods:-
+... he tried to use his symbolic method of teaching which was similar in all respects to the lessons he had learnt in Egypt. The Samians were not very keen on this method and treated him in a rude and improper manner.
+This was, according to Iamblichus, used in part as an excuse for Pythagoras to leave Samos:-
+... Pythagoras was dragged into all sorts of diplomatic missions by his fellow citizens and forced to participate in public affairs. ... He knew that all the philosophers before him had ended their days on foreign soil so he decided to escape all political responsibility, alleging as his excuse, according to some sources, the contempt the Samians had for his teaching method.
+Pythagoras founded a philosophical and religious school in Croton (now Crotone, on the east of the heel of southern Italy) that had many followers. Pythagoras was the head of the society with an inner circle of followers known as mathematikoi. The mathematikoi lived permanently with the Society, had no personal possessions and were vegetarians. They were taught by Pythagoras himself and obeyed strict rules. The beliefs that Pythagoras held were [2]:-
+(1) that at its deepest level, reality is mathematical in nature,
+
+(2) that philosophy can be used for spiritual purification,
+
+(3) that the soul can rise to union with the divine,
+
+(4) that certain symbols have a mystical significance, and
+
+(5) that all brothers of the order should observe strict loyalty and secrecy.
+Both men and women were permitted to become members of the Society, in fact several later women Pythagoreans became famous philosophers. The outer circle of the Society were known as the akousmatics and they lived in their own houses, only coming to the Society during the day. They were allowed their own possessions and were not required to be vegetarians.
+
+
+Of Pythagoras's actual work nothing is known. His school practised secrecy and communalism making it hard to distinguish between the work of Pythagoras and that of his followers. Certainly his school made outstanding contributions to mathematics, and it is possible to be fairly certain about some of Pythagoras's mathematical contributions. First we should be clear in what sense Pythagoras and the mathematikoi were studying mathematics. They were not acting as a mathematics research group does in a modern university or other institution. There were no 'open problems' for them to solve, and they were not in any sense interested in trying to formulate or solve mathematical problems.
+
+
+Rather Pythagoras was interested in the principles of mathematics, the concept of number, the concept of a triangle or other mathematical figure and the abstract idea of a proof. As Brumbaugh writes in [3]:-
+It is hard for us today, familiar as we are with pure mathematical abstraction and with the mental act of generalisation, to appreciate the originality of this Pythagorean contribution.
+In fact today we have become so mathematically sophisticated that we fail even to recognise 2 as an abstract quantity. There is a remarkable step from 2 ships + 2 ships = 4 ships, to the abstract result 2 + 2 = 4, which applies not only to ships but to pens, people, houses etc. There is another step to see that the abstract notion of 2 is itself a thing, in some sense every bit as real as a ship or a house.
+
+
+Pythagoras believed that all relations could be reduced to number relations. As Aristotle wrote:-
+The Pythagorean ... having been brought up in the study of mathematics, thought that things are numbers ... and that the whole cosmos is a scale and a number.
+This generalisation stemmed from Pythagoras's observations in music, mathematics and astronomy. Pythagoras noticed that vibrating strings produce harmonious tones when the ratios of the lengths of the strings are whole numbers, and that these ratios could be extended to other instruments. In fact Pythagoras made remarkable contributions to the mathematical theory of music. He was a fine musician, playing the lyre, and he used music as a means to help those who were ill.
+
+
+Pythagoras studied properties of numbers which would be familiar to mathematicians today, such as even and odd numbers, triangular numbers, perfect numbers etc. However to Pythagoras numbers had personalities which we hardly recognise as mathematics today [3]:-
+Each number had its own personality - masculine or feminine, perfect or incomplete, beautiful or ugly. This feeling modern mathematics has deliberately eliminated, but we still find overtones of it in fiction and poetry. Ten was the very best number: it contained in itself the first four integers - one, two, three, and four [1 + 2 + 3 + 4 = 10] - and these written in dot notation formed a perfect triangle.
+Of course today we particularly remember Pythagoras for his famous geometry theorem. Although the theorem, now known as Pythagoras's theorem, was known to the Babylonians 1000 years earlier he may have been the first to prove it. Proclus, the last major Greek philosopher, who lived around 450 AD wrote (see [7]):-
+After [Thales, etc.] Pythagoras transformed the study of geometry into a liberal education, examining the principles of the science from the beginning and probing the theorems in an immaterial and intellectual manner: he it was who discovered the theory of irrational and the construction of the cosmic figures.
+Again Proclus, writing of geometry, said:-
+I emulate the Pythagoreans who even had a conventional phrase to express what I mean "a figure and a platform, not a figure and a sixpence", by which they implied that the geometry which is deserving of study is that which, at each new theorem, sets up a platform to ascend by, and lifts the soul on high instead of allowing it to go down among the sensible objects and so become subservient to the common needs of this mortal life.
+Heath [7] gives a list of theorems attributed to Pythagoras, or rather more generally to the Pythagoreans.
+(i) The sum of the angles of a triangle is equal to two right angles. Also the Pythagoreans knew the generalisation which states that a polygon with nnn sides has sum of interior angles 2nâ42n - 42nâ4 right angles and sum of exterior angles equal to four right angles.
+
+
+(ii) The theorem of Pythagoras - for a right angled triangle the square on the hypotenuse is equal to the sum of the squares on the other two sides. We should note here that to Pythagoras the square on the hypotenuse would certainly not be thought of as a number multiplied by itself, but rather as a geometrical square constructed on the side. To say that the sum of two squares is equal to a third square meant that the two squares could be cut up and reassembled to form a square identical to the third square.
+
+
+(iii) Constructing figures of a given area and geometrical algebra. For example they solved equations such as a(aâx)=x2a (a - x) = x^{2}a(aâx)=x2 by geometrical means.
+
+
+(iv) The discovery of irrationals. This is certainly attributed to the Pythagoreans but it does seem unlikely to have been due to Pythagoras himself. This went against Pythagoras's philosophy the all things are numbers, since by a number he meant the ratio of two whole numbers. However, because of his belief that all things are numbers it would be a natural task to try to prove that the hypotenuse of an isosceles right angled triangle had a length corresponding to a number.
+
+
+(v) The five regular solids. It is thought that Pythagoras himself knew how to construct the first three but it is unlikely that he would have known how to construct the other two.
+
+
+(vi) In astronomy Pythagoras taught that the Earth was a sphere at the centre of the Universe. He also recognised that the orbit of the Moon was inclined to the equator of the Earth and he was one of the first to realise that Venus as an evening star was the same planet as Venus as a morning star.
+Primarily, however, Pythagoras was a philosopher. In addition to his beliefs about numbers, geometry and astronomy described above, he held [2]:-
+... the following philosophical and ethical teachings: ... the dependence of the dynamics of world structure on the interaction of contraries, or pairs of opposites; the viewing of the soul as a self-moving number experiencing a form of metempsychosis, or successive reincarnation in different species until its eventual purification (particularly through the intellectual life of the ethically rigorous Pythagoreans); and the understanding ...that all existing objects were fundamentally composed of form and not of material substance. Further Pythagorean doctrine ... identified the brain as the locus of the soul; and prescribed certain secret cultic practices.
+In [3] their practical ethics are also described:-
+In their ethical practices, the Pythagorean were famous for their mutual friendship, unselfishness, and honesty.
+Pythagoras's Society at Croton was not unaffected by political events despite his desire to stay out of politics. Pythagoras went to Delos in 513 BC to nurse his old teacher Pherekydes who was dying. He remained there for a few months until the death of his friend and teacher and then returned to Croton. In 510 BC Croton attacked and defeated its neighbour Sybaris and there is certainly some suggestions that Pythagoras became involved in the dispute. Then in around 508 BC the Pythagorean Society at Croton was attacked by Cylon, a noble from Croton itself. Pythagoras escaped to Metapontium and the most authors say he died there, some claiming that he committed suicide because of the attack on his Society. Iamblichus in [8] quotes one version of events:-
+Cylon, a Crotoniate and leading citizen by birth, fame and riches, but otherwise a difficult, violent, disturbing and tyrannically disposed man, eagerly desired to participate in the Pythagorean way of life. He approached Pythagoras, then an old man, but was rejected because of the character defects just described. When this happened Cylon and his friends vowed to make a strong attack on Pythagoras and his followers. Thus a powerfully aggressive zeal activated Cylon and his followers to persecute the Pythagoreans to the very last man. Because of this Pythagoras left for Metapontium and there is said to have ended his days.
+This seems accepted by most but Iamblichus himself does not accept this version and argues that the attack by Cylon was a minor affair and that Pythagoras returned to Croton. Certainly the Pythagorean Society thrived for many years after this and spread from Croton to many other Italian cities. Gorman [6] argues that this is a strong reason to believe that Pythagoras returned to Croton and quotes other evidence such as the widely reported age of Pythagoras as around 100 at the time of his death and the fact that many sources say that Pythagoras taught Empedokles to claim that he must have lived well after 480 BC.
+
+
+The evidence is unclear as to when and where the death of Pythagoras occurred. Certainly the Pythagorean Society expanded rapidly after 500 BC, became political in nature and also spilt into a number of factions. In 460 BC the Society [2]:-
+... was violently suppressed. Its meeting houses were everywhere sacked and burned; mention is made in particular of "the house of Milo" in Croton, where 50 or 60 Pythagoreans were surprised and slain. Those who survived took refuge at Thebes and other places.
+
+
+
+
+
+Quotations by Pythagoras  Other Mathematicians born in Greece  A Poster of Pythagoras
+
+
+
+
+
+References (show)
+
+
+
+
+
+K von Fritz, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+ See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Pythagoras
+R S Brumbaugh, The philosophers of Greece (Albany, N.Y., 1981).
+M Cerchez, Pythagoras (Romanian) (Bucharest, 1986).
+Diogenes Laertius, Lives of eminent philosophers (New York, 1925).
+P Gorman, Pythagoras, a life (1979).
+T L Heath, A history of Greek mathematics 1 (Oxford, 1931).
+Iamblichus, Life of Pythagoras (translated into English by T Taylor) (London, 1818).
+I Levy, La lÃ©gende de Pythagore de GrÃ¨ce en Ralestine (Paris, 1927).
+L E Navia, Pythagoras : An annotated bibliography (New York, 1990).
+D J O'Meara, Pythagoras revived : Mathematics and philosophy in late antiquity (New York, 1990).
+Porphyry, Vita Pythagorae (Leipzig, 1886),
+Porphyry, Life of Pythagoras in M Hadas and M Smith, Heroes and Gods (London, 1965)..
+E S Stamatis, Pythagoras of Samos (Greek) (Athens, 1981).
+B L van der Waerden, Science Awakening (New York, 1954).
+C J de Vogel, Pythagoras and Early Pythagoreanism (1966).
+H Wussing, Pythagoras, in H Wussing and W Arnold, Biographien bedeutender Mathematiker (Berlin, 1983).
+L Ya Zhmud', Pythagoras and his school (Russian), From the History of the World Culture 'Nauka' (Leningrad, 1990).
+C Byrne, The left-handed Pythagoras, Math. Intelligencer 12 (3) (1990), 52-53.
+H S M Coxeter, Polytopes, kaleidoscopes, Pythagoras and the future, C. R. Math. Rep. Acad. Sci. Canada 7 (2) (1985), 107-114.
+W K C Guthrie, A History of Greek Philosophy I (1962), 146-340.
+F Lleras, The theorem of Pythagoras (Spanish), Mat. Ense nanza Univ. 19 (1981), 3-12.
+B Russell, History of Western Philosophy (London, 1961), 49-56.
+G Tarr, Pythagoras and his theorem, Nepali Math. Sci. Rep. 4 (1) (1979), 35-45.
+B L van der Waerden, Die Arithmetik der Pythagoreer, Math. Annalen 120 (1947-49), 127-153, 676-700.
+L Zhmud, Pythagoras as a Mathematician, Historia Mathematica 16 (1989), 249-268.
+L Ya Zhmud', Pythagoras as a mathematician (Russian), Istor.-Mat. Issled. 32-33 (1990), 300-325.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Pythagoras:
+
+See Pythagoras on a timeline
+Pythagoras's theorem
+Pythagorus in competition with Boethius in Margaista Philosophica (1504)
+An entry in The Mathematical Gazetteer of the British Isles
+Astronomy: The Structure of the Solar System
+Heinz Klaus Strick biography
+Miller's postage stamps
+
+
+
+Other websites about Pythagoras:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+NNDB
+G Don Allen
+Internet Encyclopedia of Philosophy
+Google books
+Sci Hi blog
+
+
+
+
+
+
+
+      Honours
+      (show)
+
+
+
+
+
+Honours awarded to Pythagoras
+
+Lunar features Crater Pythagoras Popular biographies list Number 2
+
+
+
+
+
+
+
+      Cross-references
+      (show)
+
+
+
+
+
+
+History Topics: A history of time: Classical time
+History Topics: Archimedes: Numerical Analyst
+History Topics: Christianity and the Mathematical Sciences - the Heliocentric Hypothesis
+History Topics: Greek astronomy
+History Topics: Infinity
+History Topics: Mathematics and Architecture
+History Topics: Mathematics and the physical world
+History Topics: Nine Chapters on the Mathematical Art
+History Topics: Overview of Chinese mathematics
+History Topics: Perfect numbers
+History Topics: Prime numbers
+History Topics: Pythagoras's theorem in Babylonian mathematics
+History Topics: The Golden ratio
+History Topics: The Indian Sulbasutras
+History Topics: The Ten Mathematical Classics
+History Topics: The history of cartography
+History Topics: The real numbers: Pythagoras to Stevin
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 10
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 19
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 5
+Other: 1924 ICM - Toronto
+Other: 1936 ICM - Oslo
+Other: 2009 Most popular biographies
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (H)
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Jeff Miller's postage stamps
+Other: London Miscellaneous
+Other: Most popular biographies â 2024
+Other: On Growth and Form
+Other: Popular biographies 2018
+Other: The Structure of the Solar System
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 1999
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

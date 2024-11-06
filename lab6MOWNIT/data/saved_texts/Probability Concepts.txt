@@ -1,0 +1,1171 @@
+
+
+
+
+
+
+
+
+
+
+
+Probability Concepts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We’re using cookies, but you can turn them off in Privacy Settings.  Otherwise, you are agreeing to our use of cookies.  Accepting cookies does not mean that we are collecting personal data. Learn more in our Privacy Policy.
+Privacy Settings
+
+
+
+
+
+
+Skip to Content
+
+
+
+
+
+
+
+
+
+Log In
+|
+Create an Account
+Account
+
+
+Search
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+CFA Program
+
+CFA Program
+
+
+CFA Program
+
+
+CFA Program
+
+
+Explore Career Paths
+
+
+Become a Charterholder
+
+
+Explore the Curriculum
+
+
+Exam Overview
+
+
+Exam Prep Providers
+
+
+Apply for a Scholarship
+
+
+Policies and Procedures
+
+
+Register
+
+
+Request Disability Accomodations
+
+
+Employer Benefits
+
+
+Impact Assessment of CFA Program in India
+
+
+
+
+Registered Candidate Resources
+
+
+Registered Candidate Resources
+
+
+Candidate Success Center
+
+
+
+
+Membership for CFA Program Candidates
+
+
+
+
+
+Learning & Events
+
+Learning & Events
+
+
+Certificates & Courses
+
+
+Climate Risk, Valuation, and Investing Certificate
+
+
+Certificate in ESG Investing
+
+
+Certificate in ESG Investing
+
+
+Exam Overview
+
+
+Policies and Procedures
+
+
+Register
+
+
+Registered Candidate Resources
+
+
+Request Disability Accommodations
+
+
+ESG Investing and Analysis
+
+
+
+
+Data Science For Investment Professionals
+
+
+Data Science For Investment Professionals
+
+
+Fintech
+
+
+
+
+Private Equity Certificate
+
+
+Private Markets and Alternative Investments Certificate
+
+
+CIPM Program
+
+
+CIPM Program
+
+
+Earn the CIPM Designation
+
+
+Explore the Curriculum
+
+
+Exam Overview
+
+
+Apply for Scholarship
+
+
+Policies and Procedures
+
+
+Register
+
+
+Registered Candidate Resources
+
+
+Request Disability Accomodations
+
+
+Employer Benefits
+
+
+
+
+Investment Foundations® Certificate
+
+
+Webinars
+
+
+CFA Institute Conferences
+
+
+Podcasts
+
+
+Sponsorships
+
+
+
+
+
+Membership
+
+Membership
+
+
+Become a Member
+
+
+Become a Member
+
+
+Application Resources
+
+
+
+
+Member Benefits
+
+
+Membership Renewal
+
+
+Already a Member? Access Benefits 
+
+
+Member Directory
+
+
+Volunteer
+
+
+Volunteer
+
+
+Volunteer Opportunities
+
+
+
+
+Career Resources
+
+
+Professional Learning
+
+
+Professional Learning
+
+
+Professional Learning Program
+
+
+Refresher Readings
+
+
+Resources for Professional Learning
+
+
+
+
+
+
+
+Societies
+
+Societies
+
+
+Find a Society
+
+
+Join a Society
+
+
+Society Leader Resources
+
+
+Research Challenge
+
+
+Research Challenge
+
+
+Get Involved
+
+
+Past Champions
+
+
+Student Resources
+
+
+
+
+
+
+
+Ethics & Professional Conduct
+
+Ethics & Professional Conduct
+
+
+Ethics for the Investment Management Profession
+
+
+Ethics for the Investment Management Profession
+
+
+Industry Codes and Standards
+
+
+Code of Ethics and Standards of Professional Conduct
+
+
+Ethical Decision Making
+
+
+Giving Voice to Values
+
+
+
+
+Professional Conduct Program
+
+
+Professional Conduct Program
+
+
+Disciplinary Process
+
+
+Professional Conduct Statement
+
+
+Report Misconduct
+
+
+
+
+
+
+
+Research & Policy Center
+
+Research & Policy Center
+
+
+Research & Policy Center Overview
+
+
+Research & Policy Center Overview
+
+
+Codes and Standards
+
+
+Diversity, Equity, and  Inclusion Code
+
+
+Financial Analysts Journal
+
+
+GIPS Standards
+
+
+Policy
+
+
+Research
+
+
+Research Foundation
+
+
+
+
+Go to Research & Policy Center
+
+
+
+
+
+About
+
+About
+
+
+Mission & Vision
+
+
+Governance
+
+
+Governance
+
+
+Leadership
+
+
+Annual Reports and 990s
+
+
+Committees & Councils
+
+
+CFA Institute Policies
+
+
+
+
+Professional Stories & Insights
+
+
+Press Room
+
+
+For Employers
+
+
+For Employers
+
+
+Why Hire a CFA Charterholder?
+
+
+
+
+For Students
+
+
+For Universities
+
+
+For Universities
+
+
+University Affiliation Program
+
+
+Resources for Professors
+
+
+
+
+Careers at CFA Institute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CFA Institute
+Membership
+Professional Learning
+Refresher Readings
+Probability Concepts
+
+
+
+
+
+
+
+Refresher Reading
+
+
+Probability Concepts
+
+
+
+
+
+
+Privacy Settings
+
+Functional cookies, which are necessary for basic site functionality like keeping you logged in, are always enabled. 
+
+
+
+Allow analytics tracking. Analytics help us understand how the site is used, and which pages are the most popular. Read the Privacy Policy to learn how this information is used.										
+
+
+
+
+Save Settings
+
+
+
+Close Modal
+
+
+
+
+
+
+
+                            
+                            2023
+ Curriculum                        
+
+                            CFA Program
+                                
+                                    Level I
+                                
+
+
+Quantitative Methods 
+
+
+
+
+Download the full reading (PDF)
+
+
+
+
+Introduction
+Investment decisions are made in a risky environment. The tools that allow us to make decisions with consistency and logic in this setting are based on probability concepts. This reading presents the essential probability tools needed to frame and address many real-world problems involving risk. These tools apply to a variety of issues, such as predicting investment manager performance, forecasting financial variables, and pricing bonds so that they fairly compensate bondholders for default risk. Our focus is practical. We explore the concepts that are most important to investment research and practice. Among these are independence, as it relates to the predictability of returns and financial variables; expectation, as analysts continually look to the future in their analyses and decisions; and variability, variance or dispersion around expectation, as a risk concept important in investments. The reader will acquire specific skills and competencies in using these probability concepts to understand risks and returns on investments.
+
+
+
+Learning Outcomes
+
+
+The member should be able to:
+
+define a random variable, an outcome, and an event;
+identify the two defining properties of probability, including mutually exclusive and exhaustive events, and compare and contrast empirical, subjective, and a priori probabilities;
+describe the probability of an event in terms of odds for and against the event;
+calculate and interpret conditional probabilities;
+demonstrate the application of the multiplication and addition rules for probability;
+compare and contrast dependent and independent events;
+calculate and interpret an unconditional probability using the total probability rule;
+calculate and interpret the expected value, variance, and standard deviation of random variables;
+explain the use of conditional expectation in investment applications;
+interpret a probability tree and demonstrate its application to investment problems;
+calculate and interpret the expected value, variance, standard deviation, covariances, and correlations of portfolio returns;
+calculate and interpret the covariances of portfolio returns using the joint probability function;
+calculate and interpret an updated probability using Bayes’ formula;
+identify the most appropriate method to solve a particular counting problem and analyze counting problems using factorial, combination, and permutation concepts.
+
+ 
+
+Summary 
+In this reading, we have discussed the essential concepts and tools of probability.
+We have applied probability, expected value, and variance to a range of investment
+problems.
+
+
+A random variable is a quantity whose outcome is uncertain.
+
+
+Probability is a number between 0 and 1 that describes the chance that a stated event
+    will occur.
+
+
+An event is a specified set of outcomes of a random variable.
+
+
+Mutually exclusive events can occur only one at a time. Exhaustive events cover or
+    contain all possible outcomes.
+
+
+The two defining properties of a probability are, first, that 0 ≤ P(E) ≤ 1 (where P(E) denotes the probability of an event E), and second, that the sum of the probabilities of any set of mutually exclusive
+    and exhaustive events equals 1.
+
+
+A probability estimated from data as a relative frequency of occurrence is an empirical
+    probability. A probability drawing on personal or subjective judgment is a subjective
+    probability. A probability obtained based on logical analysis is an a priori probability.
+
+
+A probability of an event E, P(E), can be stated as odds for E = P(E)/[1 − P(E)] or odds against E = [1 − P(E)]/P(E).
+
+
+Probabilities that are inconsistent create profit opportunities, according to the
+    Dutch Book Theorem.
+
+
+A probability of an event not conditioned on another event is an unconditional probability. The unconditional probability
+    of an event A is denoted P(A). Unconditional probabilities are also called marginal probabilities.
+
+
+A probability of an event given (conditioned on) another event is a conditional probability.
+    The probability of an event A given an event B is denoted P(A | B), and P(A | B) = P(AB)/P(B), P(B) ≠ 0.
+
+
+The probability of both A and B occurring is the joint probability of A and B, denoted P(AB).
+
+
+The multiplication rule for probabilities is P(AB) = P(A | B)P(B).
+
+
+The probability that A or B occurs, or both occur, is denoted by P(A or B).
+
+
+The addition rule for probabilities is P(A or B) = P(A) + P(B) − P(AB).
+
+
+When events are independent, the occurrence of one event does not affect the probability
+    of occurrence of the other event. Otherwise, the events are dependent.
+
+
+The multiplication rule for independent events states that if A and B are independent events, P(AB) = P(A)P(B). The rule generalizes in similar fashion to more than two events.
+
+
+According to the total probability rule, if S
+1, S
+2, …, Sn
+ are mutually exclusive and exhaustive scenarios or events, then P(A) = P(A | S
+1)P(S
+1) + P(A | S
+2)P(S
+2) + … + P(A | Sn
+)P(Sn
+).
+
+
+The expected value of a random variable is a probability-weighted average of the possible
+    outcomes of the random variable. For a random variable X, the expected value of X is denoted E(X).
+
+
+The total probability rule for expected value states that E(X) = E(X | S
+1)P(S
+1) + E(X | S
+2)P(S
+2) + … + E(X | Sn
+)P(Sn
+), where S
+1, S
+2, …, Sn
+ are mutually exclusive and exhaustive scenarios or events.
+
+
+The variance of a random variable is the expected value (the probability-weighted
+    average) of squared deviations from the random variable’s expected value E(X): σ2(X) = E{[X − E(X)]2}, where σ2(X) stands for the variance of X.
+
+
+Variance is a measure of dispersion about the mean. Increasing variance indicates
+    increasing dispersion. Variance is measured in squared units of the original variable.
+
+
+Standard deviation is the positive square root of variance. Standard deviation measures
+    dispersion (as does variance), but it is measured in the same units as the variable.
+
+
+Covariance is a measure of the co-movement between random variables.
+
+
+The covariance between two random variables Ri
+ and Rj
+ in a forward-looking sense is the expected value of the cross-product of the deviations
+    of the two random variables from their respective means: Cov(Ri
+,Rj
+) = E{[Ri
+ − E(Ri
+)][Rj
+ − E(Rj
+)]}. The covariance of a random variable with itself is its own variance. 
+
+
+The historical or sample covariance between two random variables Ri
+ and Rj
+ based on a sample of past data of size n is the average value of the product of the deviations of observations on two random
+    variables from their sample means:
+
+
+
+Cov
+
+(
+
+
+R
+i
+
+,
+
+R
+j
+
+
+)
+
+=
+
+
+∑
+
+i
+=
+1
+
+n
+
+
+
+
+
+(
+
+
+R
+
+i
+,
+t
+
+
+−
+
+
+R
+¯
+
+i
+
+
+)
+
+
+(
+
+
+R
+
+j
+,
+t
+
+
+−
+
+
+R
+¯
+
+j
+
+
+)
+
+
+/
+
+
+(
+
+n
+−
+1
+
+)
+
+
+
+
+
+
+
+
+
+
+
+Correlation is a number between −1 and +1 that measures the co-movement (linear association) between two random variables: ρ(Ri
+,Rj
+) = Cov(Ri
+,Rj
+)/[σ(Ri
+) σ(Rj
+)]. 
+
+
+If two variables have a very strong linear relation, then the absolute value of their
+    correlation will be close to 1. If two variables have a weak linear relation, then
+    the absolute value of their correlation will be close to 0.
+
+
+If the correlation coefficient is positive, the two variables are directly related;
+    if the correlation coefficient is negative, the two variables are inversely related.
+
+
+To calculate the variance of return on a portfolio of n assets, the inputs needed are the n expected returns on the individual assets, n variances of return on the individual assets, and n(n − 1)/2 distinct covariances.
+
+
+Portfolio variance of return is 
+
+
+σ
+2
+
+
+(
+
+
+R
+p
+
+
+)
+
+=
+
+
+∑
+
+i
+=
+1
+
+n
+
+
+
+
+∑
+
+j
+=
+1
+
+n
+
+
+
+w
+i
+
+
+w
+j
+
+Cov
+
+(
+
+
+R
+i
+
+,
+
+R
+j
+
+
+)
+
+
+
+
+
+.
+
+
+The calculation of covariance in a forward-looking sense requires the specification
+    of a joint probability function, which gives the probability of joint occurrences
+    of values of the two random variables.
+
+
+When two random variables are independent, the joint probability function is the product
+    of the individual probability functions of the random variables.
+
+
+Bayes’ formula is a method for updating probabilities based on new information.
+
+
+Bayes’ formula is expressed as follows: Updated probability of event given the new information = [(Probability of the new information given event)/(Unconditional probability of the new information)] × Prior probability of event.
+
+
+The multiplication rule of counting says, for example, that if the first step in a
+    process can be done in 10 ways, the second step, given the first, can be done in 5
+    ways, and the third step, given the first two, can be done in 7 ways, then the steps
+    can be carried out in (10)(5)(7) = 350 ways.
+
+
+The number of ways to assign every member of a group of size n to n slots is n! = n (n − 1) (n − 2)(n − 3) … 1. (By convention, 0! = 1.)
+
+
+The number of ways that n objects can be labeled with k different labels, with n
+1 of the first type, n
+2 of the second type, and so on, with n
+1 + n
+2 + … + nk
+ = n, is given by n!/(n
+1!n
+2! … nk
+!). This expression is the multinomial formula.
+
+
+A special case of the multinomial formula is the combination formula. The number of
+    ways to choose r objects from a total of n objects, when the order in which the r objects are listed does not matter, is
+
+
+
+
+
+n
+
+
+C
+r
+
+=
+
+(
+
+
+
+
+n
+
+
+
+
+r
+
+
+
+
+)
+
+=
+
+
+n
+!
+
+
+
+(
+
+n
+−
+r
+
+)
+
+!
+r
+!
+
+
+
+
+
+
+
+
+The number of ways to choose r objects from a total of n objects, when the order in which the r objects are listed does matter, is
+
+
+
+
+
+n
+
+
+P
+r
+
+=
+
+
+n
+!
+
+
+
+(
+
+n
+−
+r
+
+)
+
+!
+
+
+
+
+This expression is the permutation formula.
+
+
+
+
+
+Related
+Members' Guide to 2023 Refresher Readings (PDF)
+
+
+
+
+                    2
+PL                
+Record PL credit
+
+
+
+
+
+
+
+Manage your Professional Learning credits
+
+
+
+Categories Financial Markets  
+Quantitative Methods  
+Risk Analysis & Management  
+Return Analysis & Performance Measurement
+
+
+
+
+
+
+
+
+Share on Facebook
+
+
+Share on Weibo
+
+
+Share on Twitter
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+Report Misconduct
+
+
+Careers at CFA Institute
+
+
+Accessibility
+
+
+Privacy Policy
+
+
+Terms & Conditions
+
+
+Sitemap
+
+© 2024 CFA Institute.  All Rights Reserved.
+
+
+
+Log In
+
+
+Create an Account
+
+
+
+ CFA Institute on LinkedIn
+ CFA Institute on Facebook
+ CFA Institute on Twitter
+ CFA Institute on WeChat
+ CFA Institute on Weibo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

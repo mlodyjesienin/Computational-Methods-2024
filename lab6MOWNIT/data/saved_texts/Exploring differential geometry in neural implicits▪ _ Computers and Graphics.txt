@@ -1,0 +1,266 @@
+
+ 
+
+
+
+
+
+Exploring differential geometry in neural implicits▪ | Computers and Graphics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Search
+
+Browse
+
+About
+
+
+
+
+
+                Sign in
+            
+
+
+
+                        Register
+                    
+
+
+
+
+
+
+
+
+Advanced SearchJournalsMagazinesProceedingsBooksSIGsConferencesPeopleMore
+Search ACM Digital LibrarySearchSearch
+Advanced Search
+
+
+
+Computers and GraphicsPeriodical HomeLatest Issue
+
+ArchiveAuthorsAffiliationsAward WinnersMore
+
+
+
+
+
+
+
+
+
+
+HomeBrowse by TitlePeriodicalsComputers and GraphicsVol. 108, No. CExploring differential geometry in neural implicits▪
+
+
+
+
+
+
+
+research-article Free Access
+Share on
+Exploring differential geometry in neural implicits▪   Authors:   Tiago Novello IMPA - Instituto de Matemática Pura e Aplicada, Brazil   IMPA - Instituto de Matemática Pura e Aplicada, BrazilView Profile ,  Guilherme Schardong Universidade de Coimbra, Portugal   Universidade de Coimbra, PortugalView Profile ,  Luiz Schirmer Universidade de Coimbra, Portugal   Universidade de Coimbra, PortugalView Profile ,  Vinícius da Silva PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro, Brazil   PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro, BrazilView Profile ,  Hélio Lopes PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro, Brazil   PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro, BrazilView Profile ,  Luiz Velho IMPA - Instituto de Matemática Pura e Aplicada, Brazil   IMPA - Instituto de Matemática Pura e Aplicada, BrazilView Profile   Authors Info & Claims   Computers and GraphicsVolume 108Issue CNov 2022pp   49–60https://doi.org/10.1016/j.cag.2022.09.003Published:01 November 2022Publication History
+3citation0DownloadsMetricsTotal Citations3Total Downloads0Last 12 Months0Last 6 weeks0
+Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account
+Publisher SiteComputers and GraphicsVolume 108, Issue C
+PreviousArticleNextArticle
+Skip Abstract SectionAbstractAbstractWe introduce a neural implicit framework that exploits the differentiable properties of neural networks and the discrete geometry of point-sampled surfaces to approximate them as the level sets of neural implicit functions.To train a neural implicit function, we propose a loss functional that approximates a signed distance function, and allows terms with high-order derivatives, such as the alignment between the principal directions of curvature, to learn more geometric details. During training, we consider a non-uniform sampling strategy based on the curvatures of the point-sampled surface to prioritize points with more geometric details. This sampling implies faster learning while preserving geometric accuracy when compared with previous approaches.We also use the analytical derivatives of a neural implicit function to estimate the differential measures of the underlying point-sampled surface.Graphical abstractDisplay OmittedHighlights •Introduction of a neural implicit framework to approximate the signed distance functions of surfaces by smooth neural networks using differential geometry.•Definition of a loss function that allows the exploration of tools from differential geometry during the training of the network.•During the training, we use the discrete differential geometry of the dataset to sample important regions.•We also use the analytical derivatives of the neural network to estimate the curvatures of the underlying point-sampled surface. References[1] Sitzmann Vincent, Martel Julien, Bergman Alexander, Lindell David, Wetzstein Gordon, Implicit neural representations with periodic activation functions, Adv Neural Inf Process Syst 33 (2020).Google Scholar[2] Gropp Amos, Yariv Lior, Haim Niv, Atzmon Matan, Lipman Yaron, Implicit geometric regularization for learning shapes, 2020, arXiv preprint  arXiv:2002.10099.Google Scholar[3] Novello Tiago, da Silva Vinícius, Schardong Guilherme, Schirmer Luiz, Lopes Hélio, Velho Luiz, Neural implicit surfaces in higher dimension, 2022, arXiv preprint.Google Scholar[4] Amenta Nina, Choi Sunghee, Dey Tamal K, Leekha Naveen. A simple algorithm for homeomorphic surface reconstruction. In: Proceedings of the sixteenth annual symposium on computational geometry; 2000, p. 213–22.Google Scholar[5] Mitra Niloy J, Nguyen An. Estimating surface normals in noisy point cloud data. In: Proceedings of the nineteenth annual symposium on computational geometry; 2003, p. 322–8.Google Scholar[6] Alexa Marc, Behr Johannes, Cohen-Or Daniel, Fleishman Shachar, Levin David, Silva Claudio T., Computing and rendering point set surfaces, IEEE Trans Vis Comput Graphics 9 (1) (2003) 3–15.Google ScholarDigital Library[7] Mederos Boris, Velho Luiz, de Figueiredo Luiz Henrique, Robust smoothing of noisy point clouds, in: Proc. SIAM conference on geometric design and computing, Vol. 2004, SIAM, Philadelphia, PA, USA, 2003, p. 2.Google Scholar[8] Kalogerakis Evangelos, Nowrouzezahrai Derek, Simari Patricio, Singh Karan, Extracting lines of curvature from noisy point clouds, Comput Aided Des 41 (4) (2009) 282–292.Google Scholar[9] Meyer Mark, Desbrun Mathieu, Schröder Peter, Barr Alan H, Discrete differential-geometry operators for triangulated 2-manifolds, in: Visualization and mathematics III, Springer, 2003, pp. 35–57.Google Scholar[10] Cohen-Steiner David, Morvan Jean-Marie. Restricted delaunay triangulations and normal cycle. In: Proceedings of the nineteenth annual symposium on computational geometry; 2003, p. 312–21.Google Scholar[11] Taubin Gabriel, Estimating the tensor of curvature of a surface from a polyhedral approximation, in: Proceedings of IEEE international conference on computer vision, IEEE, 1995, pp. 902–907.Google Scholar[12] Wardetzky Max, Mathur Saurabh, Kälberer Felix, Grinspun Eitan, Discrete Laplace operators: no free lunch, in: Symposium on geometry processing, Aire-la-Ville, Switzerland, 2007, pp. 33–37.Google Scholar[13] Carr Jonathan C, Beatson Richard K, Cherrie Jon B, Mitchell Tim J, Fright W Richard, McCallum Bruce C, Evans Tim R. Reconstruction and representation of 3D objects with radial basis functions. In: Proceedings of the 28th annual conference on computer graphics and interactive techniques; 2001, p. 67–76.Google Scholar[14] Macêdo Ives, Gois Joao Paulo, Velho Luiz, Hermite radial basis functions implicits, in: Computer graphics forum, Vol. 30, Wiley Online Library, 2011, pp. 27–42.Google Scholar[15] Kazhdan Michael, Bolitho Matthew, Hoppe Hugues. Poisson surface reconstruction. In: Proceedings of the fourth eurographics symposium on geometry processing, Vol. 7; 2006.Google Scholar[16] Mescheder Lars M., Oechsle Michael, Niemeyer Michael, Nowozin Sebastian, Geiger Andreas, Occupancy networks: Learning 3D reconstruction in function space, 2018, CoRR,  abs/1812.03828. URL  http://arxiv.org/abs/1812.03828.Google Scholar[17] Chen Zhiqin, Zhang Hao, Learning implicit fields for generative shape modeling, 2019.Google Scholar[18] Park Jeong Joon, Florence Peter, Straub Julian, Newcombe Richard, Lovegrove Steven. Deepsdf: Learning continuous signed distance functions for shape representation. In: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition; 2019, p. 165–74.Google Scholar[19] Michalkiewicz Mateusz, Implicit surface representations as layers in neural networks, in: International conference on computer vision (ICCV), IEEE, 2019.Google Scholar[20] Genova Kyle, Cole Forrester, Sud Avneesh, Sarna Aaron, Funkhouser Thomas A., Deep structured implicit functions, 2019, CoRR,  abs/1912.06126. URL  http://arxiv.org/abs/1912.06126.Google Scholar[21] Chen Zhiqin, Tagliasacchi Andrea, Zhang Hao. BSP-Net: Generating compact meshes via binary space partitioning. In: Proceedings of IEEE conference on computer vision and pattern recognition (CVPR); 2020.Google Scholar[22] Deng Boyang, Genova Kyle, Yazdani Soroosh, Bouaziz Sofien, Hinton Geoffrey, Tagliasacchi Andrea, CvxNet: Learnable convex decomposition, in: The IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2020.Google Scholar[23] Peng Songyou, Niemeyer Michael, Mescheder Lars M., Pollefeys Marc, Geiger Andreas, Convolutional occupancy networks, 2020, CoRR,  abs/2003.04618. URL  https://arxiv.org/abs/2003.04618.Google Scholar[24] Do Carmo Manfredo P., Differential geometry of curves and surfaces: revised and updated second edition, Courier Dover Publications, 2016.Google Scholar[25] Kindlmann Gordon, Whitaker Ross, Tasdizen Tolga, Moller Torsten, Curvature-based transfer functions for direct volume rendering: Methods and applications, in: IEEE visualization, 2003. VIS 2003, IEEE, 2003, pp. 513–520.Google Scholar[26] Goldman Ron, Curvature formulas for implicit curves and surfaces, Comput Aided Geom Design 22 (7) (2005) 632–658.Google Scholar[27] Hart John C., Sphere tracing: A geometric method for the antialiased ray tracing of implicit surfaces, Vis Comput 12 (10) (1996) 527–545.Google Scholar[28] Paszke Adam, Gross Sam, Massa Francisco, Lerer Adam, Bradbury James, Chanan Gregory, Killeen Trevor, Lin Zeming, Gimelshein Natalia, Antiga Luca, Desmaison Alban, Kopf Andreas, Yang Edward, DeVito Zachary, Raison Martin, Tejani Alykhan, Chilamkurthy Sasank, Steiner Benoit, Fang Lu, Bai Junjie, Chintala Soumith, PyTorch: An imperative style, high-performance deep learning library, in: Wallach H., Larochelle H., Beygelzimer A., d’Alché Buc F., Fox E., Garnett R. (Eds.), Advances in neural information processing systems, Vol. 32, Curran Associates, Inc., 2019, pp. 8024–8035.Google Scholar[29] Cybenko George, Approximation by superpositions of a sigmoidal function, Math Control Signals Systems 2 (4) (1989) 303–314.Google Scholar[30] Benbarka Nuri, Höfer Timon, Zell Andreas, et al., Seeing implicit neural representations as Fourier series, 2021, arXiv preprint  arXiv:2109.00249.Google Scholar[31] Barill Gavin, Dickson Neil, Schmidt Ryan, Levin David I.W., Jacobson Alec, Fast winding numbers for soups and clouds, ACM Trans Graph (2018).Google Scholar[32] Harris Christopher G, Stephens Mike et al. A combined corner and edge detector. In: Proc. of fourth alvey vision conference; 1988, p. 147–51.Google Scholar[33] Kingma Diederik P., Ba Jimmy, Adam: A method for stochastic optimization, 2014, arXiv preprint  arXiv:1412.6980.Google Scholar[34] Yang Guandao, Belongie Serge, Hariharan Bharath, Koltun Vladlen, Geometry processing with neural fields, Adv Neural Inf Process Syst 34 (2021) 22483–22497.Google Scholar[35] Ohtake Yutaka, Belyaev Alexander, Seidel Hans-Peter, Ridge-valley lines on meshes via implicit surface fitting, in: ACM SIGGRAPH 2004 papers, 2004, pp. 609–612.Google Scholar[36] Belyaev Alexander G., Pasko Alexander A., Kunii Tosiyasu L., Ridges and ravines on implicit surfaces, in: Proceedings. Computer graphics international (Cat. No. 98EX149), IEEE, 1998, pp. 530–535.Google Scholar[37] Virtanen Pauli, Gommers Ralf, Oliphant Travis E., Haberland Matt, Reddy Tyler, Cournapeau David, Burovski Evgeni, Peterson Pearu, Weckesser Warren, Bright Jonathan, van der Walt Stéfan J., Brett Matthew, Wilson Joshua, Millman K. Jarrod, Mayorov Nikolay, Nelson Andrew R.J., Jones Eric, Kern Robert, Larson Eric, Carey C J, Polat İlhan, Feng Yu, Moore Eric W., VanderPlas Jake, Laxalde Denis, Perktold Josef, Cimrman Robert, Henriksen Ian, Quintero E.A., Harris Charles R., Archibald Anne M., Ribeiro Antônio H., Pedregosa Fabian, van Mulbregt Paul, SciPy 1.0 Contributors, SciPy 1.0: Fundamental algorithms for scientific computing in python, Nature Methods 17 (2020) 261–272, 10.1038/s41592-019-0686-2.Google Scholar[38] Ohtake Yutaka, Belyaev Alexander, Alexa Marc, Turk Greg, Seidel Hans-Peter, Multi-level partition of unity implicits, ACM Trans Graph (ISSN 0730-0301) 22 (3) (2003) 463–470, 10.1145/882262.882293.Google ScholarDigital Library[39] Ohtake Yutaka, Belyaev Alexander, Seidel Hans-Peter, Sparse surface reconstruction with adaptive partition of unity and radial basis functions, Graph Models (ISSN 1524-0703) 68 (1) (2006) 15–24, 10.1016/j.gmod.2005.08.001. URL  https://www.sciencedirect.com/science/article/pii/S1524070305000548. Special Issue on SMI 2004.Google ScholarDigital Library[40] Greengard Leslie, Rokhlin Vladimir, A fast algorithm for particle simulations, J Comput Phys 135 (2) (1997) 280–292.Google ScholarDigital Library[41] Ward Gregory J. Measuring and modeling anisotropic reflection. In: Proceedings of the 19th annual conference on computer graphics and interactive techniques; 1992, p. 265–72.Google Scholar[42] Zhou Qian-Yi, Park Jaesik, Koltun Vladlen, Open3D: A modern library for 3D data processing, 2018,  arXiv:1801.09847.Google Scholar[43] da Silva Vinícius, Novello Tiago, Schardong Guilherme, Schirmer Luiz, Lopes Hélio, Velho Luiz, MIP-plicits: Level of detail factorization of neural implicits sphere tracing, 2022, arXiv preprint.Google Scholar[44] Takikawa Towaki, Litalien Joey, Yin Kangxue, Kreis Karsten, Loop Charles, Nowrouzezahrai Derek, Jacobson Alec, McGuire Morgan, Fidler Sanja, Neural geometric level of detail: Real-time rendering with implicit 3D shapes, 2021, arXiv preprint  arXiv:2101.10994.Google Scholar
+
+
+Cited ByView all
+
+
+
+
+
+
+
+Index Terms
+
+Exploring differential geometry in neural implicits▪Computing methodologiesArtificial intelligenceComputer visionComputer graphicsShape modelingMachine learningMachine learning approachesNeural networksTheory of computationRandomness, geometry and discrete structuresComputational geometry
+
+
+ Index terms have been assigned to the content through auto-classification.
+
+ Recommendations 
+Trimming implicit surfaces
+Algorithms for trimming implicit surfaces yielding surface sheets and stripes are presented. These two-dimensional manifolds with boundaries result from set-theoretic operations on an implicit surface and a solid or another implicit surface. The ...Read MoreToward an efficient triangle-based spherical harmonics representation of 3D objects
+In classical frequency-based surface decomposition, there is always a restriction about the genus number of the object to obtain the spherical harmonics decomposition of spherical functions representing these objects. Such spherical functions are ...Read MoreA Level Set Theory for Neural Implicit Evolution Under Explicit FlowsComputer Vision – ECCV 2022  AbstractCoordinate-based neural networks parameterizing implicit surfaces have emerged as efficient representations of geometry. They effectively act as parametric level sets with the zero-level set defining the surface of interest. We present a framework ...Read More
+
+
+
+
+
+ Comments 
+Please enable JavaScript to view thecomments powered by Disqus.
+
+
+Login optionsCheck if you have access through your login credentials or your institution to get full access on this article.Sign inFull AccessGet this Article
+InformationContributorsPublished in
+
+Computers and Graphics  Volume 108, Issue CNov 202292  pagesISSN:0097-8493Issue’s Table of Contents
+
+Elsevier LtdSponsorsIn-CooperationPublisherPergamon Press, Inc.United States
+
+
+                Publication History
+            
+Published: 1 November 2022
+
+Author TagsImplicit surfacesNeural ImplicitsNeural NetworksCurvaturesQualifiersresearch-articleConferenceFunding Sources
+
+Other MetricsView Article MetricsBibliometricsCitations3Article Metrics3Total CitationsView Citations0Total DownloadsDownloads (Last 12 months)0Downloads (Last 6 weeks)0Other MetricsView Author MetricsCited ByView allDigital EditionView this article in digital edition.View Digital EditionFiguresOtherShare this Publication linkhttps://dl.acm.org/doi/10.1016/j.cag.2022.09.003Copy LinkShare on Social Media
+Share on
+0ReferencesClose Figure ViewerBrowse AllReturnChange zoom levelCaption
+
+View Issue’s Table of Contents
+Export CitationsSelect Citation formatBibTeXEndNoteACM RefPlease download or close your previous search result export first before starting a new bulk export.Preview is not available.By clicking download,a status dialog will open to start the export process. The process may takea few minutes but once it finishes a file will be downloadable from your browser. You may continue to browse the DL while the export process is in progress.DownloadDownload citationCopy citation
+
+
+
+Footer
+
+
+
+
+
+
+
+
+Categories
+
+Journals
+Magazines
+Books
+Proceedings
+SIGs
+Conferences
+Collections
+People
+
+
+
+
+About
+
+About ACM Digital Library
+ACM Digital Library Board
+Subscription Information
+Author Guidelines
+Using ACM Digital Library
+All Holdings within the ACM Digital Library
+ACM Computing Classification System
+Digital Library Accessibility
+
+
+
+
+Join
+
+Join ACM
+Join SIGs
+Subscribe to Publications
+Institutions and Libraries
+
+
+
+
+Connect
+
+Contact
+Facebook
+X
+Linkedin
+
+Feedback
+Bug Report
+
+
+
+
+
+
+
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2024 ACM, Inc.
+
+Terms of Usage
+Privacy Policy
+Code of Ethics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Search Results Download Request We are preparing your search results for download ...We will inform you here when the file is ready.Download now!Your Search Results Download RequestYour file of search results citations is now ready.Download now!Your Search Results Download RequestYour search export query has expired. Please try again.
+
+
+
+
+
+
+
+

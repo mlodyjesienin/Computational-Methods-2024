@@ -1,0 +1,12 @@
+import os 
+PATH = os.path.dirname(os.path.abspath(__file__))
+TEXTS_PATH = os.path.join(PATH, "../data/saved_texts")
+ENGINE_DATA_PATH = os.path.join(PATH, "../data/engine_data")
+SEARCH_MATRIX_PATH = os.path.join(ENGINE_DATA_PATH, "search_matrix.npz")
+VOCABULARY_PATH=os.path.join(ENGINE_DATA_PATH, "vocabulary.csv")
+IDF_PATH=os.path.join(ENGINE_DATA_PATH, "idf.csv")
+FILENAMES_PATH=os.path.join(ENGINE_DATA_PATH, "filenames.csv")
+US_MATRIX_PATH=os.path.join(ENGINE_DATA_PATH, "us_matrix.npy")
+VT_MATRIX_PATH=os.path.join(ENGINE_DATA_PATH, "v_t_matrix.npy")
+QUERIES_PATH = os.path.join(PATH, "../data/queries.txt")
+URL_MAP_PATH = os.path.join(ENGINE_DATA_PATH, "../url_to_filename.csv")

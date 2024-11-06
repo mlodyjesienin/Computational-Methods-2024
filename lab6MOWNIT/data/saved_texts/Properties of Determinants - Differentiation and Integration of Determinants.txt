@@ -1,0 +1,980 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Properties of Determinants - Differentiation and Integration of Determinants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JEE Main 2024 Question Paper Solution Discussion Live
+JEE Main 2024 Question Paper Solution Discussion Live
+
+
+
+×
+ Watch Now 
+
+
+
+
+
+ 
+Login Study MaterialsNCERT SolutionsNCERT Solutions For Class 12 NCERT Solutions For Class 12 PhysicsNCERT Solutions For Class 12 ChemistryNCERT Solutions For Class 12 BiologyNCERT Solutions For Class 12 MathsNCERT Solutions Class 12 AccountancyNCERT Solutions Class 12 Business StudiesNCERT Solutions Class 12 EconomicsNCERT Solutions Class 12 Accountancy Part 1NCERT Solutions Class 12 Accountancy Part 2NCERT Solutions Class 12 Micro-EconomicsNCERT Solutions Class 12 CommerceNCERT Solutions Class 12 Macro-EconomicsNCERT Solutions For Class 11 NCERT Solutions For Class 11 PhysicsNCERT Solutions For Class 11 ChemistryNCERT Solutions For Class 11 BiologyNCERT Solutions For Class 11 MathsNCERT Solutions Class 11 AccountancyNCERT Solutions Class 11 Business StudiesNCERT Solutions Class 11 EconomicsNCERT Solutions Class 11 StatisticsNCERT Solutions Class 11 CommerceNCERT Solutions For Class 10 NCERT Solutions for Class 10 Social ScienceNCERT Solutions for Class 10 Maths NCERT Solutions for Class 10 Maths Chapter 1NCERT Solutions for Class 10 Maths Chapter 2NCERT Solutions for Class 10 Maths Chapter 3NCERT Solutions for Class 10 Maths Chapter 4NCERT Solutions for Class 10 Maths Chapter 5NCERT Solutions for Class 10 Maths Chapter 6NCERT Solutions for Class 10 Maths Chapter 7NCERT Solutions for Class 10 Maths Chapter 8NCERT Solutions for Class 10 Maths Chapter 9NCERT Solutions for Class 10 Maths Chapter 10NCERT Solutions for Class 10 Maths Chapter 11NCERT Solutions for Class 10 Maths Chapter 12NCERT Solutions for Class 10 Maths Chapter 13NCERT Solutions for Class 10 Maths Chapter 14NCERT Solutions for Class 10 Maths Chapter 15MoreNCERT Solutions for Class 10 Science NCERT Solutions for Class 10 Science Chapter 1NCERT Solutions for Class 10 Science Chapter 2NCERT Solutions for Class 10 Science Chapter 3NCERT Solutions for Class 10 Science Chapter 4NCERT Solutions for Class 10 Science Chapter 5NCERT Solutions for Class 10 Science Chapter 6NCERT Solutions for Class 10 Science Chapter 7NCERT Solutions for Class 10 Science Chapter 8NCERT Solutions for Class 10 Science Chapter 9NCERT Solutions for Class 10 Science Chapter 10NCERT Solutions for Class 10 Science Chapter 11NCERT Solutions for Class 10 Science Chapter 12NCERT Solutions for Class 10 Science Chapter 13NCERT Solutions for Class 10 Science Chapter 14NCERT Solutions for Class 10 Science Chapter 15NCERT Solutions for Class 10 Science Chapter 16MoreNCERT Solutions For Class 9 NCERT Solutions For Class 9 Social ScienceNCERT Solutions For Class 9 Maths NCERT Solutions For Class 9 Maths Chapter 1NCERT Solutions For Class 9 Maths Chapter 2NCERT Solutions For Class 9 Maths Chapter 3NCERT Solutions For Class 9 Maths Chapter 4NCERT Solutions For Class 9 Maths Chapter 5NCERT Solutions For Class 9 Maths Chapter 6NCERT Solutions For Class 9 Maths Chapter 7NCERT Solutions For Class 9 Maths Chapter 8NCERT Solutions For Class 9 Maths Chapter 9NCERT Solutions For Class 9 Maths Chapter 10NCERT Solutions For Class 9 Maths Chapter 11NCERT Solutions For Class 9 Maths Chapter 12NCERT Solutions For Class 9 Maths Chapter 13NCERT Solutions For Class 9 Maths Chapter 14NCERT Solutions For Class 9 Maths Chapter 15MoreNCERT Solutions For Class 9 Science NCERT Solutions for Class 9 Science Chapter 1NCERT Solutions for Class 9 Science Chapter 2NCERT Solutions for Class 9 Science Chapter 3NCERT Solutions for Class 9 Science Chapter 4NCERT Solutions for Class 9 Science Chapter 5NCERT Solutions for Class 9 Science Chapter 6NCERT Solutions for Class 9 Science Chapter 7NCERT Solutions for Class 9 Science Chapter 8NCERT Solutions for Class 9 Science Chapter 9NCERT Solutions for Class 9 Science Chapter 10NCERT Solutions for Class 9 Science Chapter 11NCERT Solutions for Class 9 Science Chapter 12NCERT Solutions for Class 9 Science Chapter 13NCERT Solutions for Class 9 Science Chapter 14NCERT Solutions for Class 9 Science Chapter 15MoreNCERT Solutions For Class 8 NCERT Solutions For Class 8 MathsNCERT Solutions For Class 8 ScienceNCERT Solutions for Class 8 Social ScienceNCERT Solutions for Class 8 EnglishNCERT Solutions For Class 7 NCERT Solutions For Class 7 MathsNCERT Solutions For Class 7 ScienceNCERT Solutions for Class 7 Social ScienceNCERT Solutions for Class 7 EnglishNCERT Solutions For Class 6 NCERT Solutions For Class 6 MathsNCERT Solutions For Class 6 ScienceNCERT Solutions For Class 6 Social ScienceNCERT Solutions for Class 6 EnglishNCERT Solutions For Class 5 NCERT Solutions For Class 5 MathsNCERT Solutions For Class 5 EVSNCERT Solutions For Class 4 NCERT Solutions For Class 4 MathsNCERT Solutions For Class 4 EVSNCERT Solutions For Class 3 NCERT Solutions For Class 3 MathsNCERT Solutions For Class 3 EVSNCERT Solutions For Class 3 EnglishNCERT Solutions For Class 2 NCERT Solutions For Class 2 MathsNCERT Solutions For Class 2 EnglishNCERT Solutions For Class 1 NCERT Solutions For Class 1 MathsNCERT Solutions For Class 1 EnglishNCERTNCERT SyllabusClassesClass 1 - 3Class 4 - 5Class 6 - 10CBSENCERT Books NCERT Books for Class 5NCERT Books Class 6NCERT Books for Class 7NCERT Books for Class 8NCERT Books for Class 9NCERT Books for Class 10NCERT Books for Class 11NCERT Books for Class 12NCERT Exemplar NCERT Exemplar Class 8NCERT Exemplar Class 9NCERT Exemplar Class 10NCERT Exemplar Class 11NCERT Exemplar Class 12RD Sharma RD Sharma Class 6 SolutionsRD Sharma Class 7 SolutionsRD Sharma Class 8 SolutionsRD Sharma Class 9 SolutionsRD Sharma Class 10 SolutionsRD Sharma Class 11 SolutionsRD Sharma Class 12 SolutionsPHYSICS MechanicsOpticsThermodynamicsElectromagnetismFamous PhysicistsUnit ConversionKirchhoff's LawsFaraday's LawLaws of MotionRefraction of LightMaxwell's EquationElectrostaticsBernoulli's PrincipleProjectile MotionElectric ChargePhysics SymbolsMoreCHEMISTRY Periodic TableStereochemistryOrganic CompoundsInorganic ChemistryQuantum NumbersAtomic Mass of ElementsPeriodic Properties of Elements118 Elements and Their SymbolsBalancing Chemical EquationsSalt AnalysisAcids, Bases, and SaltsBenzeneOrganometallic CompoundsAtomic Number and Mass NumberMoreMATHS Pythagoras TheoremPrime NumbersProbability and StatisticsFractionsSetsTrigonometric FunctionsRelations and FunctionsSequence and SeriesMultiplication TablesDeterminants and MatricesProfit And LossPolynomial EquationsDividing FractionsSocial Science Manufacturing IndustriesSahara DesertAmazon RiverIndian TribesMughal DynastyMonuments of India ListJudiciaryAutocratic MeaningFundamental Rights of IndiaUnion Territories of IndiaCapitals of Seven Sisters of IndiaMost Populated States In IndiaBIOLOGY MicrobiologyEcologyZoologyPhotosynthesisFORMULAS Maths FormulasAlgebra FormulasTrigonometry FormulasGeometry FormulasCBSE Sample Papers CBSE Sample Papers for Class 6CBSE Sample Papers for Class 7CBSE Sample Papers for Class 8CBSE Sample Papers for Class 9CBSE Sample Papers for Class 10CBSE Sample Papers for Class 11CBSE Sample Papers for Class 12CBSE Previous Year Question Paper CBSE Previous Year Question Papers Class 10CBSE Previous Year Question Papers Class 12Lakhmir Singh Solutions Lakhmir Singh Class 9 SolutionsLakhmir Singh Class 10 SolutionsLakhmir Singh Class 8 SolutionsCBSE Notes Class 6 CBSE NotesClass 7 CBSE NotesClass 8 CBSE NotesClass 9 CBSE NotesClass 10 CBSE NotesClass 11 CBSE NotesClass 12 CBSE NotesCBSE Revision Notes CBSE Class 9 Revision NotesCBSE Class 10 Revision NotesCBSE Class 11 Revision NotesCBSE Class 12 Revision NotesCBSE Extra Questions CBSE Class 8 Maths Extra QuestionsCBSE Class 8 Science Extra QuestionsCBSE Class 9 Maths Extra QuestionsCBSE Class 9 Science Extra QuestionsCBSE Class 10 Maths Extra QuestionsCBSE Class 10 Science Extra QuestionsCBSE Class Class 3Class 4Class 5Class 6Class 7Class 8Class 9Class 10Class 11Class 12Textbook SolutionsCalculatorsBasic Calculators Percentage CalculatorLoan CalculatorEmi CalculatorFraction CalculatorAlgebra CalculatorFactoring CalculatorDistance CalculatorPercentage Increase CalculatorSquare Footage CalculatorSquare Root CalculatorPercentage Change CalculatorRatio CalculatorTriangle CalculatorFractions CalculatorArea CalculatorPercentage Difference CalculatorPercentage Off CalculatorScientific Notation CalculatorSimple Interest CalculatorEquation CalculatorLcm CalculatorRounding CalculatorLong Division CalculatorMixed Fraction CalculatorMoreMaths Calculators Compound Interest CalculatorIntegral CalculatorDerivative CalculatorGraphing CalculatorStandard Deviation CalculatorLimit CalculatorBinary CalculatorMatrix CalculatorCp CalculatorDiscount CalculatorAntiderivative CalculatorExponents CalculatorProbability CalculatorSample Size CalculatorSlope CalculatorArea Of A Circle CalculatorCircumference CalculatorCombination CalculatorInverse Matrix CalculatorMod CalculatorPythagorean Theorem CalculatorConfidence Interval CalculatorDouble Integral CalculatorMatrix Multiplication CalculatorInverse Function CalculatorVolume CalculatorVolume Of A Cylinder CalculatorZ Score CalculatorVariance CalculatorMorePhysics Calculators Power CalculatorVoltage Drop CalculatorChemistry Calculators Molarity CalculatorCommerceClass 11 Commerce Syllabus Class 11 Accountancy SyllabusClass 11 Business Studies SyllabusClass 11 Economics SyllabusClass 12 Commerce Syllabus Class 12 Accountancy SyllabusClass 12 Business Studies SyllabusClass 12 Economics SyllabusCommerce Sample Papers Class 11 Commerce Sample PapersClass 12 Commerce Sample PapersTS Grewal Solutions TS Grewal Solutions Class 12 AccountancyTS Grewal Solutions Class 11 AccountancyStatement Of Cash FlowsWhat Is EntrepreneurshipConsumer ProtectionWhat Is A Fixed AssetWhat Is A Balance SheetWhat Is Fiscal DeficitWhat Are Equity SharesDifference Between Selling And MarketingICSEICSE Sample PapersICSE Question PapersML Aggarwal Solutions ML Aggarwal Solutions Class 10 MathsML Aggarwal Solutions Class 9 MathsML Aggarwal Solutions Class 8 MathsML Aggarwal Solutions Class 7 MathsML Aggarwal Solutions Class 6 MathsSelina Solutions Selina Solution for Class 8Selina Solutions for Class 10Selina Solution for Class 9Frank Solutions Frank Solutions for Class 10 MathsFrank Solutions for Class 9 MathsICSE Class ICSE Class 6ICSE Class 7ICSE Class 8ICSE Class 9ICSE Class 10ISC Class 11ISC Class 12IASIAS ExamUPSC ExamCivil Service ExamUPSC SyllabusIAS TopperFree IAS PrepUPSC Results UPSC Prelims ResultUPSC Mains ResultCurrent Affairs List of Current Affairs ArticlesList Of IAS ArticlesPublic Service Commission KPSC KAS ExamUPPSC PCS ExamMPSC ExamRPSC RAS ExamTNPSC Group 1APPSC Group 1BPSC ExamWBPSC ExamMPPSC ExamJPSC ExamGPSC ExamUPSC Question Papers UPSC Prelims 2022 Question PaperUPSC Prelims 2022 Answer KeyIAS Coaching IAS Coaching BangaloreIAS Coaching DelhiIAS Coaching ChennaiIAS Coaching HyderabadIAS Coaching MumbaiBest IAS coaching ChennaiBest IAS coaching BangaloreBest IAS coaching DelhiIAS QuestionsJEEJEE 2024NMTC 2023 Question PapersNMTC 2023 Sub Junior DivisionNMTC 2023 Primary DivisionNMTC 2023 Junior DivisionJEE 2023JEE Test SeriesJEE Advanced 2023JEE Advanced 2023 Question PaperJEE Advanced 2023 Paper AnalysisJEE Advanced 2022 Question PaperJEE Advanced Question PapersJEE Advanced Answer KeysJEE Advanced ResultsJEE Advanced Marks vs RankJEE Advanced Rank PredictorJEE Advanced Paper AnalysisJEE Main 2024JEE Main 2024 Question Papers with AnswersJEE Main 2024 Mock TestJEE Main 2023 Question PapersJEE Main Toppers List 2023JEE Main 2023 Paper AnalysisJEE Main 2022 Question PapersJEE Main 2022 Paper AnalysisJEE Main Rank PredictorJEE Main ResultsJEE Sample PaperJEE Question PaperJEE Main Answer KeyBinomial TheoremJEE ArticlesQuadratic EquationJEE QuestionsNEETNEET 2024NEET 2023NEET Registration 2023NEET Admit CardNEET Test SeriesNEET 2023 Question PaperNEET 2023 Answer KeyNEET 2023 Question Paper AnalysisNEET 2022 Question PaperNEET 2022 Answer KeyNEET 2022 Question paper analysisNEET 2022 ResultsNEET Eligibility CriteriaNEET Question PapersNEET Sample PapersNEET PreparationNEET SyllabusNEET QuestionsGATE 2024GATEGATE Previous Year Question PapersGATE Syllabus GATE Syllabus For CSEGATE Syllabus For ECEGATE Syllabus For Civil EngineeringGATE Syllabus For Mechanical EngineeringGATE Aptitude SyllabusGATE Study Material GATE Notes For CSEGATE Difference Between ArticlesGATE FAQsOlympiad ExamsMaths OlympiadScience OlympiadEntrance Exams In IndiaCOMED-K COMED-K SyllabusCOMED-K Previous Year Question PapersCOMED-K Sample PapersKCET KCET SyllabusKCET Question PapersWBJEE WBJEE SyllabusWBJEE Question PapersGUJCET GUJCET SyllabusGUJCET Question PapersKVPY KVPY SyllabusMHT-CET MHT-CET SyllabusNSTSE NSTSE SyllabusNTSE NTSE SyllabusNTSE Question PaperBCECE BCECE SyllabusUPSEE UPSEE SyllabusGCETHPCETKEAMState BoardsGSEB GSEB SyllabusGSEB Question PaperGSEB Sample PaperGSEB BooksMSBSHSE MSBSHSE SyllabusMSBSHSE TextbooksMSBSHSE Sample PapersMSBSHSE Question PapersAP Board APSCERT BooksAP SSC SyllabusAP 1st Year SyllabusAP 2nd Year SyllabusMP Board MP Board SyllabusMP Board Sample PapersMP Board TextbooksAssam Board Assam Board SyllabusAssam Board TextbooksAssam Board Sample PapersBSEB Bihar Board SyllabusBihar Board TextbooksBihar Board Question PapersBihar Board Model PapersBSE Odisha Odisha Board SyllabusOdisha Board Sample PapersPSEB PSEB SyllabusPSEB TextbooksPSEB Question PapersRBSE Rajasthan Board SyllabusRBSE TextbooksRBSE Question PapersHPBOSE HPBOSE SyllabusHPBOSE TextbooksHPBOSE Question PapersJKBOSE JKBOSE SyllabusJKBOSE Sample PapersJKBOSE Exam PatternTN Board TN Board SyllabusTN Board Question PapersTN Board Sample PapersSamacheer Kalvi BooksJAC JAC SyllabusJAC TextbooksJAC Question PapersTelangana Board Telangana Board SyllabusTelangana Board TextbooksTelangana Board Question PapersKSEEB KSEEB SyllabusKSEEB Model Question PapersKBPE KBPE SyllabusKBPE TextbooksKBPE Question PapersUPMSP UP Board SyllabusUP Board BooksUP Board Question PapersWest Bengal Board West Bengal Board SyllabusWest Bengal Board TextBooksWest Bengal Board Question PapersUBSETBSEGoa BoardNBSECGBSEMBSEMeghalaya BoardManipur BoardHaryana BoardNIOSNIOS A Level Syllabus A Level EVS SyllabusA Level Basic Computer Skill SyllabusA Level Maths SyllabusNIOS B Level Syllabus B Level EVS SyllabusB Level Computer Skill SyllabusB Level Maths SyllabusNIOS C Level Syllabus C Level Social Science SyllabusC Level Science SyllabusC Level Maths SyllabusC Level Basic Computer Skills SyllabusC Level English Language SyllabusNIOS Secondary Course Secondary Course Group B SyllabusSecondary Course Group A SyllabusNIOS Senior Secondary Course Senior Secondary Group F SyllabusSenior Secondary Group E SyllabusSenior Secondary Group D SyllabusSenior Secondary Group C SyllabusSenior Secondary Group B SyllabusSenior Secondary Group A SyllabusGovernment ExamsBank Exams SBI ExamsIBPS ExamsRBI ExamsIBPS RRB ExamSSC Exams SSC JESSC GDSSC CPOSSC CHSLSSC CGLRRB Exams RRB JERRB NTPCRRB ALPInsurance Exams LIC ExamsLIC HFLLIC ADOUPSC CAPFList of Government Exams ArticlesKids LearningClass 1Class 2Class 3English LanguageLetter WritingSpeech Topics For KidsSlogans for KidsEnglish Grammar Parts of SpeechEnglish Grammar ExercisesAcademic QuestionsPhysics QuestionsChemistry QuestionsBiology QuestionsMaths QuestionsScience QuestionsGK QuestionsCommerce QuestionsEnglish QuestionsOnline TuitionHome TuitionFull FormsGeneral Full Forms Physics Full FormsChemistry Full FormsBiology Full FormsEducational Full FormsBanking Full FormsTechnology Full FormsCATCAT 2023CAT SyllabusCAT Exam PatternCAT ExamCAT Percentile PredictorFree CAT PrepByju's App Review on CATEducation NewsSupportComplaint ResolutionCustomer CareBYJU'S Answer Scholarshipi-BASTBNAT Class 11-12BNST | IASMock Test | JEE MainMock Test | JEE AdvancedMock Test | NEETBTCBYJU'S Tuition CentreTuition in North ZoneTuition in  Madhya Pradesh Tuition in  IndoreTuition in  RewaTuition in  UjjainTuition in  BhopalTuition in  JabalpurTuition in  GwaliorTuition in  SagarTuition in  Chhattisgarh Tuition in  RaipurTuition in  BilaspurTuition in  BhilaiTuition in  DurgTuition in  DelhiTuition in  Haryana Tuition in  GurgaonTuition in  FaridabadTuition in  KarnalTuition in  SonipatTuition in  AmbalaTuition in  HisarTuition in  PanipatTuition in  JagadhriTuition in  SirsaTuition in  PanchkulaTuition in  Himachal Pradesh Tuition in  ShimlaTuition in  Punjab Tuition in  chandigarhTuition in  LudhianaTuition in  JalandharTuition in  AmritsarTuition in  BathindaTuition in  MohaliTuition in  KhararTuition in  Rajasthan Tuition in  JaipurTuition in  AjmerTuition in  JodhpurTuition in  BikanerTuition in  UdaipurTuition in  AlwarTuition in  Sri GanganagarTuition in  BharatpurTuition in  SikarTuition in  BhilwaraTuition in  Uttar Pradesh Tuition in  KanpurTuition in  LucknowTuition in  NoidaTuition in  GhaziabadTuition in  AligarhTuition in  AgraTuition in  MeerutTuition in  MathuraTuition in  FaizabadTuition in  SaharanpurTuition in  BareillyTuition in  Gautam Buddha NagarTuition in  RampurTuition in  JhansiTuition in  AllahabadMoreTuition in  Uttarakhand Tuition in  RudrapurTuition in  HaridwarTuition in  DehradunTuition in  RoorkeeTuition in West ZoneTuition in  Gujarat Tuition in  AhmedabadTuition in  SuratTuition in  AnandTuition in  VadodaraTuition in  VapiTuition in  BhavnagarTuition in  RajkotTuition in  JamnagarTuition in  Maharashtra Tuition in  MumbaiTuition in  Navi MumbaiTuition in  ThaneTuition in  PuneTuition in  NashikTuition in  NagpurTuition in  SolapurTuition in  LaturTuition in  AhmednagarTuition in  AurangabadTuition in  AmravatiTuition in  NandedTuition in  AkolaTuition in  DhuleMoreTuition in East ZoneTuition in  Bihar Tuition in  PatnaTuition in  MuzaffarpurTuition in  DarbhangaTuition in  GayaTuition in  BhagalpurTuition in  PurniaTuition in  Jharkhand Tuition in  JamshedpurTuition in  BokaroTuition in  RanchiTuition in  DhanbadTuition in  Odisha Tuition in  BhubaneswarTuition in  CuttackTuition in  West Bengal Tuition in  KolkataTuition in  KharagpurTuition in  BardhamanTuition in  SiliguriTuition in  AsansolTuition in  Assam Tuition in  DibrugarhTuition in South ZoneTuition in  Andhra Pradesh Tuition in  KurnoolTuition in  NelloreTuition in  RajahmundryTuition in  VijayawadaTuition in  VisakhapatnamTuition in  KadapaTuition in  AnantapurTuition in  TirupatiTuition in  Karnataka Tuition in  BangaloreTuition in  BelagaviTuition in  GulbargaTuition in  DharwadTuition in  MandyaTuition in  BellaryTuition in  HassanTuition in  VijayapuraTuition in  HubliTuition in  ShimogaTuition in  DavanagereTuition in  MysoreTuition in  MangaloreTuition in  Kerala Tuition in  TrivandrumTuition in  CochinTuition in  ThrissurTuition in  KozhikodeTuition in  KannurTuition in  KollamTuition in  PalakkadTuition in  KottayamTuition in  MalappuramTuition in  Tamil Nadu Tuition in  ChennaiTuition in  CoimbatoreTuition in  TiruchirappalliTuition in  SalemTuition in  VelloreTuition in  ErodeTuition in  KrishnagiriTuition in  PuducherryTuition in  Telangana Tuition in  HyderabadTuition in  KhammamTuition Centre Near YouBuy a Course Success Stories Live QuizNEWLogin+91-9243500460 BNATPrevious Years PapersJEE Main Question PapersJEE Main Paper Analysis JEE Main 2024 Question Papers4th April Shift 1 - Physics4th April Shift 1 - Chemistry4th April Shift 1 - Maths4th April Shift 2 - Physics4th April Shift 2 - Chemistry4th April Shift 2 - Maths5th April Shift 1 - Physics5th April Shift 1 - Chemistry5th April Shift 1 - Maths5th April Shift 2 - Physics5th April Shift 2 - Chemistry5th April Shift 2 - Maths6th April Shift 1 - Physics6th April Shift 1 - Chemistry6th April Shift 1 - Maths6th April Shift 2 - Physics6th April Shift 2 - Chemistry6th April Shift 2 - Maths8th April Shift 1 - Physics8th April Shift 1 - Chemistry8th April Shift 1 - Maths8th April Shift 2 - Physics8th April Shift 2 - Chemistry8th April Shift 2 - Maths9th April Shift 1 - Physics9th April Shift 1 - Chemistry9th April Shift 1 - Maths9th April Shift 2 - Physics9th April Shift 2 - Chemistry9th April Shift 2 - Maths27th January Shift 1 - Physics27th January Shift 1 - Chemistry27th January Shift 1 - Maths27th January Shift 2 - Physics27th January Shift 2 - Chemistry27th January Shift 2 - Maths29th January Shift 1 - Physics29th January Shift 1 - Chemistry29th January Shift 1 - Maths29th January Shift 2 - Physics29th January Shift 2 - Chemistry29th January Shift 2 - Maths30th January Shift 1 - Physics30th January Shift 1 - Chemistry30th January Shift 1 - Maths30th January Shift 2 - Physics30th January Shift 2 - Chemistry30th January Shift 2 - Maths31st January Shift 1 - Physics31st January Shift 1 - Chemistry31st January Shift 1 - Maths31st January Shift 2 - Physics31st January Shift 2 - Chemistry31st January Shift 2 - Maths1st February Shift 1 - Physics1st February Shift 1 - Chemistry1st February Shift 1 - Maths1st February Shift 2 - Physics1st February Shift 2 - Chemistry1st February Shift 2 - MathsJEE Main 2023 Question Papers6th April Shift 1 - Physics6th April Shift 1 - Chemistry6th April Shift 1 - Maths6th April Shift 2 - Physics6th April Shift 2 - Chemistry6th April Shift 2 - Maths8th April Shift 1 - Physics8th April Shift 1 - Chemistry8th April Shift 1 - Maths8th April Shift 2 - Physics8th April Shift 2 - Chemistry8th April Shift 2 - Maths10th April Shift 1 - Physics10th April Shift 1 - Chemistry10th April Shift 1 - Maths10th April Shift 2 - Physics10th April Shift 2 - Chemistry10th April Shift 2 - Maths11th April Shift 1 - Physics11th April Shift 1 - Chemistry11th April Shift 1 - Maths11th April Shift 2 - Physics11th April Shift 2 - Chemistry11th April Shift 2 - Maths12th April Shift 1 - Physics12th April Shift 1 - Chemistry12th April Shift 1 - Maths13th April Shift 1 - Physics13th April Shift 1 - Chemistry13th April Shift 1 - Maths13th April Shift 2 - Physics13th April Shift 2 - Chemistry13th April Shift 2 - Maths15th April Shift 1 - Physics15th April Shift 1 - Chemistry15th April Shift 1 - Maths24th January Shift-1 Physics24th January Shift-1 Chemistry24th January Shift-1 Maths24th January Shift-2 Physics24th January Shift-2 Chemistry24th January Shift-2 Maths25th January Shift-1 Physics25th January Shift-1 Chemistry25th January Shift-1 Maths25th January Shift-2 Physics25th January Shift-2 Chemistry25th January Shift-2 Maths29th January Shift-1 Physics29th January Shift-1 Chemistry29th January Shift-1 Maths29th January Shift-2 Physics29th January Shift-2 Chemistry29th January Shift-2 Maths30th January Shift-1 Physics30th January Shift-1 Chemistry30th January Shift-1 Maths30th January Shift-2 Physics30th January Shift-2 Chemistry30th January Shift-2 Maths31st January Shift-1 Physics31st January Shift-1 Chemistry31st January Shift-1 Maths31st January Shift-2 Physics31st January Shift-2 Chemistry31st January Shift-2 Maths1st Feb Shift-1 Physics1st Feb Shift-1 Chemistry1st Feb Shift-1 Maths1st Feb Shift-2 Physics1st Feb Shift-2 Chemistry1st Feb Shift-2 MathsJEE Main 2022 Question Papers25th July Shift 1 - Physics25th July Shift 1 - Chemistry25th July Shift 1 - Maths25th July Shift 2 - Physics25th July Shift 2 - Chemistry25th July Shift 2 - Maths26th July Shift 1 - Physics26th July Shift 1 - Chemistry26th July Shift 1 - Maths26th July Shift 2 - Physics26th July Shift 2 - Chemistry26th July Shift 2 - Maths27th July Shift 1 - Physics27th July Shift 1 - Chemistry27th July Shift 1 - Maths27th July Shift 2 - Physics27th July Shift 2 - Chemistry27th July Shift 2 - Maths28th July Shift 1 - Physics28th July Shift 1 - Chemistry28th July Shift 1 - Maths28th July Shift 2 - Physics28th July Shift 2 - Chemistry28th July Shift 2 - Maths29th July Shift 1 - Physics29th July Shift 1 - Chemistry29th July Shift 1 - Maths29th July Shift 2 - Physics29th July Shift 2 - Chemistry29th July Shift 2 - Maths24th June Shift-1 Physics24th June Shift-1 Chemistry24th June Shift-1 Maths24th June Shift-2 Physics24th June Shift-2 Chemistry24th June Shift-2 Maths25th June Shift-1 Physics25th June Shift-1 Chemistry25th June Shift-1 Maths25th June Shift-2 Physics25th June Shift-2 Chemistry25th June Shift-2 Maths26th June Shift-1 Physics26th June Shift-1 Chemistry26th June Shift-1 Maths26th June Shift-2 Physics26th June Shift-2 Chemistry26th June Shift-2 Maths27th June Shift-1 Physics27th June Shift-1 Chemistry27th June Shift-1 Maths27th June Shift-2 Physics27th June Shift-2 Chemistry27th June Shift-2 Maths28th June Shift-1 Physics28th June Shift-1 Chemistry28th June Shift-1 Maths28th June Shift-2 Physics28th June Shift-2 Chemistry28th June Shift-2 Maths29th June Shift-1 Physics29th June Shift-1 Chemistry29th June Shift-1 Maths29th June Shift-2 Physics29th June Shift-2 Chemistry29th June Shift-2 MathsJEE Main 2021 Question Paper JEE Main 2020 Question Paper6th Sep Shift-1 Chemistry6th Sep Shift-1 Physics6th Sep Shift-1 Maths6th Sep Shift-2 Chemistry6th Sep Shift-2 Physics6th Sep Shift-2 Maths5th Sep Shift-1 Chemistry5th Sep Shift-1 Physics5th Sep Shift-1 Maths5th Sep Shift-2 Chemistry5th Sep Shift-2 Physics5th Sep Shift-2 Maths4th Sep Shift-1 Chemistry4th Sep Shift-1 Physics4th Sep Shift-1 Maths4th Sep Shift-2 Chemistry4th Sep Shift-2 Physics4th Sep Shift-2 Maths3rd Sep Shift-1 Chemistry3rd Sep Shift-1 Physics3rd Sep Shift-1 Maths3rd Sep Shift-2 Chemistry3rd Sep Shift-2 Physics3rd Sep Shift-2 Maths2nd Sep Shift-1 Chemistry2nd Sep Shift-1 Physics2nd Sep Shift-1 Maths2nd Sep Shift-2 Chemistry2nd Sep Shift-2 Physics2nd Sep Shift-2 Maths9th Jan Shift-1 Chemistry9th Jan Shift-1 Physics9th Jan Shift-1 Maths9th Jan Shift-2 Chemistry9th Jan Shift-2 Maths9th Jan Shift-2 Physics8th Jan Shift-1 Chemistry8th Jan Shift-1 Physics8th Jan Shift-1 Maths8th Jan Shift-2 Chemistry8th Jan Shift-2 Physics8th Jan Shift-2 Maths7th Jan Shift-1 Chemistry7th Jan Shift-1 Physics7th Jan Shift-1 Maths7th Jan Shift-2 Chemistry7th Jan Shift-2 Physics7th Jan Shift-2 MathsJEE Main 2019 Question PaperApr Attempt- PhysicsApr Attempt- ChemistryApr Attempt- MathematicsJan Attempt- PhysicsJan Attempt- ChemistryJan Attempt- MathematicsJEE Main 2018 Question PaperJEE Main 2018 - PhysicsJEE Main 2018 - ChemistryJEE Main 2018 - MathsJEE Main 2017 Question PaperJEE Main 2017 - PhysicsJEE Main 2017 - ChemistryJEE Main 2017 - MathsJEE Advanced Question PapersJEE Advanced Paper Analysis JEE Advanced 2023 Question PaperJEE Advanced 2023 Paper-1 PhysicsJEE Advanced 2023 Paper-1 ChemistryJEE Advanced 2023 Paper-1 MathsJEE Advanced 2023 Paper-2 PhysicsJEE Advanced 2023 Paper-2 ChemistryJEE Advanced 2023 Paper-2 MathsJEE Advanced 2022 Question Paper JEE Advanced 2021 Question Paper JEE Advanced 2020 Question PaperJEE Advanced 2020 Paper-1 PhysicsJEE Advanced 2020 Paper-1 ChemistryJEE Advanced 2020 Paper-1 MathsJEE Advanced 2020 Paper-2 PhysicsJEE Advanced 2020 Paper-2 ChemistryJEE Advanced 2020 Paper-2 MathsJEE Advanced 2019 Question PaperJEE Advanced 2019 Paper-1 PhysicsJEE Advanced 2019 Paper-2 PhysicsJEE Advanced 2019 Paper-1 ChemistryJEE Advanced 2019 Paper-2 ChemistryJEE Advanced 2019 Paper-1 MathsJEE Advanced 2019 Paper-2 MathsNEET Question PapersNEET 2020 Question Paper NEET 2019 Question Paper NEET 2018 Question Paper NEET 2017 Question Paper NEET 2016 Question Paper KVPY Question Papers  NTSE Question Papers  KCET Question Papers  WBJEE Question Papers  JEE Mock TestsJEE Main 2024 Mock Test  JEE Advanced 2021 Mock Test  ExaminationsJEE 2024  JEE Test Series  JEE MainJEE Main SyllabusJEE Main Physics SyllabusJEE Main Chemistry SyllabusJEE Main Maths SyllabusJEE Main Registration JEE Main Eligibility JEE Main Exam Pattern JEE Main Rank Predictor JEE Main Admit Card JEE Main Answer Key JEE Main Result JEE Main Cutoff JEE Main Sample Papers JEE Main Information Brochure JEE AdvancedJEE Advanced SyllabusJEE Advanced Physics SyllabusJEE Advanced Chemistry SyllabusJEE Advanced Maths SyllabusJEE Advanced Registration JEE Advanced Eligibility JEE Advanced Exam Pattern JEE Advanced Admit Card JEE Advanced Previous Year Question Papers JEE Advanced Answer Keys JEE Advanced Result JEE Advanced Marks vs Rank JEE Advanced Rank Predictor JEE Advanced Cutoff JEE Advanced Sample Papers JEE Advanced Information Brochure NEETNEET SyllabusNEET Physics SyllabusNEET Chemistry SyllabusNEET Biology SyllabusNEET Registration NEET Eligibility NEET Exam Pattern NEET Rank Predictor NEET Admit Card NEET Cutoff NEET Sample Papers COMED-KCOMED-K Eligibility COMED-K Application COMED-K Admit Card KCETKCET Exam Dates KCET Application Form KCET Syllabus KCET Admit Card KCET Cutoff KCET Eligibility KCET Exam Pattern KCET Counselling KCET Sample Papers GUJCETGUJCET Exam Dates GUJCET Application Form GUJCET Syllabus GUJCET Question Papers GUJCET Admit Card GUJCET Cut Off GUJCET Eligibility GUJCET Exam Pattern MHTCETMHT CET Exam Dates MHT CET Application Form MHT CET Syllabus MHT CET Admit Card MHT CET Cutoff MHT CET Eligibility MHT CET Exam Pattern MHT CET Counselling MHT CET FAQs BCECEBCECE Exam Dates BCECE Application Form BCECE Syllabus BCECE Admit Card BCECE Cutoff BCECE Eligibility BCECE Exam Pattern BCECE Counselling BCECE 2020 Notification WBJEEWBJEE Exam Dates WBJEE Application Form WBJEE Syllabus WBJEE Admit Card WBJEE Cutoff WBJEE Eligibility WBJEE Exam Pattern WBJEE Counselling WBJEE 2020 Question Paper Solutions WBJEE Notification UPSEEUPSEE Exam Dates UPSEE Application Form UPSEE Syllabus UPSEE Admit Card UPSEE Cutoff UPSEE Eligibility UPSEE Exam Pattern UPSEE Counselling UPSEE 2020 Notification UPSEE FAQs Olympiad ExamsMaths Olympiad Science Olympiad KVPYKVPY Application Form KVPY Eligibility KVPY Syllabus KVPY Exam Pattern KVPY Cutoff KVPY FAQs NTSENTSE Stage 2 NTSE Previous Year Papers NTSE Sample Paper NTSE Syllabus NTSE Exam Pattern NTSE Application Form NTSE Results NTSE Cutoff NTSE Eligibility NTSE Faqs NTSE Books IOQMRegional Mathematical Olympiad RMO Syllabus RMO Eligibilty RMO Application Form PRMO PRMO Application Form PRMO Eligibilty PRMO Syllabus PRMO Exam Pattern PRMO Cutoff NMTCNMTC 2022 Question Papers IOQ  Study MaterialJEE Study MaterialJEE Preparation Tips IIT JEE Study Plan JEE Main Chapter-wise Questions and Solutions JEE Advanced Chapter-wise Questions and Solutions JEE PhysicsJEE Physics Important TopicsSimple Harmonic MotionUnits and DimensionsCoulomb's LawCapacitorWave MotionJEE ChemistryJEE Chemistry Important TopicsCoordination CompoundsHydrogen BondingChemical BondingOrganic ChemistryBuffer SolutionsJEE MathsJEE Maths Important TopicsBinomial TheoremHyperbolaEllipseParabolaLogarithmMatricesNEET Study MaterialNEET Preparation Tips NEET MCQsNEET Physics MCQNEET Chemistry MCQNEET Biology MCQNEET Physics NEET Chemistry NEET Biology NEET Flashcards JEE Articles  NEET Articles  HC Verma Solutions  DC Pandey Solutions  IE Irodov Solutions  JEE Questions  NEET Questions  JEE Quiz Videos  NotificationsJEE Notifications  NEET Notifications  JEE Video LessonsJEE Main Videos  JEE Advanced Videos  JEE Advanced Physics Videos  JEE Advanced Chemistry Videos  JEE Advanced Maths Videos  JEE Main Physics Videos  JEE Main Chemistry Videos  JEE Main Maths Videos  ResultsJEE Mains 2023 Results  JEE Advanced 2023 Results  NEET 2023 Results   
+
+
+
+
+
+
+
+
+JEEIIT JEE Study MaterialProperties Of Determinants 
+
+Properties of Determinants
+
+
+In linear algebra, a determinant is a special number that can be determined from a square matrix. The determinant of a matrix, say P is denoted det(P), |P| or det P. Determinants have some useful properties as they permit us to generate the same results with different and simpler entries (elements). There are 10 main properties of determinants: reflection property, all-zero property, proportionality or repetition property, switching property, scalar multiple properties, sum property, invariance property, factor property, triangle property, and co-factor matrix property. All the properties of determinants have been covered below in a detailed way, along with solved examples.
+
+Download Complete Chapter Notes of Matrices & Determinants
+Download Now
+
+Topics in Determinants
+
+Introduction to Determinants
+Minors and Cofactors
+Properties of Determinants
+System of Linear Equations Using Determinants
+Differentiation and Integration of Determinants
+Standard Determinants
+
+Download this lesson as PDF:-Properties of Determinants PDF
+Important Properties of Determinants
+1. Reflection Property
+The determinant remains unaltered if its rows are changed into columns and the columns into rows. This is known as the property of reflection.
+2. All-zero Property
+If all the elements of a row (or column) are zero, then the determinant is zero.
+3. Proportionality (Repetition) Property
+If all elements of a row (or column) are proportional (identical) to the elements of some other row (or column), then the determinant is zero.
+4. Switching Property
+The interchange of any two rows (or columns) of the determinant changes its sign.
+5. Scalar Multiple Property
+If all the elements of a row (or column) of a determinant are multiplied by a non-zero constant, then the determinant gets multiplied by the same constant.
+6. Sum Property
+\(\begin{array}{l}\left| \begin{matrix} {{a}_{1}}+{{b}_{1}} & {{c}_{1}} & {{d}_{1}} \\ {{a}_{2}}+{{b}_{2}} & {{c}_{2}} & {{d}_{2}} \\ {{a}_{3}}+{{b}_{3}} & {{c}_{3}} & {{d}_{3}} \\ \end{matrix} \right|=\left| \begin{matrix} {{a}_{1}} & {{c}_{1}} & {{d}_{1}} \\ {{a}_{2}} & {{c}_{2}} & {{d}_{2}} \\ {{a}_{3}} & {{c}_{3}} & {{d}_{3}} \\ \end{matrix} \right|+\left| \begin{matrix} {{b}_{1}} & {{c}_{1}} & {{d}_{1}} \\ {{b}_{2}} & {{c}_{2}} & {{d}_{2}} \\ {{b}_{3}} & {{c}_{3}} & {{d}_{3}} \\ \end{matrix} \right|\end{array} \)
+7. Property of Invariance
+\(\begin{array}{l}\left| \begin{matrix} {{a}_{1}} & {{b}_{1}} & {{c}_{1}} \\ {{a}_{2}} & {{b}_{2}} & {{c}_{2}} \\ {{a}_{3}} & {{b}_{3}} & {{c}_{3}} \\ \end{matrix} \right|=\left| \begin{matrix} {{a}_{1}}+\alpha {{b}_{1}}+\beta {{c}_{1}} & {{b}_{1}} & {{c}_{1}} \\ {{a}_{2}}+\alpha {{b}_{2}}+\beta {{c}_{2}} & {{b}_{2}} & {{c}_{2}} \\ {{a}_{3}}+\alpha {{b}_{3}}+\beta {{c}_{3}} & {{b}_{3}} & {{c}_{3}} \\ \end{matrix} \right|\end{array} \)
+That is, a determinant remains unaltered under an operation of the form
+Ci → Ci + αCj + βCk, where j, k ≠ i
+Or
+An operation of the form Ri → Ri + αRj + βRk, where j, k ≠ i.
+8. Factor Property
+If a determinant Δ becomes zero when we put x = α, then (x – α) is a factor of Δ.
+9. Triangle Property
+If all the elements of a determinant above or below the main diagonal consist of zeros, then the determinant is equal to the product of diagonal elements. That is,
+\(\begin{array}{l}\left| \begin{matrix} {{a}_{1}} & {{a}_{2}} & {{a}_{3}} \\ 0 & {{b}_{2}} & {{b}_{3}} \\ 0 & 0 & {{c}_{3}} \\ \end{matrix} \right|=\left| \begin{matrix} {{a}_{1}} & 0 & 0 \\ {{a}_{2}} & {{b}_{2}} & 0 \\ {{a}_{3}} & {{b}_{3}} & {{c}_{3}} \\ \end{matrix} \right|={{a}_{1}}{{b}_{2}}{{c}_{3}}\end{array} \)
+10. Determinant of Cofactor Matrix
+\(\begin{array}{l}\Delta =\left| \begin{matrix} {{a}_{11}} & {{a}_{12}} & {{a}_{13}} \\ {{a}_{21}} & {{a}_{22}} & {{a}_{23}} \\ {{a}_{31}} & {{a}_{32}} & {{a}_{33}} \\ \end{matrix} \right|\;then \;{{\Delta }_{1}}=\left| \begin{matrix} {{C}_{11}} & {{C}_{12}} & {{C}_{13}} \\ {{C}_{21}} & {{C}_{22}} & {{C}_{23}} \\ {{C}_{31}} & {{C}_{32}} & {{C}_{33}} \\ \end{matrix} \right|\end{array} \)
+Where Cij denotes the cofactor of the element aij in Δ.
+Example Problems on Properties of Determinants
+Question 1: Using properties of determinants, prove that
+\(\begin{array}{l}\left| \begin{matrix} a & b & c \\ b & c & a \\ c & a & b \\ \end{matrix} \right|=\left( a+b+c \right)\left( ab+bc+ca-{{a}^{2}}-{{b}^{2}}-{{c}^{2}} \right)\end{array} \)
+Solution:
+By using invariance and scalar multiple properties of determinants, we can prove the given problem.
+\(\begin{array}{l}\Delta =\left| \begin{matrix} a & b & c \\ b & c & a \\ c & a & b \\ \end{matrix} \right|\\=\left| \begin{matrix} a+b+c & b & c \\ b+c+a & c & a \\ c+a+b & a & b \\ \end{matrix} \right| [Operating {{C}_{1}}\to {{C}_{1}}+{{C}_{2}}+{{C}_{3}}]\end{array} \)
+\(\begin{array}{l}=\left( a+b+c \right)\left| \begin{matrix} 1 & b & c \\ 1 & c & a \\ 1 & a & b \\ \end{matrix} \right|\\=\left( a+b+c \right)\left| \begin{matrix} 1 & b & c \\ 0 & c-b & a-c \\ 0 & a-b & b-c \\ \end{matrix} \right| [Operating \left( {{R}_{2}}\to {{R}_{2}}-{{R}_{1}}\,and\,{{R}_{3}}\to {{R}_{3}}-{{R}_{1}} \right)]\end{array} \)
+= (a + b + c) [(c – b) (b – c) – (a – b) (a – c)]
+= \(\begin{array}{l}\left( a+b+c \right)\left( ab+bc+ca-{{a}^{2}}-{{b}^{2}}-{{c}^{2}} \right)\end{array} \)
+Question 2: Prove the following identity \(\begin{array}{l}\left| \begin{matrix} -{{\alpha }^{2}} & \beta \alpha & \gamma \alpha \\ \alpha \beta & -{{\beta }^{2}} & \gamma \beta \\ \alpha \gamma & \beta \gamma & -{{\gamma }^{2}} \\ \end{matrix} \right|=4{{\alpha }^{2}}{{\beta }^{2}}{{\gamma }^{2}}\end{array} \)
+Solution:
+Take \(\begin{array}{l}\alpha,\beta,\gamma\end{array} \) common from the L.H.S. and then by using scalar multiple properties and invariance property of determinant, we can prove the given problem.
+\(\begin{array}{l}\Delta =\left| \begin{matrix} -{{\alpha }^{2}} & \beta \alpha & \gamma \alpha \\ \alpha \beta & -{{\beta }^{2}} & \gamma \beta \\ \alpha \gamma & \beta \gamma & -{{\gamma }^{2}} \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}Taking \;\alpha ,\beta ,\gamma \; common\; from \;{{C}_{1}},{{C}_{2}},{{C}_{3}}\; \;respectively \;\;\Delta =\alpha \beta \gamma \left| \begin{matrix} -\alpha & \alpha & \alpha \\ \beta & -\beta & \beta \\ \gamma & \gamma & -\gamma \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}Now \;taking\; [\alpha ,\beta ,\gamma ] \;common\; from \;{R}_{1},{R}_{2},{R}_{3}\;respectively\end{array} \)
+\(\begin{array}{l}\Delta ={{\alpha }^{2}}{{\beta }^{2}}{{\gamma }^{2}}\left| \begin{matrix} -1 & 1 & 1 \\ 1 & -1 & 1 \\ 1 & 1 & -1 \\ \end{matrix} \right|\end{array} \)
+Now applying and \(\begin{array}{l}{R}_{3}\to {R}_{3}+{R}_{1}\;we\; have \;\Delta ={\alpha }^{2}{\beta }^{2}{\gamma }^{2}\left| \begin{matrix} -1 & 1 & 1 \\ 0 & 0 & 2 \\ 0 & 2 & 0 \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}Now\; expanding\; along\; {{C}_{1}},\Delta {{\alpha }^{2}}\times {{\beta }^{2}}\left( -1 \right)\times {{\gamma }^{2}}\left( -1 \right)\left| \begin{matrix} 0 & 2 \\ 2 & 0 \\ \end{matrix} \right|=\;\;{{\alpha }^{2}}{{\beta }^{2}}\left( -1 \right){{\gamma }^{2}}\left( 0-4 \right)=4{{\alpha }^{2}}{{\beta }^{2}}{{\gamma }^{2}}\end{array} \)
+Hence proved.
+Question 3: Show that \(\begin{array}{l}\left| \begin{matrix} \alpha & \beta & \gamma \\ \theta & \phi & \psi \\ \lambda & \mu & v \\ \end{matrix} \right|=\left| \begin{matrix} \beta & \mu & \phi \\ \alpha & \lambda & \theta \\ \gamma & v & \psi \\ \end{matrix} \right|\end{array} \)
+Solution:
+Interchange the rows and columns across the diagonal using the reflection property, and then using the switching property of the determinant, we can obtain the required result.
+L.H.S. = \(\begin{array}{l}\left| \begin{matrix} \alpha & \beta & \gamma \\ \theta & \phi & \psi \\ \lambda & \mu & v \\ \end{matrix} \right|=\left| \begin{matrix} \alpha & \theta & \lambda \\ \beta & \phi & \mu \\ \gamma & \psi & v \\ \end{matrix} \right|\end{array} \)
+(Interchanging rows and columns across the diagonal)
+\(\begin{array}{l}=\left( -1 \right)\left| \begin{matrix} \alpha & \lambda & \theta \\ \beta & \mu & \phi \\ \gamma & v & \psi \\ \end{matrix} \right|\\={{\left( -1 \right)}^{2}}\left| \begin{matrix} \beta & \mu & \phi \\ \alpha & \lambda & \theta \\ \gamma & v & \psi \\ \end{matrix} \right|\\=\left| \begin{matrix} \beta & \mu & \phi \\ \alpha & \lambda & \theta \\ \gamma & v & \psi \\ \end{matrix} \right|\end{array} \)
+= R.H.S.
+Question 4: If a, b, c are all different and if \(\begin{array}{l}\left| \begin{matrix} a & {{a}^{2}} & 1+{{a}^{3}} \\ b & {{b}^{2}} & 1+{{b}^{3}} \\ c & {{c}^{2}} & 1+{{c}^{3}} \\ \end{matrix} \right|=0,\end{array} \)
+prove that abc = –1.
+Solution:
+Split the given determinant using the sum property. Then, by using scalar multiple, switching and invariance properties of determinants, we can prove the given equation.
+\(\begin{array}{l}D=\left| \begin{matrix} a & {{a}^{2}} & 1+{{a}^{3}} \\ b & {{b}^{2}} & 1+{{b}^{3}} \\ c & {{c}^{3}} & 1+{{c}^{3}} \\ \end{matrix} \right|\\=\left| \begin{matrix} a & {{a}^{2}} & 1 \\ b & {{b}^{2}} & 1 \\ c & {{c}^{2}} & 1 \\ \end{matrix} \right|+\left| \begin{matrix} a & {{a}^{2}} & {{a}^{3}} \\ b & {{b}^{2}} & {{b}^{3}} \\ c & {{c}^{2}} & {{c}^{3}} \\ \end{matrix} \right|\\=\left| \begin{matrix} a & {{a}^{2}} & 1 \\ b & {{b}^{2}} & 1 \\ c & {{c}^{2}} & 1 \\ \end{matrix} \right|+abc\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}={{\left( -1 \right)}^{1}}\left| \begin{matrix} 1 & {{a}^{2}} & a \\ 1 & {{b}^{2}} & b \\ 1 & {{c}^{2}} & c \\ \end{matrix} \right|+abc\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right|\; \left[ {{C}_{1}}\leftrightarrow {{C}_{3}}\,in\,\,1st\,\,\det . \right]\end{array} \)
+\(\begin{array}{l}={{\left( -1 \right)}^{2}}\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right|+abc\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right| \;\;\left[ {{C}_{2}}\leftrightarrow {{C}_{3}}\,in\,\,1st\,\,\det . \right]\end{array} \)
+\(\begin{array}{l}=\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right|+abc\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right|\\=\left( 1+abc \right)\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 1 & b & {{b}^{2}} \\ 1 & c & {{c}^{2}} \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}=\left( 1+abc \right)\left| \begin{matrix} 1 & a & {{a}^{2}} \\ 0 & b-a & {{b}^{2}}-{{a}^{2}} \\ 0 & c-a & {{c}^{2}}-{{a}^{2}} \\ \end{matrix} \right| \;\;\left[ {{R}_{2}}\to {{R}_{2}}-{{R}_{1\,\,}}and\,\,{{R}_{3}}\to {{R}_{3}}-{{R}_{1}} \right]\end{array} \)
+\(\begin{array}{l}=\left( 1+abc \right)\left| \begin{matrix} b-a & {{b}^{2}}-{{a}^{2}} \\ c-a & {{c}^{2}}-{{a}^{2}} \\ \end{matrix} \right| \;(expanding \;along \;1st \;row) \\=\left( 1+abc \right)\left( b-a \right)\left( c-a \right)\left| \begin{matrix} 1 & b+a \\ 1 & c+a \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}=\left( 1+abc \right)\left( b-c \right)\left( c-a \right)\left( c+a-b-a \right)\\=\left( 1+abc \right)\left( b-a \right)\left( c-a \right)\left( c-b \right)\end{array} \)
+\(\begin{array}{l}\Rightarrow D=\left( 1+abc \right)\left( a-b \right)\left( b-c \right)\left( c-a \right);\; But \;given \;D = 0\end{array} \)
+\(\begin{array}{l}\Rightarrow \left( 1+abc \right)\left( a-b \right)\left( b-c \right)\left( c-a \right)=0 \end{array} \)
+∴ ( 1 + abc) = 0
+[since a, b, c are different \(\begin{array}{l}a\ne b,b\ne c,c\ne a \end{array} \) Hence, abc = -1
+Question 5: Prove that \(\begin{array}{l}\left| \begin{matrix} a+b+2c & a & b \\ c & b+c+2a & b \\ c & a & c+a+2b \\ \end{matrix} \right|=2{{\left( a+b+c \right)}^{3}}\end{array} \).
+Solution:
+Simply by using switching and scalar multiple properties, we can expand the L.H.S.
+Given determinant \(\begin{array}{l}=\left| \begin{matrix} a+b+2c & a & b \\ c & b+c+2a & b \\ c & a & c+a+2b \\ \end{matrix} \right|\end{array} \)
+Applying \(\begin{array}{l}{{C}_{1}}\to {{C}_{1}}+\left( {{C}_{2}}+{{C}_{3}} \right),\end{array} \), we obtain
+\(\begin{array}{l}\left| \begin{matrix} 2\left( a+b+c \right) & a & b \\ 2\left( a+b+c \right) & b+c+2a & b \\ 2\left( a+b+c \right) & a & c+a+2b \\ \end{matrix} \right|\\=2\left( a+b+c \right)\left| \begin{matrix} 1 & a & b \\ 1 & b+c+2a & b \\ 1 & a & c+a+2b \\ \end{matrix} \right|\end{array} \)
+\(\begin{array}{l}{R}_{1}\to {R}_{2}-{R}_{1}\;\;and\;\;{R}_{3}\to {R}_{3}-{R}_{1}\;\;(given)\end{array} \)
+\(\begin{array}{l}2\left( a+b+c \right)\left| \begin{matrix} 1 & a & b \\ 0 & b+c+a & 0 \\ 0 & 0 & c+a+b \\ \end{matrix} \right|\\=2\left( a+b+c \right)\left\{ \left( b+c+a \right)\left( c+a+b \right)-\left( 0\times 0 \right) \right\}=2{{\left( a+b+c \right)}^{3}}\end{array} \)
+Hence proved.
+Question 6: Prove that \(\begin{array}{l}\left| \begin{matrix} {{a}^{2}}+1 & ab & ac \\ ab & {{b}^{2}}+1 & bc \\ ac & bc & {{c}^{2}}+1 \\ \end{matrix} \right|=1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}}\end{array} \).
+Solution:
+Expand the determinant \(\begin{array}{l}\left| \begin{matrix} {{a}^{2}}+1 & ab & ac \\ ab & {{b}^{2}}+1 & bc \\ ac & bc & {{c}^{2}}+1 \\ \end{matrix} \right|\end{array} \)
+by using scalar multiple and invariance properties.
+L.H.S.= \(\begin{array}{l}\left| \begin{matrix} {{a}^{2}}+1 & ab & ac \\ ab & {{b}^{2}}+1 & bc \\ ac & bc & {{c}^{2}}+1 \\ \end{matrix} \right|;\end{array} \) Multiplying C1,C2,C3 by a, b, c, respectively
+\(\begin{array}{l}=\frac{1}{abc}\left| \begin{matrix} a\left( {{a}^{2}}+1 \right) & a{{b}^{2}} & a{{c}^{2}} \\ {{a}^{2}}b & b\left( {{b}^{2}}+1 \right) & b{{c}^{2}} \\ {{a}^{2}}c & {{b}^{2}}c & c\left( {{c}^{2}}+1 \right) \\ \end{matrix} \right|;\end{array} \) Now taking a, b, c common from R1,R2,R3, respectively.
+\(\begin{array}{l}=\frac{abc}{abc}\left| \begin{matrix} {{a}^{2}}+1 & {{b}^{2}} & {{c}^{2}} \\ {{a}^{2}} & {{b}^{2}}+1 & {{c}^{2}} \\ {{a}^{2}} & {{b}^{2}} & {{c}^{2}}+1 \\ \end{matrix} \right|\\=\left| \begin{matrix} 1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}} & {{b}^{2}} & {{c}^{2}} \\ 1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}} & {{b}^{2}}+1 & {{c}^{2}} \\ 1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}} & {{b}^{2}} & {{c}^{2}}+1 \\ \end{matrix} \right| \;\;\;\left[ {{C}_{1}}\to {{C}_{1}}+{{C}_{2}}+{{C}_{3}} \right]\end{array} \)
+\(\begin{array}{l}=\left( 1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}} \right)\left| \begin{matrix} 1 & {{b}^{2}} & {{c}^{2}} \\ 1 & {{b}^{2}}+1 & {{c}^{2}} \\ 1 & {{b}^{2}} & {{c}^{2}}+1 \\ \end{matrix} \right|\\=\left( 1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}} \right)\left| \begin{matrix} 1 & {{b}^{2}} & {{c}^{2}} \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ \end{matrix} \right| \;\;\left[ {{R}_{2}}\to {{R}_{2}}-{{R}_{1}}\,and\,\,{{R}_{3}}\to {{R}_{3}}-{{R}_{1}} \right]\end{array} \)
+\(\begin{array}{l}=\left( 1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}} \right)\left( 1 \right)=1+{{a}^{2}}+{{b}^{2}}+{{c}^{2}}=R.H.S.\end{array} \)
+Hence proved.
+
+Matrices and Determinants – Important Topics
+
+
+
+Matrices and Determinants – Important Questions
+
+
+Matrices and Determinants – Top 10 Most Important and Expected JEE Main Questions
+
+Frequently Asked QuestionsQ1 What do you mean by the reflection property of determinants?
+The determinant remains unchanged if the rows are changed into columns and the columns into rows. This is known as the property of reflection.
+Q2 What happens to a determinant if 2 rows or columns are interchanged?
+The determinant changes its sign when 2 rows or columns are interchanged.
+Q3 State the proportionality property of determinants.
+If all the elements of a row or column are proportional or identical to the elements of another row or column, then the determinant is zero. This is also called the repetition property.
+Q4 What do you mean by the triangle property of determinants?
+If all the elements of a determinant above or below the main diagonal are zeros, then the determinant is equal to the product of diagonal elements.
+Q5 Can a determinant be zero?
+Yes, a determinant can be zero, negative or positive.
+Q6 Is the determinant of an identity matrix equal to 1?
+Yes, the determinant of an identity matrix is always 1.
+Q7 What do you mean by all zero property of determinants?
+According to all zero property of determinants, if all the elements of a row/column are zero, then the determinant is equal to zero.
+Q8 If A-1 is the inverse of matrix A, then what is det A-1?
+If  A-1 is the inverse of matrix A, then det A-1 = 1/det A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test Your Knowledge On Properties Of Determinants!
+
+Q5
+
+
+
+
+
+
+
+
+
+
+Put your understanding of this concept to test by answering a few MCQs. Click ‘Start Quiz’ to begin!
+Select the correct answer and click on the “Finish” buttonCheck your score and answers at the end of the quiz
+
+
+Start Quiz
+
+
+
+
+Congrats!
+
+Visit BYJU’S for all JEE related queries and study materials
+
+Your result is as below
+
+
+0 out of 0 arewrong
+0 out of 0 are correct
+0 out of 0 are Unattempted
+
+
+View Quiz Answers and Analysis
+
+
+
+
+
+
+
+
+X
+
+
+
+Login To View Results
+
+
+
+
+
+
+Mobile Number*
+
+
+Send OTP
+
+
+
+
+
+
+                                                        Did not receive OTP?
+                                                        
+                                                        Request OTP on
+                                                        
+
+
+
+
+Voice Call
+
+
+
+
+
+
+
+
+
+
+Login To View Results
+
+
+Name*
+
+
+
+Email ID*
+
+
+
+Grade*
+
+Grade
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+
+
+City*
+
+
+
+View Result
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+Leave a Comment Cancel replyYour Mobile number and Email id will not be published. Required fields are marked * 
+
+
+*
+
+Send OTP
+
+
+
+
+
+
+
+									Did not receive OTP?
+									
+										Request OTP on
+										
+
+
+
+
+Voice Call
+
+
+
+
+
+
+*
+
+
+
+*
+
+
+Website 
+
+*
+
+Grade/Exam
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+*
+
+
+
+* 
+Post My Comment 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maths Articles for IIT JEE
+
+
+
+Matrices
+Adjoint and Inverse of a Matrix
+Minors and Cofactors
+Parabola
+Binomial Theorem
+Differentiation and Integration of Determinants
+Straight Lines
+Trigonometry
+Types of Matrices
+Limits Continuity and Differentiability
+Rank of a Matrix
+Differentiation
+System of Linear Equations Using Determinants
+Applications of Derivatives
+Complex Numbers
+3D Geometry
+Inverse Trigonometric Functions
+Hyperbola
+Definite and Indefinite Integration
+Solving Linear Equations Using Matrix
+Matrix Operations
+Determinants
+Standard Determinants
+Ellipse
+Differential Equations
+Circles
+Functions and Its Types
+Angle Measurement
+Integration
+Logarithm
+
+
+
+
+
+Join Aakash BYJU’S for JEE/NEET Prep
+
+
+
+
+
+
+
+
+Send OTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grade/Exam
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JEE Main and JEE Advanced Important Links
+
+
+JEE
+JEE Main
+JEE Main Exam Pattern
+JEE Main Syllabus
+JEE Main Eligibility Criteria
+JEE Main Answer Key
+JEE Main Question Paper
+JEE Main Question Paper Analysis
+JEE Main Sample Papers
+JEE Main Mock Test
+JEE Main Crash Course
+JEE Advanced
+JEE Advanced Eligibility Criteria
+JEE Advanced Registration
+JEE Advanced Syllabus
+JEE Advanced Crash Course
+JEE Advanced Exam Answer Keys
+JEE Advanced Paper Analysis
+JEE Advanced Previous Year Papers
+JEE Advanced Sample Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COURSES
+CBSEICSECATIASJEENEETCommerceJEE MainNCERTJEE AdvancedUPSC Prelims 2022 Question PaperUPSC Prelims 2022 Answer KeyIAS CoachingCBSE Sample PapersCBSE Question Papers
+
+EXAMS
+CAT ExamCAT 2023GATE ExamGATE 2024IAS ExamUPSC ExamUPSC SyllabusUPSC 2023Bank ExamGovernment ExamsEducation NewsCLASSES
+Kids LearningClass 1st - 3rdClass 4th - 5thClass 6th - 10thClass 11th - 12thBYJU'S Tuition Centre
+
+EXAM PREPARATION
+Free CAT PrepFree IAS PrepMathsPhysicsChemistryBiologyJEE 2024JEE Advanced 2023 Question Paper with AnswersJEE Main Mock TestJEE Main 2024 Question Papers with AnswersJEE Main 2023 Question Papers with AnswersJEE Advanced 2022 Question Paper with AnswersNEET 2023 Question PaperNEET 2023 Question Paper AnalysisNEET 2022 Answer KeyRESOURCES
+CAT College PredictorWorksheetsBYJU'S AnswerDSSLHome TuitionAll ProductsCalculatorsFormulas
+
+COMPANY
+About UsContact UsContact our Financial PartnersInvestorsComplianceCareersBYJU'S in MediaSocial Initiative - Education for AllBYJU'S APPFAQStudents Stories - The Learning TreeSupportFaces of BYJU'S – Life at BYJU'SBlogBYJU'S GiveFOLLOW US
+
+
+
+
+
+
+
+
+FREE TEXTBOOK SOLUTIONS
+NCERT SolutionsNCERT ExemplarNCERT Solutions for Class 6NCERT Solutions for Class 7NCERT Solutions for Class 8NCERT Solutions for Class 9NCERT Solutions for Class 10NCERT Solutions for Class 11NCERT Solutions for Class 11 EnglishNCERT Solutions for Class 12 EnglishNCERT Solutions for Class 12RD Sharma SolutionsRD Sharma Class 10 SolutionsICSE Selina Solutions
+
+STATE BOARDS
+MaharashtraGujaratTamil NaduKarnatakaKeralaAndhra PradeshTelanganaUttar PradeshBiharRajasthan
+
+Madhya PradeshWest Bengal
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer
+
+
+Privacy Policy
+
+
+Terms of Services
+
+
+Sitemap
+
+
+© 2024, BYJU'S. All rights reserved.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register with Aakash BYJU'S & Download Free PDFs
+
+
+
+
+
+
+*
+
+Send OTP
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+*
+
+
+Grade
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+
+
+Download Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register with BYJU'S & Watch Live Videos
+
+
+
+
+
+
+*
+
+Send OTP
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+*
+
+
+Grade
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+
+
+Watch Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+

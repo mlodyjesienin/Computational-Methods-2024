@@ -1,0 +1,882 @@
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Abstract Algebra | University of Cape Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main
+Staff
+Student
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About UCC
+Libraries	
+Alumni
+Staff Directory
+Financial Support
+Forms
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-Learning
+International Office
+Web Services
+Contacts & maps
+A to Z list
+Sitemap
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXPLORE UCC
+
+
+
+
+
+
+
+
+                    Awards & achievements                        
+
+
+
+
+
+
+
+
+
+                    Honorary Degree Award                            
+
+
+
+
+
+
+
+
+
+
+                    Corporate Strategic Plan                            
+
+
+
+                    Plans & policies                            
+
+
+
+                    Governance and Administration                            
+
+
+
+                    Statutes of UCC                            
+
+
+
+                    Annual Report                            
+
+
+
+                    Our Campus                        
+
+
+
+
+
+
+
+
+
+                    Halls                        
+
+
+
+
+
+
+
+
+
+                    Adehye                             
+
+
+
+                    Atlantic                             
+
+
+
+                    Casley Hayford                             
+
+
+
+                    Kwame Nkrumah                            
+
+
+
+                    Oguaa Hall                            
+
+
+
+                    Valco                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    History                            
+
+
+
+                    Book/Paper Collaborations                            
+
+
+
+                    Recreational & Social Activities                            
+
+
+
+                    Useful Facilities                             
+
+
+
+                    Resources                            
+
+
+
+                    UCC Summary Statistics                            
+
+
+
+                    Fast Facts                            
+
+
+
+
+
+
+
+
+
+ACADEMICS
+
+
+
+
+
+
+
+
+                    Academic Calendar                            
+
+
+
+                    Pogrammes                        
+
+
+
+
+
+
+
+
+
+                    All                            
+
+
+
+                    Non-degree                            
+
+
+
+                    Undergraduate                            
+
+
+
+                    Masters                            
+
+
+
+                    Doctorate                            
+
+
+
+
+
+
+
+
+
+
+                    Colleges                            
+
+
+
+                    Faculties and Schools                             
+
+
+
+                    Departments                            
+
+
+
+                    Affiliate Institutions                            
+
+
+
+                    Africa Centre of Excellence in Coastal Resilience                            
+
+
+
+                    Office of International Relations                            
+
+
+
+                    Dean of Students' Affairs                             
+
+
+
+                    Directorate Academic Planning and Quality Assurance                            
+
+
+
+                    Directorate of Academic Affairs                             
+
+
+
+                    School of Graduate Studies                             
+
+
+
+
+
+
+
+
+
+
+                    APPLICANTS & STUDENTS                            
+
+
+RESEARCH & INNOVATION
+
+
+
+
+
+
+
+
+                    DRIC                            
+
+
+
+                    Research Support Grant (RSG)                            
+
+
+
+                    Conference Portal                            
+
+
+
+                    UCC Scholar                            
+
+
+
+
+
+
+
+
+
+
+                    LIBRARY                            
+
+
+
+                    DISTANCE EDUCATION                            
+
+
+NEWS & MEDIA
+
+
+
+
+
+
+
+
+                    News                            
+
+
+
+                    Events                            
+
+
+
+                    Videos                            
+
+
+
+                    VC's Desk                            
+
+
+
+                    Inaugural Lectures                             
+
+
+
+                    Press Releases                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Abstract Algebra
+Home  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Abstract Algebra
+ 
+
+
+This course aims to provide a first approach to the subject of algebra, which is one of the basic pillars of modern mathematics. The focus of the course will be the study of certain structures called groups, rings, fields and some related structures. Abstract algebra gives to student a good mathematical maturity and enable learners to build mathematical thinking and skill. The topics to be covered are injective, subjective and objective mappings.  Product of mappings, inverse of a mapping. Binary operations on a set. Properties of binary operations (commutative, associative and distributive properties).  Identity element of a set and inverse of an element with respect to a binary operation. Relations on a set. Equivalence relations, equivalence classes. Partition of set induced by an equivalence relation on the set.  Partial and total order relations on a set. Well-ordered sets. Natural numbers; mathematical induction. Sum of the powers of natural numbers and allied series. Integers; divisors, primes, greatest common divisor, relatively prime integers, the division algorithm, congruencies, the algebra of residue classes.  Rational and irrational numbers. Least upper bound and greatest lower bound of a bounded set of real numbers. Algebraic structures with one or two binary operations. Definition, examples and simple properties of groups, rings, integral domains and fields.Course Code: MAT 201No. of Credits: 3Level: Level 200Course Semester: First SemesterPre-requisite: MAT 102Select Programme(s): MathematicsMathematics-with-Business 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Admissions
+
+
+
+
+
+
+ Graduate  
+
+ Sandwich  
+
+ International  
+
+ Undergraduate  
+
+ Distance Education  
+
+ 
+
+
+
+
+
+
+Colleges
+
+
+
+
+
+
+ Graduate Studies  
+
+ Education Studies  
+
+ Distance Education  
+
+ Health and Allied Sciences  
+
+ Humanities and Legal Studies  
+
+ Agriculture and Natural Sciences  
+
+ 
+
+
+
+
+ 
+
+
+
+Research
+
+
+
+
+
+
+ Support Grant  
+
+ Policies and Guidelines  
+
+ Reports  
+
+ Agenda  
+
+ Inaugural Lectures  
+
+ Intellectual Property Policy  
+
+ 
+
+
+
+
+
+
+Directorates 
+
+
+
+
+
+
+ Finance   
+
+ ICT Services   
+
+ Public Affairs   
+
+ Internal Audit   
+
+ Academic Affairs   
+
+ Human Resource   
+
+ University Health Services   
+
+ Consular and General Services   
+
+ Research, Innovation & Consultancy    
+
+ Academic Planning & Quality Assurance   
+
+ Physical Development & Estate Management   
+
+ 
+
+
+
+
+ 
+
+
+
+Policies & Reports
+
+
+
+
+
+
+ Web Policy  
+
+ Annual Report  
+
+ Conditions of Service   
+
+ Corporate Strategic Plan  
+
+ 
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+ Portal  
+
+ ATL FM  
+
+ Alumni  
+
+ UCOSIS  
+
+ eLearning  
+
+ Staff Email  
+
+ Faculty Blogs  
+
+ Student Email  
+
+ Staff Directory  
+
+ Academic Calendar  
+
+ Affiliate Institutions  
+
+ 
+
+
+
+
+ 
+
+
+
+Contact info
+
+
+
+
+
+		The Registrar, University of Cape Coast, Cape Coast, Ghana.
+
+
++233 [03321]32440, +233 [03321] 32480-9
+
+registrar@ucc.edu.gh
+
+
+
+
+
+
+
+
+
+Website & Media
+
+
+
+
+
+
+ Forms  
+
+ Sitemap  
+
+ Web Services   
+
+ Press Releases  
+
+ Contact & Maps  
+
+ Announcements  
+
+ Inaugural Lectures  
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Services Status
+
+
+‌
+‌
+‌‌
+‌
+‌
+‌
+‌
+‌
+
+
+			©2024 University of Cape Coast
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

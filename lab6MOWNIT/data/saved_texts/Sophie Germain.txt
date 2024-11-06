@@ -1,0 +1,226 @@
+
+
+ 
+
+Sophie Germain
+
+
+
+
+
+Biographies of Women Mathematicians
+
+
+Home | 
+Alphabetical Index | 
+Chronological Index | 
+Resources | 
+Credits | 
+Search
+
+
+
+Sophie Germain
+
+
+
+
+April 1, 1776 - June 27, 1831
+
+Written by Amanda Swift, Class of 1995 (Agnes Scott College)
+
+Sophie Germain was born in an era of revolution.  In the year of her
+birth, the American Revolution began.  Thirteen years later the French
+Revolution began in her own country.  In many ways Sophie embodied the
+spirit of revolution into which she was born.  She was a middle class
+female who went against the wishes of her family and the social
+prejudices of the time to become a highly recognized mathematician. 
+Like the member of a revolution, her life was full of perseverance and
+hard work.  It took a long time for her to be recognized and appreciated
+for her contributions to the field of mathematics, but she did not give
+up.  Even today, it is felt that she was never given as much credit as
+she was due for the contributions she made in number theory and
+mathematical physics because she was a woman.
+
+Sophie Germain was born in Paris on April 1, 1776 to
+Ambroise-Francois and Marie Germain.  Her family was quite wealthy.  Her
+father was a merchant and later became a director of the Bank of France.
+
+Sophie's interest in mathematics began during the French Revolution
+when she was  13 years old and confined to her home due to the danger
+caused by revolts in Paris.  She spent a great deal of time in her
+father's library, and one day she ran across a book in which the legend
+of Archimedes' death was recounted.  Legend has it that "during the
+invasion of his city by the Romans Archimedes was so engrossed in the
+study of a geometric figure in the sand that he failed to respond to the
+questioning of a Roman soldier.  As a result he was speared to death"
+(Perl 64).  This sparked Sophie's interest.  If someone could be so
+engrossed in a problem as to ignore a soldier and then die for it, the
+subject must be interesting!  Thus she began her study of mathematics. 
+
+Sophie began teaching herself mathematics using the books in her
+father's library.  Her parents felt that her interest was inappropriate
+for a female (the common belief of the middle-class in the 19th century)
+and did all that they could to discourage her.  She began studying at
+night to escape them, but they went to such measures as taking away her
+clothes once she was in bed and depriving her of heat and light to make
+her stay in her bed at night instead of studying.  Sophie's parents'
+efforts failed.  She would wrap herself in quilts and use candles she
+had hidden in order to study at night.  Finally her parents realized
+that Sophie's passion for mathematics was "incurable," and they let her
+learn.  Thus Sophie "spent the years of the Reign of Terror studying
+differential calculus" (Osen 85) without the aid of a tutor!
+
+In 1794, when Sophie was 18, the Ecole Polytechnique was founded in
+Paris.  It was an academy founded to "train mathematicians and
+scientists for the country" (Perl 64).  Women were not allowed to enroll
+in the academy, but Sophie was able to obtain the lecture notes for
+several of the courses and study from them.  This gave her the
+opportunity to learn from many of the prominent mathematicians of the
+day.  Sophie was particularly interested in the teachings of J. L.
+Lagrange.  Under the pseudonym of M. LeBlanc ( a former student of
+Lagrange's), Sophie submitted a paper on analysis to Lagrange at the end
+of the term.  He was quite impressed with the work and wanted to meet
+the student who had written it.  Lagrange was amazed that the author of
+the work was actually a female, but he recognized her abilities and
+became her mentor.  With a male to introduce her, Sophie could enter the
+circle of scientists and mathematicians that she never before could.  Up
+until this point not only had her gender been a hindrance to her, but
+her social status had been too.  It was socially acceptable for
+aristocratic women to be taught the sciences and mathematics so that
+they could talk about it casually with friends.  Sophie was of the
+middle class so this opportunity had passed her by.
+
+In 1804, Sophie began corresponding with the German mathematician,
+Carl Friedrich Gauss.  She was intrigued with his work in number theory
+and sent him some of the results of her work in number theory.  Again
+she used her pseudonym to disguise her true identity.  It was not until
+1807 that he found out who M. LeBlanc truly was.  He was thrilled to
+find that his "pen pal" was a very gifted woman. In 1808 Germain sent
+Gauss a letter describing some of her work in number theory. Sophie never heard
+from him about
+her last correspondence because he had stopped his work in number theory
+after taking a job as professor of astronomy at the University of
+Gottingen.  About 12 years 
+later, however, she wrote to the mathematician Legendre about what would be
+her most important work in
+number theory.  "Germain proved that if x, y, and z are integers and if
+x5 + y5 = z5 then either x, y, or z must be divisible by 5. 
+Germain's theorem is a major step toward proving 
+Fermat's last theorem
+for the case where n equals 5" (Dalmedico 119).  Fermat's last theorem
+says that if x, y, z, and n are integers then xn + yn = zn cannot be
+solved for any n greater than 2. 
+
+Gauss had guided Sophie's research, so now she began to search for a
+new mentor.  At about this time the French Academy of Sciences announced
+a contest to explain the "underlying mathematical law" of a German
+physicist's study on the vibration of elastic surfaces.  Sophie was
+fascinated and set out to explain the law underlying Chladni's study. 
+The Academy set a two year deadline, and in 1811 Sophie submitted the
+only entry in the contest.  Her lack of formal education was evident in
+the anonymous paper she submitted, and thus she was not awarded the
+prize.  She still had much to learn in the area.  Lagrange was able to
+correct her errors and two years later she again entered the contest
+which had been extended.  She received honorable mention this time. 
+Finally in 1816, she entered the contest for the third time and won with
+her paper Memoir on the Vibrations of Elastic Plates.  Upon earning the
+prize, the judges did relate that there were some serious shortcomings
+in her explanation. These shortcomings would not be corrected for
+decades.  After winning the contest, Sophie continued her work on the
+theory of elasticity publishing several more memoirs. [For example, see Recherches sur la théorie des surfaces élastiques (The Theory of Elastic Surfaces), published in 1821]  The most
+important of these deals with the "nature, bounds, and extent of elastic
+surfaces" (Osen 90).  Her work in the theory of elasticity would prove
+to be very important to the field.  
+
+The prize from the Academy, however, was of immediate importance
+because it introduced her into the ranks of the prominent mathematicians
+of the time.  She became the first woman who was not a wife of a member
+to attend the Academy of Sciences' sessions with the help of
+Jean-Baptiste-Joseph Fourier.  She was praised by the Institut de France
+and was invited to attend their sessions.  This was "the highest honor
+that this famous body ever conferred on a woman" (Osen 90).  Sophie
+worked with a well-known male mathematician in the 1820s as an "equal
+collaborator" (Dalmedico 122) to refine her proofs and work in number
+theory.
+
+Sophie Germain died at the age of 55, on June 27, 1831, after a
+battle with breast cancer.  Shortly before this Gauss, one of her
+earliest mentors, had convinced the University of Gottingen to give
+Sophie an honorary degree.  She died before she could receive it.  
+
+Sophie Germain was a revolutionary.  She battled against the social
+prejudices of the era and a lack of formal training in order to become a
+celebrated mathematician.  She is best known for her work in number
+theory, but her work in the theory of elasticity is also very important
+to mathematics.
+
+April 1995, revised July 1997 and July 2001.
+
+Additional material by Larry Riddle
+Sophie Germain and Fermat's Last Theorem
+Sophie Germain made several important contributions to the investigation of 
+Fermat's Last Theorem. Read about them in this essay (revised, July 21, 2009).
+
+Rue Sophie Germain
+
+
+Credit: Cheryl Slaughter. Used with permission
+
+Sophie Germain has been honored in several ways since her death in 1831. 
+The street Rue Sophie Germain in Paris has been
+named in her honor and a statue of her now stands 
+in the courtyard of the Ecole Sophie Germain, also in Paris. The house at 
+13 rue de Savoie in which she died has been designated as a historical 
+landmark. The Sophie
+Germain Hotel is located at 12 Rue Sophie Germain.
+
+Click here to see a map of the location of Rue 
+Sophie Germain and a view of the street.
+
+References
+
+Gray, Mary W. "Sophie Germain," in Women of Mathematics, A
+Biobibliographic Sourcebook, Louise S. Grinstein and Paul J.
+Campbell, editors, Greenwood Press, 1987. 
+This article contains an excellent bibliography of works written about
+Sophie Germain.
+Gray, Mary W. "Sophie Germain, A Bicentennial Appreciation," AWM Newsletter, Vol. 6, No. 6 (1976), 10-14. [Reprint in Complexities: Women in Mathematics, Bettye Anne Case and Anne Leggett, Editors, Princeton University Press (2005), 68-74.]
+Franklin, Christine Ladd. "Sophie Germain: An Unknown Mathematicians," Century, Vol. 48 (1894), 946-949, [Reprinted in the AWM Newsletter, Vol. 11, No. 3 (1981), 7-11.]
+Dalmedico, Amy Dahan.  "Sophie Germain."  Scientific American Dec.
+1991:  117-122.
+Osen, Lynn M.  Women in Mathematics.  Cambridge:  The MIT Press,
+1992.
+Perl, Teri.  Math Equals:  Biographies of Women Mathematicians +
+Related Activities.
+ Menlo Park:  Addison-Wesley Publishing, 1978.
+Smith Sanderson and Greer Lleaud. "Sophie Germain," Notable Women in Mathematics: A Biographical Dictionary, Charlene Morrow and Teri Perl, Editors, Greenwood Press, 1998, 62-66.
+Dubner, H. "Large Sophie Germain Primes."  Math. Comput.
+65, 393-396, 1996.
+Weisstein, Eric W. Sophie
+Germain Prime,
+http://mathworld.wolfram.com/SophieGermainPrime.html
+Biography at the MacTutor History of Mathematics Archive
+Edwards, Harold M. Fermat's Last Theorem, Springer, New
+York, 1977, 61-65.
+Petrovich, Vesna Crnjanski. "Women and the Paris Academy of Sciences," Eighteenth-Century Studies, Vol. 32, No. 3, Constructions of Femininity (Spring, 1999), 383-390. [Available at JSTOR (subscription required)]
+Math's 
+Hidden Woman, http://www.pbs.org/wgbh/nova/proof/germain.html,
+from the Nova web site on its production of
+"The Proof".
+MathSciNet [subscription required]
+Author Profile at zbMath
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,286 @@
+Matrices And Determinants - Definition, Difference, Properties, Examples, FAQsYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsAlready booked a tutor?Book A FREE ClassYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsFind your Math Personality!Find your Math Personality!LearnPracticeDownload 
+Matrices And Determinants
+Matrices and determinants are used to perform various arithmetic operations involving an array of elements. Matrices are a rectangular array of elements that are represented in the form of rows and columns. And determinants are calculated for a matrix and it is a single numeric value that has been computed from this array of elements. The matrix is represented with an alphabet in upper case and is written as A, and the determinant is represented as |A|.
+Matrices and determinants have differences in their properties. The multiplication of a constant K with a matrix multiplies every element of the matrix, and the multiplication of a constant K with a Determinant multiplies with the elements of any particular row or columns. Let us learn more about the properties, and differences between matrices and determinants with the help of examples, FAQs.
+
+
+
+1.
+What Are Matrices And Determinants?
+
+
+2.
+Difference Between Matrices And Determinants
+
+
+3.
+Properties Of Matrices
+
+
+4.
+Properties Of Determinants
+
+
+5.
+Solving Matrices And Determinants
+
+
+6.
+Examples On Matrices And Determinants
+
+
+7.
+Practice Questions
+
+
+8.
+FAQs On Matrices And Determinants
+
+
+
+
+What Are Matrices And Determinants?
+
+Matrices and determinants represent an array of elements, and we compute a single element value for the entire determinant. Matrices is a plural form of a matrix, which is a rectangular array or a table where numbers or elements are arranged in a number of rows and columns. Matrices can be added or subtracted if only they have the same number of rows and columns whereas they can be multiplied if only columns in first and rows in second are exactly the same.
+Matrices and determinants have a close relationship in math. A matrix is an array of elements that is denoted by M, and the determinant is the single numeric value to represent this matrix and is denoted as |M|. Let us look at the definition of a matrix and a determinant.
+Definition of Matrix
+A matrix is an array of elements represented as rows and columns. Determinants are considered as scalar factors of a matrix. The matrix is generally denoted by a capital alphabet. The order of a matrix is represented by the number of rows and columns in a matrix. A matrix of order m x n has m rows and n columns.
+\(A = \left[\begin{array}{ccc}
+a_{11} & a_{12} & a_{13} .. .& a_{1n} \\
+a_{21} & a_{22} & a_{23} ... & a_{2n} \\
+a_{31} & a_{32} & a_{33} ...& a_{3n} \\ : & : & : & : \\ a_{m1} & a_{m2} & a_{m3} ...& a_{mn}
+\end{array}\right] \)
+Definition of Determinant
+For every square matrix, C = [\(c_{ij}\)] of order n×n, a determinant can be defined as a scalar value that is real or a complex number, where \(c_{ij}\) is the (i,j)th element of matrix C. The determinant can be denoted as det(C) or |C|, here the determinant is written by taking the grid of numbers and arranging them inside the absolute-value bars instead of using square brackets.
+Consider a matrix C = \(\left[\begin{array}{ll}a & b \\c & d\end{array}\right]\)
+Then, its determinant can be shown as:
+|C| = \(\left|\begin{array}{ll}a & b \\c & d\end{array}\right|\)
+
+Difference Between Matrices And Determinants
+
+The difference between matrices and determinants helps in a better understanding of matrices and determinants.
+
+The matrix is an array of numbers, but a determinant is a single numeric value found after computation from a matrix.
+The determinant value of a matrix can be computed, but a matrix cannot be computed from a determinant.
+The matrices can be of any order. But a determinant can be found only for a square matrix having an equal number of rows and columns.
+The multiplication of a constant K with a matrix multiplies it with every element of the matrix. But the multiplication of a constant K with a determinant multiplies it with every element of a particular row or column of a determinant.
+The rows and columns of a determinant can be interchanged but the many rows and columns of a matrix cannot be interchanged.
+The value of a determinant is equal to zero if any two rows or columns are identical, but identical rows or columns in a matrix do not make it a null matrix.
+The elements of any particular row or column can be dissected as the sum or difference of values and it can be written as two different determinants. But the matrix elements of any row or column cannot be broken down into the sum or difference of any two rows.
+Any row or column if added with equimultiples of another row or column, then the value of the determinant does not change. But a similar operation cannot be performed on a matrix.
+
+
+Properties of Matrices
+
+The following properties of matrices help in easily performing numerous operations on matrices.
+Addition Property of Matrics
+
+Commutative Law. For the given two matrixes, matrix A and matrix B of the same order, say m x n, then A + B = B + A.
+Associative law: For any three matrices, A , B, C of the same order m x n, we have (A + B) + C = A + (B + C)
+Existence of additive identity Let A be a matrix of order m × n, and O be a zero matrix or a null matrix of the same order m × n , then A + O = O + A = A. In other words, O is the additive identity for matrix addition.
+Existence of additive inverse Let A be a matrix of order m × n. and let -A be another matrix of order m × n such that A + (– A) = (– A) + A= O. So the matrix – A is the additive inverse of A or the negative of matrix A.
+
+Scalar Multiplication Property of Matrices
+
+The product of a constant with the sum of matrices is equal to the sum of the individual product of the constant and the matrix. k(A + B) = kA + kB
+The product of the sum of the constants with a matrix is equal to the sum of the product of each of the constants with the matrix. (k + l)A = kA + lA
+
+Multiplication Property of Matrices
+
+Associative Property: For any three matrices A, B, C following the matrix multiplication conditions, we have (AB)C = A(BC). Here both sides of the matrix multiplication are defined.
+Distributive Property: For any three matrices A, B, C following the matrix multiplication conditions, we have A(B + C) = AB + AC.
+The existence of multiplicative identity. For a square matrix A, having the order m × n, and an identity matrix I of the same order we have AI = IA = A. Here the product of the identity matrix with the given matrix results in the same matrix.
+
+Transpose Property of Matrices
+
+The transpose of a matrix on further taking a transpose for the second time results in the original matrix. (A')' = A
+The transpose of the product of a constant and a matrix is equal to the product of the constant and the transpose of the matrix. (kA)' = kA'
+The transpose of the sum of two matrices is equal to the sum of the transpose of the individual matrices. (A + B)' = A' + B'
+The transpose of the product of two matrices is equal to the product of the transpose of the second matrix and the transpose of the first matrix. (AB)' = B'A'
+
+Other Properties of Matrices
+
+For a square matrix with real number entries, A + A' is a symmetric matrix, and A - A' is a skew-symmetric matrix.
+A square matrix can be expressed as a sum of symmetric and skew-symmetric matrix. A = 1/2(A + A') + 1/2(A - A').
+The inverse of a matrix if it exists is unique. AB = BA = I.
+If matrix A is the inverse of matrix B, then matrix B is the inverse of matrix A.
+If A and B are invertible matrices of the same order m × n, then (AB)-1 = B-1A-1.
+
+
+Properties of Determinants
+
+The following seven properties of determinants help in easily computing the determinants.
+
+Interchange Property: The value of a determinant remains unchanged if the rows or columns of the determinant are altered. A = \(\begin{vmatrix}a_1&a_2&a_3\\b_1&b_2&b_3\\c_1&c_2&c_3\end{vmatrix}\), A' = \(\begin{vmatrix}a_1&b_1&c_1\\a_2&b_2&c_2\\a_3&b_3&c_3\end{vmatrix}\) Det(A) = Det(A')
+Sign Property: The sign of the determinant changes if any two particular rows or two particular columns of the determinant are interchanged. A = \(\begin{vmatrix}a_1&a_2&a_3\\b_1&b_2&b_3\\c_1&c_2&c_3\end{vmatrix}\), B = \(\begin{vmatrix}a_1&a_2&a_3\\c_1&c_2&c_3\\b_1&b_2&b_3\end{vmatrix}\) Det(A) = -Det(B)
+Zero Property: The value of a determinant is equal to zero if any two rows or any two columns of the determinant have the same elements. A = \(\begin{vmatrix}a_1&a_2&a_3\\a_1&a_2&a_3\\b_1&b_2&b_3\end{vmatrix}\) Here the elements of the first row and the second row are identical. Hence the value of the determinant is equal to zero Der(A) = 0
+Multiplication Property: The value of the determining becomes k times the earlier value of the determinant if each of the elements of a particular row or column is multiplied with a constant k.A = \(\begin{vmatrix}a_1&b_1&c_1\\a_2&b_2&c_2\\a_3&b_3&c_3\end{vmatrix}\), B = \(\begin{vmatrix}ka_1&kb_1&kc_1\\a_2&b_2&c_2\\a_3&b_3&c_3\end{vmatrix}\) Det(B) = k× Det(B)
+Sum Property: If a few elements of a row or column are expressed as a sum of terms, then the determinant can be expressed as a sum of two or more determinants. \(\begin{vmatrix}a_1+b_1&a_2 + b_2&a_3+b_3\\c_1&c_2&c_3\\d_1&d_2&d_3\end{vmatrix}\) = \(\begin{vmatrix}a_1&a_2 &a_3\\c_1&c_2&c_3\\d_1&d_2&d_3\end{vmatrix}\) + \(\begin{vmatrix}b_1& b_2&b_3\\c_1&c_2&c_3\\d_1&d_2&d_3\end{vmatrix}\)
+Property Of Invariance: If each element of a row and column of a determinant is added with the equimultiples of the elements of another row or column of a determinant, then the value of the determinant remains unchanged. This can be expressed in the form of a formula as \(R_i \rightarrow R_i + kR_j\), or \(C_i \rightarrow C_i + kC_j\). A = \(\begin{vmatrix}a_1&a_2&a_3\\b_1&b_2&b_3\\c_1&c_2&c_3\end{vmatrix}\), B = \(\begin{vmatrix}a_1+kc_1&a_2+kc_2&a_3+kc_3\\b_1&b_2&b_3\\c_1&c_2&c_3\end{vmatrix}\). Det(A) = Det(B)
+Triangular Property: If the elements above or below the main diagonal are equal to zero, then the value of the determinant is equal to the product of the elements of the diagonal matrix.
+
+\(\begin{vmatrix}a_1&a_2&a_3\\0&b_2&b_3\\0&0&c_3\end{vmatrix}\) = \(\begin{vmatrix}a_1&0&0\\a_2&b_2&0\\a_3&b_3&c_3\end{vmatrix}\) = \(a_1.b_2.c_3\)
+
+Solving Matrices And Determinants
+
+Matrices can be solved through the arithmetic operations of addition, subtraction, multiplication, and through finding its inverse. Further a single numeric value that can be computed for a square matrix is called the determinant of the square matrix. The determinants can be calculated for only square matrices.
+Let us check the different operations of addition, subtraction, multiplication of matrices, and also find the determinant value of order 2 x 2, 3 x 3.
+Addition of Matrices
+The addition of matrices is similar to the simple arithmetic addition of terms. The addition of two matrices is possible in the two matrices are of the same order. The addition of two matrices is possible by the simultaneous addition of their respective elements to obtain a new matrix.
+
+Subtraction Of Matrices
+As we know that subtraction of matrices is possible only if the matrices have an equal number of rows and columns, therefore, for the subtraction of matrices of order 2 × 2, the matrices must have 2 rows and 2 columns. Now, consider two matrices A and B with dimensions 2 × 2. To subtract B from A, we will subtract the elements of B from the corresponding elements of A. The general form of subtraction of B from A (order 2 × 2)is:
+
+Multiplication Of Matrices
+The process is the same for the matrix of any order. The condition for multiplication of two matrices is, the number of columns in the first matrix should be equal to the number of rows in the second matrix. We multiply the elements of each row of the first matrix by the elements of each column in the second matrix (element by element) as shown in the image. Finally, we add the products.
+
+Solving a 2D Determinant
+For any 2d square matrix or a square matrix of order 2×2, we can use the determinant formula to calculate its determinant:
+C = \(\left[\begin{array}{ll}a & b \\c & d\end{array}\right]\)
+Its 2D determinant can be calculated as:
+|C| = \(\left|\begin{array}{ll}a & b \\c & d\end{array}\right|\)
+|C| = (a×d) - (b×c)
+For example: C = \(\left[\begin{array}{ll}8 & 6 \\3 & 4\end{array}\right]\)
+Its determinant can be calculated as:
+|C| = \(\left|\begin{array}{ll}8 & 6 \\3 & 4\end{array}\right|\)
+|C| = (8×4) - (6×3) = 32 - 18 = 14
+Solving A 3D Determinants
+For any 3d square matrix or a square matrix of order 3×3, this is the procedure to calculate its determinant.
+\(C = \left[\begin{array}{ccc}a_{1} & b_{1} & c_{1} \\a_{2} & b_{2} & c_{2} \\a_{3} & b_{3} & c_{3}\end{array}\right] \)
+Its determinant can be calculated as:
+|C| = \(\left|\begin{array}{ccc}a_{1} & b_{1} & c_{1} \\a_{2} & b_{2} & c_{2} \\a_{3} & b_{3} & c_{3}\end{array}\right| \)
+
+\(a_{1}\) is fixed as the anchor number and the 2D determinant of its sub-matrix which is a square matrix is calculated.
+The next anchor number is taken in order, now, it is \(b_{1}\) and the small determinant is calculated, and finally, \(c_{1}\) is taken as the anchor number and its 2D determinant is calculated.
+Alternately keep multiplying the small determinant by the anchor number and by its sign.
+|C| = \(\left|\begin{array}{ccc}+ &-& + \\- & + & - \\+ &-& + \end{array}\right| \)
+Finally sum them up.
+
+|C| = \(a_{1} \cdot\left|\begin{array}{ll}b_{2} & c_{2} \\b_{3} & c_{3}\end{array}\right|-b_{1} \cdot\left|\begin{array}{cc}a_{2} & c_{2} \\a_{3} & c_{3}\end{array}\right|+c_{1} \cdot\left|\begin{array}{ll}a_{2} & b_{2} \\a_{3} & b_{3}\end{array}\right|\)
+|C| = \(a_{1}\left(b_{2} c_{3}-b_{3} c_{2}\right)-b_{1}\left(a_{2} c_{3}-a_{3} c_{2}\right)+c_{1}\left(a_{2} b_{3}-a_{3} b_{2}\right)\)
+☛Related Topics
+
+Properties of Matrices
+Properties of Determinants
+Types of Matrices
+Determinants
+Multiplication of Matrices
+
+
+ 
+
+
+
+Examples on Matrices And Determinants
+
+
+
+
+
+Example 1: Find the multiplication of two matrices, and find the determinant of the resultant matrix.
+\[ \begin{pmatrix}
+	1 & 0 \\
+	2 & 4 \\
+	\end{pmatrix} \text{and}\begin{pmatrix}
+	6 & 8 \\
+	4 & 3 \\
+	\end{pmatrix}
+	\]
+Solution:
+The given matrices are of order 2×2. ∵They are compatible for matrix multiplication, we can find the multiplication of the matrices and their product matrix will also be of order 2×2.
+\( \text {Product of matrices }\left(\begin{array}{ll}1 & 0 \\ 2 & 4\end{array}\right) \text { and }\left(\begin{array}{ll}6 & 8 \\ 4 & 3\end{array}\right) \text { is: }\)
+\(A=\begin{pmatrix}
+	1 & 0 \\
+	2 & 4 \\
+	\end{pmatrix}.\begin{pmatrix}
+	6 & 8 \\
+	4 & 3 \\
+	\end{pmatrix}\\\\
+	A= \begin{pmatrix}
+	(1\times6)+(0\times4) & (1\times8)+(0\times3) \\
+	(2\times6)+(4\times4) & (2\times8)+(4\times3) \\
+	\end{pmatrix} \\\\ A= \begin{pmatrix}
+	6+0 && 8+0 \\
+	12+16&& 16+12 \\
+	\end{pmatrix}
+	\\\\
+	A= \begin{pmatrix}
+	6 & 8 \\
+	28& 28 \\
+	\end{pmatrix}\)
+The determinant value is |A| = 6 x 28 - 8 x 28 = -2 x 28 = -56
+Answer: Therefore the multiplication of the two matrices is A = \(\begin{pmatrix}
+	6 & 8 \\
+	28 & 28 \\
+	\end{pmatrix}
+	\) and their determinant value is |A| = -56.
+
+
+
+
+Example 2: Find the determinant of the matrix A where \(A=\left[\begin{array}{ll}1 & 3 & 2 \\-3 & -1& -3\\2 & 3 & 1\end{array}\right]\).
+Solution: 
+|C| = \(1 \cdot\left|\begin{array}{ll}-1 & -3 \\3 & 1\end{array}\right|-3 \cdot\left|\begin{array}{cc}-3 & -3 \\2 & 1\end{array}\right|+2 \cdot\left|\begin{array}{ll}-3 & -1 \\2 & 3\end{array}\right|\)
+Using the determinants rule,
+=|C| = 1. (-1 -(-9) - 3. (-3 -(-6) + 2.(-9 -(-2))
+= 1. (-1 +9) - 3. (-3 +6) + 2 .(-9 +2)
+= 8 - 9 -14
+=|C| = -15
+Answer: The determinant of the given matrix is -15.
+
+
+
+
+View Answer >
+go to slidego to slide
+
+
+
+Breakdown tough concepts through simple visuals.
+Math will no longer be a tough subject, especially when you understand the concepts through visualizations.
+Book a Free Trial Class
+
+
+
+Practice Questions on Matrices And Determinants
+
+
+
+
+ 
+
+
+ 
+
+
+
+Check Answer >
+ 
+go to slidego to slide
+
+
+
+
+FAQs on Matrices And Determinants
+
+What Are Matrices And Determinants?
+Matrices and determinants have a close relationship in math. A matrix is an array of elements that is denoted by M, and the determinant is the single numeric value to represent this matrix and is denoted as |M|. The number of rows and columns in a matrix is called the order of the matrix, and for a determinant, the number of rows should be equal to the number of columns.
+How To Solve Matrices And Determinants?
+The arithmetic operations of addition, subtraction, multiplication can be performed across matrices. And the determinant can be computed for a square matrix and the same determinant value can be used to calculate the inverse of a matrix.
+What Is The Difference Between Matrices And Determinants?
+The following are the three main differences between matrices and determinants.
+
+The matrix can be represented as A = \(\begin{pmatrix}a&b\\c&d\end{pmatrix}\), the determinant value is |A| = |ad - bc|.
+The matrices can be of any order. But a determinant can be found only for a square matrix having an equal number of rows and columns.
+The multiplication of a constant K with a matrix multiplies it with every element of the matrix. But the multiplication of a constant K with a determinant multiplies it with every element of a particular row or column of a determinant.
+
+What Is The Order Of Matrices And Determinants?
+The order of a matrix is m x n as it has m rows and n columns, and for a determinant, the order is n x n, as it has n row and n columns. Determinants can only be computed for a square matrix and hence it has an equal number of rows and columns.
+What Are The Formulas Of Matrices And Determinants?
+The formula of the matrix is to find the transpose, adjoint, and inverse of a matrix. And we can find a single numeric value for a determinant. The transpose of a matrix is the matrix obtained after transforming and writing the row elements as column elements and the column elements as row elements. The adjoint of a matrix is the transpose of the cofactors of the elements of the matrix, and dividing the adjoint of the matrix with the determinant of the matrix gives the inverse of the matrix.
+Are Matrices And Determinants The Same?
+The matrices and determinants are different. The matrices are an array of elements that are represented as rows and columns, and the determinant is a single numeric value that has been computed from the elements of the matrix. For a matrix A = \(\begin{pmatrix}a&b\\c&d\end{pmatrix}\), the determinant value is |A| = |ad - bc|.
+What Are The Applications Of Matrices And Determinants?
+The matrix has great applications in the area of data science and artificial intelligence. The numerous algebraic equations can be solved using the matrix inversion method. We can also find the transpose, adjoint, and inverse of a matrix.
+
+Explore math programMath worksheets and visual curriculumBook A FREE ClassFOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandFOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsTerms and ConditionsPrivacy Policy

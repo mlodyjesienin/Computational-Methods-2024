@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+What is epidemiological modelling and what is it used for?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Reports
+What is modelling?
+SIICC
+Opportunities
+Final Report
+ 
+
+
+
+
+
+Select Page
+
+
+  
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+What is epidemiological modelling and what is it used for?
+
+
+
+
+
+
+
+
+
+
+
+A mathematical model is a simplified representation of a real-world phenomenon expressed in mathematical language. In epidemiology, models are used to understand the way infectious diseases spread through populations. They combine basic principles of how a disease spreads – contact between someone who is infectious and someone who is susceptible – with characteristics of the population to estimate how many people will get infected over time.
+Mathematical modelling is a powerful tool for supporting impact assessment and planning, interpreting raw epidemiological and clinical data streams, providing situational awareness, evaluating control measure effectiveness, and comparing alternative policy options. Models provide a framework to think systematically about the consequences of a range of assumptions, and test which assumptions are consistent with empirical data.
+Models typically have inputs relating to:
+
+Characteristics of the pathogen, such as the incubation period, infectiousness, and age-specific risk of symptoms, hospitalisation or death.
+Characteristics of the population, such as the age structure, ethnicity, and the level of immunity either from vaccination or from previous infection.
+Some estimates of the rates of contact between people, including interaction patterns and social structure, and how these are affected by various public health interventions.
+
+Some of these inputs are taken directly from real data. Others cannot be observed directly or are uncertain and so assumptions need to be made. Models are typically run for a range of different assumptions to investigate how much this affects key outcomes. Models are often developed iteratively, by comparing model outputs to new data and refining assumptions as needed. This process itself can help identify areas of uncertainty or important drivers of outcomes.
+All models are a simplification of reality. They cannot capture every detail about who is interacting with whom, how that changes over time, and the myriad of variations between individuals. Instead, they try to focus on the most important factors that affect the epidemic trajectory and its impacts at the population level. Deciding which simplifications and assumptions it is appropriate to use with a particular model depends on questions that you want the model to be able to answer. Sometimes the decision about which details to include depends on whether sufficient quality data is available about that variable, and whether it is likely to be important for the outcomes that are of interest.
+Models are used in different ways depending on what scientists, health officials, or policy makers are trying to understand. Models can take recent data on cases to produce a short-term prediction (typically a few weeks), which may be useful for planning health care capacity.  Models can be used to make medium-term projections (typically 2-3 months) of the epidemic trajectory if conditions stay as they are, or change in some specified way like relaxing public health measures. Models can also be used to investigate longer-term scenarios. These can be useful to think about “what if” type questions, like what if a new variant with specific characteristics emerges, but by necessity these include more uncertainty.
+Governments may use modelling results to help inform decisions about policy. However, models are not the only factor considered and decisions are based on a range of data, evidence, and expertise. A model on its own cannot tell you what to do, but it can help weigh up the pros and cons of alternative options.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+"Covid-19 Modelling Aotearoa" The University of Auckland | Accessibility |
+Copyright |
+Privacy |
+Disclaimer
+ 
+
+
+
+
+Covid-19 Modelling Aotearoa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,900 @@
+
+
+
+
+Spacetime topology - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Types of topology
+
+
+
+
+Toggle Types of topology subsection
+
+
+
+
+
+1.1
+Manifold topology
+
+
+
+
+
+
+
+
+1.2
+Path or Zeeman topology
+
+
+
+
+
+
+1.2.1
+Properties
+
+
+
+
+
+
+
+
+
+
+1.3
+Alexandrov topology
+
+
+
+
+
+
+
+
+
+
+2
+Planar spacetime
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+Notes
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Spacetime topology
+
+
+
+5 languages
+
+
+
+
+العربيةفارسیItalianoਪੰਜਾਬੀPortuguês
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Part of a series onSpacetime
+
+Special relativity
+General relativity
+
+
+Spacetime concepts
+Spacetime manifold
+Equivalence principle
+Lorentz transformations
+Minkowski space
+
+
+General relativity
+Introduction to general relativity
+Mathematics of general relativity
+Einstein field equations
+
+
+Classical gravity
+Introduction to gravitation
+Newton's law of universal gravitation
+
+
+Relevant mathematics
+Four-vector
+Derivations of relativity
+Spacetime diagrams
+Differential geometry
+Curved spacetime
+Mathematics of general relativity
+Spacetime topology
+
+
+
+ Physics portal
+ Category
+vte
+Spacetime topology is the topological structure of spacetime, a topic studied primarily in general relativity. This physical theory models gravitation as the curvature of a four dimensional Lorentzian manifold (a spacetime) and the concepts of topology thus become important in analysing local as well as global aspects of spacetime. The study of spacetime topology is especially important in physical cosmology.
+
+
+Types of topology[edit]
+There are two main types of topology for a spacetime M.
+
+Manifold topology[edit]
+As with any manifold, a spacetime possesses a natural manifold topology. Here the open sets are the image of open sets in 
+
+
+
+
+
+R
+
+
+4
+
+
+
+
+{\displaystyle \mathbb {R} ^{4}}
+
+.
+
+Path or Zeeman topology[edit]
+Definition:[1] The topology 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+ in which a subset 
+
+
+
+E
+⊂
+M
+
+
+{\displaystyle E\subset M}
+
+ is open if for every timelike curve 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ there is a set 
+
+
+
+O
+
+
+{\displaystyle O}
+
+ in the manifold topology such that 
+
+
+
+E
+∩
+c
+=
+O
+∩
+c
+
+
+{\displaystyle E\cap c=O\cap c}
+
+.
+It is the finest topology which induces the same topology as 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ does on timelike curves.[2]
+
+Properties[edit]
+Strictly finer than the manifold topology. It is therefore Hausdorff, separable but not locally compact.
+A base for the topology is sets of the form 
+
+
+
+
+Y
+
++
+
+
+(
+p
+,
+U
+)
+∪
+
+Y
+
+−
+
+
+(
+p
+,
+U
+)
+∪
+p
+
+
+{\displaystyle Y^{+}(p,U)\cup Y^{-}(p,U)\cup p}
+
+ for some point 
+
+
+
+p
+∈
+M
+
+
+{\displaystyle p\in M}
+
+ and some convex normal neighbourhood 
+
+
+
+U
+⊂
+M
+
+
+{\displaystyle U\subset M}
+
+.
+(
+
+
+
+
+Y
+
+±
+
+
+
+
+{\displaystyle Y^{\pm }}
+
+ denote the chronological past and future).
+
+Alexandrov topology[edit]
+Further information: Alexandrov topology
+The Alexandrov topology on spacetime, is the coarsest topology such that both 
+
+
+
+
+Y
+
++
+
+
+(
+E
+)
+
+
+{\displaystyle Y^{+}(E)}
+
+ and 
+
+
+
+
+Y
+
+−
+
+
+(
+E
+)
+
+
+{\displaystyle Y^{-}(E)}
+
+ are open for all subsets 
+
+
+
+E
+⊂
+M
+
+
+{\displaystyle E\subset M}
+
+.
+Here the base of open sets for the topology are sets of the form 
+
+
+
+
+Y
+
++
+
+
+(
+x
+)
+∩
+
+Y
+
+−
+
+
+(
+y
+)
+
+
+{\displaystyle Y^{+}(x)\cap Y^{-}(y)}
+
+ for some points 
+
+
+
+
+x
+,
+y
+∈
+M
+
+
+{\displaystyle \,x,y\in M}
+
+.
+This topology coincides with the manifold topology if and only if the manifold is strongly causal but it is coarser in general.[3]
+Note that in mathematics, an Alexandrov topology on a partial order is usually taken to be the coarsest topology in which only the upper sets 
+
+
+
+
+Y
+
++
+
+
+(
+E
+)
+
+
+{\displaystyle Y^{+}(E)}
+
+ are required to be open. This topology goes back to Pavel Alexandrov.
+Nowadays, the correct mathematical term for the Alexandrov topology on spacetime (which goes back to Alexandr D. Alexandrov) would be the interval topology, but when Kronheimer and Penrose introduced the term this difference in nomenclature was not as clear[citation needed], and in physics the term Alexandrov topology remains in use.
+
+Planar spacetime[edit]
+Events connected by light have zero separation. The plenum of spacetime in the plane is split into four quadrants, each of which has the topology of R2. The dividing lines are the trajectory of inbound and outbound photons at (0,0). The planar-cosmology topological segmentation is the future F, the past P, space left L, and space right D. The homeomorphism of F with R2 amounts to polar decomposition of split-complex numbers:
+
+
+
+
+
+z
+=
+exp
+⁡
+(
+a
++
+j
+b
+)
+=
+
+e
+
+a
+
+
+(
+cosh
+⁡
+b
++
+j
+sinh
+⁡
+b
+)
+→
+(
+a
+,
+b
+)
+,
+
+
+{\displaystyle z=\exp(a+jb)=e^{a}(\cosh b+j\sinh b)\to (a,b),}
+
+ so that
+
+
+
+
+z
+→
+(
+a
+,
+b
+)
+
+
+{\displaystyle z\to (a,b)}
+
+ is the split-complex logarithm and the required homeomorphism F → R2, Note that b is the rapidity parameter for relative motion in F.
+F is in bijective correspondence with each of P, L, and D under the mappings z → –z, z → jz, and z → – j z, so each acquires the same topology. The union U = F ∪ P ∪ L ∪ D then has a topology nearly covering the plane, leaving out only the null cone on (0,0). Hyperbolic rotation of the plane does not mingle the quadrants, in fact, each one is an invariant set under the unit hyperbola group.
+
+See also[edit]
+4-manifold
+Clifford-Klein form
+Closed timelike curve
+Complex spacetime
+Geometrodynamics
+Gravitational singularity
+Hantzsche–Wendt_manifold
+Wormhole
+Notes[edit]
+
+^ Luca Bombelli website Archived 2010-06-16 at the Wayback Machine
+
+^ *Zeeman, E.C. (1967). "The topology of Minkowski space". Topology. 6 (2): 161–170. doi:10.1016/0040-9383(67)90033-X.
+
+^ Penrose, Roger (1972), Techniques of Differential Topology in Relativity, CBMS-NSF Regional Conference Series in Applied Mathematics, p. 34
+
+
+References[edit]
+Zeeman, E. C. (1964). "Causality Implies the Lorentz Group". Journal of Mathematical Physics. 5 (4): 490–493. Bibcode:1964JMP.....5..490Z. doi:10.1063/1.1704140.
+Hawking, S. W.; King, A. R.; McCarthy, P. J. (1976). "A new topology for curved space–time which incorporates the causal, differential, and conformal structures" (PDF). Journal of Mathematical Physics. 17 (2): 174–181. Bibcode:1976JMP....17..174H. doi:10.1063/1.522874.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Spacetime_topology&oldid=1170592528"
+Categories: General relativityLorentzian manifoldsHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from September 2017
+
+
+
+
+
+
+ This page was last edited on 16 August 2023, at 00:35 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

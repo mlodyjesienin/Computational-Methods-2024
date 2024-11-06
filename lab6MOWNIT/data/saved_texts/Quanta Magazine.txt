@@ -1,0 +1,124 @@
+
+
+Quanta Magazine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our privacy policy.AgreeQuanta HomepagePhysicsMathematicsBiologyComputer ScienceTopicsArchiveSaved articlesLoginSearchWhat Is the Geometry of the Universe?CommentSave ArticleRead LaterShareFacebookTwitterCopied!Copy link   EmailPocketRedditYcombinatorFlipboardCommentCommentsSave ArticleRead LaterRead LaterMultimediaWhat Is the Geometry of the Universe?By Erica Klarreich +1 authorsLucy Reading-IkkandaMarch 16, 2020In our mind’s eye, the universe seems to go on forever. But using geometry we can explore a variety of three-dimensional shapes that offer alternatives to “ordinary” infinite space. CommentSave ArticleRead LaterLukas Schlagenhauf
+AuthorsErica KlarreichContributing CorrespondentLucy Reading-IkkandaFormer Graphics EditorMarch 16, 2020View PDF/Print ModecosmologygeometrymathematicsmultimediaphysicsAll topicsIntroductionWhen you gaze out at the night sky, space seems to extend forever in all directions. That’s our mental model for the universe, but it’s not necessarily correct. There was a time, after all, when everyone thought the Earth was flat, because our planet’s curvature was too subtle to detect and a spherical Earth was unfathomable.
+Today, we know the Earth is shaped like a sphere. But most of us give little thought to the shape of the universe. Just as the sphere offered an alternative to a flat Earth, other three-dimensional shapes offer alternatives to “ordinary” infinite space.
+We can ask two separate but interrelated questions about the shape of the universe. One is about its geometry: the fine-grained local measurements of things like angles and areas. The other is about its topology: how these local pieces are stitched together into an overarching shape.
+Cosmological evidence suggests that the part of the universe we can see is smooth and homogeneous, at least approximately. The local fabric of space looks much the same at every point and in every direction. Only three geometries fit this description: flat, spherical and hyperbolic. Let’s explore these geometries, some topological considerations, and what the cosmological evidence says about which shapes best describe our universe.
+
+Flat Geometry
+This is the geometry we learned in school. The angles of a triangle add up to 180 degrees, and the area of a circle is πr2. The simplest example of a flat three-dimensional shape is ordinary infinite space — what mathematicians call Euclidean space — but there are other flat shapes to consider too.
+
+These shapes are harder to visualize, but we can build some intuition by thinking in two dimensions instead of three. In addition to the ordinary Euclidean plane, we can create other flat shapes by cutting out some piece of the plane and taping its edges together. For instance, suppose we cut out a rectangular piece of paper and tape its opposite edges. Taping the top and bottom edges gives us a cylinder:
+
+Next, we can tape the right and left edges to get a doughnut (what mathematicians call a torus):
+
+Now, you might be thinking, “This doesn’t look flat to me.” And you’d be right. We cheated a bit in describing how the flat torus works. If you actually tried to make a torus out of a sheet of paper in this way, you’d run into difficulties. Making the cylinder would be easy, but taping the ends of the cylinder wouldn’t work: The paper would crumple along the inner circle of the torus, and it wouldn’t stretch far enough along the outer circle. You’d have to use some stretchy material instead of paper. But this stretching distorts lengths and angles, changing the geometry.
+Inside ordinary three-dimensional space, there’s no way to build an actual, smooth physical torus from flat material without distorting the flat geometry. But we can reason abstractly about what it would feel like to live inside a flat torus.
+Imagine you’re a two-dimensional creature whose universe is a flat torus. Since the geometry of this universe comes from a flat piece of paper, all the geometric facts we’re used to are the same as usual, at least on a small scale: Angles in a triangle sum to 180 degrees, and so on. But the changes we’ve made to the global topology by cutting and taping mean that the experience of living in the torus will feel very different from what we’re used to.
+For starters, there are straight paths on the torus that loop around and return to where they started:
+
+These paths look curved on a distorted torus, but to the inhabitants of the flat torus they feel straight. And since light travels along straight paths, if you look straight ahead in one of these directions, you’ll see yourself from the rear:
+
+On the original piece of paper, it’s as if the light you see traveled from behind you until it hit the left-hand edge, then reappeared on the right, as though you were in a wraparound video game:
+
+An equivalent way to think about this is that if you (or a beam of light) travel across one of the four edges, you emerge in what appears to be a new “room” but is actually the same room, just seen from a new vantage point. As you wander around in this universe, you can cross into an infinite array of copies of your original room.
+
+That means you can also see infinitely many different copies of yourself by looking in different directions. It’s a sort of hall-of-mirrors effect, except that the copies of you are not reflections:
+Share this articleFacebookTwitterCopied!Copy link   EmailPocketRedditYcombinatorFlipboardNewsletterGet Quanta Magazine delivered to your inboxSubscribe nowRecent newslettersIntroductionOn the doughnut, these correspond to the many different loops by which light can travel from you back to you:
+
+Similarly, we can build a flat three-dimensional torus by gluing the opposite faces of a cube or other box. We can’t visualize this space as an object inside ordinary infinite space — it simply doesn’t fit — but we can reason abstractly about life inside it.
+Just as life in the two-dimensional torus was like living in an infinite two-dimensional array of identical rectangular rooms, life in the three-dimensional torus is like living in an infinite three-dimensional array of identical cubic rooms. You’ll see infinitely many copies of yourself:
+
+The three-dimensional torus is just one of 10 different flat finite worlds. There are also flat infinite worlds such as the three-dimensional analogue of an infinite cylinder. In each of these worlds there’s a different hall-of-mirrors array to experience.
+Is Our Universe One of These Other Flat Shapes?
+When we look out into space, we don’t see infinitely many copies of ourselves. Even so, it’s surprisingly hard to rule out these flat shapes. For one thing, they all have the same local geometry as Euclidean space, so no local measurement can distinguish among them.
+And if you did see a copy of yourself, that faraway image would show how you (or your galaxy, for example) looked in the distant past, since the light had to travel a long time to reach you. Maybe we’re seeing unrecognizable copies of ourselves out there. Making matters worse, different copies of yourself will usually be different distances away from you, so most of them won’t look the same as each other. And maybe they’re all too far away for us to see anyway.
+To get around these difficulties, astronomers generally look not for copies of ourselves but for repeating features in the farthest thing we can see: the cosmic microwave background (CMB) radiation left over from shortly after the Big Bang. In practice, this means searching for pairs of circles in the CMB that have matching patterns of hot and cold spots, suggesting that they are really the same circle seen from two different directions.
+ESA, Planck Collaboration
+IntroductionIn 2015, astronomers performed just such a search using data from the Planck space telescope. They combed the data for the kinds of matching circles we would expect to see inside a flat three-dimensional torus or one other flat three-dimensional shape called a slab, but they failed to find them. That means that if we do live in a torus, it’s probably such a large one that any repeating patterns lie beyond the observable universe.
+
+Spherical Geometry
+We’re all familiar with two-dimensional spheres — the surface of a ball, or an orange, or the Earth. But what would it mean for our universe to be a three-dimensional sphere?
+It’s hard to visualize a three-dimensional sphere, but it’s easy to define one through a simple analogy. Just as a two-dimensional sphere is the set of all points a fixed distance from some center point in ordinary three-dimensional space, a three-dimensional sphere (or “three-sphere”) is the set of all points a fixed distance from some center point in four-dimensional space.
+Life in a three-sphere feels very different from life in a flat space. To get a feel for it, imagine you’re a two-dimensional being living in a two-dimensional sphere. The two-dimensional sphere is the entire universe — you can’t see or access any of the surrounding three-dimensional space. Within this spherical universe, light travels along the shortest possible paths: the great circles. To you, these great circles feel like straight lines.
+
+Now imagine that you and your two-dimensional friend are hanging out at the North Pole, and your friend goes for a walk. As your friend strolls away, at first they’ll appear smaller and smaller in your visual circle, just as in our ordinary world (although they won’t shrink as quickly as we’re used to). That’s because as your visual circle grows, your friend is taking up a smaller percentage of it:
+
+But once your friend passes the equator, something strange happens: They start looking bigger and bigger the farther they walk away from you. That’s because the percentage they’re occupying in your visual circle is growing:
+
+When your friend is 10 feet away from the South Pole, they’ll look just as big as when they were 10 feet away from you:
+
+And when they reach the South Pole itself, you can see them in every direction, so they fill your entire visual horizon:
+
+If there’s no one at the South Pole, your visual horizon is something even stranger: yourself. That’s because light coming off of you will go all the way around the sphere until it returns to you.
+This carries over directly to life in the three-dimensional sphere. Every point on the three-sphere has an opposite point, and if there’s an object there, we’ll see it as the entire backdrop, as if it’s the sky. If there’s nothing there, we’ll see ourselves as the backdrop instead, as if our exterior has been superimposed on a balloon, then turned inside out and inflated to be the entire horizon.
+IntroductionWhile the three-sphere is the fundamental model for spherical geometry, it’s not the only such space. Just as we built different flat spaces by cutting a chunk out of Euclidean space and gluing it together, we can build spherical spaces by gluing up a suitable chunk of a three-sphere. Each of these glued shapes will have a hall-of-mirrors effect, as with the torus, but in these spherical shapes, there are only finitely many rooms to travel through.
+Is Our Universe Spherical?
+Even the most narcissistic among us don’t typically see ourselves as the backdrop to the entire night sky. But as with the flat torus, just because we don’t see a phenomenon, that doesn’t mean it can’t exist. The circumference of the spherical universe could be bigger than the size of the observable universe, making the backdrop too far away to see.
+But unlike the torus, a spherical universe can be detected through purely local measurements. Spherical shapes differ from infinite Euclidean space not just in their global topology but also in their fine-grained geometry. For example, because straight lines in spherical geometry are great circles, triangles are puffier than their Euclidean counterparts, and their angles add up to more than 180 degrees:
+
+In fact, measuring cosmic triangles is a primary way cosmologists test whether the universe is curved. For each hot or cold spot in the cosmic microwave background, its diameter across and its distance from the Earth are known, forming the three sides of a triangle. We can measure the angle the spot subtends in the night sky — one of the three angles of the triangle. Then we can check whether the combination of side lengths and angle measure is a good fit for flat, spherical or hyperbolic geometry (in which the angles of a triangle add up to less than 180 degrees).
+Most such tests, along with other curvature measurements, suggest that the universe is either flat or very close to flat. However, one research team recently argued that certain data from the Planck space telescope’s 2018 release point instead to a spherical universe, although other researchers have countered that this evidence is most likely a statistical fluke.
+
+Hyperbolic Geometry
+Unlike the sphere, which curves in on itself, hyperbolic geometry opens outward. It’s the geometry of floppy hats, coral reefs and saddles. The basic model of hyperbolic geometry is an infinite expanse, just like flat Euclidean space. But because hyperbolic geometry expands outward much more quickly than flat geometry does, there’s no way to fit even a two-dimensional hyperbolic plane inside ordinary Euclidean space unless we’re willing to distort its geometry. Here, for example, is a distorted view of the hyperbolic plane known as the Poincaré disk:
+
+From our perspective, the triangles near the boundary circle look much smaller than the ones near the center, but from the perspective of hyperbolic geometry all the triangles are the same size. If we tried to actually make the triangles the same size — maybe by using stretchy material for our disk and inflating each triangle in turn, working outward from the center — our disk would start to resemble a floppy hat and would buckle more and more as we worked our way outward. As we approached the boundary, this buckling would grow out of control.
+From the point of view of hyperbolic geometry, the boundary circle is infinitely far from any interior point, since you have to cross infinitely many triangles to get there. So the hyperbolic plane stretches out to infinity in all directions, just like the Euclidean plane. But in terms of the local geometry, life in the hyperbolic plane is very different from what we’re used to.
+In ordinary Euclidean geometry, the circumference of a circle is directly proportional to its radius, but in hyperbolic geometry, the circumference grows exponentially compared to the radius. We can see that exponential pileup in the masses of triangles near the boundary of the hyperbolic disk.
+
+Because of this feature, mathematicians like to say that it’s easy to get lost in hyperbolic space. If your friend walks away from you in ordinary Euclidean space, they’ll start looking smaller, but slowly, because your visual circle isn’t growing so fast. But in hyperbolic space, your visual circle is growing exponentially, so your friend will soon appear to shrink to an exponentially small speck. If you haven’t tracked your friend’s route carefully, it will be nearly impossible to find your way to them later.
+
+And in hyperbolic geometry, the angles of a triangle sum to less than 180 degrees — for example, the triangles in our tiling of the Poincaré disk have angles that sum to 165 degrees:
+
+The sides of these triangles don’t look straight, but that’s because we’re looking at hyperbolic geometry through a distorted lens. To an inhabitant of the Poincaré disk these curves are the straight lines, because the quickest way to get from point A to point B is to take a shortcut toward the center:
+
+There’s a natural way to make a three-dimensional analogue to the Poincaré disk — simply make a three-dimensional ball and fill it with three-dimensional shapes that grow smaller as they approach the boundary sphere, like the triangles in the Poincaré disk. And just as with flat and spherical geometries, we can make an assortment of other three-dimensional hyperbolic spaces by cutting out a suitable chunk of the three-dimensional hyperbolic ball and gluing together its faces.
+Is Our Universe Hyperbolic?
+Hyperbolic geometry, with its narrow triangles and exponentially growing circles, doesn’t feel as if it fits the geometry of the space around us. And indeed, as we’ve already seen, so far most cosmological measurements seem to favor a flat universe.
+
+But we can’t rule out the possibility that we live in either a spherical or a hyperbolic world, because small pieces of both of these worlds look nearly flat. For example, small triangles in spherical geometry have angles that sum to only slightly more than 180 degrees, and small triangles in hyperbolic geometry have angles that sum to only slightly less than 180 degrees.
+That’s why early people thought the Earth was flat — on the scales they were able to observe, the curvature of the Earth was too minuscule to detect. The larger the spherical or hyperbolic shape, the flatter each small piece of it is, so if our universe is an extremely large spherical or hyperbolic shape, the part we can observe may be so close to being flat that its curvature can only be detected by uber-precise instruments we have yet to invent.
+AuthorsErica KlarreichContributing CorrespondentLucy Reading-IkkandaFormer Graphics EditorMarch 16, 2020View PDF/Print ModecosmologygeometrymathematicsmultimediaphysicsAll topicsShare this articleFacebookTwitterCopied!Copy link   EmailPocketRedditYcombinatorFlipboardNewsletterGet Quanta Magazine delivered to your inboxSubscribe nowRecent newslettersThe Quanta NewsletterGet highlights of the most important news delivered to your email inboxEmailSubscribeRecent newslettersComment on this articleQuanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional, misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can only accept comments written in English. 
+Show commentsNext articleCryptography Pioneer Seeks Secure Elections the Low-Tech WayQuanta HomepageFacebookTwitterYoutubeInstagramAbout QuantaArchiveContact UsTerms & ConditionsPrivacy PolicyAll Rights Reserved © 2024An editorially independent publication supported by the Simons Foundation.

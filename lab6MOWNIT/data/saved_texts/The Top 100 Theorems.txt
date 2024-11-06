@@ -1,0 +1,954 @@
+
+
+
+
+
+
+
+The Top 100 Theorems
+
+
+The Hundred Greatest Theorems
+
+
+
+The millenium seemed to spur a lot of people to compile "Top 100" or "Best 100" lists of many things, including movies (by the American Film Institute) and books (by the Modern Library). Mathematicians were not immune, and at a mathematics conference in July, 1999, Paul and Jack Abad presented their list of "The Hundred Greatest Theorems."  Their ranking is based on the following criteria:  "the place the theorem holds in the literature, the quality of the proof, and the unexpectedness of the result." 
+
+The list is of course as arbitrary as the movie and book list, but the
+theorems here are all certainly worthy results.  I hope to over time
+include links to the proofs of them all; for now, you'll have to content
+yourself with the list itself and the biographies of the principals.
+
+
+
+ 
+
+
+1
+
+The
+	Irrationality of the Square Root of 2
+
+Pythagoras and his school
+
+500 B.C.
+
+
+2
+
+Fundamental
+	Theorem of Algebra
+
+Karl Frederich Gauss
+
+1799
+
+
+3
+
+The
+Denumerability of the Rational Numbers
+
+Georg Cantor
+
+1867
+
+
+4
+
+Pythagorean
+Theorem
+
+Pythagoras and his school
+
+500 B.C.
+
+
+5
+
+Prime Number 
+Theorem
+
+Jacques
+Hadamard and Charles-Jean
+de la Vallee Poussin (separately) 
+1896
+
+
+6
+
+Godel�s Incompleteness Theorem
+
+Kurt Godel
+
+1931
+
+
+7
+
+Law of Quadratic Reciprocity
+
+Karl Frederich Gauss
+
+1801
+
+
+8
+
+The Impossibility of Trisecting the
+Angle and Doubling the
+Cube 
+Pierre Wantzel
+
+1837
+
+
+9
+
+The Area of a
+Circle
+
+Archimedes
+
+225 B.C.
+
+
+10
+
+Euler�s
+Generalization of Fermat�s Little Theorem
+(Fermat�s
+Little Theorem)
+
+Leonhard Euler
+(Pierre de Fermat)
+
+1760
+(1640)
+
+
+11
+
+The Infinitude
+of Primes
+
+Euclid
+
+300 B.C.
+
+
+12
+
+The
+Independence of the Parallel Postulate
+
+Karl Frederich Gauss, Janos Bolyai, Nikolai Lobachevsky, G.F. Bernhard Riemann collectively
+
+1870-1880
+
+
+13
+
+Polyhedron
+Formula
+
+Leonhard Euler
+
+1751
+
+
+14
+
+Euler�s Summation of 1 + (1/2)^2 + (1/3)^2 + � (the Basel Problem).
+
+Leonhard Euler
+
+1734
+
+
+15
+
+Fundamental
+Theorem of Integral Calculus
+
+Gottfried Wilhelm von Leibniz
+
+1686
+
+
+16
+
+Insolvability of General Higher Degree Equations
+
+Niels Henrik Abel
+
+1824
+
+
+17
+
+DeMoivre�s 
+Theorem
+
+Abraham DeMoivre
+
+1730
+
+
+18
+
+Liouville�s 
+Theorem and the Construction of Trancendental Numbers
+
+Joseph 
+Liouville 
+1844
+
+
+19
+
+Four 
+Squares Theorem
+
+Joseph-Louis Lagrange
+
+1770
+
+
+20
+
+Primes that Equal to the Sum of Two Squares (Genus theorem)
+
+?
+
+?
+
+
+21
+
+Green�s 
+Theorem
+
+George Green
+
+1828
+
+
+22
+
+The Non-Denumerability of the Continuum
+
+Georg Cantor
+
+1874
+
+
+23
+
+Formula for Pythagorean Triples
+
+Euclid
+
+300 B.C.
+
+
+24
+
+The Undecidability of the Continuum Hypothesis
+
+Paul Cohen
+
+1963
+
+
+25
+
+Schroeder-Bernstein Theorem
+
+?
+
+?
+
+
+26
+
+Leibnitz�s Series for Pi
+
+Gottfried Wilhelm von Leibniz
+
+1674
+
+
+27
+
+Sum of the Angles of a Triangle
+
+Euclid
+
+300 B.C.
+
+
+28
+
+Pascal�s Hexagon Theorem
+
+Blaise Pascal
+
+1640
+
+
+29
+
+Feuerbach�s Theorem
+
+Karl Wilhelm Feuerbach
+
+1822
+
+
+30
+
+The Ballot Problem
+
+J.L.F. Bertrand
+
+1887
+
+
+31
+
+Ramsey�s Theorem
+
+F.P. Ramsey
+
+1930
+
+
+32
+
+The Four Color Problem
+
+Kenneth Appel and Wolfgang Haken
+
+1976
+
+
+33
+
+Fermat�s Last Theorem
+
+Andrew Wiles
+
+1993
+
+
+34
+
+Divergence of the Harmonic Series
+
+Nicole Oresme
+
+1350
+
+
+35
+
+Taylor�s Theorem
+
+Brook Taylor
+
+1715
+
+
+36
+
+Brouwer Fixed Point Theorem
+
+L.E.J. Brouwer
+
+1910
+
+
+37
+
+The Solution of a Cubic
+
+Scipione Del Ferro
+
+1500
+
+
+38
+
+Arithmetic Mean/Geometric Mean (Proof by Backward Induction)
+(Polya Proof)
+
+Augustin-Louis Cauchy
+George Polya
+
+?
+?
+
+
+39
+
+Solutions to Pell�s Equation
+
+Leonhard Euler
+
+1759
+
+
+40
+
+Minkowski�s Fundamental Theorem
+
+Hermann Minkowski
+
+1896
+
+
+41
+
+Puiseux�s Theorem
+
+Victor Puiseux (based on a discovery of Isaac Newton of 1671)
+
+1850
+
+
+42
+
+Sum of the Reciprocals of the Triangular Numbers
+
+Gottfried Wilhelm von Leibniz
+
+1672
+
+
+43
+
+The Isoperimetric Theorem
+
+Jacob Steiner
+
+1838
+
+
+44
+
+The Binomial Theorem
+
+Isaac Newton
+
+1665
+
+
+45
+
+The Partition Theorem
+
+Leonhard Euler
+
+1740
+
+
+46
+
+The Solution of the General Quartic Equation
+
+Lodovico Ferrari
+
+1545
+
+
+47
+
+The Central Limit Theorem
+
+?
+
+?
+
+
+48
+
+Dirichlet�s Theorem
+
+Peter Lejune Dirichlet
+
+1837
+
+
+49
+
+The Cayley-Hamilton Thoerem
+
+Arthur Cayley
+
+1858
+
+
+50
+
+The Number of Platonic Solids
+
+Theaetetus
+
+400 B.C.
+
+
+51
+
+Wilson�s Theorem
+
+Joseph-Louis Lagrange
+
+1773
+
+
+52
+
+The Number of Subsets of a Set
+
+?
+
+?
+
+
+53
+
+Pi is Trancendental
+
+Ferdinand Lindemann
+
+1882
+
+
+54
+
+Konigsberg Bridges Problem
+
+Leonhard Euler
+
+1736
+
+
+55
+
+Product of Segments of Chords
+
+Euclid
+
+300 B.C.
+
+
+56
+
+The Hermite-Lindemann Transcendence Theorem
+
+Ferdinand Lindemann
+
+1882
+
+
+57
+
+Heron�s Formula
+
+Heron of Alexandria
+
+75
+
+
+58
+
+Formula for the Number of Combinations 
+
+?
+
+?
+
+
+59
+
+The Laws of Large Numbers
+
+<many>
+
+<many>
+
+
+60
+
+Bezout�s Theorem
+
+Etienne Bezout
+
+?
+
+
+61
+
+Theorem of Ceva
+
+Giovanni
+Ceva 
+1678
+
+
+62
+
+Fair Games Theorem
+
+?
+
+?
+
+
+63
+
+Cantor�s Theorem
+
+Georg Cantor
+
+1891
+
+
+64
+
+L�Hopital�s Rule
+
+John
+Bernoulli 
+1696?
+
+
+65
+
+Isosceles Triangle Theorem
+
+Euclid
+
+300 B.C.
+
+
+66
+
+Sum of a Geometric Series
+
+Archimedes
+
+260 B.C.?
+
+
+67
+
+e is Transcendental
+
+Charles Hermite
+
+1873
+
+
+68
+
+Sum of an arithmetic series
+
+Babylonians
+
+1700 B.C.
+
+
+69
+
+Greatest Common Divisor Algorithm
+
+Euclid
+
+300 B.C.
+
+
+70
+
+The Perfect Number Theorem
+
+Euclid
+
+300 B.C.
+
+
+71
+
+Order of a Subgroup
+
+Joseph-Louis Lagrange
+
+1802
+
+
+72
+
+Sylow�s Theorem
+
+Ludwig Sylow
+
+1870
+
+
+73
+
+Ascending or Descending Sequences
+
+Paul Erdos and G. Szekeres
+
+1935
+
+
+74
+
+The Principle of Mathematical Induction
+
+Levi
+ben Gerson 
+1321
+
+
+75
+
+The Mean Value Theorem
+
+Augustine-Louis Cauchy
+
+1823
+
+
+76
+
+Fourier Series
+
+Joseph Fourier
+
+1811
+
+
+77
+
+Sum of kth powers
+
+Jakob Bernouilli
+
+1713
+
+
+78
+
+The Cauchy-Schwarz Inequality
+
+Augustine-Louis Cauchy
+
+1814?
+
+
+79
+
+The Intermediate Value Theorem
+
+Augustine-Louis Cauchy
+
+1821
+
+
+80
+
+The Fundamental Theorem of Arithmetic
+
+Euclid
+
+300 B.C.
+
+
+81
+
+Divergence of the Prime Reciprocal Series
+
+Leonhard Euler
+
+1734?
+
+
+82
+
+Dissection of Cubes (J.E. Littlewood�s �elegant� proof)
+
+R.L. Brooks
+
+1940
+
+
+83
+
+The Friendship Theorem
+
+Paul Erdos, Alfred Renyi, Vera Sos
+
+1966
+
+
+84
+
+Morley�s Theorem
+
+Frank Morley
+
+1899
+
+
+85
+
+Divisibility by 3 Rule
+
+?
+
+?
+
+
+86
+
+Lebesgue Measure and Integration
+
+Henri Lebesgue
+
+1902
+
+
+87
+
+Desargues�s Theorem
+
+Gerard Desargues
+
+1650
+
+
+88
+
+Derangements Formula
+
+?
+
+?
+
+
+89
+
+The Factor and Remainder Theorems
+
+?
+
+?
+
+
+90
+
+Stirling�s Formula
+
+James Stirling
+
+1730
+
+
+91
+
+The Triangle Inequality
+
+?
+
+?
+
+
+92
+
+Pick�s
+Theorem
+
+George Pick
+
+1899
+
+
+93
+
+The Birthday Problem
+
+?
+
+?
+
+
+94
+
+The Law of Cosines
+
+Francois
+Viete 
+1579
+
+
+95
+
+Ptolemy�s Theorem
+
+Ptolemy
+
+120?
+
+
+96
+
+Principle of Inclusion/Exclusion
+
+?
+
+?
+
+
+97
+
+Cramer�s Rule
+
+Gabriel Cramer
+
+1750
+
+
+98
+
+Bertrand�s Postulate
+
+J.L.F. Bertrand
+
+1860?
+
+
+99
+
+Buffon Needle Problem
+
+Comte de Buffon
+
+1733
+
+
+100
+
+Descartes Rule of Signs
+
+Rene Descartes
+
+1637
+
+
+
+
+

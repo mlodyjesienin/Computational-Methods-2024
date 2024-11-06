@@ -1,0 +1,1055 @@
+
+
+
+
+How to study for ring theory? - Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+How to study for ring theory?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+8 years, 1 month ago
+
+
+Modified
+8 months ago
+
+
+Viewed
+                        2k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            11
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I want to study the theory of rings
+because it is used when I study representation theory.
+Here, a ring is not necessarily commutative and 
+doesn't necessarily has unity.
+I know that there are a few books discuss such ring. 
+They are
+
+Hungerford's "Algebra",
+McCoy's "The Theory of Rings", 
+Herstein's "Noncommutative Rings"
+
+(Many of the other books discuss ring with unity.)
+I have read 1 and 2.
+I can understand every sentence in the theorem and its proof.
+But I feel I don't really understand it.
+For example, I know that the ultimate theorem is the Wedderburn-Artin Theorem.
+But 
+
+I don't know the motivation of the dense ring, Jacobson density theorem, Jacobson radical, etc.
+I can't feel Hungerford says "modules play a crucial role in ring theory. (I guess that is because we only have left ideal sometime, so we can't factor it to get a quotient ring. But if we view it as a module, then we have a submodule and we can get a quotient module.)
+I feel the proof of some theorems are tricky and elaborate.
+
+In short, I just read and remember these definition and theorem like a robot.
+I can't see the whole picture of the theory of rings
+as I can do that in the first course of abstract algebra.
+My question is:
+should I read Hungerford's Algebra again and again until I can read between the lines
+OR
+I just remember the result of the theorem (Wedderburn-Artin).
+Then continue studying representation theory.
+
+
+
+
+ring-theoryrepresentation-theorynoncommutative-algebra
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            asked May 5, 2016 at 14:43
+
+
+
+
+
+
+bfhahabfhaha
+
+3,7612525 silver badges3939 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+8
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+I'd recommend reading a different text, which would give another perspective on the material. I learned some of this out of Dummit & Foote's Abstract Algebra, which is thorough and pretty readable.
+$\endgroup$
+
+– Travis Willse
+
+May 5, 2016 at 14:50
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Travis Thanks for your recommendation. But Dummit and Foote 's Abstract Algebra doesn't have a specific chapter to discuss the theory of rings. And Foote do some extra assumption. Like Jacobson radical is defined on a commutative ring. Foote separate the proof of the Wedderburn-Artin Theorem as ten exercises. In fact, I just read Hungerford's Algebra when I get stuck in the Wedderburn-Artin Theorem in Foote's Abstract Algebra.
+$\endgroup$
+
+– bfhaha
+
+May 5, 2016 at 15:01
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+I think a bit of Commutative Algebra can help. Some pretty examples, from matrices principally, are usefull too.
+$\endgroup$
+
+– Hideyuki Kabayakawa
+
+May 5, 2016 at 15:02
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Have you done some exercises?
+$\endgroup$
+
+– B. Pasternak
+
+May 5, 2016 at 15:29
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+It sounds like it's not the right text for your purposes then, but I'm not sure what you mean by "[it] doesn't have a specific chapter to discuss the theory of rings"---all of Part II (so, three chapters) are devoted to ring theory.
+$\endgroup$
+
+– Travis Willse
+
+May 5, 2016 at 15:46
+
+
+
+
+
+
+
+ | 
+Show 3 more comments
+
+
+
+
+
+
+
+
+
+
+                                        1 Answer
+                                    1
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            12
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Motivation for the Jacobson radical
+Well, it sort of proves its own usefulness by being at the heart of so many algebraic theorems. But if you insist, there are a few good reasons that it is interesting.
+For one thing, it is the largest ideal such that R/J has “the same simple right(/left) modules.” Looked at another way, it is the set of elements that don’t tell us anything about the simple modules (since they annihilate all simple modules.)
+Motivation of the Jacobson density theorem
+The Artin-Wedderburn theorem classifies which rings are like vector spaces in that they split into direct sums of simple modules. In particular, it says that simple Artinian rings are rings of linear transformations of finite dimensional vector spaces over division rings. What could be more natural? This type of ring is studied by undergraduates in linear algebra.
+The Jacobson density theorem extends this result on simple Artinian rings to a larger class of rings called right(/left) primitive rings. A right primitive ring is a ring with a simple module with trivial annihilator. Rings of linear transformations of (right)-vector spaces over division rings (any dimension) are all right primitive, but this actually is a proper subset of all such rings. All of the rings that are “dense” in such rings are also right primitive.
+The adjective “dense” is fitting because it is used in the topological sense. $R$ being dense means that (under a particular topology on the ring of linear transformations of a vector space over a division ring) that every nonempty open set contains an element of your ring $R$. In particular, given any linear transformation, there is a sequence of elements of your ring approximating that transformation.
+Why do modules play an important role?
+For you, approaching from the angle of representation theory, the most convincing thing might be that the F-representations of a group G are in one-to-one correspondence with the right $F[G]$ modules.
+Really, there are lots of other reasons that modules are informative about their rings. That is basically the premise of homological algebra. You might check out Anderson and Fuller’s Rings and categories of modules
+I feel the proof of some theorems are tricky and elaborate
+Where is the rule that the theorems are simple and straightforward? What do you imagine they should be? Of course, this illusion of complexity in any field usually dissipates with growing exposure to the field.
+If you really want to understand a particular theorem better, just find it in as many books as possible and compare the proofs and expositions. Usually this makes things come together faster. You should really check out Jacobson’s Structure of rings and Basic abstract algebra I+II since he was a pretty good expositor on structural theorems.
+I can’t see the big picture of ring theory
+Well, very few people can say that they understand the entirety of their field of mathematics. Most fields are just too large now. The classical structure theorems that you have already mentioned are nice examples (but hardly the pinnacle) of structural ring theory. If you want some nice books on general ring theory check out Lam’s First course in noncommutative rings or Faith’s Rings and things.
+Should I read Hungerford again? Or just continue studying representation theory?
+Whether or not you’re satisfied with the ring theory before you move on depends on your temperament and needs. Personally speaking I haven’t bothered referring to Hungerford since my qual exams. I never found Hersteins’ book useful, and I haven’t had the pleasure of coming in contact with McCoy’s book yet. On top of the books I’ve already mentioned, you might like Carl Faith’s or Louis Rowen’s volumes on ring theory as general references. If you check out the content on the Artin-Wedderburn theorem and the theory of right primitive rings in all the books I mentioned, I think you’d feel much better about the theorems, but spend your time as you see fit, of course.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited May 7, 2016 at 23:07
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered May 7, 2016 at 22:55
+
+
+
+
+
+
+rschwiebrschwieb
+
+155k1515 gold badges171171 silver badges411411 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+                                    You must log in to answer this question.
+                                
+
+
+Not the answer you're looking for? Browse other questions tagged ring-theoryrepresentation-theorynoncommutative-algebra.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+12
+
+Importance of the Artin-Wedderburn theorem
+
+
+
+22
+
+Ties between Lie algebras and ring theory
+
+
+
+9
+
+Books on Rings without Identity
+
+
+
+2
+
+$\mathfrak{u} \cdot R =R$ for every left ideal $\mathfrak{u}$ in a simple ring $R$
+
+
+
+2
+
+Book for semisimple rings.
+
+
+
+4
+
+When is a module finitely generated over its endomorphism ring?
+
+
+
+14
+
+Prerequisites for representation theory
+
+
+
+6
+
+Examples of interesting rings to study during an undergraduate course in non-commutative rings.
+
+
+
+1
+
+Wedderburn Ring: Definition
+
+
+
+0
+
+If R is semisimple left Artinian, then R is its own quotient ring.
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Can secondary dominant have 2 tritones with addition of b9?
+                
+
+
+
+                    Can I have a vacation to Canada, while living in France for 3 months?
+                
+
+
+
+                    The group monad
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    PolynomialQ behaviour
+                
+
+
+
+                    US(Florida) - Can I post publicly against the grift from my landlord
+                
+
+
+
+                    What is the difference between Hof and Bauernhof?
+                
+
+
+
+                    Commutativity of the wreath product
+                
+
+
+
+                    Should I ask for authorship or ignore?
+                
+
+
+
+                    Starlink Satellite Orbits
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    XDG environment variables on MacOS
+                
+
+
+
+                    How to cut a large piece of marble 1” thick
+                
+
+
+
+                    Saint Augustine letter to Nebridio
+                
+
+
+
+                    What's the difference between cryogenic and Liquid propellant?
+                
+
+
+
+                    Geometry Nodes - Fill Quadrilaterals That Intersect
+                
+
+
+
+                    Non-universal and non classically simulatable gate set?
+                
+
+
+
+                    can you roll your own .iso for USB stick?
+                
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    What happens to the souls of non-evil creatures when they reach their aligned outer plane?
+                
+
+
+
+                    How could the switch from steam to diesel locomotives be delayed 20-30 years?
+                
+
+
+
+                    What terminal did David connect to his IMSAI 8080?
+                
+
+
+
+                    Create repeating geometry across a face
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

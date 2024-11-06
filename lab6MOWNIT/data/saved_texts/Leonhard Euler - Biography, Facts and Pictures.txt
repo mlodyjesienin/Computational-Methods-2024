@@ -1,0 +1,344 @@
+
+
+
+
+
+Leonhard Euler - Biography, Facts and Pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Famous ScientistsHome
+Top 100 Scientists
+List of Scientists
+Blog
+Leonhard Euler
+
+Lived 1707 – 1783.
+Leonhard Euler was one of the greatest mathematicians in history: not only did he produce outstanding mathematics, he produced it at an outrageous rate, publishing more than any other single mathematician before or after him. If quality of output multiplied by quantity of output is equal to greatness, then Euler is the greatest mathematician ever. 
+His work encompassed all of mathematics, nearly all of physics, and a significant part of astronomy. An astonishing fraction of the total research in mathematics and the physical sciences carried out between 1730 and 1780 was solely Euler’s work. Although he went completely blind at age 64, his remarkable mathematical flow continued without interruption – in fact, it increased.
+
+Advertisements
+
+
+Beginnings
+Leonhard Euler (pronounced “oiler”) was born on April 15, 1707 in the city of Basel, Switzerland. His mother was Marguerite Brucker and his father was Paul Euler. Leonhard was the eldest of their four children.
+Leonhard’s mother was a pastor’s daughter. His father was a pastor in a Calvinist church. Leonhard’s father had studied some mathematics at university while taking his theology degree, and was a friend of the Bernoulli family, famed for their mathematical prowess. 
+Leonhard grew up in the town of Riehen, about 5 miles (7 km) from Basel, very close to Switzerland’s borders with both France and Germany. His school in Riehen was not especially good, so his father gave him extra mathematics lessons – Leonhard was interested enough in the subject to get his own mathematics books to work through.
+Like Carl Friedrich Gauss, born 70 years after him, Leonhard showed unusual talents in mental arithmetic, performing difficult calculations in his head. He also had a phenomenal memory: when prompted, he could readily recite long poems, and his knowledge of facts, and scientific and mathematical data was encyclopedic.
+Becoming a Mathematician
+At age 13, in 1720, Leonhard enrolled at the University of Basel, graduating three years later as a Master of Philosophy. His thesis analyzed the philosophical works of two mathematical geniuses, Isaac Newton and René Descartes.
+His father hoped Leonhard would follow in his footsteps to become a Calvinist pastor, but private lessons with Johann Bernoulli revealed Leonhard was blessed with astonishing mathematical talents. Bernoulli was probably the world’s greatest practicing mathematician at the time. He was also a good friend of Leonhard’s father, and the two discussed Leonhard’s remarkable aptitude for mathematics. The result was that Leonhard was allowed to spend three further years studying mathematics under Bernoulli’s guidance. So Leonhard followed a mathematical rather than a spiritual calling. Nevertheless, he remained devoutly religious throughout his life.
+The Russian Academy
+Leonhard Euler tried hard for a professorship at the University of Basel, but was unsuccessful. 
+On May 17, 1727, he arrived in Russia’s capital city Saint Petersburg, where his friend Daniel Bernoulli was employed as a mathematician at the Imperial Russian Academy of Sciences. 
+Daniel’s brother Nicolaus had died of fever in Russia the previous year, and Daniel was homesick, wishing he had Swiss colleagues. Johann Bernoulli, Daniel’s father, sent Euler to Saint Petersburg bearing gifts – tea, coffee, and brandy that Daniel had been longing for. 
+With an unusual talent for learning languages, Euler quickly mastered Russian. Beginning work as a physiology researcher, he was soon working in the more appropriate field of physics, becoming a professor of physics in 1730.
+In 1733, Bernoulli returned to Switzerland. Euler, now age 26, replaced him as senior chair of mathematics. Soon Euler also became head of Geography.
+“I was given the professorship of Higher Mathematics, and soon after the senate ordered me to take over the Department of Geography.”
+Leonhard Euler
+
+
+ 
+Geography might have been at least partly responsible for Euler’s eyesight problems, which began when he was 31. He strained his eyes badly working on mapping Russia, and in 1740 he lost his right eye.
+In Saint Petersburg, Euler became great friends with Christian Goldbach, famous for the still unproven Goldbach Conjecture, which says that every even number greater than 2 can be expressed as the sum of two prime numbers.
+Leonhard Euler, Mathematics, and Science
+Euler worked brilliantly in all branches of the mathematical and the physical sciences. He authored over 800 papers and books in these fields. In fact, his work adds up to an impressive fraction of all the scientific research carried out in the 1700s. Clifford Truesdell, a physicist and historian of science observed:
+“Approximately one-third of the entire corpus of research on mathematics and mathematical physics and engineering mechanics published in the last three-quarters of the eighteenth century is by him.”
+Clifford Truesdell
+An Idiot’s Fugitive Essays on Science, 1984
+
+ 
+It’s clear, therefore, that any brief summary such as this one can present only a few drops from the great ocean of Euler’s achievements.
+The Basel Problem
+Euler’s first really big discovery in mathematics came in 1735, when he solved the Basel Problem, which had defeated the efforts of the best mathematicians for decades. The problem was to find the exact value of summing the reciprocals of squared whole numbers to infinity. (Mathematicians today would describe the problem as finding the zeta function of 2.)
+Each successive term in the series is smaller than its predecessor and mathematicians already knew the sum would converge to a particular value, but nobody had been able to find that value exactly. 
+
+Euler solved the Basel Problem by proving that when the number of terms grows infinite the series converges to equal:
+
+This discovery made Euler a star in the mathematical world.
+Mechanica
+Euler took his next step to superstardom in 1737, when he published Mechanica, a great leap forward in the mathematics of movement, made possible by Euler’s own innovations in mathematical analysis. Euler would have described analysis as the mathematics of the infinite and the infinitesimal. Today we could describe analysis roughly and somewhat incompletely as sophisticated calculus dealing with limits and continuity. 
+In Mechanica Euler utilized analysis to express the discoveries Isaac Newton had presented 50 years earlier in Principia in a more mathematically refined and useful way.
+Euler’s Laws of Motion
+After Mechanica, Euler continued to work on the laws of motion. Whereas Newton’s laws applied to point-sized particles, Euler’s derived new laws that could be applied to rigid bodies with real dimensions, devised the principles of linear momentum and angular momentum, and derived the familiar differential equations of motion for rigid bodies, which today are described as Newtonian equations.
+Analysis of the Infinite
+In 1748, Euler released the book Introductio in analysin infinitorum, which, like most of his output, he wrote in simple and elegant Latin. Its title in English is Introduction to the Analysis of the Infinite. It is probably the greatest modern textbook in all of mathematics. It deals in great detail with analysis, studying mathematical functions through infinite processes, particularly infinite series, which were something of a specialty of Euler’s.
+Foundations of Differential Calculus
+Euler made a great number of other contributions to calculus, the mathematics that reigns supreme in the physical sciences, reaching a pinnacle with Institutiones calculi differentialis, or Foundations of Differential Calculus, published in 1755, presenting among other things differential calculus of functions. Euler’s book was the basis of all future work in the field. 
+The Language of Mathematics
+Euler introduced or popularized many of the mathematical terms we are familiar with today. 
+
+He popularized using the Greek letter π for the mathematical constant given by the ratio of a circle’s circumference to its diameter, which to six significant figures is 3.14159
+He assigned the letter e – nowadays often called Euler’s number – to represent the vital mathematical constant whose value to six significant figures is 2.71828 
+He introduced the notation f(x) to mean function of x
+He introduced the letter i to represent √-1
+He discovered the equality many mathematicians believe is the most beautiful ever discovered, the Euler Identity, which relates the five most important numbers in mathematics – three of which Euler named or popularized the name of:
+
+The Euler Identity arose as a specific example of Euler’s success in defining the exponential function for complex numbers and his discovery of its relationship with the trigonometric functions.
+
+
+
+Euler’s Polyhedral Formula
+Euler’s Polyhedral Formula, one of the first great discoveries in topology, comes second only to the Euler Identity for mathematical beauty. The formula applies to convex polyhedrons, which are shapes with straight edges and flat faces. For a shape with V vertices, E edges, and F faces, the formula says:
+
+For example, a cube has 8 vertices, 12 edges and 6 faces. Of course, when you put these numbers into Euler’s formula you get the expected answer of 2.
+Euler’s formula works not just for cubes, but for all convex polyhedrons.
+Examples of convex polyhedrons
+Popularizer of Science
+Euler did not write only for the intellectual elite. His two-volume work Letters to a German Princess, On Different Subjects in Physics and Philosophy was one of the first popular science books. Published in 1768 and 1774, it was read throughout Europe and North America. The book was a compilation of more than 200 letters Euler sent between 1760-1762 to Friederike Charlotte, when he tutored her on behalf of her uncle, Frederick the Great. 
+Euler addressed many of the common questions about the world he heard asked, such as: 
+
+How fast does sound travel?
+Is air held by gravity? 
+Why does it get cold on high mountains?
+
+A religious man, he also considered philosophical problems, such as:
+
+The real destination of man
+Moral and physical evil
+The union between the soul and the body
+
+Some Personal Details
+Marriage and Family
+In January 1734, after becoming senior professor of mathematics at the Russian Academy of Sciences, Euler married Katharina Gsell, whose father was a Swiss artist working at the Academy. Only five of their thirteen children survived their infant years. Euler loved spending time with his children, and found some of his best ideas came to him while cradling a baby in his arms. Every evening he would spend time with his family reading and discussing the Bible.
+Berlin, Frederick the (not so) Great, and Russian Respect
+After 14 years in Saint Petersburg, Euler grew worried about the growing political turmoil in Russia and the sheer number of people being executed. It seemed to him that anyone in Russia who said anything could be hanged for it. 
+He was glad to accept a generous offer from Frederick the Great of Prussia to move to his capital city, Berlin, to work in its Academy of Sciences. In 1741, Euler began the first of what would be 25 years in Berlin.
+Although Euler was undoubtedly a mathematical superstar, his quiet, unassuming demeanor began to annoy Frederick, who expected people at his Academy to engage in witty, sparkling intellectual conversations. 
+On the credit side, Frederick was a significant champion of Enlightenment values. He was also, however, something of a poseur, who refused to speak German, communicating exclusively in French. He became great friends with the French philosopher Voltaire – they fell out eventually – and the pair would mock the scholarly Euler for his simple, pious ways. Frederick taunted Euler for having lost an eye, calling him ‘Cyclops.’ 
+In contrast, even though Euler had abandoned Saint Petersburg, the Russians treated him with the greatest respect. They continued to communicate with him and pay him a salary. Euler used the salary to buy books for the Russian Academy. 
+In 1760, the Russian army invaded Prussia and entered Berlin. Russian soldiers pillaged Euler’s country estate, where his mother, wife, sister-in-law, and his children lived. When he learned of this, the Russian commander personally paid Euler for the damage. Later, Empress Elizabeth of Russia sent Euler a very large sum of money as further compensation for the trouble he had been put to.
+Saint Petersburg again and Blindness
+In 1766, the Saint Petersburg Academy invited Euler to return, offering him an enormous salary and offering his sons jobs too. The political situation in Russia was now secure, so age 59, Euler gladly left Berlin and returned to Russia.
+Sadly, his second and final spell there was difficult. 
+In 1771, he went completely blind, but he was undaunted. Assisted by his: 
+
+phenomenal memory, 
+mathematical inventiveness,
+ability to process complex mathematical procedures in his head, and 
+his mathematician son Johann, who transcribed his words, 
+
+Euler’s mathematical output actually increased!
+However, to add to his woes in 1771, his home burned to the ground, and the blind Euler was saved by a servant carrying him to safety.
+The End
+Euler’s wife Katharina died in late 1773. In 1776, Euler married Katharina’s sister-in-law Salome Abigail Gsell. 
+Leonhard Euler died, age 76, from a brain hemorrhage on September 18, 1783 in Saint Petersburg, Russia. He was buried beside Katharina at the Smolensk Lutheran Cemetery on Dekabristov Island, close to Saint Petersburg. He continued working productively to the end.
+He was survived by Salome and three sons from his marriage to Katharina. His eldest son Johann became an illustrious astronomer and mathematician, his second son Karl became a renowned physician, and his third son Christoph became a military officer and amateur astronomer. 
+
+Advertisements
+
+
+Author of this page: The Doc
+Images digitally enhanced and colorized by this website. © All rights reserved. 
+Cite this Page
+Please use the following MLA compliant citation:
+
+"Leonhard Euler." Famous Scientists. famousscientists.org. 20 Jan. 2017. Web.  
+<www.famousscientists.org/leonhard-euler/>.
+Published by FamousScientists.org
+Further Reading
+Alfred Hooper
+Makers of Mathematics
+Faber and Faber Ltd., 1961
+Clifford Truesdell
+An Idiot’s Fugitive Essays on Science: Methods, Criticism, Training, Circumstances
+Springer-Verlag, 1984
+C. Edward Sandifer
+The Early Mathematics of Leonhard Euler
+MAA, 2007 
+Creative Commons
+Image of Clifford Truesdell is licensed under the Creative Commons Attribution-Share Alike 2.0 Germany license by Mathematisches Forschungsinstitut Oberwolfach.
+More from FamousScientists.org:Daniel BernoulliJoseph-Louis LagrangeCarl Friedrich GaussIsaac Newton Advertisements
+
+
+
+Search Famous Scientists
+
+
+
+
+
+
+
+
+
+
+
+Scientist of the Week
+
+Linda Buck: Discovered how we smell things
+
+
+
+Recent Scientists of the Week
+
+Jan Ingenhousz: Discovered photosynthesis
+Barry Marshall: Overturned the Medical Establishment
+Linus Pauling: Maverick Giant of Chemistry
+William Röntgen: The Discovery of X-rays
+Howard Florey: Brought penicillin to the world
+Henrietta Leavitt: The key to the size of the universe
+Archimedes: A mind beyond his time
+Stanley Milgram: The infamous Obedience Experiments
+C. V. Raman: Color change allows harm-free health check of living cells
+Rosalind Franklin: Shape-shifting DNA
+Robert Boyle: A new science is born: chemistry
+Carl Woese: Rewrote Earth’s history of life
+Alfred Wegener: Shunned after he discovered that continents move
+Henri Poincaré: Is the solar system stable?
+Polly Matzinger: The dog whisperer who rewrote our immune system’s rules
+Otto Guericke: In the 1600s found that space is a vacuum 
+Alister Hardy: Aquatic ape theory: our species evolved in water 
+Elizebeth Friedman: Became the world’s most famous codebreaker 
+Evangelista Torricelli: We live at the bottom of a tremendously heavy sea of air 
+Eudoxus: The first mathematical model of the universe 
+James Black: Revolutionized drug design with the Beta-blocker
+Inge Lehmann: Discovered our planet’s solid inner core
+Chen-Ning Yang: Shattered a fundamental belief of physicists
+Robert Hooke: Unveiled the spectacular microscopic world
+Barbara McClintock: A Nobel Prize after years of rejection
+Pythagoras: The cult of numbers and the need for proof
+J. J. Thomson: Discovered the electron 
+Johannes Kepler: Solved the mystery of the planets 
+Dmitri Mendeleev: Discovered 8 new chemical elements by thinking 
+Maurice Hilleman: Record breaking inventor of over 40 vaccines 
+Marie Curie: Won – uniquely – both the chemistry & physics Nobel Prizes 
+Jacques Cousteau: Marine pioneer, inventor, Oscar winner 
+Niels Bohr: Founded the bizarre science of quantum mechanics 
+Srinivasa Ramanujan: Untrained genius of mathematics
+Milutin Milankovic: Proved Earth’s climate is regulated by its orbit
+Antoine Lavoisier: The giant of chemistry who was executed
+Emmy Noether: The greatest of female mathematicians, she unlocked a secret of the universe
+Wilder Penfield: Pioneer of brain surgery; mapped the brain’s functions
+Charles Nicolle: Eradicated typhus epidemics
+Samuel Morse: The telegraph and Morse code
+Jane Goodall: Major discoveries in chimpanzee behavior
+John Philoponus: 6th century anticipation of Galileo and Newton
+William Perkin: Youthful curiosity brought the color purple to all
+Democritus: Atomic theory BC and a universe of diverse inhabited worlds
+Susumu Tonegawa: Discovered how our bodies make millions of different antibodies
+Cecilia Payne: Discovered that stars are almost entirely hydrogen and helium
+
+
+
+Top 100 Scientists
+
+Our Top 100 Scientists
+
+
+
+Our Most Popular Scientists
+
+Astronomers
+Biologists & Health Scientists
+Chemists
+Geologists and Paleontologists
+Mathematicians
+Physicists
+Scientists in Ancient Times
+
+
+List of Scientists
+
+Alphabetical List
+
+
+
+
+
+Recent Posts
+
+
+Perfect Numbers and our Tiny Universe
+
+
+What Happens when the Universe chooses its own Units?
+
+
+Hipparchus and the 2000 Year-Old Clue
+
+
+Darwin Pleaded for Cheaper Origin of Species
+
+
+You Will Die For Showing I’m Wrong!
+
+
+Getting Through Hard Times – The Triumph of Stoic Philosophy
+
+
+Johannes Kepler, God, and the Solar System
+
+
+Charles Babbage and the Vengeance of Organ-Grinders
+
+
+Howard Robertson – the Man who Proved Einstein Wrong
+
+
+Susskind, Alice, and Wave-Particle Gullibility
+
+
+
+ 
+
+
+
+
+
+Alphabetical List of Scientists
+Louis Agassiz | Maria Gaetana Agnesi | Al-BattaniAbu Nasr Al-Farabi | Alhazen | Jim Al-Khalili | Muhammad ibn Musa al-Khwarizmi | Mihailo Petrovic Alas | Angel Alcala | Salim Ali | Luis Alvarez | Andre Marie Ampère | Anaximander | Carl Anderson | Mary Anning | Virginia Apgar | Archimedes | Agnes Arber | Aristarchus | Aristotle | Svante Arrhenius | Oswald Avery | Amedeo Avogadro | Avicenna
+Charles Babbage | Francis Bacon | Alexander Bain | John Logie Baird | Joseph Banks | Ramon Barba | John Bardeen | Charles Barkla | Ibn Battuta | William Bayliss | George Beadle | Arnold Orville Beckman | Henri Becquerel | Emil Adolf Behring | Alexander Graham Bell | Emile Berliner | Claude Bernard | Timothy John Berners-Lee | Daniel Bernoulli | Jacob Berzelius | Henry Bessemer | Hans Bethe | Homi Jehangir Bhabha | Alfred Binet | Clarence Birdseye | Kristian Birkeland | James Black | Elizabeth Blackwell | Alfred Blalock | Katharine Burr Blodgett | Franz Boas | David Bohm | Aage Bohr | Niels Bohr | Ludwig Boltzmann | Max Born | Carl Bosch | Robert Bosch | Jagadish Chandra Bose | Satyendra Nath Bose | Walther Wilhelm Georg Bothe | Robert Boyle | Lawrence Bragg | Tycho Brahe | Brahmagupta | Hennig Brand | Georg Brandt | Wernher Von Braun | J Harlen Bretz | Louis de Broglie | Alexander Brongniart | Robert Brown | Michael E. Brown | Lester R. Brown | Eduard Buchner | Linda Buck | William Buckland | Georges-Louis Leclerc, Comte de Buffon | Robert Bunsen | Luther Burbank | Jocelyn Bell Burnell | Macfarlane Burnet | Thomas Burnet
+Benjamin Cabrera | Santiago Ramon y Cajal | Rachel Carson | George Washington Carver | Henry Cavendish | Anders Celsius | James Chadwick | Subrahmanyan Chandrasekhar | Erwin Chargaff | Noam Chomsky | Steven Chu | Leland Clark | John Cockcroft | Arthur Compton | Nicolaus Copernicus | Gerty Theresa Cori | Charles-Augustin de Coulomb | Jacques Cousteau | Brian Cox | Francis Crick | James Croll | Nicholas Culpeper | Marie Curie | Pierre Curie | Georges Cuvier | Adalbert Czerny
+Gottlieb Daimler | John Dalton | James Dwight Dana | Charles Darwin | Humphry Davy | Peter Debye | Max Delbruck | Jean Andre Deluc | Democritus | René Descartes | Rudolf Christian Karl Diesel | Diophantus | Paul Dirac | Prokop Divis | Theodosius Dobzhansky | Frank Drake | K. Eric Drexler
+John Eccles | Arthur Eddington | Thomas Edison | Paul Ehrlich | Albert Einstein | Gertrude Elion | Empedocles | Eratosthenes | Euclid | Eudoxus | Leonhard Euler
+Michael Faraday | Pierre de Fermat | Enrico Fermi | Richard Feynman | Fibonacci – Leonardo of Pisa | Emil Fischer | Ronald Fisher | Alexander Fleming | John Ambrose Fleming | Howard Florey | Henry Ford | Lee De Forest | Dian Fossey | Leon Foucault | Benjamin Franklin | Rosalind Franklin | Sigmund Freud | Elizebeth Smith Friedman
+Galen | Galileo Galilei | Francis Galton | Luigi Galvani | George Gamow | Martin Gardner | Carl Friedrich Gauss | Murray Gell-Mann | Sophie Germain | Willard Gibbs | William Gilbert | Sheldon Lee Glashow | Robert Goddard | Maria Goeppert-Mayer | Thomas Gold | Jane Goodall | Stephen Jay Gould | Otto von Guericke
+Fritz Haber | Ernst Haeckel | Otto Hahn | Albrecht von Haller | Edmund Halley | Alister Hardy | Thomas Harriot | William Harvey | Stephen Hawking | Otto Haxel | Werner Heisenberg | Hermann von Helmholtz | Jan Baptist von Helmont | Joseph Henry | Caroline Herschel | John Herschel | William Herschel | Gustav Ludwig Hertz | Heinrich Hertz | Karl F. Herzfeld | George de Hevesy | Antony Hewish | David Hilbert | Maurice Hilleman | Hipparchus | Hippocrates | Shintaro Hirase | Dorothy Hodgkin | Robert Hooke | Frederick Gowland Hopkins | William Hopkins | Grace Murray Hopper | Frank Hornby | Jack Horner | Bernardo Houssay | Fred Hoyle | Edwin Hubble | Alexander von Humboldt | Zora Neale Hurston | James Hutton | Christiaan Huygens | Hypatia
+Ernesto Illy | Jan Ingenhousz | Ernst Ising | Keisuke Ito
+Mae Carol Jemison | Edward Jenner | J. Hans D. Jensen | Irene Joliot-Curie | James Prescott Joule | Percy Lavon Julian
+Michio Kaku | Heike Kamerlingh Onnes | Pyotr Kapitsa | Friedrich August Kekulé | Frances Kelsey | Pearl Kendrick | Johannes Kepler | Abdul Qadeer Khan | Omar Khayyam | Alfred Kinsey | Gustav Kirchoff | Martin Klaproth | Robert Koch | Emil Kraepelin | Thomas Kuhn | Stephanie Kwolek
+Joseph-Louis Lagrange | Jean-Baptiste Lamarck | Hedy Lamarr | Edwin Herbert Land | Karl Landsteiner | Pierre-Simon Laplace | Max von Laue | Antoine Lavoisier | Ernest Lawrence | Henrietta Leavitt | Antonie van Leeuwenhoek | Inge Lehmann | Gottfried Leibniz | Georges Lemaître | Leonardo da Vinci | Niccolo Leoniceno | Aldo Leopold | Rita Levi-Montalcini | Claude Levi-Strauss | Willard Frank Libby | Justus von Liebig | Carolus Linnaeus | Joseph Lister | John Locke | Hendrik Antoon Lorentz | Konrad Lorenz | Ada Lovelace | Percival Lowell | Lucretius | Charles Lyell | Trofim Lysenko
+Ernst Mach | Marcello Malpighi | Jane Marcet | Guglielmo Marconi | Lynn Margulis | Barry Marshall | Polly Matzinger | Matthew Maury | James Clerk Maxwell | Ernst Mayr | Barbara McClintock | Lise Meitner | Gregor Mendel | Dmitri Mendeleev | Franz Mesmer | Antonio Meucci | John Michell | Albert Abraham Michelson | Thomas Midgeley Jr. | Milutin Milankovic | Maria Mitchell | Mario Molina | Thomas Hunt Morgan | Samuel Morse | Henry Moseley
+Ukichiro Nakaya | John Napier | Giulio Natta | John Needham | John von Neumann | Thomas Newcomen | Isaac Newton | Charles Nicolle | Florence Nightingale | Tim Noakes | Alfred Nobel | Emmy Noether | Christiane Nusslein-Volhard | Bill Nye
+Hans Christian Oersted | Georg Ohm | J. Robert Oppenheimer | Wilhelm Ostwald | William Oughtred
+Blaise Pascal | Louis Pasteur | Wolfgang Ernst Pauli | Linus Pauling | Randy Pausch | Ivan Pavlov | Cecilia Payne-Gaposchkin | Wilder Penfield | Marguerite Perey | William Perkin | John Philoponus | Jean Piaget | Philippe Pinel | Max Planck | Pliny the Elder | Henri Poincaré | Karl Popper | Beatrix Potter | Joseph Priestley | Proclus | Claudius Ptolemy | Pythagoras
+Adolphe Quetelet | Harriet Quimby | Thabit ibn Qurra
+C. V. Raman | Srinivasa Ramanujan | William Ramsay | John Ray | Prafulla Chandra Ray | Francesco Redi | Sally Ride | Bernhard Riemann | Wilhelm Röntgen | Hermann Rorschach | Ronald Ross | Ibn Rushd | Ernest Rutherford
+Carl Sagan | Abdus Salam | Jonas Salk | Frederick Sanger | Alberto Santos-Dumont | Walter Schottky | Erwin Schrödinger | Theodor Schwann | Glenn Seaborg | Hans Selye | Charles Sherrington | Gene Shoemaker | Ernst Werner von Siemens | George Gaylord Simpson | B. F. Skinner | William Smith | Frederick Soddy | Mary Somerville | Arnold Sommerfeld | Hermann Staudinger | Nicolas Steno | Nettie Stevens | William John Swainson | Leo Szilard
+Niccolo Tartaglia | Edward Teller | Nikola Tesla | Thales of Miletus | Theon of Alexandria | Benjamin Thompson | J. J. Thomson | William Thomson | Henry David Thoreau | Kip S. Thorne | Clyde Tombaugh | Susumu Tonegawa | Evangelista Torricelli | Charles Townes | Youyou Tu | Alan Turing | Neil deGrasse Tyson
+Harold Urey
+Craig Venter | Vladimir Vernadsky | Andreas Vesalius | Rudolf Virchow | Artturi Virtanen | Alessandro Volta
+Selman Waksman | George Wald | Alfred Russel Wallace | John Wallis | Ernest Walton | James Watson | James Watt | Alfred Wegener | John Archibald Wheeler | Maurice Wilkins | Thomas Willis | E. O. Wilson | Sven Wingqvist | Sergei Winogradsky | Carl Woese | Friedrich Wöhler | Wilbur and Orville Wright | Wilhelm Wundt
+Chen-Ning Yang
+Ahmed Zewail
+
+
+
+Return to top of page
+
+ Famous Scientists - Privacy - Contact - About - Content & Imagery © 2024  
+
+
+

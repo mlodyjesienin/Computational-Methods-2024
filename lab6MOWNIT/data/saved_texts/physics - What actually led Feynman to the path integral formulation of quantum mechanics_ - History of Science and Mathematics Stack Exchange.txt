@@ -1,0 +1,1058 @@
+
+
+
+
+physics - What actually led Feynman to the path integral formulation of quantum mechanics? - History of Science and Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            History of Science and Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            History of Science and Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+History of Science and Mathematics            
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What actually led Feynman to the path integral formulation of quantum mechanics?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+5 years, 2 months ago
+
+
+Modified
+4 years ago
+
+
+Viewed
+                        1k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+It is commonly known that Feynman's path integral was inspired by Dirac's observation that the kernel is proportional to $\exp{iS/\hbar}$. It was Feynman, however, who had the idea of expressing the kernel as the integral of such an expression over all possible paths.
+Is it known what led Feynman to try out this idea of an integral over all paths? He provides motivation from a probabilistic understanding of quantum mechanics in "Non-relativistic Quantum Mechanics" and Quantum Mechanics and Path Integrals, but is this motivation what actually led him to try out the idea of the path integral and discover that up to suitable normalization, it recovered the correct expression for the kernel and the Schrodinger equation?
+Moreover, why was Dirac's observation of the proportionality of the final answer to $\exp{iS/\hbar}$ insufficient as the basis for an alternative formulation of quantum mechanics.
+
+
+
+
+physicsdiscoveriesquantum-mechanicsphysicistsfeynman
+
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 6, 2020 at 12:59
+
+
+
+
+
+
+J.G.
+
+1,72099 silver badges1818 bronze badges
+
+
+
+
+
+
+
+
+            asked Apr 13, 2019 at 17:08
+
+
+
+
+
+
+seeker_after_truthseeker_after_truth
+
+25511 silver badge44 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Feynman was certainly inspired by the variational principles of classical mechanics.
+$\endgroup$
+
+– Alexandre Eremenko
+
+Apr 13, 2019 at 23:03
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        1 Answer
+                                    1
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            10
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+It was Dirac's paper The Lagrangian in Quantum Mechanics. He gave more than just a remark about $\exp{iS/\hbar}$, he described the general structure of the path integral expression for the transition amplitude, see Dirac's remark that inspired Feynman when formulating path integral on Physics SE. But he did not come up with the suggestive intuition of summing over paths, or developed a computational procedure that could be followed, or related it to the semi-classical approximation. Fortunately, Dirac was pretty explicit as to what motivated him:
+
+"Quantum mechanics was built up on a foundation of analogy with the Hamiltonian theory of classical mechanics... it would seem desirable to take up the
+  question of what corresponds in the quantum theory to the
+  Lagrangian method of the classical theory. A little consideration shows, however, that one cannot expect to be able to take over the classical Lagrangian equations in any very direct way. These equations involve partial derivatives of the Lagrangian with respect to the coordinates and velocities and no meaning can be given to such derivatives in quantum mechanics... We must therefore seek our quantum Lagrangian theory in an indirect way. We must try to take over the ideas of the classical  Lagrangian theory, not the equations of the classical Lagrangian theory."
+
+He then relates traditional amplitudes to the integral from the least action principle. Feynman uses similar motivation in QED: The Strange Theory of Light and Matter, for example, where he introduces the path integrals starting from the various paths a photon could take, and using the Fermat's variational principle.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 6, 2020 at 6:40
+
+
+
+
+
+
+J.G.
+
+1,72099 silver badges1818 bronze badges
+
+
+
+
+
+
+
+
+            answered Apr 14, 2019 at 10:42
+
+
+
+
+
+
+ConifoldConifold
+
+77.5k55 gold badges186186 silver badges294294 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to History of Science and Mathematics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged physicsdiscoveriesquantum-mechanicsphysicistsfeynman or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+10
+
+Does anyone know the physics student who passed a quantum mechanics oral exam without taking quantum mechanics?
+
+
+
+10
+
+Who introduced the "dagger"symbol as conjugate transpose in quantum mechanics?
+
+
+
+2
+
+What steps did Richard Feynman take to devise his Integral Trick?
+
+
+
+1
+
+What are the definitive experiments/phenomena which motivate quantum mechanics?
+
+
+
+2
+
+Why didn't the phase space formulation of Quantum Mechanics get the upper hand?
+
+
+
+0
+
+Why are the views of quantum mechanics called the Copenhagen School?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Meaning of にしておく here
+                
+
+
+
+                    Should I remove young tomato's first flowers?
+                
+
+
+
+                    Sum of square roots (as an algebraic number)
+                
+
+
+
+                    Should I ask for authorship or ignore?
+                
+
+
+
+                    can you roll your own .iso for USB stick?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    How to determine the optimal lag length in time series?
+                
+
+
+
+                    Has there ever been arms supply with restrictions attached prior to the current war in Ukraine?
+                
+
+
+
+                    Brake Line no Longer Connected to Brake Lever
+                
+
+
+
+                    How to negotiate such toxic competitiveness during my master’s studies?
+                
+
+
+
+                    How to make the battle against Tiamat last longer?
+                
+
+
+
+                    Can someone explain the damage distrubution on this aircraft that flew through a hailstorm?
+                
+
+
+
+                    How can show division of fraction with tikz?
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    What rights do I have to improve upon patented inventions?
+                
+
+
+
+                    Non-universal and non classically simulatable gate set?
+                
+
+
+
+                    What changes the velocity perpendicular to radius in an elliptical orbit?
+                
+
+
+
+                    Why are pointers to data members callable in C++?
+                
+
+
+
+                    Ubuntu Terminal with alternating colours for each line
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+                    Can we downgrade edition from SQL Server 2016 Enterprise to Standard when we have compression feature enabled?
+                
+
+
+
+                    Can you cite parts of a case if the core issues in the case were later overruled?
+                
+
+
+
+                    Does it make sense for giants to use clubs or swords when fighting non-giants?
+                
+
+
+
+                    How to create a `\gtrsimless` symbol?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History of Science and Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

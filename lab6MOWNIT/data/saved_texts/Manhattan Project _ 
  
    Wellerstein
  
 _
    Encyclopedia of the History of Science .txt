@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+Manhattan Project | 
+  
+    Wellerstein
+  
+ |
+    Encyclopedia of the History of Science 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Home
+
+
+About
+
+
+Browse
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Encyclopedia of the History of Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manhattan Project
+
+
+              
+              Alex Wellerstein
+              
+                – Stevens Institute of Technology
+
+
+
+"Manhattan Project" by Alex Wellerstein is licensed under a Attribution-NonCommercial-NoDerivatives 4.0 International License.
+          
+
+
+
+
+
+
+
+
+
+15e2ba5a-d357-47b8-9ed6-33646e818ee2
+
+
+
+
+The Manhattan Project was the Anglo-American effort to build nuclear weapons during World War II. It is commonly regarded as one of the most successful, if controversial, mega-projects of the 20th century, bringing together scientific expertise, industrial production, and military coordination to create an entirely new industry, and new form of weaponry, in an unusually compressed timescale. Within the literature of the history of science and technology, the Manhattan Project has been examined from a number of different vantage points, often centering on the role of the thousands of academic scientists in hundreds of centers who participated in the weaponization of a new scientific discovery to facilitate the mass slaughter of civilians, but also portraying the project as a prototype of future military-industrial-academic collaborations.
+Historiographical background
+The Manhattan Project per se specifically refers to the overarching weapons-production program begun in late 1942, and not to earlier research and pilot programs. It is related to but not exactly the same as the Manhattan Engineer District, the division of the US Army Corps of Engineers that was in charge of implementing the development of the atomic bomb, and which maintained control over the technology until January 1947, when the civilian US Atomic Energy Commission took over all production operations.
+This definitional issue is not an insubstantial one. If one assigns the moniker of the Manhattan Project to the earliest investigations into nuclear fission, it results in a significantly different narrative about the purpose and origins of the weapons project, and obscures the distinct change of direction that took place in late 1942. At times, it was in the interest of government officials involved in making the atomic bomb to stress the continuity with earlier research, as the original motivation for the project (fear of the Nazis) was seen as easier to justify than the later stages of it.1
+Image 1: This map shows the geographic distribution of the several hundred sites that were operated as part of the Manhattan Project. They varied widely in size, type, and category. The three major sites (Hanford, Oak Ridge, and Los Alamos) have their circles artificially enlarged, as do the secondary sites of UC Berkeley, the University of Chicago, and the Trinity site. Blue indicates the site was of a directly military or governmental nature (or were wholly created by the government); orange indicates educational institutions; green indicates industrial sites and contractors. Some sites in Canada are indicated, but there are several international sites that do not appear on this map. Source data was compiled from contract listings and entries in the Manhattan District History and OSRD files by Alex Wellerstein, who also created the map.
+The background story of events leading to the Manhattan Project has been told in several different modes. The most common is as the history of physics: the discovery of X-rays in 1895 led directly to new theories and models of the world that, in turn, posed questions about the fundamental nature of atomic structure. These in turn led to the discovery of nuclear fission, through which subatomic neutrons can be made to split heavy atomic nuclei (like uranium) and release extremely large amounts of energy. The discovery of the nuclear chain reaction suggested that this energy release could be exponentially amplified by human intervention. This mode of background story is favored in popular accounts and was also the one preferred by the scientists who crafted the first version of this history, in part because it reflected their institutional interests (the promotion of basic scientific research), but also because it fit in with their historical self-identification as physicists.2
+There have been other ways to frame this story. Historians of technology in particular have tended to look at the continuities with other industrial-governmental operations in the United States, such as the Tennessee Valley Authority, and some historians of science have also emphasized the important bureaucratic aspects necessary as a prerequisite for undertaking such an extremely risky project. And several historians of science have also emphasized that the “first” nuclear age, ranging from the discovery of radioactivity and ending with the discovery of fission, was responsible for many of the scientific and cultural frameworks that were later applied to the problem of atomic weapons.3
+Image 2: The relative scale and scope of the Manhattan Project, from August 1942 until its abolishment in December 1946, as shown in personnel (line graph, scale at left) and monthly expenses (bar chart, scale at right). Note that the costs for August 1942 include all previous expenditures made by the OSRD and its successor organizations. Source data from the Manhattan District History, graph by Alex Wellerstein.
+An endeavor as large as the Manhattan Project can contain multitudes of historical frameworks simultaneously. It is difficult to overemphasize the scale of the work. Its wartime cost ($2 billion 1945 USD, around $30-50 billion USD today, depending on the conversion factors used) was more impressive at the time than it is in the context of later American military expenditures (for comparison, the most expensive wartime project by the United States was the research and production of the B-29 Superfortress, which cost about $3 billion 1945 USD). Its cost alone does not do justice to its scale, however. At its peak, it employed over 125,000 direct staff members, and probably a larger number of additional people were involved through the subcontracted labor that fed raw resources into the project. Because of the high rate of labor turnover on the project, some 500,000 Americans worked on some aspect of the sprawling Manhattan Project, almost 1% of the entire US civilian labor force during World War II. In 1943, the project was estimated to be consuming approximately over half of all Army construction labor and steel production, and the Oak Ridge site alone used approximately 1% of the electrical power produced for the entire country. The Manhattan Project was responsible for the generation of thousands of new inventions, as represented by patent claims processed in secret by the project, which if filed would have represented some 1% of all patents in force at the end of World War II. And while much attention has been given to the “big three” project production sites (Hanford, Los Alamos, and Oak Ridge), the total project sites across the United States number into the hundreds, including work done at over two dozen universities. It was not merely a scientific research project: it entailed the creation of an entirely new industry as well as the military coordination required to mobilize its byproducts as usable weapons, all under an unusually heavy cloak of military and governmental secrecy.4
+All of this, it should be emphasized, was done on a project that literally emerged in part out of a genre of science fiction and carried a significant risk of failure.5 As it was, the project just managed to produce three atomic bombs by the summer of 1945; had it been delayed a few months more, it very easily could not have produced nuclear weapons prior to an American invasion of Japan, or the end of the war by some other means. This possibility of failure was acutely felt by those who worked on the project at the time, though knowledge of its outcome has led many narratives about its history to carry an air of inevitability.6 Most exceptional about the Manhattan Project was its haste: all of its major activity took place within the span of three years (1942-1945), which is still the world-record for any nuclear weapons production program.
+The decision to make the atomic bomb
+The Manhattan Project, and the atomic bomb itself, could not have been imagined as plausible prior to the discovery of nuclear fission by Otto Hahn, Fritz Strassman, Lise Meitner, and Otto Frisch in the winter of 1938. Nuclear fission — the splitting of heavy nuclei (originally uranium) through the bombardment of neutrons — and the subsequent (early 1939) concept of the nuclear chain reaction provided the first concrete mechanism towards controlling the rate of nuclear reactions and inducing them towards exponential reactions that might cause explosions. For the context of the Manhattan Project, it suffices to note that by the early 1940, scientists in several nations (France, Germany, the United Kingdom, and the United States, with Japan following in 1941 and the Soviet Union in 1942) had petitioned their governments to support further research into the possible military applications of the fissioning of uranium.7
+The early programs of Germany, the United Kingdom, and the United States are of brief note in relation to the later Manhattan Project. In Germany, a Uranverein (“Uranium Club”) was created under the auspices of the Reich Research Council with the blessing of Army Ordnance, and had the goal of exploring whether nuclear reactions could have military application, notably through the use of nuclear reactors. Similar work was undertaken by the Uranium Committee in the United States, created within the National Bureau of Standards in late 1939 by US President Franklin D. Roosevelt as a result of the urging of a letter signed by Albert Einstein (drafted at the impetus and with the input of Leo Szilard, the Hungarian refugee physicist who had first conceived of the nuclear chain reaction). In the United Kingdom, similarly, a small group of scientists sparked by the concerns of continental refugees, later known as the MAUD Committee, commenced with research at a small scale.8
+None of these efforts started in 1939 constituted a nuclear weapons production program. Their goals were, in essence, to answer the question of feasibility regarding the military application of nuclear fission, whether in terms of nuclear reactors (machines that produced controlled nuclear fission reactions) or weapons (machines that produced explosive reactions). Their work was, by the later standards of the Manhattan Project, extremely small scale. To put it into perspective, the entire budget expended by the US government on nuclear fission research between 1939 and 1941 was around $15 million USD. For the year of 1944, by contrast, the Army spent on average $2.5 million USD per day on the effort.9
+This early work proceeded at a pace not exceptionally different from “normal” scientific research. Innumerable uncertainties, unknowns, and questions existed; it was not at all clear that the technology was weaponizable in the short term. In Germany, in early 1942, the work was reviewed by Army Ordnance with the question of whether it was worth committing to a major effort — whether it would play a favorable role in the war’s outcome. The decision was negative. Though the idea of a nuclear weapon was judged technically feasible, the expense, risks, and time-scale involved, coupled with the German belief that the war would conclude in the near-term in their favor, motivated them to pursue only a relatively small nuclear reactor development program and not an expansive weapons program. (If the nuclear reactor program had been successful in producing a working reactor, it is possible that might have changed their position on the feasibility of nuclear weapons, though even then it is hard to imagine, with the knowledge of the state of Germany in the later portion of the war, that the program would have been successful in producing a weapon in time to be useful.) Though the German program has often been judged negatively (e.g., as “failure” in the “race” for the atomic bomb), considerable careful scholarship has demonstrated that the German understanding of the feasibility of nuclear weapons in 1942 was not a matter of ignorance so much as it was a decision of resource-allocation and risk-assessment.10
+The effort of the United States, left to its own devices, very well could have gone the same way. The early program was not exceptionally well-managed (it was, some participants later argued, plagued by too much secrecy at too early a period of time), and the top American scientist-administrators who controlled the direction of American wartime research and development, such as Vannevar Bush and James B. Conant, were skeptical that the effort was worth a great expenditure of resources and scientific manpower. Again, the problem here was not so much a lack of understanding, but perhaps too much understanding: it was felt that the technical difficulties of producing fuel for the weapon (enriched uranium) were extraordinarily high and that the coming war’s requirements for scientific manpower were going to be large even without such a program.11
+The British program, by contrast, came to very different conclusions. Otto Frisch and Rudolf Peierls, two refugee scientists from Europe who especially feared the prospect of Nazis armed with nuclear weapons, concluded through theoretical calculation that the enriched-uranium fuel requirements for a bomb would be considerably smaller than had been believed (they were in retrospect overly optimistic; ironically, the Germans actually made more accurate predictions about this), and that while the effort would be a significantly risky undertaking for the wartime United Kingdom, it would be a feasible undertaking for either the United States or Germany. These conclusions were codified by the MAUD Committee, with the recommendations that they be sent to American scientific authorities, meant both to warn them of the German possibility and encourage them to broader action. This occurred in the spring of 1941, though the report was not given broad circulation. In the summer of 1941, the British sent a scientific emissary to the United States to investigate the lack of action, and this emissary (Mark Oliphant) succeeded in getting the attention and interest of several key American scientists (the aforementioned Bush, along with Ernest Lawrence, Arthur Compton, and Harold Urey).12
+The American program was soon completely re-organized and renamed. Gone was the revealing moniker of the Uranium Committee, and in its place the work was renamed the S-1 Committee, the blandness of the name a sure sign of its newfound perceived importance. This work was not yet a weapon production program: the goal of the S-1 work was to produce proof-of-concept facilities that would demonstrate the means by which uranium could be enriched and a new element, plutonium, could be produced from nuclear reactors.13
+The S-1 work began in the fall of 1941, under the auspices of the Office for Scientific Research and Development, the civilian agency created by Roosevelt at the behest of Vannevar Bush (who would oversee it), to coordinate scientific research and development for defense purposes. By the summer of 1942, Bush was confident enough in the enterprise to recommend to Roosevelt that an all-out “crash” effort to develop an atomic bomb should be put into place, with the majority of the organization taken over by the US Army Corps of Engineers. The initial work had its offices in New York City, near to the headquarters of major industrial contractors and the scientific work being done at Columbia University, and the new organization was thus named the Manhattan Engineer District. The recommendation was based on technical promise, but also on the strong and, at the time authentic, belief that the Germans could be even farther ahead at that point and that they were in a genuine “race” for the bomb.14
+In several reports in the summer and winter of 1942, Bush and Conant recommended Roosevelt increase the effort involved in fission research. Though their optimism was somewhat tempered by the end of the year (in June, they believed weapons would be ready by 1944; in December, they believed that they would have six bombs by the first half of 1945), they recommended an all-out effort that would cost $400 million USD, to be dispensed through secret channels. These funds would be used to construct several plants for the enrichment of uranium, as well as the construction of at least one industrial-sized nuclear reactor and the facilities necessary to create plutonium. Roosevelt approved their initiatives without reservation, and the Army Corps of Engineers was brought in to coordinate the work of constructing the requisite plants; at this point, the American effort was indeed a weapons-production program, with the aim of producing usable weapons within the span of the war, though the specifics of their use had not yet been discussed.15
+To reiterate: The American decision to develop nuclear weapons was hardly straightforward. Despite American scientists’ conclusion that producing nuclear weapons would be extremely difficult, key figures in the conduct of wartime science were convinced by the United Kingdom’s advocacy that it was a risk worth taking. The peculiar structure of American wartime scientific planning also meant that the question was given considerably little oversight — all information on the issue was funneled from Bush to Roosevelt, who himself approved the creation of a sweeping program without apparent consultation with any outside bodies or advisors. Had the overall program been somewhat more bureaucratically controlled, with further stakeholders involved in the decision-making process, it is very easy to imagine that at the very least any initiative would have been delayed or avoided altogether. The development of nuclear weapons during World War II is, in many ways, an unexpected and improbable outcome, and instead of asking why other nations did not develop such weapons, it is more fruitful to look instead at the various contingent and at times even coincidental factors that led to the United States being the only nation to pursue such a program with vigor.
+The work of the Manhattan Project 
+In the initial stages of the American fission effort (1939-1942), scientists at a variety of university laboratories — notably Columbia University, the University of Chicago, and the University of California–Berkeley, among many others— identified key processes for the development of the “fissile material” fuel that is necessary for a nuclear weapon to operate.
+The first approach considered was the isotopic enrichment of uranium. (Chemical elements can vary in the number of neutrons in their nucleus, and these different forms are known as isotopes.) It was discovered as early as 1939 that only one isotope of uranium was fissionable by neutrons of all energies, and by 1941 it was understood that to make a fission weapon required a reasonably pure amount of material that met this criterion. Less than 1% of the uranium as mined is the fissile uranium-235 isotope, with the other 99% being uranium-238, which inhibits nuclear chain reactions. It was understood by 1941 that to make a weapon the fissile uranium-235 would need to be separated from the non-fissile uranium-238, and that because they were chemically identical this could only be accomplished through physical means that relied on the small (three neutron) mass difference between the atoms. Isotopic separation had been undertaken for other elements (for example, the separation of the hydrogen isotope deuterium from the bulk of natural water), but never on a scale of the sort contemplated for the separation of uranium.16
+Several methods were proposed and explored at small scales at various research sites in the United States. The preferred candidates by the end of the first year of the Manhattan Project (1942) were:
+
+Electromagnetic separation, in which powerful magnetic fields were used to create looping streams of uranium ions that would slightly concentrate the lighter isotope at the fringes. This work was related to the cyclotron concept pioneered by Ernest Lawrence at the University of California, and the bulk of the research took place at his Radiation Laboratory.
+Gaseous diffusion, in which a gaseous form of uranium was forced through a porous barrier consisting of extremely fine passageways. The gas molecules containing the lighter isotope would navigate the barrier slightly faster than the gas molecules containing the heavier isotope, although the effect would have to be magnified through many stages before it resulted in significant separation. This work was originally explored primarily at Columbia University under the guidance of Harold Urey and others.
+Thermal diffusion, in which extreme heat and cold were applied to opposite sides of a long column of uranium gas, which also resulted in slight separation, with the lighter uranium isotope concentrating at one end. This was initially investigated by Philip Abelson at the Naval Research Laboratory.
+Centrifugal enrichment, in which the rapid spinning of a uranium gas allowed for the slight concentration of the lighter element at the center of the whirling mixture, a process that would also require a large number of “stages” to be successful. This was pursued by physicist Jesse W. Beams at the University of Virginia and at the Standard Oil Development Company in New Jersey.17
+
+Over the course of 1943, centrifugal enrichment proved less promising than the other methods, and by 1944 the method was essentially abandoned (though it would, in the postwar period, be perfected by German and Austrian scientists working in the Soviet Union). Because it was unclear which of the other techniques would be most successful at scale, both the electromagnetic and gaseous diffusion methods were pursued with great gusto, and arguably constituted the most substantial portion of the Manhattan Project. The construction and operation of the two massive facilities required for these methods (the Y-12 facility for the electromagnetic method, and K-25 facility for the gaseous diffusion method) alone made up 52% of the cost of the overall project, and all of the Oak Ridge facilities together totaled 63% of the entire project cost. While thermal diffusion was initially imagined as a competitor process, difficulties in achieving the desired level of enrichment led to all three methods being “chained” together as a sequence: the raw uranium would be enriched from the natural level of 0.72% uranium-235 to 0.86% at the thermal diffusion plant, and its output would then be enriched to 23% at the gaseous diffusion plant, and then finally enriched to an average level of 84% at the electromagnetic plants.18
+Image 3: Calutron operators at the Y-12 plant in Oak Ridge monitored indicators and turned dials in response to changing values, not knowing that they were actually aiming streams of uranium ions, much less that they were producing the fuel for a new weapon. Source: Photo by Ed Westcott, 1944 (Department of Energy).
+The plants for the production of enriched uranium were constructed in Oak Ridge, Tennessee, an isolated site that was chosen primarily for its proximity to the large electrical resources provided by the Tennessee Valley Authority. The Oak Ridge site (Site X) employed over 45,000 people for construction at its peak, and had a similar number of employees on the payroll for managing its continued operations once built. A “secret city,” the facility relied on heavy compartmentalization (“need to know”) so that practically none of its thousands of employees had any real knowledge of what they were producing. Every aspect of life in Oak Ridge was controlled by contractors and the military, in the aim of producing weapons-grade material in maximum haste and with a minimum of security breaches. Situated in the Jim Crow South, the facility was entirely segregated by law, and living conditions between African-Americans and whites varied dramatically. Various industrial contractors managed the different plants (for example, the Union Carbide and Carbon Corporation operated K-25, and the Tennessee Eastman Corporation operated Y-12).19
+In the process of researching the possibility of nuclear fission, another road to a bomb had made itself clear. Nuclear reactors had been contemplated as early as nuclear weapons. Where a nuclear weapon requires high concentrations of fissile material to function, a reactor does not: a controlled nuclear reaction (as opposed to an explosive one) can be developed through natural or slightly-enriched uranium through the use of a substance called a “moderator,” which slows the neutrons released from fission reactions. Under the right conditions, this allows a chain reaction to proceed even in unenriched material, and the reaction is considerably slower, and much more controllable, than the kind of reaction that occurs inside of a bomb.
+Nuclear reactors had been explored as possible energy sources, though engineering difficulties would make this use of them more difficult than was anticipated (the first nuclear reactors for power purposes in the United States did not go critical until 1958). More importantly for the wartime planners, it was realized that the plentiful uranium-238 isotope, while not fissile, could still be quite useful. When uranium-238 absorbs a neutron, it does not undergo fission, but instead transmutes into uranium-239. Uranium-239, however, is unstable, and through a series of nuclear decays becomes, in the span of a few days, the artificial element plutonium-239. Isolated for the first time in February 1941, plutonium was calculated and confirmed to have very favorable nuclear properties (it is even more reactive than uranium-235, and thus even less of it is necessary for a chain reaction).20
+Image 4: Men working on the front face of the Hanford B-Reactor, circa 1944. Source: Department of Energy.
+The first controlled nuclear reaction was achieved in December 1942 at the University of Chicago, by a team led by Enrico Fermi. The first reactor, Chicago Pile-1, used purified graphite as its moderator and 47 tons of natural (unenriched) uranium in the form of metal ingots. Even while the pilot Chicago Pile-1 reactor was still being constructed, plans were being made for the creation of considerably larger, industrial-sized nuclear reactors at a remote site in Hanford, Washington, constructed and operated by E.I. du Pont Nemours & Co. (DuPont). The Hanford site (Site W) was chosen largely for its proximity to the Columbia River, whose water would be used for cooling purposes. On dusty land near the river, three large graphite-moderated reactors were constructed starting in 1943, with the first reactor going critical in September 1944. A massive chemical facility known as a “canyon” was constructed nearby, by which, largely through automation and remote control, the irradiated fuel of the reactors was chemically stripped of its plutonium. This process involved dangerously radioactive materials, chemically noxious substances (powerful acids), and was fairly inefficient (every ton of uranium fuel that was processed yielded 225 grams of plutonium).21
+The labor conditions at Hanford varied considerably from Oak Ridge. Where Oak Ridge was imagined as a cohesive community, Hanford was not, and employed an abundance of cheap labor in far inferior work conditions (and those at Oak Ridge were not so great to begin with). The radioactive and chemical wastes at the site were treated in an expedient, temporary fashion, with the idea that in the less-hurried future they would be more properly eliminated. Subsequent administrations continued this approach for decades. Hanford became regarded as the most radioactively contaminated site in the United States, and since the end of the Cold War has been involved in expensive cleanup and remediation efforts. The Hanford project constituted about 21% of the total cost of the Manhattan Project.22
+
+Image 5: The relative costs (in 1945 USD) of the major expense categories of the Manhattan Project. Note that Oak Ridge has been broken down into its subcomponents (K-25, Y-12, S-50, etc.). Source: Data from Hewlett and Anderson, A History of the Atomic Energy Commission, Appendix 2, graph by Alex Wellerstein.
+The work of these two sites — Oak Ridge and Hanford — constituted the vast bulk of the labor and expense of the Manhattan Project (roughly 80% of both). Without fuel, there could be no atomic bomb: it was and remains a key chokepoint in the development of nuclear weapons. As a result, it is important to conceptualize the Manhattan Project as much more than just basic science alone: without an all-out military-industrial effort, the United States would not have had an atomic bomb by the end of World War II.
+The head of the Manhattan Project’s entire operation was Brigadier General Leslie R. Groves, a West-Point trained engineer who had previously been instrumental in the construction of the Pentagon building. Groves had accepted the assignment reluctantly, liking neither the risk of failure nor the fact that it was a home-front assignment. But once he accepted the job, he was determined to see it through to success. His unrelenting drive resulted in the Manhattan Project being given the top level of priority of all wartime projects in the United States, which allowed him nearly unfettered access to the resources and labor necessary to build a new atomic empire. Groves amplified the degree of secrecy surrounding the project through his application of compartmentalization (which he considered “the very heart of security”), and his own autonomous domestic and even foreign intelligence and counter-intelligence operations, making the Manhattan Project a virtual government agency of its own. (Despite these precautions, the project was, it later was discovered, compromised to the Soviet Union by several well-placed spies.) While it is uncharacteristic to associate the success or failure of massive projects with single individuals, it has been plausibly argued that Groves was perhaps the most “indispensable” individual to the project’s success, and that his willingness to accelerate and amplify the work being done in the face of setbacks, and to bully his way through military and civilian resistance, was essential to the project achieving its results when it did.23
+Though the scientific research on the project was initially dispersed among several American universities, as the work moved further into the production phase civilian and military advisors to the project concurred that the most sensitive research work, specifically that on the design of the bomb itself, should be located somewhere more secure than a university campus in a major city. Bush, Conant, and Arthur Compton had all come to the conclusion that a separate, isolated laboratory should be created for this final phase of the work. In late 1942, Groves identified Berkeley theoretical physicist J. Robert Oppenheimer as his preferred candidate for leading the as-yet-created laboratory, and on Oppenheimer’s recommendation identified a remote boys’ school in Los Alamos, New Mexico, as the location for the work. Initially imagined to be fairly small, the Los Alamos laboratory (Site Y) soon became a sprawling operation that took on a wide variety of research projects in the service of developing the atomic bomb, ending the war with over 2,500 people working at the site.24
+Image 6: The percentage distribution of personnel between divisions at Los Alamos. The reorganization in August 1944 merged several divisions into interdisciplinary groups focused around specific problems. The pre-reorganization division abbreviations: Chem = Chemistry, Eng = Engineering, Ex = Experimental Physics, Theo = Theoretical Physics,. The post-reorganization abbreviations: A = Administrative, CM = Chemistry & Metallurgy, F = Fermi (whose division studied many issues), G = Gadget, O = Ordnance, R = Research, Tr & A = Trinity and Alberta (Testing and Delivery), X = Explosives. Source: Hawkins et. al., Project Y, the Los Alamos Story, 302.
+Though the work of the bomb was even at the time most associated with physicists, it is worth noting that at Los Alamos, there were roughly equal numbers of physicists, chemists, metallurgists, and engineers. The physics-centric narrative, promulgated in part by the physicists themselves after the war (in part because the physics of the atomic bomb was easier to declassify than other aspects), obscures the multidisciplinary research work that was required to turn table-top laboratory science into a working weapon.25
+It is not exceptionally hyperbolic to say that the Los Alamos laboratory brought together the greatest concentration of scientific luminaries working on a single project that the world had ever seen. It was also highly international in its composition, with a significant number of the top-tier scientists having been refugees from war-torn Europe. This included a significant British delegation of scientists, part of an Anglo-American alliance negotiated by Winston Churchill and Roosevelt. For the scientists who went to the laboratory, especially the junior scientists who were able to work and mingle with their heroes, the endeavor took on the air of a focused and intensive scientific summer camp, and the numerous memoirs about the period at times underemphasize that the goal was to produce weapons of mass destruction for military purposes.26
+Los Alamos grew because the difficulty and scope of the work grew. Notably a key setback motivated a massive reorganization of the laboratory in the summer of 1944, when it was found that plutonium produced by nuclear reactors (as opposed to the small samples of plutonium that had been produced in particle accelerators) could not be easily used in a weapon. The original plan for an atomic bomb design was relatively simple: two pieces of fissile material would be brought together rapidly as a “critical mass” (the amount of material necessary to sustain an uncontrolled chain reaction) by simply shooting one piece into the other through a gun barrel using conventional explosives. This “gun-type” design still involved significant engineering considerations, but compared to the rest of the difficulties of the project it was considered relatively straightforward.27
+The first reactor-bred samples of plutonium, however, led to the realization that the new element could not be used in such a configuration. The presence of a contaminating isotope (plutonium-240) increased the background neutron rate of reactor-bred plutonium to levels that would pre-detonate the weapon were two pieces of material to be shot together, leading to a significantly reduced explosion (designated a “fizzle”). Only a much faster method of achieving a critical mass could be used. A promising, though ambitious, method had been previously proposed, known as “implosion.” This required the creation of specialized “lenses” of high explosives, arranged as a sphere around a subcritical ball of plutonium, that upon simultaneous detonation would symmetrically squeeze the fuel to over twice its original density. If executed correctly, this increase in density would mean that the plutonium in question would have achieved a critical mass and also explode. But the degree of simultaneity necessary to compress a bare sphere of metal symmetrically is incredibly high, a form of explosives engineering that had scarcely any precedent. Oppenheimer reorganized Los Alamos around the implosion problem, in a desperate attempt to render the plutonium method a worthwhile investment. Modeling the compressive forces, much less achieving them (and the levels of electrical simultaneity necessary) required yet another massive multidisciplinary effort.28
+As of summer 1944, there were two designs considered feasible: the “gun-type” bomb which relied upon enriched uranium from Oak Ridge, and the “implosion” bomb which relied upon separated plutonium from Hanford. The manufacture of the factories that produced this fuel required raw materials, equipment, and logistics from many dozens of sites, and together with the facilities that were involved with producing the other components of the bomb, there were several hundred discrete locations involved in the Manhattan Project itself, differing dramatically in size, location, and character. To choose a few interesting examples: a former playhouse in Dayton, Ohio, was converted into the site for the production of the highly-radioactive and highly-toxic substance polonium, which was to be used as a neutron source in the bombs, without any knowledge of the residents who lived around it; most of the uranium for the project was procured from the Congo; and a major reactor research site was created in Quebec, Canada, as part of the British contribution to the work.29
+
+Image 7: The assembled implosion “gadget” of the Trinity test, July 1945, with physicist Norris Bradbury for scale. Source: Los Alamos National Laboratory.
+The uncertainties involved in the implosion design meant that the scientists were not confident that it would work and, if it did work, how efficient, and thus explosive, it would be. A full-scale test of the implosion design was decided upon, at a remote site at the White Sands Proving Ground, 60 miles from Alamogordo, New Mexico. On July 16, 1945, the test, dubbed “Trinity” by Oppenheimer, was even more successful than expected, exploding with the violence of 20,000 tons of TNT equivalent (20 kilotons, in the new standard of explosive power developed by the project participants).30 (They had considerably more confidence in the gun-type bomb, and in any case, lacked enough enriched uranium to contemplate a test of it.)
+Along with the work of the creation of the key materials for the bombs and the weapons designs themselves, additional thought was put into the question of “delivery,” the effort that would be required to detonate the bomb over a target. This aspect of the project, more a concern of engineering than science per se, was itself nontrivial: the atomic bombs were exceptionally heavy by the standards of the time, and the implosion bomb in particular had an ungainly egg-like shape. The “Silverplate” program created modified versions of the B-29 Superfortress long-range heavy bombers (most of their armaments and all of their armor were removed so that they could fly higher and faster with the heavy bombs), while Project Alberta, headquartered at Wendover Army Air Field in Utah, developed the ballistic cases of the weapons while training crews in the practice of delivering such weapons with relative accuracy.31
+The use of the bombs and the legacy of the project
+All of the above has been told with a minimum of attention to the ultimate questions of the Manhattan Project: whether and how to use the bombs. Indeed, from late 1944 through mid-1945, as the notion of the atomic bomb moved from the possible to the real, a large amount of policy and military planning began to go into effect. Notably, this project that had been ostensibly created to counter the threat of a German atomic bomb shifted almost imperceptibly into one dedicated to the first use of such a weapon onto Japan. By the time that serious planning for use of the weapon was beginning, in late 1944, Manhattan Project officials were more or less convinced that Germany was no longer a possible target, and posed no atomic threat.
+Two committees were particularly important. The first was the Interim Committee, created by the Secretary of War, Henry Stimson, at the request of Bush and Conant in late 1944. This committee was ostensibly concerned with matters affecting the “interim” period that would exist between the use of the bombs as a weapon (or some other revelation of their existence to the world) and the creation of permanent peacetime authorities (both domestic and international) for the future control of nuclear weapons. This “interim” remit however proved extremely expansive, covering everything from the consideration of the use of the bombs in war (because that would presumably affect what came afterwards) to the preparation of press releases and plans for both domestic legislation and for the introduction of proposals to the nascent United Nations for the international regulation of nuclear technology. A Scientific Panel composed of Oppenheimer, Compton, Fermi, and Lawrence were consulted on several topics, including the postwar priorities for new nuclear research, as well as the question (sparked by a committee of scientists at the University of Chicago headed by physicist James Franck) of whether the United States would be better served by first demonstrating their new weapon in a non-violent way to Japan, rather than by using it militarily (the Scientific Panel ruled against the demonstration idea).32
+The second committee, the Target Committee, consisted of military and scientific representatives who met three times in the spring of 1945 to make the final recommendations as to exactly how the weapons ought to be used. While the initial idea of the atomic bomb was flexible enough to imagine a variety of uses (for example, against a naval base such as Japan’s Harbor of Truk), the weapon as developed, through a multitude of small and seemingly inconsequential technical decisions, was one whose idealized use could only really be against a large urban target — a city. The scientists on the Target Committee, including Oppenheimer, were themselves enthusiastic about the possibility, and agreed that the weapon could not be effectively used against a small or purely military target. In the meeting notes, it is evident that they regarded the destruction of a large urban area containing at least one “military” (their scare quotes) facility to be the real marker of success for the weapon, apt to produce an awed and terrified reaction not only among the Japanese, but the rest of the world. The Target Committee recommended that the cities of Kyoto, Yokohama, Hiroshima, and Kokura be considered as possible targets (the final target list of Hiroshima, Kokura, Niigata, and Nagasaki was not agreed upon until late summer).33 (No systematic consideration was made of using the weapon in the European theatre of the war, because it was clear that the war in Germany would be over by the time the bombs were ready for use.34)
+Between these two committees, one can see both that the planning involved in the “use of the bombs” was much more than the short-term, and that several key scientists were themselves involved in some of these determinations. Bush, Conant, and Oppenheimer are in particular marked by their concern with the question of the postwar situation: all foresaw a world in which secret nuclear arms races would abound, and in which new weapons (like the hydrogen bomb and the ballistic missile) would greatly multiply the power of the weapons and their threat. Stimson was particularly convinced by such overtures, regarding the bomb as not merely a new weapon, but “as a new relationship of man to the universe,” as he opined at one Interim Committee meeting. These particular, well-connected historical actors addressed this fear with a hope for future international control of atomic energy, and believed that the best means of effecting this was to make the first use of the bomb particularly horrific, a wake-up call to the rest of the world.35
+One should not get the impression, however, that scientific perspectives were in general consulted on such policy matters. At Los Alamos, Oppenheimer worked to explicitly discourage discussions of long-term policy or even the question of the use of bombs, arguing that such matters were for political authorities to decide and not the scientific participants. (That he himself felt free to violate this notion repeatedly was, after the war, noted by several of his critics.) The high-intensity work at Los Alamos in the spring and summer of 1945 very nearly precluded such discussions in any event.
+Other scientists, particularly Franck and colleagues at the University of Chicago, organized several committees for the discussion of “postwar problems,” as they put it, including the continued application of secrecy after the war (they were against it), and the need for funding postwar peaceful nuclear research (they were for it). One of these committees, on “Political and Social Problems,” penned a carefully-argued plea against the first use of the atomic bomb against a city. The Franck Report, as it was called, was considered by the Interim Committee, but opposed by Oppenheimer and several other high-ranking scientists who were consulted on the matter.
+Leo Szilard, who had initially proposed the nuclear fission chain reaction and was involved in the creation of the first reactors, attempted in vain to raise substantive policy questions and was actively inhibited by the military chain of command. In short, the scientists who were in positions of influence lobbied strongly along lines that were acceptable to the military and political authorities, and the handful of others who were motivated to influence authorities in a different direction were deliberately blocked.36
+News of the successful results of the “Trinity” test was conveyed to Secretary of War Stimson and President Truman, both attending the Potsdam Conference, immediately after its detonation. By late July 1945, a strike order was drafted (by Groves) and approved (by Stimson) which specified that the “first special bomb” could be dropped “after about 3 August 1945” on one of the four approved targets. Another clause specified that, “additional bombs will be delivered on the above targets as soon as made ready by the project staff.” The weapon components were shipped to the island of Tinian in the South Pacific, along with a team of scientists and engineers who were necessary to assemble them. The 20th Air Force, led by Maj. Gen. Curtis LeMay, the architect of the firebombing campaign against Japan, aided in the logistics of “delivering” the weapons.37
+Image 8: The team on Tinian, including physicist Norman Ramsey (second from left), observe as the “Little Boy” bomb unit is prepared for loading into the Enola Gay prior to the strike against Hiroshima. Source: National Archives and Records Administration.
+Weather conditions delayed the dropping of the first bomb, the gun-type weapon code-named “Little Boy,” over the city of Hiroshima until August 6, 1945. The mission was a success by the standards of the project: the city was completely disabled and about half of its occupants were killed, around 90% of them civilians. A coordinated “publicity” campaign was immediately launched by Manhattan Project officials to inform the world about the new weapon, including a Presidential press release and numerous newspaper stories written by a New York Times science journalist, William L. Laurence, who was “embedded” in (or co-opted by) the project. With no immediate response from the Japanese (they were, it was later discovered, verifying the truth of said statements, which was a difficult thing to do given the disruption of infrastructure caused by the bombing), and weather conditions increasingly unfavorable, the date of the second bombing attack was moved up by the forces on Tinian to August 9, 1945. This effort, using the implosion weapon code-named “Fat Man,” was more problematic: numerous errors and mishaps characterized the bombing run, with the bomb being detonated somewhat off-target on the secondary target city, Nagasaki. On August 10, 1945, Groves reported to his superiors that a third bomb would be ready for use by August 17, which resulted in the immediate order by Truman to halt further bombing until explicit Presidential authorization was given. Japan attempted to surrender with a condition (preservation of the Emperor) on August 10, which was rejected by the United States. After continued conventional bombing and a failed coup attempt, Japan surrendered unconditionally on August 14. The exact cause of surrender remains controversial: another “shocking” event, from the perspective of the Japanese high command, took place in that time period, namely the declaration of war against Japan by the previously-neutral Soviet Union, and the overwhelming Soviet invasion of Manchuria. Historians have long debated whether the atomic bombings, the Soviet invasion, or some combination of the two were responsible for the final decision to surrender, but in the Anglo-American sphere it has been common since 1945 to attribute it almost exclusively to the atomic bomb attacks, in part as an explicit justification of said attacks.38
+There have been many historical interpretations and arguments, both scholarly and popular, regarding the political decisions behind the use of the atomic bombs. Briefly, the crafters of the “orthodox” interpretation argued that the bombs were dropped exclusively to end the war as soon as possible, and were the product of a rational, deliberative process that took into account a delicate moral calculus, and had, on balance, a positive effect. Perhaps unsurprisingly, this interpretation was created very deliberately by a small group of Americans directly involved in the high-level atomic policymaking — Conant, Compton, Groves, Stimson, and Truman, among others — and was mobilized only in late 1946, when criticisms of the bombings were beginning to mount. The most important American critics from the time of the necessity of the bombings were, interestingly, high-ranking members of the US military, who felt their accomplishments were being overshadowed by a technological marvel. The various alternative (“revisionist”) positions have argued that the bombs were dropped to satisfy geopolitical concerns (e.g., to “scare Russia”), were unnecessary (e.g., the Japanese were “on the verge of surrender”), or were inhumane to the point of being war crimes (e.g., the deliberate massacre of tens of thousands of non-combatants). These debates have continued in various forms, and with various degrees of vehemence, over the decades, with a peak around the 50th anniversary of the bombings (1995), symbolized by the controversy over the Smithsonian Museum exhibit of the Enola Gay, the B-29 which dropped the bomb over Hiroshima. Both versions of the story have evidence in their favor, though both also have a tendency to “over-rationalize” a process that was in many ways quite haphazard. In general, historians of science and technology have tended to downplay the importance of high-level political deliberation, and instead emphasize the momentum that the project developed and the inordinate amount of resources consumed as it moved towards completion, making the use of the weapons almost inevitable.39
+Image 9: Members of the Manhattan Project mission to Japan, including physicist Robert Serber (at left), survey the damage done to an administrative building in Nagasaki, in late 1945. Source: Los Alamos National Laboratory.
+The Manhattan Engineer District continued to exist, as an organizational entity, into the immediate postwar period. Despite the wartime attempts to streamline the question of transition into peacetime, there were significant delays. Some of these were inherent to the questions of broader nuclear policy: what should the peacetime footing of the new nuclear industry be? Should the United States proceed on a program to create more atomic bombs, and should it pursue greater innovation in their designs, or should it be angling for a world where atomic weapon development was intentionally limited through international agreements? Other delays, notably over legislation governing the domestic regulation and control of nuclear technology, were encouraged by former project scientists: a “Scientists’ Movement” formed specifically to derail the legislation proposed by the military which would, in the scientists’ eyes, maintain an undue degree of military control over atomic energy research and production. Organizations of scientists, such as the Federation of Atomic Scientists (later renamed Federation of American Scientists), composed largely of Manhattan Project veterans, engaged in lobbying Congress and the American people in favor of policies they considered crucial to avoiding a future arms race and future nuclear weapons use. Their policies were boiled down to a simple marketing mantra: “No secret, no defense, international control.” In short, an American monopoly on the atomic bomb could not be kept indefinitely in a world with arms races, no technology was likely to emerge that would render the threat of nuclear weapons impotent, and the only solution was an international treaty controlling the spread of the weapons.
+The Scientists’ Movement had its one major success in pushing for the McMahon Bill, which in its initial form more closely followed their positions (but in its final form as the Atomic Energy Act of 1946 undermined many of them). The Act established a wholly civilian Atomic Energy Commission (AEC), in deliberate contrast to the military-run wartime operation. The AEC would take over all Manhattan Project operations starting in January of 1947, officially ending the Project.40
+The scientists involved in the Manhattan Project had mixed feelings about the legacy of their work. They had, in their eyes, opened up entirely new questions about the role of science in society. Even during the war, scientists at Los Alamos began to contemplate scenarios that would have previously been almost unthinkable: the ability, through the application of basic scientific discoveries, for civilization to render itself extinct. The Super, or hydrogen bomb, which had been envisioned as a possibility as early as 1941, put this in the starkest terms. At the end of the war, Los Alamos scientists calculated that while it might take the detonation of 10,000-100,000 implosion-style weapons “to bring the radioactive content of the Earth’s atmosphere to a dangerously high level,” it might require only “10 to 100 Supers” to do the same. When both the hydrogen bomb and the general question of proliferation became hot topics of debate only a few years after the war, the high level of engagement by scientists in questions of policy was seen by many as an explicit referendum on their seeming lack of concern when designing and making the first atomic bombs. The ethical questions of the “social responsibility of scientists” raised by the Manhattan Project—as well as the groundwork laid for close integration of universities and corporations in developing science useful for military applications—would resonate throughout the Cold War.41
+The Manhattan Project remains one of the prototypical examples of a massive and resource-intensive scientific-industrial-military-governmental collaboration that produced world-shattering results in an unusually short amount of time (the production phase of the project ran only 2.5 years, which is still the record for any national nuclear weapons program). As a result, there have been many invocations of the Manhattan Project as a symbol of technoscientific success: there are frequently calls for “Manhattan Projects” for things as diverse as solar power, cybersecurity, and cancer. But invoking the Manhattan Project as a symbol of intensive resource investment ignores many important factors, notably its decidedly undemocratic nature, its extensive use of militarized secrecy, its vast budget overruns, and the deep, difficult questions raised in its wake about whether it had resulted in a better or worse world.
+Bibliography
+Badash, Lawrence. Scientists and the Development of Nuclear Weapons: From Fission to the Limited Test Ban Treaty, 1939-1963. Atlantic Highlands, NJ: Humanities Press, 1995. (Link to IsisCB)
+Barnhart, Megan. “‘To Secure the Benefits of Science to the General Welfare’: The Scientists’ Movement and the American Public during the Cold War, 1945–1960.” PhD diss., University of California, Los Angeles, 2007. (Link to IsisCB)
+Bernstein, Barton J. “The Quest for Security: American Foreign Policy and International Control of Atomic Energy, 1942-1946.” The Journal of American History 60, no. 4 (March 1974): 1003–44. https://doi.org/10.2307/1901011.
+Bird, Kai, and Martin J. Sherwin. American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer. New York: Knopf, 2005. (Link to IsisCB)
+Brown, Kate. Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters. Oxford: Oxford University Press, 2013. (Link to IsisCB)
+Campos, Luis A. Radium and the Secret of Life. Chicago: University of Chicago Press, 2015. (Link to IsisCB)
+Coster-Mullen, John. Atom Bombs: The Top Secret inside Story of Little Boy and Fat Man. United States: Self-published, 2013.
+De Groot, Gerard J. The Bomb: A Life. Cambridge, MA: Harvard University Press, 2005. (Link to IsisCB)
+Farmelo, Graham. Churchill’s Bomb: How the United States Overtook Britain in the First Nuclear Arms Race. New York: Basic Books, 2013. (Link to IsisCB)
+Feynman, Richard. “Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character. New York: Bantam, 1986. (Link to IsisCB)
+Galison, Peter. Image and Logic: A Material Culture of Microphysics. Chicago: University of Chicago Press, 1997. (Link to IsisCB)
+Galison, Peter, and Barton Bernstein. “In Any Light: Scientists and the Decision to Build the Superbomb, 1952-1954.” Historical Studies in the Physical and Biological Sciences 19, no. 2 (1989): 267–347. https://doi.org/10.2307/27757627. (Link to IsisCB)
+Garner, C.S. “49 Interim Processing Program No. 24,” (30 August 1945). DOE OpenNet Document ALLAOSTI126018: https://www.osti.gov/opennet/detail.jsp?osti-id=896738.
+Goldberg, Stanley. “General Groves and the Atomic West: The Making and Meaning of Hanford.” In The Atomic West, edited by Bruce W. Hevly and John M. Findlay, 39–89. Seattle: University of Washington Press, 1998.
+Goldberg, Stanley. “Inventing a Climate of Opinion: Vannevar Bush and the Decision to Build the Bomb.” Isis 83, no. 3 (September 1992): 429–52. https://doi.org/10.1086/356203. (Link to IsisCB)
+Gordin, Michael D. Five Days in August: How World War II Became a Nuclear War. Princeton: Princeton University Press, 2007. (Link to IsisCB)
+Gowing, Margaret. Britain and Atomic Energy, 1939-1945. New York: St Martin’s Press, 1964.
+Groves, Leslie R. Now It Can Be Told: The Story of the Manhattan Project. New York: Harper, 1962.
+Hanford Site History of Operations, 1 January 1944-20 March 1945, Book 4, Nuclear Testing Archive, Las Vegas, Nevada, document NV0716547: https://www.osti.gov/opennet/detail.jsp?osti-id=905678.
+Hasegawa, Tsuyoshi. Racing the Enemy: Stalin, Truman, and the Surrender of Japan. Cambridge, MA: Belknap Press of Harvard University Press, 2005.
+Hawkins, David, Edith C. Truslow, and Ralph C. Smith. Project Y, the Los Alamos Story. Los Angeles: Tomash Publishers, 1983.
+Helmreich, Jonathan E. Gathering Rare Ores: The Diplomacy of Uranium Acquisition, 1943-1954. Princeton: Princeton University Press, 1986. (Link to IsisCB)
+Herken, Gregg. Brotherhood of the Bomb: The Tangled Lives and Loyalties of Robert Oppenheimer, Ernest Lawrence, and Edward Teller. New York: Henry Holt, 2002. (Link to IsisCB)
+Hewlett, Richard G., and Oscar E. Anderson, Jr. A History of the Atomic Energy Commission. Vol. I: The new world, 1939-1946. University Park, PA: Pennsylvania State University Press, 1962.
+Hoddeson, Lillian, Paul W. Henriksen, Roger A. Meade, and Catherine Westfall. Critical Assembly: A Technical History of Los Alamos during the Oppenheimer Years, 1943-1945. New York: Cambridge University Press, 1993. (Link to IsisCB)
+Hounshell, David A. Science and Corporate Strategy: Du Pont R&D, 1902-1980. New York: Cambridge University Press, 1988.
+Hughes, Thomas Parke. American Genesis: A Century of Invention and Technological Enthusiasm 1870-1970. New York: Viking, 1989. (Link to IsisCB)
+Jerome, Fred, 2002. The Einstein File: J. Edgar Hoover’s Secret War Against the World’s Most Famous Scientist. New York: St. Martin’s Press, 2002. (Link to IsisCB)
+Jones, Vincent C., 1985. Manhattan: The Army and the Atomic Bomb. United States Army in World War II. Washington, D.C.: Center of Military History, US Army, 1985. (Link to IsisCB)
+Kemp, R. Scott. “The End of Manhattan: How the Gas Centrifuge Changed the Quest for Nuclear Weapons.” Technology and Culture 53, no. 2 (2012): 272–305. https://doi.org/10.1353/tech.2012.0046. (Link to IsisCB)
+Kevles, Daniel J. The Physicists: The History of a Scientific Community in Modern America. Cambridge, MA: Harvard University Press, 1987. (Link to IsisCB)
+Kiernan, Denise. The Girls of Atomic City: The Untold Story of the Women Who Helped Win World War II. New York: Simon & Schuster, 2013. (Link to IsisCB)
+Kohn, Richard H. “History and the Culture Wars: The Case of the Smithsonian Institution’s Enola Gay Exhibition.” Journal of American History 82, no. 3 (1996): 1036–63.
+Kragh, Helge. Quantum Generations: A History of Physics in the Twentieth Century. Princeton: Princeton University Press, 1999. (Link to IsisCB)
+Leslie, Stuart W. The Cold War and American Science: The Military-Industrial-Academic Complex at MIT and Stanford. New York: Columbia University Press, 1993. (Link to IsisCB)
+Malloy, Sean L. “‘The Rules of Civilized Warfare’: Scientists, Soldiers, Civilians, and American Nuclear Targeting, 1940 – 1945.” Journal of Strategic Studies 30, no. 3 (June 2007): 475–512. https://doi.org/10.1080/01402390701343482.
+Manhattan District History. Washington, D.C.: US Department of Energy, Office of History and Heritage Resources, 2013 [1947]. https://www.osti.gov/opennet/manhattan_district.jsp.
+Nobile, Philip. Judgment at the Smithsonian. New York: Marlowe & Co, 1995.
+Norris, Robert S. Racing for the Bomb: General Leslie R. Groves, the Manhattan Project’s Indispensable Man. South Royalton, VT: Steerforth Press, 2002. (Link to IsisCB)
+Reed, Bruce Cameron. The History and Science of the Manhattan Project. Berlin, Heidelberg: Springer, 2014. (Link to IsisCB)
+Reed, Bruce Cameron. The Physics of the Manhattan Project. 3rd ed. Berlin, Heidelberg: Springer, 2015.
+Rhodes, Richard. The Making of the Atomic Bomb. New York: Simon and Schuster, 1986. (Link to IsisCB)
+Schwartz, Rebecca Press. “The Making of the History of the Atomic Bomb: Henry DeWolf Smyth and the Historiography of the Manhattan Project.” PhD diss., Princeton University, 2008. (Link to IsisCB)
+Sherwin, Martin J. A World Destroyed: Hiroshima and the Origins of the Arms Race. New York: Vintage Books, 1987.
+Smith, Alice Kimball. A Peril and a Hope: The Scientists’ Movement in America, 1945-47. Chicago: University of Chicago Press, 1965.
+Smyth, Henry DeWolf. Atomic Energy for Military Purposes: The Official Report on the Development of the Atomic Bomb under the Auspices of the United States Government, 1940-1945. Princeton: Princeton University Press, 1946.
+Szasz, Ferenc Morton. The Day the Sun Rose Twice: The Story of the Trinity Site Nuclear Explosion, July 16, 1945. Albuquerque: University of New Mexico Press, 1984. (Link to IsisCB)
+Thorpe, Charles. Oppenheimer: The Tragic Intellect. Chicago: University of Chicago Press, 2006. (Link to IsisCB)
+Walker, J. Samuel. Prompt and Utter Destruction: Truman and the Use of Atomic Bombs against Japan. 3rd ed. Chapel Hill: University of North Carolina Press, 2016.
+Walker, J. Samuel. “Recent Literature on Truman’s Atomic Bomb Decision: A Search for Middle Ground.” Diplomatic History 29, no. 2 (2005): 311–34. https://doi.org/10.1111/j.1467-7709.2005.00476.x. (Link to IsisCB)
+Walker, Mark. German National Socialism and the Quest for Nuclear Power, 1939-1949. New York: Cambridge University Press, 1989. (Link to IsisCB)
+Walker, Mark. Nazi Science: Myth, Truth, and the German Atomic Bomb. New York: Plenum Press, 1995. (Link to IsisCB)
+Weart, Spencer R. The Rise of Nuclear Fear. Cambridge, MA: Harvard University Press, 2012. (Link to IsisCB)
+Weart, Spencer R. “Scientists with a Secret.” Physics Today 28, no. 2 (February 1976): 23-30. (Link to IsisCB)
+Wellerstein, Alex. “General Groves’ Secret History.” Restricted Data: The Nuclear Secrecy Blog. September 5, 2014. http://nuclearsecrecy.com/2014/09/05/general-groves-secret-history.
+Wellerstein, Alex. “Knowledge and the Bomb: Nuclear Secrecy in the United States, 1939-2008.” PhD diss., Harvard University, 2010. (Link to IsisCB)
+Wellerstein, Alex. “Patenting the Bomb: Nuclear Weapons, Intellectual Property, and Technological Control.” Isis 99, no. 1 (2008): 57–87. https://doi.org/10.1086/587556. (Link to IsisCB)
+
+
+
+In particular, a letter to President Franklin D. Roosevelt signed by Albert Einstein and warning of potential German development of atomic bombs has been central to the official histories, to the point of distorting both the letter’s contents (which do not argue for building, much less using, an atomic bomb) and its impact (it was less directly important to the making of the bomb than is often implied). To put the reasons for its prominence simply, if Einstein was in favor of something, who would dare oppose it? That Einstein was deliberately excluded from the Manhattan Project as a security risk makes for a somewhat bitter irony. See Jerome, The Einstein File.↩
+For examples of a physics-driven narrative, see Rhodes, The Making of the Atomic Bomb; De Groot, The Bomb; Badash, Scientists and the Development of Nuclear Weapons; Kevles, The Physicists; and Smyth, Atomic Energy for Military Purposes. See also Kragh, Quantum Generations, esp. ch. 18.↩
+E.g., Hughes, American Genesis, ch. 5; Hounshell, Science and Corporate Strategy, ch. 16; Reed, The History and Science of the Manhattan Project; Hewlett and Anderson, A History of the Atomic Energy Commission; Weart, The Rise of Nuclear Fear; Campos, Radium and the Secret of Life.↩
+The recently-declassified Manhattan District History is the source of immensely useful details on the operation of the project; see Wellerstein, “General Groves’ Secret History” for contextual notes and copies of the files. Personnel figures come from Manhattan District History, Book 1, Volume 8 (“Personnel”), notably figures in Appendix A (charts 1, 1.1, and 6). The figures for 1943 were cited by a skeptical James Byrnes, head of the Office of War Mobilization, in an attempt to learn more about the project: James Byrnes to Henry Stimson (11 September 1943), Harrison-Bundy File, Roll 1, Target 8, Folder 8, “Manhattan (District) Project.” On the electrical supply, see Reed, The History and Science of the Manhattan Project, 203; on patents, see Wellerstein, “Patenting the Bomb,” 78-79; on secrecy, see Wellerstein, “Knowledge and the Bomb.”↩
+On the influence of science fiction imagery for early advocates of the effort, notably the work of H.G. Wells, which influenced both scientists and politicians, see Rhodes, The Making of the Atomic Bomb; Farmelo, Churchill’s Bomb and Weart, The Rise of Nuclear Fear.↩
+Goldberg, “General Groves”; Groves, Now It Can Be Told.↩
+Rhodes, The Making of the Atomic Bomb; Hewlett and Anderson, A History of the Atomic Energy Commission; Weart, “Scientists with a Secret”; Weart, The Rise of Nuclear Fear; Kragh, Quantum Generations.↩
+Walker, German National Socialism; Walker, Nazi Science; Weart, “Scientists with a Secret”; Rhodes, The Making of the Atomic Bomb; Gowing, Britain and Atomic Energy; Farmelo, Churchill’s Bomb.↩
+Manhattan District History, Book 1, Volume 5 (“Fiscal Procedures”), Appendix B, table 3.↩
+Walker, German National Socialism, esp. ch. 2.↩
+Hewlett and Anderson, A History of the Atomic Energy Commission; Goldberg, “Inventing a Climate.”↩
+Rhodes, The Making of the Atomic Bomb; Farmelo, Churchill’s Bomb.↩
+Hewlett and Anderson, A History of the Atomic Energy Commission; Reed, The History and Science of the Manhattan Project.↩
+Hewlett and Anderson, A History of the Atomic Energy Commission; Reed, The History and Science of the Manhattan Project. On the creation of the Manhattan Engineer District, see Jones, Manhattan, and Norris, Racing for the Bomb. The project had several code-names in the early days, including the Development of Substitute Materials, but in the end the blandness of the geographic nomenclature was appealing from a security standpoint.↩
+Hewlett and Anderson, A History of the Atomic Energy Commission; Reed, The History and Science of the Atomic Bomb.↩
+Reed, The Physics of the Manhattan Project.↩
+On the various methods, see Jones, Manhattan, chs. 6-8.↩
+On centrifuges, see Kemp, “The End of Manhattan.” On the other enrichment, see Reed, The Physics of the Manhattan Project, ch. 5. For cost breakdowns of specific programs (here and elsewhere), see Hewlett and Anderson, A History of the Atomic Energy Commission, Appendix 2.↩
+Jones, Manhattan, chs. 6-8; Kiernan, The Girls of Atomic City.↩
+Jones, Manhattan, ch. 9. Reed, The History and Science of the Manhattan Project also contains an excellent overview of the technical processes, and Reed, The Physics of the Manhattan Project goes into even more depth. Personnel figures come from Manhattan District History, Book 1, Volume 8 (“Personnel”), notably figures in Appendix A (charts 1, 1.1, and 6).↩
+The 225-gram figure comes from Hanford Site History of Operations, 1 January 1944-20 March 1945, Book 4, Nuclear Testing Archive, Las Vegas, Nevada, document NV0716547. The Nuclear Testing Archive, available through the Department of Energy’s OpenNet website, is an immensely useful collection of records related to the American wartime and Cold War nuclear program.↩
+Findlay and Hevly 2011; Brown, Plutopia.↩
+Norris, Racing for the Bomb; quoted in Groves, Now It Can Be Told, 140.↩
+Bird and Sherwin, American Prometheus; Herken, Brotherhood of the Bomb; Thorpe, Oppenheimer; data on staff at Los Alamos comes from Hawkins et al., Project Y, 484.↩
+Hoddeson et al., Critical Assembly; Schwartz, “The Making of the History of the Atomic Bomb”; Galison, Image and Logic, ch. 4; on the distribution of scientists by discipline, see the division graph in Hawkins et al., Project Y, 487.↩
+Hewlett and Anderson, A History of the Atomic Energy Commission. Of the memoirs, none demonstrates this disconnect in tone more than Feynman, “Surely You’re Joking, Mr. Feyman!”↩
+Hoddeson et al., Critical Assembly, chs. 7 and 13.↩
+Hoddeson et al., Critical Assembly, chs. 7 and 13; see also Reed, The History and Science of the Manhattan Project and Reed, The Physics of the Manhattan Project.↩
+Manhattan District History covers most of this far-flung work. On American efforts to acquire uranium during the war, see Helmreich, Gathering Rare Ores. Total uranium comes from Manhattan District History, Book 5, Volume 6 (“Electromagnetic Project – Operations”), Top Secret Appendix; plutonium data comes from Garner, “49 Interim Processing Program No. 24.”↩
+Szasz, The Day the Sun Rose Twice.↩
+Gordin, Five Days in August; Coster-Mullen, Atom Bombs. Coster-Mullen’s book, though self-published (and constantly being updated), contains a wealth of primary sources, notes, and detailed information about the construction and deployment of the first atomic bombs.↩
+Hewlett and Anderson, A History of the Atomic Energy Commission, chs. 10-11; Sherwin, A World Destroyed; Smith, A Peril and a Hope.↩
+Malloy, “’The Rules of Civilized Warfare.’”↩
+According to Groves’ later recollection, Roosevelt expressed some interest in using the weapon against Germany in December 1944. However, no weapons were yet available. See Norris, Racing for the Bomb, 334.↩
+Sherwin, A World Destroyed, with Stimson’s quote on 296.↩
+Smith, A Peril and a Hope; Badash, Scientists and the Development of Nuclear Weapons; Norris, Racing for the Bomb.↩
+Gordin, Five Days in August; Coster-Mullen, Atom Bombs; Hasegawa, Racing the Enemy.↩
+Coster-Mullen, Atom Bombs; Wellerstein, “Knowledge and the Bomb”; Gordin, Five Days in August; Weart, The Rise of Nuclear Fear; Walker, “Recent Literature”; Hasegawa, Racing the Enemy.↩
+Walker, “Recent Literature”; Walker, Prompt and Utter Destruction; Nobile, Judgment at the Smithsonian; Kohn, “History and the Culture Wars.” For those who emphasize the “momentum” of the project, see Goldberg, “General Groves”; Gordin, Five Days in August; and Malloy, “’The Rules of Civilized Warfare.’”↩
+Bernstein, “The Quest for Security”; Hewlett and Anderson, A History of the Atomic Energy Commission; Smith, A Peril and a Hope; Barnhart, “To Secure the Benefits of Science."↩
+Manhattan District History, Book 8, Volume 2 (“Los Alamos–Technical”), XIII-10. On the H-bomb, see Galison and Bernstein, “In Any Light.” On later work and controversies, see, e.g., Leslie, The Cold War and American Science.↩
+
+
+
+
+KEYWORDS
+
+
+
+                      physics
+                    
+
+
+
+                      military
+                    
+
+
+
+
+
+
+Citation
+
+Alex Wellerstein,
+"Manhattan Project," Encyclopedia of the History of Science (October 2019), accessed 12 June 2024. https://doi.org/10.34758/9aaa-ne35.
+
+
+
+
+Citation Information and Article Archives
+
+
+×
+
+
+
+
+
+Citation + Article Archives
+
+
+Download PDF
+
+
+Contact Author
+
+
+
+
+
+
+
+
+
+
+
+More Information
+
+
+About
+
+
+Submission Guidelines
+
+
+Editorial Team
+
+
+List of Experts
+
+
+Privacy Policy
+
+
+About CMU LPS
+
+
+
+      Login
+     / 
+    
+      Register
+
+
+
+
+
+
+            University Libraries
+          
+
+            4909 Frew St.
+          
+
+
+              Pittsburgh,
+            
+
+
+                PA
+              
+
+
+              15213
+            
+
+
+            +1 412 268 2444
+          
+
+            © 2024, Carnegie Mellon University
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

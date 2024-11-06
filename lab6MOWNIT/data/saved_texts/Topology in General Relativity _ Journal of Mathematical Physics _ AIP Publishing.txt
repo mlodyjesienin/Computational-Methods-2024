@@ -1,0 +1,1178 @@
+
+
+
+
+
+
+Topology in General Relativity | Journal of Mathematical Physics | AIP Publishing
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Publishers 
+
+
+AIP Publishing 
+
+
+Physics Today 
+
+
+Acoustical Society of America 
+
+
+American Association of Physics Teachers 
+
+
+American Crystallographic Association, Inc. 
+
+
+AVS: Science and Technology of Materials, Interfaces and Processing 
+
+
+Chinese Physical Society 
+
+
+Hefei General Machinery Research Institute 
+
+
+Laser Institute of America 
+
+
+The Society of Rheology 
+
+
+Tianjin University 
+
+
+
+
+Publications 
+
+
+Journals 
+
+
+Physics Today 
+
+
+Conference Proceedings 
+
+
+Books 
+
+
+
+
+Special Topics 
+
+
+Authors 
+
+
+Librarians 
+
+
+About 
+
+
+
+
+
+Search Dropdown Menu
+
+
+
+
+
+header search
+
+search input
+
+
+
+
+
+
+Search input auto suggest
+
+
+
+
+
+
+filter your search
+
+
+All ContentAIP Publishing PortfolioJournal of Mathematical Physics 
+
+
+Search
+
+
+
+
+
+Advanced Search
+|Citation Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ User Tools Dropdown
+
+
+
+
+
+
+
+
+
+
+
+
+
+Institutional Accounts 
+
+
+
+                                AGH Univ of Science & Tech
+                            
+
+                                POLAND
+                            
+
+Sign out of all accounts
+
+
+
+
+
+
+
+                
+Sign In                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle MenuMenu
+
+
+
+Home
+
+
+Browse
+
+
+Collections
+
+
+Editor's Picks
+
+
+Featured
+
+
+Press Releases
+
+
+Review Articles
+
+
+Scilights
+
+
+Special Topics
+
+
+
+
+Publish With Us
+
+
+Submit Your Manuscript
+
+
+Preparing Your Manuscript
+
+
+Publication Charges
+
+
+Author Resources
+
+
+AIP Author Services
+
+
+
+
+About
+
+
+Overview
+
+
+Editorial Policies
+
+
+Contact
+
+
+Editorial Board
+
+
+Editorial Advisory Board
+
+
+Journal Development Team
+
+
+JMP Young Researcher Award
+
+
+Why publish with JMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip Nav Destination
+
+
+
+
+Close navigation menu
+
+Article navigation
+
+
+
+
+
+
+Volume 8, Issue 4
+
+
+
+April 1967        
+
+
+
+
+
+
+
+
+
+
+
+Previous Article
+
+
+Next Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article Navigation
+
+
+
+
+
+
+Research Article|
+April 01 1967
+
+
+
+                    Topology in General Relativity
+ 
+
+
+
+Robert P. Geroch
+
+
+
+
+    Robert P. Geroch
+
+
+
+Palmer Physical Laboratory, Princeton University, Princeton, New Jersey
+
+
+        Search for other works by this author on:
+    
+
+This Site
+
+
+PubMed
+
+
+Google Scholar
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J. Math. Phys. 8, 782–786 (1967)
+
+
+
+
+https://doi.org/10.1063/1.1705276
+
+
+
+
+Article history
+
+
+
+Received:
+July 19 1966
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Views Icon
+
+Views
+
+
+
+
+Article contents
+Figures & tables
+Video
+Audio
+Supplementary Data
+Peer Review
+
+
+
+
+Share Icon
+
+Share
+
+
+
+
+Twitter
+Facebook
+Reddit
+LinkedIn
+
+
+
+
+Tools Icon
+
+Tools
+
+
+
+
+
+
+
+
+
+Reprints and Permissions
+
+
+
+
+
+
+
+
+
+Cite Icon
+
+Cite
+
+
+
+
+
+
+
+
+Search Site
+
+
+
+
+
+Citation
+Robert P. Geroch; Topology in General Relativity. J. Math. Phys. 1 April 1967; 8 (4): 782–786. https://doi.org/10.1063/1.1705276
+Download citation file:
+
+Ris (Zotero)
+Reference Manager
+EasyBib
+Bookends
+Mendeley
+Papers
+EndNote
+RefWorks
+BibTex
+
+
+
+
+toolbar search
+
+
+Search Dropdown Menu
+
+
+
+
+
+toolbar search
+
+search input
+
+
+
+
+
+
+Search input auto suggest
+
+
+
+
+
+
+filter your search
+
+
+All ContentAIP Publishing PortfolioJournal of Mathematical Physics 
+
+
+Search
+
+
+
+
+
+Advanced Search
+|Citation Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A number of theorems and definitions which are useful in the global analysis of relativistic world models are presented. It is shown in particular that, under certain conditions, changes in the topology of spacelike sections can occur if and only if the model is acausal. Two new covering manifolds, embodying certain properties of the universal covering manifold, are defined, and their application to general relativity is discussed.
+
+
+
+
+
+REFERENCES
+
+
+1.See, for example, J. R. Munkres, Elementary Differential Topology (Princeton University Press, Princeton, New Jersey, 1963).2.See, for example, H. Reichenbach, The Direction of Time (University of California Press, Berkeley, California, 1956);H. Reichenbach, The Philosophy of Space and Time (Dover Publications, Inc., New York, 1958), Sec. 21.3.E. Calabi and L. Markus, Ann. Math. 75, 63 (1962).Google ScholarCrossrefSearch ADS  4.The statement and an outline of the proof of this theorem were discovered by C. W. Misner. An important step in the argument was provided by L. Markus. Added in proof: Essentially the same result has been obtained by B. L. Reinhart, Topology, 2, 173 (1963).Google ScholarCrossrefSearch ADS  5.V. A. Rohklin, Dokl. Akad. Nauk USSR 81, 355 (1951).Google Scholar 6.See, for example, C. T. C. Wall, Ann. Math. 72, 292 (1960);Google ScholarCrossrefSearch ADS  R. Thom, Commun. Math. Helv. 28, 17 (1954).Google ScholarCrossrefSearch ADS  7.See, for example, N. Steenrod, The Topology of Fibre Bundles (Princeton University Press, Princeton, New Jersey, 1951), p. 207.8.H. Hopf, Math. Ann. 96, 225 (1926).Google ScholarCrossrefSearch ADS  See also J. Milnor, Topology from the Differential Viewpoint (University Press of Virginia, Charlottesville, Virginia, 1965), p. 35.9.See P. J. Hilton and S. Wylie, Homology Theory (Cambridge University Press, Cambridge, England, 1960), p. 167.10.See Ref. 9, p. 93.11.Here and elsewhere, Sn denotes the n‐sphere, and an x denotes the topological product.12.See Ref. 7.13.See, for example, E. J. McShane and T. Botts, Real Analysis (D. Van Nostrand Company, Inc., Princeton, New Jersey, 1959), p. 51.14.J. Milnor, Morse Theory (Princeton University Press, Princeton, New Jersey, 1963).15.See E. Lifschitz and I. M. Khalatnikov, Adv. Phys. 12, 185 (1963).Google ScholarCrossrefSearch ADS  16.J. A. Wheeler, Ann. Phys. (N.Y.) 2, 604 (1957);Google ScholarCrossrefSearch ADS  C. W. Misner, Rev. Mod. Phys. 29, 497 (1957);Google ScholarCrossrefSearch ADS  H. Leutwyler, Phys. Rev. 134, B1155 (1964).Google ScholarCrossrefSearch ADS  17.See Wheeler, Ref. 16.18.See Ref. 3, also S. Hawking, Phys. Rev. Letters 15, 689 (1965).Google ScholarCrossrefSearch ADS  19.See, for example, J. G. Hocking and G. S. Young, Topology (Addison‐Wesley Publishing Company, Inc., Reading, Massachusetts, 1961), p. 188.20.See, for example, A. H. Wallace, Algebraic Topology (Pergamon Press, Inc., New York, 1963), p. 63.21.L. Markus, Ann. Math. 62, 411 (1955).Google ScholarCrossrefSearch ADS  22.The image of S in M′ may consist of several disjoint parts. Here and elsewhere, we choose any one connected part to serve as S′.
+
+
+
+
+
+                    This content is only available via PDF.
+                
+
+
+
+© 1967 The American Institute of Physics.1967The American Institute of Physics
+
+
+
+
+
+
+You do not currently have access to this content.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Sign in
+
+
+            Don't already have an account? Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+
+                        You could not be signed in. Please check your credentials and make sure you have an active account and try again.
+                    
+
+
+Username
+?
+
+
+
+
+Password
+
+
+
+
+Sign In
+
+Reset password
+
+
+Register
+
+
+
+
+
+Sign in via your Institution
+Sign in via your Institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pay-Per-View Access
+$40.00
+
+
+
+ Buy This Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+682
+Views
+
+
+
+228
+
+Crossref
+
+
+
+
+
+
+
+
+
+
+
+
+View Metrics
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+Citing articles via
+
+
+Google Scholar
+
+
+CrossRef (228)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit your article
+
+
+
+ 
+
+
+Sign up for alerts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Read
+
+
+Most Cited
+
+
+
+
+
+
+
+Almost synchronous quantum correlations
+Thomas Vidick
+
+
+
+
+Eigenvalue ratios for Sturm–Liouville problems
+Jihed Hedhly
+
+
+
+
+Area law for steady states of detailed-balance local Lindbladians
+Raz Firanko, Moshe Goldstein, et al.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online ISSN 1089-7658
+Print ISSN 0022-2488
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+For Researchers
+
+
+For Librarians
+
+
+For Advertisers
+
+
+Our Publishing Partners 
+
+
+
+
+
+
+Explore
+
+
+Journals
+
+
+Physics Today
+    
+
+
+Conference Proceedings
+
+
+Books
+
+
+Special Topics
+
+
+Publishers
+
+
+
+
+
+
+
+pubs.aip.org
+
+
+About
+
+
+User Guide
+
+
+Contact Us
+
+
+Register
+
+
+Help
+
+
+Privacy Policy
+
+
+Terms of Use
+
+
+
+
+
+
+
+Connect with AIP Publishing
+
+
+Facebook
+
+
+LinkedIn
+
+
+Twitter
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Copyright
+    
+    AIP Publishing LLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close Modal
+
+
+
+
+
+Close Modal
+
+
+
+
+This Feature Is Available To Subscribers Only
+Sign In or Create an Account
+
+Close Modal
+
+
+Close Modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1437 @@
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Axiomatic System: Foundations & Applications | StudySmarter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Find Study Materials                                                                     
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                            Explanations                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Exams                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Magazine                                                                                                                                                                    
+
+
+
+
+
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Engineering
+
+
+English
+
+
+English Literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+Exams
+
+
+Read our Magazine
+
+
+
+
+
+
+
+
+
+
+                                Create Study Materials                                                                    
+
+
+
+
+
+Create Study Materials
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+Open in App
+
+
+
+Log In
+Start studying!
+
+
+
+
+Open in App
+Log out
+
+
+
+
+
+
+
+Find Study Materials for
+
+
+
+																																			Explanations																	                                                                
+
+
+
+
+																																			Exams																	                                                                
+
+
+
+
+																																			Magazine																	                                                                
+
+
+
+
+
+
+Main menu
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Engineering
+
+
+English
+
+
+English Literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+Exams
+
+
+Read our Magazine
+
+
+Create Study Materials
+
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math
+
+
+
+
+
+Logic and Functions
+
+
+
+
+Axiomatic system
+
+
+
+
+Axiomatic system
+An axiomatic system serves as the foundation of mathematics and logic, presenting a set of axioms from which theorems can be logically derived. It ensures consistency and clarity by starting with universally accepted truths without the need for proof. This structured approach underpins various fields, enabling rigorous proofs and deep understanding of complex concepts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Create learning materials about Axiomatic system with our free learning app!							
+
+
+
+
+
+									Instand access to millions of learning materials								
+
+
+
+
+									Flashcards, notes, mock-exams and more								
+
+
+
+
+									Everything you need to ace your exams								
+
+
+								Create a free account							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applied Mathematics
+
+
+Calculus
+
+
+Decision Maths
+
+
+Discrete Mathematics
+
+
+Geometry
+
+
+Logic and Functions
+
+
+
+
+
+
+
+
+
+Abraham Fraenkel
+
+
+Alan Turing
+
+
+Aleph null
+
+
+Algorithmic information theory
+
+
+Alonzo Church
+
+
+Axiomatic system
+
+
+Banach-Tarski paradox
+
+
+Bertrand Russell
+
+
+Cantor's theorem
+
+
+Cardinal number
+
+
+Categorical logic
+
+
+Complexity classes
+
+
+Computability theory
+
+
+Constructive mathematics
+
+
+Continuum hypothesis
+
+
+Decidability
+
+
+Ernst Zermelo
+
+
+First-order logic
+
+
+Formal system
+
+
+Formal verification
+
+
+Fuzzy logic
+
+
+Georg Cantor
+
+
+Giuseppe Peano
+
+
+Gödel's incompleteness theorems
+
+
+Homotopy type theory
+
+
+Intuitionistic logic
+
+
+Kurt Gödel
+
+
+Logical paradoxes
+
+
+Löwenheim-Skolem theorem
+
+
+Mathematical logic
+
+
+Modal logic
+
+
+Model theory
+
+
+Non-standard analysis
+
+
+Ordinal number
+
+
+P vs NP problem
+
+
+Peano axioms
+
+
+Predicate logic
+
+
+Principle of induction
+
+
+Proof calculus
+
+
+Proof theory
+
+
+Propositional logic
+
+
+Quantifier logic
+
+
+Recursion theory
+
+
+Russell's paradox
+
+
+Second-order logic
+
+
+Set theory
+
+
+Symbolic logic
+
+
+Tarski's undefinability theorem
+
+
+Temporal logic
+
+
+Turing completeness
+
+
+Type theory
+
+
+Zermelo-Fraenkel set theory
+
+
+
+
+Mechanics Maths
+
+
+Probability and Statistics
+
+
+Pure Maths
+
+
+Statistics
+
+
+Theoretical and Mathematical Physics
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Table of contents                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is an Axiomatic System?An axiomatic system forms the foundation of many areas of mathematics. It provides a logical structure whereby theorems are derived from a set of axioms through deductive reasoning. Understanding this system not only illuminates the underlying framework of mathematics but also enhances problem-solving skills.Understanding the Axiomatic System Meaning Axiomatic system: A set of axioms or assumptions that are accepted without proof and the deductions made from these axioms. A successful axiomatic system is both consistent and complete, meaning it does not produce contradictory results, and all statements within the system can be proven to be either true or false based on the axioms. Consider Euclidean geometry, which starts with simple axioms like "A straight line segment can be drawn joining any two points." From such initial assumptions, complex theorems about angles, triangles, and circles are derived. Another notable example is the set theory, foundational for modern mathematics, starting from axioms defining what a set is and how sets relate to each other. To delve deeper into the axiomatic system, visualise it as a building block in mathematics. Each block (axiom) supports others, creating a sturdy and expansive mathematical structure. These 'blocks' or axioms are not randomly selected; they are carefully chosen for their foundational qualities, setting the stage for an entire area of mathematical inquiry.Difference Between Axiomatic System and Other Mathematical SystemsThe main difference lies in the foundational approach. While other mathematical systems can be empirical or based on patterns observed in the natural world, an axiomatic system begins with established principles. These principles, or axioms, require no proof; they are universally accepted within the context of the system. This contrasts with systems where theories are developed inductively, grounded in experimentation or observation.Consider the number theory, for example. While it employs axiomatic principles, its theories often stem from exploration and pattern recognition. Prime numbers, for instance, follow a pattern that mathematicians seek to understand through various empirical methods, contrasting with the deductive approach of an axiomatic system. Such differences highlight the diverse methods of exploring mathematical truths.To effectively engage with an axiomatic system, one must be comfortable with accepting axioms at face value. This leap of faith is crucial for exploring the logical consequences that arise from these axioms.In summary, an axiomatic system lays the groundwork for significant parts of mathematics by starting with basic, assumed truths. From these truths, an entire structure of knowledge is built. This method differs from other mathematical systems that might rely more on observation or experimentation. Embracing this concept opens the door to a deeper understanding of mathematics and its logical structure.Axiomatic System ExamplesExploring examples of axiomatic systems in mathematics provides invaluable insight into how foundational principles underpin much of our mathematical understanding. These examples serve to illustrate both the power and elegance of axiomatic reasoning in developing complex ideas from simple, assumed truths.Through examining these systems, you'll gain an appreciation for the logical structure that dictates the progression from axiom to theorem, reinforcing the interconnectedness of mathematical concepts.Classic Examples of Axiomatic Systems in MathematicsTwo of the most influential axiomatic systems in mathematics are Euclidean geometry and Peano's axioms for the natural numbers. These systems not only demonstrate the fundamental nature of axioms but also how a well-structured set of principles can generate an expansive universe of theorems and ideas.Euclidean geometry begins with five postulates about points, lines, and planes from which the entire structure of classical geometry is derived. Similarly, Peano's axioms form the foundation of arithmetic, starting with the most basic properties of the natural numbers. Euclidean Geometry Axioms: A straight line segment can be drawn joining any two points.Any straight line segment can be extended indefinitely in a straight line.Given any straight line segment, a circle can be drawn having the segment as radius and one endpoint as centre.All right angles are congruent.Given a line and a point not on it, only one line can be drawn through the point parallel to the given line.Peano's Axioms for the Natural Numbers: 0 is a natural number.Every natural number has a successor, which is also a natural number.0 is not the successor of any natural number.Distinct natural numbers have distinct successors.If a set contains 0 and the successor of every number in the set, then it contains all the natural numbers. The fifth postulate in Euclidean geometry, also known as the parallel postulate, led to the development of non-Euclidean geometries where this axiom is replaced or omitted. This demonstrates the profound impact that changing just one fundamental assumption can have on an entire system, ultimately leading to the discovery of entirely new branches of mathematics such as hyperbolic and elliptic geometry.The axioms in an axiomatic system are designed to be as simple and self-evident as possible, often reflecting basic intuitions about the mathematical objects in question.Axiomatic System Formulas in UseIn applying axiomatic systems to solve problems, specific formulas derived from the axioms are frequently used. These formulas provide a direct method to calculate or prove desired properties within the system.For instance, in Euclidean geometry, the Pythagorean theorem \[a^2 + b^2 = c^2\] can be derived from the axioms and is then utilised to calculate the lengths of sides in right-angled triangles. Similarly, in arithmetic based on Peano's axioms, the formula for arithmetic addition \[n + m\] follows the inductive properties established by the axioms. Pythagorean Theorem: In a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. This theorem, symbolically represented as \[a^2 + b^2 = c^2\], is a fundamental relation in Euclidean geometry.The beauty of axiomatic systems lies not just in the ability to derive complex formulas such as the Pythagorean theorem but also in the capacity for these systems to form the basis of entire areas of mathematics. For example, Peano's axioms underpin our understanding of numbers and arithmetic, allowing for the development of algebra, calculus, and further mathematical fields. By starting from simple, accepted truths, these axioms enable a vast exploration of mathematical concepts and theorems.Formal Axiomatic System ExplainedA formal axiomatic system is a rigorous framework used to derive truths within a specific domain of mathematics or logic. By establishing a set of axioms, or self-evident truths, mathematicians can systematically build a logical structure where theorems follow naturally from these foundational principles.Such systems are the backbone of mathematical logic, providing a clear roadmap from fundamental assumptions to complex conclusions. Understanding how these systems operate opens up a deeper appreciation of the essence of mathematical reasoning.Components of a Formal Axiomatic SystemThe main components of a formal axiomatic system include axioms, rules of inference, and theorems. Each plays a crucial role in the construction and functionality of the system.Axioms: These are the foundational statements accepted without proof. They are considered the starting points of the system.Rules of Inference: These are logical rules used to derive theorems from axioms. They ensure the transitions from assumptions to conclusions are valid.Theorems: Derived from axioms and previously proved theorems, these are the statements that are proven to be true within the system. Axiom: A self-evident truth that is accepted without proof. Within a formal axiomatic system, axioms are the building blocks from which all other truths are derived.The choice of axioms is critical; they must be consistent (not contradictory) and independent (not derivable from each other) to ensure the integrity of the system.How a Formal Axiomatic System OperatesA formal axiomatic system operates through a process of logical deduction. Starting from the axioms, mathematicians apply the rules of inference to establish new truths, or theorems.The system's power lies in its ability to generate vast amounts of knowledge from a limited set of assumptions. This deductive process is iterative, building upon itself to explore all possible conclusions that can be drawn from the established premises. Example: In the formal axiomatic system of arithmetic, one of the axioms might state that \(0\) is a natural number. Using rules of inference, one can deduce properties of natural numbers, such as \(0\) being the additive identity, meaning \(0 + a = a\) and \(a + 0 = a\) for any natural number \(a\). From these, further theorems about addition, multiplication, and other arithmetic operations can be derived. One notable example of a formal axiomatic system is set theory, particularly the Zermelo-Fraenkel axioms with the Axiom of Choice (ZFC). These axioms provide a foundation for much of modern mathematics, allowing the construction of almost all mathematical objects, from numbers to functions and beyond. The operation of the ZFC system illustrates how fundamental concepts like sets and elements can, through logical deduction, lead to the establishment of comprehensive structures like the real number system and the concept of continuity.Complete Axiomatic SystemDiving deeper into mathematical structures, a complete axiomatic system is a pinnacle of logical consistency and comprehensive proof. This paradigm ensures that within its framework, every statement can be proven true or false. Such systems are not just theoretical ideals; they embody the precision and clarity that mathematics strives for.Understanding the intricacies of a complete axiomatic system offers insights into the very nature of mathematical logic and its aspirations towards exhaustiveness and decisiveness.Characteristics of a Complete Axiomatic SystemA complete axiomatic system distinguishes itself by a set of defining characteristics. These features are not merely academic; they form the backbone of effective and powerful mathematical inquiry.Consistency: There are no contradictions within the system; no theorem can prove both a statement and its negation.Completeness: Every statement formulated within the system can be proven true or false.Independence: No axiom can be derived from the others, ensuring that each is a fundamental building block of the system.Decidability: There exists a method or algorithm to ascertain the truth of any statement within the system. Completeness: A characteristic of an axiomatic system where for every statement expressible in the system, the statement is either provably true or provably false. This property signifies that the system leaves no statement undecidable within its own framework.Although completeness is an ideal goal for axiomatic systems, achieving it in practice can be exceedingly challenging, especially in more complex or expansive domains of mathematics.Challenges in Achieving a Complete Axiomatic SystemWhile the concept of a complete axiomatic system is intellectually appealing, the reality of mathematics presents several formidable obstacles. These challenges underscore the limits of what can be achieved through axiomatic reasoning alone.Gödel's Incompleteness Theorems: These pivotal results demonstrate that in any sufficiently complex axiomatic system, there are statements that cannot be proven or disproven within the system itself.Decidability: For more complex systems, determining the truthfulness of every possible statement becomes an impractically vast or even undecidable task.Choice of Axioms: Selecting axioms that are both sufficiently powerful and independent presents a delicate balance. Missteps can lead to inconsistencies or trivialities. Example of Gödel's Incompleteness Theorem: Consider a system \(S\) that includes arithmetic. Gödel demonstrated that there must exist a statement \(G\) within \(S\) such that \(S\) can neither prove \(G\) to be true nor prove it to be false. This fundamentally challenges the notion of having a complete axiomatic system in mathematics, signalling an inherent limitation in formal systems. The impacts of Gödel's Incompleteness Theorems extend beyond mathematics into philosophy, computer science, and even linguistics, causing a reevaluation of what it means to 'know' something in a formal system. These theorems not only highlight limitations but also illuminate the intricate relationship between truth, provability, and the limits of human comprehension in the realm of formal systems.
+Axiomatic system - Key takeaways
+
+Axiomatic system: A logical structure in mathematics where theorems are derived from a set of axioms using deductive reasoning. This system is the foundation for many areas of mathematics and enhances problem-solving skills.
+Consistency and Completeness: For an axiomatic system to be successful, it must not produce contradictory results (consistency) and must be able to prove all statements within the system as either true or false (completeness).
+Euclidean geometry and Set theory: Examples of axiomatic systems where simple axioms lead to the derivation of complex theorems about geometric figures and the relationships between sets, respectively.
+Formal Axiomatic System: A rigorous framework with axioms as foundational truths, rules of inference to derive theorems, and theorems as proven statements within the system, crucial for mathematical logic and reasoning.
+Complete Axiomatic System: An ideal axiomatic system in which every statement is decisively provable as true or false, demonstrating the system's logical consistency, completeness, independence, and decidability.
+
+
+
+
+
+
+
+
+
+
+							Flashcards in Axiomatic system						
+12
+
+
+
+						Start learning						
+
+
+
+
+
+
+
+
+
+
+
+What is an axiomatic system? 
+
+An axiomatic system is a logical structure forming the foundation of mathematics, where theorems are derived from a set of axioms through deductive reasoning. 
+
+
+
+
+
+What are the key characteristics of a successful axiomatic system? 
+
+Success is measured by the complexity of the problems it can solve, rather than its consistency or completeness. 
+
+
+
+
+
+How does an axiomatic system differ from other mathematical systems? 
+
+There is no significant difference; both approaches are equally supported by mathematical proofs and can be interchangeably used. 
+
+
+
+
+
+What are two classic examples of axiomatic systems in mathematics and their importance? 
+
+Euclidean geometry and Peano's axioms for the natural numbers. They demonstrate how a well-structured set of principles can generate an expansive universe of theorems and ideas from basic properties of points, lines, planes, and numbers. 
+
+
+
+
+
+How did Euclidean geometry's fifth postulate lead to new mathematical discoveries? 
+
+Its universal acceptance ensured geometric principles remained unchanged for centuries, hindering the development of new mathematical theories. 
+
+
+
+
+
+What is the significance of the Pythagorean theorem in the context of axiomatic systems? 
+
+It represents the only known link between Euclidean geometry and arithmetic, symbolizing a unique intersection of different mathematical fields. 
+
+
+
+
+
+
+
+
+
+Learn with 12 Axiomatic system flashcards in the free StudySmarter app
+We have 14,000 flashcards about Dynamic Landscapes.
+
+
+
+
+
+
+
+
+				Sign up with Email			
+Already have an account?				Log in
+
+
+
+
+
+Frequently Asked Questions about Axiomatic system		
+
+What is an axiomatic system in mathematics?
+An axiomatic system in mathematics is a set of axioms, or self-evident truths, from which theorems are logically derived. It provides a framework where mathematical statements can be proven as true within that system's confines.
+What are the fundamental axioms in an axiomatic system?
+The fundamental axioms in an axiomatic system are basic propositions or statements that are taken to be true without proof. These serve as the foundational building blocks upon which theorems are derived and the system's structure is established.
+How can one prove theorems within an axiomatic system?
+Within an axiomatic system, one proves theorems by logically deducing them from the set of axioms or from previously proven theorems, using the rules of inference defined by that system. This process ensures that theorems are consistent with the foundational axioms.
+What are the most common examples of axiomatic systems in use today?
+The most common examples of axiomatic systems in use today include Euclidean geometry, set theory (such as Zermelo-Fraenkel with the Axiom of Choice, or ZFC), Peano arithmetic for natural numbers, and the axioms underpinning modern algebraic structures like groups, rings, and fields.
+What are the limitations of an axiomatic system in addressing mathematical problems?
+A primary limitation of an axiomatic system lies in its inability to prove all mathematical truths within the system, as highlighted by Gödel's incompleteness theorems. Additionally, choosing axioms can be subjective, potentially leading to inconsistencies or contradictions if they're not well-founded.
+
+
+
+
+
+				Test your knowledge with multiple choice flashcards			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is an axiomatic system? 
+
+
+
+
+														A. A systematic approach to solving mathematical problems that relies solely on empirical evidence and pattern recognition.													
+
+
+														B. A type of mathematical software used for automating complex calculations and proofs.													
+
+
+														C. An outdated method of mathematical analysis that has been largely replaced by computational algorithms.													
+
+
+														D. An axiomatic system is a logical structure forming the foundation of mathematics, where theorems are derived from a set of axioms through deductive reasoning.													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are the key characteristics of a successful axiomatic system? 
+
+
+
+
+														A. Success is measured by the complexity of the problems it can solve, rather than its consistency or completeness.													
+
+
+														B. It allows for axioms to be updated or discarded based on experimental evidence.													
+
+
+														C. It is based on naturally observable phenomena and can be empirically tested.													
+
+
+														D. A successful axiomatic system is both consistent, not producing contradictory results, and complete, with all statements being provable as true or false.													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does an axiomatic system differ from other mathematical systems? 
+
+
+
+
+														A. Axiomatic systems use computer algorithms for proving theorems, while other systems rely on manual proof.													
+
+
+														B. Other systems are based on guessing and checking solutions until the correct answer is found, which differs from the logical deductions in axiomatic systems.													
+
+
+														C. An axiomatic system starts with established principles that require no proof, contrasting with systems developed inductively from observation or experimentation.													
+
+
+														D. There is no significant difference; both approaches are equally supported by mathematical proofs and can be interchangeably used.													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+											YOUR SCORE										
+
+
+
+
+											Your score 										
+
+
+
+										Join the StudySmarter App and learn efficiently with millions of flashcards and more!									
+
+										Learn with 12 Axiomatic system flashcards in the free StudySmarter app									
+
+										Already have an account?
+                                        
+											Log in										
+
+
+
+
+
+
+
+
+
+						Good job!						
+							Keep learning, you are doing great.						
+
+
+						Don't give up!					
+
+						Next						
+
+
+
+
+
+					Open in our app				
+
+
+
+
+
+		Discover learning materials with the free StudySmarter app	
+
+
+
+
+
+
+
+
+
+Sign up for free
+
+
+
+
+
+
+
+				About StudySmarter			
+
+
+			StudySmarter is a globally recognized educational technology company, offering a holistic learning platform designed for students of all ages and educational levels. Our platform provides learning support for a wide range of subjects, including STEM, Social Sciences, and Languages and also helps students to successfully master various tests and exams worldwide, such as GCSE, A Level, SAT, ACT, Abitur, and more. We offer an extensive library of learning materials, including interactive flashcards, comprehensive textbook solutions, and detailed explanations. The cutting-edge technology and tools we provide help students create their own learning materials. StudySmarter’s content is not only expert-verified but also regularly updated to ensure accuracy and relevance.		
+
+			Learn more		
+
+
+
+
+
+
+
+
+
+
+
+
+						StudySmarter Editorial Team					
+
+						Team Axiomatic system Teachers					
+
+
+
+
+
+
+
+
+12 minutes reading time						
+
+
+
+
+
+
+						Checked by StudySmarter Editorial Team 
+
+
+
+
+			Save Explanation		
+
+
+
+
+
+
+
+
+
+
+
+
+					Study anywhere. Anytime.Across all devices.				
+
+					Sign-up for free				
+
+
+
+
+
+Explore our app and discover over 50 million learning materials for free.
+
+		Sign up for free	
+
+
+
+
+
+
+
+
+
+
+
+
+
+94% of StudySmarter users achieve better grades with our free platform.	
+
+		Download now!	
+
+
+
+
+
+
+
+
+
+
+
+Create a free account to save this explanation.
+Save explanations to your personalised space and access them anytime, anywhere!
+
+
+
+
+
+
+                Sign up with Email
+
+
+
+
+
+                Sign up with Apple
+By signing up, you agree to the  Terms and Conditions and the Privacy Policy of StudySmarter.
+Already have an account? Log in
+
+
+
+
+
+Sign up to highlight and take notes. It’s 100% free.	
+
+
+
+                Get Started Free            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join over 22 million students in learning with our StudySmarter App
+
+
+The first learning app that truly has everything you need to ace your exams in one place
+
+
+
+
+
+Flashcards & Quizzes
+
+
+
+
+
+AI Study Assistant
+
+
+
+
+
+Study Planner
+
+
+
+
+
+
+
+
+
+Mock-Exams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart Note-Taking
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Sign up with Email					
+Already have an account? Log in						
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English (UK)	                                
+
+
+
+ English (US)
+ German
+ French
+ Spanish
+ Italian
+
+
+
+
+
+
+
+
+
+Company
+
+Career
+About Us
+
+
+
+
+
+Product
+
+Exams
+Explanations
+For Companies
+Magazine
+
+
+
+
+
+Help
+
+Contact
+Help Center
+Cancel Premium
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+© 2024 StudySmarter GmbH
+
+Terms
+Privacy
+Transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

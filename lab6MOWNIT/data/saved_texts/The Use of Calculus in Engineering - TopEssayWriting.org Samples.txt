@@ -1,0 +1,527 @@
+
+
+
+The Use of Calculus in Engineering - TopEssayWriting.org Samples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We have to use cookies to be sure that our website functions properly. Click here for more information about our Cookie Policy and then tap Allow to continue your work
+Accept
+
+
+
+
+
+
+
+1-866-515-7710
+Live Chat
+Contact us
+
+
+
+
+
+Top Special Offer! Check discount
+                                    here
+
+
+
+
+Get 13% off your first order - useTopStart13discount code now!
+                                    
+
+
+
+
+
+
+
+
+
+ServicesAdmission Essay Writing
+Essay Writers for Hire
+Essays for Sale
+Pay for Research Paper
+Research Paper Writing
+Write My Dissertation
+Write Papers for Money
+Essay Editing
+Research Paper Editing
+Buy Assignments
+
+Samples
+About us
+How it works
+MoreBlog
+Conclusion Generator
+Paraphrasing Tool
+Discounts
+FAQ
+Prices
+Testimonials
+Writers
+
+ 
+
+
+
+
+Account
+Order Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Samples
+Science
+Math
+Calculus
+The Use of Calculus in Engineering
+
+
+The Use of Calculus in Engineering
+
+
+
+
+                            275 views
+                        
+6 pages ~ 1501 words
+
+
+Get a Custom Essay Writer Just For You!
+Experts in this subject field are ready to write an original essay following your instructions to the dot!
+Hire a Writer
+
+
+Introduction
+Calculus is a fundamental topic in the field of mathematics that studies continuous change. Typically, there are two branches of calculus, namely differential and integral. Whereas differential calculus focuses on the determination of the rate of change and slopes, integration do the reverse to determine accumulative quantities and areas between or under a curve. Since its inception in the 17th
+century by Isaac Newton and Gottfried Leibniz, it has grown to be one of the most dominating theorems in many fields of study, especially economics, engineering, and all science-based courses. Some of the practical uses of calculus include the estimation of crucial points such as maxima and minima, understanding patterns, extrapolation and interpolation of figures, radioactivity and shape of curves. Many concepts, such as electromagnetism, electricity, heat, harmonic, and astronomy all depend considerably on the use of calculus. Although difficult to acknowledge, calculus appears in many of our daily activities. For instance, many people use Google to research but do not know the underlying algorithms used to refine their searches is actually an application of calculus. Therefore, it is of the essence to learn how calculus is applied in various subjects and this research paper will focus on engineering as the subject of interest.
+New projects require adequate resources, and it is vital to test if they work before embarking on construction or making them. Engineers and developers have benefitted a great deal from the use of mathematical models, which can predict the behavior of a system. These models apply calculus, in most cases, differential equations to classify dependent and independent variables. Sophisticated problems are broken down into mathematical concepts, such as algebra, vectors, and matrices. According to Wilkerson-Jerde et al., the most significant usability of calculus is turning complex problems to simple, manageable procedures and rules (587). For instance, when an ice pie is placed in a warm room, and a researcher wants to determine the time for the whole piece to melt, calculus can be used by establishing differential equations to calculate the rate of change. Also, it is essential for engineers to explain the concept of their proposal to stakeholders, which through calculus, it is possible to develop models that can be used to validate their arguments and assumptions with high accuracy.
+Engineering Applications
+For example, shock absorbers play a significant role in the automobile industry and are responsible for the comfort that we get even when riding on a bumpy road. To be able to design and manufacture shock absorbers, engineers must be able to analyze the way it will dissipate shocks, its behavior in the suspension system, spring rate, effect of parameters like mass, and its expected life in a particular application (useful in warranty drafting). All these require calculus. In most cases, these multi-variable problems result in complex nonlinear differential equations which are difficult to solve (Rassouli). However, advancement in computing technology most of the procedural steps in solving calculus problems are already programmed into algorithms, and today one only needs to key in parameters, and the computer does the rest. Therefore, calculus plays a monumental role to explain real-life engineering concepts through modeling and simulation.
+Calculus also finds use in the design of infrastructures, such as bridges and roads, buildings, and mechanical components. For instance, in the design of bridges, parameters such as weight, critical points, height, environmental conditions, vibration, and material are considered before construction, thus allowing only a robust design to be implemented. Differential calculus is vital in the estimation of the critical points, such as centroid and point of maximum deflection. In buildings, the structural analysis applies calculus concepts to determine the most appropriate position for allocating beams, the required number of supporting element, and the calculation of bending moments. An accurate estimation of distances between curves and walls are made easy when calculus is applied. Architects also use calculus to improve their design, since they can analyze the impact of shapes on the functionality (Michelle). For example, curved bridges have a higher holding capacity and use less material, and this can only be ascertained through calculus equations. Also, through calculus, it is possible to come up with archways that are asymmetry or odd shapes and still have a sound structure. Consequently, architects can compare different designs to select the most cost-effective, appealing, and structurally sound.
+Another important use of calculus in the construction design is an estimation of materials. Integral calculus is useful in the approximation of the areas between curves and lines and surface area, which can then be translated to materials and cost. Other utilities such as electricity and water can be approximated at the design stage. For example, calculus in thermodynamic analysis enables engineers to estimate heating and cooling requirement of a building using techniques such as Fourier and Taylor series, which can then determine the size and capacity of HVAC system to be installed. All these applications indicate the usefulness of calculus in the design stage of many constructions.
+Fluid mechanics is another branch of engineering that calculus has a considerable contribution. Fluid mechanics refers to the study of movement in both liquid and gases, which have a broad application in many sectors. At home, when emptying or filling a swimming pool using a hosepipe, calculus can be applied to estimate the amount of volume available and time it will take to complete the task. Bernoulli's equation is the most applied in fluid calculations. At the elemental school, the principle is reduced to a simple algebraic equation, but in the real sense, there are several applications of calculus in its derivation. The use of partial differentiation is prominently used when analyzing complex problems of fluid flow. In hydraulic power plants, calculus estimates the size of dams, the size of runners and notches, the level of water, effect of turbulence, and velocity.
+Calculation of gas movements also employs calculus. Ideal gas laws such as Boyle\u2019s law use partial derivatives to calculate parameters such as pressure and volume. These calculations are useful in the design of components such as turbines, propellers, and heat exchangers. The concept of counter current in many applications of heat exchangers like in boilers make use of calculus to estimate the capacity and functional behavior of a system. Additionally, aerodynamics is a vital consideration in aerospace engineering. In the analysis, calculus is the prime field that is consulted, especially in modeling and validation of concepts (Michelle). The car industry is the other sector that uses calculus in the analysis of fluid flow. For example, a car has several pipes, such as for fuel, brake-fluid, air-intake, and exhaust, which all need to be manufactured in high precision; otherwise, the vehicle will not function as desired. All these calculations, including the size of the pipes, velocity, maximum capacity of components, and the amount of fuel injected at each instance, requires knowledge of calculus.
+Additionally, calculus is useful even in everyday activity in a manufacturing setting. The primary use of calculus in this environment is the maximization of production in lines. Calculus is applied to analyze various variables in a production system, for instance, in juice factories variable will include raw materials, speed of conveyors, downtime, the number of lines, shifts, and bottling operation. These analyses can pinpoint bottlenecks in the production line and indicate which processes need an increase of speed or additional labor to increase the efficiency of the entire system. Another concept that uses calculus is the estimation of wait time. For example, during work study and measurement, production manager may be concerned how long a worker waits in store to receive supplies. To be able to estimate, he or she applies equations such as poison's distribution, which rely on calculus concept. Also, inventory systems make use of calculus to arrange the store effectively and in the allocation of parts using algorithms. Logistics of supplies from the industry also apply calculus to calculate distance and cost, therefore, coming up with cost-effective routes and reach all its customers with no delays.
+Conclusion
+In retrospect, calculus is a fundamental concept that finds use in many applications. In engineering, calculus is the building block and has a purpose in almost every activity. From the design stage, engineers use calculus to develop and analyze concepts. Mathematical models apply the concept of calculus to predict the behavior of a system. Fluid mechanics is yet another area that uses calculus in most of its calculation and application of principles. Manufacturing settings use it to maximize production, work measurement, and inventory system analysis. Therefore, it is undeniable that calculus has broad application in engineering as a discipline and will continue to be impactful even at a higher level with advancement in computerization.Wilkerson-Jerde
+Works Cited
+ 
+Michelle, Meg. Sciencing.Com, 2018, https://sciencing.com/uses-calculus-real-life-8524020.html. Accessed 3 Dec 2018.
+Rassouli. "Do Engineers Use Differential Equations?". Bright Hub Engineering, 2018, https://www.brighthubengineering.com/thermodynamics/74682-differential-equations-in-engineering/. Accessed 3 Dec 2018.
+Wilkerson-Jerde, Michelle Hoda, and Uri Wilensky. "Restructuring change, interpreting changes: The deltatick modeling and analysis toolkit." Proceedings of constructionism (2010).
+
+
+September 25, 2023
+
+
+
+
+
+
+
+
+
+Category:
+
+Science
+
+
+
+Subcategory:
+
+Math
+Technology
+
+
+
+Subject area:
+
+Calculus
+Engineering
+
+
+
+Number of pages
+6
+
+
+Number of words
+1501
+
+
+
+
+Downloads:
+55
+
+
+
+
+
+
+
+
+
+
+
+
+Rate:
+5
+
+
+
+
+
+
+
+
+
+
+Expertise Engineering
+
+
+Verified writer
+
+
+
+
+
+LuckyStrike has helped me with my English and grammar as I asked him for editing and proofreading tasks. When I need professional fixing of my papers, I contact my writer. A great writer who will make your writing perfect.
+
+Hire Writer
+
+
+
+
+
+
+
+
+This sample could have been used by your fellow student... Get your own unique essay on any topic and submit it by the deadline. 
+
+
+
+
+
+Eliminate the stress of Research and Writing!
+Hire one of our experts to create a completely original paper even in 3 hours!
+
+Hire a Pro
+
+
+Related Essays
+
+
+
+
+
+
+
+154 views
+3 pages ~ 609 words
+
+
+Data Analysis
+Statistics
+Correlation
+
+
+Pearson Correlation Test
+
+
+                                                The present assignment applied Pearson correlation test to evaluate the direction and strength of the association betwee...
+                                            
+
+
+Read More
+
+
+
+
+
+
+
+
+85 views
+2 pages ~ 398 words
+
+
+Research
+Data Analysis
+Statistics
+Theory
+
+
+A Comparison of Descriptive and Differential Statistics
+
+
+
+                                                The aim of this paper is to give a broad understanding of the underlying concepts of quantitative methods as well as off...
+                                            
+
+
+Read More
+
+
+
+
+
+
+
+
+117 views
+4 pages ~ 1053 words
+
+
+Data Analysis
+Statistics
+
+
+Demystifying Data Analysis
+
+
+                                                Statisticians and researchers in the modern era agree that most of the phenomena in the world are normally distributed. ...
+                                            
+
+
+Read More
+
+
+
+
+
+
+
+
+263 views
+2 pages ~ 296 words
+
+
+Algebra
+
+
+Calculating the Greatest Common Factor
+
+
+                                                The first step in solving this algebra is to open the brackets. We multiply the negative sign outside the bracket with t...
+                                            
+
+
+Read More
+
+
+
+
+
+
+
+
+185 views
+2 pages ~ 404 words
+
+
+Data Analysis
+Statistics
+
+
+Mean, Median, Mode, Range and Standard Deviation
+
+
+
+                                                Q1. Six students obtained the following scores during a mathematics test. 14, 13, 13, 11, 15, and 12. The above score ca...
+                                            
+
+
+Read More
+
+
+
+
+
+
+
+
+293 views
+3 pages ~ 779 words
+
+
+Geometry
+
+
+Complete Guide to Understanding Euclidean Geometry
+
+
+                                                The undefined terms in our axioms are point and lines.
+Axiom 1: Every point has at least two lines
+Axiom 2: Every line h...
+                                            
+
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+This sample is very popular!
+It's been downloaded over 55 times.
+
+
+Don't plagiarize, order a custom essay instead!
+Get a Custom Paper
+
+
+
+
+
+
+
+
+
+Legal
+Terms and Conditions
+Money Back Guarantee
+Cookie Policy
+Privacy Policy
+ 
+
+
+
+
+
+
+
+
+Chat Now
+Customer support
+
+
+Do you have any questions?
+[email protected]
+
+
+
+Toll Free1-866-515-7710
+
+
+
+
+Services
+Buy Coursework
+Buy Term Paper
+Buy Thesis Paper
+Buy Dissertation
+Buy Research Paper
+Buy Reaction Paper
+Buy College Essays
+Buy Argumentative Essay
+Buy Narrative Essay
+Expository Essay Writing
+Law Essay Writing
+Dissertation Writing
+APA Paper Writing
+MBA Essay Writing
+Nursing Paper Writing
+Graduate Essay
+Case Study
+Plagiarism Free Essays
+Research Paper for Sale
+Write My Assignment
+Write My Research Paper
+Write My Thesis
+Write My College Essay
+Coursework Writing Service
+History Essay Writing Service
+Business Essay Writing Service
+Psychology Essay Writing Service
+Book Review Writing Service
+Literature Review Writing Service
+Finance Essay Writing Service
+Persuasive Essay Writing Service
+Economics Essay Writing Service
+Descriptive Essay Writing Service
+Analytical Essay Writing Service
+ 
+
+
+
+
+
+© TopEssayWriting.org, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

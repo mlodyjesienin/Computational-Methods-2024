@@ -1,0 +1,705 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Use of “Mathematical Modeling” in Physics: Case of Representations and Teaching–Learning Practices | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Proceedings of the 6th International Conference on Big Data and Internet of Things
+
+
+
+
+
+Conference paper
+
+
+
+The Use of “Mathematical Modeling” in Physics: Case of Representations and Teaching–Learning Practices
+
+Conference paper
+First Online: 29 March 2023
+
+
+
+ pp 33–46
+
+
+Cite this conference paper
+
+
+
+
+
+
+
+
+
+
+
+Proceedings of the 6th International Conference on Big Data and Internet of Things
+
+(BDIoT 2022) 
+
+
+
+
+
+
+
+
+
+
+
+Fouad El-hars 
+            ORCID: orcid.org/0000-0001-7827-406914, Rachid Souidi 
+            ORCID: orcid.org/0000-0003-2912-993514, Issam Benqassou 
+            ORCID: orcid.org/0000-0001-7066-613X14, Abdelhamid Lechhab 
+            ORCID: orcid.org/0000-0001-5850-812014 & …Moulay Mustapha Hafid 
+            ORCID: orcid.org/0000-0003-3539-734614 Show authors
+
+
+
+
+
+
+
+Part of the book series:
+Lecture Notes in Networks and Systems ((LNNS,volume 625))
+                    
+
+
+
+
+
+
+
+
+Included in the following conference series:
+
+International Conference On Big Data and Internet of Things
+
+
+
+
+
+
+
+
+
+268 Accesses
+
+
+
+
+
+
+
+
+ AbstractProfessors and students rarely use mathematical modeling as a means for understanding physical phenomena, which negatively impacts on the quality of learning. The current study probes the theoretical landscape surrounding mathematical modeling in the context of teaching physics in Moroccan high schools. In this study, a survey, based on two questionnaires intended for the two actors of the teaching–learning operation will be implemented. The analysis of the surveys allows us to characterize the modeling approach that is supposed to be taught at this school level. We test the ability of teachers and students to detect modeling in the physics classroom, the criteria that define it and its limitations. The forms of modeling that interest us are used in connection with the concepts of force and differential equations. These govern the dynamics of kinetic variables and electrical phenomena in circuits. These important results show the difficulties encountered in the use of mathematical modeling in physics. We propose resolution models to restore the balance between these two axes.
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this chapter
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chapter
+      
+
+
+        EUR 29.95
+       
+
+
+       Price includes VAT (Poland)
+      
+
+        
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter 
+       
+
+
+
+
+
+
+
+ eBook
+      
+
+       EUR 234.33
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+ Softcover Book
+      
+
+       EUR 299.59
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+
+
+
+
+
+
+
+Institutional subscriptions
+                                        
+
+
+
+
+
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+An Educational Perspective on the Connections Between Physics and Mathematics
+                                        
+
+
+Chapter
+© 2023
+
+
+
+
+
+
+
+
+
+Mathematical modeling in Germany and France: a comparison of students’ modeling processes
+                                        
+
+
+Article
+Open access
+27 January 2020
+
+
+
+
+
+
+
+
+
+Quod erat demonstrandum: Understanding and Explaining Equations in Physics Teacher Education
+                                        
+
+
+Article
+04 February 2015
+
+
+
+
+
+
+
+ ReferencesMazouze, B., Lounis, A.: Résolution de problèmes et apprentissage des ondes: quels types de difficultés rencontrent les élèves? Review of Science, Mathematics and ICT Education 9(2), 25–40 (2015). https://doi.org/10.26220/rev.2216Article 
+    
+                    Google Scholar 
+                Chekour, M., Laafou, M., Janati-Idrissi, R.: What are the adequate pedagogical approaches for teaching scientific disciplines? Physics as a case study. J. Educ. Soc. Res. 8(2), 141–148 (2018). https://doi.org/10.2478/jesr-2018-0025Article 
+    
+                    Google Scholar 
+                Chekour, M., Laafou, M., Janati-Idrissi, R.: Distance training for physics teachers in Pspice simulator. Mediterr. J. Soc. Sci. (2015). https://doi.org/10.5901/mjss.2015.v6n3s1p232Article 
+    
+                    Google Scholar 
+                Chekour, M.: The impact perception of the resonance phenomenon simulation on the learning of physics concepts. Phys. Educ. 53(5), 055004 (2018). https://doi.org/10.1088/1361-6552/aac984Article 
+    
+                    Google Scholar 
+                Atteia, M.: Physique et Mathématiques. Éditions Universitaires Européennes. https://perso.math.univ-toulouse.fr/yak/files/2011/02/Atteia_physMath.pdf (2017)Tiberghien, A.: Modélisation des savoirs dans la classe en didactique de la physique. Recherches en éducation, (29) (2017). https://doi.org/10.4000/ree.2957Gaidioz, P., Tiberghien, A.: Un outil d’enseignement privilégiant la modélisation. Bull. Un. Phys. 97(850), 71–83 (2003). http://pegase.ens-lyon.fr/sites/default/files/2019-05/BUP_Modelisation_SESAMES_1.pdfTiberghien, A.: Causalité dans l’apprentissage des sciences. Intellectica 38(1), 69–102 (2004). https://www.persee.fr/doc/intel_0769-4113_2004_num_38_1_1709Searle, J.R.: What is an institution? J. Inst. Econ. 1(1), 1–22 (2005). https://doi.org/10.1017/S1744137405000020Article 
+    MathSciNet 
+    
+                    Google Scholar 
+                Hadji, H.: Développement de la compétence métasyntaxique dans un contexte d’apprentissage plurilingue. Cas d’élèves de 6e AEP. ACTES 5, 28. https://tacd-2021.sciencesconf.org/data/pages/TACD_2021_Actes_volume_5_final.pdf#page=30Sensevy, G.: Le jeu comme modèle de l’activité humaine et comme modèle en théorie de l’action conjointe en didactique. Quelques remarques. Nouvelles perspectives en sciences sociales: Revue internationale de systémique complexe et d’études relationnelles 7(2), 105–132 (2012). https://www.erudit.org/en/journals/npss/2012-v7-n2-npss0355/1013056ar.pdfBesson, L., Borel, J.: Conceptions des élèves en physique: quels effets sur la pratique des enseignants vaudois? (2012). https://doc.rero.ch/record/233220/files/md_ms2_p13179_p23585_2012.pdfRobert, A., Rogalski, J.: Le système complexe et cohérent des pratiques des enseignants de mathématiques: une double approche. Can. J. Sci. Math. Technol. Educ. 2(4), 505–528 (2002). https://doi.org/10.1080/14926150209556538Article 
+    
+                    Google Scholar 
+                Larsen-Freeman, D.: Teaching grammar. Teaching English as a second or foreign language 3, 251–266 (2001). https://www.uibk.ac.at/anglistik/staff/freeman/course-documents/tesfl_-_teaching_grammar.pdfUshioda, E.: Ema ushioda trinity college dublin, ireland language learning at university: exploring the role of motivational thinking. Motivation and Second Language Acquisition 23 (2001)
+                        Google Scholar 
+                Download references Author informationAuthors and AffiliationsHigher School of Education and Training, Ibn Tofail University, Kenitra, MoroccoFouad El-hars, Rachid Souidi, Issam Benqassou, Abdelhamid Lechhab & Moulay Mustapha HafidAuthorsFouad El-harsView author publicationsYou can also search for this author in
+                        PubMed Google ScholarRachid SouidiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarIssam BenqassouView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAbdelhamid LechhabView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMoulay Mustapha HafidView author publicationsYou can also search for this author in
+                        PubMed Google ScholarCorresponding authorCorrespondence to
+                Fouad El-hars . Editor informationEditors and AffiliationsENSIAS, Mohammed V University, Rabat, MoroccoMohamed Lazaar FST, Abdelmalek Essaâdi University, Tangier, MoroccoEl Mokhtar En-Naimi FST, Abdelmalek Essaâdi University, Tangier, MoroccoAbdelhamid Zouhair ENSA, Abdelmalek Essaâdi University, Tetuan, MoroccoMohammed Al Achhab ENSA, Abdelmalek Essaadi University, Tetouan, MoroccoOussama Mahboub  Rights and permissionsReprints and permissions Copyright information© 2023 The Author(s), under exclusive license to Springer Nature Switzerland AG About this paperCite this paperEl-hars, F., Souidi, R., Benqassou, I., Lechhab, A., Hafid, M.M. (2023).  The Use of “Mathematical Modeling” in Physics: Case of Representations and Teaching–Learning Practices.
+
+                     In: Lazaar, M., En-Naimi, E.M., Zouhair, A., Al Achhab, M., Mahboub, O. (eds) Proceedings of the 6th International Conference on Big Data and Internet of Things. BDIoT 2022. Lecture Notes in Networks and Systems, vol 625. Springer, Cham. https://doi.org/10.1007/978-3-031-28387-1_4Download citation.RIS.ENW.BIBDOI: https://doi.org/10.1007/978-3-031-28387-1_4Published: 29 March 2023
+                            Publisher Name: Springer, Cham
+                                Print ISBN: 978-3-031-28386-4
+                                Online ISBN: 978-3-031-28387-1eBook Packages: Intelligent Technologies and RoboticsIntelligent Technologies and Robotics (R0)Share this paperAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                                Provided by the Springer Nature SharedIt content-sharing initiative
+                             Publish with usPolicies and ethics
+
+
+
+
+
+
+
+
+
+
+Access this chapter
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chapter
+      
+
+
+        EUR 29.95
+       
+
+
+       Price includes VAT (Poland)
+      
+
+        
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter 
+       
+
+
+
+
+
+
+
+ eBook
+      
+
+       EUR 234.33
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+ Softcover Book
+      
+
+       EUR 299.59
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+
+
+
+
+
+
+
+Institutional subscriptions
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+149.156.126.11
+
+Polish Consortium ICM University of Warsaw (3000169041)  - AGH University of Science and Technology (2000159061)  - Polish Consortium ICM University of Warsaw (3003616166) 
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+
+

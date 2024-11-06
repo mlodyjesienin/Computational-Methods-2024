@@ -1,0 +1,415 @@
+
+
+
+
+The Manhattan Project
+
+
+
+The Manhattan Project
+
+Introduction
+Importance of Core Engineering Disciplines to the Manhattan Project
+Significance of Communication
+Morality of the Manhattan Project
+Conclusion
+References
+
+Abstract
+
+	The pivotal engineering and scientific success of the Twentieth century was the Manhattan
+	Project.  The Manhattan Project assimilated concepts and leaders from all scientific fields
+	and engineering disciplines to construct the first two atomic bombs.  From the study of 
+	nuclear physics and chemistry to the practical engineering and processing of uranium 235 
+	and plutonium 239 and the final construction of the weapons, scientific knowledge grew at 
+	an exponential rate to critical levels.  The presence of communication amid scientific minds 
+	was equally important to the success of the Manhattan Project as scientific intellect was. 
+	The only cloud hanging over the impressive achievement of the atomic researchers and 
+	engineers is what their success truly meant; hundreds of thousands of innocent lives 
+	obliterated.  Yet this grave definition of success cannot diminish the impressive 
+	collaboration and efficiency of the Manhattan Project. 
+	
+	
+	Index Terms � Atomic Bomb, Fat Man, Little Boy, Manhattan Project, Oppenheimer, J. Robert. 
+	
+Introduction
+
+	The Manhattan Project was the American program for researching and developing the first 
+	atomic bombs.  The weapons produced were based solely upon the principles of nuclear fission
+	of uranium 235 and plutonium 239, chain reactions liberating immense amounts of destructive 
+	heat energy.  Although originally established in Manhattan, New York by the Manhattan 
+	Engineer District of the U.S. Army Corps of Engineers, the majority of the research took 
+	place under director General Leslie Groves at the Los Alamos laboratory in New Mexico.  The 
+	goal of the Manhattan Project was effectively summed up by scientist Robert Serber when he 
+	deduced, �Since the one factor that determines the damage is the energy release, our aim is 
+	simply to get as much energy from the explosion as we can.�[1] Thus, due to the nature of the
+	program�s objective, the Manhattan Project is one of scientific engineering�s foremost 
+	successes.
+	
+
+	In the quest for an atomic-powered weapon, the secrets of nuclear physics and chemistry were
+	exposed.  Following the theoretical assessment of producing a controllable nuclear chain 
+	reactor, physical engineering was employed to construct the specific mechanics required.  
+	Communication contributed as much to the success of the Manhattan Project as did scientific 
+	discovery.  Although the creation of the first atomic weapon was clearly a technological 
+	triumph, the question of morality and responsibility to ethics will forever plague the topic.
+	Regardless of whether America was morally justified in deploying atomic weaponry on Japan, 
+	though, the Manhattan Project will always be an excellent example of collaboration and 
+	communication in scientific and engineering fields.   
+	
+Importance of Core Engineering Disciplines to the Manhattan Project
+
+
+	�A little bomb like that,� declared physicist Enrico Fermi, enthralled by his first taste of 
+	nuclear fission, �and it would all disappear.�[2].  
+	
+
+	The Atomic Age, a period of incessant discovery and revelation of atomic and subatomic 
+	wonders - an age that revolutionized the physical world - began on a vacant playing field 
+	beneath the University of Chicago stadium on December 2, 1942.  In the late afternoon of this
+	momentous day, Fermi and Leo Szilard created the first controlled nuclear reactor, a model 
+	later reconstructed into five different reactor prototypes.[3] From the first controllable 
+	chain reaction to the dropping of atomic weapons on Hiroshima and Nagasaki, Japan, the fields
+	of physics, chemistry, and mathematics - the core disciplines of modern engineering � raced 
+	mercilessly ahead to godly enlightenment: the power of life and annihilation.
+	
+
+	The first atomic bomb, a weapon harnessing the devastating power of nuclear fission, was 
+	developed as an end to World War II and all war thereafter.  Comprehension of the bomb and 
+	its historical development is attained by breaking the subject into three related components:
+	chemistry, nuclear physics, and the practical engineering that realized the theoretical dream.
+	
+The Chemistry Aspect
+	
+	Fission is an elementary chemical interaction between subatomic particles.  Nuclear fission 
+	is defined as the splitting of an atom by nucleus bombardment.  Atoms consist of three 
+	subatomic particles: negatively charged electrons, positively charged protons, and neutrons, 
+	which have no electrical charge.  Atomic nuclei are dense cores of atoms composed of neutrons
+	and protons, and are thus positively charged.  Chemical reactions, from basic acid-base 
+	titrations to nuclear fission, involve the collision of atomic particles. 
+	
+
+	Fission begins with the high-energy collision of neutrons with the nucleus of another atom.  
+	Protons cannot partake in nuclear bombardment because of the electrostatic repulsion between 
+	positively-charged protons and nuclei.  For fission to proceed, a neutron fired at the atom 
+	must fuse with the nucleus, producing a less-stable isotope.  The �heavy� atom, chemically 
+	volatile, will split into two stable atoms, discharge neutrons, and generate energy (in the 
+	form of Gamma radiation).  The neutrons released are free to collide and fuse with nuclei of
+	other nearby atoms � a chain reaction ensues, progressing exponentially throughout the sample of atoms, releasing more and more heat radiation.  It is this constant amplification of energy that constitutes the devastating power of an atomic weapon.  
+	
+
+	If every atom were fissionable, there would be no stability to matter and the world would be
+	an uninhabitable chaos of energy transformations.  Thus, only certain isotopes of few atoms 
+	will undergo a fissile chain reaction.  Nobel physicist Neils Bohr discovered that Uranium,
+	the ninety-second element, is an example of a fissionable atom.[4] the predominant form of 
+	uranium has a mass number of 238 and is relatively stable; U-235, a rare isotope, easily 
+	undergoes nuclear fission and can sustain a chain reaction.  If a neutron traveling at 
+	adequate velocity and the appropriate angle collides with a uranium-235 nucleus, the unstable
+	nucleus absorbs the neutron, consequently increasing to an exceedingly unstable state.   
+	Instantly the U-236 splits into two atoms of different elements, emitting 2 neutrons that 
+	carry on the chain reaction, and liberating large quantities of gamma radiation.  
+	
+
+	Subsequent to John Dunning and Eugene Booth�s successful separation of uranium 235 from 
+	uranium 238 in 1941 [5], uranium became the leading example for fission research.  As 
+	scientists probed further into the capabilities of fission, they began to visualize, as 
+	Fermi did, the awesome destructive potential of only a minute mass of uranium 235.  Thus, the
+	dream of a weapon with unmitigated atomic power was spawned.
+	
+
+	With this basic knowledge of atomic chemistry and the motivation of a world crisis, the 
+	Manhattan project began in 1942.  Two prominent challenges delayed the successful unleashing
+	of nuclear energy: processing of sufficient fissionable material, and the actual design of a 
+	nuclear bomb that would maintain and maximize a fissile chain reaction.  Dunning and Booth 
+	managed to separate the two isotopes of uranium before the institution of the Manhattan 
+	project, proving that it was indeed possible.  But the level at which their research was 
+	performed was purely scientific; a project tasked with ending a world war required much more
+	intensive and efficient processing.  Additionally, no one had any experience constructing a 
+	dimensionally-feasible nuclear reactor in deployable size. 
+	
+
+	As the Manhattan team quickly learned, the relative abundance of uranium 235 was not only 
+	extremely small, but when found, uranium ore was nearly impossible to purify into U-235.  
+	Natural uranium ore is comprised of a mixture of isotopes 235 and 238.  Typically, one 
+	percent of the mass of uranium ore being considered is composed of the unstable isotope, 
+	while the rest is relatively useless U-238.[6] Therefore, to develop the prophesized weapon, 
+	engineering innovations were essential.  Ernest O. Lawrence of the University of California, 
+	Berkeley developed the first technique to isolate a practical amount of uranium 235, using a 
+	modified mass spectrometer.[7]  Lawrence�s method dealt with the electromagnetic properties 
+	of atoms, an integration of chemistry and physics.     
+	
+
+	Uranium 235 is a lighter isotope than Uranium 238.  Thus, when equal physical forces act on 
+	atoms of U-235 and U-238, the isotopes will behave simply as two different masses.  Therefore,
+	as Newton�s laws describe, the force acting on the lighter mass will show greater affect on 
+	the motion of the mass than the force acting on the heavier mass.  In Lawrence�s apparatus, 
+	the magnetic force exerted by an electromagnetic arch attracted the electrically charged 
+	portions of atoms, and thus, uranium atoms traveled along the raised arc.  Uranium 235 atoms,
+	naturally lighter than the stable isotope, would pass closer to the magnetic tract than the 
+	heavier U-238 atoms, and could thus be collected.  To mobilize the uranium atoms into gaseous
+	particles, fluorine gas was circulated over solid uranium ore, creating uranium tetrachloride
+	gas.  The gaseous particles were then passed across the arc multiple times, each trial 
+	gaining a more purified sample of uranium 235 tetrachloride.
+	
+
+	To Lawrence�s chagrin, his method of uranium purification proved largely inefficient.  Due to
+	high maintenance costs and the time-consuming nature of the process, only one gram of uranium
+	235 was harvested after millions of dollars spent in production and repairs.[8] Lawrence�s 
+	design was quickly abandoned.  
+	
+
+	General Leslie Groves, director of the Manhattan Project, purchased land in Oak Ridge, 
+	Tennessee to pursue another proposed method of uranium separation.  Centered on the theory of
+	gaseous diffusion of uranium hexafluoride, principles of chemistry and physics were again 
+	assimilated in an attempt to accomplish a feat of engineering.  Similarly, the technique 
+	Groves pursued dealt with the motions of particles of different masses.  When contained in a 
+	porous vessel, gaseous particles will randomly collide and bounce until passing through a 
+	pore in the container � a process known as effusion.  At constant temperature, all gaseous 
+	particles have equal kinetic energies, and therefore, through the properties of 
+	thermodynamics, less-massive particles move with higher velocity than heavier particles.  
+	When applied to effusion, lighter gases travel across a porous membrane faster than heavier 
+	gases.  Uranium 235 hexafluoride, the lighter of the two isotopic gases, diffuses faster than 
+	U-238 hexafluoride.  Over intervals of time, Groves concluded, this process could be used to 
+	separate uranium isotopes.  
+	
+
+	The foremost problem with this technique was the quality of materials used in construction.  
+	The masses of the two isotopes of uranium are so similar that the diffusion must be run in 
+	completely airtight conditions.  Grease could not be used to seal the miles of tubing, 
+	however, because uranium hexafluoride reacts so quickly with organic compounds.  Thus, 
+	materials engineering was incorporated to fabricate new plastics to assemble the contraption.
+	The engineering efforts resulted in an effective material known as Teflon.[9] Higher 
+	quality porous membranes were essential to the process as well.  The final product was a 
+	$100,000,000 facility consisting of thousands of consecutive membranes and diffusion tanks 
+	across miles of Teflon tubing � an engineering masterpiece.[10] Due to restrictions of the 
+	budget, however, construction on the Oak Ridge plant was only carried far enough to produce a
+	mixture of the two isotopes, half stable, half unstable.[11] This end product was 
+	subsequently fed into other series of separation techniques, becoming the main source of 
+	U-235. 
+	
+
+	Following Bohr�s discovery of fissionable uranium in 1941, Glen Seaborg capitalized on years 
+	of research by the discovery of the ninety-fourth element, plutonium.[12] Later, in 1942, 
+	another team of researches concluded that, although not as fissile as uranium 235, an isotope
+	of plutonium, Pu-239 could sustain a chain reaction.[13]  Furthermore, it was found that 
+	uranium 238, if exposed to alpha particles (Helium nuclei) in a reactor for extended periods 
+	of time, could actually increase in atomic number to become plutonium 239.  The discovery of 
+	this correlation between stable uranium and fissionable plutonium led to rapid advances in 
+	the production of atomic weaponry: not only was another fissile material available, but a 
+	method for its accumulation was already conceived.
+	
+Engineering the Gadget
+
+	Although the problem of understanding, processing, and purifying fissionable materials was 
+	solved, the actual design of a working bomb had yet to be determined.  To date, all nuclear 
+	reactors were much too large and uncontrollable to be released as an aerial bomb.  If the 
+	gadget did not meet certain dimensional specifications, then it would not function correctly.
+	If released, it was essential that the bomb detonated � Germany was simultaneously conducting
+	research on atomic power, and it would prove disastrous for stores of fissionable material to
+	fall into the enemies� hands.  Conversely, if not constructed properly, fission could occur 
+	at such a rapid rate that the bomb would be uselessly nondestructive.  Thus, the Manhattan 
+	team now faced a challenge of mechanical construction and calculations.	
+	
+
+	A specific mass of fissionable material, termed the �critical mass,� is necessary to begin 
+	and maintain a nuclear chain reaction.  Critical mass is calculated as the ratio between 
+	volume, density, and surface area, such that during the reaction, released neutrons collide
+	with fissionable nuclei more often than they escape from the mass, ensuring that a chain 
+	reaction occurs.[14] If an amount greater than the critical mass, a �supercritical mass,� 
+	reacts, then the chain reaction will begin and end so quickly (in millionths of a second), 
+	that the net energy released from the reaction will be far less than the theoretical 
+	potential.[15]  Additionally, critical mass of a fissionable material can only exist for a 
+	fraction of a moment due to the material�s instability.  Thus, enough neutrons must collide 
+	with nuclei at exactly the instant critical mass is attained to create a nuclear chain 
+	reaction.  
+	
+
+	The first design for a feasible atomic bomb was based upon using uranium 235 in a gun-type 
+	detonator.  The basis for the bomb was the collision and fusion of two sub-critical masses of
+	U-235 by conventional, external explosions into one, critical mass.  A sphere of uranium 235 
+	was the heart of the bomb.  A section of the inner core of the sphere was removed and placed 
+	far away from its complementary mass.  This inner section, the �bullet�, was then surrounded 
+	with explosives so that when detonated, the blast would propel the bullet into its target, 
+	the larger sphere of uranium.  At this point, neutrons would collide with nuclei from the 
+	explosion and critical mass obtained. 
+	
+
+	Plutonium 239, a less fissionable substance than uranium 235, required a different design to 
+	function as the fissile material of an atomic bomb.  Scientist Seth Neddermeyer conceived the
+	basics behind a workable plutonium bomb built upon implosion.[16] Neddermeyer showed that 
+	upon beginning of the fission reaction, a core of plutonium would expand and the reaction 
+	would quickly diminish.  Consequently, the volume of the plutonium mass must remain constant 
+	for fission to continue to its optimal capacity.  Thus, an original sphere composed of 
+	beryllium and polonium (both radioactive elements), surrounded by equally spaced sections of 
+	Pu-239 was placed at the center of the bomb.  This core was then surrounded by traditional 
+	explosives.  Upon detonation, the force of the outer explosion would propel the sub-critical 
+	plutonium fragments together, resulting in a critical mass with fixed volume do to external 
+	pressure of the surrounding explosions.  
+	
+
+	Certain components were common in both implosion and gun-type bombs.  A uranium 238 tamper, 
+	or shell, surrounded the fissionable critical mass in both bombs, functioning to deflect any 
+	stray neutrons back into the chain reaction.  Both weapons also contained machinery to 
+	measure the air pressure during their descent (thus making them altimeter bombs), ensuring 
+	that the bomb would take no damage upon impact with the ground and maximizing range of 
+	destruction.  Specific materials were used to construct the intricacies of each weapon as 
+	well, such as lead to absorb radioactive emission from the fissionable material to protect 
+	all of the bomb�s components. 
+	
+
+	Finally, as the summer of 1945 approached, years of engineering efforts and studies were 
+	finalized into Little Boy, a uranium gun assembly bomb, and Fat Man, a plutonium implosion
+	bomb.  Mechanical, chemical, civil, materials, and electrical engineering collaborated with 
+	the fields of physics, chemistry, and mathematics to further previous knowledge, discover the
+	unknown, and make history, a tremendous scientific engineering success.  
+	
+Significance of Communication
+
+	Communication played both a scientifically positive and morally negative role throughout the 
+	production of the first atomic weapons.  Scientifically, it was only through the interaction 
+	among dozens of professionals from all scientific, physical, and mathematical fields that 
+	gave birth to the atomic bombs.  Lack of communication, however, and an outright isolation of
+	the project scientists from the military�s exact intentions bred bitterness and regret amid 
+	many.  Regardless of this and whether guilt loomed in the minds of scientists towards the 
+	final weeks, the original goal of the Manhattan project was ultimately realized and surpassed
+	because of scientific and mathematical brilliance as well as coordinated research and 
+	development.  	
+	
+
+	Departmental rivalry and personal pride fueled much of the findings leading up to the 
+	creation of atomic weapons.  A prime example of this is the work of Ernest Lawrence, creator 
+	of the first attempted large-scale separation of uranium ore.  Lawrence had his dreams set 
+	upon being appointed as the project director and Berkeley laboratories becoming the center of
+	atomic and nuclear research.  Thus, upon completion of his modified mass spectrometer, 
+	Lawrence instantly promoted his innovation and himself, spreading his findings.  Although not
+	directly cooperative, this breed of scientific greed led to much interaction between 
+	scientists.  
+	
+
+	An even more prominent source of collaboration and communication was the overall work of the
+	Los Alamos lab.  When General Groves repositioned the heart of the atomic research in the 
+	isolated New Mexico lab, brilliant minds from all reaches of the nation and refuges from 
+	diverse countries of Europe were brought together to bounce ideas off of one another and pick
+	at the inner-thoughts of everyone present.  Such a gathering of enlightened thinkers 
+	naturally led to heightened communication and productivity, unquestionably accelerating the 
+	research performed.  
+	
+
+	While communication led to the overall scientific triumph of the Manhattan project, an 
+	intentional lack of communication between military and government superiors and the Los 
+	Alamos laboratory led to one of the most devastating moral disasters of the twentieth century.
+	Aside from scientific curiosity, the main motivation of the Manhattan project scientists 
+	throughout the duration of the development of the atomic bomb was a fear of a 
+	nuclear-empowered Hitler.  The scientists reasoned that if the United States was the first 
+	major power to wield atomic weapons, then peace could be brought to the world and Hitler�s 
+	reign stopped short of attacking Americans.  On May 5, 1943, however, five members of the 
+	Military Police Committee, including director General Leslie Groves, met to discuss possible 
+	targets of the developing weapon.  Germany was instantly ruled out for fear of the bomb 
+	malfunctioning and Hitler gaining control of the precious fissionable material.  Consequently,
+	from May fifth until the end of World War II, Japan was the sole target of nuclear strike, a 
+	fact everyone was ignorant to.[17]
+	
+Morality of the Manhattan Project
+
+	The Manhattan project was undeniably a scientific success.  Whether the United States was 
+	justified in its actions pertaining to the use of atomic warfare in World War II is still 
+	inconclusively debated to this day.  The school of thought that scolds both the scientists 
+	and their superiors for irresponsible action cite all of the other possibilities that existed
+	the summer of 1945 other than atomic weaponry.  Those who morally support the decisions of 
+	President Truman justify the creation and use of the bomb as the least devastating of options
+	available.  In the end, it is impossible to determine who was right and what would have been 
+	best for humanity, let alone whether delaying the harnessing of nuclear fission would have 
+	accomplished anything.  One can only study each presented case and speculate based on 
+	personal morals and conviction.
+	
+Against the Use of Atomic Weaponry
+
+	In early 1945, during the final stages of bomb development, political clouds covering the 
+	eyes of the project scientists began to clear as they realized that Japan was the prime 
+	target for nuclear bombardment.  Germany had already agreed to terms of unconditional 
+	surrender, and Japan was retreating from its Pacific empire.  The question of who would win 
+	the war was no longer at stake, only how long the Japanese would hold out.  On June 11, 1945, 
+	a document entitled �Report of the Committee on Political and Social Problems,� better known
+	as the Franck Report, found its way to government hands.[18] In the report, various 
+	scientists of the Manhattan Project vehemently argued against the use of what they had worked
+	so diligently to create.  The scientists reasoned that although America was the atomic leader
+	of the world at the time, their dominance was only assured for a few years, whereupon every 
+	major national power would house weapons of mass devastation.  The committee argued that 
+	America�s large stock of poisonous gas could have been utilized at the beginning of America�s
+	involvement to shorten the length of the war, yet it was not for ethical reasons, and that 
+	atomic weaponry should not be used for those same reasons.  The report went on to offer 
+	alternatives to deploying atomic weapons, such as demonstrating the capability of an atomic 
+	bomb to world powers before using one, as well as waiting for the USSR to enter the war to 
+	aid in the invasion of Japan. 
+	
+For the Use of Atomic Weaponry
+
+	Several factors led to the final decision of employing the atomic bomb on Japan.  It was 
+	feared that the USSR under Stalin would attempt to expand its communist power if the war was
+	allowed to continue.  The Japanese also denied demands for unconditional surrender on 
+	numerous occasions.  Scientist James Byrnes logically deduced that, ��if the Japanese were 
+	told that the bomb would be used on a given locality, they might bring our boys who were 
+	prisoners of war to that area� If we were to warn the Japanese of the new highly destructive 
+	weapon in the hope of impressing them and if the bomb then failed to explode, certainly we 
+	would have given aid and comfort to the Japanese militarists.�[19] 
+	
+
+	Whether it was morally right or not to drop two atomic bombs on Japan in the month of August,
+	1945, nuclear weaponry would still be in existence today.  An arms race would always have 
+	ensued, no matter when the first bomb was developed.  Such is the nature of humanity: 
+	continual curiosity and lack of responsibility.  Thus, the Manhattan Project can be viewed
+	as a success, with or without regard to ethics; a group set out with a mission, and in the 
+	end, everyone�s expectations were exceeded.  Fields of science and engineering, including 
+	mathematics, physics, chemistry, materials, civil, and mechanics were all advanced.  The 
+	Manhattan Project was a positive incident in the history of humanity. 
+	
+Conclusion
+
+	The Manhattan Project integrated all scientific and engineering fields and was responsible 
+	for truly beginning the �Atomic Age.�  Throughout the three-year endeavor, invaluable 
+	discoveries were made concerning bomb dynamics and mechanics, materials and plastics, atomic 
+	particles, nuclear fission and the beginnings of fusion, uranium, plutonium, and the
+	efficiency of collaboration among multiple scientists and field leaders.  Although the goal 
+	of the program was not morally humane, the project certainly achieved and surpassed 
+	everyone�s ambitions.  Whether the bombs� employment and the execution of hundreds of 
+	thousands of Japanese lives were necessary will never be known.  But the research completed 
+	in the 1940�s on atomic energy continues to show significance and promise in today�s world 
+	and will persist to play an increasingly important role in America�s history � yet another 
+	reason why the Manhattan Project is the epitome of scientific engineering success.
+	
+
+References
+
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 461
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 275
+�60 Years Ago�, Bulletin of the Atomic Scientists, Vol. 58, No. 6, 
+			May/June 2003, pp. 54
+Bracchini, M. A., �The History and Ethics Behind the Manhattan Project�,
+			April 30, 1997,  http://www.me.utexas.edu/~uer/manhattan/project.html
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 942
+Bracchini, M. A., �The History and Ethics Behind the Manhattan Project�,
+			April 30, 1997,  http://www.me.utexas.edu/~uer/manhattan/project.html
+Bracchini, M. A., �The History and Ethics Behind the Manhattan
+			Project�, April 30, 1997,  http://www.me.utexas.edu/~uer/manhattan/project.
+			html
+Bracchini, M. A., �The History and Ethics Behind the Manhattan Project�,
+			April 30, 1997,  http://www.me.utexas.edu/~uer/manhattan/project.html
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 494
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 492-494
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 495
+Bracchini, M. A., �The History and Ethics Behind the Manhattan Project�,
+			April 30, 1997,  http://www.me.utexas.edu/~uer/manhattan/project.html
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 355
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 321
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 462
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 466-467
+Makhijani, A, �Nuclear Targeting the First 60 Years�, Bulletin of the 
+			Atomic Scientists, Vol. 59, No. 3, Nov/Dec 2002, pp. 60-66
+Franck, J, �Report of the Committee on Political and Social Problems�, 
+			June 11, 1945, pp. 1
+Rhodes, R, The Making of the Atomic Bomb, 1986, pp. 461
+
+
+Back To The Top
+
+

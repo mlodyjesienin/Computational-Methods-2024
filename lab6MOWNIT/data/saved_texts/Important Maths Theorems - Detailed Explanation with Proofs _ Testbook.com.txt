@@ -1,0 +1,150 @@
+
+
+
+Important Maths Theorems - Detailed Explanation with Proofs | Testbook.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English Get StartedExams SuperCoaching  Live Classes FREETest Series Previous Year Papers  Skill Academy Pass Pass Pass Pro Pass Pass Pro IAS Preparation  More  Free Live Classes  Free Live Tests & Quizzes  Free Quizzes  Previous Year Papers  Doubts  Practice  Refer and Earn  All Exams  Our Selections  Careers  IAS Preparation  Current Affairs Practice GK & Current Affairs Blog Refer & Earn Our Selections  Home  Maths  Important Maths Theorems - Detailed Explanation with Proofs | Testbook.com Important Maths Theorems - Detailed Explanation with Proofs | Testbook.com Last Updated on Apr 29, 2024  Download as PDF
+OverviewTest Series
+Mathematical theorems are integral to the field of mathematics, with every branch boasting a plethora of established principles put forth by renowned mathematicians worldwide. This article provides a comprehensive list of crucial mathematical theorems for students between classes 6 to 12. These theorems are fundamental in laying a strong foundation in basic mathematics.
+A mathematical statement can only be considered a theorem if it has been proven. The act of proving these theorems not only confirms their truth but also aids in the development of logical thinking and reasoning skills, thereby minimizing mathematical errors.A Comprehensive List of Mathematical Theorems
+
+
+
+Pythagoras Theorem 
+Factor Theorem 
+
+
+Mean Value Theorem 
+Exterior Angle Theorem 
+
+
+Mid Point Theorem 
+Cayley Hamilton Theorem 
+
+
+Remainder Theorem 
+Central Limit Theorem 
+
+
+Isosceles Triangle Theorems 
+Basic Proportionality Theorem 
+
+
+Greens Theorem 
+Bayes Theorem 
+
+
+Angle Bisector Theorem 
+Quadrilateral Theorem 
+
+
+Binomial Theorem 
+Stewart’s Theorem 
+
+
+Ceva’s Theorem 
+Apollonius Theorem 
+
+
+Fundamental Theorem Of Arithmetic 
+Fundamental Theorem of Calculus 
+
+
+UGC NET/SET Course Online by SuperTeachers: Complete Study Material, Live Classes & MoreGet UGC NET/SET SuperCoaching @ just₹27999₹12249 Your Total Savings ₹15750 Explore SuperCoachingWant to know more about this Super Coaching ? Download Brochure Defining Mathematical Theorems
+A mathematical theorem can be defined as a statement that is accepted as true based on previously accepted statements, mathematical operations, or arguments. Every mathematical theorem has a corresponding proof that justifies its validity.
+The Importance of Theorems in Mathematics
+Theorems are considered as the absolute truths in mathematics. They not only facilitate the problem-solving process but also, through their proofs, help students gain a deeper understanding of the underlying concepts. For students, theorems form the bedrock of basic mathematics and assist them in developing deductive reasoning once they fully comprehend the statements and their proofs.Get Pass ProNewAll-in-One Pass For All Your ExamsAlso IncludesAll Test SeriesPrev. Year PaperPracticePro Live TestsUnlimited Test Re-AttemptsMathematical Theorems for Class 10
+In Class 10, students encounter several important theorems that serve as the foundation for many mathematical concepts. To score well in the board exams and strengthen their knowledge base in the subject, Class 10 students are expected to thoroughly learn all the theorems, their statements, and proofs. Some of the significant mathematical theorems for Class 10 are listed below.
+Key Class 10 Mathematical Theorems
+For Class 10, some of the most notable theorems include:
+
+Pythagoras Theorem
+Midpoint Theorem
+Remainder Theorem
+Fundamental Theorem of Arithmetic
+Angle Bisector Theorem
+Inscribed Angle Theorem
+Ceva’s Theorem
+Bayes’ Theorem
+
+Apart from these, the lessons that contain the most crucial theorems are those on circles and triangles. Some key theorems for Class 10 on these topics are given below.Test Series20.3k Users MH-SET (Assistant Professor) Test Series 2021 31 Total Tests | 1 Free Tests English 8 Previous Year Paper20 Subject Test3 Full TestView Test Series16.5k Users All SET Exams Mock Test 109 Total Tests | 1 Free Tests English,Hindi 10 Subject Test30 Chapter Test6 Full Tests+63 more testsView Test Series10.4k Users MAHA TAIT 2023 Mock Test 14 Total Tests | 1 Free Tests English,Marathi 4 Sectional Test4 Mini Full Test3 Full Test+3 more testsView Test SeriesCircle Theorems for Class 10
+There are several theorems related to circles that are important for both Class 9 and 10 students. Some of these include:
+
+Theorem 1:  Equal chords of a circle subtend equal angles at the center of the circle.
+Converse of Theorem 1:  If two angles subtended at the center by two chords are equal, then the chords are of equal length.
+Theorem 2:  The perpendicular to a chord, when drawn from the center of the circle, bisects the chord.
+Converse of Theorem 2:  A straight line passing through the center of a circle to bisect a chord is perpendicular to the chord.
+Theorem 3:  Equal chords of a circle are equidistant from the center of the circle.
+Converse of Theorem 3:  Chords of a circle, which are at equal distances from the center, are equal in length.
+Theorem 4:  The measure of angles subtended to any point on the circumference of the circle from the same arc is equal to half of the angle subtended at the center by the same arc.
+Theorem 5:  The opposite angles in a cyclic quadrilateral are supplementary.
+Triangle Theorems for Class 10
+
+All congruent figures are similar, but the converse is not always true.
+Two polygons with the same number of sides are similar if their corresponding angles are equal, and their corresponding sides are in the same ratio.
+Two triangles are similar if their corresponding angles are equal and corresponding sides are in the same ratio.
+In two triangles, if the corresponding angles are equal and corresponding sides are in the same ratio, then the two triangles are similar.
+In two triangles, if the sides of one of the triangles are proportional to the sides of the other triangle, then their corresponding angles are equal, and the two triangles are similar.
+Proof of Theorems
+Theorem 1: 
+If a line is drawn parallel to one side of a triangle and intersects the other two sides, then the other two sides are divided in the same ratio.
+Construction:  Let's consider triangle ABC, with DE a line parallel to BC, intersecting AB at D and AC at E, i.e., DE || BC. Join C to D and B to E. Draw EM ⊥ AB and DN ⊥ AC.
+
+We need to prove that AD/DB = AE/EC.
+Proof: 
+The area of triangle ADE = ½ × AD × EM, and the area of triangle BDE = ½ × DB × EM. Similarly, the area of triangle ADE = ½ × AE × DN, and the area of triangle DEC = ½ × EC × DN. Hence, the area of triangle ADE to the area of triangle BDE = ½ × AD × EM to ½ × DB × EM = AD to DB. The area of triangle ADE to the area of triangle DEC = AE to EC. Since triangles DEC and BDE are on the same base, i.e., DE, and between the same parallels, DE and BC, their areas are equal. Hence, AD/DB = AE/EC. This proves the theorem.
+Theorem 2: 
+If a line divides any of the two sides of a triangle in the same ratio, then that line is parallel to the third side.
+Let's consider triangle ABC, in which DE divides AC and AB in the same ratio. This implies that AB/DB = AE/EC.
+
+Construction: Draw a line DE’ from point D to E’ at AC such that DE’//BC.
+Proof: 
+To prove: If DE` || BC, then AB/DB = AE`/E`C. According to the theorem, AB/DB = AE/EC. Then, accordingly, E and E` must coincide, proving that DE || BC.
+Theorem 3: 
+In two triangles, if the sides of one triangle are proportional to the sides of the other triangle, then their corresponding angles are equal, and the two triangles are similar. This is also called the SSS (side-side-side) criterion.
+Let's consider two triangles ABC and DEF that are drawn such that their corresponding sides are proportional, i.e., AB/DE = AC/DF = BC/EF.
+Proof: 
+To prove: ∠A = ∠D, ∠B = ∠E, and ∠C = ∠F, hence triangle ABC ~ DEF. In triangle DEF, draw a line PQ so that DP = AB and DQ = AC. Since the corresponding sides of the two triangles are equal, DP/PE = DQ/QF = PQ/EF, meaning that ∠P = ∠E and ∠Q = ∠F. We had taken ∠A=∠D, ∠B=∠P, and ∠C=∠Q. Hence, ∠A = ∠D, ∠B = ∠E, and ∠C = ∠F. Therefore, from the AAA criterion, triangle ABC ~ DEF.
+Theorem 4: 
+Pythagoras Theorem:  In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+Hypotenuse  2  = Base  2  + Perpendicular  2 
+Proof: 
+Let's consider triangle ABC, which is right-angled at B. BD is perpendicular to hypotenuse AC, drawn from vertex B.
+
+To prove: AC  2  = AB  2  + BC  2 
+In triangle ABC and ADB, AB/AC = AD/AB, meaning that AB  2  = AC × AD. In triangles ABC and BDC, BC/AC = CD/BC, meaning that BC  2  = AC × CD. When we add these two equations, we get AB  2  + BC  2  = AD × AC + CD × AC = AC (AD + CD) = AC  2  . Hence, proved.
+Further Reading:
+
+
+
+ Important Questions in Mathematics 
+ Mathematics Syllabus 
+
+
+Mathematics Formulas 
+List of Properties in Mathematics 
+
+
+
+Keep visiting our site for comprehensive assistance for your Maths exams.
+ 
+More Articles for Maths Understanding Total Derivatives - Definition, Geometrical Interpretation, Chain Rule & Solved Examples | Testbook.comTriangle Definition, Types, Properties and FormulasUnderstanding Tree Diagrams: Definitions, Uses and Probability Calculation - TestbookTranslation Questions - Detailed Solutions with Diagrams | Testbook.comThree Dimensional Shapes - Definition, Types, Properties, Examples | TestbookTan 90 Degrees - Value, Explanation, Trigonometry Equations | TestbookUnderstanding Three Digits Numbers - Testbook.comTally Marks Questions with Solutions - TestbookTautology - Definition, Truth Tables, Logic Symbols, ExamplesTranslation in Geometry: Definition, Examples & Coordinate PlaneFrequently Asked QuestionsWhat is a theorem in Mathematics?Mathematical theorems are statements accepted as true through previously accepted statements, mathematical operations or arguments. For any maths theorem, there is an established proof which justifies the truthfulness of the theorem statement.Why are theorems important in Mathematics?Theorems are of significance and are considered as absolute truths. They not only help to solve mathematical problems easily but their proofs also help to develop a deeper understanding of the underlying concepts. For students, theorems form the foundation of basic mathematics and also help them to develop deductive reasoning when they completely understand the statements and their proofs.What is Pythagoras Theorem?In a right-angled triangle, the Pythagoras Theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides.What are some important Maths Theorems for Class 10?In Class 10 Maths, several important theorems are introduced which forms the base of mathematical concepts. Some of the important ones include Pythagoras Theorem, Midpoint Theorem, Remainder Theorem, Fundamental Theorem of Arithmetic, Angle Bisector Theorem, Inscribed Angle Theorem, Ceva’s Theorem, and Bayes’ Theorem.Report An ErrorImportant LinksOverview30 in words50 in words70 in words40 in wordsMidpoint FormulaSquare Root45000 in wordsCube Root1999 in roman numerals13 in roman numerals200 in roman numerals70 in roman numeralsFactors of 27Factors of 16Factors of 120Square Root and Cube RootSquares and Square rootsTypes of Function GraphsRight Triangle Congruence Theorem80 in WordsSign Up Now &Daily Live Classes3000+ TestsStudy Material & PDFQuizzes With Detailed Analytics+ More BenefitsGet Free Access NowImportant ExamsUGC NETSSC JESBI ClerkUPTETUPSC CDSUP Police ConstableRRB ALPBihar Police ConstableBihar TeacherBihar Police SIChandigarh Police ConstableDFCCIL Junior ExecutiveBihar Secondary TeacherUPPCSIBPS POUGC CSIR NETRBI AssistantRRB JEIBPS SOBPSC ExamIndian Navy SSRUPSSSC VDOIndian Navy ChargemanDFCCIL ExecutiveEMRS TGTBihar Senior Secondary TeacherAFCATSBI POUPSC NDAUPSC CSEDelhi Police ConstableDDA JEIndian Navy MRIDBI ExecutiveUPSC CAPF ACBSF ROBihar Primary TeacherEMRS PGTSSC GD ConstableUPSC EPFOSSC CPOEPFO SSAJSSC CGLIBPS RRB POJSSC JEDSSSB TGTIBPS RRB Office AssistantDSSSB PGTHaryana CET Group DSSC MTS & HavaldarKey DifferencesDifference Between Compiler and InterpreterDifference Between PERT and CPMDifference Between Quality Assurance and Quality ControlDifference Between Cheque and Bill of ExchangeIAS vs NDA salaryDifference Between Census and SamplingDifference Between Induction and OrientationDifference Between Job Analysis and Job EvaluationDifference Between DBMS and RDBMSDifference Between Kharif and Rabi CropsCAT Score vs PercentileDifference Between Vouching and VerificationDifference Between Foreign Trade and Foreign InvestmentDifference Between Bailable Offense and Non Bailable OffenseDifference Between Confession and AdmissionDifferences Between direct democracy and indirect democracyDifference Between shares and debenturesDifference Between Entrepreneur and ManagerDifference Between FERA and FEMADifference Between Standard Costing and Budgetary ControlDifference Between Pressure Group and Political PartyDifference Between Common Intention and Common ObjectDifference Between Summon and WarrantDifference Between Java and JavaScriptDifference Between C and JavaDifference Between Manual Accounting and Computerized AccountingDifference Between Amalgamation and AbsorptionDifference Between Census and SamplingDifference Between NDA and CDSDifference Between Right Shares and Bonus SharesTest SeriesCTET Mock TestSSC CHSL Mock TestSBI PO Mock TestAMCAT Mock TestMP GK Mock TestWB TET Mock TestLIC ADO Mock TestSSC GD Constable Mock TestCUET Physics Mock TestECGC PO Mock TestNABARD Development Assistant Mock TestFCI Manager Mock TestCUET Mock TestNDA Mock TestUGC NET Paper 1 Mock TestLIC AAO Mock TestTCS NQT Mock TestRBI Assistant Mock TestUGC NET Commerce Mock TestIBPS SO Mock TestHaryana CET Mock TestNIMCET Mock TestMAH MBA CET Mock TestCUET Chemistry Mock TestNEET Mock TestIBPS PO Mock TestAFCAT Mock TestTCS Mock TestIBPS RRB PO Mock TestREET Test SeriesCAT Exam Mock TestESIC SSO Mock TestIndian Army GD Mock TestCUET Economics Mock TestUGC NET English Mock TestIB Security Assistant Mock TestJEE Main Mock TestIBPS Clerk Mock TestRRB Group D Mock TestCDS Mock TestSSC Stenographer Mock TestRRB NTPC Mock TestCUET Maths Mock TestInfosys Mock TestUPPCL Executive Assistant Mock TestCUET History Mock TestCUET Political Science Mock TestCSIR NET Life Science Mock TestTestbook Edu Solutions Pvt. Ltd.  2nd Floor, Plot No. 4, Minarch Tower, Sector-44, Gurgaon, Haryana, India, 122003 [email protected]Toll Free:1800 203 0577Office Hours: 10 AM to 7 PM (all 7 days)CompanyAbout usCareers  We are hiringTeach Online on TestbookMediaSitemapProductsTest SeriesLive Tests and QuizzesTestbook PassOnline VideosPracticeLive ClassesBlogRefer & EarnBooks Exam Calendar GK & CA Teacher Training ProgramDoubtsHire from SkillAcademyOur AppFollow us onCopyright © 2014-2024 Testbook Edu Solutions Pvt. Ltd.: All rights reservedUser PolicyTermsPrivacy
+
+
+
+

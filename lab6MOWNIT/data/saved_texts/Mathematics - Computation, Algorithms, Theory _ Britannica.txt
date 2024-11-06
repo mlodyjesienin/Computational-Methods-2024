@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics - Computation, Algorithms, Theory | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				mathematics
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionAncient mathematical sourcesMathematics in ancient MesopotamiaThe numeral system and arithmetic operationsGeometric and algebraic problemsMathematical astronomyMathematics in ancient EgyptThe numeral system and arithmetic operationsGeometryAssessment of Egyptian mathematicsGreek mathematicsThe development of pure mathematicsThe pre-Euclidean periodThe ElementsThe three classical problemsGeometry in the 3rd century bceArchimedesApolloniusApplied geometryLater trends in geometry and arithmeticGreek trigonometry and mensurationNumber theorySurvival and influence of Greek mathematicsMathematics in the Islamic world (8th–15th century)OriginsMathematics in the 9th centuryMathematics in the 10th centuryOmar KhayyamIslamic mathematics to the 15th centuryEuropean mathematics during the Middle Ages and RenaissanceThe transmission of Greek and Arabic learningThe universitiesThe RenaissanceMathematics in the 17th and 18th centuriesThe 17th centuryInstitutional backgroundNumerical calculationAnalytic geometryThe calculusThe precalculus periodNewton and LeibnizThe 18th centuryInstitutional backgroundAnalysis and mechanicsHistory of analysisOther developmentsTheory of equationsFoundations of geometryMathematics in the 19th centuryProjective geometryMaking the calculus rigorousFourier seriesElliptic functionsThe theory of numbersThe theory of equationsGaussNon-Euclidean geometryRiemannRiemann’s influenceDifferential equationsLinear algebraThe foundations of geometryThe foundations of mathematicsMathematics in the 20th and 21st centuriesCantorMathematical physicsAlgebraic topologyDevelopments in pure mathematicsMathematical physics and the theory of groupsProbabilistic mathematics
+
+				References & Edit History
+
+				Quick Facts & Related Topics
+
+
+
+				Images & Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+mathematics summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+
+
+
+
+Fun Facts of Measurement & Math
+
+
+
+
+
+
+
+
+
+Define It: Math Terms
+
+
+
+
+
+                        Read Next
+                    
+
+
+
+
+
+
+
+Is Zero an Even or an Odd Number?
+
+
+
+
+
+
+
+
+
+Unusual Counting Systems
+
+
+
+
+
+
+
+
+
+How Fast Is the Universe Expanding?
+
+
+
+
+
+
+
+
+
+5 Incredible Women in STEM You Need to Know
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+What’s the Difference Between Asian and African Elephants?
+
+
+
+
+
+
+
+
+
+12 Novels Considered the “Greatest Book Ever Written”
+
+
+
+
+
+
+
+
+
+7 Deadliest Weapons in History
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+10 Best Hockey Players of All Time
+
+
+
+
+
+
+
+
+
+Why Is the Indy 500 Held on Memorial Day Weekend?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+ Mathematics in the 20th and 21st centuries  Cantor All of these debates came together through the pioneering work of the German mathematician Georg Cantor on the concept of a set. Cantor had begun work in this area because of his interest in Riemann’s theory of trigonometric series, but the problem of what characterized the set of all real numbers came to occupy him more and more. He began to discover unexpected properties of sets. For example, he could show that the set of all algebraic numbers, and a fortiori the set of all rational numbers, is countable in the sense that there is a one-to-one correspondence between the integers and the members of each of these sets by means of which for any member of the set of algebraic numbers (or rationals), no matter how large, there is always a unique integer it may be placed in correspondence with. But, more surprisingly, he could also show that the set of all real numbers is not countable. So, although the set of all integers and the set of all real numbers are both infinite, the set of all real numbers is a strictly larger infinity. This was in complete contrast to the prevailing orthodoxy, which proclaimed that infinite could mean only “larger than any finite amount.” Here the concept of number was being extended and undermined at the same time. The concept was extended because it was now possible to count and order sets that the set of integers was too small to measure, and it was undermined because even the integers ceased to be basic undefined objects. Cantor himself had given a way of defining real numbers as certain infinite sets of rational numbers. Rational numbers were easy to define in terms of the integers, but now integers could be defined by means of sets. One way was given by Frege in Die Grundlagen der Arithmetik (1884; The Foundations of Arithmetic). He regarded two sets as the same if they contained the same elements. So in his opinion there was only one empty set (today symbolized by Ø), the set with no members. A second set could be defined as having only one element by letting that element be the empty set itself (symbolized by {Ø}), a set with two elements by letting them be the two sets just defined (i.e., {Ø, {Ø}}), and so on. Having thus defined the integers in terms of the primitive concepts “set” and “element of,” Frege agreed with Cantor that there was no logical reason to stop, and he went on to define infinite sets in the same way Cantor had. Indeed, Frege was clearer than Cantor about what sets and their elements actually were. Frege’s proposals went in the direction of a reduction of all mathematics to logic. He hoped that every mathematical term could be defined precisely and manipulated according to agreed, logical rules of inference. This, the “logicist” program, was dealt an unexpected blow in 1902 by the English mathematician and philosopher Bertrand Russell, who pointed out unexpected complications with the naive concept of a set. Nothing seemed to preclude the possibility that some sets were elements of themselves while others were not, but, asked Russell, “What then of the set of all sets that were not elements of themselves?” If it is an element of itself, then it is not (an element of itself), but, if it is not, then it is. Russell had identified a fundamental problem in set theory with his paradox. Either the idea of a set as an arbitrary collection of already defined objects was flawed, or else the idea that one could legitimately form the set of all sets of a given kind was incorrect. Frege’s program never recovered from this blow, and Russell’s similar approach of defining mathematics in terms of logic, which he developed together with Alfred North Whitehead in their Principia Mathematica (1910–13), never found lasting appeal with mathematicians. Greater interest attached to the ideas that Hilbert and his school began to advance. It seemed to them that what had worked once for geometry could work again for all of mathematics. Rather than attempt to define things so that problems could not arise, they suggested that it was possible to dispense with definitions and cast all of mathematics in an axiomatic structure using the ideas of set theory. Indeed, the hope was that the study of logic could be embraced in this spirit, thus making logic a branch of mathematics, the opposite of Frege’s intention. There was considerable progress in this direction, and there emerged both a powerful school of mathematical logicians (notably in Poland) and an axiomatic theory of sets that avoided Russell’s paradoxes and the others that had sprung up. In the 1920s Hilbert put forward his most detailed proposal for establishing the validity of mathematics. According to his theory of proofs, everything was to be put into an axiomatic form, allowing the rules of inference to be only those of elementary logic, and only those conclusions that could be reached from this finite set of axioms and rules of inference were to be admitted. He proposed that a satisfactory system would be one that was consistent, complete, and decidable. By “consistent” Hilbert meant that it should be impossible to derive both a statement and its negation; by “complete,” that every properly written statement should be such that either it or its negation was derivable from the axioms; by “decidable,” that one should have an algorithm that determines of any given statement whether it or its negation is provable. Such systems did exist—for example, the first-order predicate calculus—but none had been found capable of allowing mathematicians to do interesting mathematics. Hilbert’s program, however, did not last long. In 1931 the Austrian-born American mathematician and logician Kurt Gödel showed that there was no system of Hilbert’s type within which the integers could be defined and that was both consistent and complete. Independently, Gödel, the English mathematician Alan Turing, and the American logician Alonzo Church later showed that decidability was also unattainable. Perhaps paradoxically, the effect of this dramatic discovery was to alienate mathematicians from the whole debate. Instead, mathematicians, who may not have been too unhappy with the idea that there is no way of deciding the truth of a proposition automatically, learned to live with the idea that not even mathematics rests on rigorous foundations. Progress since has been in other directions. An alternative axiom system for set theory was later put forward by the Hungarian-born American mathematician John von Neumann, which he hoped would help resolve contemporary problems in quantum mechanics. There was also a renewal of interest in statements that are both interesting mathematically and independent of the axiom system in use. The first of these was the American mathematician Paul Cohen’s surprising resolution in 1963 of the continuum hypothesis, which was Cantor’s conjecture that the set of all subsets of the rational numbers was of the same size as the set of all real numbers. This turns out to be independent of the usual axioms for set theory, so there are set theories (and therefore types of mathematics) in which it is true and others in which it is false.   Mathematical physics At the same time that mathematicians were attempting to put their own house in order, they were also looking with renewed interest at contemporary work in physics. The man who did the most to rekindle their interest was Poincaré. Poincaré showed that dynamic systems described by quite simple differential equations, such as the solar system, can nonetheless yield the most random-looking, chaotic behaviour. He went on to explore ways in which mathematicians can nonetheless say things about this chaotic behaviour and so pioneered the way in which probabilistic statements about dynamic systems can be found to describe what otherwise defies intelligence. Poincaré later turned to problems of electrodynamics. After many years’ work, the Dutch physicist Hendrik Antoon Lorentz had been led to an apparent dependence of length and time on motion, and Poincaré was pleased to notice that the transformations that Lorentz proposed as a way of converting one observer’s data into another’s formed a group. This appealed to Poincaré and strengthened his belief that there was no sense in a concept of absolute motion; all motion was relative. Poincaré thereupon gave an elegant mathematical formulation of Lorentz’s ideas, which fitted them into a theory in which the motion of the electron is governed by Maxwell’s equations. Poincaré, however, stopped short of denying the reality of the ether or of proclaiming that the velocity of light is the same for all observers, so credit for the first truly relativistic theory of the motion of the electron rests with Einstein and his special theory of relativity (1905). Einstein’s special theory is so called because it treats only the special case of uniform relative motion. The much more important case of accelerated motion and motion in a gravitational field was to take a further decade and to require a far more substantial dose of mathematics. Einstein changed his estimate of the value of pure mathematics, which he had hitherto disdained, only when he discovered that many of the questions he was led to had already been formulated mathematically and had been solved. He was most struck by theories derived from the study of geometry in the sense in which Riemann had formulated it. By 1915 a number of mathematicians were interested in reapplying their discoveries to physics. The leading institution in this respect was the University of Göttingen, where Hilbert had unsuccessfully attempted to produce a general theory of relativity before Einstein, and it was there that many of the leaders of the coming revolution in quantum mechanics were to study. There too went many of the leading mathematicians of their generation, notably John von Neumann and Hermann Weyl, to study with Hilbert. In 1904 Hilbert had turned to the study of integral equations. These arise in many problems where the unknown is itself a function of some variable, and especially in those parts of physics that are expressed in terms of extremal principles (such as the principle of least action). The extremal principle usually yields information about an integral involving the sought-for function, hence the name integral equation. Hilbert’s contribution was to bring together many different strands of contemporary work and to show how they could be elucidated if cast in the form of arguments about objects in certain infinite-dimensional vector spaces. The extension to infinite dimensions was not a trivial task, but it brought with it the opportunity to use geometric intuition and geometric concepts to analyze problems about integral equations. Hilbert left it to his students to provide the best abstract setting for his work, and thus was born the concept of a Hilbert space. Roughly, this is an infinite-dimensional vector space in which it makes sense to speak of the lengths of vectors and the angles between them; useful examples include certain spaces of sequences and certain spaces of functions. Operators defined on these spaces are also of great interest; their study forms part of the field of functional analysis. When in the 1920s mathematicians and physicists were seeking ways to formulate the new quantum mechanics, von Neumann proposed that the subject be written in the language of functional analysis. The quantum mechanical world of states and observables, with its mysterious wave packets that were sometimes like particles and sometimes like waves depending on how they were observed, went very neatly into the theory of Hilbert spaces. Functional analysis has ever since grown with the fortunes of particle physics.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

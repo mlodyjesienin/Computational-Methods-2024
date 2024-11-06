@@ -1,0 +1,4669 @@
+
+
+
+
+Fibonacci Sequence | Definition, Golden Ratio & Examples - Lesson | Study.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for Teachers
+for Schools
+for Working Scholars®
+for College Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+Sign Up
+
+Menu
+					
+
+
+
+
+
+
+
+
+
+
+									Plans
+							
+
+
+
+									Subjects
+							
+
+
+
+
+
+Art
+
+
+Business
+
+
+Computer Science
+
+
+Education & Teaching
+
+
+English
+
+
+Health & Medicine
+
+
+History
+
+
+Humanities
+
+
+Math
+
+
+Psychology
+
+
+Science
+
+
+Social Science
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Art
+							
+
+
+
+									Architecture 
+
+
+
+
+									Art History 
+
+
+
+
+									Design 
+
+
+
+
+									Performing Arts 
+
+
+
+
+									Visual Arts 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business
+							
+
+
+
+									Accounting 
+
+
+
+
+									Business Administration 
+
+
+
+
+									Business Communication 
+
+
+
+
+									Business Ethics 
+
+
+
+
+									Business Intelligence 
+
+
+
+
+									Business Law 
+
+
+
+
+									Economics 
+
+
+
+
+									Finance 
+
+
+
+
+									Healthcare Administration 
+
+
+
+
+									Human Resources 
+
+
+
+
+									Information Technology 
+
+
+
+
+									International Business 
+
+
+
+
+									Operations Management 
+
+
+
+
+									Real Estate 
+
+
+
+
+									Sales & Marketing 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Computer Science
+							
+
+
+
+									Computer Engineering 
+
+
+
+
+									Computer Programming 
+
+
+
+
+									Cybersecurity 
+
+
+
+
+									Data Science 
+
+
+
+
+									Software 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Education & Teaching
+							
+
+
+
+									Education Law & Policy 
+
+
+
+
+									Pedagogy & Teaching Strategies 
+
+
+
+
+									Special & Specialized Education 
+
+
+
+
+									Student Support in Education 
+
+
+
+
+									Teaching English Language Learners 
+
+
+
+
+
+
+							 
+						
+
+
+
+									English
+							
+
+
+
+									Grammar 
+
+
+
+
+									Literature 
+
+
+
+
+									Public Speaking 
+
+
+
+
+									Reading 
+
+
+
+
+									Vocabulary 
+
+
+
+
+									Writing & Composition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Health & Medicine
+							
+
+
+
+									Counseling & Therapy 
+
+
+
+
+									Health 
+
+
+
+
+									Medicine 
+
+
+
+
+									Nursing 
+
+
+
+
+									Nutrition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									History
+							
+
+
+
+									US History 
+
+
+
+
+									World History 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities
+							
+
+
+
+									Communication 
+
+
+
+
+									Ethics 
+
+
+
+
+									Foreign Languages 
+
+
+
+
+									Philosophy 
+
+
+
+
+									Religious Studies 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math
+							
+
+
+
+									Algebra 
+
+
+
+
+									Basic Math 
+
+
+
+
+									Calculus 
+
+
+
+
+									Geometry 
+
+
+
+
+									Statistics 
+
+
+
+
+									Trigonometry 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Psychology
+							
+
+
+
+									Clinical & Abnormal Psychology 
+
+
+
+
+									Cognitive Science 
+
+
+
+
+									Developmental Psychology 
+
+
+
+
+									Educational Psychology 
+
+
+
+
+									Organizational Psychology 
+
+
+
+
+									Social Psychology 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science
+							
+
+
+
+									Anatomy & Physiology 
+
+
+
+
+									Astronomy 
+
+
+
+
+									Biology 
+
+
+
+
+									Chemistry 
+
+
+
+
+									Earth Science 
+
+
+
+
+									Engineering 
+
+
+
+
+									Environmental Science 
+
+
+
+
+									Physics 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Social Science
+							
+
+
+
+									Anthropology 
+
+
+
+
+									Criminal Justice 
+
+
+
+
+									Geography 
+
+
+
+
+									Law 
+
+
+
+
+									Linguistics 
+
+
+
+
+									Political Science 
+
+
+
+
+									Sociology 
+
+
+
+
+
+
+
+									Courses
+							
+
+
+
+
+
+By Subject
+
+
+By Education Level
+
+
+Adult Education
+
+
+Transferable Credit
+
+
+
+
+
+
+
+							By Subject
+						
+
+
+
+									Arts 
+
+
+
+
+									Business 
+
+
+
+
+									Computer Science 
+
+
+
+
+									Education & Teaching 
+
+
+
+
+									English (ELA) 
+
+
+
+
+									Foreign Language 
+
+
+
+
+									Health & Medicine 
+
+
+
+
+									History 
+
+
+
+
+									Humanities 
+
+
+
+
+									Math 
+
+
+
+
+									Psychology 
+
+
+
+
+									Science 
+
+
+
+
+									Social Science 
+
+
+
+
+
+
+							By Education Level
+						
+
+
+
+									Elementary School 
+
+
+
+
+									Middle School 
+
+
+
+
+									High School 
+
+
+
+
+									College 
+
+
+
+
+									Graduate and Post-Grad 
+
+
+
+
+
+
+
+									Test Prep
+							
+
+
+
+
+
+Teacher Certification Exams
+
+
+Nursing Exams
+
+
+Allied Health & Medicine Exams
+
+
+Real Estate Exams
+
+
+All Test Prep
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Teacher Certification Exams
+							
+
+
+
+									Praxis 
+
+
+
+
+									FTCE 
+
+
+
+
+									TExES 
+
+
+
+
+									CSET & CBEST 
+
+
+
+
+									More Teacher Certification Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Nursing Exams
+							
+
+
+
+									NCLEX 
+
+
+
+
+									HESI 
+
+
+
+
+									More Nursing Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Allied Health & Medicine Exams
+							
+
+
+
+									ASCP 
+
+
+
+
+									CNA 
+
+
+
+
+									CNS 
+
+
+
+
+									More Medical Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Real Estate Exams
+							
+
+
+
+									Real Estate Sales 
+
+
+
+
+									Real Estate Brokers 
+
+
+
+
+									Real Estate Appraisals 
+
+
+
+
+
+
+
+									Teach
+							
+
+
+
+
+
+Teaching Resources and Curriculum
+
+
+Skills Practice
+
+
+Lesson Plans
+
+
+Teacher Certification
+
+
+Teacher Professional Development
+
+
+
+
+
+
+
+
+									Tutoring
+							
+
+
+
+
+
+Math Tutoring
+
+
+Science Tutoring
+
+
+Business Tutoring
+
+
+Humanities Tutoring
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math Tutoring
+							
+
+
+
+									Algebra  Tutoring
+
+
+
+
+									Calculus  Tutoring
+
+
+
+
+									Geometry  Tutoring
+
+
+
+
+									Pre-calculus  Tutoring
+
+
+
+
+									Statistics  Tutoring
+
+
+
+
+									Trigonometry  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science Tutoring
+							
+
+
+
+									Biology  Tutoring
+
+
+
+
+									Chemistry  Tutoring
+
+
+
+
+									Physics  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business Tutoring
+							
+
+
+
+									Accounting  Tutoring
+
+
+
+
+									Economics  Tutoring
+
+
+
+
+									Finance  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities Tutoring
+							
+
+
+
+									History  Tutoring
+
+
+
+
+									Literature  Tutoring
+
+
+
+
+									Writing  Tutoring
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright
+
+
+
+
+
+
+
+
+
+
+
+ Math Courses
+			
+			/
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+		
+			
+CAHSEE Math Exam: Help and Review
+Course
+
+
+
+
+		Fibonacci Sequence | Definition, Golden Ratio & Examples
+	
+
+
+
+
+
+
+Lesson
+
+
+
+						
+							
+							
+								Transcript
+							
+						
+					
+
+
+
+
+					Jeanne Rast, Yuanxin (Amy) Yang Alcocer
+			
+
+
+Author
+
+Jeanne Rast
+Jeanne Rast has taught Mathematics in grades 7-12 and college for over 30 years. She has a Ph.D. in Math Education and a M.Ed. in Math both from Georgia State University, as well as a B.A. in Math from The University of the South.  Dr. Rast is a certified teacher for the State of Georgia for Mathematics grades 7-12
+
+					View bio
+				
+
+
+Instructor
+
+Yuanxin (Amy) Yang Alcocer
+Amy has a master's degree in secondary education and has been teaching math for over 9 years. Amy has worked with students at all levels from those with special needs to those that are gifted.
+
+					View bio
+				
+
+
+
+							What is the Fibonacci sequence? Learn about the Fibonacci sequence definition, the golden ratio in nature, the Fibonacci spiral, and Fibonacci sequence examples.
+						
+								
+									Updated: 11/21/2023
+								
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+Why is the Fibonacci sequence so important?
+
+The Fibonacci sequence is important for many reasons. In nature, the numbers and ratios in the sequence can be found in the patterns of petals of flowers, the whorls of a pine cone, and the leaves on stems. As the sequence continues, the ratios of the terms approach a number known as the golden ratio. This ratio is prominent in architecture and works of art as well. As the ratios approach the golden ratio, they form a spiral know as the golden spiral. This spiral is found in many natural phenomena such as the nautilus, the spiral galaxies, and the formation of many flowers.
+
+
+
+Why is the golden ratio important in nature?
+
+The golden ratio is important in nature, because it naturally occurs in many ways in nature. Some examples are the way seashells grow, the scales of a pine cone, and the ratio of the number of leaves on a stem. Because it occurs so often, the golden ratio is sometimes called the "Divine Proportion."
+
+
+
+What is the Fibonacci sequence and how does it works?
+
+The Fibonacci sequence is the sequence of numbers 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on. Any term of the sequence can be determine by adding the two terms that came before it. That is, the sequence is defined by starting with the terms 1 and 1, then adding the two previous terms to get the next term. For example 1 + 1 = 2, then 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8, and so on. This pattern continues to generate the Fibonacci sequence of numbers 1, 1, 2, 3, 5, 8, 13, . . .
+
+
+
+
+
+
+
+
+
+
+
+
+		Create an account
+		
+
+
+
+
+Table of ContentsWhat is the Fibonacci Sequence? Fibonacci Sequence Examples The Fibonacci Spiral What is the Golden Ratio? Uses of the Fibonacci Sequence Lesson SummaryShow 
+
+
+
+
+
+
+What is the Fibonacci Sequence?
+
+
+
+The Fibonacci sequence is the sequence of numbers given by 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on. Each term of the sequence is found by adding the previous two terms together. The Fibonacci sequence must start with the first two terms being 1 and 1. The mathematical Fibonacci sequence definition uses the following rules.
+{eq}a_{1} = 1 {/eq}
+
+{eq}a_{2} = 1 {/eq}
+
+{eq}a_{n}=a_{n-1}+a_{n-2} {/eq} for n {eq}\geq {/eq} 3
+Where {eq}a_i {/eq} is the {eq}i^{\text{th}} {/eq} term of the sequence.It is useful to see how the terms of the sequence relate using a table.
+
+
+an-2
+an-1
+an-2 + an-1 = an
+
+
+1
+1
+2
+
+
+1
+2
+3
+
+
+2
+3
+5
+
+
+3
+5
+8
+
+
+5
+8
+13
+
+
+8
+13
+21
+
+
+13
+21
+34
+
+
+We see that each term of the sequence is found by adding the two preceding terms together. In mathematics, we call this type of a sequence, in which the terms of the sequence are derived from previous terms, a recursive sequence.
+In mathematics there are different kinds of sequences that are defined based on the relationship of the terms. In an arithmetic sequence, the same number is added to each term to get the next term. In a geometric sequence, a constant is multiplied by each term to get the next term. However, the Fibonacci sequence can only be generated by using the previous two terms to get the next term, therefore it is a recursive sequence.The Origin of the Fibonacci SequenceLeonardo of Pisa was born in Italy around 1170. He was the son of an Italian businessman and also called Fibonacci which means "son of Bonacci." Italian merchants needed to make a lot of mathematical calculations during trades at that time and were using the Roman Numeral system to do so. When Fibonacci learned the Hindu-Arabic system of numbers, he realized that the arithmetic used in this system was easier than using the Roman Numeral system, and he published these findings in his book "Liber Abachi."
+
+Monument of Leonardo da Pisa (Fibonacci), by Giovanni Paganucci, completed in 1863, in the Camposanto di Pisa.
+
+
+
+
+
+
+Fibonacci's book also included a mathematical problem focused on the reproduction of rabbits. Fibonacci's scenario goes as follows:
+Start with one pair of male and female rabbits .
+After the rabbits are one month old, they can mate and produce one pair of male and female rabbits.
+Newly born rabbits wait one month and then that pair will produce a new pair of rabbits.
+The rabbits of mating age continue to produce one pair of new rabbits every month.
+The number of total pairs of rabbits each month results in the Fibonacci sequence.
+This scenario is pictured in the diagram.
+
+The Fibonacci rabbit problem
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An error occurred trying to load this video.
+Try refreshing the page, or contact customer support.
+
+
+
+
+
+You must cCreate an account to continue watching
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+
+							 Create Your Account To Continue Watching
+As a member, you'll also get unlimited access to over 88,000
+						lessons in math, English, science, history, and more. Plus, get practice tests, quizzes, and personalized coaching to help you
+						succeed.
+
+						Get unlimited access to over 88,000 lessons.
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+							
+								 
+								 
+									  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		It only takes a few minutes to setup and you can cancel any time.
+	
+	
+
+
+								 
+							
+                        
+
+Already registered? Log in here for
+						access
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+
+
+
+
+Coming up next:
+					Labor Productivity Ratio | Formula, Benefits & Examples
+			
+
+You're on a roll. Keep up the good work!
+
+
+						Take Quiz
+					
+
+Watch Next Lesson
+
+
+
+ Replay
+		
+
+
+
+
+
+
+Just checking in. Are you still watching?
+Yes! Keep playing. 
+
+
+
+
+
+	Your next lesson will play in
+	10 seconds
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        0:05 Definition
+
+
+                        1:03 The Golden Ratio
+
+
+                        3:27 Nature
+
+
+                        4:50 Lesson Summary
+
+
+
+
+
+
+View Video Only
+
+ Save
+
+
+ Timeline
+				
+
+132K views
+
+
+
+
+
+
+
+
+									Video
+							
+
+
+
+									Quiz
+								
+
+
+
+									Course
+								
+
+
+
+									Video Only
+								
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+							132K
+							views
+
+
+
+
+
+
+
+Fibonacci Sequence Examples
+
+
+
+In addition to the pattern that generates the sequence, the terms of the Fibonacci sequence contain patterns within themselves. The individual numbers in the Fibonacci sequence list are referred to as Fibonacci numbers or Fibonacci sequence numbers. A ratio comparing two consecutive Fibonacci numbers in the sequence is called a Fibonacci ratio, for example 3:5 or 21:13 are Fibonacci ratios, because they compare a Fibonacci number to the Fibonacci number that comes before or after it in the sequence. It was discovered that the Fibonacci numbers and ratios occur in many places in the real world, such as:
+shells
+flowers and fruits
+architecture
+For example, many flowers have a Fibonacci number as their number of leaves or petals, such as 3, 5, 8, or 13. The lily has 5 petals, some daisies have 13 petals, and a chicory has 21 petals.
+
+The number of petals on a lily is the Fibonacci number 5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Fibonacci Spiral
+
+
+
+The Fibonacci Spiral is formed by starting with a square of side length of 1, then creating squares with the side lengths of the rest of the Fibonacci numbers and placing them geometrically together in a systematic fashion. Arcs are then drawn to connect certain points of the squares, and this result in the spiral that we call the Fibonacci Spiral. The pattern is best seen with a diagram.
+
+The Fibonacci Spiral
+
+
+
+
+
+
+
+The Fibonacci Spiral in NatureThe Fibonacci Spiral is seen in nature in many ways such as the shape of a nautilus (seashell), the arrangement of the spirals of a sunflower, and the arrangement of the scales of a pinecone.
+
+Fibonacci Spiral in the nautilus
+
+
+
+
+
+
+
+
+The seeds of a sunflower head form a Fibonacci Spiral.
+
+
+
+
+
+
+
+
+The scales of a pinecone take on the shape of a Fibonacci Spiral
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+What is the Golden Ratio?
+
+
+
+The golden ratio is defined to be the number {eq}\dfrac{(1+\sqrt{5})}{2}=1.6180339... {/eq}, and is represented by the symbol {eq}\phi {/eq}. The approximation of the golden ratio is 1.618. The golden ratio was studied as early as 300 BC by Euclid and by mathematicians and scientists throughout history. Kepler observed the ratio in the solar system, and other scientists observed the ratio in geology and physics. The relationship between {eq}\phi {/eq} and the Fibonacci sequence was not discovered until the late 1600's. This relationship is that the Fibonacci ratio of a Fibonacci number to the previous Fibonacci number approaches the golden ratio as the sequence continues. This relationship can be seen in the table.
+
+
+
+Fibonacci term
+Previous Term
+Ratio
+
+
+2
+1
+2
+
+
+3
+2
+1.5
+
+
+5
+3
+1.6666
+
+
+8
+5
+1.6
+
+
+13
+8
+1.625
+
+
+21
+13
+1.6153
+
+
+34
+21
+1.6190
+
+
+55
+34
+1.6176
+
+
+89
+55
+1.618
+
+
+This pattern can be seen geometrically in the image.
+
+The ratios approach Phi, the Golden Ratio
+
+
+
+
+
+
+The Golden Ratio in NatureJust as Fibonacci numbers and the Fibonacci spiral are evident in nature, so is the golden ratio since all three of the mathematical concepts are intertwined. Because of its frequent occurrence in nature, the golden ratio is often called the "Divine Proportion." The spiral of many objects in nature have ratios that approach the golden ratio. Some examples are a snail's shell, the spiral aloe, a spiral galaxy, spider webs, and the Folha.
+
+The spiral of the folha has a ratio that approaches the golden ratio.
+
+
+
+
+
+
+
+
+The spiral of the Milky Way galaxy has a ratio approximating the golden ratio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Uses of the Fibonacci Sequence
+
+
+
+In addition to nature, the Fibonacci sequence and the golden ratio are apparent in other areas such as:
+architecture
+art
+computer science
+Mathematicians as early as Pythagoras suggested that dimensions using the Fibonacci ratios were aesthetically pleasing, and therefore many works of art and architecture are created with these ratios. Some examples are the proportions that contain Fibonacci ratios found in the rectangular structures of the Parthenon and the dome of the Santa Maria del Fiore Cathedral in Florence.
+
+The ratio of the dimensions of the Parthenon that contain Fibonacci ratios.
+
+
+
+
+
+
+
+Proportions in many paintings and sculptures are said to be based on Fibonacci ratios. Some notable examples are the Mona Lisa, Da Vinci's Vitruvian Man, and Polyclitus' statue Doryphorus. Da VInci was said to use the Fibonacci ratios as dimensions to construct rectangles to organize his artwork. The Mona Lisa contains rectangles that frame the image with dimensions that are Fibonacci numbers and form the golden ratio.
+
+The Mona Lisa by Da Vinci was painted with Fibonacci numbers approximating the golden ratio.
+
+
+
+
+
+
+Computer science languages are based on binary code, which is a sequence of 0's and 1's that execute commands. There is a way to use the Fibonacci representation of a number to create binary code. The algorithm using the Fibonacci representation can be used with a variety of programming languages.
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Lesson Summary
+
+
+
+The Fibonacci Sequence was discovered by Leonardo of Pisa in the 12th century. Also known as Fibonacci, he explained the sequence through a story about rabbits mating.
+The terms of the sequence are 1, 1, 2, 3, 5, 8, 13, 21, 34 and so on.
+Each term is found by adding the previous two terms.
+Each term is called a Fibonacci number.
+The ratios comparing consecutive terms of the Fibonacci sequence are called Fibonacci ratios.
+
+Fibonacci numbers and Fibonacci ratios are found frequently in nature. Some examples are the number of petals on flowers, the ratio of the whorls on a pine cone, and leaves on the stems of a flower. When squares with side lengths equal to the Fibonacci numbers are placed together geometrically they form the Fibonacci spiral. This spiral is also found in nature. Some examples of the spiral are found in the arrangement of the seeds on the head of a sunflower and in the nautilus, or seashell.
+As the ratios of each term of the Fibonacci sequence to the previous term progress, the ratio approaches the irrational number 1.618....
+This irrational number is call the golden ratio and is exactly equal to {eq}\dfrac{ 1 + \sqrt{5}}{2}. {/eq}
+
+The golden ratio is also seen in nature in spiral galaxies, spider webs, and plants.
+The Fibonacci sequence, the Fibonacci ratios, and the golden ratio are all intertwined.
+The Fibonacci sequence and the golden ratio are also used in architecture, art, and computer science.
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+														Video Transcript
+														
+													
+
+
+
+DefinitionThe Fibonacci sequence begins with the numbers 0 and 1. The third number in the sequence is the first two numbers added together (0 + 1 = 1). The fourth number in the sequence is the second and third numbers added together (1 + 1 = 2). Each successive number is the addition (the sum) of the previous two numbers in the sequence. The sequence ends up looking like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, and so on and so forth. Looking at it, you can see that each number in the sequence is the addition or sum of the two previous numbers. For example, 34 is the addition of 21 and 13. 144 is the addition of 89 and 55. Try it out yourself and check other numbers in the sequence to see if they follow the rule. 
+The Golden Ratio
+
+
+
+
+
+The golden ratio, represented by the Greek letter phi, is approximately 1.618. The golden ratio, like pi, is an irrational number that keeps going. The actual value goes like this: 1.618033988764989. . . You might be wondering how the Fibonacci sequence relates to this number. Let us see. Let's start by dividing pairs of numbers in the Fibonacci sequence. We will skip zero and start with the pair of ones. 1 / 1 = 1. The next pair is the one and the two. 2 / 1 = 2. In each pair, we divide the larger by the smaller number. Let's keep going and see where it takes us: 
+
+
+Fibonacci pair 
+Result
+
+
+2 and 3 
+3 / 2 = 1.5
+
+
+3 and 5 
+5 / 3 = 1.6666. . .
+
+
+5 and 8 
+8 / 5 = 1.6
+
+
+8 and 13 
+13 / 8 = 1.625
+
+
+13 and 21 
+21 / 13 = 1.6154. . .
+
+
+21 and 34 
+34 / 21 = 1.619. . .
+
+
+34 and 55 
+55 / 34 = 1.618. . .
+
+
+55 and 89 
+89 / 55 = 1.618. . .
+
+
+89 and 144 
+144 / 89 = 1.618. . .
+
+
+As the numbers get larger, an interesting thing starts to happen. The result of dividing the pairs of numbers gives you the approximate value of the golden ratio, 1.618. . . In mathematical terms, the Fibonacci sequence converges on the golden ratio. What that means is that, as the Fibonacci sequence grows, when you divide a pair of numbers from the sequence, the result will get closer and closer to the actual value of the golden ratio. Looking at the table, you can see that starting with the pair 34 and 55, the result is accurate to three decimal places. As the pairs get larger, the result will be more accurate to the decimal. 
+
+
+NatureThe Fibonacci sequence approximates the golden ratio, which can be found in the natural world. You can see it in your own body, in the way seashells grow, and the number of petals in flowers. Let's take a look at these real-life examples. 
+
+
+
+
+
+Take a look at your own fingers. Notice that each finger has three parts to it. If you measure each section and divide pairs of sections, you will get an approximate value of the golden ratio. If the smallest section of your finger measures one unit, then the section below will measure roughly two units, and the third section will measure about three units. Notice how each measurement corresponds to a Fibonacci number. 
+
+
+
+
+
+Seashells grow in a Fibonacci sequence. If you tile squares with sizes that follow the Fibonacci sequence (1, 1, 2, 3, 5, and so on) and draw a spiral that connects to each outer edge, you will see a seashell forming. 
+
+
+
+
+
+You will also see the Fibonacci numbers in the way flowers grow their petals. An orchid, for example, has several layers of petals and each layer corresponds to a Fibonacci number. Look at the orchid picture, and you will see a petal layer of two, then a petal layer of three, followed by an outer petal layer of 5. Lesson SummaryTo summarize, the Fibonacci sequence begins with 0 and 1, and each successive number is the sum of the two previous numbers. As the Fibonacci sequence grows, if you divide pairs of numbers in the sequence (the larger by the smaller), you will get an approximate value of the golden ratio, which is roughly 1.618. Learning OutcomesWhen you are finished, you should be able to: 
+Describe and identify the Fibonacci sequence 
+Explain the relationship between the Fibonacci sequence and the golden ratio 
+Recall some examples of the Fibonacci sequence in nature
+
+
+
+
+
+
+
+			
+				
+				
+					To unlock this lesson you must be a Study.com Member.
+				
+			
+			
+			
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+Unlock Your Education
+See for yourself why 30 million people use Study.com
+Become a Study.com member and start learning now.
+Become a Member
+Already a member? Log In
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+Recommended Lessons and Courses for You
+
+
+Related Lessons
+
+
+Related Courses
+
+
+
+
+
+
+
+
+									Recommended Lessons for You
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo Fibonacci | Biography, Works & Legacy
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Ratio | Definition, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Rectangle | Equation & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Patterns in Nature | Repeating, Mathematical & Animal Patterns
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polya's Problem Solving Process | Overview & Steps
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry in Nature | Shapes, Types & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Patterns in Math | Overview, Rule & Types
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Direct Instruction | Model, Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Philosophy of Self | Hinduism & Buddhism Concept
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Math in Everyday Life | Uses, Importance & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Structuralism & Functionalism in Psychology | Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Inductive Reasoning in Math | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding the Self | Overview, Self-Concept & Significance
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Group Work Benefits & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Ethical Communication in Business | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Empiricism | Definition, Types & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sum of Arithmetic Sequence | Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Solving a 3x3 Magic Square | Overview, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Psychological Perspectives | Definition, Categories & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+FITT Principle | Definition, Examples & Benefits
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									Related Courses
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Social Studies: Civics & Government, US History, Economics, Geography & World
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Science: Life, Physical and Chemical
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Holt Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PSAT Prep: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry Curriculum Resource & Lesson Plans
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET English Subtest II Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET English Subtests I & III (105 & 107): Practice & Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test US History: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+ILTS Science - Environmental Science (242) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Chemistry: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test World History: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Literature: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+College Mathematics: Certificate Program
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Precalculus: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Precalculus: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High School Precalculus: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Precalculus: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+AP Calculus AB & BC: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Precalculus: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Start today. Try it now
+		
+
+
+
+
+Table of ContentsWhat is the Fibonacci Sequence? Fibonacci Sequence Examples The Fibonacci Spiral What is the Golden Ratio? Uses of the Fibonacci Sequence Lesson SummaryShow 
+
+
+
+
+
+
+CAHSEE Math Exam: Help and Review
+
+
+22 chapters |
+				
+					
+					
+						257 lessons
+						
+					
+				
+			
+
+
+
+
+
+
+Ch 1. 
+									
+										CAHSEE - Number Theory & Basic...
+
+
+
+
+
+
+
+
+
+
+Ch 2. 
+									
+										CAHSEE - Problems with Decimals and...
+
+
+
+
+
+
+
+
+
+
+Ch 3. 
+									
+										CAHSEE - Problems with Percents: Help...
+
+
+
+
+
+
+
+
+
+
+Ch 4. 
+									
+										CAHSEE Radical Expressions & Equations:...
+
+
+
+
+
+
+
+
+
+
+Ch 5. 
+									
+										CAHSEE Algebraic Expressions &...
+
+
+
+
+
+
+
+
+
+
+Ch 6. 
+									
+										CAHSEE - Algebraic Linear Equations &...
+
+
+
+
+
+
+
+
+
+
+Ch 7. 
+									
+										CAHSEE - Problems with Exponents: Help...
+
+
+
+
+
+
+
+
+
+
+Ch 8. 
+									
+										CAHSEE - Overview of Functions: Help...
+
+
+
+
+
+
+
+
+
+
+Ch 9. 
+									
+										CAHSEE - Rational Expressions: Help and...
+
+
+
+
+
+
+
+
+
+
+Ch 10. 
+              CAHSEE Ratios, Percent & Proportions: Help & Review
+
+
+
+
+
+
+							Ratios & Rates | Differences & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:37
+						 
+
+
+
+							How to Solve Problems with Money
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:29
+						 
+
+
+
+							Proportion | Definition, Formula & Types
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:05
+						 
+
+
+
+							Calculations with Ratios and Proportions
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:35
+						 
+
+
+
+							Percents: Definition, Application & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:20
+						 
+
+
+
+							How to Solve Word Problems That Use Percents
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:30
+						 
+
+
+
+							Simple Interest Problems | Definition, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:05
+						 
+
+
+
+							Compounding Interest | Formula, Types & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+7:45
+						 
+
+
+
+							Taxes & Discounts: Calculations & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:07
+						 
+
+
+
+							How to Solve Problems with Time
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:18
+						 
+
+
+
+							Distance Equations | Formula, Calculation & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:31
+						 
+
+
+
+							Fibonacci Sequence | Definition, Golden Ratio & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:17
+						 
+
+
+
+
+
+							  
+
+
+
+
+
+
+
+
+
+
+3:41
+						 
+Next Lesson
+
+
+
+
+
+
+Labor Productivity Ratio | Formula, Benefits & Examples
+
+
+
+
+							Ratio in Math | Definition & Symbols
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:46
+						 
+
+
+
+							Golden Ratio | Definition, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:41
+						 
+
+
+
+
+
+
+
+Ch 11. 
+									
+										CAHSEE - Matrices and Absolute Value:...
+
+
+
+
+
+
+
+
+
+
+Ch 12. 
+									
+										CAHSEE - Quadratics & Polynomials: Help...
+
+
+
+
+
+
+
+
+
+
+Ch 13. 
+									
+										CAHSEE - Geometry: Graphing Basics:...
+
+
+
+
+
+
+
+
+
+
+Ch 14. 
+									
+										CAHSEE - Graphing on the Coordinate...
+
+
+
+
+
+
+
+
+
+
+Ch 15. 
+									
+										CAHSEE - Measurement in Math: Help and...
+
+
+
+
+
+
+
+
+
+
+Ch 16. 
+									
+										CAHSEE - Properties of Shapes: Help and...
+
+
+
+
+
+
+
+
+
+
+Ch 17. 
+									
+										CAHSEE Triangles & the Pythagorean...
+
+
+
+
+
+
+
+
+
+
+Ch 18. 
+									
+										CAHSEE - Perimeter, Area & Volume in...
+
+
+
+
+
+
+
+
+
+
+Ch 19. 
+									
+										CAHSEE - Statistics, Probability &...
+
+
+
+
+
+
+
+
+
+
+Ch 20. 
+									
+										CAHSEE - Mathematical Reasoning: Help...
+
+
+
+
+
+
+
+
+
+
+Ch 21. 
+									
+										CAHSEE - Logic: Help and Review
+
+
+
+
+
+
+
+
+
+
+Ch 22. 
+									
+										CAHSEE Math Exam Help and Review...
+
+
+
+
+
+
+
+
+
+
+
+
+Fibonacci Sequence | Definition, Golden Ratio & Examples Related Study Materials
+
+
+
+
+
+
+
+
+				Related Lessons
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo Fibonacci | Biography, Works & Legacy
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Ratio | Definition, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Rectangle | Equation & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Patterns in Nature | Repeating, Mathematical & Animal Patterns
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polya's Problem Solving Process | Overview & Steps
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry in Nature | Shapes, Types & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Patterns in Math | Overview, Rule & Types
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Direct Instruction | Model, Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Philosophy of Self | Hinduism & Buddhism Concept
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Math in Everyday Life | Uses, Importance & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Structuralism & Functionalism in Psychology | Overview & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Inductive Reasoning in Math | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding the Self | Overview, Self-Concept & Significance
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Group Work Benefits & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Ethical Communication in Business | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Empiricism | Definition, Types & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sum of Arithmetic Sequence | Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Solving a 3x3 Magic Square | Overview, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Psychological Perspectives | Definition, Categories & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+FITT Principle | Definition, Examples & Benefits
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Related Courses
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Social Studies: Civics & Government, US History, Economics, Geography & World
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Science: Life, Physical and Chemical
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Holt Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PSAT Prep: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry Curriculum Resource & Lesson Plans
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET English Subtest II Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET English Subtests I & III (105 & 107): Practice & Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test US History: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+ILTS Science - Environmental Science (242) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Chemistry: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test World History: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Literature: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+College Mathematics: Certificate Program
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Precalculus: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Precalculus: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High School Precalculus: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Precalculus: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+AP Calculus AB & BC: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Precalculus: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Topics
+
+
+
+
+
+
+Browse by Courses
+Praxis Mathematics (5165) Prep
+ILTS School Psychologist (237) Prep
+ILTS Business, Marketing, and Computer Education (216) Prep
+FTCE School Psychologist PK-12 (036) Prep
+SAT Subject Test Chemistry: Practice and Study Guide
+SAT Subject Test US History: Practice and Study Guide
+ILTS Science - Chemistry (240) Prep
+Praxis Environmental Education (0831) Prep
+FTCE Earth/Space Science 6-12 (008) Prep
+FTCE School Counseling PK-12 (018) Prep
+ILTS Social Science - Sociology and Anthropology (249) Prep
+GMAT Test: Online Prep and Review
+CSET Science Subtest II Earth and Space Sciences (219): Test Prep & Study Guide
+FTCE Middle Grades English 5-9 (014) Prep
+Praxis Psychology (5391) Prep
+
+
+
+
+
+
+Browse by Lessons
+Explicit Formulas & Examples for Arithmetic & Geometric Sequences
+Fibonacci Numbers in Nature: Lesson for Kids
+Fibonacci Sequence Lesson for Kids: Numbers & Facts
+Order of Magnitude: Analysis & Problems
+Abstract Equation: Definition & Concept
+Point-Slope Form | Definition, Examples & Graph
+Finding the Derivative of 2sinxcosx
+How to Integrate sec(5x): Steps & Tutorial
+Solving 5 to the Negative 4th Power
+System of Linear Differential Equations | Methods & Examples
+Impact of Radioactive Decay on Matter
+Influence of Laws & Policies on Health & Disease Prevention
+The Durability of Scientific Laws
+Spectrophotometers: Definition, Uses, and Parts
+What is an Autoclave? - Definition and Uses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Create an account to start this course today
+			
+
+						  
+							  Used by over 30 million students worldwide
+						  
+						  
+                
+
+
+				  Create an account
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like this lesson
+
+
+
+Share
+
+
+
+
+Explore our library of over 88,000 lessons
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Browse
+
+
+						Browse by subject
+					
+
+
+College Courses
+
+Business
+English
+Foreign Language
+History
+Humanities
+Math
+Science
+Social Science
+See All College Courses
+
+
+
+High School Courses
+
+AP
+Common Core
+GED
+
+High School
+See All High School Courses
+
+
+
+Other Courses
+
+College & Career Guidance Courses
+College Placement Exams
+Entrance Exams
+General Test Prep
+K-8 Courses
+Skills Courses
+Teacher Certification Exams
+See All Other Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade to enroll
+×
+
+
+Upgrade to Premium to enroll in CAHSEE Math Exam: Help and Review
+Enrolling in a course lets you earn progress by passing quizzes and exams.
+
+
+
+
+Track course progress
+
+
+
+
+Take quizzes and exams
+
+
+
+
+Earn certificates of completion
+
+
+
+			You will also be able to:
+			
+Create a Goal
+Create custom courses
+Get your questions answered
+
+
+
+
+Upgrade to Premium to add all these features to your account!
+
+			Upgrade Now
+		
+Upgrade to Premium to add all these features to your account!
+
+
+
+
+
+
+
+
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars® Solutions
+
+
+
+About Us
+
+Blog
+Careers
+Teach For Us
+Press Center
+Ambassador
+Scholarships
+
+
+
+
+
+Support
+
+FAQ
+Site Feedback
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working Scholars® Bringing Tuition-Free College to the Community
+
+
+
+
+
+
+
+
+©  Copyright 2024 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		
+
+
+
+
+
+Terms of Use  
+Privacy Policy  
+DMCA Notice  
+ADA Compliance  
+Honor Code For Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+

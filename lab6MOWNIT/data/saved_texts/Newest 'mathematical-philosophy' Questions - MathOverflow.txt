@@ -1,0 +1,1372 @@
+
+
+
+
+Newest 'mathematical-philosophy' Questions - MathOverflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            MathOverflow
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            MathOverflow Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions tagged [mathematical-philosophy]        
+
+
+
+        Ask Question
+    
+
+
+
+
+Philosophical aspects of logic and set theory; truth status of mathematical axioms; Philosophy of Mathematics; philosophical aspects of mathematics in general; relation of mathematics to philosophy; etc. Consider also posting at http://philosophy.stackexchange.com/, where philosophy-of-mathematics is one of the most popular tags.                    
+
+
+
+
+Learn more…
+
+
+Top users
+
+
+Synonyms (1)
+
+
+
+
+
+
+
+
+
+
+            353
+            questions
+        
+
+
+
+
+Newest
+
+
+Active
+
+
+Bountied
+
+
+Unanswered
+
+
+More
+
+
+
+
+
+
+
+                                        Bountied
+                                            0
+
+
+
+
+                                        Unanswered
+                                    
+
+
+
+                                        Frequent
+                                    
+
+
+
+                                        Score
+                                    
+
+
+
+Unanswered (my tags)
+
+
+
+
+
+ Filter
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+Filter by
+
+
+
+
+
+No answers
+
+
+
+
+
+
+
+No accepted answer
+
+
+
+
+
+
+
+Has bounty
+
+
+
+
+
+
+Sorted by
+
+
+
+
+
+Newest
+
+
+
+
+
+
+
+Recent activity
+
+
+
+
+
+
+
+Highest score
+
+
+
+
+
+
+
+Most frequent
+
+
+
+
+
+
+
+Bounty ending soon
+
+
+
+
+
+
+Tagged with
+
+
+
+
+
+My watched tags
+
+
+
+
+
+
+
+The following tags:
+
+
+
+
+
+
+
+
+
+
+
+
+Apply filter
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+7
+votes
+
+
+1
+answer
+
+
+320
+views
+
+
+
+
+Why should I believe Martin's Maximum++?
+
+
+                $\sf MM^{++}$ is a 'good' set-theoretic axiom because it is 'Maximum'. Of course, bigger is better. But I'd like to know exactly how the argument works.
+Let me be clear about the question posed:
+
+What ...
+            
+
+
+set-theorylo.logicmathematical-philosophy
+
+
+ 
+
+
+
+
+
+Ember Edison
+
+
+665
+
+
+asked May 31 at 3:14
+
+
+
+
+
+
+
+13
+votes
+
+
+0
+answers
+
+
+871
+views
+
+
+
+
+Is there any correspondence between Gödel and Kreisel that supports Kreisel's observation that Gödel changed his mind about his 1938 set theory note?
+
+
+                At a conference in 1965 there were some interesting comments made by Kreisel and Mostowski asserting that Gödel later changed his mind regarding his1938 note on his set theory results (see Problems in ...
+            
+
+
+reference-requestset-theoryho.history-overviewmathematical-philosophy
+
+
+ 
+
+
+
+
+
+M. Solomon
+
+
+465
+
+
+asked May 31 at 0:59
+
+
+
+
+
+
+
+11
+votes
+
+
+ 3
+answers
+
+
+2k
+views
+
+
+
+
+What governs our "perception?" about the platonic realm of sets?
+
+
+                Here, I want to delve into what do we exactly feel about what constitutes a platonic existence of a set? Or what makes us think or actually a kind of feel or sense the existence of a set in the ...
+            
+
+
+set-theorybig-picturemathematical-philosophyfoundationsnew-foundations
+
+
+ 
+
+
+
+
+
+Zuhair Al-Johar
+
+
+9,990
+
+
+asked Apr 22 at 22:10
+
+
+
+
+
+
+
+7
+votes
+
+
+ 1
+answer
+
+
+336
+views
+
+
+
+
+Literature about formalization of "natural reasoning" in mathematical logic
+
+
+                In "Logic of sheaves of structures", X. Caicedo justifies the logic he introduces stating (more or less) that assertions about a point should really be understood as assertions about a ...
+            
+
+
+reference-requestlo.logicsoft-questionmathematical-philosophy
+
+
+ 
+
+
+
+
+
+                user524506
+            
+
+asked Mar 10 at 18:23
+
+
+
+
+
+
+
+6
+votes
+
+
+0
+answers
+
+
+349
+views
+
+
+
+
+An imaginary disaster scenario - second order arithmetic is inconsistent
+
+
+                I think my question is a natural follow up of What would be some major consequences of the inconsistency of ZFC?
+Regarding the later question, I agree with the commentaries that probably an ...
+            
+
+
+lo.logicmathematical-philosophy
+
+
+ 
+
+
+
+
+
+jg1896
+
+
+3,034
+
+
+asked Nov 25, 2023 at 20:14
+
+
+
+
+
+
+
+8
+votes
+
+
+ 1
+answer
+
+
+606
+views
+
+
+
+
+Concept of bedrock and mantle in the multiverse view in the philosophy of mathematics
+
+
+                To be clear, I am not a mathematics educated student and I can not follow the details of the technicality of the forcing extension, but I feel that I have a good understanding of the big picture (of ...
+            
+
+
+model-theorylarge-cardinalsmathematical-philosophymultiverse-of-sets
+
+
+ 
+
+
+
+
+
+Arian
+
+
+183
+
+
+asked Nov 25, 2023 at 14:59
+
+
+
+
+
+
+
+15
+votes
+
+
+ 5
+answers
+
+
+2k
+views
+
+
+
+
+In what sense does the sentence $\operatorname{con}(\mathsf{PA})$ "say" that $\mathsf{PA}$ is consistent?
+
+
+                It seems common amongst logicians to think of "truth" as being relative to a particular structure. Consider, for instance, the first-order theory of groups. The sentence $\forall x\forall y(...
+            
+
+
+set-theorylo.logicmathematical-philosophytheories-of-arithmetic
+
+
+ 
+
+
+
+
+
+Joe
+
+
+301
+
+
+asked Nov 23, 2023 at 17:43
+
+
+
+
+
+
+
+-2
+votes
+
+
+1
+answer
+
+
+202
+views
+
+
+
+
+Is there any case of remormalization in which we have to solve it by ways in two different systems? [closed]
+
+
+                In renormalization of physics, $$\sum_{j=1}^{\infty}j=-\frac{1}{12}$$ We may obtain the result in two ways: first we may redifine the sum so we have used two system of math with different definition ...
+            
+
+
+mp.mathematical-physicsmathematical-philosophyrenormalization
+
+
+ 
+
+
+
+
+
+XL _At_Here_There
+
+
+3,010
+
+
+asked Oct 23, 2023 at 2:55
+
+
+
+
+
+
+
+0
+votes
+
+
+ 1
+answer
+
+
+295
+views
+
+
+
+
+Nancy Cartwright's dichotomy
+
+
+                Nancy Cartwright introduced an interesting distinction with regard to modeling of physical phenomena. According to Cartwright, a mathematical theory is not applied directly to such phenomena.  Rather, ...
+            
+
+
+reference-requestmp.mathematical-physicsmathematical-philosophy
+
+
+ 
+
+
+
+
+
+Mikhail Katz
+
+
+15.7k
+
+
+asked Jul 6, 2023 at 18:36
+
+
+
+
+
+
+
+8
+votes
+
+
+ 2
+answers
+
+
+925
+views
+
+
+
+
+Large cardinal near inconsistencies
+
+
+                I am looking for examples of results about large cardinals, large cardinal axioms, or other objects of high (or seemingly high) consistency strength that are almost inconsistencies. I am looking for ...
+            
+
+
+set-theorylarge-cardinalsmathematical-philosophy
+
+
+ 
+
+
+
+
+
+Joseph Van Name
+
+
+28.1k
+
+
+asked Jun 25, 2023 at 13:41
+
+
+
+
+
+
+
+53
+votes
+
+
+ 7
+answers
+
+
+9k
+views
+
+
+
+
+Are there any fields of academic mathematics whose epistemic status as math is controversial within the academic community?
+
+
+                String theory (and related areas of purely theoretical quantum gravity, like loop quantum gravity) has a unique position within the academic physics community. Many academic physicists don't really ...
+            
+
+
+mathematical-philosophygm.general-mathematics
+
+
+
+Community wiki
+
+
+                    tparker
+                
+
+
+
+
+
+
+
+
+
+
+11
+votes
+
+
+1
+answer
+
+
+881
+views
+
+
+
+
+Causality, if any, in mathematics itself
+
+
+                Mathematicians often express comments like "X is true because Y and Z are true". One's sense of mathematical causation is also a major part of mathematical intuition.
+But causality per se is ...
+            
+
+
+lo.logicmathematical-philosophy
+
+
+ 
+
+
+
+
+
+Daniel Asimov
+
+
+2,598
+
+
+asked Apr 4, 2023 at 23:39
+
+
+
+
+
+
+
+20
+votes
+
+
+11
+answers
+
+
+2k
+views
+
+
+
+
+Comparative analysis of history of mathematics
+
+
+                I am a bit scared about writing this question because I am unsure if it is appropriate. However, here it is.
+Is there anything written about the history of mathematics from a comparative or (post)...
+            
+
+
+reference-requestho.history-overviewmathematical-philosophy
+
+
+ 
+
+
+
+
+
+Grisha Taroyan
+
+
+1,294
+
+
+asked Feb 9, 2023 at 15:19
+
+
+
+
+
+
+
+8
+votes
+
+
+0
+answers
+
+
+397
+views
+
+
+
+
+What is the relationship (if any) between constructivism, finitism and predicativism?
+
+
+                The terms “constructivism”, “finitism” and “predicativism” refer to ideas / currents in the philosophy of mathematics (or loosely defined conditions on a system of logic) that I think I understand ...
+            
+
+
+lo.logicbig-picturemathematical-philosophyconstructive-mathematics
+
+
+ 
+
+
+
+
+
+Gro-Tsen
+
+
+30.6k
+
+
+asked Jan 17, 2023 at 11:07
+
+
+
+
+
+
+
+31
+votes
+
+
+ 8
+answers
+
+
+9k
+views
+
+
+
+
+Why is integer factoring hard while determining whether an integer is prime easy?
+
+
+                In 2002, the discovery of the AKS algorithm proved that it is possible to determine whether an integer is prime in polynomial time deterministically. However, it is still not known whether there is an ...
+            
+
+
+nt.number-theoryprime-numberscomputational-number-theorymathematical-philosophy
+
+
+ 
+
+
+
+
+
+Craig Feinstein
+
+
+2,559
+
+
+asked Dec 5, 2022 at 13:25
+
+
+
+
+
+
+
+15
+30
+50
+per page
+
+
+1
+2
+3
+4
+5
+…
+24
+ Next
+
+
+
+
+
+Related Tags
+
+lo.logic × 175 
+
+
+set-theory × 115 
+
+
+soft-question × 73 
+
+
+ho.history-overview × 55 
+
+
+foundations × 44 
+
+
+reference-request × 35 
+
+
+big-list × 25 
+
+
+ct.category-theory × 21 
+
+
+large-cardinals × 20 
+
+
+model-theory × 19 
+
+
+nt.number-theory × 13 
+
+
+big-picture × 12 
+
+
+metamathematics × 12 
+
+
+computability-theory × 11 
+
+
+constructive-mathematics × 10 
+
+
+pr.probability × 10 
+
+
+proof-theory × 10 
+
+
+gm.general-mathematics × 9 
+
+
+mathematics-education × 9 
+
+
+peano-arithmetic × 8 
+
+
+type-theory × 8 
+
+
+mp.mathematical-physics × 7 
+
+
+ultrafinitism × 7 
+
+
+ag.algebraic-geometry × 6 
+
+
+axiom-of-choice × 6 
+
+
+            more related tags
+        
+
+
+
+
+
+            Newest mathematical-philosophy questions feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Newest mathematical-philosophy questions feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MathOverflow
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

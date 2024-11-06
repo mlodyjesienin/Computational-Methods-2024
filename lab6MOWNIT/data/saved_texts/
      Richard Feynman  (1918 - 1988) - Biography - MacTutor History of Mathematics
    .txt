@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+      Richard Feynman  (1918 - 1988) - Biography - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Richard  Phillips Feynman
+
+
+
+
+
+Quick Info
+Born
+
+      11 May 1918   New York City, USA 
+
+Died
+
+      15 February 1988  Los Angeles, California, USA
+    
+
+Summary
+Richard Feynman was a Nobel prize winner famous for his unusual life style and for his popular books and lectures on mathematics and physics.
+
+
+
+
+
+      View ten larger pictures
+
+
+
+
+
+Biography
+Richard Feynman's parents were Melville Feynman and Lucille Phillips. Melville was born into a Jewish family in Minsk, Belarus, and emigrated with his parents to the United States when he was five years old. He was a business man who tried, not too successfully, many different types of business. It is clear that his talents were not in business but rather in science which was the subject that fascinated him but he never had the opportunity to make a career from it. Lucille Phillips was born in the United States into a Jewish family. Lucille's father had emigrated from Poland and her mother also came from a family of Polish immigrants. She trained as a primary school teacher but married Melville in 1917 before taking up a profession.
+
+
+After their marriage Lucille and Melville Feynman moved into a Manhattan apartment and, in the following year, their first child Richard was born. Melville wanted his first child to be a son and he also wanted him to become a scientist so, overjoyed when he got the son he wanted, he did all he could to interest Richard in science throughout his childhood. Gleick writes [6]:-
+Melville's gift to the family was knowledge and seriousness. Humour and storytelling came from Lucille.
+Tragedy struck the family when Richard was five years old for Lucille and Melville had a second son who died when four weeks old. It meant that a sadness fell over the household which must have greatly affected the young Richard. After this, he remained an only child until his sister Joan was born when he was nine years old. The family moved several times during these years but when Richard was ten they settled in Far Rockaway.
+
+
+Richard, or Ritty as his friends called him, learnt a great deal of science from Encyclopaedia Britannica and taught himself elementary mathematics before he encountered it at school. He also set up a laboratory in his room at home where he experimented with electricity. In particular he wired circuits with light bulbs, he invented a burglar alarm, and he took radios apart to repair damaged circuits. When he entered Far Rockaway High School his interests were almost entirely mathematics and science. He found little liking for arts type subjects at this time [4]:-
+I always worried about being a sissy; I didn't want to be too delicate. To me, no real man ever paid any attention to poetry and such things.
+At school Feynman approached mathematics in a highly unconventional way. Basically he enjoyed recreational mathematics from which he derived a large amount of pleasure. He studied a lot of mathematics in his own time including trigonometry, differential and integral calculus, and complex numbers long before he met these topics in his formal education. Realising the importance of mathematical notation, he invented his own notation for sin, cos, tan, f(x)f (x)f(x) etc. which he thought was much better than the standard notation. However, when a friend asked him to explain a piece of mathematics, he suddenly realised that notation could not be a personal matter since one needed it to communicate. He really enjoyed mathematics competitions and was a real star in his school. In his final year at Far Rockaway High School he won the New York University Math Championship.
+
+
+After leaving school he applied to several universities to study there. One would have expected every university to which he applied would enthusiastically offer him a place but it was not that easy. Although his grades in mathematics and science were outstanding, he had performed much less well in other subjects. There was also the "problem" that he was a Jew, which really was a problem in the United States at this time with universities having quotas on the number of Jews they admitted. He sat an entrance examination for Columbia University and they turned him down. He never quite forgave them for charging him 15 dollars and then rejecting him. He was accepted, however, by the Massachusetts Institute of Technology.
+
+
+He entered MIT in 1935 and, after four years study, obtained his B.Sc. in 1939. He went there to study mathematics but, although he found the courses easy, he became increasingly worried by the abstraction and lack of applications which characterised the course at this time. He read Eddington's Mathematical Theory of Relativity while in his first year of studies and felt that this was what he wanted from mathematics. His mathematics lecturers presented him with the view that one did mathematics for its own sake so Feynman changed courses, taking electrical engineering. Very quickly he changed again, this time moving into physics. It is interesting to think that had Feynman taken the mathematics course at Cambridge which Hoyle took around the same time, he would have found it exactly what he wanted.
+
+
+The physics course that Feynman took at MIT was not the standard one. He took Introduction to Theoretical Physics, a class intended for graduate students, in his second year. There was no course on quantum mechanics, a topic that Feynman was very keen to study, so together with a fellow undergraduate, T A Welton, he began to read the available texts in the spring of 1936. Returning to their respective homes in the summer of 1936 the two exchanged a series of remarkable letters as they tried to develop a version of space-time where (quoted from one of the letters - see [6]):-
+... electrical phenomena [are] a result of the metric of a space in the same way that gravitational phenomena are.
+By 1937 Feynman was reading Dirac's The principles of quantum mechanics and seeing how his highly original ideas fitted into Dirac's approach. In fact Dirac became the scientist who Feynman most respected throughout his life.
+
+
+We mentioned above that Feynman went home for his vacations. In fact he applied for summer jobs at the Bell Telephone Laboratories every summer but was always refused a position there despite the highest recommendations. Although it can never be proved, there seems no other reason that he would be turned down other than that he was Jewish.
+
+
+As he approached the end of his remarkable four undergraduate years at MIT he began to think about studying for his doctorate. Since he had been so happy at MIT and also believing it to be the leading institution, he approached the head of physics, John Slater, requesting that he stay on to take a Ph.D. course. Slater told him that for his own good he had to move and he suggested Princeton.
+
+
+Despite the personal recommendation that Harry Smyth at Princeton received from Slater, it was not obvious that Feynman would be accepted. He had the best grades in physics and mathematics that anyone had seen, but on the other hand he was close to the bottom in history, literature and fine arts. He had one other thing going against him - namely that he was Jewish. Smyth wrote:-
+Is Feynman Jewish? We have no definite rule against Jews but have to keep their proportion in our department reasonably small because of the difficulty of placing them.
+After further letters from Slater, Feynman was accepted by Princeton. His doctoral work at Princeton was supervised by John Wheeler, and after finding the first problem that Wheeler gave him rather intractable, he went back to ideas he had thought about while at MIT. The first seminar that he gave at Princeton was to an audience which included Einstein, Pauli and von Neumann. Pauli said at the end [4]:-
+I do not think this theory can be right ...
+In retrospect, Feynman thought that Pauli must have seen difficulties at once, for after Feynman had spent a long time working on it, he too thought that it was not satisfactory. However, he then went on to develop a new approach to quantum mechanics using the principle of least action. He replaced the wave model of electromagnetics of Maxwell with a model based on particle interactions mapped into space-time. Gleick writes [6]:-
+This was Richard Feynman nearing the crest of his powers. At twenty-three ... there was no physicist on earth who could match his exuberant command over the native materials of theoretical science. It was not just a facility at mathematics (though it had become clear ... that the mathematical machinery emerging from the Wheeler-Feynman collaboration was beyond Wheeler's own ability). Feynman seemed to possess a frightening ease with the substance behind the equations, like Einstein at the same age, like the Soviet physicist Lev Landau - but few others.
+He received his doctorate from Princeton in 1942 but before this time the United States had entered World War II.
+
+
+Feynman worked on the atomic bomb project at Princeton University (1941-42) and then at Los Alamos (1943-45). When he was approached during his final year of research to take part in the project his first reaction had been a very definite no since he was entering the final stages of work for his thesis at the time [4]:-
+... I went back to my thesis - for about three minutes. Then I began to pace the floor and think about the thing. The Germans had Hitler and the possibility of developing an atomic bomb was obvious, and the possibility that they would develop it before we did was very much of a fright.
+Feynman began work on the Manhattan project at Princeton developing a theory of how to separate Uranium 235 from Uranium 238, while his thesis supervisor Wheeler went to Chicago to work with Fermi on the first nuclear reactor. Wigner, in Wheeler's absence, advised Feynman to write up his thesis and after Wheeler and Wigner examined the work he received his doctorate in June 1942.
+
+
+Feynman had a difficult personal problem at this time. His girlfriend of many years, Arlene Greenbaum, had been diagnosed as having tuberculosis and his family opposed their marriage. Shortly after he was awarded his doctorate Feynman married Arlene with no family members present. Shortly after his marriage Feynman went to the newly constructed Los Alamos site to work on the atomic bomb project. His remarkable abilities soon led to him being appointed as head of the theoretical division. Arlene died in 1945 just before the first test of the bomb. Feynman would marry twice more and have two children with his third wife.
+
+
+After World War II, in the autumn of 1945, Feynman was appointed as a professor of theoretical physics at Cornell University. At first he devoted himself to teaching and put his research aside. The pressure of the work at Los Alamos, together with the personal stress of watching his wife's health decline, had taken its toll. He wrote [4]:-
+If you're teaching a class, you can think about the elementary things that you know very well. These things are kind of fun and delightful. It doesn't do any harm to think them over again. Is there a better way to present them? The elementary things are easy to think about; if you can't think of a new thought, no harm done; what you thought about it before is good enough for the class. If you do think of something new, you're rather pleased that you have a new way of looking at it.
+He received offers of posts at other universities but felt that as a non-researcher he could not even consider them. Suddenly the desire to undertake research hit him again and he returned to the quantum theory of electrodynamics that he was working on before World War II.
+
+
+In 1950 Feynman accepted a position as professor of theoretical physics at the California Institute of Technology. Since he had already planned a sabbatical leave before receiving the offer, he was able to arrange to spend the first ten months of his new appointment in Brazil. He remained at Cal tech for the rest of his career, being appointed Richard Chace Tolman Professor of Theoretical Physics there in 1959.
+
+
+Feynman's main contribution was to quantum mechanics, following on from the work of his doctoral thesis. He introduced diagrams (now called Feynman diagrams) that are graphic analogues of the mathematical expressions needed to describe the behaviour of systems of interacting particles. He was awarded the Nobel Prize in 1965, jointly with Schwinger and Tomonoga:-
+... for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.
+Other work on particle spin and the theory of 'partons' which led to the current theory of quarks were fundamental in pushing forward an understanding of particle physics.
+
+
+In early 1979 Feyman's health had deteriorated and he had surgery for stomach cancer. This was very successful and his doctors believed that he would not suffer a recurrence. After his recovery he enjoyed the limelight as a famous public figure, a role which was enhanced when the book [4] became a surprise best seller. His final major task was as a member of a committee set up to investigate the cause of the explosion on the space shuttle Challenger on Tuesday 28 January 1986. The fascinating story of the science and politics of this investigation is told in Feyman's own words in [5]. It was a very difficult time for Feyman since throughout the investigation his health was deteriorating. Near the end of 1987 cancer was found again in his abdomen. After his death, Chandler wrote on 17 February 1988 in [17]:-
+Feynman, who died at the University of California at Los Angeles Medical Center after an eight-year battle with abdominal cancer, was a popular and energetic lecturer who, despite his illness, continued to teach at the California Institute of Technology until two weeks ago.
+Feynman's books include many outstanding ones which evolved out of lecture courses. For example Quantum Electrodynamics (1961) and The Theory of Fundamental Processes (1961), The Feynman Lectures on Physics (1963-65) (3 volumes), The Character of Physical Law (1965) and QED: The Strange Theory of Light and Matter (1985).
+
+
+In [6] Gleick described Feynman's approach to science:- 
+So many of his witnesses observed the utter freedom of his flights of thought, yet when Feynman talked about his own methods not freedom but constraint ... For Feynman the essence of scientific imagination was a powerful and almost painful rule. What scientists create must match reality. It must match what is already known. Scientific creativity, he said, is imagination in a straitjacket ... The rules of harmonic progression made for Mozart a cage as unyielding as the sonnet did for Shakespeare. As unyielding and as liberating - for later critics found the creator's genius in the counterpoint of structure and freedom, rigour and inventiveness.
+Feynman received many honours for his work. He was elected to the American Physical Society, the American Association for the Advancement of Science, the National Academy of Science, and the Royal Society of London. Among the awards he received were the Albert Einstein Award (1954) and the Lawrence Award (1962).
+
+
+As to Feynman's character, he was described in [17] as follows:-
+He was widely known for his insatiable curiosity, gentle wit, brilliant mind and playful temperament.
+Gleick [6] describes him as:-
+... mystifyingly brilliant at calculating, strangely ignorant of the literature, passionate.
+
+
+
+
+
+Quotations by Richard Feynman  Other Mathematicians born in USA  A Poster of Richard Feynman
+
+
+
+
+
+References (show)
+
+
+
+
+
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Richard-P-Feynman
+L M Brown and J S Rigden (eds), 'Most of the good stuff' : memories of Richard Feynman (New York, 1993).
+R P Feynman, Selected papers of Richard Feynman (River Edge, NJ, 2000).
+R P Feynman, Surely You're Joking Mr Feynman (New York, 1985).
+R P Feynman, What do you care what other people think? (New York, 1992).
+J Gleick, Genius : The Life and Science of Richard Feynman (New York, 1992).
+D L Goodstein and J R Goodstein, Feynman's lost lecture : The motion of planets around the sun (New York, 1996).
+D L Goodstein and J R Goodstein, La conferencia perdida de Feynman : El movimiento de los planetas alrededor del sol (Barcelona, 1998).
+J Mehra, The beat of a different drum : the life and science of Richard Feynman (Oxford, 1994).
+S S Schweber, QED and the men who made it : Dyson, Feynman, Schwinger, and Tomonaga (Princeton, 1994).
+C Sykes, No ordinary genius : the illustrated Richard Feynman (London, 1994).
+N Anderson, J Goodstein and B Ludt, Bibliography of Richard P Feynman, in 'Most of the good stuff' (New York, 1993),171-181.
+H A Bethe, Feynman in Los Alamos and Cornell, in 'Most of the good stuff' (New York, 1993), 33-36.
+J D Bjorken, Feynman and partons, in 'Most of the good stuff' (New York, 1993), 89-96.
+L M Brown, To have been a student of Richard Feynman, in 'Most of the good stuff' (New York, 1993), 53-58.
+L M Brown and J S Rigden, Introduction, in 'Most of the good stuff' (New York, 1993), 1-15.
+D L Chandler, Richard Feynman, Nobel laureate in physics, Boston Globe (17 February, 1988), 81.
+M Cohen, It never passed him by, in 'Most of the good stuff' (New York, 1993), 125-131.
+F J Dyson, Feynman at Cornell, in 'Most of the good stuff' (New York, 1993), 39-52.
+R P Feynman, The reason for antiparticles (Bulgarian), Fiz.-Mat. Spis. B' lgar. Akad. Nauk. 31 (64) (4) (1989), 261-281.
+J Feynman, R P Feynman : the beginnings of a teacher, in 'Most of the good stuff' (New York, 1993), 163-170.
+M Gell-Mann, Dick Feynman-the guy in the office down the hall, in 'Most of the good stuff' (New York, 1993), 77-87.
+V L Ginzburg, In memory of Richard Feynman-a remarkable physicist and an astonishing person (Russian), Priroda (7) (1988), 86-89.
+M L Goldberger, Reflections on Dick Feynman as an acolyte and as his boss, in 'Most of the good stuff' (New York, 1993).
+D L Goodstein, Richard P. Feynman, teacher, in 'Most of the good stuff' (New York, 1993), 115-124.
+D Goodstein and J Goodstein, Richard Feynman and the history of superconductivity, Phys. Perspect. 2 (1) (2000), 30-47.
+W D Hillis, Richard Feynman and the connection machine, in 'Most of the good stuff' (New York, 1993), 139-150.
+H LÃ¼bbig, Das Wirkungsprinzip von Maupertuis und Feynmans Wegintegral der Quantenphase, in Pierre Louis Moreau de Maupertuis (Berlin, 1999), 505-524.
+D Pines, Richard Feynman and condensed matter physics, in 'Most of the good stuff' (New York, 1993), 97-112.
+O S Razumovskii and V A Firsov, Feynman's formulation in quantum mechanics, and path integration : The historical-methodological aspect (Russian), Studies in the history of physics and mechanics, 1988 'Nauka' (Moscow, 1988), 37-51.
+J S Rigden, Richard Feynman at La CaÃ±ada High School : Feynman's last public performance, in 'Most of the good stuff' (New York, 1993), 151-158.
+J Schwinger, A path to quantum electrodynamics, in 'Most of the good stuff' (New York, 1993), 59-73.
+D Shvinger, Richard P Feynman (1918-1988) (Bulgarian), Fiz.-Mat. Spis. B' lgar. Akad. Nauk. 31 (64) (4) (1989), 329-335.
+V L Telegdi, A lowbrow's view of Feynman, in 'Most of the good stuff' (New York, 1993), 161-162.
+J A Wheeler, The young Feynman, in 'Most of the good stuff' (New York, 1993), 19-29.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Richard Feynman:
+
+Introduction to Surely you're joking Mr Feynman
+Los Angeles Times obituary
+New York Times obituary
+Miller's postage stamps
+
+
+
+Other websites about Richard Feynman:
+
+Encyclopaedia Britannica
+Feynman online
+Nobel prizes site (A biography of Feynman and his Nobel prize presentation speech)
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+
+      Honours
+      (show)
+
+
+
+
+
+Honours awarded to Richard Feynman
+
+Nobel Prize 1965 Fellow of the Royal Society 1965 Popular biographies list Number 139
+
+
+
+
+
+
+
+      Cross-references
+      (show)
+
+
+
+
+
+
+History Topics: A visit to James Clerk Maxwell's house
+History Topics: African men with a doctorate in mathematics 2
+History Topics: Light through the ages: Relativity and quantum era
+Student Projects: James Clerk Maxwell - The Great Unknown: Chapter 7
+Other: Jeff Miller's postage stamps
+Other: Most popular biographies â 2024
+Other: Popular biographies 2018
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update August 2002
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

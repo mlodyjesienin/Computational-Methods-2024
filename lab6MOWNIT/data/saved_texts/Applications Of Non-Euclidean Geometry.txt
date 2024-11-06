@@ -1,0 +1,62 @@
+
+Applications Of Non-Euclidean Geometry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+The Applications Of Non-Euclidean Geometry
+
+
+Table of Contents
+
+1.Where Euclidean Geometry Is Wrong
+2.Cosmology & The Geometries
+3.The Theory of General Relativity
+4.Spherical Geometry
+5.Celestial Mechanics
+
+ 
+Where Euclidean Geometry Is WrongSince Euclid first published his book Elements in 300 B.C. it has remained remarkably correct and accurate to real world situations faced on Earth. The one problem that some find with it is that it is not accurate enough to represent the three dimensional universe that we live in. It has been argued that Euclidean Geometry, while good for architecture and to survey land, when it is moved into the third dimension, the postulates do not hold up as well as those of hyperbolical and spherical geometry. Both of those geometries hold up to a two dimensional world, as well as the third dimension.
+Back To TopCosmology & The GeometriesCosmology - Cosmology is the study of the origin, constitution, structure, and evolution of the universe. The recognition of the existence of the non-Euclidean geometries as mathematical systems was resisted by many people who proclaimed that Euclidean geometry was the one and only geometry. To try and 'validate' the geometries to Euclid believers the truth of the geometry was presented in the sense of better representing our universe, through observation. At the present time mathematicians are still not sure which of the three geometries provides the best representation of the entire universe. While Euclidean geometry provides an excellent representation for the part of the universe that we inhabit, like Newton's Laws of physics, they break down when placed in situations that their originators could not have imagined. Most cosmologists believe that knowing which geometry is the most correct is important. This stems from the belief that the future of the universe is expected to be determined by whatever is the actual geometry of the universe. According to current theories in the field of cosmology, if the geometry is hyperbolic, the universe will expand indefinitely; if the geometry is Euclidean, the universe will expand indefinitely at escape velocity; and if the geometry is elliptic, the expansion of the universe will coast to a halt, and then the universe will start to shrink, possibly to explode again. This is analagous to one of the quirks of each geometry; in hyperbolic geometry the sum of the angles of a triangle is greater than 180 degrees, while Euclidean has the sum of a triangles angles to be 180 degrees exactly. Elliptic geometry has the sum of the angles of a triangle to be less than 180 degrees.
+Back To Top
+
+The Theory of General RelativityEinstein's Theory Of General Relativity is based on a theory that space is curved. The cause is explained by the theory itself. 
+Einstein's General Theory of Relativity can be understood as saying that: 
+Matter and energy distort space 
+The distortions of space affect the motions of matter and energy.
+
+If this is true then the correct Geometry of our universe will be hyperbolic geometry which is a 'curved' one. Many present-day cosmologists feel that we live in a three dimensional universe that is curved into the 4th dimension and that Einstein's theories were proof of this. Hyperbolic Geometry plays a very important role in the Theory of General Relativity.
+Back To Top
+
+Applications Of Spherical Geometry Spherical Geometry is also known as hyperbolic geometry and has many real world applications. One of the most used geometry is Spherical Geometry which describes the surface of a sphere. Spherical Geometry is used by pilots and ship captains as they navigate around the world. However, working in Spherical Geometry has some nonintuitive results. For example, did you know that the shortest flying distance from Florida to the Philippine Islands is a path across Alaska? The Philippines are South of Florida - why is flying North to Alaska a short-cut? The answer is that Florida, Alaska, and the Philippines are collinear locations in Spherical Geometry (they lie on a "Great Circle"). Small triangles, like ones drawn on a football field have very, very close to 180 degrees. Big triangles, however, (like the triangle with veracities: New York, L.A. and Tampa) have much more then 180 degrees. Back To Top
+
+Celestial Mechanics
+The Sun causes some medium-scale curvature that - thanks to planet Mercury - we are able to measure. Mercury is the closest planet to the Sun. It is in a much higher gravitational field than is the Earth, and therefore, space is significantly more curved in its vicinity. Mercury is close enough to us so that, with telescopes, we can make accurate measurements of its motion. Mercury's orbit about the Sun is slightly more accurately predicted when Hyperbolic Geometry is used in place of Euclidean Geometry. 
+Back To Top
+This Page Was Written by Jameson Walthers
+
+
+
+
+
+
+ 

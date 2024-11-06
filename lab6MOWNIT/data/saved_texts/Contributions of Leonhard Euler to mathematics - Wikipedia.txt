@@ -1,0 +1,1046 @@
+
+
+
+
+Contributions of Leonhard Euler to mathematics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Mathematical notation
+
+
+
+
+
+
+
+
+2
+Complex analysis
+
+
+
+
+
+
+
+
+3
+Analysis
+
+
+
+
+
+
+
+
+4
+Number theory
+
+
+
+
+
+
+
+
+5
+Graph theory and topology
+
+
+
+
+
+
+
+
+6
+Applied mathematics
+
+
+
+
+
+
+
+
+7
+Works
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Contributions of Leonhard Euler to mathematics
+
+
+
+2 languages
+
+
+
+
+Deutschفارسی
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+The 18th-century Swiss mathematician Leonhard Euler (1707–1783) is among the most prolific and successful mathematicians in the history of the field. His seminal work had a profound impact in numerous areas of mathematics and he is widely credited for introducing and popularizing modern notation and terminology.
+
+
+Mathematical notation[edit]
+Euler introduced much of the mathematical notation in use today, such as the notation f(x) to describe a function and the modern notation for the trigonometric functions. He was the first to use the letter e for the base of the natural logarithm, now also known as Euler's number. The use of the Greek letter 
+
+
+
+π
+
+
+{\displaystyle \pi }
+
+ to denote the ratio of a circle's circumference to its diameter was also popularized by Euler (although it did not originate with him).[1] He is also credited for inventing the notation i to denote 
+
+
+
+
+
+−
+1
+
+
+
+
+{\displaystyle {\sqrt {-1}}}
+
+.[2]
+
+Complex analysis[edit]
+A geometric interpretation of Euler's formula
+Euler made important contributions to complex analysis. He introduced scientific notation. He discovered what is now known as Euler's formula, that for any real number 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+, the complex exponential function satisfies
+
+
+
+
+
+
+e
+
+i
+φ
+
+
+=
+cos
+⁡
+φ
++
+i
+sin
+⁡
+φ
+.
+
+
+{\displaystyle e^{i\varphi }=\cos \varphi +i\sin \varphi .}
+
+
+This has been called "the most remarkable formula in mathematics" by Richard Feynman.[3] Euler's identity is a special case of this:
+
+
+
+
+
+
+e
+
+i
+π
+
+
++
+1
+=
+0
+
+.
+
+
+{\displaystyle e^{i\pi }+1=0\,.}
+
+
+This identity is particularly remarkable as it involves e, 
+
+
+
+π
+
+
+{\displaystyle \pi }
+
+, i, 1, and 0, arguably the five most important constants in mathematics, as well as the four fundamental arithmetic operators: addition, multiplication, exponentiation, and equality.
+
+Analysis[edit]
+The development of calculus was at the forefront of 18th-century mathematical research, and the Bernoullis—family friends of Euler—were responsible for much of the early progress in the field. Understanding the infinite was the major focus of Euler's research. While some of Euler's proofs may not have been acceptable under modern standards of rigor, his ideas were responsible for many great advances. First of all, Euler introduced the concept of a function, and introduced the use of the exponential function and logarithms in analytic proofs.
+Euler frequently used the logarithmic functions as a tool in analysis problems, and discovered new ways by which they could be used. He discovered ways to express various logarithmic functions in terms of power series, and successfully defined logarithms for complex and negative numbers, thus greatly expanding the scope where logarithms could be applied in mathematics. Most researchers in the field long held the view that 
+
+
+
+log
+⁡
+(
+x
+)
+=
+log
+⁡
+(
+−
+x
+)
+
+
+{\displaystyle \log(x)=\log(-x)}
+
+ for any positive real 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ since by using the additivity property of logarithms 
+
+
+
+2
+log
+⁡
+(
+−
+x
+)
+=
+log
+⁡
+(
+(
+−
+x
+
+)
+
+2
+
+
+)
+=
+log
+⁡
+(
+
+x
+
+2
+
+
+)
+=
+2
+log
+⁡
+(
+x
+)
+
+
+{\displaystyle 2\log(-x)=\log((-x)^{2})=\log(x^{2})=2\log(x)}
+
+. In a 1747 letter to Jean Le Rond d'Alembert, Euler defined the natural logarithm of −1 as 
+
+
+
+i
+π
+
+
+{\displaystyle i\pi }
+
+, a pure imaginary.[4]
+Euler is well known in analysis for his frequent use and development of power series: that is, the expression of functions as sums of infinitely many terms, such as
+
+
+
+
+
+e
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+1
+
+n
+!
+
+
+
+=
+
+lim
+
+n
+→
+∞
+
+
+
+(
+
+
+
+1
+
+0
+!
+
+
+
++
+
+
+1
+
+1
+!
+
+
+
++
+
+
+1
+
+2
+!
+
+
+
++
+⋯
++
+
+
+1
+
+n
+!
+
+
+
+
+)
+
+.
+
+
+{\displaystyle e=\sum _{n=0}^{\infty }{1 \over n!}=\lim _{n\to \infty }\left({\frac {1}{0!}}+{\frac {1}{1!}}+{\frac {1}{2!}}+\cdots +{\frac {1}{n!}}\right).}
+
+
+Notably, Euler discovered the power series expansions for e and the inverse tangent function 
+
+
+
+
+
+arctan
+⁡
+z
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+
+(
+−
+1
+
+)
+
+n
+
+
+
+z
+
+2
+n
++
+1
+
+
+
+
+2
+n
++
+1
+
+
+
+.
+
+
+{\displaystyle \arctan z=\sum _{n=0}^{\infty }{\frac {(-1)^{n}z^{2n+1}}{2n+1}}.}
+
+
+His use of power series enabled him to solve the famous Basel problem in 1735:[5]
+
+
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+(
+
+
+
+1
+
+1
+
+2
+
+
+
+
++
+
+
+1
+
+2
+
+2
+
+
+
+
++
+
+
+1
+
+3
+
+2
+
+
+
+
++
+⋯
++
+
+
+1
+
+n
+
+2
+
+
+
+
+
+)
+
+=
+
+
+
+π
+
+2
+
+
+6
+
+
+.
+
+
+{\displaystyle \lim _{n\to \infty }\left({\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}\right)={\frac {\pi ^{2}}{6}}.}
+
+
+In addition, Euler elaborated the theory of higher transcendental functions by introducing the gamma function and introduced a new method for solving quartic equations. He also found a way to calculate integrals with complex limits, foreshadowing the development of complex analysis. Euler invented the calculus of variations including its most well-known result, the Euler–Lagrange equation.
+Euler also pioneered the use of analytic methods to solve number theory problems. In doing so, he united two disparate branches of mathematics and introduced a new field of study, analytic number theory. In breaking ground for this new field, Euler created the theory of hypergeometric series, q-series, hyperbolic trigonometric functions and the analytic theory of continued fractions. For example, he proved the infinitude of primes using the divergence of the harmonic series, and used analytic methods to gain some understanding of the way prime numbers are distributed. Euler's work in this area led to the development of the prime number theorem.[6]
+
+Number theory[edit]
+Euler's great interest in number theory can be traced to the influence of his friend in the St. Peterburg Academy, Christian Goldbach. A lot of his early work on number theory was based on the works of Pierre de Fermat, and developed some of Fermat's ideas.
+One focus of Euler's work was to link the nature of prime distribution with ideas in analysis. He proved that the sum of the reciprocals of the primes diverges. In doing so, he discovered a connection between Riemann zeta function and prime numbers, known as the Euler product formula for the Riemann zeta function.
+Euler proved Newton's identities, Fermat's little theorem, Fermat's theorem on sums of two squares, and made distinct contributions to the Lagrange's four-square theorem. He also invented the totient function φ(n) which assigns to a positive integer n the number of positive integers less than n and coprime to n. Using properties of this function he was able to generalize Fermat's little theorem to what would become known as Euler's theorem. He further contributed significantly to the understanding of perfect numbers, which had fascinated mathematicians since Euclid. Euler made progress toward the prime number theorem and conjectured the law of quadratic reciprocity. The two concepts are regarded as the fundamental theorems of number theory, and his ideas paved the way for Carl Friedrich Gauss.[7]
+
+Graph theory and topology[edit]
+Map of Königsberg in Euler's time showing the actual layout of the seven bridges, highlighting the river Pregel and the bridges.
+See also: Seven Bridges of Königsberg
+In 1736 Euler solved, or rather proved unsolvable, a problem known as the seven bridges of Königsberg.[8] The city of Königsberg, Kingdom of Prussia (now Kaliningrad, Russia) is set on the Pregel River, and included two large islands which were connected to each other and the mainland by seven bridges. The question is whether it is possible to walk with a route that crosses each bridge exactly once, and return to the starting point.
+Euler's solution of the Königsberg bridge problem is considered to be the first theorem of graph theory. In addition, his recognition that the key information was the number of bridges and the list of their endpoints (rather than their exact positions) presaged the development of topology.[8]
+Euler also made contributions to the understanding of planar graphs. He introduced a formula governing the relationship between the number of edges, vertices, and faces of a convex polyhedron. Given such a polyhedron, the alternating sum of vertices, edges and faces equals a constant: V − E + F = 2. This constant, χ, is the Euler characteristic of the plane. The study and generalization of this equation, specially by Cauchy[9] and Lhuillier,[10] is at the origin of topology. Euler characteristic, which may be generalized to any topological space as the alternating sum of the Betti numbers, naturally arises from homology. In particular, it is equal to 2 − 2g for a closed oriented surface with genus g and to 2 − k for a non-orientable surface with k crosscaps. This property led to the definition of rotation systems in topological graph theory.
+
+Applied mathematics[edit]
+Most of Euler's greatest successes were in applying analytic methods to real world problems, describing numerous applications of Bernoulli's numbers, Fourier series, Venn diagrams, Euler numbers, e and π constants, continued fractions and integrals. He integrated Leibniz's differential calculus with Newton's Method of Fluxions, and developed tools that made it easier to apply calculus to physical problems. In particular, he made great strides in improving numerical approximation of integrals, inventing what are now known as the Euler approximations. The most notable of these approximations are Euler method and the Euler–Maclaurin formula. He also facilitated the use of differential equations, in particular introducing the Euler–Mascheroni constant: 
+
+
+
+
+
+γ
+=
+
+lim
+
+n
+→
+∞
+
+
+
+(
+
+1
++
+
+
+1
+2
+
+
++
+
+
+1
+3
+
+
++
+
+
+1
+4
+
+
++
+⋯
++
+
+
+1
+n
+
+
+−
+ln
+⁡
+(
+n
+)
+
+)
+
+.
+
+
+{\displaystyle \gamma =\lim _{n\rightarrow \infty }\left(1+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{4}}+\cdots +{\frac {1}{n}}-\ln(n)\right).}
+
+
+One of Euler's more unusual interests was the application of mathematical ideas in music. In 1739 he wrote the Tentamen novae theoriae musicae, hoping to eventually integrate music theory as part of mathematics. This part of his work, however did not receive wide attention and was once described as too mathematical for musicians and too musical for mathematicians.[11]
+
+Works[edit]
+The works which Euler published separately are:
+
+Dissertatio physica de sono (Dissertation on the physics of sound) (Basel, 1727, in quarto)
+Mechanica, sive motus scientia analytice; expasita (St Petersburg, 1736, in 2 vols. quarto)
+Einleitung in die Arithmetik (St Petersburg, 1738, in 2 vols. octavo), in German and Russian
+Tentamen novae theoriae musicae (St Petersburg, 1739, in quarto)
+Methodus inveniendi lineas curvas, maximi minimive proprietate gaudentes (Lausanne, 1744, in quarto)
+Additamentum II (English translation)
+Theoria motuum planetarum et cometarum (Berlin, 1744, in quarto)
+Beantwortung, &c. or Answers to Different Questions respecting Comets (Berlin, 1744, in octavo)
+Neue Grundsatze, &c. or New Principles of Artillery, translated from the English of Benjamin Robins, with notes and illustrations (Berlin, 1745, in octavo)
+Opuscula varii argumenti (Berlin, 1746–1751, in 3 vols. quarto)
+Novae et carrectae tabulae ad loco lunae computanda (Berlin, 1746, in quarto)
+Tabulae astronomicae solis et lunae (Berlin, in quarto)
+Gedanken, &c. or Thoughts on the Elements of Bodies (Berlin, in quarto)
+Rettung der gall-lichen Offenbarung, &c., Defence of Divine Revelation against Free-thinkers (Berlin, 1747, in quarto)
+Introductio in analysin infinitorum (Introduction to the analysis of the infinites)(Lausanne, 1748, in 2 vols. quarto)
+Introduction to the Analysis of the Infinite, transl. J. Blanton (New York, 1988-1990 in 2 vols.)
+Scientia navalis, seu tractatus de construendis ac dirigendis navibus (St Petersburg, 1749, in 2 vols. quarto)
+A complete theory of the construction and properties of vessels, with practical conclusions for the management of ships, made easy to navigators. Translated from Théorie complette de la construction et de la manoeuvre des vaissaux, of the celebrated Leonard Euler, by Hen Watson, Esq. Cornihill, 1790)
+Exposé concernant l’examen de la lettre de M. de Leibnitz (1752, its English translation)
+Theoria motus lunae (Berlin, 1753, in quarto)
+Dissertatio de principio mininiae actionis, una cum examine objectionum cl. prof. Koenigii (Berlin, 1753, in octavo)
+Institutiones calculi differentialis, cum ejus usu in analysi Intuitorum ac doctrina serierum (Berlin, 1755, in quarto)
+Constructio lentium objectivarum, &c. (St Petersburg, 1762, in quarto)
+Theoria motus corporum solidorum seu rigidorum (Rostock, 1765, in quarto)
+Institutiones, calculi integralis (St Petersburg, 1768–1770, in 3 vols. quarto)
+Lettres a une Princesse d'Allernagne sur quelques sujets de physique et de philosophie (St Petersburg, 1768–1772, in 3 vols. octavo)
+Letters of Euler to a German Princess on Different Subjects of Physics and Philosophy (London, 1795, in 2 vols.)
+Anleitung zur Algebra Elements of Algebra (St Petersburg, 1770, in octavo); Dioptrica (St Petersburg, 1767–1771, in 3 vols. quarto)
+Theoria motuum lunge nova methodo pertr. arctata (St Petersburg, 1772, in quarto)
+Novae tabulae lunares (St Petersburg, in octavo); La théorie complete de la construction et de la manteuvre des vaisseaux (St Petersburg, 1773, in octavo).
+Eclaircissements svr etablissements en favour taut des veuves que des marts, without a date
+Opuscula analytica (St Petersburg, 1783–1785, in 2 vols. quarto). See F. Rudio, Leonhard Euler (Basel, 1884).
+and Christian Goldbach, Leonhard Euler und Christian Goldbach, Briefwechsel, 1729-1764. A. P. Juskevic und E. Winter. [Übersetzungen aus dem Russischen und redaktionelle Bearbeitung der Ausgabe: P. Hoffmann] (Berlin : Akademie-Verlag, 1965)..
+See also[edit]
+List of things named after Leonhard Euler
+References[edit]
+
+^ Wolfram, Stephen. "Mathematical Notation: Past and Future".
+
+^ "Euler, Leonhard (1707–1783)".
+
+^ 
+Feynman, Richard (June 1970). "Chapter 22: Algebra". The Feynman Lectures on Physics: Volume I. p. 10.
+
+^ Boyer, Carl B.; Uta C. Merzbach (1991). A History of Mathematics. John Wiley & Sons. pp. 439–445. ISBN 0-471-54397-7.
+
+^ Wanner, Gerhard; Harrier, Ernst (March 2005). Analysis by its history (1st ed.). Springer. p. 62.
+
+^ Dunham, William (1999). "3,4". Euler: The Master of Us All. The Mathematical Association of America.
+
+^ Dunham, William (1999). "1,4". Euler: The Master of Us All. The Mathematical Association of America.
+
+^ a b Alexanderson, Gerald (July 2006). "Euler and Königsberg's bridges: a historical view". Bulletin of the American Mathematical Society. 43 (4): 567. doi:10.1090/S0273-0979-06-01130-X.
+
+^ Cauchy, A.L. (1813). "Recherche sur les polyèdres - premier mémoire". Journal de l'École Polytechnique. 9 (Cahier 16): 66–86.
+
+^ Lhuillier, S.-A.-J. (1861). "Mémoire sur la polyèdrométrie". Annales de Mathématiques. 3: 169–189.
+
+^ Ronald Calinger (1996). "Leonhard Euler: The First St. Petersburg Years (1727–1741)". Historia Mathematica. 23 (2): 144–145. doi:10.1006/hmat.1996.0015.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Contributions_of_Leonhard_Euler_to_mathematics&oldid=1189208884"
+Categories: History of mathematicsLeonhard EulerHidden categories: CS1: long volume valueArticles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 10 December 2023, at 12:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

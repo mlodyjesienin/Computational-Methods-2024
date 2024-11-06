@@ -1,0 +1,3138 @@
+
+
+
+
+Tensor calculus - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Syntax
+
+
+
+
+
+
+
+
+2
+Key concepts
+
+
+
+
+Toggle Key concepts subsection
+
+
+
+
+
+2.1
+Vector decomposition
+
+
+
+
+
+
+2.1.1
+Covariant vector decomposition
+
+
+
+
+
+
+
+
+2.1.2
+Contravariant vector decomposition
+
+
+
+
+
+
+
+
+
+
+2.2
+Metric tensor
+
+
+
+
+
+
+
+
+2.3
+Jacobian
+
+
+
+
+
+
+
+
+2.4
+Gradient vector
+
+
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+Further reading
+
+
+
+
+
+
+
+
+6
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Tensor calculus
+
+
+
+20 languages
+
+
+
+
+العربيةAsturianuCatalàČeštinaDeutschEspañolEsperantoفارسیFrançaisGaeilge한국어ՀայերենItaliano日本語PortuguêsРусскийதமிழ்TürkçeУкраїнська粵語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Extension of vector calculus to tensors
+Part of a series of articles aboutCalculus
+
+
+
+
+∫
+
+a
+
+
+b
+
+
+
+f
+′
+
+(
+t
+)
+
+d
+t
+=
+f
+(
+b
+)
+−
+f
+(
+a
+)
+
+
+{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}
+
+
+Fundamental theorem
+
+Limits
+Continuity
+
+Rolle's theorem
+Mean value theorem
+Inverse function theorem
+
+Differential
+Definitions
+Derivative (generalizations)
+Differential
+infinitesimal
+of a function
+total
+
+Concepts
+Differentiation notation
+Second derivative
+Implicit differentiation
+Logarithmic differentiation
+Related rates
+Taylor's theorem
+
+Rules and identities
+Sum
+Product
+Chain
+Power
+Quotient
+L'Hôpital's rule
+Inverse
+General Leibniz
+Faà di Bruno's formula
+Reynolds
+
+
+Integral
+Lists of integrals
+Integral transform
+Leibniz integral rule
+
+Definitions
+Antiderivative
+Integral (improper)
+Riemann integral
+Lebesgue integration
+Contour integration
+Integral of inverse functions
+
+Integration by
+Parts
+Discs
+Cylindrical shells
+Substitution (trigonometric, tangent half-angle, Euler)
+Euler's formula
+Partial fractions
+Changing order
+Reduction formulae
+Differentiating under the integral sign
+Risch algorithm
+
+
+Series
+Geometric (arithmetico-geometric)
+Harmonic
+Alternating
+Power
+Binomial
+Taylor
+
+Convergence tests
+Summand limit (term test)
+Ratio
+Root
+Integral
+Direct comparison
+Limit comparison
+Alternating series
+Cauchy condensation
+Dirichlet
+Abel
+
+
+Vector
+Gradient
+Divergence
+Curl
+Laplacian
+Directional derivative
+Identities
+
+Theorems
+Gradient
+Green's
+Stokes'
+Divergence
+generalized Stokes
+Helmholtz decomposition
+
+
+Multivariable
+Formalisms
+Matrix
+Tensor
+Exterior
+Geometric
+
+Definitions
+Partial derivative
+Multiple integral
+Line integral
+Surface integral
+Volume integral
+Jacobian
+Hessian
+
+
+Advanced
+Calculus on Euclidean space
+Generalized functions
+Limit of distributions
+
+
+Specialized
+Fractional
+Malliavin
+Stochastic
+Variations
+
+Miscellaneous
+Precalculus
+History
+Glossary
+List of topics
+Integration Bee
+Mathematical analysis
+Nonstandard analysis
+vte
+This page is currently being merged.
+After a discussion, consensus to merge this page with Ricci calculus was found. You can help implement the merge by following the instructions at Help:Merging and the resolution on the discussion. Process started in February 2024.
+In mathematics, tensor calculus, tensor analysis, or Ricci calculus is an extension of vector calculus to tensor fields (tensors that may vary over a manifold, e.g. in spacetime).
+Developed by Gregorio Ricci-Curbastro and his student Tullio Levi-Civita,[1] it was used by Albert Einstein to develop his general theory of relativity. Unlike the infinitesimal calculus, tensor calculus allows presentation of physics equations in a form that is independent of the choice of coordinates on the manifold.
+Tensor calculus has many applications in physics, engineering and computer science including elasticity, continuum mechanics, electromagnetism (see mathematical descriptions of the electromagnetic field), general relativity (see mathematics of general relativity), quantum field theory, and machine learning.
+
+Working with a main proponent of the exterior calculus Elie Cartan, the influential geometer Shiing-Shen Chern summarizes the role of tensor calculus:[2]In our subject of differential geometry, where you talk about manifolds, one difficulty is that the geometry is described by coordinates, but the coordinates do not have meaning. They are allowed to undergo transformation. And in order to handle this kind of situation, an important tool is the so-called tensor analysis, or Ricci calculus, which was new to mathematicians. In mathematics you have a function, you write down the function, you calculate, or you add, or you multiply, or you can differentiate. You have something very concrete. In geometry the geometric situation is described by numbers, but you can change your numbers arbitrarily. So to handle this, you need the Ricci calculus.
+
+Syntax[edit]
+Tensor notation makes use of upper and lower indexes on objects that are used to label a variable object as covariant (lower index), contravariant (upper index), or mixed covariant and contravariant (having both upper and lower indexes).  In fact in conventional math syntax we make use of covariant indexes when dealing with Cartesian coordinate systems 
+
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+
+x
+
+3
+
+
+)
+
+
+{\displaystyle (x_{1},x_{2},x_{3})}
+
+ frequently without realizing this is a limited use of tensor syntax as covariant indexed components.
+Tensor notation allows upper index on an object that may be confused with normal power operations from conventional math syntax.
+
+Key concepts[edit]
+Vector decomposition[edit]
+Tensors notation allows a vector (
+
+
+
+
+
+
+V
+→
+
+
+
+
+
+{\displaystyle {\vec {V}}}
+
+) to be decomposed into an Einstein summation representing the tensor contraction of a basis vector (
+
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {Z}}_{i}}
+
+ or 
+
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {Z}}^{i}}
+
+) with a component vector (
+
+
+
+
+V
+
+i
+
+
+
+
+{\displaystyle V_{i}}
+
+ or 
+
+
+
+
+V
+
+i
+
+
+
+
+{\displaystyle V^{i}}
+
+).
+
+
+
+
+
+
+
+V
+→
+
+
+
+=
+
+V
+
+i
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+V
+
+i
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {V}}=V^{i}{\vec {Z}}_{i}=V_{i}{\vec {Z}}^{i}}
+
+
+Every vector has two different representations, one referred to as contravariant component (
+
+
+
+
+V
+
+i
+
+
+
+
+{\displaystyle V^{i}}
+
+) with a covariant basis (
+
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {Z}}_{i}}
+
+), and the other as a covariant component (
+
+
+
+
+V
+
+i
+
+
+
+
+{\displaystyle V_{i}}
+
+) with a contravariant basis (
+
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {Z}}^{i}}
+
+).  Tensor objects with all upper indexes are referred to as contravariant, and tensor objects with all lower indexes are referred to as covariant.  The need to distinguish between contravariant and covariant arises from the fact that when we dot an arbitrary vector with its basis vector related to a particular coordinate system, there are two ways of interpreting this dot product, either we view it as the projection of the basis vector onto the arbitrary vector, or we view it as the projection of the arbitrary vector onto the basis vector, both views of the dot product are entirely equivalent, but have different component elements and different basis vectors:
+
+
+
+
+
+
+
+V
+→
+
+
+
+⋅
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+V
+
+i
+
+
+=
+
+
+
+
+V
+→
+
+
+
+
+T
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+T
+
+
+
+
+
+V
+→
+
+
+
+=
+
+
+
+p
+r
+o
+j
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+(
+
+
+
+V
+→
+
+
+
+)
+
+⋅
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+
+
+p
+r
+o
+j
+
+
+
+
+V
+→
+
+
+
+
+(
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+)
+
+⋅
+
+
+
+V
+→
+
+
+
+
+
+{\displaystyle {\vec {V}}\cdot {\vec {Z}}_{i}=V_{i}={\vec {V}}^{T}{\vec {Z}}_{i}={\vec {Z}}_{i}^{T}{\vec {V}}={\mathrm {proj} _{{\vec {Z}}^{i}}({\vec {V}})}\cdot {\vec {Z}}_{i}={\mathrm {proj} _{\vec {V}}({\vec {Z}}^{i})}\cdot {\vec {V}}}
+
+
+
+
+
+
+
+
+
+V
+→
+
+
+
+⋅
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+V
+
+i
+
+
+=
+
+
+
+
+V
+→
+
+
+
+
+T
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+T
+
+
+
+
+
+V
+→
+
+
+
+=
+
+
+
+p
+r
+o
+j
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+(
+
+
+
+V
+→
+
+
+
+)
+
+⋅
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+=
+
+
+
+p
+r
+o
+j
+
+
+
+
+V
+→
+
+
+
+
+(
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+)
+
+⋅
+
+
+
+V
+→
+
+
+
+
+
+{\displaystyle {\vec {V}}\cdot {\vec {Z}}^{i}=V^{i}={\vec {V}}^{T}{\vec {Z}}^{i}={{\vec {Z}}^{i}}^{T}{\vec {V}}={\mathrm {proj} _{{\vec {Z}}_{i}}({\vec {V}})}\cdot {\vec {Z}}^{i}={\mathrm {proj} _{\vec {V}}({\vec {Z}}_{i})}\cdot {\vec {V}}}
+
+
+For example, in physics you start with a vector field, you decompose it with respect to the covariant basis, and that's how you get the contravariant coordinates. For orthonormal cartesian coordinates, the covariant and contravariant basis are identical, since the basis set in this case is just the identity matrix, however, for non-affine coordinate system such as polar or spherical there is a need to distinguish between decomposition by use of contravariant or covariant basis set for generating the components of the coordinate system.
+
+Covariant vector decomposition[edit]
+
+
+
+
+
+
+
+V
+→
+
+
+
+=
+
+V
+
+i
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {V}}=V^{i}{\vec {Z}}_{i}}
+
+
+
+
+
+variable
+
+description
+
+Type
+
+
+
+
+
+
+
+
+
+V
+→
+
+
+
+
+
+{\displaystyle {\vec {V}}}
+
+
+
+vector
+
+invariant
+
+
+
+
+
+
+
+V
+
+i
+
+
+
+
+{\displaystyle V^{i}}
+
+
+
+contravariant components (ordered set of scalars)
+
+variant
+
+
+
+
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {Z}}_{i}}
+
+
+
+covariant bases (ordered set of vectors)
+
+variant
+
+Contravariant vector decomposition[edit]
+
+
+
+
+
+
+
+V
+→
+
+
+
+=
+
+V
+
+i
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {V}}=V_{i}{\vec {Z}}^{i}}
+
+
+
+
+
+variable
+
+description
+
+type
+
+
+
+
+
+
+
+
+
+V
+→
+
+
+
+
+
+{\displaystyle {\vec {V}}}
+
+
+
+vector
+
+invariant
+
+
+
+
+
+
+
+V
+
+i
+
+
+
+
+{\displaystyle V_{i}}
+
+
+
+covariant components (ordered set of scalars)
+
+variant
+
+
+
+
+
+
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\vec {Z}}^{i}}
+
+
+
+contravariant bases (ordered set of covectors)
+
+variant
+
+Metric tensor[edit]
+The metric tensor represents a matrix with scalar elements (
+
+
+
+
+Z
+
+i
+j
+
+
+
+
+{\displaystyle Z_{ij}}
+
+ or 
+
+
+
+
+Z
+
+i
+j
+
+
+
+
+{\displaystyle Z^{ij}}
+
+) and is a tensor object which is used to raise or lower the index on another tensor object by an operation called contraction, thus allowing a covariant tensor to be converted to a contravariant tensor, and vice versa.
+Example of lowering index using metric tensor:
+
+
+
+
+
+T
+
+i
+
+
+=
+
+Z
+
+i
+j
+
+
+
+T
+
+j
+
+
+
+
+{\displaystyle T_{i}=Z_{ij}T^{j}}
+
+
+Example of raising index using metric tensor:
+
+
+
+
+
+T
+
+i
+
+
+=
+
+Z
+
+i
+j
+
+
+
+T
+
+j
+
+
+
+
+{\displaystyle T^{i}=Z^{ij}T_{j}}
+
+
+The metric tensor is defined as:
+
+
+
+
+
+Z
+
+i
+j
+
+
+=
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+⋅
+
+
+
+
+Z
+→
+
+
+
+
+j
+
+
+
+
+{\displaystyle Z_{ij}={\vec {Z}}_{i}\cdot {\vec {Z}}_{j}}
+
+
+
+
+
+
+
+Z
+
+i
+j
+
+
+=
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+⋅
+
+
+
+
+Z
+→
+
+
+
+
+j
+
+
+
+
+{\displaystyle Z^{ij}={\vec {Z}}^{i}\cdot {\vec {Z}}^{j}}
+
+
+This means that if we take every permutation of a basis vector set and dotted them against each other, and then arrange them into a square matrix, we would have a metric tensor. The caveat here is which of the two vectors in the permutation is used for projection against the other vector, that is the distinguishing property of the covariant metric tensor in comparison with the contravariant metric tensor.
+Two flavors of metric tensors exist: (1) the contravariant metric tensor (
+
+
+
+
+Z
+
+i
+j
+
+
+
+
+{\displaystyle Z^{ij}}
+
+), and (2) the covariant metric tensor (
+
+
+
+
+Z
+
+i
+j
+
+
+
+
+{\displaystyle Z_{ij}}
+
+). These two flavors of metric tensor are related by the identity:
+
+
+
+
+
+Z
+
+i
+k
+
+
+
+Z
+
+j
+k
+
+
+=
+
+δ
+
+i
+
+
+j
+
+
+
+
+{\displaystyle Z_{ik}Z^{jk}=\delta _{i}^{j}}
+
+
+For an orthonormal Cartesian coordinate system, the metric tensor is just the kronecker delta 
+
+
+
+
+δ
+
+i
+j
+
+
+
+
+{\displaystyle \delta _{ij}}
+
+ or 
+
+
+
+
+δ
+
+i
+j
+
+
+
+
+{\displaystyle \delta ^{ij}}
+
+, which is just a tensor equivalent of the identity matrix, and 
+
+
+
+
+δ
+
+i
+j
+
+
+=
+
+δ
+
+i
+j
+
+
+=
+
+δ
+
+j
+
+
+i
+
+
+
+
+{\displaystyle \delta _{ij}=\delta ^{ij}=\delta _{j}^{i}}
+
+.
+
+Jacobian[edit]
+In addition a tensor can be readily converted from an unbarred(
+
+
+
+x
+
+
+{\displaystyle x}
+
+) to a barred coordinate(
+
+
+
+
+
+
+x
+¯
+
+
+
+
+
+{\displaystyle {\bar {x}}}
+
+) system having different sets of basis vectors:
+
+
+
+
+f
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+=
+f
+
+
+(
+
+
+
+x
+
+1
+
+
+(
+
+
+
+x
+¯
+
+
+
+)
+,
+
+x
+
+2
+
+
+(
+
+
+
+x
+¯
+
+
+
+)
+,
+…
+,
+
+x
+
+n
+
+
+(
+
+
+
+x
+¯
+
+
+
+)
+
+
+)
+
+
+=
+
+
+
+f
+¯
+
+
+
+(
+
+
+
+
+x
+¯
+
+
+
+
+1
+
+
+,
+
+
+
+
+x
+¯
+
+
+
+
+2
+
+
+,
+…
+,
+
+
+
+
+x
+¯
+
+
+
+
+n
+
+
+)
+=
+
+
+
+f
+¯
+
+
+
+
+
+(
+
+
+
+
+
+
+x
+¯
+
+
+
+
+1
+
+
+(
+x
+)
+,
+
+
+
+
+x
+¯
+
+
+
+
+2
+
+
+(
+x
+)
+,
+…
+,
+
+
+
+
+x
+¯
+
+
+
+
+n
+
+
+(
+x
+)
+
+
+)
+
+
+
+
+{\displaystyle f(x^{1},x^{2},\dots ,x^{n})=f{\bigg (}x^{1}({\bar {x}}),x^{2}({\bar {x}}),\dots ,x^{n}({\bar {x}}){\bigg )}={\bar {f}}({\bar {x}}^{1},{\bar {x}}^{2},\dots ,{\bar {x}}^{n})={\bar {f}}{\bigg (}{\bar {x}}^{1}(x),{\bar {x}}^{2}(x),\dots ,{\bar {x}}^{n}(x){\bigg )}}
+
+
+by use of Jacobian matrix relationships between the barred and unbarred coordinate system (
+
+
+
+
+
+
+J
+¯
+
+
+
+=
+
+J
+
+−
+1
+
+
+
+
+{\displaystyle {\bar {J}}=J^{-1}}
+
+).  The Jacobian between the barred and unbarred system is instrumental in defining the covariant and contravariant basis vectors, in that in order for these vectors to exist they need to satisfy the following relationship relative to the barred and unbarred system:
+Contravariant vectors are required to obey the laws:
+
+
+
+
+
+v
+
+i
+
+
+=
+
+
+
+
+v
+¯
+
+
+
+
+r
+
+
+
+
+
+∂
+
+x
+
+i
+
+
+(
+
+
+
+x
+¯
+
+
+
+)
+
+
+∂
+
+
+
+
+x
+¯
+
+
+
+
+r
+
+
+
+
+
+
+
+{\displaystyle v^{i}={\bar {v}}^{r}{\frac {\partial x^{i}({\bar {x}})}{\partial {\bar {x}}^{r}}}}
+
+
+
+
+
+
+
+
+
+
+v
+¯
+
+
+
+
+i
+
+
+=
+
+v
+
+r
+
+
+
+
+
+∂
+
+
+
+
+x
+¯
+
+
+
+
+i
+
+
+(
+x
+)
+
+
+∂
+
+x
+
+r
+
+
+
+
+
+
+
+{\displaystyle {\bar {v}}^{i}=v^{r}{\frac {\partial {\bar {x}}^{i}(x)}{\partial x^{r}}}}
+
+
+Covariant vectors are required to obey the laws:
+
+
+
+
+
+v
+
+i
+
+
+=
+
+
+
+
+v
+¯
+
+
+
+
+r
+
+
+
+
+
+∂
+
+
+
+
+x
+¯
+
+
+
+
+i
+
+
+(
+x
+)
+
+
+∂
+
+x
+
+r
+
+
+
+
+
+
+
+{\displaystyle v_{i}={\bar {v}}_{r}{\frac {\partial {\bar {x}}^{i}(x)}{\partial x^{r}}}}
+
+
+
+
+
+
+
+
+
+
+v
+¯
+
+
+
+
+i
+
+
+=
+
+v
+
+r
+
+
+
+
+
+∂
+
+x
+
+r
+
+
+(
+
+
+
+x
+¯
+
+
+
+)
+
+
+∂
+
+
+
+
+x
+¯
+
+
+
+
+i
+
+
+
+
+
+
+
+{\displaystyle {\bar {v}}_{i}=v_{r}{\frac {\partial x^{r}({\bar {x}})}{\partial {\bar {x}}^{i}}}}
+
+
+There are two flavors of Jacobian matrix:
+1. The J matrix representing the change from unbarred to barred coordinates. To find J, we take the "barred gradient", i.e. partial derivative with respect to 
+
+
+
+
+
+
+
+x
+¯
+
+
+
+
+i
+
+
+
+
+{\displaystyle {\bar {x}}^{i}}
+
+:
+
+
+
+
+J
+=
+
+
+
+∇
+¯
+
+
+
+f
+(
+x
+(
+
+
+
+x
+¯
+
+
+
+)
+)
+
+
+{\displaystyle J={\bar {\nabla }}f(x({\bar {x}}))}
+
+
+2. The 
+
+
+
+
+
+
+J
+¯
+
+
+
+
+
+{\displaystyle {\bar {J}}}
+
+ matrix, representing the change from barred to unbarred coordinates. To find 
+
+
+
+
+
+
+J
+¯
+
+
+
+
+
+{\displaystyle {\bar {J}}}
+
+, we take the "unbarred gradient", i.e. partial derive with respect to 
+
+
+
+
+x
+
+i
+
+
+
+
+{\displaystyle x^{i}}
+
+:
+
+
+
+
+
+
+
+J
+¯
+
+
+
+=
+∇
+
+
+
+f
+¯
+
+
+
+(
+
+
+
+x
+¯
+
+
+
+(
+x
+)
+)
+
+
+{\displaystyle {\bar {J}}=\nabla {\bar {f}}({\bar {x}}(x))}
+
+
+
+Gradient vector[edit]
+Tensor calculus provides a generalization to the gradient vector formula from standard calculus that works in all coordinate systems:
+
+
+
+
+∇
+F
+=
+
+∇
+
+i
+
+
+F
+
+
+
+
+Z
+→
+
+
+
+
+i
+
+
+
+
+{\displaystyle \nabla F=\nabla _{i}F{\vec {Z}}^{i}}
+
+
+Where:
+
+
+
+
+
+∇
+
+i
+
+
+F
+=
+
+
+
+∂
+F
+
+
+∂
+
+Z
+
+i
+
+
+
+
+
+
+
+{\displaystyle \nabla _{i}F={\frac {\partial F}{\partial Z^{i}}}}
+
+
+In contrast, for standard calculus, the gradient vector formula is dependent on the coordinate system in use (example: Cartesian gradient vector formula vs. the polar gradient vector formula vs. the spherical gradient vector formula, etc.).  In standard calculus, each coordinate system has its own specific formula, unlike tensor calculus that has only one gradient formula that is equivalent for all coordinate systems. This is made possible by an understanding of the metric tensor that tensor calculus makes use of.
+
+See also[edit]
+
+Mathematics portal
+Vector analysis
+Matrix calculus
+Ricci calculus
+Curvilinear coordinates
+Tensors in curvilinear coordinates
+Multilinear subspace learning
+Multilinear algebra
+Differential geometry
+References[edit]
+
+
+^ Ricci, Gregorio; Levi-Civita, Tullio (March 1900). "Méthodes de calcul différentiel absolu et leurs applications" [Methods of the absolute differential calculus and their applications]. Mathematische Annalen (in French). 54 (1–2). Springer: 125–201. doi:10.1007/BF01454201. S2CID 120009332.
+
+^ "Interview with Shiing Shen Chern" (PDF). Notices of the AMS. 45 (7): 860–5. August 1998.
+
+
+Further reading[edit]
+Dimitrienko, Yuriy (2002). Tensor Analysis and Nonlinear Tensor Functions. Springer. ISBN 1-4020-1015-X.
+Sokolnikoff, Ivan S (1951). Tensor Analysis: Theory and Applications to Geometry and Mechanics of Continua. Wiley. ISBN 0471810525.
+Borisenko, A.I.; Tarapov, I.E. (1979). Vector and Tensor Analysis with Applications (2nd ed.). Dover. ISBN 0486638332.
+Itskov, Mikhail (2015). Tensor Algebra and Tensor Analysis for Engineers: With Applications to Continuum Mechanics (2nd ed.). Springer. ISBN 9783319163420.
+Tyldesley, J. R. (1973). An introduction to Tensor Analysis: For Engineers and Applied Scientists. Longman. ISBN 0-582-44355-5.
+Kay, D. C. (1988). Tensor Calculus. Schaum’s Outlines. McGraw Hill. ISBN 0-07-033484-6.
+Grinfeld, P. (2014). Introduction to Tensor Analysis and the Calculus of Moving Surfaces. Springer. ISBN 978-1-4614-7866-9.
+External links[edit]
+Dullemond, Kees; Peeters, Kasper (1991–2010). "Introduction to Tensor Calculus" (PDF). Retrieved 17 May 2018.
+vteDifferentiable computingGeneral
+Differentiable programming
+Information geometry
+Statistical manifold
+Automatic differentiation
+Neuromorphic engineering
+Pattern recognition
+Tensor calculus
+Computational learning theory
+Inductive bias
+Concepts
+Gradient descent
+SGD
+Clustering
+Regression
+Overfitting
+Hallucination
+Adversary
+Attention
+Convolution
+Loss functions
+Backpropagation
+Batchnorm
+Activation
+Softmax
+Sigmoid
+Rectifier
+Regularization
+Datasets
+Augmentation
+Diffusion
+Autoregression
+Applications
+Machine learning
+In-context learning
+Artificial neural network
+Deep learning
+Scientific computing
+Artificial Intelligence
+Language model
+Large language model
+Hardware
+IPU
+TPU
+VPU
+Memristor
+SpiNNaker
+Software libraries
+TensorFlow
+PyTorch
+Keras
+Theano
+JAX
+Flux.jl
+MindSpore
+ImplementationsAudio–visual
+AlexNet
+WaveNet
+Human image synthesis
+HWR
+OCR
+Speech synthesis
+Speech recognition
+Facial recognition
+AlphaFold
+Text-to-image models
+DALL-E
+Midjourney
+Stable Diffusion
+Text-to-video models
+Sora
+VideoPoet
+Whisper
+Verbal
+Word2vec
+Seq2seq
+BERT
+Gemini
+LaMDA
+Bard
+NMT
+Project Debater
+IBM Watson
+IBM Watsonx
+Granite
+GPT-1
+GPT-2
+GPT-3
+GPT-4
+ChatGPT
+GPT-J
+Chinchilla AI
+PaLM
+BLOOM
+LLaMA
+PanGu-Σ
+Decisional
+AlphaGo
+AlphaZero
+Q-learning
+SARSA
+OpenAI Five
+Self-driving car
+MuZero
+Action selection
+Auto-GPT
+Robot control
+People
+Yoshua Bengio
+Alex Graves
+Ian Goodfellow
+Stephen Grossberg
+Demis Hassabis
+Geoffrey Hinton
+Yann LeCun
+Fei-Fei Li
+Andrew Ng
+Jürgen Schmidhuber
+David Silver
+Ilya Sutskever
+Organizations
+Anthropic
+EleutherAI
+Google DeepMind
+Hugging Face
+OpenAI
+Meta AI
+Mila
+MIT CSAIL
+Huawei
+Architectures
+Neural Turing machine
+Differentiable neural computer
+Transformer
+Recurrent neural network (RNN)
+Long short-term memory (LSTM)
+Gated recurrent unit (GRU)
+Echo state network
+Multilayer perceptron (MLP)
+Convolutional neural network
+Residual neural network
+Mamba
+Autoencoder
+Variational autoencoder (VAE)
+Generative adversarial network (GAN)
+Graph neural network
+
+ Portals
+Computer programming
+Technology
+ Categories
+Artificial neural networks
+Machine learning
+
+vteTensorsGlossary of tensor theoryScopeMathematics
+Coordinate system
+Differential geometry
+Dyadic algebra
+Euclidean geometry
+Exterior calculus
+Multilinear algebra
+Tensor algebra
+Tensor calculus
+PhysicsEngineering
+Computer vision
+Continuum mechanics
+Electromagnetism
+General relativity
+Transport phenomena
+Notation
+Abstract index notation
+Einstein notation
+Index notation
+Multi-index notation
+Penrose graphical notation
+Ricci calculus
+Tetrad (index notation)
+Van der Waerden notation
+Voigt notation
+Tensordefinitions
+Tensor (intrinsic definition)
+Tensor field
+Tensor density
+Tensors in curvilinear coordinates
+Mixed tensor
+Antisymmetric tensor
+Symmetric tensor
+Tensor operator
+Tensor bundle
+Two-point tensor
+Operations
+Covariant derivative
+Exterior covariant derivative
+Exterior derivative
+Exterior product
+Hodge star operator
+Lie derivative
+Raising and lowering indices
+Symmetrization
+Tensor contraction
+Tensor product
+Transpose (2nd-order tensors)
+Relatedabstractions
+Affine connection
+Basis
+Cartan formalism (physics)
+Connection form
+Covariance and contravariance of vectors
+Differential form
+Dimension
+Exterior form
+Fiber bundle
+Geodesic
+Levi-Civita connection
+Linear map
+Manifold
+Matrix
+Multivector
+Pseudotensor
+Spinor
+Vector
+Vector space
+Notable tensorsMathematics
+Kronecker delta
+Levi-Civita symbol
+Metric tensor
+Nonmetricity tensor
+Ricci curvature
+Riemann curvature tensor
+Torsion tensor
+Weyl tensor
+Physics
+Moment of inertia
+Angular momentum tensor
+Spin tensor
+Cauchy stress tensor
+stress–energy tensor
+Einstein tensor
+EM tensor
+Gluon field strength tensor
+Metric tensor (GR)
+Mathematicians
+Élie Cartan
+Augustin-Louis Cauchy
+Elwin Bruno Christoffel
+Albert Einstein
+Leonhard Euler
+Carl Friedrich Gauss
+Hermann Grassmann
+Tullio Levi-Civita
+Gregorio Ricci-Curbastro
+Bernhard Riemann
+Jan Arnoldus Schouten
+Woldemar Voigt
+Hermann Weyl
+
+vteCalculusPrecalculus
+Binomial theorem
+Concave function
+Continuous function
+Factorial
+Finite difference
+Free variables and bound variables
+Graph of a function
+Linear function
+Radian
+Rolle's theorem
+Secant
+Slope
+Tangent
+Limits
+Indeterminate form
+Limit of a function
+One-sided limit
+Limit of a sequence
+Order of approximation
+(ε, δ)-definition of limit
+Differential calculus
+Derivative
+Second derivative
+Partial derivative
+Differential
+Differential operator
+Mean value theorem
+Notation
+Leibniz's notation
+Newton's notation
+Rules of differentiation
+linearity
+Power
+Sum
+Chain
+L'Hôpital's
+Product
+General Leibniz's rule
+Quotient
+Other techniques
+Implicit differentiation
+Inverse functions and differentiation
+Logarithmic derivative
+Related rates
+Stationary points
+First derivative test
+Second derivative test
+Extreme value theorem
+Maximum and minimum
+Further applications
+Newton's method
+Taylor's theorem
+Differential equation
+Ordinary differential equation
+Partial differential equation
+Stochastic differential equation
+Integral calculus
+Antiderivative
+Arc length
+Riemann integral
+Basic properties
+Constant of integration
+Fundamental theorem of calculus
+Differentiating under the integral sign
+Integration by parts
+Integration by substitution
+trigonometric
+Euler
+Tangent half-angle substitution
+Partial fractions in integration
+Quadratic integral
+Trapezoidal rule
+Volumes
+Washer method
+Shell method
+Integral equation
+Integro-differential equation
+Vector calculus
+Derivatives
+Curl
+Directional derivative
+Divergence
+Gradient
+Laplacian
+Basic theorems
+Line integrals
+Green's
+Stokes'
+Gauss'
+Multivariable calculus
+Divergence theorem
+Geometric
+Hessian matrix
+Jacobian matrix and determinant
+Lagrange multiplier
+Line integral
+Matrix
+Multiple integral
+Partial derivative
+Surface integral
+Volume integral
+Advanced topics
+Differential forms
+Exterior derivative
+Generalized Stokes' theorem
+Tensor calculus
+Sequences and series
+Arithmetico-geometric sequence
+Types of series
+Alternating
+Binomial
+Fourier
+Geometric
+Harmonic
+Infinite
+Power
+Maclaurin
+Taylor
+Telescoping
+Tests of convergence
+Abel's
+Alternating series
+Cauchy condensation
+Direct comparison
+Dirichlet's
+Integral
+Limit comparison
+Ratio
+Root
+Term
+Special functionsand numbers
+Bernoulli numbers
+e (mathematical constant)
+Exponential function
+Natural logarithm
+Stirling's approximation
+History of calculus
+Adequality
+Brook Taylor
+Colin Maclaurin
+Generality of algebra
+Gottfried Wilhelm Leibniz
+Infinitesimal
+Infinitesimal calculus
+Isaac Newton
+Fluxion
+Law of Continuity
+Leonhard Euler
+Method of Fluxions
+The Method of Mechanical Theorems
+Lists
+Differentiation rules
+List of integrals of exponential functions
+List of integrals of hyperbolic functions
+List of integrals of inverse hyperbolic functions
+List of integrals of inverse trigonometric functions
+List of integrals of irrational functions
+List of integrals of logarithmic functions
+List of integrals of rational functions
+List of integrals of trigonometric functions
+Secant
+Secant cubed
+List of limits
+Lists of integrals
+Miscellaneous topics
+Complex calculus
+Contour integral
+Differential geometry
+Manifold
+Curvature
+of curves
+of surfaces
+Tensor
+Euler–Maclaurin formula
+Gabriel's horn
+Integration Bee
+Proof that 22/7 exceeds π
+Regiomontanus' angle maximization problem
+Steinmetz solid
+
+vteMajor topics in mathematical analysis
+Calculus: Integration
+Differentiation
+Differential equations
+ordinary
+partial
+stochastic
+Fundamental theorem of calculus
+Calculus of variations
+Vector calculus
+Tensor calculus
+Matrix calculus
+Lists of integrals
+Table of derivatives
+
+Real analysis
+Complex analysis
+Hypercomplex analysis (quaternionic analysis)
+Functional analysis
+Fourier analysis
+Least-squares spectral analysis
+Harmonic analysis
+P-adic analysis (P-adic numbers)
+Measure theory
+Representation theory
+Functions
+Continuous function
+Special functions
+Limit
+Series
+Infinity
+Mathematics portal
+Authority control databases: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+2
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Tensor_calculus&oldid=1205835717"
+Categories: CalculusTensorsHidden categories: CS1 French-language sources (fr)Articles with short descriptionShort description matches WikidataPages using sidebar with the child parameterPages currently being mergedArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NKC identifiers
+
+
+
+
+
+
+ This page was last edited on 10 February 2024, at 14:52 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

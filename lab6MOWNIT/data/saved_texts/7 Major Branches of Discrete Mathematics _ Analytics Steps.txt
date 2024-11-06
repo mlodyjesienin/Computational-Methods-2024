@@ -1,0 +1,339 @@
+
+
+7 Major Branches of Discrete Mathematics | Analytics Steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blogs CategoriesContact UsCategory>Machine Learning7 Major Branches of Discrete MathematicsNeelam TyagiNov 18, 2020 Updated on: Mar 31, 2021 
+Mathematics makes a nice distinction between the usually synonymous terms “elementary” and “simple”, with “elementary” taken to mean that not very much mathematical knowledge is needed to read the work and “simple” to mean that not very much mathematical ability is needed to understand it. – Julian Havel
+
+ 
+Discrete Mathematics is a branch of mathematics including discrete elements that deploy algebra and arithmetic. It is steadily being applied in the multiple domains of mathematics and computer science. It is accounted as a very effective approach for developing and problem-solving strength.
+ 
+Discrete Mathematics focuses on the systematic study of Mathematical structures that are essentially discrete in nature and does not demand the belief of continuity.
+ 
+Being also called as Decision Mathematics or finite mathematics sometimes, it works with the objects that can have distinct separate values. Objects that are studied under this part of mathematics are countable at a huge level such as formal language, integers, finite graphs, etc. 
+ 
+In recent decades, discrete mathematics has numerous applications in computer science, it is used in programming languages, software development, cryptography, algorithms etc. It includes various topics such as graph theory, set theory, probability theory and many more.
+ 
+And hence, this tutorial explains the concepts and functions of various topics (branches) under the shed of Discrete Mathematics.
+ 
+ 
+Table of Content 
+ 
+1. What is Mathematics?
+2. What is Discrete Mathematics?
+3. Branches of Discrete Mathematics
+4. Conclusion
+
+ 
+What is Mathematics?
+ 
+Let’s start with having a small discussion over the simple concept of Mathematics,
+ 
+It is the scientific study of structure, order, and relationships emerged from elemental procedures of counting, measuring, and explaining the format of objects. It copes with logical reasoning and quantitative calculation. 
+ 
+However, its evolution involves a growing extent of idealization and contemplation of its subject matter.
+ 
+Broadly, Mathematics can be classified into two categories, that are;
+ 
+1. Continuous Mathematics− Depending over a continuous number line or the real numbers, continuous mathematics can be featured by the fact that there is always an infinite count of numbers amid any two numbers.
+ 
+
+For example, a continuous mathematical function can be outlined in a continuous curve without breaks.
+In addition to it, continuous mathematics gives excellent methods and tools for examining real-world phenomena changes over time such as the motion of planets around the sun.
+
+ 
+2. Discrete Mathematics−  Incorporating discrete (different) values amidst any two points, a countable number of points exists.
+
+E.g. For a finite set of objects, a function can be defined in terms of ordered pairs of the list, containing these objects that can be displayed as a full list of those pairs.
+In addition to it, discrete mathematics gives appropriate tools and procedures for interpreting real-world phenomena transformed unexpectedly.
+It is practised from computers to telephonic call converting and from personal assignments to genetics applications.
+
+
+(Must read: Introduction to Bayesian Statistics)
+ 
+ 
+What is Discrete Mathematics?
+ 
+Discrete mathematics is the branch of mathematics handling objects that only considers distinct, separated values. In contrast with continuous mathematics, discrete mathematics can be characterized by integers. It is the mathematical language of computer science and can be applied to practical fields of mathematics. 
+ 
+In simple words, discrete mathematics gives an individual the ability to understand mathematical language that can be learned through various branches of it. Moreover;
+ 
+
+
+It is accounted as an excellent tool in order to improve reasoning and problem-solving abilities. Therefore, its importance has progressed adequately in recent years with the growth of digital devices.
+
+
+ 
+
+
+Combinations, graph theory and logical statements are broadly involved as structures in discrete mathematics along with finite or infinite numbers.
+
+
+ 
+
+
+It is used in designing the daily used apps and programs in computer science. 
+
+
+ 
+
+
+It is essential to digital devices, though the tech world is continually rising, the research and study in discrete mathematics could mark valuable development for us.   
+
+
+ 
+
+
+More specifically, discrete mathematics is not just limited to integers, it also encompasses mathematical structures or diverse methods consisting of individual parts that can be explained in terms of finite sequences of characters from a computer keyboard. 
+
+
+ 
+In terms broadly described, discrete mathematics is the research study of techniques, ideas and means of reasoning indispensable in various applied disciplines such as computer science or information technology.
+ 
+Being a portal within advanced theoretical mathematics, it is supportive in deciphering the difference between analog and discrete systems. 
+ 
+
+Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigour should be a signal to the historian that the maps have been made, and the real explorers have gone elsewhere. – W. S. Anglin
+
+ 
+The various research domains included by Discrete Mathematics are graph and hypergraph theory, coding theory, block designs, the combinatorics, set theory, matroid theory, discrete geometry, matrices, discrete probability, and parts of cryptography.
+ 
+(Recommend Read: What is the Knowledge Graph?)
+
+ 
+Topics (Branches) of Discrete Mathematics
+ 
+Though there are various branches of discrete mathematics, some of them are always included in the concerned study that is discussed in this section. However, most of these mathematics topics are related to computer science. 
+
+
+Major topics (branches) of the Discrete Mathematics
+
+
+
+Combinatorics 
+
+
+ 
+Combinatorics is the special mathematics of counting and organizing. It applies mathematical operations in order to count things (large in numbers) and arrange them accordingly. 
+ 
+Being a useful application in computer science, combinatorics methods are useful in developing and measuring the number of operations required by a computer algorithm. It is a vital topic in studying discrete mathematics. 
+ 
+Since it is related to arranging (grouping) the things, it can be considered for counting possible outcomes under a uniform event of probability.
+ 
+The fundamental rules associated with the grouping of things are the rule of product and rule of the sum that commands the act of arrangement via the operations of multiplication and addition respectively.   
+ 
+Combinatorics deals with possible arrangements or configurations of objects in a set, these combinatorial problems has three types:
+
+
+Existential Combinatorics: It studies the existence or non-existence of certain configurations.
+
+
+Enumerative Combinatorics: It is concerned with counting the number of configurations of a particular type. 
+
+
+Constructive Combinatorics: It deals with the methods that identifies particular configurations which are opposite to reflecting their existence.  
+
+
+ 
+
+
+Graph Theory
+
+
+ 
+The Graph Theory is the systematic study of various sorts of graphs that are possibly the agglomeration of the connected nodes. In simple terms, a graph is the set of points known as nodes or vertices that are interrelated via a series of lines termed as edges.
+ 
+The study of graph or graph theory is a significant portion in terms of a number of disciplines in the domain of mathematics, engineering, and computer science.
+ 
+Graphs are particularly serviceable in order to represent all types of real-world problems. Generally, the Graph (G) incorporates two things;
+ 
+
+A set V=V(G) where the components associated with the set are known as vertices, points or nodes of G.
+A set E = E(G) of an unorganized pair of dissimilar vertices called edges of G.
+
+ 
+(Similar blog: What is group theory?)
+ 
+
+
+Number Theory
+
+
+ 
+Number theory is the study of the natural numbers, and especially their divisibility properties. The natural numbers embrace commutative and associative addition and multiplication operations, where each has an identity and multiplication spreads over addition. And no natural number has an additive or multiplicative inverse except the identity elements 0 and 1. 
+ 
+Divisibility: If for a given numbers a and b, it is possible that (a÷b) provides a whole number, in that condition, it can be said that b divides a, symbolically b | a. And if this holds true, then b is the divisor or factor of a, and a is a multiple of b. In other terms, if b | a, then a= bk for some integer k. Some valuable facts regarding divisibility;
+ 
+
+
+If d | m and d | n, then d | (m + n). Let say m = ad and n = bd, then (m + n) = (a + b)d. 
+
+
+If d | n and n ≠ 0, then d ≤ n. Let say n = k, d ≠ 0 implies k ≥ 1 implies n = kd ≥ d. 
+
+
+For all d, d | 0. Let say 0 · d = 0. 
+
+
+If d|m or d|n, then d|mn. Suppose m = kd, then mn = (nk)d, or alternatively, if n = kd, then mn = (mk)d.
+
+
+ 
+Also, sometimes, there is the mismatch amid the definition of Natural Number N (which includes 0) and the definition provided by number theorists (which doesn’t). Generally, number theorists would like to leave 0 out as many theorems about numbers demand “except 0” clauses.
+ 
+
+
+Probability Theory
+
+
+ 
+Probability can be defined as identifying the possibility of occurrence of an event, in terms of mathematics, it is the detailed description of random processes and their relevant outcomes.
+ 
+In order to represent the likelihood of an event, it is being shown in number between 0 and 1 included. The several laws of probability hold deep applicability in the variety of realms such as genetics, weather forecasting, stock markets, etc. Besides that, 
+ 
+
+
+Discrete probability is the probability relied on the discrete set of outcomes. 
+
+
+The most fundamental type of probability is uniform probability. Also, if the outcomes under a set are equally probable, then the probability of each event is equivalent to the ratio of cardinalities.
+
+
+The product, sum and complement laws of probability act analogously as the same laws from combinatorics. Also, the structure of the principle of inclusion and exclusion(PIE) of probability is also the same as the PIE for sets.
+
+
+ 
+(Related article: An Introduction to Probability Distribution)
+  
+
+
+Set Theory
+
+
+ 
+Being a branch of mathematics, Set Theory is involved in collecting of objects. Sets can either be discrete or continuous; and at an initial level, set theory is implicated on why and how these sets can be organized, integrated, and counted. It includes;
+
+
+The cardinality of a finite set is particularly the number of elements in that set. For a given set A, its cardinality can be expressed as |A|.
+
+
+A complement of a set is the set of elements that are not included in that set. Also, the study of set complements provides the various number of methods in order to calculate cardinalities of finite sets.
+
+
+The union and intersection proffer several means for explaining how any combination of sets can be consolidated.
+
+
+De Morgan's laws furnish identities/expression for the complements of unions and intersections.
+
+
+The principle of inclusion and exclusion (PIE) contributes processes for identifying either the union or intersection between two or more sets.
+
+
+ 
+(Suggested blog: What is Descriptive Analysis?)
+ 
+
+
+Boolean Algebra
+
+
+ 
+Boolean algebra describes the operations defined on variables that consider the value of true (1) or false (0). This is implemented to design computer or digital circuits via logic gates that accept signals as an input and gives signals as an output.
+ 
+Following are the properties of Boolean Algebra;
+ 
+
+
+Commutative Properties:  (i)a+b = b+a and (ii)a*b=b *a
+
+
+Distributive Properties:  (i) a+(b*c)=(a+b)*(a+c) and (ii)a*(b+c)=(a*b)+(a*c)
+
+
+Identity Properties: (i) a+0=a and (ii) a *1=a
+
+
+Complemented Laws: (i) a+a'=1 and (ii)a * a'=0
+
+
+ 
+
+
+Binary Trees
+
+
+ 
+A graph which has no cycle is called an acyclic graph. A tree is an acyclic graph or graph having no cycles. A tree is simply an acyclic graph or a graph having no cycle, and a general tree is the non-empty finite set of components known as vertices or nodes that hold the property that each and every node could embrace a minimum degree as 1 and maximum degree as n.
+ 
+If specifying the binary tree then, in the conditions where the outdegree of each node is less than or equivalent to 2 under a directed tree, then the tree is known as the binary tree. And a tree that involves nodes such as an empty tree is a binary tree.
+ 
+Some of the basic terminology and definitions under binary trees are;
+ 
+
+
+Root: A binary tree has a single node known as a root of the tree.
+
+
+Left Child: The left node of the root is termed as its left child.
+
+
+Right Child: The right node of the root is named as its right child.
+
+
+Parent: The parent node is the one that has a left child or right child or both.
+
+
+Siblings: Two nodes of the tree having the same parent are known as siblings.
+
+
+Leaf: A node that has no child is termed as a leaf. However, the number of leaves over a tree can be varied from a minimum as one to the maximum as half the number of vertices in a tree.
+
+
+ 
+ 
+Conclusion
+ 
+While concluding the blog, it can be said that discrete mathematics is the branch of mathematics that deals with various sets of objects taking into account only distinct, separated values. 
+ 
+
+Mathematics is not a deductive science – that’s a cliché. When you try to prove a theorem, you don’t just list the hypotheses, and then start to reason. What you do is trial and error, experimentation, guesswork. — Paul Halmos
+
+ 
+We have seen how these topics (branches) under discrete mathematics are considered as significant factors within computer science,
+ 
+(Also check: Conditional Probability) 
+ 
+For example, recursive algorithms rely on solutions provided by recursive relations, the design of digital circuits demand the knowledge of Boolean algebra, number theory is used for messaging systems and cryptography, etc.Share Blog :OrBe a part of our Instagram community Trending blogs5 Factors Influencing Consumer BehaviorREAD MOREElasticity of Demand and its TypesREAD MOREAn Overview of Descriptive AnalysisREAD MOREWhat is PESTLE Analysis? Everything you need to know about itREAD MOREWhat is Managerial Economics? Definition, Types, Nature, Principles, and ScopeREAD MORE5 Factors Affecting the Price Elasticity of Demand (PED)READ MORE6 Major Branches of Artificial Intelligence (AI)READ MOREScope of Managerial EconomicsREAD MOREDijkstra’s Algorithm: The Shortest Path AlgorithmREAD MOREDifferent Types of Research MethodsREAD MORELatest Comments Post CommentContact UsSubscribe our newsletter SubscribeTerms of Use | Privacy PolicyBlogsBlogs CategoriesAbout UsNewsNews CategoriesContact UsCopyright © Analytics Steps Infomedia LLP 2020-22. All Rights Reserved.
+

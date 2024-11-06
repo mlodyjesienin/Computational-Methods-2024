@@ -1,0 +1,353 @@
+
+
+
+
+Hypatia of Alexandria: Last but not Least | ORIGO Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+       HomeApproachOur ApproachWhy ORIGO?Our StoryResearch and TestimonialsOur ProductsProgramsORIGO MathematicsStepping StonesMathematical Language (F-2)Animated Big BooksBig BooksBig Books for Early LearningFact Fluency & PracticeBook & Box of Facts StrategiesFundamentalsNumber and AlgebraBook & Box of Facts StrategiesThe Think TanksAlgebra for AllMeasurement & GEO ThinkingEarly LearningEarly Learning Range Teacher NotesBig Books for Early LearningEarly Learning PackageProblem SolvingTools, Tunes & GamesClassroom ResourcesRequest a Resource GuideBook a DemoProfessional LearningFeatured Webinar SeriesSupport WebinarsOur PeopleOur TeamCareers | Work with us!CommunityAbout Our CommunityBlogORIGO At HomeFree F-6 Maths ResourcesSupport and GuidesSlate Administrator SupportShop Online
+
+
+
+
+AUS
+
+
+USA
+
+
+CAN
+
+
+
+
+
+
+ 1300 674 461
+
+SLATE Login 
+Contact Us  
+
+
+
+
+
+
+  Train the Trainer Webinar Series
+Book an ORIGO Demo
+
+
+
+AUS
+
+USA
+CAN
+
+
+
+
+
+ 1300 674 461
+Home
+Approach
+
+Our Approach
+Why ORIGO?
+Our Story
+Research and Testimonials
+
+
+Our Products
+
+Programs
+
+ORIGO Mathematics
+Stepping Stones
+
+
+Mathematical Language (F-2)
+
+Animated Big Books
+Big Books
+Big Books for Early Learning
+
+
+Fact Fluency & Practice
+
+Book & Box of Facts Strategies
+Fundamentals
+
+
+Number and Algebra
+
+Book & Box of Facts Strategies
+The Think Tanks
+Algebra for All
+
+
+Measurement & GEO Thinking
+Early Learning
+
+Early Learning Range Teacher Notes
+Big Books for Early Learning
+Early Learning Package
+
+
+Problem Solving
+Tools, Tunes & Games
+Classroom Resources
+Request a Resource Guide
+Book a Demo
+
+
+Professional Learning
+
+Featured Webinar Series
+Support Webinars
+
+
+Our People
+
+Our Team
+Careers | Work with us!
+
+
+Community
+
+About Our Community
+Blog
+ORIGO At Home
+Free F-6 Maths Resources
+Support and Guides
+Slate Administrator Support
+
+
+Shop Online
+
+SLATE Login Contact Us 
+ORIGO Education has launched a brand new program, ORIGO Mathematics FIND OUT MORE
+
+
+
+ 
+
+ORIGO 
+Blogs
+
+Home / Blogs / Hypatia of Alexandria: Last but not Least
+
+
+15 FebHypatia of Alexandria: Last but not LeastHypatia’s contributions involved several fields of mathematics including advanced geometry, computation methods, and applications to astronomy.
+Let me begin with a coin question. Think about the steps you will use to find a solution.
+Pretend you have $2.50 in dimes and quarters.
+
+How many of each coin could you have?
+Here are some observations you might make.
+First: There are multiple possible number combinations.
+Second: The answers are whole numbers. Fraction answers do not make sense.
+Third: There are two unknowns; or, stating this another way, there is more than one variable.
+Students might find the possible solutions by listing the pairs of values in a table. They might begin with all dimes (or all quarters) and then use trial and error. They may soon discover that the number of quarters must decease by 2 and the dimes increase by 5 to keep the total value equal to $2.50.
+
+Another alternative is to use the variables in an equation such as 10•D + 25•Q = 250 using the values of the coins and the total expressed as cents. Equations like this were first proposed by Diophantus who lived in the 3rdcentury. They are the beginnings of algebra. While Diophantus’ name is attached to these equations, another Greek mathematician arguably did more to expand on the ideas and ensure they were recorded for the future.
+
+
+Hypatia of Alexandria 317-415 AD
+
+In 2010, the UK’s Guardiannewspaper published a list of the “10 best mathematicians.” I found it interesting that the title of the list used the word “best” not “greatest” or “most well-known.” The list is presented in chronological order and begins with Pythagoras (circa 570-495 BCE). The second mathematician is Hypatia, a Greek woman who resided in Alexandria, Egypt, over 800 years later. This was a tumultuous time just before the start of the Dark Ages, when intellectual pursuits in the Eurocentric portion of the world ceased until about 1300 CE. As a result, the many accomplishments of Hypatia are too often overlooked and up until 20 years ago virtually undiscovered. It has been difficult to ascertain all that she did. However, recent scholarly works (Deakin, 2007) that have analyzed manuscripts indicate that the developments by Middle Eastern1 mathematicians, who were still highly active during the Dark Ages, refer to Hypatia’s accomplishments. It would seem that history focused on the negative aspects of that time rather than the positive developments from people such as Hypatia.
+The Greeks achieved much in mathematics but generally relied on geometry to explore problems, provide proofs, and in general build knowledge they called mathema. They used pictures to prove that irrational numbers such as πand √2 existed, even though they did not have a method to record them. The Greeks squeezed a circle between many-sided polygons (inside and outside) to estimate the value of pi. But they did not have a broad mathematical language that included algebra.
+Hypatia’s contributions involved several fields of mathematics including advanced geometry, computation methods, and applications to astronomy (Deakin, p 112). The most interesting and influential involves her work in algebra with a particular focus on problems related to Diophantine equations described above. The techniques developed for these equations allowed Greek mathematicians such as Hypatia to solve problems that were beyond the scope of geometry.
+Until the last 20 years, the extent of Hypatia’s work involving algebra wasn’t clear. But analysis of Middle Eastern manuscripts indicates the style is that of Hypatia. It is known that she was a great teacher and did contribute much to recording the ideas of the time. Historians now feel that she added greatly to the advancements credited to others.
+ 
+ 
+ 
+ 
+Endnotes:
+
+The Pythagorean theorem was formalized and expressed as an equation by the Greeks. It is a Diophantine equation with exponents. During the Greek era, the lengths of sides of right triangles were restricted to whole number lengths that were passed down from the Sumerians. So, the solutions to equations were numbers such as 3,4,5; 6,8,10;  5,12,13, and so on.
+The work with examples such as the coin problem are the basis for number theory. The correct number of dimes and quarters exist only for values that are the lowest common multiple of 10 and 25 or 0, 50, 100, 150, 200, 250, which in turn could be used to help find the solutions.
+The 2009 movie Agora is about the life of Hypatia.
+
+1The expression Middle Eastern is used here to acknowledge that Persian and Arabic mathematicians collectively made many highly significant contributions to the development of algebra.
+Deakin, Michael A.B. 2007. Hypatia of Alexandria. New York: Prometheus Books.
+This is the second post in a series on important women mathematicians in history. 
+
+Sign up to the ORIGO Community to receive blog posts, free resources and more!
+
+About the authorMegan FordhamCreating a love of MathsOur Services
+
+Early Learners: Pretend Play at HomeThe challenge these days is to ensure play does not become a habit involving video games to pass the time. Sometimes you need to help children on their journey of […]Read MoreHip Hop Hippos Big Book!ORIGO printed large-format maths storybooks come with teacher’s notes that include a variety of activities to accommodate all Kindergarten – Year 2 classrooms. Big Book Tunes also available. ...Read More
+
+
+
+
+
+
+
+JOIN OUR COMMUNITY
+Free maths classroom resources, videos and blog posts straight to your inbox!
+Join today
+
+
+
+
+©   ORIGO Education All Rights Reserved Refund and Return Policy   Privacy Policy    Copyright Policy     System Requirements   EEO & M/WBE StatementDesign by Five by FiveShareThis
+
+Share This
+Select your desired option below to share a direct link to this page
+
+
+
+Learn Process – Pop up
+
+
+
+
+
+
+Students who develop – Popup
+
+
+
+
+
+
+Content taught – Popup
+
+
+
+
+
+
+
+Test Popup Wistia
+
+
+
+
+
+Heading
+Sub heading here
+[gravityform id="10" title="false" description="false" ajax="true" tabindex="420"]TOP POPUP CONTENT HERE...LEFT POPUP CONTENT HERE...BOTTOM POPUP CONTENT HERE...
+
+
+
+
+
+Have a question?
+
+
+Contact Us
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

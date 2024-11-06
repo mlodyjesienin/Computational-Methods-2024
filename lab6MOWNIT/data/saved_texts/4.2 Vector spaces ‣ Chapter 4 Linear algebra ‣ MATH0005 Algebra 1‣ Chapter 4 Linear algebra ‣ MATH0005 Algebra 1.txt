@@ -1,0 +1,283 @@
+
+
+
+4.2 Vector spaces ‣ Chapter 4 Linear algebra ‣ MATH0005 Algebra 1‣ Chapter 4 Linear algebra ‣ MATH0005 Algebra 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATH0005 Algebra 1
+
+
+About these notes
+1 Logic
+2 Sets and functions
+3 Matrices
+
+4 Linear algebra
+
+4.1 Fields
+
+4.2 Vector spaces
+
+4.2.1 The vector space axioms
+4.2.2 Examples of vector spaces
+
+
+4.3 Using the vector space axioms
+4.4 Subspaces
+4.5 Sums and intersections
+4.6 Linear independence
+4.7 Spanning sequences
+4.8 Bases
+4.9 Dimension
+4.10 Basis and dimension examples
+4.11 Extending to a basis
+4.12 Finding dimensions
+4.13 Linear maps
+4.14 Kernel and image
+4.15 The rank-nullity theorem
+4.16 Matrix nullspace basis
+4.17 Column space basis
+4.18 Matrix of a linear map
+4.19 Matrix of a composition
+4.20 Change of basis
+4.21 Coordinate isomorphisms
+Further reading
+
+
+
+
+
+
+
+4 Linear algebra4.1 Fields4.3 Using the vector space axioms
+
+
+
+
+4.2 Vector spaces
+
+We are now ready to define vector spaces. The idea is to observe that
+sets of column vectors, or row vectors, or more generally matrices of a
+given size, all come equipped with a notion of addition and scalar
+multiplication and all obey the same collection of simple algebraic
+rules, for example, that addition
+is commutative, that scalar multiplication distributes over vector addition,
+and so on. We will define a vector space as any set with
+operations of addition and scalar multiplication obeying similar rules to
+those satisfied by column vectors. The power of doing this is that it
+lets us apply our theory in seemingly entirely different contexts.
+
+
+
+4.2.1 The vector space axioms
+
+
+Definition 4.2.1.
+
+
+Let 𝔽 be a field. An 𝔽-vector space is a
+set V with
+
+
+•
+
+a special element 𝟎V called the zero vector
+
+
+
+•
+
+an operation + called addition
+
+
+
+•
+
+a way to multiply elements of V by elements of 𝔽, called scalar multiplication
+
+
+
+such that for all 𝐮,𝐯,𝐰 in V and all
+λ,μ in 𝔽,
+
+
+1.
+
+𝐯+𝐰=𝐰+𝐯
+
+
+
+2.
+
+𝐮+(𝐯+𝐰)=(𝐮+𝐯)+𝐰
+
+
+
+3.
+
+𝟎V+𝐯=𝐯
+
+
+
+4.
+
+there exists 𝐱∈V such that
+𝐱+𝐯=𝟎V
+
+
+
+5.
+
+λ⁢(μ⁢𝐯)=(λ⁢μ)⁢𝐯
+
+
+
+6.
+
+1⁢𝐯=𝐯
+
+
+
+7.
+
+λ⁢(𝐯+𝐰)=λ⁢𝐯+λ⁢𝐰
+
+
+
+8.
+
+(λ+μ)⁢𝐯=λ⁢𝐯+μ⁢𝐯
+
+
+
+
+
+
+You sometimes see the phrase “vector space over 𝔽”, which
+means the same thing as 𝔽-vector space.
+
+
+
+
+4.2.2 Examples of vector spaces
+
+The elements of vector spaces can be anything at all. They don’t have to
+look like column or row vectors. Here are some examples of vector
+spaces.
+
+
+•
+
+ℝn is a real vector space, ℂn is a complex vector space, and if 𝔽 is any field then 𝔽n, the set of all height n column vectors with entries from 𝔽 is an 𝔽-vector space.
+
+
+
+•
+
+Mm×n⁢(ℝ), the set of all m×n matrices with
+real entries, is a real vector space with the zero vector being the
+all-zeroes matrix. Similarly for any other field.
+
+
+
+•
+
+{0} with the only possible operations is an 𝔽-vector
+space, for any field 𝔽, the zero vector space.
+
+
+
+•
+
+Let ℱ be the set of all functions ℝ→ℝ.
+Define f+g to be the function ℝ→ℝ given by
+(f+g)⁢(x)=f⁢(x)+g⁢(x) and, for a real number λ and a
+function f, define λ⁢f by (λ⁢f)⁢(x)=λ⁢f⁢(x). Then ℱ is a real vector space with the zero vector being the constant function taking the value 0.
+
+
+
+•
+
+If A is a m×n matrix, the set of all solutions of
+A⁢𝐱=0 is
+a vector space. This is the nullspace N⁢(A) we met in Definition
+3.6.5.
+
+
+
+•
+
+The set of all real solutions to the differential equation y′′+a⁢y′+b⁢y=0 is a
+vector space, with the definitions of addition and scalar
+multiplication as in ℱ above.
+
+
+
+•
+
+The set 𝔽⁢[x] of all polynomials in one variable x is a
+𝔽-vector space, as is the set 𝔽⩽n⁢[x]
+of all polynomials in x of degree at most n.
+
+
+
+•
+
+The set of magic matrices, those whose row sums and column sums are
+all equal, is a vector space with the usual matrix addition and scalar
+multiplication.
+
+
+
+
+
+
+
+
+
+
+4.1 Fields4.3 Using the vector space axioms
+
+Generated  on Sun Dec 10 14:46:47 2023 by LATExml
+
+
+
+

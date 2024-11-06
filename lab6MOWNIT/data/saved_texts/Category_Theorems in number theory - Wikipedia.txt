@@ -1,0 +1,491 @@
+
+
+
+
+Category:Theorems in number theory - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category:Theorems in number theory
+
+
+
+32 languages
+
+
+
+
+العربيةবাংলাБашҡортсаБеларуская (тарашкевіца)CatalàЧӑвашлаDeutschEspañolفارسیFrançais한국어ՀայերենBahasa IndonesiaItalianoעבריתҚазақшаMagyarМакедонскиമലയാളം日本語Norsk bokmålPolskiPortuguêsRomânăРусскийSimple EnglishSlovenščinaSvenskaதமிழ்УкраїнськаTiếng Việt中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+CategoryTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+Help
+
+From Wikipedia, the free encyclopedia
+
+
+
+Contents 
+
+Top
+0–9
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+
+
+
+
+Subcategories
+This category has the following 5 subcategories, out of 5 total.
+A
+ Theorems in algebraic number theory‎ (40 P)
+ Theorems in analytic number theory‎ (24 P)F
+ Fermat's Last Theorem‎ (18 P)L
+ Lemmas in number theory‎ (10 P)T
+ Theorems about prime numbers‎ (30 P)
+
+Pages in category "Theorems in number theory"
+The following 106 pages are in this category, out of  106 total. This list may not reflect recent changes.
+0–9
+15 and 290 theoremsA
+Alpha-beta conjecture
+Apéry's theorem
+Artin–Verdier duality
+Ax–Kochen theoremB
+Baker's theorem
+Beatty sequence
+Behrend's theorem
+Birch's theorem
+Brauer's theorem on forms
+Brumer boundC
+Carmichael's theorem
+Catalan's conjecture
+Chinese remainder theorem
+Chowla–Mordell theorem
+Chowla–Selberg formula
+Congruum
+Cubic reciprocityD
+Davenport–Erdős theorem
+Davenport–Schmidt theorem
+Dedekind discriminant theorem
+Dirichlet's approximation theorem
+Division theoremE
+Eichler–Shimura congruence relation
+Eisenstein's theorem
+Equidistribution theorem
+Erdős–Fuchs theorem
+Erdős–Graham problem
+Erdős–Szemerédi theorem
+Erdős–Tetali theorem
+Euclid–Euler theorem
+Euler's theoremF
+Faltings' product theorem
+Faltings's theorem
+Fermat polygonal number theorem
+Fermat's Last Theorem
+Fermat's right triangle theorem
+Fermat's theorem on sums of two squares
+Freiman's theoremG
+Gelfond–Schneider theorem
+Glaisher's theoremH
+Hasse–Minkowski theorem
+Hilbert's irreducibility theorem
+Hurwitz's theorem (number theory)J
+Jacobi triple product
+Jacobi's four-square theoremK
+Kaplansky's theorem on quadratic forms
+Katz–Lang finiteness theorem
+Kronecker's congruence
+Kummer's congruence
+Kummer's theoremL
+Lagrange's four-square theorem
+Lambek–Moser theorem
+Lamé's theorem
+Legendre's three-square theorem
+Lehmer's conjecture
+Lindemann–Weierstrass theorem
+Local trace formula
+Lochs's theoremM
+Mahler's compactness theorem
+Manin–Drinfeld theorem
+Mann's theorem
+Marsaglia's theorem
+Matiyasevich's theorem
+Mestre bound
+Meyer's theorem
+Midy's theorem
+Mihăilescu's theorem
+Minkowski's theorem
+Modularity theorem
+Multiplicity-one theoremN
+Nagell–Lutz theoremP
+Pentagonal number theorem
+Proizvolov's identityQ
+Quadratic reciprocity
+Quartic reciprocity
+Quintuple product identityR
+Ramanujan's congruences
+Ribet's theorem
+Romanov's theorem
+Roth's theorem on arithmetic progressionsS
+Serre's modularity conjecture
+Shimura's reciprocity law
+Siegel–Weil formula
+Siegel's theorem on integral points
+Six exponentials theorem
+Skolem–Mahler–Lech theorem
+Sophie Germain's theorem
+Størmer's theorem
+Subspace theorem
+Sum of two squares theorem
+Szemerédi's theoremT
+Thomae's formula
+Three-gap theorem
+Thue equation
+Roth's theorem
+Tijdeman's theorem
+Torsion conjecture
+Tunnell's theorem
+Turán–Kubilius inequalityV
+Von Staudt–Clausen theoremW
+Waldspurger's theorem
+Weil conjectures
+Wiener–Ikehara theoremZ
+Zeckendorf's theorem
+Zsigmondy's theorem
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:Theorems_in_number_theory&oldid=982878303"
+Categories: Mathematical theoremsNumber theoryHidden categories: Template Category TOC via Automatic category TOC on category with 101–200 pagesAutomatic category TOC generates standard Category TOC
+
+
+
+
+
+
+ This page was last edited on 10 October 2020, at 22:43 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

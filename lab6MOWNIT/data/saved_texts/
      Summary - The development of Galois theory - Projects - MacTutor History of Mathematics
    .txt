@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+      Summary - The development of Galois theory - Projects - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+The development of Galois theory
+Fiona Brunk
+Summary
+
+
+
+
+
+Previous Page
+
+    (Galois' commentators)
+    
+  
+
+Contents
+
+
+
+
+
+
+
+Galois himself was most significantly influenced by Lagrange. He criticised Abel and Ruffini more than he relied on them -- their results were introduced into Galois Theory by later by mathematicians such as Kronecker. Also, the early commentators of Galois Theory such as Cauchy, Betti and Serret had no long lasting influence on Galois Theory, due to a lack of original development in their commentaries. Mathematically, they can be seen as Abel's heirs since they were interested in Galois Theory as a means to a computational end, namely the determination of the solution of an equation.
+
+
+The first commentator to give Galois Theory a modern, abstract direction was Jordan. He followed in the footsteps of Lagrange and Galois himself, or alternatively it may be argued that he continued the work of Richard and his pupils Galois and Hermite. Although Jordan was still concerned with the question of solvability by radicals, he was the first commentator who was interested in the structure of the groups arising in these investigations.
+
+
+After Jordan, progress in Galois Theory often coincided with the development of field theory. In particular, Kronecker went a considerable step further than Jordan by viewing Galois Theory as a means to an end in abstract algebra. Furthermore, Dedekind developed the foundations of Galois Theory as it is perceived today.
+
+
+The first mathematician to present a modern treatment of Galois Theory was Weber who used Galois Theory to investigate the structure of groups and fields. By this point, Galois Theory had developed from an obscure, specialised area in algebra to one of its foundations. But the mathematical community was not yet receptive to Weber's approach and so Galois Theory did not benefit from the work of Dedekind and Weber as much as it could have. It remained largely computational for a long time because most mathematicians saw Galois Theory as concerned with constructions such as that of the resolvent equation or the composition series.
+
+
+The mathematician who finally established Galois Theory as the study of fields and their automorphism groups was Artin. It may be argued that other mathematicians proved results which are more fundamental to Galois Theory than Artin's work. But Artin combined all previous approaches in one coherent theory at a time when the mathematical community was finally able to acknowledge Galois Theory as an integral part of abstract algebra. From this point on, Galois Theory no longer had any relevance to the practical construction of the roots of an equation.
+
+
+So the perception of Galois Theory changed considerably between the 1840s and 1930s: First, it was seen as a procedure for solving equations; later it was realised that Galois Theory reveals a parallelism in the structure of fields and their automorphism groups. This change in the perception of Galois Theory formed a significant part of the evolution of algebra from the art of solving equations to the study of abstract structures.
+
+
+
+
+
+Previous Page
+
+    (Galois' commentators)
+    
+  
+
+Contents
+
+
+
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

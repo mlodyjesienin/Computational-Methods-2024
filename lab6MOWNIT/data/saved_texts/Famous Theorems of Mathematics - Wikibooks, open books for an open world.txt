@@ -1,0 +1,275 @@
+
+
+
+
+Famous Theorems of Mathematics - Wikibooks, open books for an open world
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Famous Theorems of Mathematics
+
+From Wikibooks, open books for an open world
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+
+ A reader requests expansion of this book to include more material.You can help by adding new material (learn how) or ask for assistance in the reading room. 
+
+
+Not all of mathematics deals with proofs, as mathematics involves a rich range of human experience, including ideas, problems, patterns, mistakes and corrections. However, proofs are a very big part of modern mathematics, and today, it is generally considered that whatever statement, remark, result etc. one uses in mathematics, it is considered meaningless until is accompanied by a rigorous mathematical proof. This book is intended to contain the proofs (or sketches of proofs) of many famous theorems in mathematics in no particular order. It should be used both as a learning resource, a good practice for acquiring the skill for writing your own proofs is to study the existing ones, and for general references.
+It is not however intended as a companion to any other wikibook or wikipedia articles but can complement them by providing them with links to the proofs of the theorems they contain.
+One note here. There are usually many ways to solve a problem. Many times the proof used comes down to the primary definitions of terms involved. We will follow the definition given by the first major contributor.
+
+Table of contents
+High school
+Pythagoras theorem
+Euclid's proof of the infinitude of primes
+√2 is irrational
+sin2Θ+cos2Θ=1
+Undergraduate
+e is irrational
+π is irrational
+Fermat's little theorem
+Fermat's theorem on sums of two squares
+Sum of the reciprocals of the primes diverges
+Bertrand's postulate
+Law of large numbers
+Spectral Theorem
+L'Hôpital's rule
+Four color theorem
+eπi+1=0
+Gaussian integral
+Gamma function
+Zeta function
+Postgraduate
+Fermat's last theorem
+Brouwer fixed-point theorem
+Prime number theorem
+Riemann hypothesis
+Old table of contents
+This section contains the table of content of the book as according to its original intentions. The material here should be either incorporated in the existing book or discarded.
+Proofs and definitions will be arranged according to the fields of mathematics:
+
+Algebra
+Analysis
+Applied Mathematics
+Geometry
+Logic
+Number Theory
+Set Theory
+Boy's surface
+Further reading
+Mathematical Proof - about the theory and techniques of proving mathematical theorems
+Resources
+Manual of style
+Proof style - Style guide for proofs.
+External links etc
+Proofs on the wikipedia project
+List of mathematical proofs
+List of theorems
+Mathematical Handbook for Scientists and Engineers: Definitions, Theorems, and Formulas for Reference and Review
+The Hundred Greatest Theorems
+ProofWiki.org - The online compendium of mathematical proofs
+
+
+
+
+Retrieved from "https://en.wikibooks.org/w/index.php?title=Famous_Theorems_of_Mathematics&oldid=3693221"
+Categories: Book:Famous Theorems of MathematicsShelf:Mathematics historyShelf:University level mathematics booksHidden categories: Requests for expansionAlphabetical/FSubject:Mathematics historySubject:Mathematics history/all booksSubject:History/all booksSubject:Humanities/all booksSubject:Books by subject/all booksSubject:Social sciences/all booksSubject:Mathematics/all booksSubject:University level mathematics booksSubject:University level mathematics books/all booksBook:Wikibooks Stacks/BooksShelf:Mathematics history/all booksShelf:History/all booksDepartment:Humanities/all booksDepartment:Mathematics/all booksDepartment:Social sciences/all booksShelf:University level mathematics books/all booksPartly developed booksBooks by completion status/all books
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged inDiscussion for this IP addressContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+BookDiscussion
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadEditEdit sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main PageHelpBrowseCookbookWikijuniorFeatured booksRecent changesDonationsRandom bookUsing Wikibooks
+
+
+
+
+
+Community
+
+
+
+Reading room forumCommunity portalBulletin BoardHelp out!Policies and guidelinesContact us
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+Sister projects
+
+
+
+WikipediaWikiversityWiktionaryWikiquoteWikisourceWikinewsWikivoyageCommonsWikidataMediaWikiMeta-Wiki
+
+
+
+
+
+Print/export
+
+
+
+Create a collectionDownload as PDFPrintable version
+
+
+
+
+
+In other languages
+
+
+
+বাংলাDeutsch
+
+Edit links
+
+
+
+
+
+
+ This page was last edited on 27 May 2020, at 04:18.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikibooks
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+

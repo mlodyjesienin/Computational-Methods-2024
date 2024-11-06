@@ -1,0 +1,1799 @@
+
+
+
+
+resource recommendations - Linear algebra for quantum physics - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+Linear algebra for quantum physics
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+11 years, 8 months ago
+
+
+Modified
+4 years, 5 months ago
+
+
+Viewed
+                        21k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            23
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+
+
+
+
+
+
+
+Before answering, please see our policy on  resource recommendation questions.     Please write substantial answers that detail the  style, content, and prerequisites of the book, paper or other resource. Explain the nature of the resource so that readers can decide which one is best suited for them rather than relying on the opinions of others.     Answers containing only a reference to a book or paper will be removed!
+
+
+
+
+
+
+
+A week ago I asked people on this site what mathematical background was needed for understanding Quantum Physics, and most of you mentioned Linear Algebra, so I decided to conduct a self-study of Linear Algebra. Of course, I'm just 1 week in, but I have some questions. 
+
+How is this going to be applicable to quantum physics? I have learned about matrices (addition, subtraction, multiplication and inversion) and about how to solve multiple equations with 3 unknowns using matrices, and now I am starting to learn about vectors. I am just 1 week in, so this is probably not even the tip of the iceberg, but I want to know how this is going to help me. 
+Also, say I master Linear Algebra in general in half a year (I'm in high school but I'm extremely fast with maths), what other 'types' of math would I need to self-study before being able to understand rudimentary quantum physics mathematically? 
+
+
+
+
+
+quantum-mechanicsresource-recommendationssoft-questioneducationlinear-algebra
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited May 23, 2018 at 4:33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        8 revs, 5 users 38%Qmechanic
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Shankar's Book on 'Principles of Quantum Mechanics' would be a nice start, atleast it gives a very nice mathematical basis.
+$\endgroup$
+
+– Gravity_CK
+
+Dec 28, 2019 at 16:17
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Our teacher recommended us to read 'Linear algebra done right' by Sheldon Axler, but I found it very hard to understand,  are there any other easy books?
+$\endgroup$
+
+– smallest quanta
+
+Jul 19, 2020 at 12:39
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        7 Answers
+                                    7
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            29
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Quantum mechanics "lives" in a Hilbert space, and Hilbert space is "just" an infinite-dimensional vector space, so that the vectors are actually functions. Then the mathematics of quantum mechanics is pretty much "just" linear operators in the Hilbert space.
+
+Quantum mechanics    Linear algebra
+-----------------    --------------
+wave function        vector
+linear operator      matrix
+eigenstates          eigenvectors
+physical system      Hilbert space
+physical observable  Hermitian matrix
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Oct 6, 2012 at 2:26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Sampo Smolander
+        
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+10
+
+
+
+
+$\begingroup$
+Hilbert spaces need not be infinite-dimensional. Every finite-dimensional, complex, inner product space is a Hilbert space.
+$\endgroup$
+
+– joshphysics
+
+Aug 8, 2014 at 2:17
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Well, learn linear algebra. An advanced text (on linear algebra over "field" number systems) is these lecture notes [html] from UC Davis.
+Once you get that done, you should study differential equations. Or if you want to skip ahead, perhaps Fourier analysis. A free reference would be my notes [pdf]. It's mildly physics-oriented, but connects the ideas back to linear algebra.
+Quantum mechanics, when you boil it down, is Fourier analysis. (Instead of the "frequency domain" you have "momentum space", etc.)
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Sep 9, 2018 at 5:04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revs, 2 users 89%Alex Nelson
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Well, if you want to gain any quantitative insights into QM, you'd have to pick up some calculus as well - mainly differential equations, and if you really insist, Fourier analysis too. I was taught decent basic calculus in high school, so you may already know some of the basics.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Oct 6, 2012 at 1:12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Deep Blue
+        
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I suggest getting a used copy of Zetteli. Chapter 2 is a survey of the mathematical tools of QM, and the very beginning of Chapter 3 are the postulates of QM.
+That will show you directly the math you need, and you can consult other books for more detailed explanations of the parts that give you trouble.
+The matrices and vectors are important because they map very well to the mathematics of QM, and so they form the basic language in which QM is expressed. As you continue to study linear algebra, you will learn about eigenvectors and eigenvalues. Those are used to describe the measurement process, which is essential to QM.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Oct 6, 2012 at 0:09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        jcohen79
+        
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+The first major step would be calculus.  Really just becoming familiar with integration and differentiation on all types of functions.  From there a little knowledge on differential equations can go a long way.  Knowing just this can get you solving some basic problems.  "Early Transcendentals" by Thomas is a good calculus book.  Then there are some nice math physics books that cover many different subjects from linear algebra to complex analysis.  I don't particularly like this book but I use it, "Mathematical Methods in the Physical Sciences" by Mary Boas.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Feb 22, 2014 at 5:11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        ClassicStyle
+        
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Square symmetric matrices (or rather complex Hermitian ones) represent the observables of a quantum mechanical system. Their eigenvalues represent the possible observed values in ideal experiments. There is a basis of orthonormal eigenvalues, which allows you to write any state vector as a linear combination (superposition) of basis vectors. Squared absolute values of inner products define probabilities. Then one needs functions of matrices, in particular the matrix exponential, which gives the dynamics of a system, and an explicit solution of the Schroedinger equation in the case of an n-level system.
+Thus you need to learn enough to be able to have a good grasp on these concepts:
+matrix, transpose, conjugate transpose, linear combination, basis, eigenvalue, eigenvector, inner product, matrix power series, matrix exponential. Wikipedia has good summarizing articles on each of these topics, to help you give an overview. You can skip other stuff, and get back to it in case you need it.
+In analysis you need systems of linear differential equations with constant coefficients (these are related to the matrix exponential), and the Fourier transform. The latter involves integration in 3 dimensions, but again, you can skip a lot and turn back to things skipped once you need them.
+Then you can look into various quantum mechanical texts or lecture notes,
+for example my online book http://lanl.arxiv.org/abs/0810.1019 - the first chapter of it should be understandable even with little prior knowledge, if you can tentatively accept concepts without a full understanding. My FAQ http://arnold-neumaier.at/physfaq/physics-faq.html might also be of help. By reading these and noting where you lose track you can find out what other concepts you need to make sense of your reading. This will tell you what else you need to learn. Ultimately, almost all of linear algebra and analysis is useful in quantum mechanics, but what and when depends on what you are interested in.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 22, 2022 at 8:14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revsArnold Neumaier
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Also, complex variables and calculus with complex variables.
+$\endgroup$
+
+– Peter R
+
+May 19, 2016 at 17:39
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@PeterR: At some point, yes. But the OP had asked about ''being able to understand rudimentary quantum physics mathematically'' and at this stage complex analysis is not yet needed.
+$\endgroup$
+
+– Arnold Neumaier
+
+May 19, 2016 at 18:07
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+There is a nice book aimed at gifted high school students, written by Thomas Jordan at the University of Minnesota, Duluth. Called Quantum Mechanics in Simple Matrix Form, it's a short introduction to complex numbers, linear operators, and QM. I believe the author used it to teach a summer school for high school students and a university course in QM for liberal arts majors; it's not a bad place to start for someone at the level of the OP (high school). 
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered May 23, 2018 at 2:27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        Anonymous
+        
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to Physics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged quantum-mechanicsresource-recommendationssoft-questioneducationlinear-algebra or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+3
+
+Linear Algebra For Physicists (Book Recommendations)
+
+
+
+1
+
+Is there an online course in Mathematical Methods for Physics, Covering Matrices and Vector Analysis?
+
+
+
+1
+
+LinAlg based physics textbooks
+
+
+
+11
+
+Study Quantum Physics
+
+
+
+2
+
+Quantum phyics project for a high schooler
+
+
+
+-1
+
+Can someone redirect me to relevant mathematics?
+
+
+
+
+Related
+
+
+
+11
+
+Study Quantum Physics
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    What changes the velocity perpendicular to radius in an elliptical orbit?
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Word for a country declaring independence from an empire
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    What scientific evidence there is that keeping cooked meat at room temperature is unsafe past two hours?
+                
+
+
+
+                    Is a doctor's diagnosis in clinical notes, made without a confirmatory test, admissible evidence in an assault case in California?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    70s or 80s film or TV show with a handgun that fires backwards and a torture chamber that burns the skin off and chars the victims black
+                
+
+
+
+                    Ubuntu Terminal with alternating colours for each line
+                
+
+
+
+                    Is there a phrase like "etymologically related" but for food?
+                
+
+
+
+                    British child with Italian mother. Which document can she use to travel to/from Italy on her own?
+                
+
+
+
+                    What's the difference between cryogenic and Liquid propellant?
+                
+
+
+
+                    Does speeding turn an accident into manslaughter?
+                
+
+
+
+                    How do I emphasize a sentence without making it seem like the character is shouting?
+                
+
+
+
+                    can you roll your own .iso for USB stick?
+                
+
+
+
+                    How to determine the optimal lag length in time series?
+                
+
+
+
+                    Are there statements so self-evident that writing a proof for them is meaningless? Is this an example of one?
+                
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    Thought experiment regarding gravity
+                
+
+
+
+                    Non-universal and non classically simulatable gate set?
+                
+
+
+
+                    What do we mean when we say the CMB has a temperature and how do we measure it?
+                
+
+
+
+                    Formula to return row pairs of data based on number in second row
+                
+
+
+
+                    "Better break out the weapons" before the leave the ship and explore the planet -- what kind?
+                
+
+
+
+                    Is it known that the the sequence 7n+1 would diverge starting with 7?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

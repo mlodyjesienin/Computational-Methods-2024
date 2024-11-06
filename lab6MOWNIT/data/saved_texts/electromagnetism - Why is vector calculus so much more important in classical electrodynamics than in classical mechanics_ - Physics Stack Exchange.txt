@@ -1,0 +1,1360 @@
+
+
+
+
+electromagnetism - Why is vector calculus so much more important in classical electrodynamics than in classical mechanics? - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+Why is vector calculus so much more important in classical electrodynamics than in classical mechanics?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+1 year, 1 month ago
+
+
+Modified
+1 year, 1 month ago
+
+
+Viewed
+                        303 times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            -3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+In this question "vector calculus" refers to the integration and differentiation of vector fields.
+Why is vector calculus so much more important in classical electrodynamics than in classical mechanics?
+I'm not looking for answers such as "there are these formulas which are prominent in electrodynamics and those formulas use vector calculus", because my question essentially is: what is fundamental about electrodynamics compared to mechanics that would require such formulas to appear in it in the first place?
+In other words, what fundamental physical fact that separates the forces of electrodynamics from those of mechanics makes it likely that in the formulas of the electrodynamical model vector calculus will make an appearance?
+
+
+
+
+electromagnetismclassical-mechanicsvector-fields
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 19, 2023 at 17:18
+
+
+
+
+
+Dan
+
+
+
+
+
+
+
+
+
+            asked Apr 19, 2023 at 16:42
+
+
+
+
+
+
+DanDan
+
+11133 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+9
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+I think this may be a bit opinion-based. You'll find that an important metric is the number of degrees of freedom. For example, many coupled harmonic oscillators will yield motion well-described by partial differential equations of multivariable calculus. Stress and strain, which I often imagine as being in the field of classical mechanics, give rise to equations of motion that are tensorial in nature. So I think you'll find that classical mechanics with many d.o.f. is closer to electrodynamics than you think! Indeed, classical electrodynamics is a classical field theory (infinite d.o.f.)
+$\endgroup$
+
+– user196574
+
+Apr 19, 2023 at 16:54
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+Who says vectors are not important in classical mechanics? Velocity, momentum, angular momentum, etc. are all vector quantities.
+$\endgroup$
+
+– Avantgarde
+
+Apr 19, 2023 at 17:10
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@Avantgarde Vector calculus in the sense of "differentiation and integration of vector fields". On the first page of my electrodynamics book there is a review of vector calculus. On the first page of the mechanics book by the same author there is no such review. I'm looking for the essence of this fact. I'm not saying vectors are not important in mechanics.
+$\endgroup$
+
+– Dan
+
+Apr 19, 2023 at 17:13
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@PM2Ring I think this is the only commonly used meaning of that term, "vector calculus"? But I can edit it in if you think this is helpful.
+$\endgroup$
+
+– Dan
+
+Apr 19, 2023 at 17:16
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Given the many downvotes I figure this is not considered a good question in this site, probably because it doesn't seem to be well researched. That might be somewhat true, but on this site I could not find any answer to my question, and doesn't that in itself make it a good question? My question is from the point of view of a layman. The answers I was given by the experts pointed me in the right direction for further learning and so the question was definitely beneficial to me. Thanks for all the answers (and comments).
+$\endgroup$
+
+– Dan
+
+Apr 20, 2023 at 0:43
+
+
+
+
+
+
+
+ | 
+Show 4 more comments
+
+
+
+
+
+
+
+
+
+
+                                        3 Answers
+                                    3
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            4
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Vector calculus is necessary when describing the dynamics of fields, which are described mathematically as functions of several variables (usually spatial coordinates and time). The electric and magnetic fields are typically the first example of dynamical fields that you encounter during your physics education. In classical particle mechanics, the fundamental dynamical variables are the particle's position and momentum, which are functions of only one variable (i.e. time) and so vector calculus is not necessary.
+Vector calculus does appear in classical particle mechanics in the sense that particles often interact with background fields, but because those fields typically don't evolve with time it is often not necessary to do any intensive vector calculus with them, as you would if you had to study their evolution equations.
+With that being said, the premise of the question is not necessarily true from a more advanced perspective. Continuum mechanics (e.g. fluid dynamics or elastodynamics) falls under the general heading of classical mechanics, but is also fundamentally a theory of fields and requires quite a lot of vector and tensor calculus. Classical statistical mechanics and thermodynamics also make use of vector calculus in a generalized sense, where the "fields" in question are no longer necessarily functions of spatial coordinates.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Apr 19, 2023 at 17:05
+
+
+
+
+
+
+J. MurrayJ. Murray
+
+70k55 gold badges9393 silver badges197197 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+No, when it comes to fluids, say, or if you are interested in the internal motion of extended objects, or if you are interested in the general behaviour of a family of systems i.e. all the different energies, not just the single one specific to one instantiation thereof, vector calculus also becomes important to classical mechanics.
+It is just that we are often just trying to teach the basics in classical mechanics, and exploiting conservation of momentum and energy and angular momentum and assuming rigid bodies, that the complicated equations simplify.
+It is also the case that in electrodynamics we care about the fields in the vacuum of space, where the fields are not constant. In the gravitational case we often just do it with the gravitational potential and rarely need the full blown gravitational field. The electrostatic potential came from people having already studied the gravitational potential and field cases, and they realised those same ideas applied to electrostatics too.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Apr 19, 2023 at 17:00
+
+
+
+
+
+
+naturallyInconsistentnaturallyInconsistent
+
+9,0551717 silver badges3636 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Classical electrodynamics is a field theory. It describes the electric and magnetic fields as vector fields. Thus, vector calculus is so important in classical electrodynamics.
+Vector calculus is needed to describe any theory involving fields. Representing some quantity as a field may help to develop intuition. Thus, vector calculus can also be used in classical mechanics if using a "field interpretation" is more intuitive than the alternatives for that particular problem. Example- fluid mechanics; Cartan's theory of gravity.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 19, 2023 at 18:49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Apr 19, 2023 at 16:49
+
+
+
+
+
+
+        user355398user355398
+
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Thanks. In a sense this seems circular to me. Why is it a field theory and classical mechanics is not? Maybe that is basically my question. Maybe it is more of a philosophical question than a physical one, so I'm not sure it has a good answer.
+$\endgroup$
+
+– Dan
+
+Apr 19, 2023 at 16:52
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Cartan theory is a field theory for Newtonian gravity. We can just define a quantity, express it as a vector field and use it to perform calculations. It is a matter of interpretation and intuition.
+$\endgroup$
+
+– user355398
+
+Apr 19, 2023 at 16:59
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to Physics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged electromagnetismclassical-mechanicsvector-fields or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+4
+
+Energy in an EM wave should depend on frequency
+
+
+
+13
+
+Can dimension analysis be used in developing more advanced physics equations?
+
+
+
+4
+
+Why shouldn't the equations of motion in classical mechanics be first order?
+
+
+
+31
+
+Are Maxwell's laws mathematically precise?
+
+
+
+0
+
+A question about Vector Calculus in Electrodynamics
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    what does the word of seven book- length means
+                
+
+
+
+                    Can I have a vacation to Canada, while living in France for 3 months?
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    Is cellulose, blown-in insulation biodegradeable?
+                
+
+
+
+                    Meaning of にしておく here
+                
+
+
+
+                    What rights do I have to improve upon patented inventions?
+                
+
+
+
+                    Can you cite parts of a case if the core issues in the case were later overruled?
+                
+
+
+
+                    What is the maximum number of fish possible in your tank?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    Latex: Want to Use marathi font and English font
+                
+
+
+
+                    Having friends who are talented is great, but it can also be ___ at times
+                
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    Preventing Javascript in a browser from connecting to servers
+                
+
+
+
+                    Geometry Nodes - Fill Quadrilaterals That Intersect
+                
+
+
+
+                    How to determine the optimal lag length in time series?
+                
+
+
+
+                    Has there ever been arms supply with restrictions attached prior to the current war in Ukraine?
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+                    Does it make sense for giants to use clubs or swords when fighting non-giants?
+                
+
+
+
+                    Sum of square roots (as an algebraic number)
+                
+
+
+
+                    Was it known in ancient Rome and Greece that boiling water made it safe to drink and if so, what was the theory behind this?
+                
+
+
+
+                    How to create a `\gtrsimless` symbol?
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

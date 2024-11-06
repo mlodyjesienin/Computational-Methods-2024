@@ -1,0 +1,452 @@
+
+
+
+Introduction to group theory: Introduction | OpenLearn - Open University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Open University
+Guest user   / Sign out
+Study with The Open University
+
+
+
+
+
+
+Close
+            OpenLearn will be offline for scheduled maintenance from 8am to 10am on Wednesday 20 March.
+        
+
+
+
+
+
+
+
+
+The Open University
+Guest user   / Sign out
+Study with The Open University
+
+
+
+
+
+
+Close
+            OpenLearn will be offline for scheduled maintenance from 8am to 10am on Wednesday 20 March.
+        
+
+
+
+
+
+
+
+ 
+
+
+
+
+header search
+Search for
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Home
+Free courses
+Subjects
+Study skills
+Work skills
+Help
+Sign in
+
+
+
+
+
+Create account / Sign in
+
+ 
+
+
+
+
+
+
+
+
+
+
+The Open University
+Guest user   / Sign out
+Study with The Open University
+
+
+
+
+
+
+Close
+            OpenLearn will be offline for scheduled maintenance from 8am to 10am on Wednesday 20 March.
+        
+
+
+
+
+
+
+
+
+
+
+Home
+Free courses
+Subjects
+Study skills
+Work skills
+Help
+Sign in
+
+
+
+Menu
+
+
+
+
+
+
+
+
+sticky search
+Search for
+
+
+
+Search
+
+
+
+
+
+
+My OpenLearn Profile
+
+Personalise your OpenLearn profile, save your favourite content and get recognition for your learning
+
+Create account / Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+SubjectsScience, Maths & TechnologyFree coursesIntroduction to group theory
+
+
+
+
+
+
+
+
+
+About this free course
+
+About this free course
+
+
+
+16 hours study
+
+
+
+Level 2: Intermediate
+
+
+
+                 Full course description
+            
+
+Become an OU studentBecome an OU studentBSc (Honours) MathematicsBA/BSc (Honours) Open degreeDiscovering mathematicsShare this free courseShare this free courseShare on FacebookShare on TwitterShare on LinkedInShare via Email
+Create your free OpenLearn profileAnyone can learn for free on OpenLearn, but signing-up will give you access to your personal learning profile and record of achievements that you earn while you study.Sign up now for freeSign up now for free
+
+NewsletterSign up for our regular newsletter to get updates about our new free courses, interactives, videos and topical content on OpenLearn.Newsletter sign-up
+
+ 
+
+
+
+
+
+
+Course content
+
+
+
+Course content
+
+
+
+Introduction to group theoryStart this free course now. Just create an account and sign in. Enrol on the course to track your learning.Create account / Sign inMore free courses
+
+
+
+
+
+
+Introduction to group theoryIntroductionPlease note: a Statement of Participation is not issued for this course.This free OpenLearn course, Introduction to group theory, is an extract from the Open University course M208 Pure mathematics [Tip: hold Ctrl and click a link to open it in a new tab. (Hide tip)] , a second level course that introduces the three main branches of pure mathematics, namely group theory, analysis and linear algebra. Proofs are a vital part of pure mathematics. Students studying M208 are expected to read through a number of proofs to improve understanding of the course material and to develop mathematical skills, including producing convincing arguments and problem solving.Introduction to group theory consists of material from M208 Unit GTA1, Symmetry, and has five sections in total. You should set aside between three to four hours to study each of the sections; the main content though is in the first three sections, so you may want to spend a bit longer on these three sections. The whole extract should take about 16 hours to study. The extract is a small part (around 5%) of a large course that is studied over eight months, and so can give only an approximate indication of the level and content of the full course. In this extract, the concept of a group is introduced using the idea of symmetry. It is relatively self-contained and should be reasonably easy to understand for someone who has not studied any of the previous texts in the course. However, a few techniques and definitions taught in earlier units in M208 are present in the extract without explanation. Mathematical/statistical content at the Open University is usually provided to students in printed books, with PDFs of the same online. This format ensures that mathematical notation is presented accurately and clearly. The PDF of this extract thus shows the content exactly as it would be seen by an Open University student. However, the extract isn't entirely representative of the module materials, because there are no explicit references to use of the M208 video material (although please note that the PDF may contain references to other parts of M208). In this extract, some illustrations have also been removed due to copyright restrictions.Regrettably, mathematical and statistical content in PDF form is not accessible using a screenreader, and you may need additional help to read these documents.Section 1 introduces the set of symmetries of a two-dimensional figure using intuitive ideas of symmetry. These symmetries are then viewed as functions that can be combined under composition. The resulting structure has properties known as closure, identity, inverses and associativity.Section 2 introduces you to an algebraic notation for recording symmetries. Towards the end of the section you will see how to use the notation to calculate composites of symmetries and the inverse of a symmetry.Section 3 introduces definitions of a group, an Abelian group and order of a group. You will also see how to check the axioms for a group. The examples of groups used are extended to include groups of numbers – the modular arithmetics, the integers and the real numbers.Section 4 looks at how to prove that some of the properties of groups appearing earlier in the extract are general properties shared by all groups.Section 5 extends ideas of symmetry to three-dimensions.This OpenLearn course is an adapted extract from the Open University course M208 Pure mathematics.Next Learning outcomes
+
+
+
+
+
+
+
+
+
+Print
+
+
+
+Take your learning furtherTake your learning furtherMaking the decision to study can be a big step, which is why you’ll want a trusted University. We’ve pioneered distance learning for over 50 years, bringing university to you wherever you are so you can fit study around your life. Take a look at all Open University courses.If you’re new to university-level study, read our guide on Where to take your learning next, or find out more about the types of qualifications we offer including entry level
+ Access modules, Certificates, and Short Courses.Want to achieve your ambition?  Study with us and you’ll be joining over 2 million students who’ve achieved their career and personal goals with The Open University.
+Browse all Open University courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ Back to top
+
+ 
+
+
+footer Menu
+
+
+About OpenLearn
+
+
+
+                                                        About us
+
+
+
+                                                        Frequently asked questions
+
+
+
+                                                        Study with The Open University
+
+
+
+                                                        Subscribe to our newsletter
+
+
+
+                                                        Contact OpenLearn
+
+
+
+                                                        OpenLearn Create
+
+
+
+                                                        OpenLearn Cymru
+
+
+
+
+Explore subjects
+Money & BusinessEducation & DevelopmentHealth, Sports & PsychologyHistory & The ArtsLanguagesNature & EnvironmentScience, Maths & TechnologySociety, Politics & LawDigital & Computing
+
+
+Explore resources
+
+
+
+                                                        Get started
+
+
+
+                                                        Latest from OpenLearn
+
+
+
+                                                        Try something popular
+
+
+
+                                                        Free courses
+
+
+
+                                                        Study skills
+
+
+
+                                                        Work skills
+
+
+
+                                                        My OpenLearn Profile
+
+
+
+                                                        Resources for schools
+
+
+
+
+
+
+
+
+Our partners
+
+OpenLearn works with other organisations by providing free courses and resources that support our mission of opening up educational opportunities to more people in more places.
+
+                                        Find out more
+
+                                        Support us
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+©1999-2024. All rights reserved. The Open University is incorporated by Royal Charter (RC 000391), an exempt charity in England & Wales and a charity registered in Scotland (SC 038302). The Open University is authorised and regulated by the Financial Conduct Authority in relation to its secondary activity of credit broking.
+
+
+Accessibility
+
+
+Conditions of use
+
+
+Privacy and cookies
+
+
+Modern Slavery Act
+
+
+Copyright
+
+
+Manage cookie preferences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1189 @@
+
+
+
+
+research - What sort of mathematical problems are there in AI that people are working on? - Artificial Intelligence Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Artificial Intelligence
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Artificial Intelligence Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Jobs
+
+
+
+
+
+
+ Companies
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What sort of mathematical problems are there in AI that people are working on?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+4 years, 11 months ago
+
+
+Modified
+3 years, 4 months ago
+
+
+Viewed
+                        3k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            14
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I recently got a 18-month postdoc position in a math department. It's a position with relative light teaching duty and a lot of freedom about what type of research that I want to do.
+Previously I was mostly doing some research in probability and combinatorics. But I am thinking of doing a bit more application oriented work, e.g., AI. (There is also the consideration that there is good chance that I will not get a tenure-track position at the end my current position. Learn a bit of AI might be helpful for other career possibilities.)
+What sort of mathematical problems are there in AI that people are working on? From what I heard of, there are people studying
+
+Deterministic Finite Automaton
+Multi-armed bandit problems
+Monte Carlo tree search
+Community detection
+
+Any other examples?
+
+
+
+
+researchmath
+
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 21, 2019 at 20:30
+
+
+
+
+
+
+nbro
+
+40.9k1212 gold badges107107 silver badges195195 bronze badges
+
+
+
+
+
+
+
+
+            asked Jun 21, 2019 at 9:37
+
+
+
+
+
+
+LeafGlowPathLeafGlowPath
+
+26122 silver badges88 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+Optimization. Probably is the most impactful field to AI ML.  Proof of convergence, like in reinforcement learning, is lacking.
+$\endgroup$
+
+– drerD
+
+Jun 21, 2019 at 11:47
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        3 Answers
+                                    3
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            14
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+In artificial intelligence (sometimes called machine intelligence or computational intelligence), there are several problems that are based on mathematical topics, especially optimization, statistics, probability theory, calculus and linear algebra.
+Marcus Hutter has worked on a mathematical theory for artificial general intelligence, called AIXI, which is based on several mathematical and computation science concepts, such as reinforcement learning, probability theory (e.g. Bayes theorem and related topics) measure theory, algorithmic information theory (e.g. Kolmogorov complexity), optimisation, Solomonoff induction, universal Levin search and theory of compution (e.g. universal Turing machines). His book Universal Artificial Intelligence: Sequential Decisions based on Algorithmic Probability, which is a highly technical and mathematical book, describes his theory of optimal Bayesian non-Markov reinforcement learning agents. Here I list other similar works.
+There is also the research field called computational learning theory, which is devoted to studying the design and analysis of machine learning algorithms (from a statistical perspective, known as statistical learning theory, or algorithmic perspective, algorithmic learning theory). More precisely, the field focuses on the rigorous study and mathematical analysis of machine learning algorithms using techniques from fields such as probability theory, statistics, optimization, information theory and geometry. Several people have worked on the computational learning theory, including Michael Kearns and Vladimir Vapnik.
+There is also a lot of research effort dedicated to approximations (heuristics) of combinatorial optimization and NP-complete problems, such as ant colony optimization.
+There is also some work on AI-completeness, but this has not received much attention (compared to the other research areas mentioned above).
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jan 31, 2021 at 13:40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Jun 21, 2019 at 14:48
+
+
+
+
+
+
+nbronbro
+
+40.9k1212 gold badges107107 silver badges195195 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+0
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Most of the math work being done in AI that I'm familiar with is already covered in nbro's answer. One thing that I do not believe is covered yet in that answer is proving algorithmic equivalence and/or deriving equivalent algorithms. One of my favourite papers on this is Learning to Predict Independent of Span by Hado van Hasselt and Richard Sutton.
+The basic idea is that we may first formulate an algorithm (in math form, for instance some update rules/equations for parameters that we're training) in one way, and then find different update rules/equations (i.e. a different algorithm) for which we can prove that it is equivalent to the first one (i.e. always results in the same output). 
+A typical case where this is useful is if the first algorithm is easy to understand / appeals to our intuition / is more convenient for convergence proofs or other theoretical analysis, and the second algorithm is more efficient (in terms of computation, memory requirements, etc.).
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jun 21, 2019 at 15:27
+
+
+
+
+
+
+Dennis Soemers♦Dennis Soemers
+
+10.3k22 gold badges2626 silver badges7070 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Specifically for mathematical apparatus of Neural Networks - random matrix theory.  Non-asymptotic random matrix theory was used in some proofs of convergence of gradient descent for Neural Networks, high dimensional random landscapes in connection to Hessian spectrum have relation to loss surfaces of Neural Networks.
+Topological data analysis is another area of intense research related to ML, AI and applied to Neural Networks.
+There were some works on Tropical Geometry of Neural Networks
+Homotopy Type Theory also have connection to AI
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jun 22, 2019 at 7:44
+
+
+
+
+
+
+mirror2imagemirror2image
+
+72577 silver badges1515 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+                                    You must log in to answer this question.
+                                
+
+
+Not the answer you're looking for? Browse other questions tagged researchmath.                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+10
+
+What are some resources on computational learning theory?
+
+
+
+5
+
+Mathematical foundations of the ability to learn
+
+
+
+0
+
+Are there other mathematical frameworks of artificial general intelligence apart from AIXI?
+
+
+
+
+Related
+
+
+
+11
+
+What are the mathematical prerequisites to be able to study artificial general intelligence?
+
+
+
+19
+
+What are the mathematical prerequisites for an AI researcher?
+
+
+
+2
+
+Is there a mathematical example for Conditional Random Fields?
+
+
+
+2
+
+What are some simple open problems in multi-agent RL that would be suited for a bachelor's thesis?
+
+
+
+2
+
+What are the challenges faced by using NLP to convert mathematical texts into formal logic?
+
+
+
+3
+
+What are the mathematical properties of natural exponential function that lead to its usefulness in artificial intelligence?
+
+
+
+1
+
+Is there a mathematical proof that a binary neural network can approximate any function with arbitrary accuracy?
+
+
+
+3
+
+What will happen if to train an LLM on mathematical exersises?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Are there statements so self-evident that writing a proof for them is meaningless? Is this an example of one?
+                
+
+
+
+                    Is this deck post getting cracks due to overloaded?
+                
+
+
+
+                    Difference between conflicted and ambivalent?
+                
+
+
+
+                    Have any countries managed to reduce immigration by a significant margin in the absence of economic problems?
+                
+
+
+
+                    70s or 80s film or TV show with a handgun that fires backwards and a torture chamber that burns the skin off and chars the victims black
+                
+
+
+
+                    Can someone explain this unexpected construction?
+                
+
+
+
+                    How to explain Hazard Ratio in layman‘s terms
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Is there a "weak" fundamental theorem of algebra for matrices?
+                
+
+
+
+                    Can someone explain the damage distrubution on this aircraft that flew through a hailstorm?
+                
+
+
+
+                    How to determine the optimal lag length in time series?
+                
+
+
+
+                    Book where the populace is split between two sects, that of the “hand” and that of the “mind"
+                
+
+
+
+                    How do you load a regtest wallet?
+                
+
+
+
+                    Structure that holds the twin-engine on an aircraft
+                
+
+
+
+                    Why is finding a mathematical basis for the fine-structure constant meaningful?
+                
+
+
+
+                    Latex: Want to Use marathi font and English font
+                
+
+
+
+                    Is the B-theory of time only compatible with an infinitely renewing cyclical reality?
+                
+
+
+
+                    Is cellulose, blown-in insulation biodegradeable?
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+                    Is there a phrase like "etymologically related" but for food?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    Should I ask for authorship or ignore?
+                
+
+
+
+                    Can you use the special use features with tools without the tool?
+                
+
+
+
+                    In the Unabomber case, was "call Nathan R" really mistakenly written by a New York Times intern?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial Intelligence
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

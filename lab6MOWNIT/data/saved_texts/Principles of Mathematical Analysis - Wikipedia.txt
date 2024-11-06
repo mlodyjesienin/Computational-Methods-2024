@@ -1,0 +1,456 @@
+
+
+
+
+Principles of Mathematical Analysis - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Contents
+
+
+
+
+
+
+
+
+3
+References
+
+
+
+
+
+
+
+
+4
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Principles of Mathematical Analysis
+
+
+
+Add languages
+
+
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Mathematical analysis textbook
+Principles of Mathematical Analysis Third editionAuthorWalter RudinLanguageEnglishSubjectReal analysisGenreTextbookPublished1953PublisherMcGraw Hill
+Principles of Mathematical Analysis, colloquially known as "PMA" or "Baby Rudin,"[1] is an undergraduate real analysis textbook written by Walter Rudin. Initially published by McGraw Hill in 1953, it is one of the most famous mathematics textbooks ever written.
+
+
+History[edit]
+As a C. L. E. Moore instructor, Rudin taught the real analysis course at MIT in the 1951–1952 academic year.[2][3] After he commented to W. T. Martin, who served as a consulting editor for McGraw Hill, that there were no textbooks covering the course material in a satisfactory manner, Martin suggested Rudin write one himself. After completing an outline and a sample chapter, he received a contract from McGraw Hill. He completed the manuscript in the spring of 1952, and it was published the year after. Rudin noted that in writing his textbook, his purpose was "to present a beautiful area of [m]athematics in a well-organized readable way, concisely, efficiently, with complete and correct proofs. It was an [a]esthetic pleasure to work on it."[2]
+The text was revised twice: first in 1964 (second edition) and then in 1976 (third edition).  It has been translated into several languages, including Russian, Chinese, Spanish, French, German, Italian, Greek, Persian, Portuguese, and Polish.
+
+Contents[edit]
+Rudin's text was the first modern English text on classical real analysis, and its organization of topics has been frequently imitated.[1] In Chapter 1, he constructs the real and complex numbers and outlines their properties. (In the third edition, the Dedekind cut construction is sent to an appendix for pedagogical reasons.) Chapter 2 discusses the topological properties of the real numbers as a metric space. The rest of the text covers topics such as continuous functions, differentiation, the Riemann–Stieltjes integral, sequences and series of functions (in particular uniform convergence), and outlines examples such as power series, the exponential and logarithmic functions, the fundamental theorem of algebra, and Fourier series. After this single-variable treatment, Rudin goes in detail about real analysis in more than one dimension, with discussion of the implicit and inverse function theorems, differential forms, the generalized Stokes theorem, and the Lebesgue integral.[4]
+
+References[edit]
+
+
+^ a b Locascio, Andrew (13 August 2007). "Book Review: Principles of Mathematical Analysis". Mathematical Association of America. Retrieved 6 March 2022.
+
+^ a b Rudin, Walter (1997). The way I remember it. Providence, R.I.: American Mathematical Society. pp. 109–110. ISBN 0-8218-0633-5. OCLC 35043932.
+
+^ Course Catalogue of the Massachusetts Institute of Technology 1951 - 1952. 1951.
+
+^ Rudin, Walter (1976). Principles of mathematical analysis (Third ed.). New York: McGraw-Hill. ISBN 0-07-054235-X. OCLC 1502474.
+
+
+External links[edit]
+Principles of Mathematical Analysis at McGraw-Hill Education
+Supplemental comments and exercises to Chapters 1-7 of Rudin, written by George Bergman
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Principles_of_Mathematical_Analysis&oldid=1221659929"
+Categories: Mathematical analysisMathematics textbooksHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 1 May 2024, at 06:52 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

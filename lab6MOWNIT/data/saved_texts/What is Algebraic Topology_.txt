@@ -1,0 +1,131 @@
+
+
+
+What is Algebraic Topology?
+
+
+
+WHAT IS ALGEBRAIC TOPOLOGY?
+
+
+
+ 
+THE BEGINNINGS OF ALGEBRAIC TOPOLOGY
+Algebraic topology is a twentieth century field of mathematics that
+can trace its origins and connections back to the ancient beginnings of
+mathematics. For example, if you want to determine the number of possible
+regular solids, you use something called the Euler characteristic which
+was originally invented to study a problem in graph theory called the Seven
+Bridges of Konigsberg. Can you cross the seven bridges without retracing
+your steps? No and the Euler characteristic tells you so. Later, Gauss defined
+the so-called linking number, a precise invariant which tells you whether
+two circles are linked. It is called an invariant because it remains the
+same even if we continuously deform the geometric object. Gauss also found
+a relationship between the total curvature of a surface and the Euler characteristic.
+All of these ideas are bound together by the central idea that continuous
+geometric phenomena can be understood by the use of discrete invariants.
+
+One of the strengths of algebraic topology has always been its wide
+degree of applicability to other fields. Nowadays that includes fields like
+physics, differential geometry, algebraic geometry, and number theory. As
+an example of this applicability, here is a simple topological proof that
+every nonconstant polynomial p(z) has a complex zero. Consider a circle
+of radius R and center at the origin of the complex plane. The polynomial
+transforms this into a closed curve in the complex plane. If this image
+curve ever passes through the origin, we have our zero. Well, suppose the
+radius R is very large. Then the highest power of p(z) dominates and hence
+p(z) transforms the circle into a curve which winds around the origin the
+same number of times as the degree of p(z). This is called the winding number
+of the curve around the origin. It is always an integer and it is defined
+for every closed curve which does not pass through the origin. If we deform
+the curve, the winding number has to vary continuously but, since it is
+constrained to be an integer, it cannot change and must be a constant unless
+the curve is deformed through the origin. Now deform the image curve by
+shrinking the radius R to zero and suppose that the image curve never passes
+through the origin, that is to say that we never get the zero of the polynomial.
+The image curve gets very small, hence must have winding number 0 around
+the origin unless it is shrinking to the origin. If the image curve is shrinking
+to the origin, the origin is a zero. If not, the winding number is 0 which
+means that the polynomial must have degree 0, in other words, it is a constant.
+
+The winding number of a curve illustrates two important principles
+of algebraic topology. First, it assigns to a geometric odject, the closed
+curve, a discrete invariant, the winding number which is an integer. Second,
+when we deform the geometric object, the winding number does not change,
+hence, it is called an invariant of deformation or, synomynously, an invariant
+of homotopy.
+ 
+
+THE TWENTIETH CENTURY VIEWPOINT
+Modern algebraic topology is the study of the global properties of
+spaces by means of algebra. Poincare' was the first to link the study of
+spaces to the study of algebra by means of his fundamental group. This is
+a generalization of the concept of winding number which applies to any space.
+To get an idea of what algebraic topology is about, think about the
+fact that we live on the surface of a sphere but locally this is difficult
+to distinguish from living on a flat plane. One way of telling that we live
+on a sphere is to measure the sum of the three angles of a triangle. For
+a small triangle, it is slightly more than 180 degrees. For a large triangle,
+it is much more. This tells us that we live on a surface with what is called
+positive curvature. But, since we can use small triangles, this is a local
+property, not a global one. It properly belongs to the field known as differential
+geometry. Algebraic topology is concerned with the whole surface and points
+to the obvious fact that the surface of a sphere is a finite area with no
+boundary and the flat plane does not have this property. It expresses this
+fact by assigning invariant groups to these and other spaces. Usually, these
+groups are something called homotopy groups or another kind called homology
+groups. The groups are invariant in the sense that they do not change if
+the space is continuously deformed. The sphere is assigned an infinite group
+which is a measure of the fact that the sphere has a hole in it and the
+plane is assigned the zero group because it does not. The fact that these
+groups are different tells us that the spaces are fundamentally globally
+different. No doubt about it. Algebraic topology includes but is not confined
+to the study of spaces of dimensions only two or three. It includes, for
+example, the contemplation of the shape of the three dimensional universe
+itself or even the contemplation of the shape of the four dimensional space-time.
+
+The concept of continuous deformation can be illustrated by the following
+examples. Consider a coffee cup (with a handle) and a donut. If they are
+both made of some pliable substance like modeling clay, they can be deformed
+continuously (without ripping them apart into pieces) one into the other.
+This means that they have the same homotopy and homology groups, that is,
+the homotopy groups and the homology groups are invariant. On the other
+hand, a donut cannot be continuously deformed into a sphere. This means
+that their homotopy and homology groups can be different and they are.
+
+WHAT ARE HOMOTOPY GROUPS?
+
+N-dimensional spheres, or more generally, n-dimensional manifolds
+(the torus is an example of a two dimensional manifold which is not a sphere)
+play a central role. One of the ways in which spheres interact with each
+other is via continuous functions with domain one sphere of dimension k
+and range another sphere of dimension n. Such functions are called homotopic
+if there is a continuous deformation of one into the other. If we regard
+homotopic functions are being equivalent, we can make them into the algebraic
+object called a group, more precisely a homotopy group and, in the case
+we mentioned above, it is called the k-th homotopy group of the n-dimensional
+sphere. Precise information about these groups have been obtained. One of
+the most important properties of any group is the number of times a member
+of it must be added to itself before it becomes trivial (represented by
+the constant function in the case of homotopy groups). This is called the
+order of the member of the group. For example, if one takes the homotopy
+groups of the 3-dimensional sphere, one can find members of these groups
+with order 4 but not 8, with order 3 but not 9, with order 5 but not 25,
+etc. If one takes the homotopy groups of the 5-dimensional sphere, one can
+find members with order 8 but not 16, with order 9 but not 27, with order
+25 but not 125, etc. This is true no matter how large the dimension of the
+domain sphere is. These facts were discovered in the late 1970s by three
+people who are now or have been at the University of Rochester. It is called
+the Cohen-Moore-Neisendorfer Theorem. 
+
+
+ 
+GO BACK HOME 
+
+ 
+ 
+ 
+ 
+ 
+
+

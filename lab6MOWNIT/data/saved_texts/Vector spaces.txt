@@ -1,0 +1,2614 @@
+
+
+
+
+
+
+
+
+
+
+
+Vector spaces
+
+
+
+
+
+Site
+
+
+home
+
+
+contents
+
+
+index
+
+
+glossary
+
+
+bibliography
+
+
+
+
+This page
+
+
+
+Scripts
+
+
+collapse proofs
+
+
+expand proofs
+
+
+print
+
+
+
+
+Vector spaces
+
+
+1. Preliminaries: the theory of vector spaces over a field
+
+Throughout this section we fix a field 
+K
+ and using this define
+a first-order language 
+
+L
+K
+
+ for 
+K
+-vector spaces (or 
+left 
+K
+-modules) as follows.  
+
+L
+K
+
+ has all the usual
+logical symbols from first-order logic as well as a constant symbol 
+
+0
+ for the zero vector, a binary function symbol 
++
+ for
+vector addition, a unary  function symbol 
+-
+ for additive inverse
+of vectors, and for each 
+Î»
+∈
+K
+ a unary function symbol
+
+
+s
+Î»
+
+ for scalar mulitiplication by 
+Î»
+.
+
+
+In this language we axiomatise the notion of 
+K
+-vector space
+of positive dimension. The axioms are,
+
+
+Axioms for an abelian group:
+
+
+
+∀
+x
+
+
+∀
+y
+
+
+∀
+z
+
+(
+x
++
+(
+y
++
+z
+)
+=
+(
+x
++
+y
+)
++
+z
+)
+
+
+
+
+
+∀
+x
+
+
+∀
+y
+
+(
+x
++
+y
+=
+y
++
+x
+)
+
+
+
+
+
+∀
+x
+
+(
+x
++
+0
+=
+x
+)
+
+
+
+
+
+∀
+x
+
+(
+x
++
+(
+-
+x
+)
+=
+0
+)
+
+
+
+
+Axioms for scalar multiplication:
+
+
+
+∀
+x
+
+(
+
+s
+Î»
+
+(
+
+s
+Î¼
+
+(
+x
+)
+)
+=
+
+s
+
+Î»
+Î¼
+
+
+(
+x
+)
+)
+, for all 
+Î»
+,
+Î¼
+∈
+K
+
+
+
+
+
+∀
+x
+
+(
+
+s
+Î»
+
+(
+x
+)
++
+
+s
+Î¼
+
+(
+x
+)
+=
+
+s
+
+(
+Î»
++
+Î¼
+)
+
+
+(
+x
+)
+)
+, for all 
+Î»
+,
+Î¼
+∈
+K
+
+
+
+
+
+∀
+x
+
+(
+
+s
+Î»
+
+(
+x
++
+y
+)
+=
+
+s
+Î»
+
+(
+x
+)
++
+
+s
+Î»
+
+(
+x
+)
+)
+, for all 
+Î»
+∈
+K
+
+
+
+
+
+∀
+x
+
+(
+
+s
+1
+
+(
+x
+)
+=
+x
+)
+
+
+
+
+
+
+Observe that there is no quantification over the field 
+K
+, and to avoid this
+disallowed quantification we need infinitely many axioms, at least if the field 
+K
+
+is infinite. However, the axioms above are all first order and (apart from the last) are all universal 
+(i.e. the only quantifier present is 
+∀
+ and this only appears positively). 
+It is immediate therefore that a substructure of a 
+K
+-vector space (as presented in 
+this language) is also a  
+K
+-vector space.
+
+
+Exercise.
+
+Check you understand the comment about substructures of a 
+K
+-vector space.
+In particular, with this choice of language, what closure conditions are implicit in 
+the notion of a substructure?
+
+
+
+Because the notation 
+
+s
+Î»
+
+(
+x
+)
+ is rather cumbersome and not in line with
+normal notation, we shall write it as 
+Î»
+x
+.  It is important therefore to
+keep in mind which numbers are elements of the field, and which are vectors.
+
+
+We use the notation 
+
+T
+
+VS
+
+
+(
+K
+)
+ for the theory of vector spaces
+over 
+K
+, i.e. the 
+
+L
+K
+
+-theory just given.
+
+
+It is not clear at this stage how to specify in a first-order way the dimension of the
+vector space.  We can, however, easily describe the case when the dimension is not zero,
+i.e. the space is not trivial:
+
+
+∃
+
+x
+
+â
+
+¬
+
+(
+x
+=
+0
+)
+
+
+
+
+
+
+Exercise.
+
+If 
+K
+ is finite there are finitely many axioms listed above.  Show that in this
+case these axioms do not form a complete theory (even including the nontriviality axiom)
+by finding two models of the theory and exhibiting a 
+
+L
+K
+
+-sentence true in one of 
+your models and not the other.
+
+
+
+
+2. Completeness and categoricity
+
+We already know all the models of the theory  
+
+T
+
+VS
+
+
+(
+K
+)
+.  They are the
+vector spaces over 
+K
+ of dimension 
+0
+,
+1
+,
+2
+,
+3
+,
+…
+ and of infinite dimensions
+
+Îº
+ for all cardinals 
+Îº
+.  Applications of Zorn's lemma show that
+every  
+K
+-vector space has a basis and any two  
+K
+-vector spaces of the same
+dimension are isomorphic.
+
+
+We are going to use this to determine some of the elementary properties of the theory
+
+
+T
+
+VS
+
+
+(
+K
+)
+.  One of the first questions is: is it a complete theory?
+
+
+Proposition.
+
+If 
+K
+ is finite, then 
+
+T
+
+VS
+
+
+(
+K
+)
+ is not 
+complete.  In fact the consistent completions of  
+
+T
+
+VS
+
+
+(
+K
+)
+
+are 
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+k
+
+
+
+ for 
+k
+=
+
+
+K
+
+n
+
+,
+
+n
+∈
+â
+ (where 
+
+Ï
+k
+
+ says there are exactly 
+k
+
+elements, see Exercise 10.7 on page 146) and  
+
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+
+(where 
+
+Ï
+n
+
+ says there are at least 
+n
+ elements).
+
+
+
+
+Proof.
+
+
+
+If 
+
+K
+
+ is finite, then the vector space of dimension 
+n
+∈
+â
+
+has exactly 
+k
+=
+
+
+K
+
+n
+
+ elements, and any two such vector spaces of 
+dimension 
+n
+ are isomorphic. Thus  
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+k
+
+
+
+
+is consistent and categorical (has exactly one model up to isomorphism) and hence
+by a variation of Theorem 11.32 on page 171 is complete.
+
+
+Similarly, if 
+
+K
+
+ is finite, then the vector space of countably
+infinite dimension has 
+
+ℵ
+0
+
+ elements, and any countably
+infinite vector space must have dimension  
+
+ℵ
+0
+
+.  (This is 
+because, by standard results on cardinal arithmetic,
+if the dimension is 
+Îº
+>
+
+ℵ
+0
+
+ the space would have 
+
+Îº
+ elements and if the dimension is 
+Îº
+<
+
+ℵ
+0
+
+
+the space would have  
+
+
+K
+
+Îº
+
+<
+
+ℵ
+0
+
+ elements.)  Thus 
+
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+
+is consistent and 
+
+ℵ
+0
+
+-categorical and hence
+by Theorem 11.32 on page 171 is complete.
+
+
+
+
+By and large, theories with only finite models (such as
+
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+k
+
+
+
+) are uninteresting from the
+point of view of model theory.  We record a property of the interesting 
+extension of 
+
+T
+
+VS
+
+
+(
+K
+)
+ in the next proposition.
+The proof has already been given.
+
+
+Proposition.
+
+If 
+K
+ is finite, then the only
+complete extension of 
+
+T
+
+VS
+
+
+(
+K
+)
+ with infinite
+models is 
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+.
+This theory is 
+Îº
+-categorical (Definition 11.31) for all 
+infinite 
+Îº
+.
+
+
+
+If 
+K
+ is infinite, we have the following.
+
+
+Proposition.
+
+Suppose 
+K
+ is infinite. Then
+
+
+T
+
+VS
+
+
+(
+K
+)
+ is 
+Îº
+-categorical for all 
+
+Îº
+>
+max
+(
+
+K
+
+,
+
+ℵ
+0
+
+)
+ and hence is complete.
+
+
+T
+
+VS
+
+
+(
+K
+)
+ is not 
+Î»
+-categorical
+for some other infinite cardinals such as 
+Î»
+=
+
+K
+
+.
+
+
+
+
+Proof.
+
+
+
+If 
+Îº
+>
+max
+(
+
+K
+
+,
+
+ℵ
+0
+
+)
+ then by cardinal arithmetic
+every vector space of dimension 
+Îº
+ has 
+Îº
+
+elements. (Exercise: check this, using the fact that the space is in 
+one-to-one correspondence with the set of function 
+f
+:
+Îº
+→
+K
+
+of finite support.)
+Therefore 
+
+T
+
+VS
+
+
+(
+K
+)
+ is 
+Îº
+-categorical
+and hence complete.
+
+
+By cardinal arithmetic again, a space of dimension 
+n
+ (where 
+
+n
+=
+1
+,
+2
+,
+…
+,
+
+ℵ
+0
+
+) over 
+K
+ has cardinality 
+
+K
+
+.
+These are all nonisomorphic, and hence  
+
+T
+
+VS
+
+
+(
+K
+)
+ is not
+
+
+K
+
+-categorical.
+
+
+
+
+
+3. Model completeness and elimination of quantifiers
+
+Here, I want to look in detail at 
+
+T
+
+VS
+
+
+(
+K
+)
+ when 
+
+K
+ is infinite and particularly  when 
+K
+ is countably infinite 
+and also at 
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+
+when 
+K
+ is finite.  For an example of a countable field, one might take 
+the field of rational numbers, or the rational numbers extended by adding
+
+
+2
+
+.
+
+
+The specific questions to ask are how one model of the theory 
+relates to another.  In particular, if one model has dimension less than
+the other it embeds in it as a substructure.  What more can we say 
+about this embedding?
+
+
+In model theory, the "nice" embeddings are so-called elementary
+embeddings:
+
+
+Definition.
+
+Let 
+L
+ be a first order language and 
+M
+ be a 
+substructure of the 
+L
+-structure 
+N
+.  Then 
+M
+
+is an elementary substructure of 
+N
+
+, 
+
+N
+ is an elementary extension of 
+M
+
+, if the
+truth of every 
+L
+ formula is preserved from 
+M
+ to 
+N
+,
+i.e. 
+M
+â¨
+Ï
+(
+
+a
+_
+
+)
+N
+â¨
+Ï
+(
+
+a
+_
+
+)
+
+for every 
+Ï
+ and every 
+
+a
+_
+
+∈
+M
+.
+
+
+An embedding 
+f
+:
+M
+→
+N
+ of 
+L
+-structures
+is an elementary embedding if the image 
+f
+M
+ of
+
+f
+ in 
+N
+ is an elementary substructure of 
+N
+.
+
+
+
+So we want to know which embeddings, substructures, extensions of
+models of our theory of vector spaces is elementary.
+Questions like this (especially for algebraic theories like
+the current one) are often solved by elimination of quantifiers. 
+An example of elimination of quantifiers was given in Exercise 11.46.  In 
+that case, the quantifier elimination was given by a detailed construction
+by hand.  Here we will use our knowledge of the models to make life easier
+for us.  We start with some very general results that apply to all
+theories.
+
+
+Definition.
+
+A theory 
+T
+ in a first order language 
+L
+
+has elimination of quantifiers if for every formula 
+Ï
+(
+
+x
+_
+
+)
+
+of 
+L
+ there is a formula  
+Ï
+(
+
+x
+_
+
+)
+ of  
+L
+ with the
+same free variables such that 
+
+T
+â¢
+
+∀
+
+
+x
+_
+
+
+â
+
+(
+Ï
+(
+
+x
+_
+
+)
+Ï
+(
+
+x
+_
+
+)
+)
+
+
+.
+
+
+
+Not all theories have elimination of quantifiers, and some have
+elimination of quantifiers only when new functions or relations are 
+added to the language.
+
+
+Proposition.
+
+Suppose 
+T
+ is a complete 
+L
+-theory and the following
+property holds for all models 
+M
+ of 
+T
+:
+
+whenever 
+A
+ is a substructure of 
+M
+
+and 
+f
+ is an embedding from 
+A
+ onto another substructure
+
+f
+A
+ of 
+M
+ then there is 
+an elementary extension 
+N
+â¨
+T
+ of 
+M
+ 
+and an automorphism 
+h
+ of 
+N
+ such that
+
+h
+ restricted to 
+A
+ is 
+f
+.
+
+Then  
+T
+ has elimination of quantifiers.
+
+
+
+
+Proof.
+
+
+
+We assume that  
+T
+ does not have elimination of 
+quantifiers and show the condition fails.  So suppose
+
+Ï
+(
+
+x
+_
+
+)
+ is a formula not equivalent to
+any quantifier-free formula 
+Ï
+(
+
+x
+_
+
+)
+.
+Obviously we must have that 
+T
+∪
+
+
+
+
+∃
+
+
+y
+_
+
+
+â
+
+Ï
+(
+
+y
+_
+
+)
+
+
+
+
+
+
+is consistent, for else 
+Ï
+(
+
+x
+_
+
+)
+ would be 
+equivalent to 
+
+x
+1
+
+≠
+
+x
+1
+
+ or some other
+absurdity.  By completeness of 
+T
+ we may assume
+therefore that 
+T
+â¢
+
+∃
+
+
+y
+_
+
+
+â
+
+Ï
+(
+
+y
+_
+
+)
+
+
+.
+
+
+We argue that by compactness there is a model 
+M
+â¨
+T
+
+with 
+
+a
+_
+
+∈
+M
+, 
+
+b
+_
+
+∈
+M
+ such that:
+
+
+
+
+M
+â¨
+Ï
+(
+
+a
+_
+
+)
+
+
+
+
+M
+â¨
+¬
+Ï
+(
+
+b
+_
+
+)
+
+
+
+
+M
+â¨
+Ï
+(
+
+a
+_
+
+)
+Ï
+(
+
+b
+_
+
+)
+ for every quantifier-free
+     formula 
+Ï
+(
+
+x
+_
+
+)
+.
+
+
+
+Subproof.
+
+
+
+Indeed, let 
+
+Ï
+1
+
+(
+
+x
+_
+
+)
+,
+…
+,
+
+Ï
+n
+
+(
+
+x
+_
+
+)
+
+be finitely many quantifier-free formulas of 
+L
+. Let us show that
+there is a model 
+M
+â¨
+T
+ with 
+
+a
+_
+
+,
+
+b
+_
+
+∈
+M
+
+such that 
+M
+â¨
+Ï
+(
+
+a
+_
+
+)
+∧
+¬
+Ï
+(
+
+b
+_
+
+)
+
+and 
+M
+â¨
+
+Ï
+i
+
+(
+
+a
+_
+
+)
+
+Ï
+i
+
+(
+
+b
+_
+
+)
+
+for 
+i
+=
+1
+,
+…
+,
+n
+.
+
+
+Let 
+S
+ be the set of all 
+A
+⊆
+
+1
+2
+…
+n
+
+
+such that 
+T
+∪
+
+
+Ï
+(
+
+a
+_
+
+)
+
+
+∪
+
+
+
+
+
+i
+∈
+A
+
+
+
+Ï
+i
+
+(
+
+a
+_
+
+)
+∧
+
+
+
+i
+∉
+A
+
+
+¬
+
+Ï
+i
+
+(
+
+a
+_
+
+)
+
+
+ is consistent.  We shall show that if there is no model as in the
+last paragraph then the formula 
+Ï
+(
+
+x
+_
+
+)
+ defined to be 
+
+
+
+A
+∈
+S
+
+
+
+
+
+
+
+i
+∈
+A
+
+
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+∧
+
+
+
+i
+∉
+A
+
+
+¬
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+
+
+ is a quantifier-free formula equivalent in 
+T
+ to 
+Ï
+(
+
+x
+_
+
+)
+.
+Note that by the definition of the sets 
+A
+ we already have
+
+T
+â¢
+
+∀
+
+
+x
+_
+
+
+â
+
+(
+Ï
+(
+
+x
+_
+
+)
+→
+Ï
+(
+
+x
+_
+
+)
+)
+
+
+.  For
+the other direction,  if there were some 
+A
+∈
+S
+ and model of 
+T
+ with
+
+
+b
+_
+
+ such that 
+¬
+Ï
+(
+
+b
+_
+
+)
+∧
+
+
+
+i
+∈
+A
+
+
+
+Ï
+i
+
+(
+
+b
+_
+
+)
+∧
+
+
+
+i
+∉
+A
+
+
+¬
+
+Ï
+i
+
+(
+
+b
+_
+
+)
+ we'd be done, since 
+T
+â¢
+
+∃
+
+
+x
+_
+
+
+â
+
+
+Ï
+(
+
+x
+_
+
+)
+∧
+
+
+
+i
+∈
+A
+
+
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+∧
+
+
+
+i
+∉
+A
+
+
+¬
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+
+
+
+ (as by definition of 
+A
+ this is consistent with 
+T
+
+and 
+T
+ is complete so proves all sentences consistent with it).
+This means there would be some suitable 
+
+a
+_
+
+
+in the same model as 
+b
+ satisfying 
+Ï
+(
+
+a
+_
+
+)
+
+and the same 
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+ as 
+
+b
+_
+
+.  
+Otherwise (by the completeness of 
+T
+ again) 
+T
+â¢
+
+∀
+
+
+x
+_
+
+
+â
+
+
+
+¬
+Ï
+(
+
+x
+_
+
+)
+→
+¬
+
+
+
+A
+∈
+S
+
+
+
+
+
+
+
+i
+∈
+A
+
+
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+∧
+
+
+
+i
+∉
+A
+
+
+¬
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+
+
+
+
+
+
+ which gives the other direction of the equivalence, 
+T
+â¢
+
+∀
+
+
+x
+_
+
+
+â
+
+
+
+
+
+
+i
+∈
+A
+
+
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+∧
+
+
+
+i
+∉
+A
+
+
+¬
+
+Ï
+i
+
+(
+
+x
+_
+
+)
+
+
+→
+Ï
+(
+
+x
+_
+
+)
+
+
+ between 
+Ï
+(
+
+x
+_
+
+)
+ and 
+Ï
+(
+
+x
+_
+
+)
+.
+
+
+
+
+We let 
+M
+ be the model of 
+T
+ given by
+this compactness argument, and let 
+A
+ be the 
+substructure of 
+M
+ generated by 
+
+a
+_
+
+,
+i.e., 
+A
+ is the set of all 
+t
+(
+
+a
+_
+
+)
+ for 
+L
+-terms
+
+t
+ in 
+
+a
+_
+
+.
+We define the embedding 
+f
+:
+A
+→
+M
+ to be
+the map sending 
+
+a
+_
+
+ to 
+
+b
+_
+
+, and sending all 
+terms 
+t
+(
+
+a
+_
+
+)
+ to the corresponding term 
+t
+(
+
+b
+_
+
+)
+.  
+That this is an embedding follows from the fact 
+that 
+
+a
+_
+
+ and 
+
+b
+_
+
+ satisfy the same quantifier-free
+formulas.  But this shows that the condition in the the hypothesis of
+the proposition is incorrect, as in neither 
+M
+ nor in any elementary
+extension of 
+M
+ can we have 
+
+a
+_
+
+ sent to 
+
+b
+_
+
+
+by an automorphism, since we have 
+
+Ï
+(
+
+a
+_
+
+)
+ and 
+¬
+Ï
+(
+
+b
+_
+
+)
+
+in 
+M
+ and in any elementary extension, 
+and automorphisms preserve structure and therefore necessarily 
+preserve truth in the model.
+
+
+
+
+Exercise.
+
+Use saturated models to show a converse to the previous
+proposition and to give a model theoretic condition equivalent to
+a complete theory having elimination of quantifiers.
+
+
+
+We now return to vector spaces.
+
+
+Theorem.
+
+Let 
+T
+ be 
+
+T
+
+VS
+
+
+(
+K
+)
+ for an
+infinite field 
+K
+ or  
+
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+
+when 
+K
+ is finite.  Then 
+T
+ has elimination of
+quantifiers.
+
+
+
+
+Proof.
+
+
+
+The condition in the proposition 
+is an elementary fact about vector spaces proved using Zorn's lemma: 
+given a  subspace 
+U
+ of 
+V
+ and an embedding 
+f
+:
+U
+→
+V
+
+(i.e. a 
+K
+-linear map 
+U
+→
+V
+ with kernel 
+0
+)
+this 
+f
+ can be extended to an automorphism of 
+V
+.  To do
+this take a basis 
+B
+ of 
+U
+, and simultaneously extend 
+both 
+B
+ and 
+f
+B
+ to bases of 
+V
+ so that the definition of
+
+f
+ is extended to the whole of 
+V
+.
+
+
+
+
+Theorem.
+
+Let 
+U
+ of 
+V
+ be infinite 
+K
+-vector spaces
+with 
+U
+ a subspace of 
+V
+.  Then 
+U
+ is an 
+elementary substructure of 
+V
+ when considered as
+
+
+L
+K
+
+-structures.
+
+
+
+
+Proof.
+
+
+
+Write 
+T
+ for the theory of 
+U
+,
+V
+, i.e. 
+T
+
+is 
+
+T
+
+VS
+
+
+(
+K
+)
+ or 
+
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+.
+(Since this is complete, the theories of 
+U
+,
+V
+ are the same.)
+Then for every 
+Ï
+(
+
+x
+_
+
+)
+ of the language there is a 
+quantifier-free 
+Ï
+(
+
+x
+_
+
+)
+ such that 
+
+T
+â¢
+
+∀
+
+
+x
+_
+
+
+â
+
+(
+Ï
+(
+
+x
+_
+
+)
+Ï
+(
+
+x
+_
+
+)
+)
+
+
+.
+Now let 
+
+a
+_
+
+∈
+U
+.  Then 
+U
+â¨
+Ï
+(
+
+a
+_
+
+)
+
+iff  
+U
+â¨
+Ï
+(
+
+a
+_
+
+)
+, and 
+V
+â¨
+Ï
+(
+
+a
+_
+
+)
+
+iff  
+V
+â¨
+Ï
+(
+
+a
+_
+
+)
+ since both satisfy 
+T
+.  But also
+
+U
+â¨
+Ï
+(
+
+a
+_
+
+)
+ iff  
+V
+â¨
+Ï
+(
+
+a
+_
+
+)
+ since
+
+Ï
+(
+
+x
+_
+
+)
+ is quantifier-free.  The theorem follows.
+
+
+
+
+Definition.
+
+A theory 
+T
+ in a first-order language 
+L
+ is
+said to be model complete if whenever 
+M
+,
+N
+â¨
+T
+
+and 
+M
+ is an 
+L
+-substructure on 
+N
+ then
+
+M
+ is an elementary substructure on 
+N
+.
+
+
+
+
+The  theories 
+
+T
+
+VS
+
+
+(
+K
+)
+ and
+
+
+T
+
+VS
+
+
+(
+K
+)
+∪
+
+
+
+Ï
+n
+
+
+
+n
+∈
+â
+
+
+
+of infinite vector spaces over 
+K
+ (where 
+K
+ is infinite
+and finite, respectively) are model complete.
+
+
+
+
+
+ Richard Kaye. 2015-09-30. Copyright Richard Kaye, http://web.mat.bham.ac.uk/R.W.Kaye/. 
+
+
+

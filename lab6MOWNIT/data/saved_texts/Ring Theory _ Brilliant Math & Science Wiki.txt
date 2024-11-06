@@ -1,0 +1,631 @@
+
+
+
+
+
+
+
+Ring Theory | Brilliant Math & Science Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+          Home
+        
+
+
+
+
+
+
+
+
+
+          Courses
+        
+
+
+
+
+                    Sign up
+            
+
+                    Log in
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                The best way to learn math and computer science.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+Ring Theory
+
+
+
+
+
+
+                        Sign up with Facebook
+or
+
+                        Sign up manually
+
+
+
+                    Already have an account?
+                    
+                            Log in here.
+                    
+
+
+
+
+
+
+                Patrick Corn,
+        
+    
+        
+                Kuldeep Guha Mazumder,
+        
+    
+        
+                展豪 張,
+        
+    
+
+    
+        and
+        
+
+                3 others
+            
+
+
+
+                                Jongheun Lee
+                        
+
+
+
+                                Sal Gard
+                        
+
+
+
+                                Jimin Khim
+                        
+
+
+
+    
+
+    contributed
+
+
+            
+
+
+
+A ring is a set equipped with two operations (usually referred to as addition and multiplication) that satisfy certain properties: there are additive and multiplicative identities and additive inverses, addition is commutative, and the operations are associative and distributive. 
+The study of rings has its roots in algebraic number theory, via rings that are generalizations and extensions of the integers, as well as algebraic geometry, via rings of polynomials. These kinds of rings can be used to solve a variety of problems in number theory and algebra; one of the earliest such applications was the use of the Gaussian integers by Fermat, to prove his famous two-square theorem. There are many examples of rings in other areas of mathematics as well, including topology and mathematical analysis.
+
+
+
+Contents
+
+
+Definition and Classification
+
+
+Examples of Rings
+
+
+Ideals
+
+
+Quotients
+
+
+Properties of Rings
+
+
+Properties of Ideals
+
+
+
+
+
+
+Definition and Classification
+
+
+
+ 
+A ring is a set \( R \) together with two operations \( (+) \) and \( (\cdot) \) satisfying the following properties (ring axioms):
+(1) \( R \) is an abelian group under addition. That is, \( R\) is closed under addition, there is an additive identity (called \( 0 \)), every element \(a\in R\) has an additive inverse \(-a\in R \), and addition is associative and commutative.
+(2) \( R \) is closed under multiplication, and multiplication is associative:
+\[\begin{align}
+\forall a,b&\in R &a\cdot b&\in R\\ 
+\forall a,b,c&\in R &a\cdot (b\cdot c ) &=( a\cdot b ) \cdot c.
+\end{align}\]
+(3) Multiplication distributes over addition: 
+\[\forall a,b,c\in R\quad a\cdot \left( b+c \right) =a\cdot b+a\cdot c\quad \text{and}\quad \left( b+c \right) \cdot a=b\cdot a+c\cdot a.\]
+A ring is usually denoted by \(( R,+, \cdot) \) and often it is written only as \(R\) when the operations are understood. \(_\square\)
+
+Notes:
+(1) There are two further requirements one might impose on a ring \( S\) that lead to interesting classes of rings. For instance, if multiplication is commutative, the ring is called a commutative ring. The theory of commutative rings differs quite significantly from the the theory of non-commutative rings; commutative rings are better understood and have been more extensively studied. Most of the examples and results in this wiki will be for commutative rings. Again there may be an element \(1\) in \(R\) such that for all elements \(a\) in \(R\), \(a\cdot 1=1\cdot a=a\). If such an element exists, we call it the unity of the ring, and the ring is called a ring with unity. Else it is called a ring without unity or a "rng" (a ring without \(i\)).
+(2) If \(R\) is a commutative ring and \(a,b,c\in R\) such that \(a,b\neq 0\) and \(a \cdot b=c\), then \(a\) and \(b\) are said to be divisors of \(c\). If in a commutative ring \(R\) with unity, there is no divisor of the additive identity, i.e. \(0\), then \(R\) is said to be an integral domain. Thus a commutative ring \(R\) with unity is said to be an integral domain if for all elements \(a,b\) in \(R\), \(a \cdot b=0\) implies either \(a=0\) or \(b=0\).
+(3) If every nonzero element in a commutative ring with unity has a multiplicative inverse as well, the ring is called a field. Fields are fundamental objects in number theory, algebraic geometry, and many other areas of mathematics. If every nonzero element in a ring with unity has a multiplicative inverse, the ring is called a division ring or a skew field. A field is thus a commutative skew field. Non-commutative ones are called strictly skew fields.
+
+
+
+
+
+Examples of Rings
+
+
+
+This section lists many of the common rings and classes of rings that arise in various mathematical contexts.
+(1) The ring \( \mathbb Z \) of integers is the canonical example of a ring. It is an easy exercise to see that \(\mathbb Z\) is an integral domain but not a field.
+(2) There are many other similar rings studied in algebraic number theory, of the form \( {\mathbb Z}[\alpha] \), where \(\alpha\) is an algebraic integer. For example, \( {\mathbb Z}\left[\sqrt{2}\right] = \{ a+b\sqrt{2} \colon a,b \in {\mathbb Z}\} \) is a ring, an integral domain, to be precise. Also we have the ring of Gaussian integers \( {\mathbb Z}[i] = \{ a+bi \colon a,b \in {\mathbb Z}\} \), where \(i\) is the imaginary unit.
+(3) If \( R \) is a ring, then so is the ring \( R[x] \) of polynomials with coefficients in \( R \). In particular, when \( R = {\mathbb Z}/p{\mathbb Z} \) is the finite field with \( p \) elements, \( R[x] \) has many similarities with \( \mathbb Z \). For example, there is a Euclidean algorithm and hence unique factorization into irreducibles. See the introduction to algebraic number theory for details.
+More generally, if \( X \) is a set and \( R \) is a ring, the set of functions from \( X \) to \( R \) is a ring, with the natural operations of pointwise addition and multiplication of functions. For many sets \( X \), this ring has many interesting subrings constructed by restricting to functions with properties that are preserved under addition and multiplication. If \( X = R = {\mathbb R} \), for instance, there are subrings of continuous functions, differentiable functions, polynomial functions, and so on.
+(4) The set of \( n \times n \) matrices with entries in a commutative ring \( R \) is a ring, which is non-commutative for \( n \ge 2 \). This ring has a unity, the identity matrix. But it may have divisors of zero. E.g. \(\begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix}\begin{pmatrix} 0 & 0 \\ 0 & 1 \end{pmatrix}=\begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}\). This shows that \(\begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix}\) and \(\begin{pmatrix} 0 & 0 \\ 0 & 1 \end{pmatrix}\) are divisors of zero in the ring \({ M }_{ 2 }\left( R \right) \).
+(5) Another classical example is the ring of quaternions, the set of expressions of the form \( a+bi+cj+dk \), where \(a,b,c,d \in {\mathbb Z} \) and \( i,j,k \) satisfy the relations
+\[
+i^2=j^2=k^2=ijk=-1.
+\] 
+This has numerous applications in physics. This is a strictly skew field.
+
+
+
+
+
+Ideals
+
+
+
+The analog of normal subgroups in group theory turns out to be ideals in rings. These are the objects that allow generalizations of modular arithmetic over the integers.
+In this section, for simplicity's sake, all rings will be assumed to be commutative. (There are generalizations of these ideas to non-commutative rings, but the definitions are more unwieldy.)
+
+An ideal \( I \) in a commutative ring \( R \) is a nonempty set that
+(1) is closed under addition 
+(2) "swallows up" under multiplication: if \( r \in R \) and \( a \in I \), then \( ra \in I \).
+If \( a_1,a_2,\ldots,a_n \in R \), the set
+\[
+(a_1,a_2,\ldots,a_n) = \{ r_1a_1+r_2a_2+\cdots+r_na_n \colon r_i \in R \}
+\]
+is an ideal, and is called the ideal generated by the \( a_i \). \(_\square\)
+
+Ideals were originally developed as generalizations of elements of a ring to recover a form of unique factorization; for details, see the wiki on algebraic number theory. 
+
+The ideal generated by one element, \( (a) \), the set of multiples of \(a \), is called a principal ideal. A ring in which every ideal is principal is called a principal ideal ring. \(_\square\)
+
+
+Show that \( \mathbb Z \) is a principal ideal ring. 
+If \(k \) is a field, show that \( k[x] \) is a principal ideal ring.
+Show that \( {\mathbb Z}[x] \) is not a principal ideal ring.
+
+Partial solution: Any ring with a reasonable division algorithm is called a Euclidean ring (after the Euclidean algorithm). All such rings are principal ideal rings; the idea is to take the "smallest" nonzero element \( a \) in the ideal and then use the division algorithm to show that every other element \(b\) in the ideal is a multiple of \( a\). This is because if \( b=aq+r \) where \( r \) is smaller than \( a \), then \( r\) is in the ideal but is smaller than \( a\), so it must be \( 0 \). Since \( \mathbb Z\) and \(k[x] \) both have division algorithms, the first two results follow. \(_\square\)
+In \( {\mathbb Z}[x]\), the ideal \( (2,x) \) is not principal. (Exercise for the reader. Hint: consider the degree of a generator.)
+
+
+
+
+
+
+Quotients
+
+
+
+Given a ring \( R \) and an ideal \( I \), there is an object called the quotient ring \( R/I \). The example to keep in mind is \( R = \mathbb Z \) and \( I = \) the ideal generated by an integer \( n \). Then \( R/I = {\mathbb Z}/(n)\) is the familiar ring of integers mod \( n \).
+
+The ring \( R/I \) is the set of elements \( \overline a\), where \( a\in R \). Two expressions \( {\overline a} \) and \( {\overline b} \) are equal in \( R/I \) if and only if \( a-b \in I \). Elements are added and multiplied just as they are in \( R \): \( {\overline a} + {\overline b} = {\overline {a+b}} \) and \( {\overline a}\cdot {\overline b} = {\overline{ab}} \). \(_\square\)
+
+The subtle part of this definition is that it is well-defined: that is, the arithmetic in \( R/I \) gives the same results no matter which representative \( a \) of an element \( \overline a\) is picked. (Again, the example to keep in mind is \( {\mathbb Z}/(n)\).) The proof of this well-definition uses the properties of the ideal in an essential way (and is left as an exercise for the reader).
+
+If \( R = \mathbb Z\) and \( I = (n) \), then \( R/I = {\mathbb Z}/(n) \) as remarked earlier.
+If \( R = {\mathbb Z}[x] \) and \( I = (x^2-2) \), then \( R/I \) can be identified with \( {\mathbb Z}[\sqrt{2}]\), by identifying \( \overline x \) with \( \sqrt{2} \). (Note that \( {\overline x}^2 ={\overline {x^2}} = {\overline {x^2-(x^2-2)}} = {\overline 2} \) in \( R/I \), so \( \overline x \) is a square root of \( 2 \).)
+ 
+
+If \( R = \mathbb Z [x] \) and \( I = (x^2+1) \), then \( R/I \) can be identified with Gaussian Integers, \(\mathbb Z[i]\),  by identifying \( \overline x\) with \(i\).
+
+
+
+
+
+
+Properties of Rings
+
+
+
+If \( ab=0 \) in \( R \) and \( a \) and \( b \) are nonzero, then \( a \) and \( b\) are called zero-divisors. A ring with no zero-divisors is called a domain, and a commutative domain is called an integral domain.
+
+For which \( n \ge 2 \) is \( {\mathbb Z}/(n) \) an integral domain?
+
+If \( n = ab \) is composite (where \(1 < a,b < n\)), then \( ab \equiv 0 \) mod \( n \) but \( a \) and \( b \) are nonzero mod \( n \) because they are strictly smaller than \( n \). So \( {\mathbb Z}/(n)\) is not an integral domain when \( n \) is composite.
+On the other hand, if \( n \) is prime and \( ab \equiv 0 \) mod \( n \), then \( n|ab\), so \( n|a \) or \( n|b \) because \( n \) is prime. So then either \(a \) or \( b \) is \( 0 \) mod \( n \). So \( {\mathbb Z}/(n) \) is an integral domain when \( n \) is prime. \(_\square\)
+
+The integral domain condition is weaker than the field condition:
+
+Every field is an integral domain, but not every integral domain is a field.
+
+
+First there is a 
+Lemma: For all elements \( a\) of a ring \( R \), \( a\cdot 0 = 0 \cdot a = 0 \).
+Proof of lemma: Since \( 0 \) is the additive identity, \( 0+0=0 \). Then \( a\cdot 0 + a \cdot 0 = a\cdot 0 \) by the distributive law. But we can add the additive inverse of \( a\cdot 0 \) to both sides, to get \( a\cdot 0 = 0\). The proof of \( 0 \cdot a \) is similar.
+Now for the proof of the result. If every nonzero element has a multiplicative inverse, suppose \( ab=0 \) but \( a\) and \( b \) are nonzero. Then multiply both sides by \( a^{-1} \) to get \( a^{-1}ab= a^{-1}0 = 0,\) so \( b=0, \) contradiction. So there are no zero-divisors. 
+To see that not every integral domain is a field, simply note that \( \mathbb Z\) is an example of an integral domain that is not a field (since e.g. \(2 \) does not have a multiplicative inverse in \( \mathbb Z \)). \(_\square\)
+
+
+
+
+
+
+Properties of Ideals
+
+
+
+
+An ideal \( I \) of a ring \( R \) is prime if \( I \ne R \) and \( ab\in I \Rightarrow a \in I \) or \( b \in I \).
+An ideal \( I \) of a ring \( R \) is maximal if \( I \ne R \) but any ideal that strictly contains \( I \) is the entire ring \( R \). (That is, for an ideal \( J \), \( I \subseteq J \subseteq R \) implies \( I=J \) or \( J=R \).) \(_\square\)
+
+
+The ideal \( (3) \) of \( \mathbb Z \) is prime, because if \( ab \in (3) \), then \( 3|ab \), so \( 3|a\) or \(3|b\) (because \( 3 \) is a prime number), so \( a \in (3)\) or \( b \in (3)\). 
+It is also maximal, because if \( J \) is an ideal strictly containing \( I \), then there is an element \( j \in J \) that is not a multiple of \( 3 \). Now, since \(\text{gcd}(3,j)=1\), there are \( x,y\in \mathbb Z\) such that \( 3x+jy=1 \) by Bezout's identity, but \(3x\) and \( jy\) are both in \( J\), so their sum is, so \( 1 \in J \).
+But then for any \( r \in R\), \( r=1\cdot r\) is in \( J \), so \( J=R\).
+On the other hand, \( (4) \) is neither prime nor maximal, because \(2\cdot 2 \in (4) \) but \( 2 \notin (4)\); and the ideal \( (2)\) is strictly larger than \( (4) \) but is not the entire ring.
+
+Here is a nice theorem that ties together some of the concepts from this wiki.
+
+Let \( R \) be a commutative ring, and let \( I \) be an ideal not equal to \( R \). Then:
+(1) \( R/I \) is an integral domain if and only if \( I \) is prime 
+(2) \( R/I \) is a field if and only if \( I \) is maximal. \(_\square\)
+
+
+(1) comes directly from the definitions: if \( R/I\) is an integral domain and \( ab \in I \), then \( {\overline a}{\overline b} = 0 \) in \( R/I\), so \( {\overline a} =0 \) or \( {\overline b} = 0\), so \( a \in I \) or \( b \in I \), so \( I \) is prime. The converse is similar.
+For (2), suppose \( I \) is maximal; then take a nonzero element \( {\overline a} \in R/I \). Then
+\[
+(a,I) = \{ax+i \colon x \in R, i \in I\}
+\]
+is an ideal, and it's strictly bigger than \( I \) since it contains \( a \notin I \). So it must equal the whole ring \( R \), and in particular it contains \( 1 \). 
+So there exist \(x_0 \in R,i_0\in I\) such that \( ax_0+i_0=1\), and in \( R/I \) this becomes
+\[
+{\overline a}{\overline x_0} = {\overline 1},
+\]
+so \( a \) has a multiplicative inverse in \( R/I\). This shows that \( R/I \) is a field. The converse is similar. \(_\square\)
+
+Note that this immediately shows that every maximal ideal is prime, by the result from the previous section. 
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+Infinitely many
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+A nonempty set \( I \) in a ring \( R \) is called an ideal if 
+(1) it is closed under addition: \( a\in I, b\in I \Rightarrow a+b \in I \)
+(2) it "swallows up" under multiplication: \( a \in R, i \in I \Rightarrow ai \in I \).
+A proper ideal is one that is not equal to the entire ring.
+A proper ideal is prime if \( ab \in I \) implies that \( a\in I \) or \( b \in I \).
+A proper ideal is maximal if there are no ideals in between it and the entire ring: if \( J \) is an ideal, then \( I \subseteq J \subseteq R \) implies \( I=J\) or \( J=R\).
+How many ideals of \( \mathbb Z \) are prime but not maximal?
+
+It should help to read the ring theory wiki!
+
+
+
+
+
+
+
+
+
+
+
+Cite as:
+                Ring Theory.
+                Brilliant.org.
+                Retrieved from
+                https://brilliant.org/wiki/ring-theory/
+
+
+
+
+
+
+
+
+
+
+Join Brilliant
+The best way to learn math and computer science.
+
+Sign up
+
+
+
+
+
+
+
+
+
+                Sign up to read all wikis and quizzes in math, science, and engineering topics.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Problem Loading...
+Note Loading...
+Set Loading...
+
+
+
+
+
+
+

@@ -1,0 +1,576 @@
+
+
+
+
+
+
+
+      Leonhard Euler  (1707 - 1783) - Biography - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Leonhard Euler
+
+
+
+
+
+Quick Info
+Born
+
+      15 April 1707   Basel, Switzerland 
+
+Died
+
+      18 September 1783  St Petersburg, Russia
+    
+
+Summary
+Leonhard Euler was a Swiss mathematician who made enormous contibutions to a wide range of mathematics and physics including analytic geometry, trigonometry, geometry, calculus and number theory.
+
+
+
+
+
+      View seventeen larger pictures
+
+
+
+
+
+Biography
+Leonhard Euler's father was Paul Euler. Paul Euler had studied theology at the University of Basel and had attended Jacob Bernoulli's lectures there. In fact Paul Euler and Johann Bernoulli had both lived in Jacob Bernoulli's house while undergraduates at Basel. Paul Euler became a Protestant minister and married Margaret Brucker, the daughter of another Protestant minister. Their son Leonhard Euler was born in Basel, but the family moved to Riehen when he was one year old and it was in Riehen, not far from Basel, that Leonard was brought up. Paul Euler had, as we have mentioned, some mathematical training and he was able to teach his son elementary mathematics along with other subjects.
+
+
+Leonhard was sent to school in Basel and during this time he lived with his grandmother on his mother's side. This school was a rather poor one, by all accounts, and Euler learnt no mathematics at all from the school. However his interest in mathematics had certainly been sparked by his father's teaching, and he read mathematics texts on his own and took some private lessons. Euler's father wanted his son to follow him into the church and sent him to the University of Basel to prepare for the ministry. He entered the University in 1720, at the age of 14, first to obtain a general education before going on to more advanced studies. Johann Bernoulli soon discovered Euler's great potential for mathematics in private tuition that Euler himself engineered. Euler's own account given in his unpublished autobiographical writings, see [1], is as follows:-
+... I soon found an opportunity to be introduced to a famous professor Johann Bernoulli. ... True, he was very busy and so refused flatly to give me private lessons; but he gave me much more valuable advice to start reading more difficult mathematical books on my own and to study them as diligently as I could; if I came across some obstacle or difficulty, I was given permission to visit him freely every Sunday afternoon and he kindly explained to me everything I could not understand ...
+In 1723 Euler completed his Master's degree in philosophy having compared and contrasted the philosophical ideas of Descartes and Newton. He began his study of theology in the autumn of 1723, following his father's wishes, but, although he was to be a devout Christian all his life, he could not find the enthusiasm for the study of theology, Greek and Hebrew that he found in mathematics. Euler obtained his father's consent to change to mathematics after Johann Bernoulli had used his persuasion. The fact that Euler's father had been a friend of Johann Bernoulli's in their undergraduate days undoubtedly made the task of persuasion much easier.
+
+
+Euler completed his studies at the University of Basel in 1726. He had studied many mathematical works during his time in Basel, and Calinger [24] has reconstructed many of the works that Euler read with the advice of Johann Bernoulli. They include works by Varignon, Descartes, Newton, Galileo, van Schooten, Jacob Bernoulli, Hermann, Taylor and Wallis. By 1726 Euler had already a paper in print, a short article on isochronous curves in a resisting medium. In 1727 he published another article on reciprocal trajectories and submitted an entry for the 1727 Grand Prize of the Paris Academy on the best arrangement of masts on a ship.
+
+
+The Prize of 1727 went to Bouguer, an expert on mathematics relating to ships, but Euler's essay won him second place which was a fine achievement for the young graduate. However, Euler now had to find himself an academic appointment and when Nicolaus(II) Bernoulli died in St Petersburg in July 1726 creating a vacancy there, Euler was offered the post which would involve him in teaching applications of mathematics and mechanics to physiology. He accepted the post in November 1726 but stated that he did not want to travel to Russia until the spring of the following year. He had two reasons to delay. He wanted time to study the topics relating to his new post but also he had a chance of a post at the University of Basel since the professor of physics there had died. Euler wrote an article on acoustics, which went on to become a classic, in his bid for selection to the post but he was not chosen to go forward to the stage where lots were drawn to make the final decision on who would fill the chair. Almost certainly his youth (he was 19 at the time) was against him. However Calinger [24] suggests:-
+This decision ultimately benefited Euler, because it forced him to move from a small republic into a setting more adequate for his brilliant research and technological work.
+As soon as he knew he would not be appointed to the chair of physics, Euler left Basel on 5 April 1727. He travelled down the Rhine by boat, crossed the German states by post wagon, then by boat from LÃ¼beck arriving in St Petersburg on 17 May 1727. He had joined the St Petersburg Academy of Sciences two years after it had been founded by Catherine I the wife of Peter the Great. Through the requests of Daniel Bernoulli and Jakob Hermann, Euler was appointed to the mathematical-physical division of the Academy rather than to the physiology post he had originally been offered. At St Petersburg Euler had many colleagues who would provide an exceptional environment for him [1]:-
+Nowhere else could he have been surrounded by such a group of eminent scientists, including the analyst, geometer Jakob Hermann, a relative; Daniel Bernoulli, with whom Euler was connected not only by personal friendship but also by common interests in the field of applied mathematics; the versatile scholar Christian Goldbach, with whom Euler discussed numerous problems of analysis and the theory of numbers; F Maier, working in trigonometry; and the astronomer and geographer J-N Delisle.
+Euler served as a medical lieutenant in the Russian navy from 1727 to 1730. In St Petersburg he lived with Daniel Bernoulli who, already unhappy in Russia, had requested that Euler bring him tea, coffee, brandy and other delicacies from Switzerland. Euler became professor of physics at the Academy in 1730 and, since this allowed him to become a full member of the Academy, he was able to give up his Russian navy post.
+
+
+Daniel Bernoulli held the senior chair in mathematics at the Academy but when he left St Petersburg to return to Basel in 1733 it was Euler who was appointed to this senior chair of mathematics. The financial improvement which came from this appointment allowed Euler to marry which he did on 7 January 1734, marrying Katharina Gsell, the daughter of a painter from the St Petersburg Gymnasium. Katharina, like Euler, was from a Swiss family. They had 13 children altogether although only five survived their infancy. Euler claimed that he made some of his greatest mathematical discoveries while holding a baby in his arms with other children playing round his feet.
+
+
+We will examine Euler's mathematical achievements later in this article but at this stage it is worth summarising Euler's work in this period of his career. This is done in [24] as follows:-
+... after 1730 he carried out state projects dealing with cartography, science education, magnetism, fire engines, machines, and ship building. ... The core of his research program was now set in place: number theory; infinitary analysis including its emerging branches, differential equations and the calculus of variations; and rational mechanics. He viewed these three fields as intimately interconnected. Studies of number theory were vital to the foundations of calculus, and special functions and differential equations were essential to rational mechanics, which supplied concrete problems.
+The publication of many articles and his book Mechanica (1736-37), which extensively presented Newtonian dynamics in the form of mathematical analysis for the first time, started Euler on the way to major mathematical work.
+
+
+Euler's health problems began in 1735 when he had a severe fever and almost lost his life. However, he kept this news from his parents and members of the Bernoulli family back in Basel until he had recovered. In his autobiographical writings Euler says that his eyesight problems began in 1738 with overstrain due to his cartographic work and that by 1740 he had [24]:-
+... lost an eye and [the other] currently may be in the same danger.
+However, Calinger in [24] argues that Euler's eyesight problems almost certainly started earlier and that the severe fever of 1735 was a symptom of the eyestrain. He also argues that a portrait of Euler from 1753 suggests that by that stage the sight of his left eye was still good while that of his right eye was poor but not completely blind. Calinger suggests that Euler's left eye became blind from a later cataract rather than eyestrain.
+
+
+By 1740 Euler had a very high reputation, having won the Grand Prize of the Paris Academy in 1738 and 1740. On both occasions he shared the first prize with others. Euler's reputation was to bring an offer to go to Berlin, but at first he preferred to remain in St Petersburg. However political turmoil in Russia made the position of foreigners particularly difficult and contributed to Euler changing his mind. Accepting an improved offer Euler, at the invitation of Frederick the Great, went to Berlin where an Academy of Science was planned to replace the Society of Sciences. He left St Petersburg on 19 June 1741, arriving in Berlin on 25 July. In a letter to a friend Euler wrote:-
+I can do just what I wish [in my research] ... The king calls me his professor, and I think I am the happiest man in the world.
+Even while in Berlin Euler continued to receive part of his salary from Russia. For this remuneration he bought books and instruments for the St Petersburg Academy, he continued to write scientific reports for them, and he educated young Russians.
+
+
+Maupertuis was the president of the Berlin Academy when it was founded in 1744 with Euler as director of mathematics. He deputised for Maupertuis in his absence and the two became great friends. Euler undertook an unbelievable amount of work for the Academy [1]:-
+... he supervised the observatory and the botanical gardens; selected the personnel; oversaw various financial matters; and, in particular, managed the publication of various calendars and geographical maps, the sale of which was a source of income for the Academy. The king also charged Euler with practical problems, such as the project in 1749 of correcting the level of the Finow Canal ... At that time he also supervised the work on pumps and pipes of the hydraulic system at Sans Souci, the royal summer residence.
+This was not the limit of his duties by any means. He served on the committee of the Academy dealing with the library and of scientific publications. He served as an advisor to the government on state lotteries, insurance, annuities and pensions and artillery. On top of this his scientific output during this period was phenomenal.
+
+
+During the twenty-five years spent in Berlin, Euler wrote around 380 articles. He wrote books on the calculus of variations; on the calculation of planetary orbits; on artillery and ballistics (extending the book by Robins); on analysis; on shipbuilding and navigation; on the motion of the moon; lectures on the differential calculus; and a popular scientific publication Letters to a Princess of Germany (3 vols., 1768-72).
+
+See THIS LINK.
+
+
+In 1759 Maupertuis died and Euler assumed the leadership of the Berlin Academy, although not the title of President. The king was in overall charge and Euler was not now on good terms with Frederick despite the early good favour. Euler, who had argued with d'Alembert on scientific matters, was disturbed when Frederick offered d'Alembert the presidency of the Academy in 1763. However d'Alembert refused to move to Berlin but Frederick's continued interference with the running of the Academy made Euler decide that the time had come to leave.
+
+
+In 1766 Euler returned to St Petersburg and Frederick was greatly angered at his departure. Soon after his return to Russia, Euler became almost entirely blind after an illness. In 1771 his home was destroyed by fire and he was able to save only himself and his mathematical manuscripts. A cataract operation shortly after the fire, still in 1771, restored his sight for a few days but Euler seems to have failed to take the necessary care of himself and he became totally blind. Because of his remarkable memory he was able to continue with his work on optics, algebra, and lunar motion. Amazingly after his return to St Petersburg (when Euler was 59) he produced almost half his total works despite the total blindness.
+
+
+Euler of course did not achieve this remarkable level of output without help. He was helped by his sons, Johann Albrecht Euler who was appointed to the chair of physics at the Academy in St Petersburg in 1766 (becoming its secretary in 1769) and Christoph Euler who had a military career. Euler was also helped by two other members of the Academy, W L Krafft and A J Lexell, and the young mathematician N Fuss who was invited to the Academy from Switzerland in 1772. Fuss, who was Euler's grandson-in-law, became his assistant in 1776. Yushkevich writes in [1]:-
+.. the scientists assisting Euler were not mere secretaries; he discussed the general scheme of the works with them, and they developed his ideas, calculating tables, and sometimes compiled examples.
+For example Euler credits Albrecht, Krafft and Lexell for their help with his 775 page work on the motion of the moon, published in 1772. Fuss helped Euler prepare over 250 articles for publication over a period on about seven years in which he acted as Euler's assistant, including an important work on insurance which was published in 1776.
+
+
+He also wrote a eulogy of Euler, which you can see at THIS LINK.
+
+
+Yushkevich describes the day of Euler's death in [1]:-
+On 18 September 1783 Euler spent the first half of the day as usual. He gave a mathematics lesson to one of his grandchildren, did some calculations with chalk on two boards on the motion of balloons; then discussed with Lexell and Fuss the recently discovered planet Uranus. About five o'clock in the afternoon he suffered a brain haemorrhage and uttered only "I am dying" before he lost consciousness. He died about eleven o'clock in the evening.
+After his death in 1783 the St Petersburg Academy continued to publish Euler's unpublished work for nearly 50 more years.
+
+
+Euler's work in mathematics is so vast that an article of this nature cannot but give a very superficial account of it. He was the most prolific writer of mathematics of all time. He made large bounds forward in the study of modern analytic geometry and trigonometry where he was the first to consider sin, cos etc. as functions rather than as chords as Ptolemy had done.
+
+
+He made decisive and formative contributions to geometry, calculus and number theory. He integrated Leibniz's differential calculus and Newton's method of fluxions into mathematical analysis. He introduced beta and gamma functions, and integrating factors for differential equations. He studied continuum mechanics, lunar theory with Clairaut, the three body problem, elasticity, acoustics, the wave theory of light, hydraulics, and music. He laid the foundation of analytical mechanics, especially in his Theory of the Motions of Rigid Bodies (1765).
+
+
+We owe to Euler the notation f(x)f (x)f(x) for a function (1734), eee for the base of natural logs (1727), iii for the square root of -1 (1777), Ï\piÏ for pi, â\sumâ for summation (1755), the notation for finite differences Îy\Delta  yÎy and Î2y\Delta ^{2} yÎ2y and many others.
+
+
+Let us examine in a little more detail some of Euler's work. Firstly his work in number theory seems to have been stimulated by Goldbach but probably originally came from the interest that the Bernoullis had in that topic. Goldbach asked Euler, in 1729, if he knew of Fermat's conjecture that the numbers 2n+12^{n} + 12n+1 were always prime if nnn is a power of 2. Euler verified this for nnn = 1, 2, 4, 8 and 16 and, by 1732 at the latest, showed that the next case 232+1=42949672972^{32} + 1 = 4294967297232+1=4294967297 is divisible by 641 and so is not prime. Euler also studied other unproved results of Fermat and in so doing introduced the Euler phi function Ï(n)\phi(n)Ï(n), the number of integers kkk with 1â¤kâ¤n1 â¤ k â¤ n1â¤kâ¤n and kkk coprime to nnn. He proved another of Fermat's assertions, namely that if aaa and bbb are coprime then a2+b2a^{2} + b^{2}a2+b2 has no divisor of the form 4nâ14n - 14nâ1, in 1749.
+
+
+Perhaps the result that brought Euler the most fame in his young days was his solution of what had become known as the Basel problem. This was to find a closed form for the sum of the infinite series Î¶(2)=â1n2\zeta(2) = \sum  \Large\frac 1 {n^{2}}Î¶(2)=ân21â, a problem which had defeated many of the top mathematicians including Jacob Bernoulli, Johann Bernoulli and Daniel Bernoulli. The problem had also been studied unsuccessfully by Leibniz, Stirling, de Moivre and others. Euler showed in 1735 that Î¶(2)=16Ï2\zeta(2) = \large\frac{1}{6}\normalsize \pi^{2}Î¶(2)=61âÏ2 but he went on to prove much more, namely that Î¶(4)=190Ï4,Î¶(6)=1945Ï6,Î¶(8)=19450Ï8,Î¶(10)=193555Ï10\zeta(4) = \large\frac{1}{90}\normalsize \pi^{4}, \zeta(6) = \large\frac{1}{945}\normalsize \pi^{6}, \zeta(8) = \large\frac{1}{9450}\normalsize \pi^{8}, \zeta(10) = \large\frac{1}{93555}\normalsize \pi^{10}Î¶(4)=901âÏ4,Î¶(6)=9451âÏ6,Î¶(8)=94501âÏ8,Î¶(10)=935551âÏ10 and Î¶(12)=691638512875Ï12\zeta(12) = \large\frac{691}{638512875}\normalsize \pi^{12}Î¶(12)=638512875691âÏ12. In 1737 he proved the connection of the zeta function with the series of prime numbers giving the famous relation 
+Î¶(s)=â1ns=â11âpâs\zeta(s) = \sum  \Large\frac 1 {n^{s}}\normalsize = \prod \Large\frac 1 {1- p^{-s}}Î¶(s)=âns1â=â1âpâs1â
+Here the sum is over all natural numbers nnn while the product is over all prime numbers.
+
+
+By 1739 Euler had found the rational coefficients CCC in Î¶(2n)=CÏ2n\zeta(2n) = C\pi^{2n}Î¶(2n)=CÏ2n in terms of the Bernoulli numbers.
+
+
+Other work done by Euler on infinite series included the introduction of his famous Euler's constant Î³, in 1735, which he showed to be the limit of
+11+12+13+...+1nâlogâ¡en\large\frac{1}{1}\normalsize  + \large\frac{1}{2}\normalsize  + \large\frac{1}{3}\normalsize  + ... + \large\frac{1}{n}\normalsize  - \log_{e}n11â+21â+31â+...+n1ââlogeân
+as nnn tends to infinity. He calculated the constant Î³ to 16 decimal places. Euler also studied Fourier series and in 1744 he was the first to express an algebraic function by such a series when he gave the result
+12Ïâ12x=sinâ¡x+12(sinâ¡2x)+13(sinâ¡3x)+...\large\frac{1}{2}\normalsize \pi - \large\frac{1}{2}\normalsize x = \sin x + \large\frac{1}{2}\normalsize (\sin 2x) + \large\frac{1}{3}\normalsize (\sin 3x) + ...21âÏâ21âx=sinx+21â(sin2x)+31â(sin3x)+...
+in a letter to Goldbach. Like most of Euler's work there was a fair time delay before the results were published; this result was not published until 1755.
+
+
+Euler wrote to James Stirling on 8 June 1736 telling him about his results on summing reciprocals of powers, the harmonic series and Euler's constant and other results on series. In particular he wrote [60]:-
+Concerning the summation of very slowly converging series, in the past year I have lectured to our Academy on a special method of which I have given the sums of very many series sufficiently accurately and with very little effort.
+He then goes on to describe what is now called the Euler-Maclaurin summation formula. Two years later Stirling replied telling Euler that Maclaurin:-
+... will be publishing a book on fluxions. ... he has two theorems for summing series by means of derivatives of the terms, one of which is the self-same result that you sent me.
+Euler replied:-
+... I have very little desire for anything to be detracted from the fame of the celebrated Mr Maclaurin since he probably came upon the same theorem for summing series before me, and consequently deserves to be named as its first discoverer. For I found that theorem about four years ago, at which time I also described its proof and application in greater detail to our Academy.
+Some of Euler's number theory results have been mentioned above. Further important results in number theory by Euler included his proof of Fermat's Last Theorem for the case of n=3n = 3n=3. Perhaps more significant than the result here was the fact that he introduced a proof involving numbers of the form a+bââ3a + bâ-3a+bââ3 for integers aaa and bbb. Although there were problems with his approach this eventually led to Kummer's major work on Fermats Last Theorem and to the introduction of the concept of a ring.
+
+
+One could claim that mathematical analysis began with Euler. In 1748 in Introductio in analysin infinitorum Euler made ideas of Johann Bernoulli more precise in defining a function, and he stated that mathematical analysis was the study of functions. This work bases the calculus on the theory of elementary functions rather than on geometric curves, as had been done previously. Also in this work Euler gave the formula
+eix=cosâ¡x+isinâ¡xe^{ix} = \cos x + i \sin xeix=cosx+isinx.
+In Introductio in analysin infinitorum Euler dealt with logarithms of a variable taking only positive values although he had discovered the formula
+lnâ¡(â1)=Ïi\ln(-1) = \pi iln(â1)=Ïi
+in 1727. He published his full theory of logarithms of complex numbers in 1751.
+
+
+Analytic functions of a complex variable were investigated by Euler in a number of different contexts, including the study of orthogonal trajectories and cartography. He discovered the Cauchy-Riemann equations in 1777, although d'Alembert had discovered them in 1752 while investigating hydrodynamics.
+
+
+In 1755 Euler published Institutiones calculi differentialis which begins with a study of the calculus of finite differences. The work makes a thorough investigation of how differentiation behaves under substitutions.
+
+
+In Institutiones calculi integralis (1768-70) Euler made a thorough investigation of integrals which can be expressed in terms of elementary functions. He also studied beta and gamma functions, which he had introduced first in 1729. Legendre called these 'Eulerian integrals of the first and second kind' respectively while they were given the names beta function and gamma function by Binet and Gauss respectively. As well as investigating double integrals, Euler considered ordinary and partial differential equations in this work.
+
+
+The calculus of variations is another area in which Euler made fundamental discoveries. His work Methodus inveniendi lineas curvas  â(A method for curves)... published in 1740 began the proper study of the calculus of variations. In [12] it is noted that CarathÃ©odory considered this as:-
+... one of the most beautiful mathematical works ever written.
+Problems in mathematical physics had led Euler to a wide study of differential equations. He considered linear equations with constant coefficients, second order differential equations with variable coefficients, power series solutions of differential equations, a method of variation of constants, integrating factors, a method of approximating solutions, and many others. When considering vibrating membranes, Euler was led to the Bessel equation which he solved by introducing Bessel functions.
+
+
+Euler made substantial contributions to differential geometry, investigating the theory of surfaces and curvature of surfaces. Many unpublished results by Euler in this area were rediscovered by Gauss. Other geometric investigations led him to fundamental ideas in topology such as the Euler characteristic of a polyhedron.
+
+
+In 1736 Euler published Mechanica which provided a major advance in mechanics. As Yushkevich writes in [1]:-
+The distinguishing feature of Euler's investigations in mechanics as compared to those of his predecessors is the systematic and successful application of analysis. Previously the methods of mechanics had been mostly synthetic and geometrical; they demanded too individual an approach to separate problems. Euler was the first to appreciate the importance of introducing uniform analytic methods into mechanics, thus enabling its problems to be solved in a clear and direct way.
+In Mechanica Euler considered the motion of a point mass both in a vacuum and in a resisting medium. He analysed the motion of a point mass under a central force and also considered the motion of a point mass on a surface. In this latter topic he had to solve various problems of differential geometry and geodesics.
+
+
+Mechanica was followed by another important work in rational mechanics, this time Euler's two volume work on naval science. It is described in [24] as:-
+Outstanding in both theoretical and applied mechanics, it addresses Euler's intense occupation with the problem of ship propulsion. It applies variational principles to determine the optimal ship design and first established the principles of hydrostatics ... Euler here also begins developing the kinematics and dynamics of rigid bodies, introducing in part the differential equations for their motion.
+Of course hydrostatics had been studied since Archimedes, but Euler gave a definitive version.
+
+
+In 1765 Euler published another major work on mechanics Theoria motus corporum solidorum â(Theory of the motion of solid bodies) in which he decomposed the motion of a solid into a rectilinear motion and a rotational motion. He considered the Euler angles and studied rotational problems which were motivated by the problem of the precession of the equinoxes.
+
+
+Euler's work on fluid mechanics is also quite remarkable. He published a number of major pieces of work through the 1750s setting up the main formulae for the topic, the continuity equation, the Laplace velocity potential equation, and the Euler equations for the motion of an inviscid incompressible fluid. In 1752 he wrote:-
+However sublime are the researches on fluids which we owe to Messrs Bernoulli, Clairaut and d'Alembert, they flow so naturally from my two general formulae that one cannot sufficiently admire this accord of their profound meditations with the simplicity of the principles from which I have drawn my two equations ...
+Euler contributed to knowledge in many other areas, and in all of them he employed his mathematical knowledge and skill. He did important work in astronomy including [1]:-
+... determination of the orbits of comets and planets by a few observations, methods of calculation of the parallax of the sun, the theory of refraction, consideration of the physical nature of comets, .... His most outstanding works, for which he won many prizes from the Paris AcadÃ©mie des Sciences, are concerned with celestial mechanics, which especially attracted scientists at that time.
+In fact Euler's lunar theory was used by Tobias Mayer in constructing his tables of the moon. In 1765 Mayer's widow received Â£3000 from Britain for the contribution the tables made to the problem of the determination of the longitude, while Euler received Â£300 from the British government for his theoretical contribution to the work.
+
+
+Euler also published on the theory of music, in particular he published Tentamen novae theoriae musicae â(A new musical theory) in 1739 in which he tried to make music:-
+... part of mathematics and deduce in an orderly manner, from correct principles, everything which can make a fitting together and mingling of tones pleasing.
+However, according to [8] the work was:-
+... for musicians too advanced in its mathematics and for mathematicians too musical.
+Cartography was another area that Euler became involved in when he was appointed director of the St Petersburg Academy's geography section in 1735. He had the specific task of helping Delisle prepare a map of the whole of the Russian Empire. The Russian Atlas was the result of this collaboration and it appeared in 1745, consisting of 20 maps. Euler, in Berlin by the time of its publication, proudly remarked that this work put the Russians well ahead of the Germans in the art of cartography.
+
+
+
+
+
+
+
+Quotations by Leonhard Euler  Other Mathematicians born in Switzerland  A Poster of Leonhard Euler
+
+
+
+
+
+References (show)
+
+
+
+
+
+A P Youschkevitch, Biography in Dictionary of Scientific Biography (New York 1970-1990). See THIS LINK.
+Biography in Encyclopaedia Britannica. http://www.britannica.com/biography/Leonhard-Euler
+H Bernhard, Euler, in H Wussing and W Arnold, Biographien bedeutender Mathematiker (Berlin, 1983).
+C B Boyer, The Age of Euler, in A History of Mathematics (1968).
+J T Cannon and S Dostrovsky, The evolution of dynamics : vibration theory from 1687 to 1742 (New York, 1981).
+R Fueter, Leonhard Euler (Basel,1948).
+Leonhard Euler 1707-1783 : BeitrÃ¤ge zu Leben und Werk (Basel-Boston, 1983).
+G du Pasquier, Leonhard Euler et ses amis (Paris, 1927).
+A Speiser, Die Basler Mathematiker (Basel, 1939).
+O Speiss, Leonhard Euler (1929).
+R Thiele, Leonhard Euler (Leipzig,1982).
+A P Yushkevich and E Winter (eds.), Leonhard Euler and Christian Goldbach: Briefwechsel 1729-1764 (Berlin, 1965).
+G L Alexanderson, Ars expositionis : Euler as writer and teacher, Math. Mag. 56 (5) (1983), 274-278.
+G E Andrews, Euler's pentagonal number theorem, Math. Mag. 56 (5) (1983), 279-284.
+A A Antropov, On Euler's partition of forms into genera, Historia Math. 22 (2) (1995), 188-193.
+R Ayoub, Euler and the zeta function, Amer. Math. Monthly 81 (1974), 1067-1086.
+P Bailhache, Deux mathÃ©maticiens musiciens : Euler et d'Alembert, Physis Riv. Internaz. Storia Sci. (N.S.) 32 (1) (1995), 1-35.
+C Baltus, Continued fractions and the Pell equations : The work of Euler and Lagrange, Comm. Anal. Theory Contin. Fractions 3 (1994), 4-31.
+E J Barbeau and P J Leah, Euler's 1760 paper on divergent series, Historia Math. 3 (2) (1976), 141-160.
+I G Bashmakova, Leonhard Euler's contributions to algebra (Russian), Development of the ideas of Leonhard Euler and modern science 'Nauka' (Moscow, 1988), 139-152.
+J J Burckhardt, Leonhard Euler, 1707-1783, Math. Mag. 56 (5) (1983), 262-273.
+M G Butorina, Euler's use of Newton's polygon method (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (2) (1992), 94-95.
+R Calinger, Leonhard Euler: The first St Petersburg years (1727-1741), Historia Mathematica 23 (1996), 121-166.
+D Cameron, Euler and Maclaurin made easy, Math. Sci. 12 (1) (1987), 3-20.
+G Chobanov and I Chobanov, Lagrange or Euler? I. The past, Annuaire Univ. Sofia Fac. Math. MÃ©c. 73 (1979), 13-51.
+G Chobanov and I Chobanov, Lagrange or Euler? II. The present, Annuaire Univ. Sofia Fac. Math. Inform. 82 (2) (1988), 5-62.
+G Chobanov and I Chobanov, Lagrange or Euler? III. The future, Annuaire Univ. Sofia Fac. Math. Inform. 82 (2) (1988), 63-109.
+P J Davis, Leonhard Euler's integral : A historical profile of the gamma function, Amer. Math. Monthly 66 (1959), 849-869.
+M A B Deakin, Euler's invention of integral transforms, Arch. Hist. Exact Sci. 33 (4) (1985), 307-319.
+J Dhombres, A l'occasion du bicentenaire de la mort de Leonhard Euler (1707-1783), Rev. Histoire Sci. 40 (3-4) (1987), 383-386.
+J Dutka, On the summation of some divergent series of Euler and the zeta functions, Arch. Hist. Exact Sci. 50 (2) (1996), 187-200.
+H M Edwards, Euler and quadratic reciprocity, Math. Mag. 56 (5) (1983), 285-291.
+P ErdÅs and U Dudley, Some remarks and problems in number theory related to the work of Euler, Math. Mag. 56 (5) (1983), 292-298.
+J Ewing, Leonhard Euler, Math. Intelligencer 5 (3) (1983), 5-6.
+E A Fellmann, Leonhard Euler 1707-1783 : Schlaglichter auf sein Leben und Werk, Helv. Phys. Acta 56 (6) (1983), 1099-1131.
+B F Finkel, Biography. Leonard Euler, Amer. Math. Monthly 4 (1897), 297-302.
+C G Fraser, The concept of elastic stress in eighteenth-century mechanics : some examples from Euler, in Hamiltonian dynamical systems (New York, 1995), 1-14.
+C G Fraser, The origins of Euler's variational calculus, Arch. Hist. Exact Sci. 47 (2) (1994), 103-141.
+C G Fraser, Mathematical technique and physical conception in Euler's investigation of the elastica, Centaurus 34 (3) (1991), 211-246.
+C G Fraser, Isoperimetric problems in the variational calculus of Euler and Lagrange, Historia Math. 19 (1) (1992), 4-23.
+H H Frisinger, The solution of a famous two-centuries-old problem : The Leonhard Euler Latin square conjecture, Historia Math. 8 (1) (1981), 56-60.
+S Gaukroger, The metaphysics of impenetrability : Euler's conception of force, British J. Hist. Sci. 15 (50) (1982), 132-154.
+L A Golland and R W Golland, Euler's troublesome series : an early example of the use of trigonometric series, Historia Math. 20 (1) (1993), 54-67.
+C Grau, Leonhard Euler und die Berliner Akademie der Wissenschaften, in Ceremony and scientific conference on the occasion of the 200th anniversary of the death of Leonhard Euler (Berlin, 1985), 139-149.
+J Gray, Leonhard Euler 1707-1783, Janus : archives internationales pour l'histoire de la medecine et pour la geographie medicale 72 (1985), 171-192.
+J Gray, Leonhard Euler : 1707-1783, Janus 72 (1-3) (1985), 171-192.
+D R Green, Euler, Math. Spectrum 15 (3) (1982/83), 65-68.
+E Hammer and S-J Shin, Euler and the role of visualization in logic, in Logic, language and computation 1 (Stanford, CA, 1996), 271-286.
+S H Hollingdale, Leonhard Euler (1707-1783) : a bicentennial tribute, Bull. Inst. Math. Appl. 19 (5-6) (1983), 98-105.
+R W Home, Leonhard Euler's 'anti-Newtonian' theory of light, Ann. of Sci. 45 (5) (1988), 521-533.
+N P Khomenko and T M Vyvrot, Euler and Kirchhoff - initiators of the main directions in graph theory II (Russian), in Sketches on the history of mathematical physics 'Naukova Dumka' (Kiev, 1985), 28-34.
+M Kline, Euler and infinite series, Math. Mag. 56 (5) (1983), 307-314.
+E Knobloch, Leibniz and Euler : problems and solutions concerning infinitesimal geometry and calculus, Conference on the History of Mathematics (Rende, 1991), 293-313.
+E Knobloch, Eulers frÃ¼heste Studie zum DreikÃ¶rperproblem, Amphora (Basel, 1992), 389-405.
+W Knobloch, Leonhard Eulers Wirken an der Berliner Akademie der Wissenschaften, 1741-1766, Studies in the History of the Academy of Sciences of the GDR 11 (Berlin, 1984).
+Yu Kh Kopelevich, Euler's election as a member of the London Royal Society (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (3) (1982), 142.
+B D Kovalev, Formation of Euler hydrodynamics (Russian), in Investigations in the history of mechanics 'Nauka' (Moscow, 1983), 146-167.
+T A Krasotkina, The correspondence of L Euler and J Stirling (Russian), Istor.-Mat. Issled. 10 (1957), 117-158.
+H Loeffel, Leonhard Euler (1707-1783), Mitt. Verein. Schweiz. Versicherungsmath. (1) (1984), 19-32.
+J LÃ¼tzen, Euler's vision of a general partial differential calculus for a generalized kind of function, Math. Mag. 56 (5) (1983), 299-306.
+A E Malykh, From the combinatorial legacy of Leonard Euler (Russian), Istor. Metodol. Estestv. Nauk 36 (1989), 66-74.
+A E Malykh, Euler's creation of the combinatorial theory of Latin squares (Russian), Istor.-Mat. Issled. 27 (1983), 102-123.
+G K Mikhailov, Leonhard Euler and his contribution to the development of rational mechanics (Russian), Adv. in Mech. 8 (1) (1985), 3-58.
+G K Mikhailov, G Schmidt and L I Sedov, Leonhard Euler und das Entstehen der klassischen Mechanik, Z. Angew. Math. Mech. 64 (2) (1984), 73-82.
+M Panza, De la nature Ã©pargnante aux forces gÃ©nÃ©reuses : le principe de moindre action entre mathÃ©matiques et mÃ©taphysique. Maupertuis et Euler, 1740-1751, Rev. Histoire Sci. 48 (4) (1995), 435-520.
+H Pieper, On Euler's contributions to the four-squares theorem, Historia Math. 20 (1) (1993), 12-18.
+K RÃ¶ttel, Zum 200. Todestag Leonhard Eulers, Praxis Math. 25 (9) (1983), 275-280.
+H Sachs, M Stiebitz and R J Wilson, An historical note : Euler's KÃ¶nigsberg letters, J. Graph Theory 12 (1) (1988), 133-139.
+H Samelson, In defense of Euler, Enseign. Math. (2) 42 (3-4) (1996), 377-382.
+G N Sarma, Leonhard Euler, the monarch of mathematicians, Math. Education 6 (1972), B53-B58.
+M F Subbotin, Leonhard Euler and the astronomical problems of his time (Russian), Voprosy Ist. Estest. i Tehn. 7 (1959), 58-66.
+R Taton, Euler et d'Alembert, in On the work of Leonhard Euler (Basel-Boston, Mass., 1984), 95-117.
+H-J Treder, Euler und die Gravitationstheorie, in Ceremony and scientific conference on the occasion of the 200th anniversary of the death of Leonhard Euler (Berlin, 1985), 112-119.
+C Truesdell, Euler's contribution to the theory of ships and mechanics, Centaurus 26 (4) (1982/83), 323-335.
+C Truesdell, Prefaces to volumes of Euler's Opera Omnia .
+I A Tyulina, Euler's hydraulic studies (Russian), in Investigations in the history of mechanics 'Nauka' (Moscow, 1983), 167-177.
+J A van Maanen, Leonhard Euler (1707-1783) : man, worker, migrant, genius (Dutch), Nieuw Tijdschr. Wisk. 71 (1) (1983/84) 1-11.
+G R Veldkamp, Leonhard Euler (Dutch), Nieuw Tijdschr. Wisk. 71 (2) (1983), 47-54.
+D Vischer, Daniel Bernoulli and Leonard Euler, the advent of hydromechanics, in G Garbrecht (ed.), Hydraulics and Hydraulic Research: A Historical Review (Rotterdam-Boston, 1987), 145-156.
+A Weil, Euler, Amer. Math. Monthly 91 (9) (1984), 537-542.
+C Wilson, Euler on action- at- a- distance and fundamental equations in continuum mechanics, in The investigation of difficult things (Cambridge, 1992), 399-420.
+A P Yushkevich, Leonhard Euler - sein Leben und mathematisches Werk, in Ceremony and scientific conference on the occasion of the 200th anniversary of the death of Leonhard Euler (Berlin, 1985), 17-33.
+A P Yushkevich, Leonhard Euler and mathematical education in Russia (Russian), Mat. v Shkole (5) (1983), 71-74.
+A P Yushkevich, Life and mathematical achievement of Leonard Euler (Russian), Uspekhi Mat. Nauk (N.S.) 12 4(76) (1957), 3-28.
+A P Yushkevich, Leonhard Euler : Life and work (Russian), in Development of the ideas of Leonhard Euler and modern science 'Nauka' (Moscow, 1988), 15-46.
+A P Yushkevich, Life and work of Leonhard Euler : On the occasion of the 275th anniversary of his birth and the 200th anniversary of his death (Russian), Vestnik Akad. Nauk SSSR (5) (1984), 106-115.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Leonhard Euler:
+
+Eulogy by Condorcet
+Eulogy by Nicolas Fuss
+KÃ¶nigsberg bridges
+Carl B Boyer's Foremost Modern Textbook
+Talk by Ferdinand Rudio
+Title page of Introductio in analysin infinitorum  (1784)
+Another page from this work
+Leonhard Euler's letters to a German Princess
+Miller's postage stamps
+Heinz Klaus Strick biography
+
+
+
+Other websites about Leonhard Euler:
+
+Dictionary of Scientific Biography
+Ian Bruce A translation of some early papers
+Encyclopaedia Britannica
+NNDB
+Clark Kimberling
+Rouse Ball
+Plus Magazine (Calculus of variations)
+Plus Magazine (The Basel problem)
+Plus Magazine (Elements of Algebra)
+Google doodle 
+Sci Hi blog
+Mathematical Genealogy Project
+MathSciNet Author profile
+zbMATH entry
+
+
+
+
+
+
+
+      Honours
+      (show)
+
+
+
+
+
+Honours awarded to Leonhard Euler
+
+Fellow of the Royal Society 1747 Lunar features Crater Euler and Rima Euler Paris street names Rue Euler (8th Arrondissement) Popular biographies list Number 10 Google doodle 2013
+
+
+
+
+
+
+
+      Cross-references
+      (show)
+
+
+
+
+
+
+History Topics: A history of Pi
+History Topics: A history of Topology
+History Topics: A history of the calculus
+History Topics: African men with a doctorate in mathematics 1
+History Topics: An overview of the history of mathematics
+History Topics: Arabic mathematics : forgotten brilliance?
+History Topics: Fermat's last theorem
+History Topics: General relativity
+History Topics: Light through the ages: Ancient Greece to Maxwell
+History Topics: Mathematical games and recreations
+History Topics: Orbits and gravitation
+History Topics: Pell's equation
+History Topics: Perfect numbers
+History Topics: Prime numbers
+History Topics: Quadratic, cubic and quartic equations
+History Topics: The Berlin Academy and forgery
+History Topics: The brachistochrone problem
+History Topics: The development of Ring Theory
+History Topics: The development of group theory
+History Topics: The four colour theorem
+History Topics: The function concept
+History Topics: The fundamental theorem of algebra
+History Topics: The number e
+History Topics: The real numbers: Stevin to Hilbert
+History Topics: The trigonometric functions
+Famous Curves: Catenary
+Famous Curves: Epicycloid
+Famous Curves: Hypocycloid
+Famous Curves: Lemniscate of Bernoulli
+Famous Curves: Tricuspoid
+Famous Curves: Trident of Newton
+Societies: Berlin Academy of Science
+Societies: Paris Academy of Sciences
+Societies: Swiss Mathematical Society
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 14
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 18
+Student Projects: Mathematics and Chess: Chapter 3
+Student Projects: Sofia Kovalevskaya: Chapter 12
+Student Projects: Sofia Kovalevskaya: Chapter 13
+Student Projects: Sofia Kovalevskaya: Chapter 15
+Other: 12th April
+Other: 15th June
+Other: 15th September
+Other: 1897 ICM - Zurich
+Other: 18th November
+Other: 1904 ICM - Heidelberg
+Other: 1908 ICM - Rome
+Other: 1912 ICM - Cambridge
+Other: 1932 ICM - Zurich
+Other: 19th April
+Other: 1st December
+Other: 2009 Most popular biographies
+Other: 27th August
+Other: 30th June
+Other: 3rd April
+Other: 5th May
+Other: 7th March
+Other: 9th March
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (B)
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+Other: Earliest Known Uses of Some of the Words of Mathematics (E)
+Other: Earliest Known Uses of Some of the Words of Mathematics (G)
+Other: Earliest Known Uses of Some of the Words of Mathematics (H)
+Other: Earliest Known Uses of Some of the Words of Mathematics (I)
+Other: Earliest Known Uses of Some of the Words of Mathematics (K)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Earliest Known Uses of Some of the Words of Mathematics (N)
+Other: Earliest Known Uses of Some of the Words of Mathematics (O)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Earliest Known Uses of Some of the Words of Mathematics (Q)
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+Other: Earliest Known Uses of Some of the Words of Mathematics (T)
+Other: Earliest Uses of Function Symbols
+Other: Earliest Uses of Symbols for Constants
+Other: Earliest Uses of Symbols for Trigonometric and Hyperbolic Functions
+Other: Earliest Uses of Symbols for Variables
+Other: Earliest Uses of Symbols from Geometry
+Other: Earliest Uses of Symbols in Probability and Statistics
+Other: Earliest Uses of Symbols of Calculus
+Other: Earliest Uses of Symbols of Number Theory
+Other: Earliest Uses of Symbols of Operation
+Other: Earliest Uses of Symbols of Relation
+Other: Jeff Miller's postage stamps
+Other: London individuals N-R
+Other: Most popular biographies â 2024
+Other: On Growth and Form
+Other: Popular biographies 2018
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update September 1998
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

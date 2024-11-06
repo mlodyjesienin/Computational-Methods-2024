@@ -1,0 +1,917 @@
+
+
+
+
+
+      differential topology in nLab
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nLab
+      differential topology
+  
+
+Skip the Navigation Links | 
+
+Home Page |
+    All Pages |
+    Latest Revisions |
+    Discuss this page |
+ 
+ 
+
+
+
+Contents
+
+
+
+Context
+Topology
+
+topology (point-set topology, point-free topology)
+see also differential topology, algebraic topology, functional analysis and topological homotopy theory
+Introduction
+Basic concepts
+
+
+open subset, closed subset, neighbourhood
+
+
+topological space, locale
+
+
+base for the topology, neighbourhood base
+
+
+finer/coarser topology
+
+
+closure, interior, boundary
+
+
+separation, sobriety
+
+
+continuous function, homeomorphism
+
+
+uniformly continuous function
+
+
+embedding
+
+
+open map, closed map
+
+
+sequence, net, sub-net, filter
+
+
+convergence
+
+
+categoryTop
+
+convenient category of topological spaces
+
+
+
+Universal constructions
+
+
+initial topology, final topology
+
+
+subspace, quotient space,
+
+
+fiber space, space attachment
+
+
+product space, disjoint union space
+
+
+mapping cylinder, mapping cocylinder
+
+
+mapping cone, mapping cocone
+
+
+mapping telescope
+
+
+colimits of normal spaces
+
+
+Extra stuff, structure, properties
+
+
+nice topological space
+
+
+metric space, metric topology, metrisable space
+
+
+Kolmogorov space, Hausdorff space, regular space, normal space
+
+
+sober space
+
+
+compact space, proper map
+sequentially compact, countably compact, locally compact, sigma-compact, paracompact, countably paracompact, strongly compact
+
+
+compactly generated space
+
+
+second-countable space, first-countable space
+
+
+contractible space, locally contractible space
+
+
+connected space, locally connected space
+
+
+simply-connected space, locally simply-connected space
+
+
+cell complex, CW-complex
+
+
+pointed space
+
+
+topological vector space, Banach space, Hilbert space
+
+
+topological group
+
+
+topological vector bundle, topological K-theory
+
+
+topological manifold
+
+
+Examples
+
+
+empty space, point space
+
+
+discrete space, codiscrete space
+
+
+Sierpinski space
+
+
+order topology, specialization topology, Scott topology
+
+
+Euclidean space
+
+real line, plane
+
+
+
+cylinder, cone
+
+
+sphere, ball
+
+
+circle, torus, annulus, Moebius strip
+
+
+polytope, polyhedron
+
+
+projective space (real, complex)
+
+
+classifying space
+
+
+configuration space
+
+
+path, loop
+
+
+mapping spaces: compact-open topology, topology of uniform convergence
+
+loop space, path space
+
+
+
+Zariski topology
+
+
+Cantor space, Mandelbrot space
+
+
+Peano curve
+
+
+line with two origins, long line, Sorgenfrey line
+
+
+K-topology, Dowker space
+
+
+Warsaw circle, Hawaiian earring space
+
+
+Basic statements
+
+
+Hausdorff spaces are sober
+
+
+schemes are sober
+
+
+continuous images of compact spaces are compact
+
+
+closed subspaces of compact Hausdorff spaces are equivalently compact subspaces
+
+
+open subspaces of compact Hausdorff spaces are locally compact
+
+
+quotient projections out of compact Hausdorff spaces are closed precisely if the codomain is Hausdorff
+
+
+compact spaces equivalently have converging subnet of every net
+
+
+Lebesgue number lemma
+
+
+sequentially compact metric spaces are equivalently compact metric spaces
+
+
+compact spaces equivalently have converging subnet of every net
+
+
+sequentially compact metric spaces are totally bounded
+
+
+
+
+continuous metric space valued function on compact metric space is uniformly continuous
+
+
+paracompact Hausdorff spaces are normal
+
+
+paracompact Hausdorff spaces equivalently admit subordinate partitions of unity
+
+
+closed injections are embeddings
+
+
+proper maps to locally compact spaces are closed
+
+
+injective proper maps to locally compact spaces are equivalently the closed embeddings
+
+
+locally compact and sigma-compact spaces are paracompact
+
+
+locally compact and second-countable spaces are sigma-compact
+
+
+second-countable regular spaces are paracompact
+
+
+CW-complexes are paracompact Hausdorff spaces
+
+
+Theorems
+
+
+Urysohn's lemma
+
+
+Tietze extension theorem
+
+
+Tychonoff theorem
+
+
+tube lemma
+
+
+Michael's theorem
+
+
+Brouwer's fixed point theorem
+
+
+topological invariance of dimension
+
+
+Jordan curve theorem
+
+
+Analysis Theorems
+
+
+Heine-Borel theorem
+
+
+intermediate value theorem
+
+
+extreme value theorem
+
+
+topological homotopy theory
+
+
+left homotopy, right homotopy
+
+
+homotopy equivalence, deformation retract
+
+
+fundamental group, covering space
+
+
+fundamental theorem of covering spaces
+
+
+homotopy group
+
+
+weak homotopy equivalence
+
+
+Whitehead's theorem
+
+
+Freudenthal suspension theorem
+
+
+nerve theorem
+
+
+homotopy extension property, Hurewicz cofibration
+
+
+cofiber sequence
+
+
+Strøm model category
+
+
+classical model structure on topological spaces
+
+
+
+Differential geometry
+
+synthetic differential geometry
+Introductions
+from point-set topology to differentiable manifolds
+geometry of physics: coordinate systems, smooth spaces, manifolds, smooth homotopy types, supergeometry
+Differentials
+
+
+differentiation, chain rule
+
+
+differentiable function
+
+
+infinitesimal space, infinitesimally thickened point, amazing right adjoint
+
+
+V-manifolds
+
+
+differentiable manifold, coordinate chart, atlas
+
+
+smooth manifold, smooth structure, exotic smooth structure
+
+
+analytic manifold, complex manifold
+
+
+formal smooth manifold, derived smooth manifold
+
+
+smooth space
+
+
+diffeological space, Frölicher space
+
+
+manifold structure of mapping spaces
+
+
+Tangency
+
+
+tangent bundle, frame bundle
+
+
+vector field, multivector field, tangent Lie algebroid;
+
+
+differential forms, de Rham complex, Dolbeault complex
+
+
+pullback of differential forms, invariant differential form, Maurer-Cartan form, horizontal differential form,
+
+
+cogerm differential form
+
+
+integration of differential forms
+
+
+
+
+
+
+local diffeomorphism, formally étale morphism
+
+
+submersion, formally smooth morphism,
+
+
+immersion, formally unramified morphism,
+
+
+de Rham space, crystal
+
+
+infinitesimal disk bundle
+
+
+The magic algebraic facts
+
+
+embedding of smooth manifolds into formal duals of R-algebras
+
+
+smooth Serre-Swan theorem
+
+
+derivations of smooth functions are vector fields
+
+
+Theorems
+
+
+Hadamard lemma
+
+
+Borel's theorem
+
+
+Boman's theorem
+
+
+Whitney extension theorem
+
+
+Steenrod-Wockel approximation theorem
+
+
+Whitney embedding theorem
+
+
+Poincare lemma
+
+
+Stokes theorem
+
+
+de Rham theorem
+
+
+Hochschild-Kostant-Rosenberg theorem
+
+
+differential cohomology hexagon
+
+
+Axiomatics
+
+
+Kock-Lawvere axiom
+
+
+smooth topos, super smooth topos
+
+
+microlinear space
+
+
+integration axiom
+
+
+
+
+
+cohesion
+
+
+(shape modality ⊣\dashv flat modality ⊣\dashv sharp modality)
+(ʃ⊣♭⊣♯)(\esh \dashv \flat \dashv \sharp )
+
+
+discrete object, codiscrete object, concrete object
+
+
+points-to-pieces transform
+
+
+structures in cohesion
+
+
+
+
+dR-shape modality⊣\dashv dR-flat modality
+ʃ dR⊣♭ dR\esh_{dR} \dashv \flat_{dR}
+
+
+infinitesimal cohesion
+
+classical modality
+
+tangent cohesion
+
+differential cohomology diagram
+
+differential cohesion
+
+
+(reduction modality ⊣\dashv infinitesimal shape modality ⊣\dashv infinitesimal flat modality)
+(ℜ⊣ℑ⊣&)(\Re \dashv \Im \dashv \&)
+
+
+reduced object, coreduced object, formally smooth object
+
+
+formally étale map
+
+
+structures in differential cohesion
+
+
+
+
+graded differential cohesion
+
+
+fermionic modality⊣\dashv bosonic modality ⊣\dashv rheonomy modality
+(⇉⊣⇝⊣Rh)(\rightrightarrows \dashv \rightsquigarrow \dashv Rh)
+
+
+singular cohesion
+  id ⊣ id   ∨  ∨  fermionic ⇉ ⊣ ⇝ bosonic   ⊥  ⊥  bosonic ⇝ ⊣ Rh rheonomic   ∨  ∨  reduced ℜ ⊣ ℑ infinitesimal   ⊥  ⊥  infinitesimal ℑ ⊣ & étale   ∨  ∨  cohesive ʃ ⊣ ♭ discrete   ⊥  ⊥  discrete ♭ ⊣ ♯ continuous   ∨  ∨   ∅ ⊣ *
+  \array{
+    && id &\dashv& id 
+    \\
+    && \vee && \vee
+    \\
+    &\stackrel{fermionic}{}& \rightrightarrows &\dashv& \rightsquigarrow & \stackrel{bosonic}{}
+    \\
+    && \bot && \bot
+    \\
+    &\stackrel{bosonic}{} & \rightsquigarrow &\dashv& \mathrm{R}\!\!\mathrm{h} & \stackrel{rheonomic}{}
+    \\
+    && \vee && \vee
+    \\
+    &\stackrel{reduced}{} & \Re &\dashv& \Im & \stackrel{infinitesimal}{}
+    \\
+    && \bot && \bot
+    \\
+    &\stackrel{infinitesimal}{}& \Im &\dashv& \& & \stackrel{\text{&#233;tale}}{}
+    \\
+    && \vee && \vee
+    \\
+    &\stackrel{cohesive}{}& \esh &\dashv& \flat & \stackrel{discrete}{}
+    \\
+    && \bot && \bot
+    \\
+    &\stackrel{discrete}{}& \flat &\dashv& \sharp & \stackrel{continuous}{}
+    \\
+    && \vee && \vee
+    \\
+    && \emptyset &\dashv& \ast
+  }
+
+
+Models
+
+
+Models for Smooth Infinitesimal Analysis
+
+
+smooth algebra (C ∞C^\infty-ring)
+
+
+smooth locus
+
+
+Fermat theory
+
+
+
+
+Cahiers topos
+
+
+smooth ∞-groupoid
+
+
+formal smooth ∞-groupoid
+
+
+super formal smooth ∞-groupoid
+
+
+Lie theory, ∞-Lie theory
+
+
+Lie algebra, Lie n-algebra, L-∞ algebra
+
+
+Lie group, Lie 2-group, smooth ∞-group
+
+
+differential equations, variational calculus
+
+
+D-geometry, D-module
+
+
+jet bundle
+
+
+variational bicomplex, Euler-Lagrange complex
+
+
+Euler-Lagrange equation, de Donder-Weyl formalism,
+
+
+phase space
+
+
+Chern-Weil theory, ∞-Chern-Weil theory
+
+
+connection on a bundle, connection on an ∞-bundle
+
+
+differential cohomology
+
+
+ordinary differential cohomology, Deligne complex
+
+
+differential K-theory
+
+
+differential cobordism cohomology
+
+
+
+
+parallel transport, higher parallel transport, fiber integration in differential cohomology
+
+
+holonomy, higher holonomy
+
+
+gauge theory, higher gauge theory
+
+
+Wilson line, Wilson surface
+
+
+Cartan geometry (super, higher)
+
+
+Klein geometry, (higher)
+
+
+G-structure, torsion of a G-structure
+
+
+Euclidean geometry, hyperbolic geometry, elliptic geometry
+
+
+(pseudo-)Riemannian geometry
+
+
+orthogonal structure
+
+
+isometry, Killing vector field, Killing spinor
+
+
+spacetime, super-spacetime
+
+
+
+
+complex geometry
+
+
+symplectic geometry
+
+
+conformal geometry
+
+
+
+
+
+Contents
+
+
+Idea
+Examples
+Entries in differential topology
+Related entries
+References
+
+
+Idea
+Differential topology is the subject devoted to the study of algebro-topological and homotopy-theoretic properties of differentiable manifolds, smooth manifolds and related differential geometric spaces such as stratifolds, orbifolds and more generally differentiable stacks.
+A key part of differential topology is cobordism theory, where the Pontryagin-Thom theorem relates the stable homotopy theory of Thom spectra to cobordism classes of smooth (sub-)manifolds (for instance cohomotopy to normally framed cobordism).
+Differential topology is also concerned with the problem of finding out which topological (or PL) manifolds allow a differentiable structure and the degree of nonuniqueness of that structure if they do (e.g. exotic smooth structures). It is also concerned with concrete constructions of (co)homology classes (e.g. characteristic classes) for differentiable manifolds and of differential refinements of cohomology theories.
+More recently, the smooth Oka principle reveals a deep structure in differential topology which is visible in the full generality of higher differential geometry (smooth 
+
+
+∞
+
+\infty
+
+-stacks).
+Examples
+Many considerations, and classification problems, depend crucially on dimension, and the case of high-dimensional manifolds (the notion of ‘high’ depends on the problem) is often very different from the situation in each of the low dimensions; thus there are specialists’ subjects like 33-(dimensional) topology and 44-topology. There are restrictions on an underlying topology which is allowed for some sorts of additional structures on a differentiable manifold.
+For example, only some even-dimensional differentiable manifolds allow for symplectic structure and only some odd-dimensional one allow for a contact structure; in these cases moreover special constructions of topological invariants like Floer homology and symplectic field theory exist.
+This yields the relatively young subjects of symplectic and contact topologies, with the first significant results coming from Gromov. Any (Hausdorff paracompact finite-dimensional) differentiable manifold allows for riemannian structure however; therefore there is no special subject of ‘riemannian topology’.
+Entries in differential topology
+
+
+Hopf degree theorem, equivariant Hopf degree theorem
+
+
+Poincaré–Hopf theorem
+
+
+Pontrjagin-Thom theorem
+
+
+Sard's theorem, transversality, Thom's transversality theorem
+
+
+Reeb sphere theorem
+
+
+cobordism
+
+
+…
+
+
+Related entries
+
+
+low dimensional topology
+
+
+synthetic differential topology
+
+
+equivariant differential topology
+
+
+References
+Though some of the basic results, methods and conjectures of differential topology go back to Poincaré, Whitney, Morse and Pontrjagin, it became an independent field only in the late 1950s and early 1960s with the seminal works of Smale, Thom, Milnor and Hirsch. Soon after the initial effort on foundations, mainly in the American school, a strong activity started in Soviet Union (Albert Schwarz, A. S. Mishchenko, S. Novikov, V. A. Rokhlin, M. Gromov…).
+Introductions and monographs:
+
+
+John Milnor, Differential topology, chapter 6 in T. L. Saaty (ed.) Lectures On Modern Mathematic II 1964 (pdf)
+
+
+John Milnor, Lectures on the h-cobordism theorem, 1965 (pdf)
+
+
+James R. Munkres, Elementary Differential Topology, Annals of Mathematics Studies 54 (1966), Princeton University Press (doi:10.1515/9781400882656).
+
+
+Andrew H. Wallace, Differential topology: first steps, Benjamin 1968.
+
+
+Victor Guillemin, Alan Pollack, Differential topology, Prentice-Hall 1974
+
+
+Morris Hirsch, Differential topology, Springer Graduate Texts in Mathematics 33 (1976) [doi:10.1007/978-1-4684-9449-5, gBooks]
+
+
+Theodor Bröcker, Klaus Jänich, Introduction to differentiable topology (1982) [ISBN:9780521284707]
+
+(translated from the German 1973 edition)
+
+
+
+Raoul Bott, Loring Tu, Differential Forms in Algebraic Topology, Graduate Texts in Math. 82, Springer 1982. xiv+331 pp.
+
+
+John Milnor, Topology from the differential viewpoint, Princeton University Press, 1997. (ISBN:9780691048338, pdf)
+
+
+Mladen Bestvina (notes by Adam Keenan), Differentiable Topology and Geometry, 2002 (pdf, pdf)
+
+
+C. T. C. Wall, Differential topology, Cambridge Studies in Advanced Mathematics 154, 2016
+
+
+Joel W. Robbin, Dietmar Salamon, Introduction to differential topology, 294 pp, webdraft 2018 pdf
+
+
+Riccardo Benedetti, Lectures on Differential Topology, Graduate Studies in Mathematics 218, AMS 2021 (arXiv:1907.10297, ISBN: 978-1-4704-6674-9)
+
+
+Survey with connections to algebraic topology:
+
+
+Sergei Novikov, Topology I – General survey, in: Encyclopedia of Mathematical Sciences Vol. 12, Springer 1986 (doi:10.1007/978-3-662-10579-5, pdf)
+
+
+Jean Dieudonné, A History of Algebraic and Differential Topology, 1900 - 1960, Modern Birkhäuser Classics 2009 (ISBN:978-0-8176-4907-4)
+
+
+See also
+
+Wikipedia, Differential topology
+
+Generalization to equivariant differential topology:
+
+Arthur Wasserman, Equivariant differential topology, Topology Vol. 8, pp. 127-150, 1969 (pdf)
+
+
+
+
+
+    Last revised on February  3, 2024 at 04:01:04.
+    See the history of this page for a list of all contributions to it.
+    
+
+
+EditDiscussPrevious revisionChanges from previous revisionHistory (23 revisions)
+Cite
+Print
+Source
+
+ 
+ 
+
+

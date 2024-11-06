@@ -1,0 +1,106 @@
+
+
+
+
+
+Prime Properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prime Properties
+A Prime Number is a whole number above 1
+that cannot be made by multiplying other whole numbers.
+2 is Prime
+We cannot make 2 by multiplying other whole numbers, so it is prime.
+Click on 2 below, what happens?
+
+
+
+images/prime-chart.js
+
+Every multiple of two gets eliminated, right? Because they can't be prime. So no even numbers any more:
+beyond 2 primes are odd.
+Note we are not saying "all odd numbers are prime", but that "a prime has to be an odd number"
+Multiples of 6
+Now go back up and hit the 3.
+From here on a prime has to be odd and not a multiple of 3.
+The next two primes (click them if you want) are 5 and 7, they are either side of 6.
+In fact, from now on a prime must be next to a multiple of 6.
+(Being next to a multiple of 3 is not enough. Look at 9, it has even numbers on each side, but 12 is next to odd numbers, then 15 is next to even numbers, etc.)
+beyond 3 primes are next to a multiple of 6
+
+Notice the "twin primes" 5 and 7 next to 6
+then the twin primes 11 and 13 next to 12
+and the twin primes 17 and 19 next to 18
+but this lovely pattern stops because 25 has been eliminated (a multiple of 5)
+This is often the case with primes, a nice pattern suddenly disappears!
+Twin primes must differ by only 2. The next two are 29 and 31, can you find more?
+Multiples of 24
+But we do get another pattern!
+Let's think about the numbers on either side of a prime p:
+
+
+one side (pâ1 or p+1) must be a multiple of 6
+the two sides (pâ1 and p+1) are consecutive (one after the other) even numbers
+in any two consecutive even numbers one must be a multiple of 4
+A multiple of 4 and a multiple of 6 tells us that (pâ1)(p+1) must be a multiple of 4x6 = 24
+And "multiple of 24" is 24n where n is some whole number:
+(pâ1)(p+1) = 24n
+We can multiply out (pâ1)(p+1) to get p2 â 1:
+p2 â 1 = 24n
+And we get:
+beyond 3 a prime squared minus 1 is a multiple of 24
+
+Example: 11
+112 â 1 = 121 â 1 = 120 (which is a multiple of 24)
+Or by multiplying its neighbors: 10 Ã 12 = 120
+
+Test it yourself: try 5, or 19, or ... any prime beyond 3.
+There are many more interesting properties of primes, can you discover more?
+ 
+
+Prime and Composite Numbers
+Prime Color Chart
+Prime Numbers - Advanced
+Introduction to Number Theory
+
+
+
+
+
+Copyright © 2023 Rod Pierce
+
+
+
+

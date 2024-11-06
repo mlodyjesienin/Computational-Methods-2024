@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+Numerical and Computational Methods - PHYS6110 - Modules - University of Kent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+The University of Kent
+
+
+
+
+
+
+
+
+
+Search icon
+
+
+
+
+
+
+
+cross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modules
+
+
+Menu
+
+
+
+
+
+
+Choosing your modules
+
+
+
+
+How to apply
+
+
+
+
+Planning your career
+
+
+
+
+Student profiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Kent
+Courses
+Modules
+Numerical and Computational Methods
+
+
+Numerical and Computational Methods - PHYS6110
+Looking for a different module?
+
+
+
+
+
+Module delivery information
+
+This module is not currently running in 2024 to 2025.
+
+
+
+
+
+
+
+Overview
+This module provides a foundation in numerical approximations to analytical methods – these techniques are essential for solving problems by computer. An indicative list of methods is: Linear equations, zeros and roots, least squares & linear regression, eigenvalues and eigenvectors, errors and finite differences, linear programming, interpolation and plotting functions, numerical integration, numerical differentiation, solutions to ordinary differential equations using numerical methods.
+Details
+Contact hours
+Total Contact Hours: 32
+Total Private Study Hours: 118
+Total Study Hours: 150
+Availability
+This is not available as a wild module.
+Method of assessment
+Problem Sheet 1 (3 hours) – 20%
+Problem Sheet 2 (3 hours) – 20%
+Problem Sheet 3 (3 hours) – 20%
+Problem Sheet 4 (3 hours) – 20%
+Problem Sheet 5 (3 hours) – 20%
+Indicative reading
+Chapra, S. (2008). Applied Numerical Methods with MATLAB for Engineers and Scientists. New York: McGraw-Hill.
+Moler, C. (2004). Numerical Computing with MATLAB, Society for Industrial and Applied Mathematics, Philadelphia: SIAM.
+See the library reading list for this module (Canterbury)
+Learning outcomes
+The intended subject specific learning outcomes. On successfully completing the module students will be able to:
+Demonstrate the ability to identify relevant principles and laws when dealing with problems, and to make approximations necessary to obtain solutions.
+Demonstrate a systematic ability to solve problems in physics using appropriate mathematical tools.
+Demonstrate a confident ability to use mathematical techniques and analysis to model physical behaviour.
+Demonstrate an assured ability to solve advanced problems in physics using appropriate mathematical tools, to translate problems into mathematical statements and apply their knowledge to obtain order of magnitude or more precise solutions as appropriate.
+Demonstrate the ability to accurately interpret mathematical descriptions of physical phenomena.
+Display a working knowledge of a variety of mathematical and/or computational techniques applicable to current research within physics.
+Demonstrate complete competence in the use of appropriate C&IT packages/systems for the analysis of data and the retrieval of appropriate information.
+Present and interpret information graphically accurately and confidently.
+Demonstrate the ability to make use of appropriate texts, or other learning resources as part of managing their own learning.
+
+The intended generic learning outcomes. On successfully completing the module students will be able to:
+Demonstrate extensive problem-solving skills in the context of both problems with well-defined solutions and open-ended problems; an ability to formulate problems in precise terms and to identify key issues, and the confidence to try different approaches in order to make progress on challenging problems. Numeracy is subsumed within this area.
+Demonstrate professional analytical skills associated with the need to pay attention to detail and to develop an ability to manipulate precise and intricate ideas, to construct logical arguments and to use technical language correctly.
+
+Notes
+
+
+
+ECTS credits are recognised throughout the EU and allow you to transfer credit easily from one university to another.
+The named convenor is the convenor for the current academic session.
+
+Back to top
+
+
+
+						University of Kent makes every effort to ensure that module information is accurate for the relevant academic session and to provide educational services as described. However, courses, services and other matters may be subject to change. Please read our full disclaimer.
+					
+
+
+
+Key information
+
+
+Year
+
+							2024 to 2025
+						
+
+
+Pre-requisites
+
+							None
+						
+
+
+Restrictions
+
+							None
+						
+
+
+Documents
+
+Module specification
+
+
+
+
+
+
+
+
+General information
+
+
+
+
+Contact us
+
+
+
+The University of Kent
+
+
+
+
+University of Kent, Canterbury, Kent, CT2 7NZ
+
+
+
+
+Social media links
+
+
+
+Connect with us on Facebook
+
+
+
+
+
+Follow us on X
+
+
+
+
+
+
+
+Follow us on Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with us on LinkedIn
+
+
+
+
+
+
+
+
+
+
+Subscribe to us on Youtube
+
+
+
+
+
+
+
+
+
+
+Subscribe to us on TikTok
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affiliations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About us
+Research
+Governance and planning
+Access agreements
+Transparency return
+Modern Slavery Act Statement
+Charity information
+Locations
+Support us
+What's on
+News
+Business services
+Career opportunities
+Sustainability
+
+
+
+
+
+
+
+
+Courses
+Undergraduates
+Postgraduates
+International students
+Part-time and short courses
+Student experience
+Accommodation
+Fees and funding
+Scholarships
+Term dates
+
+
+
+
+
+
+
+
+Applicants
+Parents and family
+Students
+Staff
+Alumni
+Business and partners
+Paying online
+
+
+
+
+
+Other links
+
+© University of Kent
+Accessibility
+Contact us
+Feedback
+Legal
+Privacy notice
+Cookies
+Update your cookie consent
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - dsilvavinicius/differential_geometry_in_neural_implicits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+          Sign in
+        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+For
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Education
+
+    
+
+
+
+
+
+
+By Solution
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+Resources
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+              Sign in
+            
+
+
+              Sign up
+            
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        dsilvavinicius
+ 
+/
+
+differential_geometry_in_neural_implicits
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    2
+
+
+
+
+ 
+
+
+          Star
+ 47
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47
+          stars
+ 
+
+
+
+2
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+0
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+dsilvavinicius/differential_geometry_in_neural_implicits
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History316 Commitsdocsdocs  experiment_scriptsexperiment_scripts  experimentsexperiments  figsfigs  i3di3d  toolstools  .gitignore.gitignore  .gitmodules.gitmodules  MakefileMakefile  README.mdREADME.md  download_data.shdownload_data.sh  environment.ymlenvironment.yml  reconstruct.pyreconstruct.py  requirements.txtrequirements.txt  setup.pysetup.py  train_sdf.pytrain_sdf.py  View all filesRepository files navigationREADMEExploring Differential Geometry in Neural Implicits
+Tiago Novello [1],
+Guilherme Schardong [3],
+Luiz Schirmer [3],
+Vinícius da Silva [2],
+Hélio Lopes [2],
+Luiz Velho [1]
+
+[1] Institute for Pure and Applied Mathematics (IMPA),
+[2] Pontifical Catholic University of Rio de Janeiro (PUC-Rio),
+[3] University of Coimbra (UC)
+This is the official implementation of "Exploring Differential Geometry in Neural Implicits".
+
+Getting started
+Prerequisites
+
+Anaconda, alternativelly you can use PyEnv and PyEnv-VirtualEnv on UNIX based/like systems
+Git
+Integrate Git Bash with conda (If on Windows)
+MeshLab
+
+Code organization
+Most of the code is organized in the i3d package. Inside the corresponding folder, there are the following files:
+
+dataset.py - contains the sampling and data classes
+diff_operators.py - implementation of differential operators (gradient, hessian, jacobian, curvatures)
+loss_functions.py - contains loss functions for different experimental settings
+meshing.py - mesh creation through marching cubes
+model.py - network and layers implementations
+util.py - miscelaneous functions and utilities
+
+Additionally, under the experiment_scripts folder, there are three scripts with experiments and other auxiliary code that is generally independent of the main code.
+
+comparison_analytic.py - comparison experiments of RBF, SIREN and our approach for analytic models of a sphere and torus
+comparison_ply.py - comparison experiments of RBF, SIREN and our approach for PLY models
+mesh2sdf_open3d_performance_test.py - performance test using SDF querying implemented in mesh2sdf and open3d. Not used in the paper, only testing if it was worth replacing the sampling code implemented using mesh2sdf with open3d.
+sdf_for_n_iters.py - Experiments with intermitent querying of off-surface points. Both to speed-up the training and test the influence of generating the off-surface points at each iteration.
+
+In the tools folder, there are two scripts:
+
+estimate_mesh_curvatures.py: Given a trained model (pth) and the original mesh, we estimate the vertex curvatures using the trained model.
+reconstruct.py: Given a trained model (pth) reconstructs the mesh using marching cubes.
+
+The main training script is located in the repository root
+
+train_sdf.py - main function and point-of-entry to our code
+
+The parameters for our experiments are stored inside the yaml files in the experiments folder. Besides the experiments for each mesh, this folder has two template mostly identical files:
+
+default.yaml - parameters for uniform sampling
+default_curvature.yaml - parameters for curvature-based sampling
+
+Note that for all curvature-based sampling experiments, the mesh must contain a curvature field. We expect it to be named "quality", following the meshlab convention and, in the PLY file, be the 7th data column.
+Setup and sample run
+
+Open a terminal (or Git Bash if using Windows)
+Clone the repository: git clone git@github.com:dsilvavinicius/differential_geometry_in_neural_implicits.git i3d.
+Enter project folder: cd i3d.
+Create the environment and setup project dependencies:
+
+conda env create -f environment.yml
+conda activate i3d
+pip install -e .
+
+or, if using pyenv (with pyenv-virtualenv):
+pyenv virtualenv 3.9.9 i3d
+pyenv local i3d
+pip install -r requirements.txt
+pip install -e .
+
+
+Download the datasets (available here) and extract them into the data folder of the repository
+Train a network for the armadillo mesh:
+
+python train_sdf.py data/armadillo_curvs.ply results/armadillo_curvs experiments/armadillo_curvature.yaml
+
+
+The results will be stored in results/armadillo_curvs.
+Convert the trained network back to a triangle mesh:
+
+python tools/reconstruct.py results/armadillo_curvs/best.pth results/armadillo_curvs/best.ply
+
+
+To visualize the output mesh by opening the output PLY using MeshLab:
+
+meshlab results/armadillo_curvs/best.ply
+
+End Result
+If everything works, MeshLab should show the following image (or an image similar to it):
+
+Linux
+We tested the build steps stated above on Ubuntu 20.04. The prerequisites and setup remain the same, since all packages are available for both systems. We also provide a Makefile to cover the data download and network training and visualization (steps 5 through 9) above.
+Running without graphical environments
+If you are training your model in a remote server with no graphical environment, you will probably end up with the following error: pyglet.canvas.xlib.NoSuchDisplayException: Cannot connect to "None". This may happen during the SDF sampling step when iterating on a mesh. Basically, this means that pyglet needs a graphical display, which does not exist. You can work around this error by creating a virtual framebuffer, which can be done by prepending your python command with: xvfb-run -s "-screen 0 1400x900x24", as in:
+xvfb-run -s "-screen 0 1400x900x24" python train_sdf.py experiments/armadillo_curvature.yaml
+
+Naturally, you may adjust the resolution to fit your needs. This was tested on an Ubuntu Linux server and should work for other distributions. If using BSDs or other systems, your milleage may vary.
+Citation
+If you find our work useful in your research, please cite:
+@article{novello:i3d:2022,
+  title = {Exploring differential geometry in neural implicits},
+  journal = {Computers & Graphics},
+  volume = {108},
+  pages = {49-60},
+  year = {2022},
+  issn = {0097-8493},
+  doi = {https://doi.org/10.1016/j.cag.2022.09.003},
+  url = {https://www.sciencedirect.com/science/article/pii/S0097849322001649},
+  author = {Tiago Novello and Guilherme Schardong and Luiz Schirmer and Vinícius {da Silva} and Hélio Lopes and Luiz Velho},
+  keywords = {Implicit surfaces, Neural Implicits, Neural Networks, Curvatures},
+}
+
+Contributors
+Besides the paper authors, we list other contributors below. Thank you for helping make our code better!
+DavidXu-JJ - Handling the U=W=0 case on diff_operators.principal_directions
+Contact
+If you have any questions, please feel free to email the authors, or open an issue.
+Other examples
+
+Principal curvatures and directions overlaid on the Armadillo.
+
+Maximum curvature and corresponding direction on the Stanford Dragon.
+   
+
+
+
+
+
+
+
+
+About
+
+        No description, website, or topics provided.
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+
+Activity
+ 
+Stars
+
+
+
+
+
+47
+      stars
+ 
+Watchers
+
+
+
+
+
+9
+      watching
+ 
+Forks
+
+
+
+
+
+2
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+      2
+
+
+
+
+
+
+
+Performance improvements and major code changes
+
+          Latest
+ 
+Nov 6, 2023
+
+ 
+
+        + 1 release
+
+
+
+
+
+
+
+    Packages
+      0
+
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Contributors
+      5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+Jupyter Notebook
+89.8%
+
+
+
+
+
+
+
+Python
+10.0%
+
+
+
+
+
+
+
+Other
+0.2%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

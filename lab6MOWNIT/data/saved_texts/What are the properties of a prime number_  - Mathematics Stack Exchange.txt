@@ -1,0 +1,2482 @@
+
+
+
+
+What are the properties of a prime number?  - Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What are the properties of a prime number?  [closed]
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+12 years, 5 months ago
+
+
+Modified
+8 years, 11 months ago
+
+
+Viewed
+                        19k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+
+
+
+
+
+
+
+Closed. This question needs to be more focused. It is not currently accepting answers.
+                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+Want to improve this question? Update the question so it focuses on one problem only by editing this post.
+
+
+Closed 8 years ago.
+
+
+
+
+
+
+
+                        Improve this question
+                    
+
+
+
+For instance, we know that odd numbers behave like:
+$$x = 2y + 1 \quad\text{where}\quad x,y\in\mathbb Z$$
+For even numbers:
+$$a = 2b \quad\text{where}\quad a,b\in\mathbb Z$$
+But what about prime numbers?
+
+
+
+
+elementary-number-theoryprime-numbers
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 29, 2011 at 0:37
+
+
+
+
+
+
+Arturo Magidin
+
+403k5757 gold badges830830 silver badges1.1k1.1k bronze badges
+
+
+
+
+
+
+
+
+            asked Dec 29, 2011 at 0:21
+
+
+
+
+
+
+jakjak
+
+29522 gold badges55 silver badges88 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+5
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+Clearly all primes other than $2$ must be of the form $2k + 1$ for some integer $k$ (else it is divisible by $2$). This is the same as saying all primes (other than 2) are congruent to 1 (mod 2). Similarly, all primes are congruent to 1 or 2 (mod 3). And all primes are congruent to 1 or 3 (mod 4)... etc. What exactly are you looking for? There is no 'general' form of a prime number, if that's what you're asking.
+$\endgroup$
+
+– Daniel Freedman
+
+Dec 29, 2011 at 0:26
+
+
+
+
+
+
+5
+
+
+
+
+$\begingroup$
+There is no comparably simple rule for prime numbers.  But google the term "sieve of Eratosthenes". So much has been written about their properties that brilliant people spend their lives studying them without reading most of what's been published.  In around 300 BC, Euclid proved that infinitely many of them exist.  Maybe that's the most interesting result that can be presented at an elementary level.
+$\endgroup$
+
+– Michael Hardy
+
+Dec 29, 2011 at 0:28
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Daniel, that answer my question. I am indeed looking for a "general" form. Almost like a formula with what I have.
+$\endgroup$
+
+– jak
+
+Dec 29, 2011 at 0:32
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+There are polynomials in several variables that produce all of the prime numbers when the input variables are restricted to be nonnegative.  See this for an example of a polynomial in $26$ variables that does the job.  It is known that there is also such a polynomial in $10$ variables.
+$\endgroup$
+
+– 2'5 9'2
+
+Dec 29, 2011 at 0:32
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+@jak, would "Is there a general formula for prime numbers?" be a more accurate title for your question?
+$\endgroup$
+
+– user856
+
+Dec 29, 2011 at 10:01
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        13 Answers
+                                    13
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            24
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+$p \not = ab$ when $a,b > 1 \in \mathbb N$.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 29, 2011 at 9:48
+
+
+
+
+
+
+        user16697user16697
+
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+what about a=p ?
+$\endgroup$
+
+– ady
+
+Oct 22, 2015 at 5:05
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+@ady This is essentially saying b = 1: $p = 1 * a$. However, notice that $a$ and $b$ must be greater than 1.
+$\endgroup$
+
+– Kenneth Worden
+
+Aug 16, 2017 at 20:11
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            10
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Wilson's theorem: a natural number $n > 1$ is a prime number iff 
+$(n-1)!\ \equiv\ -1 \pmod n $
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jan 4, 2012 at 13:42
+
+
+
+
+
+
+draks ...draks ...
+
+18.5k88 gold badges6666 silver badges192192 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+A powerful way..
+$\endgroup$
+
+– MysticForce
+
+Aug 27, 2016 at 9:23
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            7
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+There's no nice, algebraic formula for primes; there are some examples at the Wikipedia article on the subject, but they are all ugly and impractical. Overall, the simplest way to define the primes is as numbers with only 2 divisors.
+You can, of course, say things such as "all primes except 2 are odd numbers", which follows from the definition, but this doesn't tell you anything about which odd numbers are prime, and there are not clear patterns.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 29, 2011 at 0:30
+
+
+
+
+
+
+Will DanaWill Dana
+
+1,08177 silver badges2020 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+8
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Re "the simplest way to define the primes is as numbers with only 2 divisors": AFAIK that's usual the definition of irreducible. AFAIK the usual definition of prime is that a number is prime iff its being a divisor of $ab$ implies it's a divisor of $a$ or of $b$. (That is, however, equivalent to primality.)
+$\endgroup$
+
+– msh210
+
+Dec 29, 2011 at 1:02
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@msh210: Your "usual definition" leads to $1$ being a prime, which is not a commonly held meaning.
+$\endgroup$
+
+– hmakholm left over Monica
+
+Dec 29, 2011 at 1:12
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+@HenningMakholm, yes, I didn't state I was talking about integers $>1$. I also didn't state I was talking about integers at all. But I was, and I was. (More generally, a nonzero non-unit is prime if....)
+$\endgroup$
+
+– msh210
+
+Dec 29, 2011 at 1:14
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@msh210: Any reference in support of the usual in the usual definition?
+$\endgroup$
+
+– Did
+
+Dec 29, 2011 at 9:29
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@DidierPiau, not really: it'd require a survey of all sources of definitions for the terms. However, I strongly suspect most elementary abstract algebra books agree on this.
+$\endgroup$
+
+– msh210
+
+Dec 29, 2011 at 17:42
+
+
+
+
+
+
+
+ | 
+Show 3 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+To add to the fact there is no general formula for primes, it may help to trace back history of prime number. Euclid defined primes in Elements, Book VII, Definition 11 as:
+
+A prime number is that which is measured by a unit alone.
+
+which in turn relies on definitions of number and unit.
+Definition 1 from the same book:
+
+A unit is that by virtue of which each of the things that exist is called one. 
+
+Definition 2:
+
+A number is a multitude composed of units. 
+
+As far as formal definition, Metamath Proof Explorer defines it as such: primes.
+As a sidenote, although it is not a property of prime numbers, Goldbach's conjecture states that:
+
+Every even integer greater than 2 can be expressed as the sum of two primes.
+
+Edit: There are forms of primes. Here is the entire list:
+https://en.wikipedia.org/wiki/List_of_prime_numbers
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 26, 2013 at 5:59
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            community wiki
+        
+
+
+
+        2 revsMahmud
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            4
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Here's another property somewhat related to primes that I studied in the morning:
+For any given integer $m$,there is no polynomial $p(x)$ with integer coefficients such that $p(n)$ is prime for all integers $n\ge m$.
+References:
+1) 104 Number Theory Problems: From the Training of the USA IMO Team
+by Titu Andreescu, Dorin Adrica and Zuming Feng.
+Edit: I was browsing through the internet when I stumbled upon this book dedicated to primes.(I am unable to comment on it as I have no background in advanced maths)
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 29, 2011 at 9:37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Dec 29, 2011 at 8:15
+
+
+
+
+
+
+EisenEisen
+
+2,44455 gold badges2525 silver badges3030 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I am sure there are many other properties and I guess they are too many to list.
+$\endgroup$
+
+– Eisen
+
+Dec 29, 2011 at 8:17
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Since people are talking about "formulas for primes" and someone mentioned polynomials, it's amusing to mention this fact: There actually is a 4th- (if I recall correctly) -degree polynomial in 14 (if I recall correctly) variables, with integer coefficients---let us call it $f(p,x_1,\ldots,x_{13})$---such that
+$$
+p\text{ is prime if and only if }\exists x_1\  \cdots\  \exists x_{13}\  f(p,x_1,\ldots,x_{13})=0.
+$$
+(Or maybe I should have "$14$" where "$13$" appears?)
+The polynomial, in all its splendor, is too long to write in this margin.  But if you read about Hilbert's 10th problem you'll probably come across it.
+Later note: That such a polynomial exists is what is expressed by saying that the set of all prime numbers is a "Diophantine set".
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Mar 27, 2012 at 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Dec 30, 2011 at 2:39
+
+
+
+
+
+
+Michael HardyMichael Hardy
+
+1
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+For reference: The table displayed in this question (taken from Ribenboim's The New Book of Prime Number Records) lists a few known facts on such polynomials. In particular, there are a polynomial in $12$ variables of degree $13697$ and a (not explicitly written) polynomial in $42$ variables of degree $5$ representing the primes.
+$\endgroup$
+
+– t.b.
+
+Dec 30, 2011 at 5:18
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I strongly recommend that you take a look at Zagier's paper on the first 50 million prime numbers to learn about some other characterizations of the notion of "prime number".
+As to congruences that characterize primality, Wilson's theorem provides you with one of the most-well known (as the fact that it's already been mentioned above/below testifies). Nonetheless, there is an interesting near-miss by M. V. Subbarao. You can read about this in one of those volumes by Ross Honsberger. Furthermore, if you are curious enough you may want to call on Scott Kominers' homepage: there is a generalization of the said criterion by Subbarao in a note of him that was recently published in Integers.
+Here you have some other equivalences of the definition of prime number:
+A. $p$ is a positive prime number iff $\phi(p) = p-1$.
+When I told Prof. Luca about this finding of mine, he generously told me about Lehmer's totient problem.
+B. $p$ is a positive prime number iff $p$ is the least factor $>1$ of some natural number.
+C. Later...
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited May 3, 2014 at 11:33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Feb 23, 2012 at 12:47
+
+
+
+
+
+
+        user2624user2624
+
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I was unable to find such a paper mentioned at Kominers’ site.
+$\endgroup$
+
+– Brian M. Scott
+
+Feb 24, 2012 at 10:25
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+$
+x= \left\{
+  \begin{array}{lr}
+    Prime & :  \left| \prod _{k=2}^{x-1}\sin \left( {\frac {x\pi }{k}} \right) kx
+ \right| 
+ > 0\\
+    Composite & :  \left| \prod _{k=2}^{x-1}\sin \left( {\frac {x\pi }{k}} \right) kx
+ \right| 
+ = 0
+  \end{array}
+\right.
+$
+s.t. $x \in \mathbb{N}$
+This is a function I made, it works like the Sieve of Eratosthenes from which I derived it.  
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 17, 2014 at 6:21
+
+
+
+
+
+
+NumoruNumoru
+
+431010 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Oh also I came up with a nice Prime counting function utilizing this function. $ Pi(n)= \sum _{x=2}^{n} \left\{   \begin{array}{lr}     1 & :  \left| \prod _{k=2}^{x-1}\sin \left( {\frac {x\pi }{k}} \right) kx  \right|   > 0\\     0 & :  \left| \prod _{k=2}^{x-1}\sin \left( {\frac {x\pi }{k}} \right) kx  \right|   = 0   \end{array} \right. $ Where Pi(n)==number of primes up till n
+$\endgroup$
+
+– Numoru
+
+Jul 17, 2014 at 7:57
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+A formula might be created using the$\mod(\cdot)$ function.
+$\mod({\rm PrimeNumber}/n) > 0$ for all $n \in \mathbb{N}$ and $n > 1$ other than PrimeNumber
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Feb 23, 2012 at 12:25
+
+
+
+
+
+
+draks ...
+
+18.5k88 gold badges6666 silver badges192192 bronze badges
+
+
+
+
+
+
+
+
+            answered Dec 30, 2011 at 4:59
+
+
+
+
+
+
+IanIan
+
+2122 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+In a way there are more prime numbers than there are a square numbers, this is not an exact statement but the sum over all prime numbers diverges where as the sum over square of all numbers converges.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Feb 23, 2012 at 12:37
+
+
+
+
+
+
+jimjimjimjim
+
+9,70866 gold badges4141 silver badges8888 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+All the primes are of the form $6k\pm 1,k\in \mathbb{N}$ (but, of course, not all the numbers of this form are prime):
+Numbers of the form $6k+2$ or $6k+4$ are even while numbers of the form $6k+3$ are clarly divisible by 3, this leaves only numbers of the form $6k+1$ or $6k+5$ as potential primes
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Mar 18, 2014 at 10:04
+
+
+
+
+
+
+Alessandro CodenottiAlessandro Codenotti
+
+12.4k22 gold badges3030 silver badges5959 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Some elementary primality tests may answer your question regarding the properties of prime numbers. See my question on 'Lehmer-Totient-Problem' for more reference. Also you can use the following theorem as a tool for primality test. The theorem sates that- "An integer $n$ is a prime if and only if $n|\phi(n)!+1$." 
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Mar 28, 2014 at 9:59
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Mar 18, 2014 at 9:51
+
+
+
+
+
+
+William HilbertWilliam Hilbert
+
+1,22311 gold badge77 silver badges1818 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+
+Every prime number $p$ can be writen as: 
+  $$p=4k\pm1$$
+and $$\displaystyle\lim_{n\to\infty} \frac{|\{p\in\mathbb{P}: \exists n\in\mathbb{N}/ p=4n+1\}|}{|\{p\in\mathbb{P}: \exists n\in\mathbb{N}/ p=4n-1\}|}=1$$
+where:
+
+
+$\mathbb{P}=\{n\in\mathbb{N}: n \mbox{ is prime }\}$
+$|A|= card(A)$
+
+It means, there are an equal number of primes of the form $4k+1$ and $4k-1$
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 2, 2015 at 3:53
+
+
+
+
+
+
+L FL F
+
+3,66322 gold badges2323 silver badges4848 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged elementary-number-theoryprime-numbers.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+34
+
+Proof of no prime-representing polynomial in 2 variables
+
+
+
+
+Related
+
+
+
+8
+
+What is the ratio of number of prime to number of natural numbers
+
+
+
+55
+
+Is zero a prime number?
+
+
+
+4
+
+Prime number that are recursively made up of other prime number -- what is this called
+
+
+
+5
+
+Why are the first 5 Fermat numbers prime?
+
+
+
+4
+
+How do I prove or disprove this prime number conjecture?
+
+
+
+1
+
+Prime number lists
+
+
+
+1
+
+Difference between 2 cubed prime numbers cubed being a prime number
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    solana/web3.js Request Airdrop 429 error
+                
+
+
+
+                    Latex: Want to Use marathi font and English font
+                
+
+
+
+                    Cut out rotated rectangle shape
+                
+
+
+
+                    What changes the velocity perpendicular to radius in an elliptical orbit?
+                
+
+
+
+                    Why is finding a mathematical basis for the fine-structure constant meaningful?
+                
+
+
+
+                    What is the difference between Hof and Bauernhof?
+                
+
+
+
+                    Non-universal and non classically simulatable gate set?
+                
+
+
+
+                    How much of an advantage is it to have high acceleration in space combat
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Can secondary dominant have 2 tritones with addition of b9?
+                
+
+
+
+                    What is the point of triggering of a national snap election immediately after losing the EU elections?
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+                    Can you use the special use features with tools without the tool?
+                
+
+
+
+                    Geometry Nodes - Fill Quadrilaterals That Intersect
+                
+
+
+
+                    What terminal did David connect to his IMSAI 8080?
+                
+
+
+
+                    Having friends who are talented is great, but it can also be ___ at times
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    Create repeating geometry across a face
+                
+
+
+
+                    Are dichotomous categorical variables technically interval/continuous measures?
+                
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    What do humans do uniquely, that computers apparently will not be able to?
+                
+
+
+
+                    How do you load a regtest wallet?
+                
+
+
+
+                    Book where the populace is split between two sects, that of the “hand” and that of the “mind"
+                
+
+
+
+                    Starlink Satellite Orbits
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

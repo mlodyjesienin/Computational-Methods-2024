@@ -1,0 +1,47 @@
+
+Twentieth Century Mathematics
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+History of MathematicsThe Twentieth CenturyHomeHistory of MathExpansion of mathematical sciences that began in the 19th century resulted from economic growth fueled by the Industrial Revolution and is why twentieth century advancements of math are often alongside technology research and scientific innovation. Math is an interdisciplinary subject.Mathematics is considered a science and absolutely joined to other theoretical and applied sciences including physics, biology, chemistry, geology, economics, engineering, architecture, political science and social science. Without doubt one of the most important innovations of interdisciplinary sciences is the electronic programmable computer. The computer not only requires advanced mathematics for its development, but also provides solutions to complex mathematical problems where the computations required to solve problems exceed human capability. By the end of the 20th century there are hundreds of specialized areas in mathematics and the Mathematics Subject Classification was dozens of pages long. Published mathematical journals continue to increase in number and content.David Hilbert puts forth during his speech to the International Congress of Mathematicians, 1900, a list of 23 unsolved problems in mathematics. These problems span many areas of mathematics and form a central focus for twentieth century mathematicians. At least 10 have been solved and notable historical conjectures were proven. Wolfgang Haken and Kenneth Appel, 1976 AD, used a computer to prove the Four Color Theorem. Andrew Wiles, 1995 AD, proved Fermat's Last Theorem. Paul Cohen and Kurt GÃ¶del proved the Continuum Hypothesis is independent (could neither be proved nor disproved) of the standard axioms of Set Theory. Thomas Callister Hales, 1998 AD, proved the Kepler Conjecture.
+
+
+
+
+
+Differential Geometry becomes its own science when Einstein applies geometry in his Theory of General Relativity. Entire new branches of math spanning mathematical logic, topology, and John von Neumann's Game Theory provide new questions that could be entirely answered by mathematical methods. Numerous abstract structures using axioms are given names like metric spaces and topological spaces. The concept of an abstract structure was itself abstracted and led to Category Theory. Grothendieck and Serre recast algebraic geometry using Sheaf Theory. Albert Einstein
+
+
+
+
+
+Non-standard analysis introduced by Abraham Robinson rehabilitated the infinitesimal approach to calculus by extending the field of real numbers to the hyper-real numbers which include infinitesimal and infinite quantities. An even larger number system, the surreal numbers, was discovered by John Horton Conway in connection with combinatorial games.The development and continual improvement of electronic computers allowed industry to deal with larger and larger volumes of data processing to facilitate mass production, distribution and communication. New areas of mathematical sciences were developed to deal with: 1) Alan Turing's Computability Theory and Complexity Theory, 2) Claude Shannon's Information Theory, signal processing, data analysis, optimization and other areas of Operations Research. During preceding centuries much mathematical focus was on Calculus and continuous functions, but the rise of computing and communications networks led to an increasing importance of discrete concepts and the expansion of Combinatorics including Graph Theory. Accurate high-speed computers handled mathematical problems that were difficult and tedious by pencil and paper calculation methods, and led to numerical analysis and symbolic computation. Some of the most important methods and algorithms of the twentieth century are: 1) The Simplex Algorithm, 2) The Fast Fourier Transform, 3) Error-correcting codes, 4) The Kalman Filter from Control Theory, and 5) The RSA algorithm of public-key cryptography.John von NeumannClaude ShannonEmmy Noether has been described by many as the most important woman in the history of mathematics, she revolutionized the theories of rings, fields, and algebras.Top of Page
+
+
+
+
+ 
+
+Copyright Â© DigitMath.comAll Rights Reserved.AboutPrivacyEinstein used Differential Geometry in Theory of General Relativity.Game theory is major mathematics contribution of von Neumann.Shannon contributes Information Theory and Operations Research to mathematics.
+
+
+
+

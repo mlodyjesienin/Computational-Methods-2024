@@ -1,0 +1,1895 @@
+
+
+
+
+general relativity - What is known about the topological structure of spacetime? - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What is known about the topological structure of spacetime?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+13 years, 6 months ago
+
+
+Modified
+1 year, 5 months ago
+
+
+Viewed
+                        11k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            122
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+General relativity says that spacetime is a Lorentzian 4-manifold $M$ whose metric satisfies Einstein's field equations.  I have two questions:
+
+What topological restrictions do Einstein's equations put on the manifold?  For instance, the existence of a Lorentz metric implies some topological things, like the Euler characteristic vanishing.
+Are there any experiments being done or even any hypothetical experiments that can give information on the topology?  E.g. is there a group of graduate students out there trying to contract loops to discover the fundamental group of the universe?
+
+
+
+
+
+general-relativityspacetimeuniversedifferential-geometrytopology
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 6, 2017 at 9:09
+
+
+
+
+
+
+JamalS
+
+19.4k66 gold badges5858 silver badges105105 bronze badges
+
+
+
+
+
+
+
+
+            asked Dec 10, 2010 at 5:55
+
+
+
+
+
+
+EricEric
+
+1,70422 gold badges1313 silver badges1515 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Regarding 2. If you solve the electromagnetic wave equation in a closed space you get geometric dispersion which makes the speed of the waves depend upon their frequency (though the effect is too small to observe on the length scales in which we measure electromagnetic radiation).
+$\endgroup$
+
+– R. Rankin
+
+Nov 18, 2021 at 6:34
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+The original paper on the Topological Censorship (1993). Related: physics.stackexchange.com/q/12012/226902
+$\endgroup$
+
+– Quillo
+
+Sep 25, 2023 at 16:43
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        6 Answers
+                                    6
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            54
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+That's a great question! What you are asking about is one of the missing links between classical and quantum gravity.
+On their own, the Einstein equations, $ G_{\mu\nu} = 8 \pi G T_{\mu\nu}$, are local field equations and do not contain any topological information. At the level of the action principle,
+$$ S_{\mathrm{eh}} = \int_\mathcal{M} d^4 x \, \sqrt{-g} \, \mathbf{R} $$
+the term we generally include is the Ricci scalar $ \mathbf{R} = \mathrm{Tr}[ R_{\mu\nu} ] $, which depends only on the first and second derivatives of the metric and is, again, a local quantity. So the action does not tell us about topology either, unless you're in two dimensions, where the Euler characteristic is given by the integral of the ricci scalar:
+$$ \int d^2 x \, \mathcal{R} = \chi $$
+(modulo some numerical factors). So gravity in 2 dimensions is entirely topological. This is in contrast to the 4D case where the Einstein-Hilbert action appears to contain no topological information.
+This should cover your first question.
+All is not lost, however. One can add topological degrees of freedom to 4D gravity by the addition of terms corresponding to various topological invariants (Chern-Simons, Nieh-Yan and Pontryagin). For instance, the Chern-Simons contribution to the action looks like:
+$$ S_{cs} = \int d^4 x \frac{1}{2} \left(\epsilon_{ab} {}^{ij}R_{cdij}\right)R_{abcd} $$
+Here is a very nice paper by Jackiw and Pi for the details of this construction.
+There's plenty more to be said about topology and general relativity. Your question only scratches the surface. But there's a goldmine underneath ! I'll let someone else tackle your second question. Short answer is "yes".
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 6, 2017 at 9:10
+
+
+
+
+
+
+JamalS
+
+19.4k66 gold badges5858 silver badges105105 bronze badges
+
+
+
+
+
+
+
+
+            answered Dec 10, 2010 at 8:15
+
+
+
+
+
+
+        user346user346
+
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+Thanks for the answer.  I do not see why EFEs cannot contain topological data since you need a global solution to them (you can solve it locally but they need to patch together to form a global metric).  For example, if the EFEs implied something like positive scalar curvature then that would really limit the topology (being positive at a point is local, being positive everywhere is global).  The adding of topological invariants looks very interesting-- I'll have to read more into it.
+$\endgroup$
+
+– Eric
+
+Dec 10, 2010 at 15:46
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I get what you're trying to say. The EFE's should encode some sort of topological information aside from the addition of topological terms to the action. Or perhaps that is because we consider the EFE's to be fundamental, when the Ricci term and the other topological terms can arise from something more general such as $BF$ theory Reference which is a topological theory. Anyhow, if you like the answer could you accept it as the answer. Thanks :-)
+$\endgroup$
+
+– user346
+
+Dec 10, 2010 at 19:43
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@user346 "So gravity in 2 dimensions is entirely topological" Could you please expand on this in a less technical terms for me?
+$\endgroup$
+
+– Leos Ondra
+
+May 2, 2013 at 11:15
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I don't understand that implication for 2d gravity theory either. In 2-d, the Euler characteristic is a serious restriction thanks to the classification of 2-d closed surfaces. However, there are still tons of possibly different Riemannian structures on top of it a priori. I hope someone can make sense of it.
+$\endgroup$
+
+– Student
+
+Nov 9, 2019 at 23:23
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            33
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Just one additional point that I haven't seen mentioned above: if the space-time has non-trivial fundamental group, it won't be seen by an observer at infinity. This is the content of the Topological Censorship Theorem. The implication is that for an asymptotically flat space-time, any interesting topology will be hidden behind the event-horizon. The proof of the theorem is rather surprisingly simple: it is more or less a direct extension of Penrose's singularity theorem. 
+See:
+Friedman, J. L.; Schleich, K. & Witt, D. M. Topological censorship Phys. Rev. Lett., American Physical Society, 1993, 71, 1486-1489
+Schleich, K. & Witt, D. M. Singularities from the Topology and Differentiable Structure of Asymptotically Flat Spacetimes http://arxiv.org/abs/1006.2890
+Galloway, G. J.. On the topology of the domain of outer communication. Class. Quantum Grav. 12 No 10 (October 1995) L99 (3pp)
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 13, 2010 at 23:36
+
+
+
+
+
+
+Willie WongWillie Wong
+
+5,24711 gold badge3030 silver badges4141 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+You are a mathematician, correct? So please explain things at the level of a physicist to me :-) My question is, how does this conclusion change is the spacetime is asymptotically deSitter or anti-deSitter? Also what is your view on the dodecahedral universe hypothesis?
+$\endgroup$
+
+– user346
+
+Dec 13, 2010 at 23:41
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@space_cadet: I don't know much about the dodecahedral universe hypothesis, but from what I know, isn't it an attempt to explain certain "features" of WMAP data? I don't think there's any a priori reason to rule it in or rule it out: only data will tell. As to topological censorship in dS or AdS spaces: the Penrose argument itself only uses the null energy condition, which is not affected by the cosmological constant. But the statement of topological censorship I think requires a time-like or null Scri to make sense. Indeed, in the AdS case, there is a 2001 paper by ...
+$\endgroup$
+
+– Willie Wong
+
+Dec 16, 2010 at 1:38
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+... Galloway, Schleich, Witt, and Woolgar which shows that the same result (topological censorship) holds for asymptotically anti-de-sitter space-times. That is, defining the domain of outer communications as the intersection of the past and the future of Scri, they showed that for (n+1) dimensional (with n at least 3) asymptotically AdS space-times, the domain of outer communications is simply connected, in the sense that any time-like curve going from Scri to (the same connected piece of) Scri can be deformed continuously to a causal curve in Scri.
+$\endgroup$
+
+– Willie Wong
+
+Dec 16, 2010 at 1:43
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Interesting answer, but you may be interested in this: link.springer.com/article/10.1134%2FS0202289313010064.
+$\endgroup$
+
+– user3657
+
+Mar 15, 2013 at 5:37
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            12
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I don't know the answer, but your intuition is right on -- the fact that the equations are local doesn't mean that there cannot be a constraint on the topology of a global solution.  For example, in Euclidean signature, $R_{ij} = g_{ij}$ immediately implies that the scalar curvature is positive, which in turn leads to topological constraints.  If the four-manifold is Einstein and complex, then it must be a del Pezzo surface (highly constrained).  I don't know much about Lorentzian signature, but I know that the PDE's are a whole different beast.  I have seen a few results about classification of possible holonomy groups of Lorentzian Einstein manifolds, but I don't know anything global (I actually don't know anything at all).
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 11, 2010 at 3:45
+
+
+
+
+
+
+Eric ZaslowEric Zaslow
+
+2,8401818 silver badges2424 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+These are two independent questions, one mathematical, and one about observations.
+
+What constraints do the Einstein equations imply about the global structure of space and/or spacetime? I don't know the general answer, my impression is that not as much as is known about Lorentzian manifolds as about Euclidean manifolds. Furthermore, there is no reason to suspect the space/spacetime is singularity-free (at the very least we know of many black holes in the universe), and I doubt much can be said about the global structure of any manifold if you allow for singularities.
+About observational physics: the only observable I can think of that is sensitive to global structure is the low multipoles of the CMB, and every now and again there are papers on the subject, to explain anomalies in such multipoles (e.g. stories about football-shaped universe). Alas, cosmic variance limits how seriously you can take such observations and models aimed to explain them.
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 11, 2010 at 4:01
+
+
+
+
+
+
+        user566user566
+
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+On the experiments and topology question, there is some work on the subject by Glenn Starkman et al. In their work, they search for structures in the CMB that would indicate some particular topology for the universe. There is a very nice lecture given in PI on the subject as well as other issues that have to do with CMB. To give you a spoiler on the lecture, they haven't found anything in large angle correlations.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 11, 2010 at 12:22
+
+
+
+
+
+
+VagelfordVagelford
+
+5,07211 gold badge2424 silver badges2020 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+
+Einstein equations describe local structure of the space-time. They contain no global or topological information.
+
+While I heard that some restrictions on the scale of topology can be derived from curvature of the universe if the curvature is negative. (Something like "scale = integer multiple of 1/curvature".)
+
+Well, if our space has non-trivial topology, then light rays will "wrap around" our universe multiple times and you'll be able to see the same (similar) copies of galaxies. I heard of people searching for such similarities without success.
+
+Also non-trivial topology must result in some correlation in CMB -- no such correlations were found (yet?) either.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 30, 2022 at 23:28
+
+
+
+
+
+
+Frederic Thomas
+
+9,73833 gold badges2424 silver badges4949 bronze badges
+
+
+
+
+
+
+
+
+            answered Dec 10, 2010 at 8:28
+
+
+
+
+
+
+KostyaKostya
+
+20.1k55 gold badges6666 silver badges9898 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+6
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+What do you mean by scale of the topology?  But Einstein's equations need to be solved globally so couldn't they put some restrictions on the topology?  For example if Einstein's equations implied positive scalar curvature, then that would limit the possible manifolds.  Also, With there not being any classification of even simply connected 4-manifolds, it seems likely there are nontrivial ones which wouldn't have the "wrap around" property of light rays.
+$\endgroup$
+
+– Eric
+
+Dec 10, 2010 at 15:35
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+Simplest example -- consider flat space-time. You can imagine it "wrapping", so when you travel distance L in one direction you will get to the same place. As far as I understand that would be called the 3D torus (in simplest case). The distance L is the scale of topology. It can be arbitrary -- Einstein equations do not impose any restrictions on it.
+$\endgroup$
+
+– Kostya
+
+Dec 10, 2010 at 17:03
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Oh ok, so that would still be a geometric thing:  scaling a cylinder doesn't change any topology.
+$\endgroup$
+
+– Eric
+
+Dec 10, 2010 at 17:55
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Kostya Can you list some papers where people attempt to model "Also nontrivial topology must result in some correlation in CMB ... "?
+$\endgroup$
+
+– More Anonymous
+
+Nov 3, 2018 at 13:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@MoreAnonymous arxiv.org/pdf/astro-ph/0412569.pdf
+$\endgroup$
+
+– Kostya
+
+Nov 3, 2018 at 15:18
+
+
+
+
+
+
+
+ | 
+Show 1 more comment
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to Physics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged general-relativityspacetimeuniversedifferential-geometrytopology or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+8
+
+Our Universe Can't be Looped?
+
+
+
+4
+
+How does GR determine the topology of spacetime?
+
+
+
+3
+
+Does the Einstein field equation uniquely determines the topology of spacetime?
+
+
+
+2
+
+Is it plausible for spacetime to be shaped something like a torus?
+
+
+
+2
+
+What is the shape of the universe?
+
+
+
+1
+
+Expansion of Universe: Spacetime metric and Topological Variations?
+
+
+
+1
+
+Do we expect that the universe is simply-connected?
+
+
+
+42
+
+Is topology of universe observable?
+
+
+
+29
+
+Can spacetime be non-orientable?
+
+
+
+26
+
+Global Properties of Spacetime Manifolds
+
+
+See more linked questions
+
+
+
+
+Related
+
+
+
+4
+
+Are there any restrictions on building the topology of spacetime out of the complement of open balls?
+
+
+
+5
+
+Topological problems with Lorentzian metric on worldsheet
+
+
+
+11
+
+What physically determines the point-set topology of a spacetime manifold?
+
+
+
+5
+
+Nature of the elements of spacetime?
+
+
+
+0
+
+Gravity from a reduction of the structure group of a frame bundle $FX$ to a Lorentz group $SO(1,3)$
+
+
+
+2
+
+A question about the topology of spacetime and the existence of CTCs
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    Formula to return row pairs of data based on number in second row
+                
+
+
+
+                    Sum of square roots (as an algebraic number)
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+                    What do we mean when we say the CMB has a temperature and how do we measure it?
+                
+
+
+
+                    What is the point of triggering of a national snap election immediately after losing the EU elections?
+                
+
+
+
+                    Is a doctor's diagnosis in clinical notes, made without a confirmatory test, admissible evidence in an assault case in California?
+                
+
+
+
+                    Why are pointers to data members callable in C++?
+                
+
+
+
+                    How to create a `\gtrsimless` symbol?
+                
+
+
+
+                    Story about a future gang initiation - but there's a twist
+                
+
+
+
+                    Difference between conflicted and ambivalent?
+                
+
+
+
+                    British child with Italian mother. Which document can she use to travel to/from Italy on her own?
+                
+
+
+
+                    How to create border outline?
+                
+
+
+
+                    Has there ever been arms supply with restrictions attached prior to the current war in Ukraine?
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    Is cellulose, blown-in insulation biodegradeable?
+                
+
+
+
+                    How is indium tin oxide a n-type semiconductor?
+                
+
+
+
+                    Can I have a vacation to Canada, while living in France for 3 months?
+                
+
+
+
+                    What do humans do uniquely, that computers apparently will not be able to?
+                
+
+
+
+                    Why Did The Drywall Tape Fail in My Garage? And How Can I Fix It?
+                
+
+
+
+                    Examples of systems with infinite dimensional Hilbert space, whose energy is bounded from above
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Was it known in ancient Rome and Greece that boiling water made it safe to drink and if so, what was the theory behind this?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

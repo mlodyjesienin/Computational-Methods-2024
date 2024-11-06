@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Rutherford’s Experiments (M2Q2) – UW-Madison Chemistry 103/104 Resource Book
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ 
+
+
+Toggle Menu
+
+Primary Navigation
+
+HomeReadSign in
+
+Search in book:
+
+
+
+
+Search
+
+
+ 
+
+
+
+
+
+Book Contents Navigation
+
+Contents
+
+
+Introduction I. Module 1: Introduction to Chemistry Concepts1. Measurements, Units, Conversions, Density (M1Q1)2. States of Matter (M1Q2)3. Classification of Matter (M1Q3)II. Module 2: Atoms, Molecules, and Ions4. Protons, Neutrons, and Electrons (M2Q1)5. Rutherford's Experiments (M2Q2)6. Isotopes, Atomic Mass, and Mass Spectrometry (M2Q3)7. Periodic Trends (M2Q4)8. Monatomic Ions (M2Q5)9. Polyatomic Ions (M2Q6)III. Module 3: Qualitative Analysis of Chemical Reactions10. Solutions and Solubility (part 1) (M3Q1)11. Solutions and Solubility (part 2) (M3Q2)12. Acids, Bases, Neutralization, and Gas-Forming Reactions (M3Q3-4)13. Oxidation-Reduction Reactions (M3Q5-6)IV. Module 4. Quantitative Analysis of Chemical Reactions14. Moles, AMUs, and Conversions (M4Q1)15. Stoichiometry (M4Q2)16. Limiting Reagents (M4Q3)17. Empirical Formula (M4Q4)18. Heat and Stoichiometry (M4Q5)19. Molarity, Solutions, and Dilutions (M4Q6)V. Module 5. Gases20. Pressure and Ideal Gas Laws (M5Q1)21. Stoichiometry Involving Gases (M5Q2)22. Gas Density (M5Q3)23. Gas Mixtures and Partial Pressure (M5Q4)24. Gas Behavior, Kinetic Molecular Theory, and Temperature (M5Q5)25. Chemistry of the Atmosphere (M5Q6)VI. Module 6. Thermochemistry26. Energy Forms & Global Relevance (M6Q1)27. Direction of Heat Flow and System vs. Surroundings (M6Q2)28. First Law of Thermodynamics and Work (M6Q3)29. Heat Capacity (M6Q4)30. Calorimetry continued: Types of Calorimeters and Analyzing Heat Flow (M6Q5)31. Calorimetry continued: Phase Changes and Heating Curves (M6Q6)32. Hess's Law (M6Q7)33. Standard Enthalpy of Formation (M6Q8)VII. Module 7. Light, Matter, and Atomic Structure34. Waves and the Electromagnetic Spectrum (M7Q1)35. Photoelectric Effect (M7Q2)36. Emission Spectra and H Atom Levels (M7Q3)37. Wave Interference, Diffraction (M7Q4)38. DeBroglie, Intro to Quantum Mechanics, Quantum Numbers 1-3 (M7Q5)39. Orbitals and the 4th Quantum Number, (M7Q6)40. Electron Configurations, Orbital Box Notation (M7Q7)41. Core and Valence Electrons, Shielding, Zeff (M7Q8)42. Periodic Trends (M7Q9)43. Electron Configurations for Ions (M7Q10)VIII. Module 8:  Chemical Bonding44. Bonding and Electronegativity (M8Q1)45. Lewis Structures (M8Q2)46. Resonance Structures and Formal Charge (M8Q3)47. Bond Length and Strength (M8Q4)IX. Module 9: Molecular Geometry48. Predicting Molecular Shapes: VSEPR Model (M9Q1)49. Molecule Polarity (M9Q2)50. Valence Bond Theory and Hybridization (M9Q3)51. Valence Bond Theory and Resonance (M9Q4)52. Molecular Orbital Theory (M9Q5-6)X. Module 10: Intermolecular Forces53. An Introduction to Intermolecular Forces (M10Q1)54. Melting and Boiling Point Comparisons (M10Q2)55. Vapor Pressure and Boiling Point Correlations (M10Q3)56. Explaining Solubility and Surface Tension through IMFs (M10Q4)XI. Module 11: Phase Diagrams and Solids57. Features of Phase Diagrams (M11Q1)58. Heating Curves and Phase Diagrams (M11Q2)59. Types of Solids (M11Q3)60. Types of Unit Cells: Primitive Cubic Cell (M11Q4)61. Types of Unit Cells: Body-Centered Cubic and Face-Centered Cubic (M11Q5)62. Ionic Crystals and Unit Cell Stoichiometry (M11Q6) Appendix A: Periodic TableAppendix B: Essential MathematicsAppendix C: Units and Conversion FactorsAppendix D: Solubility Flow ChartAppendix E: Specific Heat Capacities for Common Substances (M6Q5)Appendix F: Standard Thermodynamic Properties (M6)Appendix G: Bond Enthalpy, Bond Length, Atomic Radii, and Ionic RadiiAppendix H: Electronegativity 
+
+
+UW-Madison Chemistry 103/104 Resource Book
+
+
+
+
+
+
+
+
+
+
+5 Rutherford’s Experiments (M2Q2)		
+
+
+Introduction
+
+
+This section explores Ernest Rutherford’s experiment that led to the understanding of the atom that we learned about in the previous section. We’ll provide background and context to Rutherford’s experiments. The section below provides description of these topics, worked examples, practice problems and a glossary of important terms.
+
+
+
+
+Learning Objectives for Rutherford’s Experiments
+
+
+
+Distinguish between the size of the nucleus and the size of an electron cloud; recognize the significance of Rutherford’s experiment.
+| Rutherford’s Experiment |
+
+| Key Concepts and Summary | Glossary | End of Section Exercises |
+
+
+
+
+Rutherford’s Experiment
+By the early 1900s, scientists had determined the charge and mass of the negative subatomic particles—the electrons. The positively charged part of an atom, however, was not yet well understood. In 1904, an English physicist named J.J. Thomson proposed the “plum pudding” model of atoms, which described a positively charged mass with an equal amount of negative charge in the form of electrons embedded in it, since all atoms are electrically neutral. A competing model had been proposed in 1903 by Hantaro Nagaoka, who postulated a Saturn-like atom, consisting of a positively charged sphere surrounded by a halo of electrons (Figure 1).
+
+Figure 1. (a) Thomson suggested that atoms resembled plum pudding, an English dessert consisting of moist cake with embedded raisins (“plums”). (b) Nagaoka proposed that atoms resembled the planet Saturn, with a ring of electrons surrounding a positive “planet.” (credit a: modification of work by “Man vyi”/Wikimedia Commons; credit b: modification of work by “NASA”/Wikimedia Commons)
+
+The next major development in understanding the atom came from Ernest Rutherford, a physicist from New Zealand who largely spent his scientific career in Canada and England. He performed a series of experiments using a beam of high-speed, positively charged alpha particles (α particles) that were produced by the radioactive decay of radium; α particles consist of two protons and two neutrons. Rutherford and his colleagues Hans Geiger (later famous for the Geiger counter) and Ernest Marsden aimed a beam of α particles, the source of which was embedded in a lead block to absorb most of the radiation, at a very thin piece of gold foil and examined the resultant scattering of the α particles using a luminescent screen that glowed briefly where hit by an α particle.
+What did they discover? Most particles passed right through the foil without being deflected at all. However, some were diverted slightly, and a very small number were deflected almost straight back toward the source (Figure 2). Rutherford described finding these results: “It was quite the most incredible event that has ever happened to me in my life. It was almost as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you”[1] (p. 68).
+
+Figure 2. Geiger and Rutherford fired α particles at a piece of gold foil and detected where those particles went, as shown in this schematic diagram of their experiment. Most of the particles passed straight through the foil, but a few were deflected slightly and a very small number were significantly deflected.
+
+Here is what Rutherford deduced: because most of the fast-moving α particles passed through the gold atoms undeflected, they must have traveled through essentially empty space inside the atom. Alpha particles are positively charged, so deflections arose when they encountered another positive charge (like charges repel each other). Since like charges repel one another, the few positively charged α particles that changed paths abruptly must have hit, or closely approached, another body that also had a highly concentrated, positive charge. Since the deflections occurred a small fraction of the time, this charge only occupied a small amount of the space in the gold foil. Analyzing a series of such experiments in detail, Rutherford drew two conclusions:
+
+The volume occupied by an atom must consist of a large amount of empty space.
+A small, relatively heavy, positively charged body, the nucleus, must be at the center of each atom.
+
+
+
+View this simulation of the Rutherford gold foil experiment. Adjust the slit width to produce a narrower or broader beam of α particles to see how that affects the scattering pattern.
+
+This analysis led Rutherford to propose a model in which an atom consists of a very small, positively charged nucleus, in which most of the mass of the atom is concentrated, surrounded by the negatively charged electrons, so that the atom is electrically neutral (Figure 3). After many more experiments, Rutherford also discovered that the nuclei of other elements contain the hydrogen nucleus as a “building block,” and he named this more fundamental particle the proton, the positively charged, subatomic particle found in the nucleus. With one addition, which you will learn next, this nuclear model of the atom, proposed over a century ago, is still used today.
+
+Figure 3. The α particles are deflected only when they collide with or pass close to the much heavier, positively charged gold nucleus. Because the nucleus is very small compared to the size of an atom, very few α particles are deflected. Most pass through the relatively large region occupied by electrons, which are too light to deflect the rapidly moving particles.
+
+
+
+The Rutherford Scattering simulation allows you to investigate the differences between a “plum pudding” atom and a Rutherford atom by firing α particles at each type of atom.
+
+
+Key Concepts and Summary
+Rutherford’s famous gold foil experiment was performed by aiming α particles at a sheet of gold foil and observing whether the α particles passed through, were deflected slightly or significantly. Because most of the α particles passed through undeflected, Rutherford deduced that the atom was mostly empty space. The deflection of some α particles indicated that there was a small region of positive charge that was repelling the positively charged α particles. This positively charged region must be the center of the atom.
+Glossary
+
+alpha particles (α particles)
+positively charged particle consisting of two protons and two neutrons
+
+
+nucleus
+massive, positively charged center of an atom made of protons and neutrons
+
+
+proton
+positively charged, subatomic particle located in the nucleus
+
+
+
+Chemistry End of Section Exercises
+
+
+
+Why did Rutherford and his team choose gold foil?
+Predict how Rutherford’s results would have been similar and how they’d be different if he’d used graphene instead of gold foil.
+Go back to the Rutherford Scattering PhET simulation you ran for your pre-class activity. Repeat the simulation, and this time use the smallest target (20 protons and 20 neutrons).  How is the scattering affected by the calcium sheet, compared to the gold foil?
+
+
+
+
+
+Answers to Chemistry End of Section Exercises
+
+
+
+Gold foil is very malleable. It could be hammered to approximately 10 nm thick and remain strong.
+Like gold, graphene is also strong and malleable. The carbon atoms in graphene are smaller than gold atoms, and the carbon nuclei would have less protons and neutrons compared to gold atoms. Due to the lower mass of graphene and also due to the conservation of momentum, the collisions between alpha particles and graphene would be less elastic than collisions between alpha particles and gold. Taken all together, one would predict fewer back-scattered collisions with graphene, compared to with gold.
+There is less scattering in the calcium sheet than with the gold sheet. This is because a calcium nucleus is much smaller than a gold nucleus, so the likelihood of an alpha particle hitting a Ca nucleus is lower.
+
+
+
+Ernest Rutherford, “The Development of the Theory of Atomic Structure,” ed. J. A. Ratcliffe, in Background to Modern Science, eds. Joseph Needham and Walter Pagel, (Cambridge, UK: Cambridge University Press, 1938), 61–74. Accessed September 22, 2014, https://ia600508.us.archive.org/3/items/backgroundtomode032734mbp/backgroundtomode032734mbp.pdf. ↵
+
+
+Previous/next navigation
+
+
+
+										Previous: Protons, Neutrons, and Electrons (M2Q1)				
+
+
+
+										Next: Isotopes, Atomic Mass, and Mass Spectrometry (M2Q3)					
+
+
+
+
+Back to top
+
+
+
+
+
+License
+UW-Madison Chemistry 103/104 Resource Book Copyright © by crlandis is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted. 
+
+Share This Book
+
+Share on Twitter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by Pressbooks
+
+Guides and Tutorials
+|Pressbooks Directory
+|Contact
+
+
+
+
+
+Pressbooks on YouTube
+
+
+
+
+
+Pressbooks on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+

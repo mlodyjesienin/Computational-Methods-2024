@@ -1,0 +1,600 @@
+
+
+
+Economic Models: Economic Models and Math | Saylor Academy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+Side panel
+
+
+
+
+Home
+
+My Courses
+
+Course Catalog
+
+
+        Help
+    
+
+Getting Started
+Help Center & FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Close
+
+
+
+
+Search
+
+
+
+
+
+
+
+Toggle search input
+
+
+
+
+
+
+
+
+ Log in or Sign up
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+My Courses
+
+
+
+
+
+
+Course Catalog
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+Getting Started
+
+
+
+
+
+
+Help Center & FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+ECON101: Principles of Microeconomics (2021.A.01)
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+
+
+
+
+
+Activities
+
+
+
+
+
+
+
+
+
+
+
+Quizzes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+My programs
+
+
+
+
+
+
+
+
+
+
+
+My certificates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ECON101: Principles of Microeconomics (2021.A.01)
+
+
+
+
+
+
+
+
+
+Home
+
+
+Courses
+
+(hidden)
+(hidden)
+
+ECON101: Principles of Microeconomics (2021.A.01)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to ' 1.3: Review of Data Representation and Mathematics for Economics\'
+Economic Models
+
+
+                                Mark as completed
+                            
+
+Read this section on the reasoning behind economic models, which are just representations of reality or theoretical thinking for understanding something. Pay attention to the explanation about the Circular Flow Diagram (Figure 2), which represents how the economy and its actors are related to one another. Make sure to answer the quiz questions.Economic Models and MathEconomists use models as the primary tool for explaining or making predictions about economic issues and problems. For example, an economist might try to explain what caused the Great Recession in 2008, or she might try to predict how a personal income tax cut would affect automobile purchases.Economic models can be represented using words or using mathematics. All of the important concepts in this course can be explained without math. That said, math is a tool that can be used to explore economic concepts in very helpful ways. You know the saying "A picture is worth a thousand words"? The same applies to graphs: they're a very effective means of conveying information visually – without a thousand words. In addition to being a "picture," a graph is also a math-based model.The use of algebra is a specific way that economics express and explore economic models. Where graphs require you to "eyeball" a model, algebra can give you more precise answers to questions. For example, if a business puts their product on sale for 10% off the regular price, how much more will consumers buy? Similarly, using the algebraic formula for a line allows economists to find precise points on a graphs that help in interpreting how much of a good should be sold, or at what price.Why would an economist use math when there are other ways of representing models, such as with text or narrative? Why would you use your fist to bang a nail, if you had a hammer? Math has certain advantages over text. It disciplines our thinking by making us specify exactly what we mean. You can get away with fuzzy thinking and vague approximations in your own mind, but not when you're reducing a model to algebraic equations. At the same time, math has certain disadvantages. Mathematical models lack the nuances that can be found in narrative models. The point is that math is one tool, but it's not the only tool or even always the best tool economists can use to work with economic models.
+
+
+
+                                Mark as completed
+                            
+
+
+
+Previous
+
+
+
+
+
+
+                Jump to...
+            
+
+Jump to...
+Course Syllabus
+What Is Economics? Why Is It Important?
+Defining Economics
+How Individuals Make Choices Based on Their Budget Constraints
+Economic Problem: Scarce Resources
+Scarcity and Choice
+Setting Global Priorities
+The Field of Economics
+Models and Theories
+Marginal Analysis
+The Economists' Tool Kit
+Solving Simple Equations
+Graph from Slope-Intercept Equation
+Factors of Production and the Production Possibilities Curve
+Production Possibilities Frontier
+Opportunity Cost
+Increasing Opportunity Cost
+Allocative Efficiency and Marginal Benefit
+Economic Growth through Investment
+Comparative Advantage Specialization and Gains from Trade
+Absolute and Comparative Advantage
+More on Comparative Advantage and Absolute Advantage
+Analyzing Advantage Data Tables and Graphs
+A Final Note on Absolute and Comparative Advantage
+Ceteris Paribus
+Demand
+Factors Affecting Demand
+Law of Demand
+Price of Related Products and Demand
+Changes in Income, Population, or Preferences
+Normal and Inferior Goods
+Inferior Goods Clarification
+Supply
+Factors Affecting Supply
+Law of Supply
+More on Factors Affecting Supply
+Demand, Supply, and Equilibrium
+Market Equilibrium
+Changes in Market Equilibrium
+Putting Demand and Supply to Work
+Changes in Supply and Demand
+Introducing Supply and Demand
+Government Intervention in Market Prices: Price Floors and Price Ceilings
+Price Ceilings and Price Floors
+Demand, Supply, and Efficiency
+Inefficiency of Price Floors and Price Ceilings
+Minimum Wage and Price Floors
+Elasticity: A Measure of Response
+Introduction to Elasticity
+Calculating Elasticity
+Defining Price Elasticity of Demand
+Price Elasticity of Demand
+More on Elasticity of Demand
+Constant Unit Elasticity
+Total Revenue and Elasticity
+More on Total Revenue and Elasticity
+Cross Elasticity of Demand
+Elasticity of Supply
+Elasticity and Strange Percent Changes
+Calculating Elasticity and Percentage Changes
+Taxes and Perfectly Inelastic Demand
+Taxes and Perfectly Elastic Demand
+The Logic of Maximizing Behavior and Maximizing in the Marketplace
+Consumer and Producer Surplus
+Consumer Surplus Introduction
+Demand Curve as Marginal Benefit Curve
+Total Consumer Surplus as Area
+Producer Surplus
+How Much to Produce? The Story of Marginal Revenue and Marginal Costs
+Market Failure
+Positive Externalities and Public Goods
+Positive Externalities
+Rent Control and Deadweight Loss
+Taxation and Dead Weight Loss
+Percentage Tax on Hamburgers
+Negative Externalities
+Taxes for Factoring in Negative Externalities
+Tragedy of the Commons
+Inequality, Poverty, and Discrimination
+Measuring Income Inequality
+Introduction to Consumer Choices
+The Analysis of Consumer Choice
+Rules for Maximizing Utility
+The Art of Choosing
+Marginal Utility
+Budget Line
+Deriving Demand Curve from Tweaking Marginal Utility per Dollar
+Equalizing Marginal Utility per Dollar Spent
+Adding Demand Curves
+Preference and Utility
+Indifference Curve Analysis: An Alternative Approach to Understanding Consumer Choice
+Indifference Curves
+Indifference Curve Analysis
+Types of Indifference Curves
+Optimal Point on Budget Line
+Production Cost
+Production Choices and Costs: The Short Run
+Costs in the Short Run
+Cost and Industry Structure
+Understanding Normal Profit
+A Firm's Marginal Product Revenue Curve
+Economic Profit vs. Accounting Profit
+Depreciation and Opportunity Cost of Capital
+Understanding the Short-Run Shutdown
+Fixed, Variable, and Marginal Cost
+Visualizing Average Costs and Marginal Costs as Slope
+Marginal Cost and Average Total Cost
+Marginal Revenue and Marginal Cost
+Marginal Revenue below Average Total Cost
+Production Choices and Costs: The Long Run
+Long-Term Supply Curve and Economic Profit
+The Structure of Costs in the Long Run
+Principles of Microeconomics Lecture Notes
+Competitive Markets for Goods and Services
+Perfect Competition
+More on Perfect Competition
+Wages and Employment in Perfect Competition
+How Many People to Hire Given the MPR Curve
+Perfect Competition Demonstration
+Monopoly
+The Monopoly Model
+Introduction to a Monopoly
+Monopoly Basics
+Review of Revenue and Cost Graphs for a Monopoly
+Monopolist Optimizing Price (Part 1): Total Revenue
+Monopolist Optimizing Price (Part 2): Marginal Revenue
+Monopolist Optimizing Price (Part 3): Dead Weight Loss
+Price Discrimination
+First Degree Price Discrimination
+Monopolistic Competition: Competition among Many
+Monopolistic Competition
+Oligopolies and Monopolistic Competition
+Monopolistic Competition and Economic Profit
+Oligopoly: Competition Among the Few
+Oligopolies, Duopolies, Collusion, and Cartels
+Oligopoly Lecture
+Game Theory of Cheating Firms
+More on Nash Equilibrium
+Why Parties to Cartels Cheat
+Prisoners' Dilemma and Nash Equilibrium
+Antitrust Policy and Business Regulation
+Regulation
+Public Finance and Public Choice
+Public Economy
+The Economics of the Environment
+Economic Resources
+Capital and Natural Resource Markets
+Environmental Protection and Negative Externalities
+The Coase Theorem and the Theory of the State
+Maximizing the Net Benefits of Pollution
+Market-Oriented Environmental Tools
+ECON101 Study Guide
+Course Feedback Survey
+ECON101: Certificate Final Exam
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+Skip Table of contents
+
+
+Table of contents
+
+What you'll learn to do: use mathematics in common economic applicationsLearning ObjectivesWatch ItEconomic Models and MathTry ItAnswer to Try ItExamples of ModelsTry ItAnswer to Try ItGlossary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+Partners
+Blog
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Saylor Academy 2010-2024 except as otherwise noted. Excluding course final exams, content authored by Saylor Academy is available under a Creative Commons Attribution 3.0 Unported license. Third-party materials are the copyright of their respective owners and shared under various licenses. See detailed licensing information.
+Saylor Academy®, Saylor.org®, and Harnessing Technology to Make Education Free® are trade names of the Constitution Foundation, a 501(c)(3) organization through which our educational activities are conducted.
+
+
+
+
+
+
+Sitemap | Terms of Use | Privacy Policy
+
+
+
+Get the mobile appPolicies
+
+
+
+
+
+
+
+
+
+
+
+
+

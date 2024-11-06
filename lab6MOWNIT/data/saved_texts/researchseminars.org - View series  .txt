@@ -1,0 +1,201 @@
+
+
+
+
+
+
+researchseminars.org - View series  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View series
+ researchseminars.org (beta)
+
+BrowseCreateInfoLogin 
+
+
+02:07
+UTC (UTC +0)
+
+
+
+
+
+
+
+
+    We use javascript to filter series topics, adapt series to your local time zone, enter date ranges, and hide this annoying message.
+    We use cookies to set your default timezone, keep track of your preferences, and to keep you logged in.
+  
+
+
+
+
+
+
+
+    Mathematical challenges in AI
+  
+
+ External homepage 
+artificial intelligence Mathematics
+Sydney Mathematical Research Institute
+
+
+Audience:
+Researchers in the topic
+
+
+Seminar series times:
+No fixed schedule
+
+
+Organizer:
+SMRIAdmin*
+
+*contact for this listing
+
+
+
+The Mathematical challenges in AI seminar is the successor of MLWM. 
+
+The main focus of the seminars this year will be to explore the mathematical problems that arise in modern machine learning. For example, we aim to cover:
+ 
+1) Mathematical problems (e.g. in linear algebra and probability theory) whose resolution would assist the design, implementation and understanding of current AI models.
+ 
+2) Mathematical problems or results resulting from interpretability of ML models. 
+
+3) Mathematical questions posing challenges for AI systems.
+ 
+Our aim is to attract interested mathematicians to what we see as a fascinating and important source of new research directions.
+
+The seminar is an initiative of the Sydney Mathematical Research Institute (SMRI).
+
+
+
+
+
+        Upcoming talks
+      
+
+        Past talks
+      
+
+
+
+
+
+
+
+
+
+Your timeSpeakerTitle
+
+
+
+ThuNov 2308:00Francois ChartonTBA
+
+
+WedOct 2522:00Paul ChristianoFormalizing Explanations of Neural Network Behaviors
+
+
+
+Embed this schedule
+
+
+
+Export series to
+      
+
+
+ Google Calendar
+          
+
+
+
+ iCal/Outlook
+          
+
+
+
+ ICS file
+          
+
+
+
+
+
+
+
+
+    Beta release on Fri Apr 10, 2020
+    ·
+    Send us feedback
+    ·
+    Website source code
+
+ 

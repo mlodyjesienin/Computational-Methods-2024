@@ -1,0 +1,507 @@
+
+
+
+Unsolved Problems -- from Wolfram MathWorld
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOPICS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Algebra
+        
+
+            Applied Mathematics
+        
+
+            Calculus and Analysis
+        
+
+            Discrete Mathematics
+        
+
+            Foundations of Mathematics
+        
+
+            Geometry
+        
+
+            History and Terminology
+        
+
+            Number Theory
+        
+
+            Probability and Statistics
+        
+
+            Recreational Mathematics
+        
+
+            Topology
+        
+
+
+
+            Alphabetical Index
+        
+
+            New in MathWorld
+        
+
+
+
+
+
+
+Foundations of Mathematics
+
+
+Mathematical Problems
+
+
+Unsolved Problems
+
+
+
+
+Unsolved Problems
+
+
+
+
+
+
+There are many unsolved problems in mathematics. Some prominent outstanding unsolved problems (as well as some which are not necessarily
+ so well known) include 
+
+
+1. The Goldbach conjecture. 
+
+
+2. The Riemann hypothesis. 
+
+
+3. The conjecture that there exists a Hadamard matrix
+for every positive multiple of 4. 
+
+
+4. The twin prime conjecture (i.e., the conjecture that there are an infinite number of twin primes).
+ 
+
+
+5. Determination of whether NP-problems are actually
+P-problems. 
+
+
+6. The Collatz problem. 
+
+
+7. Proof that the 196-algorithm does not terminate
+when applied to the number 196. 
+
+
+8. Proof that 10 is a solitary number. 
+
+
+9. Finding a formula for the probability that two elements chosen at random generate the symmetric group . 
+
+
+10. Solving the happy end problem for arbitrary . 
+
+
+11. Finding an Euler brick whose space diagonal is
+also an integer. 
+
+
+12. Proving which numbers can be represented as a sum of three or four (positive
+or negative) cubic numbers. 
+
+
+13. Lehmer's Mahler measure problem and Lehmer's totient problem on the existence
+ of composite numbers  such that , where  is the totient function.
+ 
+
+
+14. Determining if the Euler-Mascheroni
+constant is irrational. 
+
+
+15. Deriving an analytic form for the square site percolation
+threshold. 
+
+
+16. Determining if any odd perfect numbers exist.
+
+
+The Clay Mathematics Institute (http://www.claymath.org/millennium/) of Cambridge, Massachusetts (CMI) has named seven "Millennium Prize Problems,"
+ selected by focusing on important classic questions in mathematics that have resisted
+ solution over the years. A $7 million prize fund has been established for the solution
+ to these problems, with $1 million allocated to each. The problems consist of the
+ Riemann hypothesis, Poincaré
+ conjecture, Hodge conjecture, Swinnerton-Dyer
+ Conjecture, solution of the Navier-Stokes equations, formulation of Yang-Mills
+ theory, and determination of whether NP-problems are
+ actually P-problems.
+
+
+In 1900, David Hilbert proposed a list of 23 outstanding problems in mathematics (Hilbert's problems), a number of which have
+ now been solved, but some of which remain open. In 1912, Landau proposed four simply
+ stated problems, now known as Landau's problems,
+ which continue to defy attack even today. One hundred years after Hilbert, Smale
+ (2000) proposed a list of 18 outstanding problems.
+
+
+K. S. Brown, D. Eppstein, S. Finch, and C. Kimberling maintain webpages of unsolved problems in mathematics. Classic texts on unsolved problems
+ in various areas of mathematics are Croft et al. (1991), in geometry,
+ and Guy (2004), in number theory.
+
+
+
+
+
+
+See alsoBeal's Conjecture, Catalan's Conjecture, Fermat's Last Theorem, Hilbert's Problems, Kepler
+ Conjecture, Landau's Problems, Mathematics
+ Contests, Mathematics Prizes, Poincaré
+ Conjecture, Problem, Solved
+ Problems, Szemerédi's Theorem, Twin Primes
+
+
+
+
+
+
+Explore with Wolfram|Alpha
+
+
+
+
+
+
+
+
+
+
+More things to try:
+
+
+
+
+abc conjecture
+
+
+
+
+2
+
+
+100!
+
+
+
+
+
+ReferencesClay Mathematics Institute. "Millennium Prize Problems." http://www.claymath.org/millennium/.Croft,
+ H. T.; Falconer, K. J.; and Guy, R. K. Unsolved
+ Problems in Geometry. New York: Springer-Verlag, p. 3, 1991.Demaine,
+ E. D.; Mitchell, J. S. B.; and O'Rourke, J. (Eds.). "The Open
+ Problems Project." http://cs.smith.edu/~orourke/TOPP/.Emden-Weinert,
+ T. "Graphs: Theory-Algorithms-Complexity." http://people.freenet.de/Emden-Weinert/graphs.html.Eppstein,
+ D. "Open Problems." http://www.ics.uci.edu/~eppstein/junkyard/open.html.Finch,
+ S. "Unsolved Problems." http://www.mathsoft.com/mathsoft_resources/unsolved_problems/.Guy,
+ R. K. Unsolved
+ Problems in Number Theory, 3rd ed. New York: Springer-Verlag, 2004.Kimberling,
+ C. "Unsolved Problems and Rewards." http://faculty.evansville.edu/ck6/integer/unsolved.html.Klee,
+ V. "Some Unsolved Problems in Plane Geometry." Math. Mag. 52,
+ 131-145, 1979.MathPages. "Most Wanted List of Elementary Unsolved
+ Problems." http://www.mathpages.com/home/mwlist.htm.Meschkowski,
+ H. Unsolved
+ and Unsolvable Problems in Geometry. London: Oliver & Boyd, 1966.Ogilvy,
+ C. S. Tomorrow's
+ Math: Unsolved Problems for the Amateur, 2nd ed. New York: Oxford University
+ Press, 1972.Ogilvy, C. S. "Some Unsolved Problems of Modern
+ Geometry." Ch. 11 in Excursions
+ in Geometry. New York: Dover, pp. 143-153, 1990.Ramachandra,
+ K. "Many Famous Conjectures on Primes; Meagre But Precious Progress of a Deep
+ Nature." Proc. Indian Nat. Sci. Acad. Part A 64, 643-650, 1998.Smale,
+ S. "Mathematical Problems for the Next Century." Math. Intelligencer 20,
+ No. 2, 7-15, 1998.Smale, S. "Mathematical Problems for the
+ Next Century." In Mathematics:
+ Frontiers and Perspectives 2000 (Ed. V. Arnold, M. Atiyah, P. Lax,
+ and B. Mazur). Providence, RI: Amer. Math. Soc., 2000.Stephan,
+ R. "Prove or Disprove. 100 Conjectures from the OEIS." 27 Sep 2004. http://www.arxiv.org/abs/math.CO/0409509/.Stephan,
+ R. "Do you have a comment or news on conjectures in the article math.CO/0409509?"
+ http://www.ark.in-berlin.de/conj.txt.van
+ Mill, J. and Reed, G. M. (Eds.). Open
+ Problems in Topology. New York: Elsevier, 1990.Weisstein, E. W.
+ "Books about Mathematics Problems." http://www.ericweisstein.com/encyclopedias/books/MathematicsProblems.html.West,
+ D. "Open Problems--Graph Theory and Combinatorics." http://www.math.uiuc.edu/~west/openp/.Wolfram,
+ S. "Open Problems & Projects." http://www.wolframscience.com/openproblems/NKSOpenProblems.pdf.Referenced
+ on Wolfram|AlphaUnsolved Problems
+
+
+Cite this as:
+
+Weisstein, Eric W. "Unsolved Problems."
+From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/UnsolvedProblems.html
+
+
+Subject classifications
+
+Foundations of Mathematics
+
+
+Mathematical Problems
+
+
+Unsolved Problems
+
+
+
+
+
+ 
+
+
+
+
+
+About MathWorld
+MathWorld Classroom
+Contribute
+MathWorld Book
+wolfram.com
+
+
+13,181 Entries
+Last Updated: Fri Jun  7 2024
+©1999–2024 Wolfram Research, Inc.
+Terms of Use
+
+
+
+wolfram.com
+Wolfram Language
+Mathematica
+Wolfram Demonstrations
+Wolfram for Education
+
+
+
+Created, developed and nurtured by Eric Weisstein at Wolfram Research
+
+
+
+
+
+
+
+
+
+
+

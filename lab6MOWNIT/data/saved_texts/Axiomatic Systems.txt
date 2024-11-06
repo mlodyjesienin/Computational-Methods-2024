@@ -1,0 +1,368 @@
+
+
+
+
+
+
+Axiomatic Systems
+
+
+
+
+
+
+
+
+
+TOC & Ch. 0 & Ch. 1 Axiom
+
+Table of Contents
+Ch. 0 Introduction
+Ch. 1 Axiomatic Systems
+1.1.1 Introduction
+
+1.1.2 Examples
+
+1.1.3 History
+
+1.2 A Finite Geometry
+
+1.3 Finite Projective
+
+1.4 Applications
+
+
+
+
+
+
+
+Ch. 2 Neutral Geometry
+Ch. 2 Table of Contents
+
+2.1.1 Introduction
+2.1.2 History
+2.1.3 Analytic Models
+
+2.2 Incidence Axioms
+
+2.3 Distance/Ruler Axioms
+
+2.4.1 Plane Separation Axiom
+
+2.4.2 Angle & Measure
+
+2.5.1 Supplement Postulate
+
+2.5.2 SAS Postulate
+
+2.6.1 Parallel Lines
+
+2.6.2 Saccheri Quadrilateral
+
+2.7.1 Euclid Parallel Postulate
+
+2.7.2 Hyperbolic Parallel Postulate
+
+2.7.3 Elliptic Parallel Postulate
+
+2.8 Euclid/Hyperbolic/Elliptic
+
+Birkhoff's Axioms
+
+Hilbert's Axioms
+
+SMSG Axioms
+
+
+
+
+
+
+Ch. 3 Transformational
+Ch. 3 Table of Contents
+
+
+3.1.1 Introduction
+
+3.1.2 History
+3.2.1 Definitions
+
+3.2.2 Analytic Model
+
+3.2.3 Affine Transformation
+
+3.3.1 Isometry
+
+3.3.2 Model/Collinearity
+
+3.3.3 Model/Isometry
+
+3.4.1 Direct Isometry
+
+3.4.2 Model/Direct
+
+3.5.1 Indirect Isometry
+
+3.5.2 Model/Indirect
+
+3.6.1 Similarity Transformation
+
+3.6.2 Model/Similarity
+
+3.7 Other Affine Transformations
+
+
+
+
+
+Ch. 4 Projective Geometry
+Ch. 4 Table of Contents
+
+4.1.1 Introduction
+4.1.2 Historical
+4.2.1 Axioms
+
+4.2.2 Basic Theorems
+
+4.3 Duality
+
+4.4 Desargue's Theorem
+
+4.5.1 Harmonic Sets
+
+4.5.2 Music & Harmonic Sets
+
+4.6.1 Definitions for Projectivity
+
+4.6.2 Fundamental Theorem
+
+4.6.3 Projectivity/Harmonic Sets
+
+4.6.4 Alternate Construction
+
+4.7.1 Conics
+
+4.7.2 Pascal's Theorem
+
+4.7.3 Tangents to Conics
+
+
+
+
+
+Other Topics
+Ch. 5 Spherical Geometry
+Ch. 6 Fractal Geometry
+Ch. 7 Topology
+
+
+
+
+Appendices
+Internet Resources
+Index
+Geometer's Sketchpad/GeoGebra
+JavaSketchpad/GeoGebraHTML
+
+Video Lectures
+
+Logic Review
+
+References
+
+Acknowledgements
+
+
+
+
+
+
+     1.1.1 Introduction to Axiomatic Systems  
+Printout
+Words 
+  differently arranged have a different meaning and meanings differently 
+  arranged have a different effect.
+
+
+Blaise Pascal (16231662)
+      Axiomatic System (Postulate System)
+            1.   Undefined terms/primitive terms
+            2.   Defined terms
+            3.   Axioms/postulates - accepted unproved statements
+            4.   Theorems - proved statements
+      An  axiomatic system consists of some undefined 
+terms (primitive terms) and a list of statements, called  axioms or
+ 
+postulates, concerning the undefined terms. One obtains a mathematical 
+theory by proving new statements, called  theorems, using only the axioms 
+(postulates), logic system, and previous theorems. Definitions are made in the 
+process in order to be more concise. 
+      Most early Greeks made a distinction between axioms 
+and postulates. Evidence exists that Euclid made the distinction that an axiom 
+(common notion) is an assumption common to all sciences and that a postulate is 
+an assumption peculiar to the particular science being studied. Now in modern 
+times no distinction is made between the two; an axiom or postulate is an 
+assumed statement.
+      Usually an axiomatic system does not stand alone, but 
+other systems are also assumed to hold.  For example, we will assume: 
+              1.   the real number system,
+              2.   some set theory,
+              3.   Aristotelian 
+logic system, and
+              4.   the English language.
+We will not develop any of these but use what we need from 
+them.
+      One of the pitfalls of working with a deductive 
+system is too great a familiarity with the subject matter of the system.  We 
+need to be careful with what we are assuming to be true and with saying 
+something is obvious while writing a proof. We need to take extreme care that we 
+do not make an additional assumption outside the system being studied. A common 
+error in the writing of proofs in geometry is to base the proof on a picture. A 
+picture may be misleading, either by not covering all possibilities, or by 
+reflecting our unconscious bias as to what is correct. It is crucially 
+important in a proof to use only the axioms and the theorems which have been 
+derived from them and not depend on any preconceived idea or picture. 
+Pictures should only be used as an intuitive aid in developing the proof, but 
+each step in the proof should depend only on the axioms and the theorems with no 
+dependence upon any picture. Diagrams should be used as an aid, since they 
+are useful in developing conceptual understanding, but care must be taken that 
+the diagrams do not lead to misunderstanding. Two exercises in Chapter Two 
+illustrate this point: (1) 
+A false 
+proof that all triangles are isosceles. (2)
+A faulty proof of a valid theorem. 
+      Usually not all the axioms are given at the beginning 
+of the development of an axiomatic system; this allows us to prove very general 
+theorems which hold for many axiomatic systems.  An example from abstract 
+algebra is:  group theory 
+→ ring theory
+→ field theory. A second example is a 
+parallel postulate is often not introduced early in studies of Euclidean geometry, so the theorems 
+developed will hold for both Euclidean and hyperbolic geometry (called a neutral 
+geometry).
+      Certain terms are left undefined to prevent circular 
+definitions, and the axioms are stated to give properties to the undefined 
+terms. Undefined terms are of two types: terms that imply objects, called
+elements, and terms that 
+imply relationships between objects, called  relations. Examples of undefined terms (primitive terms) 
+in geometry are point, line, 
+plane, on, and between. For these undefined terms, on and between would indicate 
+some undefined relationship between undefined objects such as point and line. An 
+example would be: A point is on a line.  Early geometers tried to define these terms:
+            point    Pythagoreans, a monad having 
+position"
+                        Plato, the beginning of a line"
+                        Euclid, that which has no part"
+            line      Proclus, magnitude in one 
+dimension",  flux of a point"
+                        Euclid, breadthless length"
+Euclid made the attempt to define all of his terms. (See 
+Euclid's 
+Elements.) Now, 
+points are considered to come before lines, but no effort is made to define them 
+a priori. Instead, material things are used as illustrations/models to obtain 
+the abstract idea. The famous mathematician David Hilbert (18621943) is quoted 
+as saying, we may as well be talking about chairs, coffee tables and beer 
+mugs."
+      An axiomatic system is
+ consistent if there is 
+no statement such that both the statement and its negation are axioms or 
+theorems of the axiomatic system. Since contradictory axioms or theorems 
+are usually not desired in an axiomatic system, we will consider consistency to 
+be a necessary condition for an axiomatic system. An axiomatic system that does 
+not have the property of consistency has no mathematical value and is generally 
+not of interest.
+      A  model of an axiomatic system is obtained if 
+we can assign meaning to the undefined terms of the axiomatic system which 
+convert the axioms into true statements about the assigned concepts. Two types 
+of models are used  concrete models and
+ abstract models. A model is 
+concrete if the meanings assigned to the undefined terms are objects and 
+relations adapted from the real world. A model is abstract if the meanings 
+assigned to the undefined terms are objects and relations adapted from another 
+axiomatic development.
+      Consistency is often difficult to prove. One method for showing that an axiomatic system is 
+consistent is to use a model. When a concrete model has been exhibited, we say 
+we have established the  absolute consistency of the axiomatic system. Basically, we believe that contradictions in the real world 
+are impossible.  If we exhibit an abstract model where the axioms of the first 
+system are theorems of the second system, then we say the first axiomatic system 
+is  relatively consistent. Relative consistency is usually the best we can 
+hope for since concrete models are often difficult or impossible to set up. 
+An axiomatic system is complete if every 
+statement containing the undefined and defined terms of the system can be proved 
+valid or invalid. Also, 
+Kurt Gödel (19061978) with his 
+Incompleteness Theorem (published in 1931 
+in Monatshefte für Mathematik und Physik) demonstrated that even in 
+elementary parts of arithmetic there exist propositions which cannot be proved 
+or disproved within the system.
+      In an axiomatic system, an axiom is
+ independent 
+if it is not a theorem that follows from the other axioms. Independence is not a 
+necessary requirement for an axiomatic system; whereas, consistency is 
+necessary. For example, in high school geometry courses, theorems which are long 
+and difficult to prove are usually taken as axioms/postulates. Hence in most 
+high school geometry courses, the axiom sets are usually not independent. In fact, in this 
+course, though we will be much more rigorous than in a high school course, we 
+may at times take some theorems as postulates.
+      Many people throughout history have thought that 
+Euclid's Fifth Postulate (parallel postulate) was not independent of the other 
+axioms. Many people tried to prove this axiom but either failed or used faulty 
+reasoning. This problem eventually led to the development of other geometries, 
+and Euclid's Fifth Postulate was shown to be independent of the other postulates. We will not be 
+assuming the parallel postulate at the beginning of our study of Euclidean 
+geometry; this will allow us to develop 
+many theorems which are valid in some non-Euclidean geometries.
+      Models of an axiomatic system are
+ isomorphic 
+if there is a one-to-one correspondence between their elements that preserves 
+all relations. That is, the models are abstractly the same; only the notation is 
+different. An axiomatic system is  categorical if every two models of the 
+system are isomorphic.
+      In a geometry with two 
+undefined primitive terms, the dual of an axiom or theorem is the 
+statement with the two terms interchanged. For example, the dual of "A line 
+contains at least two points," is "A point contains at least two lines." 
+An 
+axiom system in which the dual of any axiom or theorem is also an axiom or 
+theorem is said to satisfy the principle of duality. 
+Plane projective 
+geometry, which we will study later in the course, is an example of a geometry 
+that satisfies the principal of duality.
+God exists since 
+mathematics is consistent, and the devil exists since we cannot prove the 
+consistency.
+Morris Kline
+ (19081992)
+
+
+
+
+
+1.1.2 Examples of Axiomatic Systems
+
+
+
+
+
+ 
+    
+
+
+
+
+  
+ 
+    
+ 
+    
+
+
+
+
+© Copyright 2005, 2006 -
+Timothy Peil
+
+
+

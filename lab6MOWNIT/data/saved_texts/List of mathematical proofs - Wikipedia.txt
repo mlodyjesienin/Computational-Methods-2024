@@ -1,0 +1,946 @@
+
+
+
+
+List of mathematical proofs - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Theorems of which articles are primarily devoted to proving them
+
+
+
+
+
+
+
+
+2
+Articles devoted to theorems of which a (sketch of a) proof is given
+
+
+
+
+
+
+
+
+3
+Articles devoted to algorithms in which their correctness is proved
+
+
+
+
+
+
+
+
+4
+Articles where example statements are proved
+
+
+
+
+
+
+
+
+5
+Other articles containing proofs
+
+
+
+
+
+
+
+
+6
+Articles which mention dependencies of theorems
+
+
+
+
+
+
+
+
+7
+Proofs using...
+
+
+
+
+Toggle Proofs using... subsection
+
+
+
+
+
+7.1
+topology
+
+
+
+
+
+
+
+
+
+
+8
+Articles giving mathematical proofs within a physical model
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+List of mathematical proofs
+
+
+
+1 language
+
+
+
+
+Italiano
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+A list of articles with mathematical proofs:
+
+
+Theorems of which articles are primarily devoted to proving them[edit]
+See also: Category:Article proofs
+Bertrand's postulate and a proof
+Estimation of covariance matrices
+Fermat's little theorem and some proofs
+Gödel's completeness theorem and its original proof
+Mathematical induction and a proof
+Proof that 0.999... equals 1
+Proof that 22/7 exceeds π
+Proof that e is irrational
+Proof that π is irrational
+Proof that the sum of the reciprocals of the primes diverges
+Articles devoted to theorems of which a (sketch of a) proof is given[edit]
+See also: Category:Articles containing proofs
+Banach fixed-point theorem
+Banach–Tarski paradox
+Basel problem
+Bolzano–Weierstrass theorem
+Brouwer fixed-point theorem
+Buckingham π theorem (proof in progress)
+Burnside's lemma
+Cantor's theorem
+Cantor–Bernstein–Schroeder theorem
+Cayley's formula
+Cayley's theorem
+Clique problem (to do)
+Compactness theorem (very compact proof)
+Erdős–Ko–Rado theorem
+Euler's formula
+Euler's four-square identity
+Euler's theorem
+Five color theorem
+Five lemma
+Fundamental theorem of arithmetic
+Gauss–Markov theorem (brief pointer to proof)
+Gödel's incompleteness theorem
+Gödel's first incompleteness theorem
+Gödel's second incompleteness theorem
+Goodstein's theorem
+Green's theorem (to do)
+Green's theorem when D is a simple region
+Heine–Borel theorem
+Intermediate value theorem
+Itô's lemma
+Kőnig's lemma
+Kőnig's theorem (set theory)
+Kőnig's theorem (graph theory)
+Lagrange's theorem (group theory)
+Lagrange's theorem (number theory)
+Liouville's theorem (complex analysis)
+Markov's inequality (proof of a generalization)
+Mean value theorem
+Multivariate normal distribution (to do)
+Holomorphic functions are analytic
+Pythagorean theorem
+Quadratic equation
+Quotient rule
+Ramsey's theorem
+Rao–Blackwell theorem
+Rice's theorem
+Rolle's theorem
+Splitting lemma
+squeeze theorem
+Sum rule in differentiation
+Sum rule in integration
+Sylow theorems
+Transcendence of e and π (as corollaries of Lindemann–Weierstrass)
+Tychonoff's theorem (to do)
+Ultrafilter lemma
+Ultraparallel theorem
+Urysohn's lemma
+Van der Waerden's theorem
+Wilson's theorem
+Zorn's lemma
+Articles devoted to algorithms in which their correctness is proved[edit]
+Bellman–Ford algorithm (to do)
+Euclidean algorithm
+Kruskal's algorithm
+Gale–Shapley algorithm
+Prim's algorithm
+Shor's algorithm (incomplete)
+Articles where example statements are proved[edit]
+See also: Category:Articles containing proofs
+Basis (linear algebra)
+Burrows–Abadi–Needham logic
+Direct proof
+Generating a vector space
+Linear independence
+Polynomial
+Proof
+Pumping lemma
+Simpson's rule
+Other articles containing proofs[edit]
+See also: Category:Articles containing proofs
+Accumulation point
+Addition in N
+associativity of addition in N
+commutativity of addition in N
+uniqueness of addition in N
+Algorithmic information theory
+Boolean ring
+commutativity of a boolean ring
+Boolean satisfiability problem
+NP-completeness of the Boolean satisfiability problem
+Cantor's diagonal argument
+set is smaller than its power set
+uncountability of the real numbers
+Cantor's first uncountability proof
+uncountability of the real numbers
+Combinatorics
+Combinatory logic
+Co-NP
+Coset
+Countable
+countability of a subset of a countable set (to do)
+Angle of parallelism
+Galois group
+Fundamental theorem of Galois theory (to do)
+Gödel number
+Gödel's incompleteness theorem
+Group (mathematics)
+Halting problem
+insolubility of the halting problem
+Harmonic series (mathematics)
+divergence of the (standard) harmonic series
+Highly composite number
+Area of hyperbolic sector, basis of hyperbolic angle
+Infinite series
+convergence of the geometric series with first term 1 and ratio 1/2
+Integer partition
+Irrational number
+irrationality of log23
+irrationality of the square root of 2
+Mathematical induction
+sum identity
+Power rule
+differential of xn
+Product and Quotient Rules
+Derivation of Product and Quotient rules for differentiating.
+Prime number
+Infinitude of the prime numbers
+Primitive recursive function
+Principle of bivalence
+no propositions are neither true nor false in intuitionistic logic
+Recursion
+Relational algebra (to do)
+Solvable group
+Square root of 2
+Tetris
+Algebra of sets
+idempotent laws for set union and intersection
+Articles which mention dependencies of theorems[edit]
+Cauchy's integral formula
+Cauchy integral theorem
+Computational geometry
+Fundamental theorem of algebra
+Lambda calculus
+Invariance of domain
+Minkowski inequality
+Nash embedding theorem
+Open mapping theorem (functional analysis)
+Product topology
+Riemann integral
+Time hierarchy theorem
+Deterministic time hierarchy theorem
+Proofs using...[edit]
+topology[edit]
+Furstenberg's proof of the infinitude of primes
+Articles giving mathematical proofs within a physical model[edit]
+No-cloning theorem
+Torque
+See also[edit]
+Gödel's ontological proof
+Invalid proof
+List of theorems
+List of incomplete proofs
+List of long proofs
+vteMathematical logicGeneral
+Axiom
+list
+Cardinality
+First-order logic
+Formal proof
+Formal semantics
+Foundations of mathematics
+Information theory
+Lemma
+Logical consequence
+Model
+Theorem
+Theory
+Type theory
+Theorems (list) and paradoxes
+Gödel's completeness and incompleteness theorems
+Tarski's undefinability
+Banach–Tarski paradox
+Cantor's theorem, paradox and diagonal argument
+Compactness
+Halting problem
+Lindström's
+Löwenheim–Skolem
+Russell's paradox
+LogicsTraditional
+Classical logic
+Logical truth
+Tautology
+Proposition
+Inference
+Logical equivalence
+Consistency
+Equiconsistency
+Argument
+Soundness
+Validity
+Syllogism
+Square of opposition
+Venn diagram
+Propositional
+Boolean algebra
+Boolean functions
+Logical connectives
+Propositional calculus
+Propositional formula
+Truth tables
+Many-valued logic
+3
+finite
+∞
+Predicate
+First-order
+list
+Second-order
+Monadic
+Higher-order
+Fixed-point
+Free
+Quantifiers
+Predicate
+Monadic predicate calculus
+Set theory
+Set
+hereditary
+Class
+(Ur-)Element
+Ordinal number
+Extensionality
+Forcing
+Relation
+equivalence
+partition
+Set operations:
+intersection
+union
+complement
+Cartesian product
+power set
+identities
+Types of sets
+Countable
+Uncountable
+Empty
+Inhabited
+Singleton
+Finite
+Infinite
+Transitive
+Ultrafilter
+Recursive
+Fuzzy
+Universal
+Universe
+constructible
+Grothendieck
+Von Neumann
+Maps and cardinality
+Function/Map
+domain
+codomain
+image
+In/Sur/Bi-jection
+Schröder–Bernstein theorem
+Isomorphism
+Gödel numbering
+Enumeration
+Large cardinal
+inaccessible
+Aleph number
+Operation
+binary
+Set theories
+Zermelo–Fraenkel
+axiom of choice
+continuum hypothesis
+General
+Kripke–Platek
+Morse–Kelley
+Naive
+New Foundations
+Tarski–Grothendieck
+Von Neumann–Bernays–Gödel
+Ackermann
+Constructive
+Formal systems (list),language and syntax
+Alphabet
+Arity
+Automata
+Axiom schema
+Expression
+ground
+Extension
+by definition
+conservative
+Relation
+Formation rule
+Grammar
+Formula
+atomic
+closed
+ground
+open
+Free/bound variable
+Language
+Metalanguage
+Logical connective
+¬
+∨
+∧
+→
+↔
+=
+Predicate
+functional
+variable
+propositional variable
+Proof
+Quantifier
+∃
+!
+∀
+rank
+Sentence
+atomic
+spectrum
+Signature
+String
+Substitution
+Symbol
+function
+logical/constant
+non-logical
+variable
+Term
+Theory
+list
+Example axiomaticsystems (list)
+of arithmetic:
+Peano
+second-order
+elementary function
+primitive recursive
+Robinson
+Skolem
+of the real numbers
+Tarski's axiomatization
+of Boolean algebras
+canonical
+minimal axioms
+of geometry:
+Euclidean:
+Elements
+Hilbert's
+Tarski's
+non-Euclidean
+Principia Mathematica
+Proof theory
+Formal proof
+Natural deduction
+Logical consequence
+Rule of inference
+Sequent calculus
+Theorem
+Systems
+axiomatic
+deductive
+Hilbert
+list
+Complete theory
+Independence (from ZFC)
+Proof of impossibility
+Ordinal analysis
+Reverse mathematics
+Self-verifying theories
+Model theory
+Interpretation
+function
+of models
+Model
+equivalence
+finite
+saturated
+spectrum
+submodel
+Non-standard model
+of arithmetic
+Diagram
+elementary
+Categorical theory
+Model complete theory
+Satisfiability
+Semantics of logic
+Strength
+Theories of truth
+semantic
+Tarski's
+Kripke's
+T-schema
+Transfer principle
+Truth predicate
+Truth value
+Type
+Ultraproduct
+Validity
+Computability theory
+Church encoding
+Church–Turing thesis
+Computably enumerable
+Computable function
+Computable set
+Decision problem
+decidable
+undecidable
+P
+NP
+P versus NP problem
+Kolmogorov complexity
+Lambda calculus
+Primitive recursive function
+Recursion
+Recursive set
+Turing machine
+Type theory
+Related
+Abstract logic
+Algebraic logic
+Automated theorem proving
+Category theory
+Concrete/Abstract category
+Category of sets
+History of logic
+History of mathematical logic
+timeline
+Logicism
+Mathematical object
+Philosophy of mathematics
+Supertask
+ Mathematics portal
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_mathematical_proofs&oldid=1158714048"
+Categories: Mathematics-related listsMathematical proofsHidden categories: Articles with short descriptionShort description is different from Wikidata
+
+
+
+
+
+
+ This page was last edited on 5 June 2023, at 20:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

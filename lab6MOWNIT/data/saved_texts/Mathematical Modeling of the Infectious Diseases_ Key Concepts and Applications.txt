@@ -1,0 +1,1176 @@
+
+
+
+
+Mathematical Modeling of the Infectious Diseases: Key Concepts and Applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Review Timeline | 
+			CrossMark Policy |
+			ClinMed Features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOME
+JOURNALS
+PEER REVIEW PROCESS
+AUTHOR GUIDELINES
+SUBMIT MANUSCRIPT
+ORDER REPRINTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal of  Infectious Diseases and Epidemiology ISSN: 2474-3658 
+
+
+Journal Menu 
+
+
+
+
+HOME
+EDITORIAL BOARD
+REVIEWERS
+ARCHIVE
+CURRENT ISSUE
+EARLY ONLINE
+
+OPEN ACCESS
+REVIEW PROCESS
+
+
+
+
+ 
+
+
+Table of Contents
+
+
+  Abstract
+
+- Background 
+- Objectives 
+- Methods 
+- Results 
+- Conclusion 
+
+ Keywords
+ Introduction
+ Methods
+  Results and Discussion
+
+- Mathematical modeling of infectious diseases 
+- Deterministic mathematical modeling 
+- Stochastic mathematical modeling 
+- Deterministic versus stochastic 
+- The basic reproductive number 
+
+ Conclusion
+ Funding
+ Conflicts of Interest/Competing Interests
+ Ethics Approval
+ Consent to Participate
+ Consent for publication
+ Availability of Data and Material
+ Code Availability
+  Figures
+
+- Figure 1 
+- Figure 2 
+- Figure 3 
+
+ References
+ Citation
+
+
+
+
+Citation
+
+
+										Costa ALP, Pires MA, Resque RL, Almeida SSMS (2021) Mathematical Modeling of the Infectious Diseases: Key Concepts and Applications. J Infect Dis Epidemiol 7:209. doi.org/10.23937/2474-3658/1510209
+										
+
+
+
+
+
+
+
+
+									Review Article |  OPEN ACCESS DOI: 10.23937/2474-3658/1510209
+
+
+										Mathematical Modeling of the Infectious Diseases: Key Concepts and Applications
+									
+
+									Anderson Luiz Pena da Costa1*, Marcelo Amanajas Pires2, Rafael Lima Resque3 and Sheylla Susan Moreira da Silva de Almeida3
+
+
+1Macapa Institute of High Education - IMMES, College of Pharmacy, Brazil
+									
+
+2Brazilian Center for Research in Physics (CBPF), Brazil
+									
+
+3Post-Graduation Program in Pharmaceutical Sciences (PPGCF), Federal University of Amapa - UNIFAP, Brazil
+									
+
+
+Abstract
+
+Background
+
+												The transmission dynamics of infectious diseases is susceptible to changes governed by several factors, whose recognition is critical for the rational development of strategies for prevention and control, as well as for developing health policies. In this context, mathematical modeling can provide useful insights concerning transmission patterns and detection of parameters to mitigate disease in the population.
+												
+Objectives
+
+												To didactically present the mathematical modeling of infectious diseases for health students and professionals as a tool in epidemiology.
+												
+Methods
+
+												A comprehensive literature review was conducted with articles obtained from PubMed, Web of Science, and Google Scholar databases with the term infectious diseases mathematical modeling.
+												
+Results
+
+												There are two main types of models built with a basis on fixed or probabilistic rates that describe individuals' movement in compartments that designate stages in the natural history of the disease. In this sense, deterministic models are non-probabilistic and stochastic models are probabilistic, the first one helps in developing a prospection of possible scenarios in epidemiology, while the second is more applicable in the study of the influence of variables in the transmission dynamics.
+												
+Conclusion
+
+												The infectious agents are in a constant process of biological evolution, as well as the environment and human conceptions, culture, and behavior, implying a constant transformation in the epidemiological profile of infectious diseases, in which the mathematical modeling can provide support to the decision-making processes concerning epidemiology and public health.
+												
+
+
+Keywords
+
+										Infectious diseases, Mathematical modeling, Epidemiology, Public health
+										
+Introduction
+
+										Infectious diseases are the result of a disharmonious ecological interaction between a microbial infectious agent (bacteria, fungi, parasites, or viruses, except for prions that are infectious proteins) and a host, where the dynamics in this interaction is subjected to the modulatory influence of several factors, such as the environment, the biological properties of the pathogens and the host susceptibilities to disease, as well as the influence of behavioral, cultural, and social patterns that can enhance or mitigate the host's exposure to the disease sources and consequently its transmission in the population [1].
+										
+
+										In this sense, the connection between the above mentioned factors is critical for a better understanding of the transmission patterns to support the development of effective strategies of control, health assistance, and policies [2]. Highlighting that some infectious diseases have the potential for treatment and eradication in most cases by antimicrobial drugs and vaccines, as well as prevention by proper hygienic-sanitary and prophylactic measures, however, they also present great unpredictability regarding their epidemiological magnitudes in the population due to the biological evolution of infectious agents against therapeutic drugs along with constant social and environmental changes intrinsic to the continuous and unstoppable process of globalization and urbanization [3-5].
+										
+
+										In this context, the unpredictability of these diseases represents a factor that can compromise the capacity of the health systems and services to meet the needs of the population, especially considering finite and limited human and economic resources, where the mathematical modeling of the infectious diseases can contribute to the health services by allowing extrapolations of the epidemiological behavior of the infectious diseases, as well as interventions, whose effectiveness can be analyzed considering numerous factors that can influence the dynamics of disease transmission and guide the public health decision-making [6], such as the study by Hoertel, et al. [7], Which, through mathematical modeling, analyzed the effects of measures such as lockdown, physical distance, and the use of masks on the COVID-19 cumulative incidence and mortality, bed occupancy, concluding that the preventive measures mentioned would be effective in reducing the speed of the epidemic in France, but not enough to prevent the maximum occupancy of the ICU beds, still emphasizing that without such measures, the magnitude of the pandemic would be much greater in the French population, suggesting the continuity the use of masks and social detachment after periods of lockdown.
+										
+
+										Therefore, this work didactically presents mathematical modeling as a tool useful in epidemiology, having as target students and professionals from health sciences.
+										
+Methods
+
+										This work adopted the methodology described by [8], presenting a text with an educational approach derived from the analysis of the conceptual and experimental articles raised in the PubMed, Web of Science and Google Scholar databases with the boolean operators infectious diseases 'AND' mathematical modeling. The selection criteria were pertinence to the theme and consistency of the information provided, and full availability of the material online, while the exclusion criteria were works published in events and works not fully available online.
+										
+
+										This review brings a conceptual understanding of what is a model, which data are used in the mathematical models applied to the infectious disease dynamics, the types of models, and how they are built through a didactic text with a comprehensive approach.
+										
+Results and Discussion
+
+										In this topic, the data and the main methods used in the infectious diseases mathematical modeling are presented considering the graphic shape an epidemic can present regarding the number of infected individuals during a time interval, followed by explanations about the basic measure used to assess epidemic risks and the effectiveness of interventions according to mathematical modeling, as well as few strategies that can be adopted to increase the realism of a mathematical representation of an epidemic.
+										
+Mathematical modeling of infectious diseases
+
+										A mathematical model is an abstract representation of a phenomenon constructed with the use of equations that generate perspectives of the general behavior of an epidemic event, also representing a way to investigate the influence of determinate factors over disease spread, providing a crude general behavior of an epidemic as addressed by epidemic curves, thus allowing predictions about the endurance of an epidemic, its magnitude in the population, and the evaluation of factors that influence the transmission dynamics, and consequently the number of cases. Highlighting it is possible to apply mathematical refinements to the models to enhance their proximity to real data [9,10].
+										
+
+										In the epidemiology of infectious diseases, mathematical modeling is a tool of great versatility, that allows the identification of patterns in epidemics, extrapolations of epidemic behaviors along with the effect of interventions such as pharmacological treatment, immunization, quarantine, social distance, and hygiene measures in a dynamic context, presenting low cost and enabling simulations of experiments condemnable ethically in human beings, as well as simulations of experiments that present low economic viability in animal models [11].
+										
+
+										In general terms, the mathematical models applied to the epidemiology of infectious diseases can be classified into two types: 1) The deterministic models considering nonrandom rate flows in a population stratified in compartments; and 2) The stochastic models that consider probabilities in the movements between the compartments of the model, such as the probability of a susceptible individual being infected and the probability of transmitting the disease in the population addressed by a mathematical system [12].
+										
+Deterministic mathematical modeling
+
+										The deterministic models of the infectious diseases represent the most practical way for the approximate analysis of how an epidemic will behave in a closed system, in which the population is divided into compartments that describe disease states, where differential equations appearing as derivatives describe the movements between these states by determining variations over time [13].
+										
+
+										In this context, considering a total population N (equation 1) that is initially found in a compartment called susceptible (S equation 2), which after the introduction of a pathogen, gradually moves to the compartment infected (I equation 3), according to the differential equations below:
+										
+
+										Equation 1	
+
+N=S+I,
+  where
+										
+
+										Equation 2	
+
+
+
+dS
+
+st
+
+=−β+1,
+
+
+
+										Equation 3	
+
+
+
+dI
+
+dt
+
+=βSI.
+
+
+
+										In which the negative sign preceding the infection rate β indicates that the product of S x I decreases among the individuals in compartment S, while the number of infected people grows in the same proportion [14], as seen in the SI model in Figure 1 (on the left side).
+										
+
+
+
+
+												Figure 1: Graphical representation on the SI model (Susceptible and Infected) on de left and SIR model (Susceptible, Infected and Recovered) on the right, and bellow their structure and dynamics in flow charts. 
+View Figure 1
+
+
+
+
+
+										In this model, the onset of infection and the exponential growth in the number of cases are approximate to the observed in the epidemic curves, however, the model cannot represent the natural decline in the number of cases after the system reaches saturation due to the absence of susceptible individuals to support new cases [15]. In this sense, the SI model is more suitable for infectious diseases that become chronic with no recovery, such as infection by HIV [16].
+										
+
+										In this sense, the addition of a new compartment capable of capture the decline in the epidemic curves due to acquired immunity or death brings to the system more realism, as well as applicability to self-limiting, or treatable infections. Highlighting that the new compartment, the recovered or removed (R equation 7) should increase exponentially regardless of the number of susceptible individuals, depending exclusively on the number of infected multiplied by a recovery constant Ɣ [17].
+										
+
+										In this case, the system of equations becomes:
+										
+
+										Equation 4	
+
+N=S+I+R,
+
+
+
+										Equation 5	
+
+
+
+dS
+
+dt
+
+=−
+
+βSI
+N
+
+,
+
+
+
+										Equation 6	
+
+
+
+dI
+
+dt
+
+=
+
+βSI
+N
+
+−γI,
+
+
+
+										Equation 7	
+
+
+
+dR
+
+dt
+
+=γI.
+
+
+
+										As a result of adding this new compartment to the model, the graphic representation becomes capable of describing the essence of the epidemiological behavior of most infectious diseases, as shown in Figure 1 (on the right side), in which the number of susceptible individuals decreases in the same proportion as the number of infected increases, and the number of recovered people increases as the number of infected people declines [14,15].
+										
+
+										Highlighting that the deterministic models are not limited to the SI, and the SIR structures, being possible to implement different structures and dynamics in the deterministic systems, which, after refinement, attribute to the model a greater degree of realism in their epidemic representations of the infectious diseases, considering factors such as the incubation period by adding the exposed compartment (E), age stratification, and spatial structures [16-19].
+										
+
+										In this sense, Figure 2 shows a hypothetical case considering the compartments Susceptible, Exposed, Infected, and Recovered with two dynamics in the populations of three countries, assuming the flow of individuals between different geographic spaces.
+										
+
+
+
+
+												Figure 2: A hypothetical transmission dynamics considering spatial structures in two models with similar structure, including the compartments susceptible, exposed, infected, and recovered in Angola, Brazil, and United States, assuming the flow of people from these countries in different compartments with two distinct dynamic, where the SIER model assumes total recovery or removal of the system due to immunological memory or death, and the SEIRS assumes that the recovered individuals are capable of being infected again. 
+View Figure 2
+
+
+
+
+
+										However, although the deterministic models capture the epidemiological behavior essence of the infectious diseases, it does not consider numerous events of random nature that can influence the transmission dynamics, such as environmental factors, and protective behaviors in the susceptible host population through prophylactic measures, rapid and effective responses of the health systems, and the participation of asymptomatic individuals in the transmission dynamics, being the deterministic models the most suitable to simplify the epidemiological behavior of a given infectious disease in a worst-case scenario, but not the most suitable for making decisions in real-time [20].
+										
+
+										Exemplifying the employability of deterministic mathematical models, Ngeleja, et al. [21] developed a model to assess the role and magnitude of the involvement of human populations, rodents, fleas, and the survival of pathogens in the environment on the spread of bubonic plague, an infectious disease caused by the bacterium Yersinia pestis, which represents a serious public health problem for some African countries, such as Tanzania.
+										
+
+										The model by Ngeleja, et al. [21] adopted the susceptible (S), exposed (E), infected (I), and recovered (R) structure and dynamics in the human population, assuming a return to the susceptibility and reinfection stage; in the flea population a susceptible (S) and Infected (I) structure and dynamics were used since once infected by the pathogen Yersinia pestis, the fleas do not recover from the infection; for the rodent population, the susceptible (S), exposed (E), and infected (I) structure and dynamics were assumed, considering natural death, and interaction/contact between humans, fleas, rodents, and the environment, according to the differential equations below:
+										
+
+										Human population (SEIR)
+										
+
+										Equation 8	
+
+
+
+dSH
+
+dt
+
+=π1ψ+ϖ1RH=α1 (Γfh
+
+IF
+
+N2
+
++ω1A) SH−μ1SH,
+
+
+
+										Equation 9	
+
+
+
+dE
+
+dt
+
+=π2ψ+α1 (Γfr
+
+IF
+
+N2
+
++ω1A) SH−α2EH−μ1EH,
+
+
+
+										Equation 10	
+
+
+
+dIH
+
+dt
+
+=α2EH−α3IH− (μ1+δ1) IH,
+
+
+
+										Equation 11	
+
+
+
+dRH
+
+dt
+
+=π3ψ1+α3IH−ϖRH−μ1RH;
+
+
+
+										Rodent population (SEI)
+										
+
+										Equation 12	
+
+
+
+dSR
+
+dt
+
+=κ1ψ3−γ1 (Γfr
+
+IF
+
+N2
+
++ω2A) SR−μ3SR,
+
+
+
+										Equation 13	
+
+
+
+dER
+
+dt
+
+=κ2ψ3+γ1 (Γfr
+
+IF
+
+N2
+
++ω2A) SR−γ2ER−μ3SR,
+
+
+
+										Equation 14	
+
+
+
+dIR
+
+dt
+
+=κ3ψ3+γ2ER− (μ3+δ3) IR,
+
+
+
+										Flea (SI)
+										
+
+										Equation 15	
+
+
+
+dSF
+
+dt
+
+=ψ2s−β (ρΓhf
+
+IH
+
+N1
+
++ (1−ρ) Γrf
+
+IR
+
+N3
+
+) SF−μ2SF,
+
+
+
+										Equation 16	
+
+
+
+dIF
+
+dt
+
+=ψ2i+β (ρΓhf
+
+IH
+
+N1
+
++ (1−ρ) Γrf
+
+IR
+
+N3
+
+) SF− (μ2+δ2) IF,
+
+
+
+										Where ψ2s < ψ2i 
+										
+
+										Pathogens in the environment
+										
+
+										Equation 17	
+
+
+
+dA
+
+dt
+
+=λ4−ω1ASH−ω2ASR−μ4A.
+
+
+
+										Where the following parameters are added to the differential equations: Γfr, Γfh, Γrf, Γhf are parameters related to the adequate contact rate between flea to rodent, flea to human, rodent to flea, and human to flea; ω1 is the adequate contact rate between pathogens to human, and ω2 is the adequate contact rate between pathogen to rodent ; α1, α2 and α3 represent progressions rates, respectively, susceptible human to exposed, exposed human to infected, and infected to recovery, and ϖ is the progression rate from recovered human to susceptible ; Ɣ1 represent the progression rates of susceptible rodents to exposed, and Ɣ2 the progression rate of exposed rodent to infected; µ1, µ2, µ3 and µ4 are in order, the natural death for human, flea, rodent and pathogen, δ1, δ2 and δ3 are the disease induced rates for human, flea and rodent; ψ1, ψ2s, ψ2i, and ψ3 are respectively the imigrations rate of human, susceptible flea, infected flea, and rodent; π1, π2, π3 are the proportional migrantion that are susceptible, exposed, and recovered; κ1, κ2 and κ3 are the proportional rodent migrants that are susceptible, exposed and infected; and β is the rate that fleas become infected. Highlighting these parameters were from the literature.
+										
+
+										In the numerical solution presented by Ngeleja, et al. [21], In the absence of interventions, the parameter that has the greatest effect on the dynamics of transmission to humans and rodents is the β infectivity rate in the flea population, suggesting that the most effective strategies should focus on vector control, with the infected populations of humans and rodents being negligible parameters, as well as the environment in the transmission dynamics. This result is similar to those from Mbogo, et al. [22], that developed a comparative analysis of deterministic and stochastic models with the structural dynamics susceptible and infected (SI) for human and vector populations, also observing the relevance of strategies with a focus on vector control to mitigate malaria transmission, however differently, the environment was a parameter with some degree of significance in the malaria transmission to humans.
+										
+Stochastic mathematical modeling
+
+										The stochastic mathematical models of infectious diseases represent a more realistic approach to epidemics, because they allow the recognition of the initial patterns in an epidemic the analysis of the spatial distribution of case numbers in a given location, and allow estimations about the duration of an epidemic, considering differences among individuals in the population, such as age, sex, as well as social and geographic aspects that impose non-uniformity in the contact between individuals, in addition to environmental factors such as seasonality and transmission pathways [23-25].
+										
+
+										These models tend to have complex and sophisticated mathematical formulations, and can be classified into three types: 1) Stochastic differential equations; 2) Markov chains with continuous-time or 3) Markov chains with discrete-time. All the stochastic models assume probabilities in the transition between the compartments of the system, also assuming the presence of a state free of disease, which is different from the deterministic models that assume an equilibrium state, which does not represent the end of an epidemic. In addition, they have great employability in asymptotic analysis, where the main objective is to describe the behavior limits considering the number of infected individuals in a large population [23].
+										
+
+										The models of the type Markov chain assume that each infection will occur independently of the past one in a probabilistic fashion, being possible to obtain from these models predictions about the stochastic risk of a major or a minor outbreak to occur when the number of infectious individuals is too small in a population of susceptible hosts [26], and the stochastic differential equations consider special probability and diffusion coefficients in the structures defined by the deterministic models considering random processes in the movement of compartments that compose the model [27].
+										
+
+										The stochastic models represent a more realistic approach to model infectious diseases because they contemplate the high degree of uncertainty in the dynamics of transmission, providing a range of possible outcomes of an outbreak considering a large number of variables that influence the epidemic behavior of an infectious disease, however, they tend to be limited regarding the degree of complexity in the formulation of the mathematical system and data interpretation through different methods, such as the use of master equations [28], itô calculations [29], as well as other mathematical and statistical approaches based on brownian motion [30], or markov processes that add stochasticity to differential equations [31], monte carlo method [32], the [33] gillespie's first reaction method, among other methods.
+										
+
+										In this sense, as an example of stochastic model development and implications, Legrand, et al. [34] evaluated the transmission of ebola hemorrhagic fever in the community, hospitals, and due to traditional burial ceremonies using real epidemiological data from epidemics in the Democratic Republic of Conga, and Uganda, respectively in 1995 and 2000. Their model was composed of the compartments susceptible (S), exposed and not infectious individuals in the community (E), Infected and infectious (I), hospitalized individuals (H), dead individuals that remain infectious during traditional funerals (F), and removed individuals by cure or death, as seen in equations 18-23, assuming that all cases were due to human to human transmission, except the first case
+										
+
+										Equation 18	
+
+
+
+dS
+
+dt
+
+=−
+1
+N
+
+ (
+β
+I
+
+SI+
+β
+H
+
+SH+
+β
+F
+
+SF),
+
+
+
+										Equation 19	
+
+
+
+dE
+
+dt
+
+=
+1
+N
+
+ (
+β
+I
+
+SI+
+β
+H
+
+SH+
+β
+F
+
+SF) - αE,
+
+
+
+										Equation 20	
+
+
+
+dI
+
+dt
+
+=αE− (
+γ
+h
+
+
+θ
+1
+
++
+γ
+i
+
+(1−
+θ
+1
+
+) (1−
+δ
+1
+
+) + 
+γ
+d
+
+ (1−
+θ
+1
+
+)
+δ
+1
+
+)I,
+
+
+
+										Equation 21	
+
+
+
+dH
+
+dt
+
+=
+γ
+d
+
+
+θ
+1
+
+− (
+γ
+
+dh
+
+
+δ
+2
+
++
+γ
+
+ih
+
+ (1−
+δ
+2
+
+)) H,
+
+
+
+										Equation 22	
+
+
+
+dF
+
+dt
+
+=
+γ
+d
+
+ (1−
+θ
+1
+
+)
+δ
+1
+
+I+
+γ
+
+dh
+
+
+δ
+2
+
+H−
+γ
+f
+
+F,
+
+
+
+										Equation 23	
+
+
+
+dR
+
+dt
+
+=
+γ
+i
+
+ (1−
+θ
+1
+
+)(1−
+δ
+1
+
+) I+
+γ
+
+ih
+
+ (1−
+δ
+2
+
+) H+
+γ
+f
+
+F.
+
+
+
+										The model presents the following parameters: βI, BH, and BF are coefficients of transmission, respectively, in the community, at the hospital, and during funerals; θ1 is the percentage of infected cases that are hospitalized; δ1 and δ2 are the case-fatality ratios; α is the inverse of the mean duration of the incubation period; Ɣh-1 is the symptom onset to hospitalization; Ɣdh-1 is the mean duration from hospitalization to death; Ɣih-1 is the mean duration from hospitalization to the end of infectiousness for survivors; and Ɣf-1 is the mean duration from death to burial. Highlighting the model's parameter were evaluated using the maximum-likelihood adopting 95% of confidence interval, then sets of parameters generated by latin hypercube sampling were computed assuming twice the difference of log-likelihood values that was X2 distributed with degrees of freedom with values equal to the number of estimated parameters, then 700 simulations were run by the gillespie's first reaction method, and in each simulation, the partial rank correlation coefficient was computed to analyze the influence of each parameter in the epidemic size.
+										
+
+										In this model, Legrand, et al. [34] found out the community transmission was a significant source of infection in Uganda, while the traditional burial ceremonies played a more important role in the transmission dynamics in the Democratic Republic of Congo, emphasizing that appropriate hospital precautions to avoid transmission between patients and health care workers, as well as precautions with the corpses, are important to decrease the size and duration of epidemics. The authors [34] also proposed tracing contact interventions as a strategy to identify sources of infection, thus decreasing the transmissibility due to proper isolation and health care of infected and suspicious cases.
+										
+Deterministic versus stochastic
+
+										In general, both approaches exhibit the same behavior, where the deterministic models can capture the essential patterns of an epidemic; however, it cannot answer the question: what are the margins of error of the estimates for disease peaks? Therefore, to address this question, the stochastic model can be used, considering the minimum and maximum probabilistic range an epidemic can assume.
+										
+
+										That is, the deterministic approach provides an overall insight about the disease spreading in a fast way, whereas the stochastic framework provides statistical insights into the transmission events providing a range of possible epidemic scenarios [22].
+										
+
+										Deterministic models tend to present results that do not undergo major changes due to fluctuations in the population, but undergo significant changes if the parameters inserted in the differential equations are modified; in this context, the stochastic models are more responsive to quantitative changes both in the populations and subpopulations, as well as in the modeling parameters, making it important to emphasize that there are several ways of working probabilities in stochastic processes as addressed above, which makes these models too complex and difficult to interpret [22,30,35].
+										
+
+										Moreover, both deterministic and stochastic models share the challenge in representing the natural history of infectious diseases, considering sources of infection, transmission routes, incubation period, infection and transmissibility periods, treatment, and development of natural immunity, which are parameters that can be implemented in mathematical systems through three ways: i) Using data already described in the literature [36], ii) Empirically through estimations with basis on epidemiological data [37,38], or iii) Estimated by computer programs using statistical methods such as root mean square error on epidemiological data [17].
+										
+
+										In this sense, when the parameters come from the literature, they can generate results slightly different from a real epidemic because of variability concerning environmental, socio-cultural aspects, the virulence of the pathogens, and resistance-susceptibility profile among the host populations, as well as behaviors with a protective effect to the disease, which can manifest differently in time and space. While the parameters established by analysis of contact rates, incubation time, the prevalence of pathogens in the population and the environment, among other parameters, demand time and statistical treatment, making the mathematical representation more accurate for what is intended to be analyzed, however, also presenting challenges for the development of generalizations valid for other models [39,40]. Therefore, any mathematical modeling study should present calibration and validation considering statistical analyzes of real epidemiological data to assess the accuracy of the models [41].
+										
+The basic reproductive number
+
+										In the epidemiology of infectious diseases, the basic reproductive number or R0 (Figure 3) represents a parameter that expresses the typical number of secondary cases produced from a single infected individual, informing the epidemic risks, in which values of R0 greater than 1 indicate a high predictive risk of an epidemic event to occur, while values of R0 smaller than 1 indicate a low risk of the occurrence of an epidemic event [42]. In this context, the R0 can be obtained from ordinary differential equations considering the relation of the rate of infection (β) by and the rate of recovery (Ɣ) [43,44], usually calculated by next-generation matrixes [21,22,29,45], by the exponential growth rate method and maximum likelihood method [17], or by bayesian statistics [46].
+										
+
+
+
+
+												Figure 3: A schematic representation of the basic reproductive number in a dynamic social context with its interpretation over interventions; initially, an infected individual introduces an infectious agent into a heterogeneous population with individuals with different profiles of susceptibility to the infectious agent, who are likely to produce secondary cases from the primary one, in this context, if the intervention is effective, it will be able to reduce the cases secondary infections by reducing the basic reproductive number of the disease in the population. 
+View Figure 3
+
+
+
+
+
+										Moreover, the R0 is a parameter used to evaluate the efficacy of interventions such as quarantine, mask-wearing, vaccination, washing hands in hospital sets, among others; where if the intervention decreases the R0 to values smaller than 1, it is considered effective, and uneffective if it does not change the R0 [7,47-49].
+										
+
+										However, it is important to point out that the value of R0 is a dynamic parameter restricted to the time and space in which a given infection is occurring or occurred [50] due to social and cultural factors that modulate the social contact rate between individuals, virulence factors from the pathogen, environmental conditions that enable the pathogen survival, treatment availability, as well as susceptibility of the pathogen to the antimicrobial drugs employed in the treatment along with other random factors present in the population [51-53].
+										
+Conclusion
+
+										Several factors can modulate the interaction of a pathogen with its host population, imposing a constant transformation for both organisms, and in this context, the mathematical modeling of the infectious diseases represents a precious tool for understanding transmission dynamics patterns and how factors, such as the environment, human behavior, and the microbial evolution to the antimicrobial drugs and vaccines can change the epidemiological behavior of infectious disease considering local peculiarities.
+										
+
+										Highlighting that addressing local peculiarities is an important aspect for the success of public health policies, programs of disease prevention, and health assistance because in most cases the universal approaches do not consider the social-cultural differences, economic power, human resources, and facilities to deal with infectious diseases epidemic events. Therefore, efforts to translate biological, clinical, environmental, epidemiological, and social data into mathematics, and vice versa represent a low-cost strategy to approach health issues of high complexity in order to search for effective solutions.
+										
+Funding
+
+										This work did not receive funds from any institution.
+										
+Conflicts of Interest/Competing Interests
+
+										The authors declare no conflict of interest.
+										
+Ethics Approval
+
+										Not applicable.
+										
+Consent to Participate
+
+										Not applicable.
+										
+Consent for publication
+
+										Not applicable.
+										
+Availability of Data and Material
+
+										Not applicable.
+										
+Code Availability
+
+										Not applicable.
+										
+References
+
+
+											Costa ALP, Neto OAR, Silva-Júnior ACS (2019) Conditioners of the infectious diseases dynamics. Estação Científica (UNIFAP) 8: 09.
+											
+
+											Wang Z, Andrews MA, Wu Z-X, Wang L, Bauch CT (2015) Coupled disease-behavior dynamics on complex networks: A review. Phys Life Rev 15: 1-29.
+											
+
+											Fauci AS (2001) Infectious Diseases: Considerations for the 21st Century. Clin Infect Dis 32: 675-685.
+											
+
+											Puri N, Coomes EA, Haghbayan H, Gunaratne K (2020) Social media and vaccine hesitancy: New updates for the era of COVID-19 and globalized infectious diseases. Hum Vaccines Immunother 16: 2586-2593.
+											
+
+											Wu T, Perrings C, Kinzig A, Collins JP, Minteer BA, et al. (2017) Economic growth, urbanization, globalization, and the risks of emerging infectious diseases in China: A review. Ambio 46: 18-29.
+											
+
+											Zaman G, Jung IH, Torres DFM, Zeb A (2017) Mathematical modeling and control of infectious diseases. Comput Math Methods Med 2017: 7149154.
+											
+
+											Hoertel N, Blachier M, Blanco C, Olfson M, Massetti M, et al. (2020) A stochastic agent-based model of the SARS-CoV-2 epidemic in France. Nat Med 26: 1417-1421.
+											
+
+											Cooper HM (1988) Organizing knowledge syntheses: A taxonomy of literature reviews. Knowl Soc 1: 104-126.
+											
+
+											Maanen A Van, Saint-luc CU, Xu X (2017) Modelling Plant Disease Epidemics Modelling plant disease epidemics.
+											
+
+												Huppert A, Katriel G (2013) Mathematical modelling and prediction in infectious disease epidemiology. Clin Microbiol Infect 19: 999-1005.
+											
+
+												Opatowski L, Guillemot D, Boëlle PY, Temime L (2011) Contribution of mathematical modeling to the fight against bacterial antibiotic resistance. Curr Opin Infect Dis 24: 279-287.
+											
+
+												Siettos CI, Russo L (2013) Mathematical modeling of infectious disease dynamics. Virulence 4: 295-306.
+											
+
+												van den Driessche P (2017) Reproduction numbers of infectious disease models. Infect Dis Model 2: 288-303.
+											
+
+												Keeling MJ, Danon L (2009) Mathematical modelling of infectious diseases. Br Med Bull 92: 33-42.
+											
+
+												Mohtashemi M, Szolovits P, Dunyak J, Mandl KD (2006) A susceptible-infected model of early detection of respiratory infection outbreaks on a background of influenza. J Theor Biol 241: 954-963.
+											
+
+												Kim JH, Koopman JS (2012) HIV transmissions by stage in dynamic sexual partnerships. J Theor Biol 298: 147-153.
+											
+
+												Dharmaratne S, Sudaraka S, Abeyagunawardena I, Manchanayake K, Kothalawala M, et al. (2020) Estimation of the basic reproduction number (R0) for the novel coronavirus disease in Sri Lanka. Virol J 17: 144.
+											
+
+												Burton J, Billings L, Cummins DAT, Schwartz IB (2012) Disease persistance in epidemiological models: The interplay between vaccination and migration. Math Biosci 239: 91-96.
+											
+
+												Grassly NC, Fraser C (2008) Mathematical models of infectious disease transmission. Nat Rev Microbiol 6: 477-487.
+											
+
+												Costa AL pena da, Rodrigues ONA, Souza ACF (2020) Modelagem matemática de infecções bacterianas causadas por patógenos resistentes : Uma revisão sistemática da dinâmica de transmissão e seus determinantes em populações humanas. Rev Arq Científicos 3: 35-44.
+											
+
+												Ngeleja RC, Luboobi LS, Nkansah-Gyenkye Y (2016) Modeling the dynamics of bulbonic plague with yersinia pestis in the environment. Commun Math Biol Neurosci 2016: 1-24.
+											
+
+												Mbogo RW, Luboobi LS, Odhiambo JW (2018) A stochastic model for malaria transmission dynamics. J Appl Math 2018: 2439520.
+											
+
+												Britton T (2010) Stochastic epidemic models: A survey. Math Biosci 225: 24-35.
+											
+
+												Funk S, Camacho A, Kucharski AJ, Eggo RM, Edmunds WJ (2018) Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model. Epidemics 22: 56-61.
+											
+
+												Heesterbeek H, Anderson RM, Andreasen V, Bansal S, DeAngelis D, et al. (2015) Modeling infectious disease dynamics in the complex landscape of global health. Science 347: aaa4339.
+											
+
+												Allen LJS (2017) A primer on stochastic epidemic models: Formulation, numerical simulation, and analysis. Infect Dis Model 2: 128-142.
+											
+
+												Gray A, Greenhalgh D, Hu L, Mao X, Pan J (2011) A stochastic differential equation SIS epidemic model. Soc Ind Appl Math 71: 876-902.
+											
+
+												Chanu AL, Brojen Singh RK (2020) Stochastic approach to study control strategies of Covid-19 pandemic in India. arXiv.
+											
+
+												Mahrouf M, Boukhouima A, Zine H, Lotfi EM, Torres DFM, et al. (2021) Modeling and forecasting of covid-19 spreading by delayed stochastic differential equations. Axioms 10: 18.
+											
+
+												Tilahun GT, Woldegerima WA, Wondifraw A (2020) Stochastic and deterministic mathematical model of cholera disease dynamics with direct transmission. Adv Differ Equations.
+											
+
+												Sharov KS (2020) Creating and applying SIR modified compartmental model for calculation of COVID-19 lockdown efficiency. Chaos, Solitons and Fractals 141: 110295.
+											
+
+												Tulu TW, Tian B, Wu Z (2017) Mathematical modeling, analysis and Markov Chain Monte Carlo simulation of Ebola epidemics. Results Phys 7: 962-968.
+											
+
+												Ferdousi T, Cohnstaedt LW, McVey DS, Scoglio CM (2019) Understanding the survival of Zika virus in a vector interconnected sexual contact network. Sci Rep 9: 7253.
+											
+
+												Legrand J, Grais RF, Boelle PY, Valleron AJ, Flahault A (2007) Understanding the dynamics of Ebola epidemics. Epidemiol Infect 135: 610-621.
+											
+
+												Wang X, Wang C, Wang K (2020) Global dynamics of a novel deterministic and stochastic SIR epidemic model with vertical transmission and media coverage. Adv Differ Equations 2020: 685.
+											
+
+												Kassem T, Ndam J (2010) A stochastic modeling of recurrent measles epidemic. Sci World J 3: 29-32.
+											
+
+												McBryde ES, Pettitt AN, McElwain DLS (2007) A stochastic mathematical model of methicillin resistant Staphylococcus aureus transmission in an intensive care unit: Predicting the impact of interventions. J Theor Biol 245: 470-481.
+											
+
+												Eisenberg JNS, Goldstick J, Cevallos W, Trueba G, Levy K, et al. (2019) In-roads to the spread of antibiotic resistance: Regional patterns of microbial transmission in northern coastal Ecuador. J R Soc Interface 9: 1029-1039.
+											
+
+												Spicknall IH, Foxman B, Marrs CF, Eisenberg JNS (2013) A modeling framework for the evolution and spread of antibiotic resistance: Literature review and model categorization. Am J Epidemiol 178: 508-520.
+											
+
+												Funk S, Salathé M, Jansen VAA (2010) Modelling the influence of human behaviour on the spread of infectious diseases: A review. J R Soc Interface 7: 1247-1256.
+											
+
+												Hogea C, Van Effelterre T, Acosta CJ (2014) A basic dynamic transmission model of Staphylococcus aureus in the US population. Epidemiol Infect 142: 468-478.
+											
+
+												Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J (2020) The reproductive number of COVID-19 is higher compared to SARS coronavirus. J Travel Med 27: taaa021.
+											
+
+												Breban R, Vardavas R, Blower S (2007) Theory versus data: How to calculate R0? PLoS One 2: e282.
+											
+
+												Ridenhour B, Kowalik JM, Shay DK (2018) Unraveling R0: Considerations for public health applications. Am J Public Health 108: S445-S454.
+											
+
+												Emerenini BO, Inyama SC (2017) Mathematical model and analysis of transmission dynamics of hepatitis B virus. arXiv.
+											
+
+												Kadi AS, Avaradi SR (2015) A bayesian inferential approach to quantify the transmission intensity of disease outbreak. Comput Math Methods Med 2015: 256319.
+											
+
+												Beggs CB, Shepherd SJ, Kerr KG (2008) Increasing the frequency of hand washing by healthcare workers does not lead to commensurate reductions in staphylococcal infection in a hospital ward. BMC Infect Dis 8: 114.
+											
+
+												Eichner M, Schwehm M, Eichner L, Gerlier L (2017) Direct and indirect effects of influenza vaccination. BMC Infect Dis 17: 308.
+											
+
+												Chen Y-H, Fang C-T (2021) Combined interventions to suppress R0 and border quarantine to contain COVID-19 in Taiwan. J Formos Med Assoc 120: 903-905.
+											
+
+												Eubank S, Guclu H, Kumar VSA, Marathe MV, Srinivasan A, et al. (2004) Modelling disease outbreaks in realistic urban social networks. Nature 429: 180-184.
+											
+
+												Parratt SR, Numminen E, Laine A-L (2016) Infectious Disease Dynamics in Heterogeneous Landscapes. Annu Rev Ecol Evol Syst 47: 283-306.
+											
+
+												Howard CR, Fletcher NF (2012) Emerging virus diseases: Can we ever expect the unexpected? Emerg Microbes Infect 1: e46.
+											
+
+												Jones KE, Patel NG, Levy MA, Storeygard A, Balk D, et al. (2008) Global trends in emerging infectious diseases. Nature 451: 990-993.
+
+
+Citation
+
+											Costa ALP, Pires MA, Resque RL, Almeida SSMS (2021) Mathematical Modeling of the Infectious Diseases: Key Concepts and Applications. J Infect Dis Epidemiol 7:209. doi.org/10.23937/2474-3658/1510209
+											
+
+ 
+
+
+
+
+
+
+
+
+
+										Volume 7 Issue 5
+									
+
+
+ 
+   Download Article 
+
+Article Formats
+
+									   PDF    |    HTML   |    XML   |    ePUB
+
+
+ 
+   Order Reprints 
+ 
+
+Article Details
+
+
+
+Journal of Infectious Diseases and Epidemiology
+ISSN: 2474-3658
+J Infect Dis Epidemiol
+Abbrevation: JIDE
+DOI: 10.23937/2474-3658/1510209
+Pub Date: May 31, 2021
+Article Type: Review Article 
+Pub Type: Open Access
+
+ 
+
+Corresponding author
+ Anderson Luiz Pena da Costa, Macapa Institute of High Education - IMMES, College of Pharmacy, Jovino Diana Street, 2085 - Central, Macapa - AP, 68900-075, Brazil.
+
+
+Copyright
+ © 2021 Costa ALP, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu 
+
+Home
+Journals
+Submit Manuscript
+Contact
+
+
+
+Quick Links
+
+ Review Guidelines
+Author Guidelines
+Open Access
+Join Us
+
+
+
+Contact Us
+
+ClinMed International Library
+3511 Silverside Road, Suite 105
+Wilmington, DE 19810, USA 
+E-mail: contact@clinmedjournals.org 
+
+
+
+
+
+©   ClinMed International Library.
+			All Rights Reserved. By continuing to use this website, you agree to our Terms of Use | Privacy Policy
+
+
+
+
+
+
+ 
+

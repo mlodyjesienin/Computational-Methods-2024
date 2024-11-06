@@ -1,0 +1,3766 @@
+
+
+
+
+Axiomatic foundations of topological spaces - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Standard definitions via open sets
+
+
+
+
+
+
+
+
+2
+Definition via closed sets
+
+
+
+
+
+
+
+
+3
+Definition via closure operators
+
+
+
+
+
+
+
+
+4
+Definition via interior operators
+
+
+
+
+
+
+
+
+5
+Definition via neighbourhoods
+
+
+
+
+
+
+
+
+6
+Definition via convergence of nets
+
+
+
+
+
+
+
+
+7
+Definition via convergence of filters
+
+
+
+
+
+
+
+
+8
+See also
+
+
+
+
+
+
+
+
+9
+Citations
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Axiomatic foundations of topological spaces
+
+
+
+2 languages
+
+
+
+
+Deutsch日本語
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+In the mathematical field of topology, a topological space is usually defined by declaring its open sets.[1] However, this is not necessary, as there are many equivalent axiomatic foundations, each leading to exactly the same concept. For instance, a topological space determines a class of closed sets, of closure and interior operators, and of convergence of various types of objects. Each of these can instead be taken as the primary class of objects, with all of the others (including the class of open sets) directly determined from that new starting point. For example, in Kazimierz Kuratowski's well-known textbook on point-set topology, a topological space is defined as a set together with a certain type of "closure operator," and all other concepts are derived therefrom.[2] Likewise, the neighborhood-based axioms (in the context of Hausdorff spaces) can be retraced to Felix Hausdorff's original definition of a topological space in Grundzüge der Mengenlehre.[citation needed]
+Many different textbooks use many different inter-dependences of concepts to develop point-set topology. The result is always the same collection of objects: open sets, closed sets, and so on. For many practical purposes, the question of which foundation is chosen is irrelevant, as long as the meaning and interrelation between objects (many of which are given in this article), which are the same regardless of choice of development, are understood. However, there are cases where it can be useful to have flexibility. For instance, there are various natural notions of convergence of measures, and it is not immediately clear whether they arise from a topological structure or not. Such questions are greatly clarified by the topological axioms based on convergence.
+
+
+Standard definitions via open sets[edit]
+A topological space is a set 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ together with a collection 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ of subsets of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ satisfying:[3]
+
+The empty set and 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ are in 
+
+
+
+S
+.
+
+
+{\displaystyle S.}
+
+
+The union of any collection of sets in 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is also in 
+
+
+
+S
+.
+
+
+{\displaystyle S.}
+
+
+The intersection of any pair of sets in 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is also in 
+
+
+
+S
+.
+
+
+{\displaystyle S.}
+
+ Equivalently, the intersection of any finite collection of sets in 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is also in 
+
+
+
+S
+.
+
+
+{\displaystyle S.}
+
+
+Given a topological space 
+
+
+
+(
+X
+,
+S
+)
+,
+
+
+{\displaystyle (X,S),}
+
+ one refers to the elements of 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ as the open sets of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ and it is common only to refer to 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ in this way, or by the label topology. Then one makes the following secondary definitions:
+
+Given a second topological space 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is said to be continuous if and only if for every open subset 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ one has that 
+
+
+
+
+f
+
+−
+1
+
+
+(
+U
+)
+
+
+{\displaystyle f^{-1}(U)}
+
+ is an open subset of 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+[4]
+A subset 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is closed if and only if its complement 
+
+
+
+X
+∖
+C
+
+
+{\displaystyle X\setminus C}
+
+ is open.[5]
+Given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the closure is the set of all points such that any open set containing such a point must intersect 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[6]
+Given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the interior is the union of all open sets contained in 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[7]
+Given an element 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ one says that a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is a neighborhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ if and only if 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is contained in an open subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ which is also a subset of 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[8] Some textbooks use "neighborhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+" to instead refer to an open set containing 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+[9]
+One says that a net converges to a point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ if for any open set 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ containing 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ the net is eventually contained in 
+
+
+
+U
+.
+
+
+{\displaystyle U.}
+
+[10]
+Given a set 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ a filter is a collection of nonempty subsets of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ that is closed under finite intersection and under supersets.[11] Some textbooks allow a filter to contain the empty set, and reserve the name "proper filter" for the case in which it is excluded.[12] A topology on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ defines a notion of a filter converging to a point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ by requiring that any open set 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ containing 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is an element of the filter.[13]
+Given a set 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ a filterbase is a collection of nonempty subsets such that every two subsets intersect nontrivially and contain a third subset in the intersection.[14] Given a topology on 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ one says that a filterbase converges to a point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ if every neighborhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ contains some element of the filterbase.[15]
+Definition via closed sets[edit]
+Let 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ be a topological space. According to De Morgan's laws, the collection 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ of closed sets satisfies the following properties:[16]
+
+The empty set and 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ are elements of 
+
+
+
+T
+
+
+{\displaystyle T}
+
+
+The intersection of any collection of sets in 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is also in 
+
+
+
+T
+.
+
+
+{\displaystyle T.}
+
+
+The union of any pair of sets in 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is also in 
+
+
+
+T
+.
+
+
+{\displaystyle T.}
+
+
+Now suppose that 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is only a set. Given any collection 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ of subsets of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ which satisfy the above axioms, the corresponding set 
+
+
+
+{
+U
+:
+X
+∖
+U
+∈
+T
+}
+
+
+{\displaystyle \{U:X\setminus U\in T\}}
+
+ is a topology on 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ and it is the only topology on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ for which 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is the corresponding collection of closed sets.[17] This is to say that a topology can be defined by declaring the closed sets. As such, one can rephrase all definitions to be in terms of closed sets:
+
+Given a second topological space 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is continuous if and only if for every closed subset 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ the set 
+
+
+
+
+f
+
+−
+1
+
+
+(
+U
+)
+
+
+{\displaystyle f^{-1}(U)}
+
+ is closed as a subset of 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+[18]
+a subset 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is open if and only if its complement 
+
+
+
+X
+∖
+C
+
+
+{\displaystyle X\setminus C}
+
+ is closed.[19]
+given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the closure is the intersection of all closed sets containing 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[20]
+given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the interior is the complement of the intersection of all closed sets containing 
+
+
+
+X
+∖
+A
+.
+
+
+{\displaystyle X\setminus A.}
+
+
+Definition via closure operators[edit]
+Given a topological space 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the closure can be considered as a map 
+
+
+
+℘
+(
+X
+)
+→
+℘
+(
+X
+)
+,
+
+
+{\displaystyle \wp (X)\to \wp (X),}
+
+ where 
+
+
+
+℘
+(
+X
+)
+
+
+{\displaystyle \wp (X)}
+
+ denotes the power set of 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+ One has the following Kuratowski closure axioms:[21]
+
+
+
+
+
+A
+⊆
+cl
+⁡
+(
+A
+)
+
+
+{\displaystyle A\subseteq \operatorname {cl} (A)}
+
+
+
+
+
+
+cl
+⁡
+(
+cl
+⁡
+(
+A
+)
+)
+=
+cl
+⁡
+(
+A
+)
+
+
+{\displaystyle \operatorname {cl} (\operatorname {cl} (A))=\operatorname {cl} (A)}
+
+
+
+
+
+
+cl
+⁡
+(
+A
+∪
+B
+)
+=
+cl
+⁡
+(
+A
+)
+∪
+cl
+⁡
+(
+B
+)
+
+
+{\displaystyle \operatorname {cl} (A\cup B)=\operatorname {cl} (A)\cup \operatorname {cl} (B)}
+
+
+
+
+
+
+cl
+⁡
+(
+∅
+)
+=
+∅
+
+
+{\displaystyle \operatorname {cl} (\varnothing )=\varnothing }
+
+
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a set equipped with a mapping satisfying the above properties, then the set of all possible outputs of cl satisfies the previous axioms for closed sets, and hence defines a topology; it is the unique topology whose associated closure operator coincides with the given cl.[22] As before, it follows that on a topological space 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ all definitions can be phrased in terms of the closure operator:
+
+Given a second topological space 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is continuous if and only if for every subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ one has that the set 
+
+
+
+f
+(
+cl
+⁡
+(
+A
+)
+)
+
+
+{\displaystyle f(\operatorname {cl} (A))}
+
+ is a subset of 
+
+
+
+cl
+⁡
+(
+f
+(
+A
+)
+)
+.
+
+
+{\displaystyle \operatorname {cl} (f(A)).}
+
+[23]
+A subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is open if and only if 
+
+
+
+cl
+⁡
+(
+X
+∖
+A
+)
+=
+X
+∖
+A
+.
+
+
+{\displaystyle \operatorname {cl} (X\setminus A)=X\setminus A.}
+
+[24]
+A subset 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is closed if and only if 
+
+
+
+cl
+⁡
+(
+C
+)
+=
+C
+.
+
+
+{\displaystyle \operatorname {cl} (C)=C.}
+
+[25]
+Given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the interior is the complement of 
+
+
+
+cl
+⁡
+(
+X
+∖
+A
+)
+.
+
+
+{\displaystyle \operatorname {cl} (X\setminus A).}
+
+[26]
+Definition via interior operators[edit]
+Given a topological space 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the interior can be considered as a map 
+
+
+
+℘
+(
+X
+)
+→
+℘
+(
+X
+)
+,
+
+
+{\displaystyle \wp (X)\to \wp (X),}
+
+ where 
+
+
+
+℘
+(
+X
+)
+
+
+{\displaystyle \wp (X)}
+
+ denotes the power set of 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+ It satisfies the following conditions:[27]
+
+
+
+
+
+int
+⁡
+(
+A
+)
+⊆
+A
+
+
+{\displaystyle \operatorname {int} (A)\subseteq A}
+
+
+
+
+
+
+int
+⁡
+(
+int
+⁡
+(
+A
+)
+)
+=
+int
+⁡
+(
+A
+)
+
+
+{\displaystyle \operatorname {int} (\operatorname {int} (A))=\operatorname {int} (A)}
+
+
+
+
+
+
+int
+⁡
+(
+A
+∩
+B
+)
+=
+int
+⁡
+(
+A
+)
+∩
+int
+⁡
+(
+B
+)
+
+
+{\displaystyle \operatorname {int} (A\cap B)=\operatorname {int} (A)\cap \operatorname {int} (B)}
+
+
+
+
+
+
+int
+⁡
+(
+X
+)
+=
+X
+
+
+{\displaystyle \operatorname {int} (X)=X}
+
+
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a set equipped with a mapping satisfying the above properties, then the set of all possible outputs of int satisfies the previous axioms for open sets, and hence defines a topology; it is the unique topology whose associated interior operator coincides with the given int.[28] It follows that on a topological space 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ all definitions can be phrased in terms of the interior operator, for instance:
+
+Given topological spaces 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is continuous if and only if for every subset 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ of 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ one has that the set 
+
+
+
+
+f
+
+−
+1
+
+
+(
+int
+⁡
+(
+B
+)
+)
+
+
+{\displaystyle f^{-1}(\operatorname {int} (B))}
+
+ is a subset of 
+
+
+
+int
+⁡
+(
+
+f
+
+−
+1
+
+
+(
+B
+)
+)
+.
+
+
+{\displaystyle \operatorname {int} (f^{-1}(B)).}
+
+[29]
+A set is open if and only if it equals its interior.[30]
+The closure of a set is the complement of the interior of its complement.[31]
+Definition via neighbourhoods[edit]
+See also: Neighbourhood system and Neighbourhood (mathematics)
+Recall that this article follows the convention that a neighborhood is not necessarily open. In a topological space, one has the following facts:[32]
+
+If 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is a neighborhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ then 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is an element of 
+
+
+
+U
+.
+
+
+{\displaystyle U.}
+
+
+The intersection of two neighborhoods of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is a neighborhood of 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+ Equivalently, the intersection of finitely many neighborhoods of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is a neighborhood of 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+
+If 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ contains a neighborhood of 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ then 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ is a neighborhood of 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+
+If 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is a neighborhood of 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ then there exists a neighborhood 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ such that 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is a neighborhood of each point of 
+
+
+
+V
+
+
+{\displaystyle V}
+
+.
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a set and one declares a nonempty collection of neighborhoods for every point of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ satisfying the above conditions, then a topology is defined by declaring a set to be open if and only if it is a neighborhood of each of its points; it is the unique topology whose associated system of neighborhoods is as given.[32] It follows that on a topological space 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ all definitions can be phrased in terms of neighborhoods:
+
+Given another topological space 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ a map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is continuous if and only for every element 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and every neighborhood 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ of 
+
+
+
+f
+(
+x
+)
+,
+
+
+{\displaystyle f(x),}
+
+ the preimage 
+
+
+
+
+f
+
+−
+1
+
+
+(
+B
+)
+
+
+{\displaystyle f^{-1}(B)}
+
+ is a neighborhood of 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+[33]
+A subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is open if and only if it is a neighborhood of each of its points.
+Given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the interior is the collection of all elements 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ such that 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is a neighbourhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+.
+Given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the closure is the collection of all elements 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ such that every neighborhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ intersects 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[34]
+Definition via convergence of nets[edit]
+See also: Net (mathematics) and Fréchet–Urysohn space
+Convergence of nets satisfies the following properties:[35][36]
+
+
+Every constant net converges to itself.
+Every subnet of a convergent net converges to the same limits.
+If a net does not converge to a point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ then there is a subnet such that no further subnet converges to 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+ Equivalently, if 
+
+
+
+
+x
+
+∙
+
+
+
+
+{\displaystyle x_{\bullet }}
+
+ is a net such that every one of its subnets has a sub-subnet that converges to a point 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ then 
+
+
+
+
+x
+
+∙
+
+
+
+
+{\displaystyle x_{\bullet }}
+
+ converges to 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+
+Diagonal principle/Convergence of iterated limits. If 
+
+
+
+
+
+(
+
+x
+
+a
+
+
+)
+
+
+a
+∈
+A
+
+
+→
+x
+
+
+{\displaystyle \left(x_{a}\right)_{a\in A}\to x}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and for every index 
+
+
+
+a
+∈
+A
+,
+
+
+{\displaystyle a\in A,}
+
+ 
+
+
+
+
+
+(
+
+x
+
+a
+
+
+i
+
+
+)
+
+
+i
+∈
+
+I
+
+a
+
+
+
+
+
+
+{\displaystyle \left(x_{a}^{i}\right)_{i\in I_{a}}}
+
+ is a net that converges to 
+
+
+
+
+x
+
+a
+
+
+
+
+{\displaystyle x_{a}}
+
+ in 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ then there exists a diagonal (sub)net of 
+
+
+
+
+
+(
+
+x
+
+a
+
+
+i
+
+
+)
+
+
+a
+∈
+A
+,
+i
+∈
+
+I
+
+a
+
+
+
+
+
+
+{\displaystyle \left(x_{a}^{i}\right)_{a\in A,i\in I_{a}}}
+
+ that converges to 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+
+A diagonal net refers to any subnet of 
+
+
+
+
+
+(
+
+x
+
+a
+
+
+i
+
+
+)
+
+
+a
+∈
+A
+,
+i
+∈
+
+I
+
+a
+
+
+
+
+.
+
+
+{\displaystyle \left(x_{a}^{i}\right)_{a\in A,i\in I_{a}}.}
+
+
+The notation 
+
+
+
+
+
+(
+
+x
+
+a
+
+
+i
+
+
+)
+
+
+a
+∈
+A
+,
+i
+∈
+
+I
+
+a
+
+
+
+
+
+
+{\displaystyle \left(x_{a}^{i}\right)_{a\in A,i\in I_{a}}}
+
+ denotes the net defined by 
+
+
+
+(
+a
+,
+i
+)
+↦
+
+x
+
+a
+
+
+i
+
+
+
+
+{\displaystyle (a,i)\mapsto x_{a}^{i}}
+
+ whose domain is the set 
+
+
+
+
+
+
+⋃
+
+a
+∈
+A
+
+
+
+
+A
+×
+
+I
+
+a
+
+
+
+
+{\displaystyle {\textstyle \bigcup \limits _{a\in A}}A\times I_{a}}
+
+ ordered lexicographically first by 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ and then by 
+
+
+
+
+I
+
+a
+
+
+;
+
+
+{\displaystyle I_{a};}
+
+[36] explicitly, given any two pairs 
+
+
+
+(
+
+a
+
+1
+
+
+,
+
+i
+
+1
+
+
+)
+,
+
+(
+
+
+a
+
+2
+
+
+,
+
+i
+
+2
+
+
+
+)
+
+∈
+
+
+
+⋃
+
+a
+∈
+A
+
+
+
+
+A
+×
+
+I
+
+a
+
+
+,
+
+
+{\displaystyle (a_{1},i_{1}),\left(a_{2},i_{2}\right)\in {\textstyle \bigcup \limits _{a\in A}}A\times I_{a},}
+
+ declare that 
+
+
+
+(
+
+a
+
+1
+
+
+,
+
+i
+
+1
+
+
+)
+≤
+
+(
+
+
+a
+
+2
+
+
+,
+
+i
+
+2
+
+
+
+)
+
+
+
+{\displaystyle (a_{1},i_{1})\leq \left(a_{2},i_{2}\right)}
+
+ holds if and only if both (1) 
+
+
+
+
+a
+
+1
+
+
+≤
+
+a
+
+2
+
+
+,
+
+
+{\displaystyle a_{1}\leq a_{2},}
+
+ and also (2) if 
+
+
+
+
+a
+
+1
+
+
+=
+
+a
+
+2
+
+
+
+
+{\displaystyle a_{1}=a_{2}}
+
+ then 
+
+
+
+
+i
+
+1
+
+
+≤
+
+i
+
+2
+
+
+.
+
+
+{\displaystyle i_{1}\leq i_{2}.}
+
+
+
+
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a set, then given a notion of net convergence (telling what nets converge to what points[36]) satisfying the above four axioms, a closure operator on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is defined by sending any given set 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ to the set of all limits of all nets valued in 
+
+
+
+A
+;
+
+
+{\displaystyle A;}
+
+ the corresponding topology is the unique topology inducing the given convergences of nets to points.[35]
+Given a subset 
+
+
+
+A
+⊆
+X
+
+
+{\displaystyle A\subseteq X}
+
+ of a topological space 
+
+
+
+X
+:
+
+
+{\displaystyle X:}
+
+
+
+
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is open in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ if and only if every net converging to an element of 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is eventually contained in 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+
+the closure of 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is the set of all limits of all convergent nets valued in 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[37][36]
+
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is closed in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ if and only if there does not exist a net in 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ that converges to an element of the complement 
+
+
+
+X
+∖
+A
+.
+
+
+{\displaystyle X\setminus A.}
+
+[38] A subset 
+
+
+
+A
+⊆
+X
+
+
+{\displaystyle A\subseteq X}
+
+ is closed in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ if and only if every limit point of every convergent net in 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ necessarily belongs to 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[39]
+A function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ between two topological spaces is continuous if and only if for every 
+
+
+
+x
+∈
+X
+
+
+{\displaystyle x\in X}
+
+ and every net 
+
+
+
+
+x
+
+∙
+
+
+
+
+{\displaystyle x_{\bullet }}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ that converges to 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the net 
+
+
+
+f
+
+(
+
+x
+
+∙
+
+
+)
+
+
+
+{\displaystyle f\left(x_{\bullet }\right)}
+
+[note 1] converges to 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ in 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+[40]
+
+Definition via convergence of filters[edit]
+See also: Filters in topology
+A topology can also be defined on a set by declaring which filters converge to which points.[citation needed] One has the following characterizations of standard objects in terms of filters and prefilters (also known as filterbases):
+
+Given a second topological space 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is continuous if and only if it preserves convergence of prefilters.[41]
+A subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is open if and only if every filter converging to an element of 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ contains 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+[42]
+A subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is closed if and only if there does not exist a prefilter on 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ which converges to a point in the complement 
+
+
+
+X
+∖
+A
+.
+
+
+{\displaystyle X\setminus A.}
+
+[43]
+Given a subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the closure consists of all points 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ for which there is a prefilter on 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ converging to 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+[44]
+A subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a neighborhood of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ if and only if it is an element of every filter converging to 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+[42]
+See also[edit]
+Cauchy space – Concept in general topology and analysis
+Convergence space – Generalization of the notion of convergence that is found in general topology
+Filters in topology – Use of filters to describe and characterize all basic topological notions and results.
+Sequential space – Topological space characterized by sequences
+Topology (structure) – Collection of open subsets of a topological space
+Citations[edit]
+
+
+^ Dugundji 1966; Engelking 1977; Kelley 1955.
+
+^ Kuratowski 1966, p.38.
+
+^ Dugundji 1966, p.62; Engelking 1977, p.11-12; Kelley 1955, p.37; Kuratowski 1966, p.45.
+
+^ Dugundji 1966, p.79; Engelking 1977, p.27-28; Kelley 1955, p.85; Kuratowski 1966, p.105.
+
+^ Dugundji 1966, p.68; Engelking 1977, p.13; Kelley 1955, p.40.
+
+^ Dugundji 1966, p.69; Engelking 1977, p.13.
+
+^ Dugundji 1966, p.71; Engelking 1977, p.14; Kelley 1955, p.44; Kuratowski 1966, p.58.
+
+^ Kelley 1955, p.38; Kuratowski 1966, p.61.
+
+^ Dugundji 1966, p.63; Engelking 1977, p.12.
+
+^ Dugundji 1966, p.210; Engelking 1977, p.49; Kelley 1955, p.66; Kuratowski 1966, p.203.
+
+^ Engelking 1977, p.52; Kelley 1955, p.83.
+
+^ Kuratowski 1966, p.6.
+
+^ Engelking 1977, p.52; Kelley 1955, p.83; Kuratowski 1966, p.63.
+
+^ Dugundji 1966, 211; Engelking 1977, p.52.
+
+^ Dugundji 1966, p.212; Engelking 1977, p.52.
+
+^ Dugundji 1966, p.69; Engelking 1977, p.13; Kelley 1955, p.40; Kuratowski 1966, p.44.
+
+^ Dugundji 1966, p.74; Engelking 1977, p.22; Kelley 1955, p.40; Kuratowski 1966, p.44.
+
+^ Dugundji 1966, p.79; Engelking 1977, p.28; Kelley 1955, p.86; Kuratowski 1966, p.105.
+
+^ Kelley 1955, p.41.
+
+^ Dugundji 1966, p.70; Engelking 1977; Kelley 1955, p.42.
+
+^ Dugundji 1966, p.69-70; Engelking 1977, p.14; Kelley 1955, p.42-43.
+
+^ Dugundji 1966, p.73; Engelking 1977, p.22; Kelley 1955, p.43.
+
+^ Dugundji 1966, p.80; Engelking 1977, p.28; Kelley 1955, p.86; Kuratowski 1966, p.105.
+
+^ Kuratowski 1966, p.43.
+
+^ Dugundji 1966, p.69; Kelley 1955, p.42; Kuratowski 1966, p.43.
+
+^ Dugundji 1966, p.71; Engelking 1977, p.15; Kelley 1955, p.44-45; Kuratowski 1966, p.55.
+
+^ Engelking 1977, p.15.
+
+^ Dugundji 1966, p.74; Engelking 1977, p.23.
+
+^ Engelking 1977, p.28; Kuratowski 1966, p.103.
+
+^ Dugundji 1966, p.71; Kelley 1955, p.44.
+
+^ Kelley 1955, p.44-45.
+
+^ a b Willard 2004, pp. 31–32.
+
+^ Kuratowski 1966, p.103.
+
+^ Kuratowski 1966, p.61.
+
+^ a b Kelley 1955, p.74.
+
+^ a b c d Willard 2004, p. 77.
+
+^ Engelking 1977, p.50; Kelley 1955, p.66.
+
+^ Engelking 1977, p.51; Kelley 1955, p.66.
+
+^ Willard 2004, pp. 73–77.
+
+^ Engelking 1977, p.51; Kelley 1955, p.86.
+
+^ Dugundji 1966, p.216; Engelking 1977, p.52.
+
+^ a b Kelley 1955, p.83.
+
+^ Dugundji 1966, p.215.
+
+^ Dugundji 1966, p.215; Engelking 1977, p.52.
+
+
+Notes
+
+
+
+^ Assuming that the net 
+
+
+
+
+x
+
+∙
+
+
+
+
+{\displaystyle x_{\bullet }}
+
+ is indexed by 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ (so that 
+
+
+
+
+x
+
+∙
+
+
+=
+
+
+(
+
+x
+
+i
+
+
+)
+
+
+i
+∈
+I
+
+
+,
+
+
+{\displaystyle x_{\bullet }=\left(x_{i}\right)_{i\in I},}
+
+ which is just notation for function 
+
+
+
+
+x
+
+∙
+
+
+:
+I
+→
+X
+
+
+{\displaystyle x_{\bullet }:I\to X}
+
+ that sends 
+
+
+
+i
+↦
+
+x
+
+i
+
+
+
+
+{\displaystyle i\mapsto x_{i}}
+
+) then 
+
+
+
+f
+
+(
+
+x
+
+∙
+
+
+)
+
+
+
+{\displaystyle f\left(x_{\bullet }\right)}
+
+ denotes the composition of 
+
+
+
+
+x
+
+∙
+
+
+:
+I
+→
+X
+
+
+{\displaystyle x_{\bullet }:I\to X}
+
+ with 
+
+
+
+f
+:
+X
+→
+Y
+.
+
+
+{\displaystyle f:X\to Y.}
+
+ That is, 
+
+
+
+f
+
+(
+
+x
+
+∙
+
+
+)
+
+:=
+f
+∘
+
+x
+
+∙
+
+
+=
+
+
+(
+
+f
+
+(
+
+x
+
+i
+
+
+)
+
+
+)
+
+
+i
+∈
+I
+
+
+
+
+{\displaystyle f\left(x_{\bullet }\right):=f\circ x_{\bullet }=\left(f\left(x_{i}\right)\right)_{i\in I}}
+
+ is the function 
+
+
+
+f
+∘
+
+x
+
+∙
+
+
+:
+I
+→
+Y
+.
+
+
+{\displaystyle f\circ x_{\bullet }:I\to Y.}
+
+
+
+
+References[edit]
+Dugundji, James (1978). Topology. Allyn and Bacon Series in Advanced Mathematics (Reprinting of the 1966 original ed.). Boston, Mass.–London–Sydney: Allyn and Bacon, Inc.
+Engelking, Ryszard (1977). General topology. Monografie Matematyczne. Vol. 60 (Translated by author from Polish ed.). Warsaw: PWN—Polish Scientific Publishers.
+Kelley, John L. (1975). General topology. Graduate Texts in Mathematics. Vol. 27 (Reprint of the 1955 ed.). New York-Berlin: Springer-Verlag.
+Kuratowski, K. (1966). Topology. Vol. I. (Translated from the French by J. Jaworowski. Revised and augmented ed.). New York-London/Warsaw: Academic Press/Państwowe Wydawnictwo Naukowe.
+Willard, Stephen (2004) [1970]. General Topology. Mineola, N.Y.: Dover Publications. ISBN 978-0-486-43479-7. OCLC 115240.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Axiomatic_foundations_of_topological_spaces&oldid=1182517031"
+Categories: Categories in category theoryGeneral topologyHidden categories: All articles with unsourced statementsArticles with unsourced statements from December 2021
+
+
+
+
+
+
+ This page was last edited on 29 October 2023, at 20:39 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

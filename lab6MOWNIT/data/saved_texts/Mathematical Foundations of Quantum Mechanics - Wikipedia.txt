@@ -1,0 +1,488 @@
+
+
+
+
+Mathematical Foundations of Quantum Mechanics - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Publication history
+
+
+
+
+
+
+
+
+2
+Significance and Criticism
+
+
+
+
+
+
+
+
+3
+See also
+
+
+
+
+
+
+
+
+4
+References
+
+
+
+
+
+
+
+
+5
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Mathematical Foundations of Quantum Mechanics
+
+
+
+2 languages
+
+
+
+
+日本語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikiquote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Book by John von Neumann
+The book Mathematical Foundations of Quantum Mechanics (1932) by John von Neumann is an important early work in the development of quantum theory.[1]
+
+
+Publication history[edit]
+The book was originally published in German in 1932 by Julius Springer, under the title Mathematische Grundlagen der Quantenmechanik.[2]
+An English translation by Robert T. Beyer was published in 1955 by Princeton University Press.
+A Russian translation, edited by N. Bogolyubov, was published by Nauka in 1964.
+A new English edition, edited by Nicholas A. Wheeler, was published in 2018 by Princeton University Press.[3]
+
+Significance and Criticism[edit]
+The book mainly summarizes results that von Neumann had published in earlier papers.[4][5][6][7][8] Its main significance may be its argument against the idea of hidden variables, on thermodynamic grounds. However, this idea was refuted as early as 1935 by Grete Hermann, but the critique remained unknown until J.S. Bell's rediscovery in 1966[9]. 
+von Neumann's claim rested on the assumption that any linear combination of Hermitian operators represents an observable and the expectation value of such combined operator follows the combination of the expectation values of the operators themselves.[9]Bell shows that the consequences of that assumption are at odds with results of incompatible measurements, which are not explicitly taken into von Neumann's considerations.
+
+See also[edit]
+Mathematical formulation of quantum mechanics
+Quantum Theory: Concepts and Methods
+References[edit]
+
+
+^ Van Hove, Léon (1958). "Von Neumann's contributions to quantum theory". Bull. Amer. Math. Soc. 64 (3): 95–100. doi:10.1090/s0002-9904-1958-10206-2.
+
+^ Margenau, Henry (1933). "Book Review: Mathematische Grundlagen der Quantenmechanik". Bulletin of the American Mathematical Society. 39 (7): 493–495. doi:10.1090/S0002-9904-1933-05665-3. MR 1562667.
+
+^ John von Neumann (2018). Nicholas A. Wheeler (ed.). Mathematical Foundations of Quantum Mechanics. New Edition. Translated by Robert T. Beyer. Princeton University Press. ISBN 9781400889921.
+
+^ von Neumann, J. (1927). "Mathematische Begründung der Quantenmechanik [Mathematical Foundation of Quantum Mechanics]". Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse: 1–57.
+
+^ von Neumann, J. (1927). "Wahrscheinlichkeitstheoretischer Aufbau der Quantenmechanik [Probabilistic Theory of Quantum Mechanics]". Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse: 245–272.
+
+^ von Neumann, J. (1927). "Thermodynamik quantenmechanischer Gesamtheiten [Thermodynamics of Quantum Mechanical Quantities]". Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse. 102: 273–291.
+
+^ von Neumann, J. (1929). "Allgemeine Eigenwerttheorie Hermitescher Funktionaloperatoren [General Eigenvalue Theory of Hermitian Functional Operators]". Mathematische Annalen: 49–131.
+
+^ von Neumann, J. (1931). "Die Eindeutigkeit der Schrödingerschen Operatoren [The uniqueness of Schrödinger operators]". Mathematische Annalen. 104: 570–578. doi:10.1007/bf01457956. S2CID 120528257.
+
+^ a b Bell, John S. (1966-07-01). "On the Problem of Hidden Variables in Quantum Mechanics". Reviews of Modern Physics. 38 (3): 447–452. doi:10.1103/RevModPhys.38.447. ISSN 0034-6861.
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to Mathematical Foundations of Quantum Mechanics.
+
+Full online text of the 1932 German edition (facsimile) at the University of Göttingen.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mathematical_Foundations_of_Quantum_Mechanics&oldid=1227099868"
+Categories: 1932 non-fiction booksMathematics booksPhysics textbooksQuantum mechanicsHidden categories: Articles with short descriptionShort description matches WikidataArticles containing German-language text
+
+
+
+
+
+
+ This page was last edited on 3 June 2024, at 18:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

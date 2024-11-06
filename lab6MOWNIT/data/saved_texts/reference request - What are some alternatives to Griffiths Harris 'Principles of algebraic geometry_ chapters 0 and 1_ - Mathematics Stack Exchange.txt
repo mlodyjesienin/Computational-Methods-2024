@@ -1,0 +1,1036 @@
+
+
+
+
+reference request - What are some alternatives to Griffiths Harris 'Principles of algebraic geometry" chapters 0 and 1? - Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What are some alternatives to Griffiths Harris 'Principles of algebraic geometry" chapters 0 and 1?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+3 years, 7 months ago
+
+
+Modified
+3 years, 7 months ago
+
+
+Viewed
+                        3k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I liked using Rick Miranda's Algebraic Curves and Riemann Surfaces chapters I to VIII as an alternative to Griffiths' Introduction to Algebraic Curves. I notice they overlap in most topics.
+I notice Rick Miranda's Algebraic Curves and Riemann Surfaces IX onwards overlaps with Griffiths Harris "Principles of algebraic geometry" chapters 0 and 1, but not really for most topics.
+What are some alternatives to Griffiths Harris "Principles of algebraic geometry" chapters 0 and 1 that preferably are like Rick Miranda's Algebraic Curves and Riemann Surfaces chapters I to VIII as an alternative to Griffiths' Introduction to Algebraic Curves?
+Here's a screenshot of the table of contents for Griffiths Harris "Principles of algebraic geometry" chapters 0 and 1
+
+
+
+P.S. Not sure if this relevant, but: I was told in a comment to one of my deleted questions that Griffiths' Introduction to Algebraic Curves is a prerequisite to griffiths harris principles of algebraic geometry.
+
+Edit: Maybe related:
+What to study after Miranda's "Algebraic curves and Riemann surfaces"?
+What do I need to read Philip Griffths
+
+
+
+
+algebraic-geometryreference-requestmanifoldscomplex-geometryriemann-surfaces
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Oct 31, 2020 at 9:03
+
+
+
+
+
+
+Jean Marie
+
+83.5k77 gold badges5454 silver badges121121 bronze badges
+
+
+
+
+
+
+
+
+            asked Oct 31, 2020 at 6:14
+
+
+
+
+
+
+BCLCBCLC
+
+13.6k1313 gold badges6767 silver badges157157 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        1 Answer
+                                    1
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I think pretty much everything you need is in Huybrechts' book titled Complex Geometry. This has the benefit of having many exercises and being written for someone new to the subject, whereas I think that Griffiths and Harris assumes that you already have had exposure to the materials in chapter $0$.
+The book is available through Springer.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Oct 31, 2020 at 6:52
+
+
+
+
+
+
+Alekos RobotisAlekos Robotis
+
+26.3k44 gold badges3636 silver badges7575 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+5
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+well i did start with Huybrechts' Complex Geometry before even miranda (see my previous questions on complexification eg math.stackexchange.com/questions/3520787/…) but got stuck on complexification. good to know i can use huybrechts as an alternative. thanks!
+$\endgroup$
+
+– BCLC
+
+Oct 31, 2020 at 6:55
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Did huybrecht have a self contained chapter on Hodge theory?
+$\endgroup$
+
+– Arctic Char
+
+Oct 31, 2020 at 7:09
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+Huybrechts does discuss Hodge theory in some level of detail. Like most introductory books on the subject, he doesn't get too far into the analytic aspect of the subject.
+$\endgroup$
+
+– Alekos Robotis
+
+Oct 31, 2020 at 15:30
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@JohnSmithKyon if you've read most of Miranda since you last looked at Huybrechts, you will probably find it much easier going now that you have studied much of the $1$-dimensional theory. Although I don't think he covers Grassmannians, for which you might want to just bite the bullet and read Griffiths-Harris (or some of Harris' more recent expositions, such as in Algebraic Geometry: A First Course or 3264 and All That (the latter joint with Eisenbud).
+$\endgroup$
+
+– Tabes Bridges
+
+Oct 31, 2020 at 22:10
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Alekos Robotis , i think you have to tag like this @ArcticChar. thanks Alekos Robotis and ArcticChar!
+$\endgroup$
+
+– BCLC
+
+Nov 3, 2020 at 14:21
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+                                    You must log in to answer this question.
+                                
+
+
+Not the answer you're looking for? Browse other questions tagged algebraic-geometryreference-requestmanifoldscomplex-geometryriemann-surfaces.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+3
+
+What to study after Miranda's "Algebraic curves and Riemann surfaces"?
+
+
+
+4
+
+Classical Algebraic Geometry
+
+
+
+4
+
+$f$ is the complexification of a map if $f$ commutes with almost complex structure and standard conjugation. What if we had anti-commutation instead?
+
+
+
+3
+
+What do I need to read Philip Griffths
+
+
+
+
+Related
+
+
+
+79
+
+Why the emphasis on Projective Space in Algebraic Geometry?
+
+
+
+1
+
+Page 276 of Principles of Algebraic Geometry by Griffiths and Harris; wrong parameter count?
+
+
+
+1
+
+genus of moduli space of a riemann surface
+
+
+
+5
+
+Learning roadmap for algebraic curves
+
+
+
+1
+
+Meaning of general hyperplane $H$ in $\mathbb{P}^n$
+
+
+
+3
+
+What do I need to read Philip Griffths
+
+
+
+3
+
+What to study after Miranda's "Algebraic curves and Riemann surfaces"?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Sum of square roots (as an algebraic number)
+                
+
+
+
+                    How to explain Hazard Ratio in layman‘s terms
+                
+
+
+
+                    Password protect directory listing only and not the files themselves
+                
+
+
+
+                    Reproducing Ómar Rayo's "Fresh Fog" Painting
+                
+
+
+
+                    Conveying function definition and a verb corresponding to map
+                
+
+
+
+                    What time period is Hosea 3:4-5 predicting?
+                
+
+
+
+                    Is it possible to retract an acceptance for a full time lecturer position? (Michigan)
+                
+
+
+
+                    Having friends who are talented is great, but it can also be ___ at times
+                
+
+
+
+                    What scientific evidence there is that keeping cooked meat at room temperature is unsafe past two hours?
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+                    Can someone explain this unexpected construction?
+                
+
+
+
+                    Are there statements so self-evident that writing a proof for them is meaningless? Is this an example of one?
+                
+
+
+
+                    Python script to auto change profiles in MSI Afterburner
+                
+
+
+
+                    What is the maximum number of fish possible in your tank?
+                
+
+
+
+                    Why aren't tightly stitched commercial pcbs more common?
+                
+
+
+
+                    Thought experiment regarding gravity
+                
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    How to cut a large piece of marble 1” thick
+                
+
+
+
+                    Does presenting at a conference mean having being accepted at it?
+                
+
+
+
+                    Can I have a vacation to Canada, while living in France for 3 months?
+                
+
+
+
+                    How to negotiate such toxic competitiveness during my master’s studies?
+                
+
+
+
+                    Can you cite parts of a case if the core issues in the case were later overruled?
+                
+
+
+
+                    What is the origin of the idiom "say the word"?
+                
+
+
+
+                    Showing that the union of two families of disjoint sets is disjoint?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,311 @@
+
+
+
+MM553: Computational Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        MM553: Computational Physics                                    
+|
+
+                                        Approved - active                                    
+|
+
+                                            Fall 2024                                        
+
+
+
+ 
+
+
+
+
+DA
+EN
+
+ PDF
+
+
+ 
+
+
+
+
+
+
+ MM553: Computational Physics
+
+
+
+
+                    Study Board of Science                
+
+
+                    Teaching language: Danish or English depending on the teacher, but English if international students are enrolled                
+
+                    EKA: N300012102                
+
+                    Assessment: Second examiner: Internal                
+
+                    Grading: 7-point grading scale                
+
+                    Offered in: Odense                
+
+                    Offered in: Autumn                
+
+                    Level: Bachelor                
+
+
+
+
+                    STADS ID (UVA): N300012101                
+
+                    ECTS value: 10                
+
+
+                    Date of Approval: 25-04-2019                
+
+
+                    Duration: 1 semester                
+
+
+                        Version: Approved - active                    
+
+
+
+Hide all
+ Comment
+Co-read with MM837. Entry requirements
+None Academic preconditions
+Students taking the course are expected to have knowledge of:Differentiation and integration of functions of one and several variablesBasic concepts of linear algebra (vector spaces, matrices, eigenvalues ...)Ordinary Differential EquationsBasic programming. Course introduction
+The aim of the course is to enable the student to apply computational 
+methods in order to solve non-trivial problems in nonetheless practical 
+and efficient way. Computational methods have become a standard approach
+ in many areas of science, especially in condensed matter, particle 
+physics, hydrodynamics,  plasma-dynamics, biophysics and chemistry.    The course provides tools to address problems which typically cannot be 
+solved by analytical methods.The course builds on the knowledge acquired in the courses DM550 (Introduction
+ to Programming) , MM547 (Ordinary Differential Equations: Theory, 
+Modelling and Simulation ), MM536 (Calculus for Mathematics) and MM538 
+(Algebra and Linear Algebra) .The course is of high 
+multidisciplinary value and gives an academic basis for a Bachelor 
+Project in several core areas of Natural Sciences.In relation to the competence profile of the degree it is the explicit focus of the course to:Give the competence to :handle complex and development-oriented situations in study and work contexts.to
+ independently engage in disciplinary and interdisciplinary 
+collaboration with a professional approach based on group -based 
+project.Give skills to:analyze practical and theoretical problems with the help of numerical simulation based on a suitable mathematical model.analyze a mathematical model qualitative and quantitative traits.describe and evaluate sources of error for the modeling and calculation for a given problem.Give knowledge and understanding of:mathematical modeling and numerical analysis of problems in science and technology.how scientific knowledge is achieved by an interplay between theory, modeling and simulation. Expected learning outcome
+The learning objectives of the course are that the student demonstrates the ability to:Demonstrate knowledge of the principles and algorithms covered during the courseSelect the most appropriate method to study numerically a givenphysical system.Implement solutions for new problems, based on the methods presented during the courseUnderstand and consequently  present  in both  written and oral forms the scientific results achieved. Content
+The following main topics are contained in the course:Numerical methods for classical Hamiltonian systemsThe N-body problemIntegration schemesNumerical methods for Schroedinger equation in one dimensionMonte Carlo Simulations of Spin Systems:Markov chains and Metropolis algorithmCluster algorithmWang-Landau algorithmSimulation of two-dimensional modelsNumerical Simulation in Quantum Field TheoriesHeatbath algorithm for Yang-Mills theoriesHybrid Monte Carlo algorithm for matter fields Literature
+See Itslearning for syllabus lists and additional literature references. Examination regulations
+ Exam element a)
+ Timing
+Autumn Tests
+ Mandatory assignments
+ EKA
+    N300012102 Assessment
+    Second examiner: Internal Grading
+    7-point grading scale Identification
+    Full name and SDU username Language
+    Normally, the same as teaching language Examination aids
+To be announced during the course ECTS value
+    10 Indicative number of lessons
+84 hours per semester Teaching Method
+In order to enable students to achieve the learning objectives for the course, the teaching is organised in such a way that there are 84 lectures, class lessons, etc. on a semester. These teaching activities are reflected in an estimated allocation of the workload of an average student as follows:Activities during the study phase:Intro phase (lectures, class lessons) - 56 hoursTraining phase: 28 hoursActivities during the studyphase:preparation of exercises in study groupspreparation of projects Teacher responsible
+
+
+
+Name
+E-mail
+Department
+
+
+
+
+Benjamin Jäger
+jaeger@imada.sdu.dk
+Computational Science
+
+Ralf Zimmermann
+zimmermann@imada.sdu.dk
+Computational Science
+
+
+ Timetable
+Odense
+Show full time table
+ Administrative Unit
+Institut for Matematik og Datalogi (matematik) Team at Educational Law & Registration
+NAT Offered in
+Odense Recommended course of study
+
+
+
+Profile
+Education
+Semester
+Offer period
+
+
+
+
+BA Centralt fag i anvendt matematik et-faglig - optag 1. september 2016
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E19
+
+BA Centralt fag i anvendt matematik et-faglig - optag 1. september 2017
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E19
+
+BA Centralt fag i anvendt matematik et-faglig - optag 1. september 2018 og 2019
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E19
+
+BSc major in Applied Mathematics - registration 1 September 2016
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E20
+
+BSc major in Applied Mathematics - registration 1 September 2017
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E20
+
+BSc major in Applied Mathematics - registration 1 September 2018 and 2019
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E20
+
+BSc major in Applied Mathematics - registration 1 September 2018 and 2019
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E21
+
+BSc major in Applied Mathematics - registration 1 September 2019
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E22
+
+BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E22
+
+BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E21
+
+BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E23
+
+BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E20
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E23
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E22
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E24
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E21
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E23
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E24
+
+BSc major in Applied Mathematics - registration 1 September 2021
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E22
+
+BSc major in Applied Mathematics - registration 1 September 2022
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E22
+
+BSc major in Applied Mathematics - registration 1 September 2022 and 2023
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E23
+
+BSc major in Applied Mathematics - registration 1 September 2022, 2023 og 2024
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E24
+
+No longer valid -  31 August 2021 BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E23
+
+No longer valid -  31 August 2021 BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E21
+
+No longer valid -  31 August 2021 BSc major in Applied Mathematics - registration 1 September 2020
+Bachelor of Science (BSc) in Applied Mathematics | Bachelor of Science in Applied Mathematics | Odense
+5
+E22
+
+
+ 
+
+
+
+
+
+
+
+

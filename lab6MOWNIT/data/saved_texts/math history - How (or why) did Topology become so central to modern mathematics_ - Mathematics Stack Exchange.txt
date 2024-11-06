@@ -1,0 +1,1124 @@
+
+
+
+
+math history - How (or why) did Topology become so central to modern mathematics? - Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+How (or why) did Topology become so central to modern mathematics?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+8 years ago
+
+
+Modified
+8 years ago
+
+
+Viewed
+                        701 times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+It is frequently said that topology is nowadays one of the central pillars of modern mathematics (ex. "Because of its central place in a broad spectrum of mathematics")  The field has managed to blossom into a magnificently large field of mathematics, with tons of major applications into fields that even exist outside of math. How and why did this happen? Did topology originally come about as a way to solve unsolved problems at its time of origin, and later grew into what it is today? How has it become so central? (Side note: On a not too uncommon basis, topology seems to be one of the more 'quirky' fields of math.)
+
+
+
+
+math-history
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            asked Jun 9, 2016 at 17:28
+
+
+
+
+
+
+ColbiColbi
+
+81577 silver badges1818 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+2
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+The way these fields usually develop is that a bunch of seemingly unrelated problems are solved.  Then, somebody says "hey, a lot of these problems follow a similar framework, maybe we can come up with a language which lets us talk about all of these things".  Someone then comes up with a mathematical structure that accomplishes this (in this case, a "topological space"), and then the study of that structure becomes an area of study.
+$\endgroup$
+
+– Ben Grossmann
+
+Jun 9, 2016 at 17:35
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+A lot of the "questions" that were originally answered by topology were really a matter of justifying statements that were pretty much taken as true, but hadn't been rigorously proven.  For example, the convergence of a Fourier series to the associated function and the Jordan curve theorem.
+$\endgroup$
+
+– Ben Grossmann
+
+Jun 9, 2016 at 17:38
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        3 Answers
+                                    3
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+First of all, even as a topologist, I wouldn't say that topology is any more central than a variety of other fields: analysis, algebra, and so on. Even then, there are areas of topology that really don't have any broad applications outside the subject itself: surgery theory, some of the very technical computations of the stable homotopy groups of spheres, etc. Topology at least appears in a variety of subjects, though, because it seems to be the suitable framework for a lot of math. In introductory real analysis, the intermediate value theorem is a statement about connectedness. The objects in differential geometry, analysis on manifolds, etc. are topological spaces (with a lot of extra structure). Even some constructions that aren't inherently topological, like (in)direct limits, naturality, often pop up first for students via algebraic topology classes. 
+Here's a more specific example. One of the most familiar examples of a cohomology theory is de Rham cohomology on a smooth manifold. This is a very concrete object: It's the space of solutions to a certain differential equation, modulo a space of 'trivial' solutions. Those equations always have a local solution; the problem is that those local solutions don't necessarily patch together to give a global solution. Cohomology groups are the obstructions to this patching construction. The same idea of obstructions to solving a global problem locally pops up in several different areas of math. Sheaf cohomology on a scheme, for example, is quite concretely a similar sort of obstruction, even though the Zariski topology is very different from the topology of a smooth manifold (or even CW-complex). There's another kind of cohomology defined for groups acting on modules, the connection being that abstract nonsense gives a connection between the group cohomology of $\pi$ and the (say, singular) cohomology of $K(\pi, 1)$. (I'm skipping over some nontrivial details here.) The same idea pops up in complex analysis (the Cousin problems, for example), various parts of physics, etc.; furthermore, extensions of this idea pop up in algebraic geometry, $K$-theory, and so on.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jun 9, 2016 at 17:57
+
+
+
+
+
+
+anomalyanomaly
+
+25.5k55 gold badges4646 silver badges8787 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+One reason is that limits and/or convergence are very important, because they allow you to approximate complicated objects by simple objects. For example, maybe you want to approximate a function by polynomials (taylor series) or by sinusoids (fourier analysis). From this standpoint, the important observation is that every topology induces a convergence structure, and topologies were invented first. Keywords: functional analysis, topological vector space.
+A second reason is that (classical) differential geometry is based on the concept of a manifold, which is usually formulated in a way that makes reference to topological spaces. Indeed, at the bottom rung of the manifold ladder are "topological manifolds", which can be defined as topological spaces that look locally like $\mathbb{R}^n$, subject to the some further constraints.
+A third reason is that the basic definitions of homotopy theory make sense over general topological spaces; you don't need a manifold.
+A fourth reason is the Zariski topology just so happens to be a topology.
+A fifth reason is that often when you combine infinitely-many set-theoretic objects together in an interesting way, the resulting structure often ends up carrying a topology in a natural way. Look up "profinite completion of the integers." Its fundamental to modern number theory.
+A sixth reason is that we can consider the sheaves on a topological space, and $\mathbf{Set}$-valued sheaves are about as fundamental of an object as there is, because they always form a topos, which is a place where higher-order intuitionistic logic can be interpreted.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 9, 2016 at 17:54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Jun 9, 2016 at 17:49
+
+
+
+
+
+
+goblin GONEgoblin GONE
+
+68k1919 gold badges106106 silver badges288288 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+In a very simplistic way we can think of it like this. Analysis means limit. Limit means continuity. Continuity means open set. And open sets mean topology. So in a way topology is the basis of analysis. Or at least that's how I see it.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jun 9, 2016 at 18:00
+
+
+
+
+
+
+AmontilladoAmontillado
+
+1,18988 silver badges1616 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+                                    You must log in to answer this question.
+                                
+
+
+Not the answer you're looking for? Browse other questions tagged math-history.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+34
+
+How did the notation "ln" for "log base e" become so pervasive?
+
+
+
+28
+
+Origins of the modern definition of topology
+
+
+
+8
+
+Disjunction: Why did the inclusive "OR" become the convention?
+
+
+
+6
+
+Where can I find a good comprehensive read about the history of Mathematics?
+
+
+
+5
+
+How did self-similarity come into mathematics?
+
+
+
+47
+
+What did mathematicians study as an undergraduate/graduate before modern mathematics such as modern algebra and analysis?
+
+
+
+8
+
+How did the axiom of choice become the boogeyman?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Python script to auto change profiles in MSI Afterburner
+                
+
+
+
+                    Thought experiment regarding gravity
+                
+
+
+
+                    Difference between conflicted and ambivalent?
+                
+
+
+
+                    Commutativity of the wreath product
+                
+
+
+
+                    Geometry Nodes - Fill Quadrilaterals That Intersect
+                
+
+
+
+                    Word for a country declaring independence from an empire
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+                    How much of an advantage is it to have high acceleration in space combat
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    In the Unabomber case, was "call Nathan R" really mistakenly written by a New York Times intern?
+                
+
+
+
+                    Can someone explain the damage distrubution on this aircraft that flew through a hailstorm?
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Having friends who are talented is great, but it can also be ___ at times
+                
+
+
+
+                    How to explain Hazard Ratio in layman‘s terms
+                
+
+
+
+                    Should I ask for authorship or ignore?
+                
+
+
+
+                    solana/web3.js Request Airdrop 429 error
+                
+
+
+
+                    What is the point of triggering of a national snap election immediately after losing the EU elections?
+                
+
+
+
+                    Executable files with a bytecode compiler/interpreter
+                
+
+
+
+                    Create repeating geometry across a face
+                
+
+
+
+                    Ubuntu Terminal with alternating colours for each line
+                
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    How do you load a regtest wallet?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

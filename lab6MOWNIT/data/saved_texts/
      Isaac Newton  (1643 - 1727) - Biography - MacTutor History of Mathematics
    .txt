@@ -1,0 +1,769 @@
+
+
+
+
+
+
+
+      Isaac Newton  (1643 - 1727) - Biography - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Isaac Newton
+
+
+
+
+
+Quick Info
+Born
+
+      4 January 1643   Woolsthorpe, Lincolnshire, England 
+
+Died
+
+      31 March 1727  London, England
+    
+
+Summary
+Isaac Newton was the greatest English mathematician of his generation. He laid the foundation for differential and integral calculus. His work on optics and gravitation make him one of the greatest scientists the world has known.
+
+
+
+
+
+      View twenty-seven larger pictures
+
+
+
+
+
+Biography
+Isaac Newton's life can be divided into three quite distinct periods. The first is his boyhood days from 1643 up to his appointment to a chair in 1669. The second period from 1669 to 1687 was the highly productive period in which he was Lucasian professor at Cambridge. The third period (nearly as long as the other two combined) saw Newton as a highly paid government official in London with little further interest in mathematical research.
+
+
+Isaac Newton was born in the manor house of Woolsthorpe, near Grantham in Lincolnshire. Although by the calendar in use at the time of his birth he was born on Christmas Day 1642, we give the date of 4 January 1643 in this biography which is the "corrected" Gregorian calendar date bringing it into line with our present calendar. (The Gregorian calendar was not adopted in England until 1752.) Isaac Newton came from a family of farmers but never knew his father, also named Isaac Newton, who died in October 1642, three months before his son was born. Although Isaac's father owned property and animals which made him quite a wealthy man, he was completely uneducated and could not sign his own name.
+
+
+You can see a picture of Woolsthorpe Manor as it is now at THIS LINK.
+
+
+Isaac's mother Hannah Ayscough remarried Barnabas Smith the minister of the church at North Witham, a nearby village, when Isaac was two years old. The young child was then left in the care of his grandmother Margery Ayscough at Woolsthorpe. Basically treated as an orphan, Isaac did not have a happy childhood. His grandfather James Ayscough was never mentioned by Isaac in later life and the fact that James left nothing to Isaac in his will, made when the boy was ten years old, suggests that there was no love lost between the two. There is no doubt that Isaac felt very bitter towards his mother and his step-father Barnabas Smith. When examining his sins at age nineteen, Isaac listed:-
+Threatening my father and mother Smith to burn them and the house over them.
+Upon the death of his stepfather in 1653, Newton lived in an extended family consisting of his mother, his grandmother, one half-brother, and two half-sisters. From shortly after this time Isaac began attending the Free Grammar School in Grantham. Although this was only five miles from his home, Isaac lodged with the Clark family at Grantham. However he seems to have shown little promise in academic work. His school reports described him as 'idle' and 'inattentive'. His mother, by now a lady of reasonable wealth and property, thought that her eldest son was the right person to manage her affairs and her estate. Isaac was taken away from school but soon showed that he had no talent, or interest, in managing an estate.
+
+
+An uncle, William Ayscough, decided that Isaac should prepare for entering university and, having persuaded his mother that this was the right thing to do, Isaac was allowed to return to the Free Grammar School in Grantham in 1660 to complete his school education. This time he lodged with Stokes, who was the headmaster of the school, and it would appear that, despite suggestions that he had previously shown no academic promise, Isaac must have convinced some of those around him that he had academic promise. Some evidence points to Stokes also persuading Isaac's mother to let him enter university, so it is likely that Isaac had shown more promise in his first spell at the school than the school reports suggest. Another piece of evidence comes from Isaac's list of sins referred to above. He lists one of his sins as:-
+... setting my heart on money, learning, and pleasure more than Thee ...
+which tells us that Isaac must have had a passion for learning.
+
+
+We know nothing about what Isaac learnt in preparation for university, but Stokes was an able man and almost certainly gave Isaac private coaching and a good grounding. There is no evidence that he learnt any mathematics, but we cannot rule out Stokes introducing him to Euclid's Elements which he was well capable of teaching (although there is evidence mentioned below that Newton did not read Euclid before 1663). Anecdotes abound about a mechanical ability which Isaac displayed at the school and stories are told of his skill in making models of machines, in particular of clocks and windmills. However, when biographers seek information about famous people there is always a tendency for people to report what they think is expected of them, and these anecdotes may simply be made up later by those who felt that the most famous scientist in the world ought to have had these skills at school.
+
+
+Newton entered his uncle's old College, Trinity College Cambridge, on 5 June 1661. He was older than most of his fellow students but, despite the fact that his mother was financially well off, he entered as a sizar. A sizar at Cambridge was a student who received an allowance toward college expenses in exchange for acting as a servant to other students. There is certainly some ambiguity in his position as a sizar, for he seems to have associated with "better class" students rather than other sizars. Westfall (see [23] or [24]) has suggested that Newton may have had Humphrey Babington, a distant relative who was a Fellow of Trinity, as his patron. This reasonable explanation would fit well with what is known and mean that his mother did not subject him unnecessarily to hardship as some of his biographers claim.
+
+
+Newton's aim at Cambridge was a law degree. Instruction at Cambridge was dominated by the philosophy of Aristotle but some freedom of study was allowed in the third year of the course. Newton studied the philosophy of Descartes, Gassendi, Hobbes, and in particular Boyle. The mechanics of the Copernican astronomy of Galileo attracted him and he also studied Kepler's Optics. He recorded his thoughts in a book which he entitled Quaestiones Quaedam Philosophicae â(Certain philosophical questions). It is a fascinating account of how Newton's ideas were already forming around 1664. He headed the text with a Latin statement meaning "Plato is my friend, Aristotle is my friend, but my best friend is truth" showing himself a free thinker from an early stage.
+
+
+How Newton was introduced to the most advanced mathematical texts of his day is slightly less clear. According to de Moivre, Newton's interest in mathematics began in the autumn of 1663 when he bought an astrology book at a fair in Cambridge and found that he could not understand the mathematics in it. Attempting to read a trigonometry book, he found that he lacked knowledge of geometry and so decided to read Barrow's edition of Euclid's Elements. The first few results were so easy that he almost gave up but he:-
+... changed his mind when he read that parallelograms upon the same base and between the same parallels are equal.
+Returning to the beginning, Newton read the whole book with a new respect. He then turned to Oughtred's Clavis Mathematica â(The key of  mathematics) and Descartes' La GÃ©omÃ©trie â(Geometry). The new algebra and analytical geometry of ViÃ¨te was read by Newton from Frans van Schooten's edition of ViÃ¨te's collected works published in 1646. Other major works of mathematics which he studied around this time was the newly published major work by van Schooten Geometria a Renato Des Cartes â(Geometry of Descartes) which appeared in two volumes in 1659-1661. The book contained important appendices by three of van Schooten's disciples, Jan de Witt, Johan Hudde, and Hendrick van Heuraet. Newton also studied Wallis's Algebra and it appears that his first original mathematical work came from his study of this text. He read Wallis's method for finding a square of equal area to a parabola and a hyperbola which used indivisibles. Newton made notes on Wallis's treatment of series but also devised his own proofs of the theorems writing:-
+Thus Wallis doth it, but it may be done thus ...
+It would be easy to think that Newton's talent began to emerge on the arrival of Barrow to the Lucasian chair at Cambridge in 1663 when he became a Fellow at Trinity College. Certainly the date matches the beginnings of Newton's deep mathematical studies. However, it would appear that the 1663 date is merely a coincidence and that it was only some years later that Barrow recognised the mathematical genius among his students.
+
+
+Despite some evidence that his progress had not been particularly good, Newton was elected a scholar on 28 April 1664 and received his bachelor's degree in April 1665. It would appear that his scientific genius had still not emerged, but it did so suddenly when the plague closed the University in the summer of 1665 and he had to return to Lincolnshire. There, in a period of less than two years, while Newton was still under 25 years old, he began revolutionary advances in mathematics, optics, physics, and astronomy.
+
+
+While Newton remained at home he laid the foundations for differential and integral calculus, several years before its independent discovery by Leibniz. The 'method of fluxions', as he termed it, was based on his crucial insight that the integration of a function is merely the inverse procedure to differentiating it. Taking differentiation as the basic operation, Newton produced simple analytical methods that unified many separate techniques previously developed to solve apparently unrelated problems such as finding areas, tangents, the lengths of curves and the maxima and minima of functions. Newton's De Methodis Serierum et Fluxionum â(On methods of series and on fluxions) was written in 1671 but Newton failed to get it published and it did not appear in print until John Colson produced an English translation in 1736.
+
+
+When the University of Cambridge reopened after the plague in 1667, Newton put himself forward as a candidate for a fellowship. In October he was elected to a minor fellowship at Trinity College but, after being awarded his Master's Degree, he was elected to a major fellowship in July 1668 which allowed him to dine at the Fellows' Table. In July 1669 Barrow tried to ensure that Newton's mathematical achievements became known to the world. He sent Newton's text De Analysi to Collins in London writing:-
+[Newton] brought me the other day some papers, wherein he set down methods of calculating the dimensions of magnitudes like that of Mr Mercator concerning the hyperbola, but very general; as also of resolving equations; which I suppose will please you; and I shall send you them by the next.
+Collins corresponded with all the leading mathematicians of the day so Barrow's action should have led to quick recognition. Collins showed Brouncker, the President of the Royal Society, Newton's results (with the author's permission) but after this Newton requested that his manuscript be returned. Collins could not give a detailed account but de Sluze and Gregory learnt something of Newton's work through Collins. Barrow resigned the Lucasian chair in 1669 to devote himself to divinity, recommending that Newton (still only 27 years old) be appointed in his place. Shortly after this Newton visited London and twice met with Collins but, as he wrote to Gregory:-
+... having no more acquaintance with him I did not think it becoming to urge him to communicate anything.
+Newton's first work as Lucasian Professor was on optics and this was the topic of his first lecture course begun in January 1670. He had reached the conclusion during the two plague years that white light is not a simple entity. Every scientist since Aristotle had believed that white light was a basic single entity, but the chromatic aberration in a telescope lens convinced Newton otherwise. When he passed a thin beam of sunlight through a glass prism Newton noted the spectrum of colours that was formed.
+
+
+He argued that white light is really a mixture of many different types of rays which are refracted at slightly different angles, and that each different type of ray produces a different spectral colour. Newton was led by this reasoning to the erroneous conclusion that telescopes using refracting lenses would always suffer chromatic aberration. He therefore proposed and constructed a reflecting telescope.
+
+
+In 1672 Newton was elected a fellow of the Royal Society after donating a reflecting telescope. Also in 1672 Newton published his first scientific paper on light and colour in the Philosophical Transactions of the Royal Society. The paper was generally well received but Hooke and Huygens objected to Newton's attempt to prove, by experiment alone, that light consists of the motion of small particles rather than waves. The reception that his publication received did nothing to improve Newton's attitude to making his results known to the world. He was always pulled in two directions, there was something in his nature which wanted fame and recognition yet another side of him feared criticism and the easiest way to avoid being criticised was to publish nothing. Certainly one could say that his reaction to criticism was irrational, and certainly his aim to humiliate Hooke in public because of his opinions was abnormal. However, perhaps because of Newton's already high reputation, his corpuscular theory reigned until the wave theory was revived in the 19th  century.
+
+
+Newton's relations with Hooke deteriorated further when, in 1675, Hooke claimed that Newton had stolen some of his optical results. Although the two men made their peace with an exchange of polite letters, Newton turned in on himself and away from the Royal Society which he associated with Hooke as one of its leaders. He delayed the publication of a full account of his optical researches until after the death of Hooke in 1703. Newton's Opticks appeared in 1704. It dealt with the theory of light and colour and with
+
+investigations of the colours of thin sheets 
+'Newton's rings' and 
+diffraction of light.
+
+To explain some of his observations he had to use a wave theory of light in conjunction with his corpuscular theory.
+
+
+Another argument, this time with the English Jesuits in LiÃ¨ge over his theory of colour, led to a violent exchange of letters, then in 1678 Newton appears to have suffered a nervous breakdown. His mother died in the following year and he withdrew further into his shell, mixing as little as possible with people for a number of years.
+
+
+Newton's greatest achievement was his work in physics and celestial mechanics, which culminated in the theory of universal gravitation. By 1666 Newton had early versions of his three laws of motion. He had also discovered the law giving the centrifugal force on a body moving uniformly in a circular path. However he did not have a correct understanding of the mechanics of circular motion.
+
+
+Newton's novel idea of 1666 was to imagine that the Earth's gravity influenced the Moon, counter- balancing its centrifugal force. From his law of centrifugal force and Kepler's third law of planetary motion, Newton deduced the inverse-square law.
+
+
+In 1679 Newton corresponded with Hooke who had written to Newton claiming:-
+... that the Attraction always is in a duplicate proportion to the Distance from the Center Reciprocall ...
+M Nauenberg writes an account of the next events:-
+After his 1679 correspondence with Hooke, Newton, by his own account, found a proof that Kepler's areal law was a consequence of centripetal forces, and he also showed that if the orbital curve is an ellipse under the action of central forces then the radial dependence of the force is inverse square with the distance from the centre.
+This discovery showed the physical significance of Kepler's second law.
+
+
+In 1684 Halley, tired of Hooke's boasting [M Nauenberg]:-
+... asked Newton what orbit a body followed under an inverse square force, and Newton replied immediately that it would be an ellipse. However in 'De Motu..' he only gave a proof of the converse theorem that if the orbit is an ellipse the force is inverse square. The proof that inverse square forces imply conic section orbits is sketched in Cor. 1 to Prop. 13 in Book 1 of the second and third editions of the 'Principia', but not in the first edition.
+Halley persuaded Newton to write a full treatment of his new physics and its application to astronomy. Over a year later (1687) Newton published the Philosophiae naturalis principia mathematica â(Mathematical Principles of Natural Philosophy) or Principia as it is always known.
+
+
+The Principia is recognised as the greatest scientific book ever written. Newton analysed the motion of bodies in resisting and non-resisting media under the action of centripetal forces. The results were applied to orbiting bodies, projectiles, pendulums, and free-fall near the Earth. He further demonstrated that the planets were attracted toward the Sun by a force varying as the inverse square of the distance and generalised that all heavenly bodies mutually attract one another.
+
+
+Further generalisation led Newton to the law of universal gravitation:-
+... all matter attracts all other matter with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.
+Newton explained a wide range of previously unrelated phenomena: the eccentric orbits of comets, the tides and their variations, the precession of the Earth's axis, and motion of the Moon as perturbed by the gravity of the Sun. This work made Newton an international leader in scientific research. The Continental scientists certainly did not accept the idea of action at a distance and continued to believe in Descartes' vortex theory where forces work through contact. However this did not stop the universal admiration for Newton's technical expertise.
+
+
+James II became king of Great Britain on 6 February 1685. He had become a convert to the Roman Catholic church in 1669 but when he came to the throne he had strong support from Anglicans as well as Catholics. However rebellions arose, which James put down but he began to distrust Protestants and began to appoint Roman Catholic officers to the army. He then went further, appointing only Catholics as judges and officers of state. Whenever a position at Oxford or Cambridge became vacant, the king appointed a Roman Catholic to fill it. Newton was a staunch Protestant and strongly opposed to what he saw as an attack on the University of Cambridge.
+
+
+When the King tried to insist that a Benedictine monk be given a degree without taking any examinations or swearing the required oaths, Newton wrote to the Vice-Chancellor:-
+Be courageous and steady to the Laws and you cannot fail.
+The Vice-Chancellor took Newton's advice and was dismissed from his post. However Newton continued to argue the case strongly preparing documents to be used by the University in its defence. However William of Orange had been invited by many leaders to bring an army to England to defeat James. William landed in November 1688 and James, finding that Protestants had left his army, fled to France. The University of Cambridge elected Newton, now famous for his strong defence of the university, as one of their two members to the Convention Parliament on 15 January 1689. This Parliament declared that James had abdicated and in February 1689 offered the crown to William and Mary. Newton was at the height of his standing - seen as a leader of the university and one of the most eminent mathematicians in the world. However, his election to Parliament may have been the event which let him see that there was a life in London which might appeal to him more than the academic world in Cambridge.
+
+
+After suffering a second nervous breakdown in 1693, Newton retired from research. The reasons for this breakdown have been discussed by his biographers and many theories have been proposed: chemical poisoning as a result of his alchemy experiments; frustration with his researches; the ending of a personal friendship with Fatio de Duillier, a Swiss-born mathematician resident in London; and problems resulting from his religious beliefs. Newton himself blamed lack of sleep but this was almost certainly a symptom of the illness rather than the cause of it. There seems little reason to suppose that the illness was anything other than depression, a mental illness he must have suffered from throughout most of his life, perhaps made worse by some of the events we have just listed.
+
+
+Newton decided to leave Cambridge to take up a government position in London becoming Warden of the Royal Mint in 1696 and Master in 1699. However, he did not resign his positions at Cambridge until 1701. As Master of the Mint, adding the income from his estates, we see that Newton became a very rich man. For many people a position such as Master of the Mint would have been treated as simply a reward for their scientific achievements. Newton did not treat it as such and he made a strong contribution to the work of the Mint. He led it through the difficult period of recoinage and he was particularly active in measures to prevent counterfeiting of the coinage.
+
+
+In 1703 he was elected president of the Royal Society and was re-elected each year until his death. He was knighted in 1705 by Queen Anne, the first scientist to be so honoured for his work. However the last portion of his life was not an easy one, dominated in many ways with the controversy with Leibniz over which of them had invented the calculus.
+
+
+Given the rage that Newton had shown throughout his life when criticised, it is not surprising that he flew into an irrational temper directed against Leibniz. We have given details of this controversy in Leibniz's biography and refer the reader to that article for details. Perhaps all that is worth relating here is how Newton used his position as President of the Royal Society. In this capacity he appointed an "impartial" committee to decide whether he or Leibniz was the inventor of the calculus. He wrote the official report of the committee (although of course it did not appear under his name) which was published by the Royal Society, and he then wrote a review (again anonymously) which appeared in the Philosophical Transactions of the Royal Society.
+
+
+Newton's assistant Whiston had seen his rage at first hand. He wrote:- 
+Newton was of the most fearful, cautious and suspicious temper that I ever knew.
+
+
+
+
+
+
+Quotations by Isaac Newton  Other Mathematicians born in England  A Poster of Isaac Newton
+
+
+
+
+
+References (show)
+
+
+
+
+
+I B Cohen, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Isaac-Newton
+E N da C Andrade, Isaac Newton (New York, N. Y., 1950, London, 1954).
+Z Bechler, Newton's physics and the conceptual structure of the scientific revolution (Dordrecht, 1991).
+D Brewster, Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton (1855, reprinted 1965) (2 volumes).
+G Castelnuovo, Le origini del calcolo infinitesimale nell'era moderna, con scritti di Newton, Leibniz, Torricelli (Milan, 1962).
+S Chandrasekhar, Newton's 'Principia' for the common reader (New York, 1995).
+G E Christianson, In the Presence of the Creator: Isaac Newton and His Times (1984).
+I B Cohen, Introduction to Newton's 'Principia' (Cambridge, Mass., 1971).
+F Dessauer, Weltfahrt der Erkenntnis, Leben und Werk Isaac Newtons (ZÃ¼rich, 1945).
+B J T Dobbs, and M C Jacob, Newton and the culture of Newtonianism. The Control of Nature (Atlantic Highlands, NJ, 1995).
+J Fauvel (ed.), Let Newton Be! (New York, 1988).
+J O Fleckenstein, Die hermetische Tradition in der Kosmologie Newtons. Newton and the Enlightenment, Vistas Astronom. 22 (4) (1978), 461-470 (1979).
+F de Gandt, Force and geometry in Newton's 'Principia' (Princeton, NJ, 1995).
+D Gjertsen, The Newton Handbook (London, 1986).
+A R Hall, Isaac Newton, Adventurer in Thought (Oxford, 1992).
+J W Herivel, The background to Newton's 'Principia' : A study of Newton's dynamical researches in the years 1664-84 (Oxford, 1965).
+V Kartsev, Newton (Russian), The Lives of Remarkable People. Biography Series (Moscow, 1987).
+J E McGuire and M Tamny, Certain philosophical questions : Newton's Trinity notebook (Cambridge-New York, 1983).
+D B Meli, Equivalence and priority : Newton versus Leibniz. Including Leibniz's unpublished manuscripts on the 'Principia' (New York, 1993).
+F Rosenberger, Isaac Newton und seine Physikalischen Principien (Darmstadt, 1987).
+H W Turnbull, The Mathematical Discoveries of Newton (London, 1945).
+R S Westfall, Never at Rest: A Biography of Isaac Newton (1990).
+R S Westfall, The Life of Isaac Newton (Cambridge, 1993).
+H Wussing, Newton, in H Wussing and W Arnold, Biographien bedeutender Mathematiker (Berlin, 1983).
+J Agassi, The ideological import of Newton, Vistas Astronom. 22 (4) (1978), 419-430.
+E J Aiton, The solution of the inverse-problem of central forces in Newton's 'Principia', Arch. Internat. Hist. Sci. 38 (121) (1988), 271-276.
+E J Aiton, The contributions of Isaac Newton, Johann Bernoulli and Jakob Hermann to the inverse problem of central forces, in Der Ausbau des Calculus durch Leibniz und die BrÃ¼der Bernoulli (Wiesbaden, 1989), 48-58.
+E J Aiton, The contributions of Newton, Bernoulli and Euler to the theory of the tides, Ann. of Sci. 11 (1956), 206-223.
+E N da C Andrade, Newton and the science of his age, Proc. Roy. Soc. London. Ser. A 181 (1943), 227-243.
+S Aoki, The moon-test in Newton's 'Principia' : accuracy of inverse-square law of universal gravitation, Arch. Hist. Exact Sci. 44 (2) (1992), 147-190.
+V I Arnol'd, and V A Vasil'ev, Newton's 'Principia' read 300 years later, Notices Amer. Math. Soc. 36 (9) (1989), 1148-1154.
+R T W Arthur, Newton's fluxions and equably flowing time, Stud. Hist. Philos. Sci. 26 (2) (1995), 323-351.
+K A Baird, Some influences upon the young Isaac Newton, Notes and Records Roy. Soc. London 41 (2) (1987), 169-179.
+M Bartolozzi and R Franci, A fragment of the history of algebra : Newton's rule on the number of imaginary roots in an algebraic equation (Italian), Rend. Accad. Naz. Sci. XL Mem. Sci. Fis. Natur. (5) 14 (2, II) (1990), 69-85.
+P K Basu, Newton's physics in the context of his works on chemistry and alchemy, Indian J. Hist. Sci. 26 (3) (1991), 283-305.
+Z Bechler, Newton's ontology of the force of inertia, in The investigation of difficult things (Cambridge, 1992), 287-304.
+Z Bechler, Newton's law of forces which are inversely as the mass : a suggested interpretation of his later efforts to normalise a mechanistic model of optical dispersion, Centaurus 18 (1973/74), 184-222.
+Z Bechler, 'A less agreeable matter' : the disagreeable case of Newton and achromatic refraction, British J. Hist. Sci. 8 (29) (1975), 101-126.
+Z Bechler, Newton's search for a mechanistic model of colour dispersion : a suggested interpretation, Arch. History Exact Sci. 11 (1973/74), 1-37.
+E T Bell, Newton after three centuries, Amer. Math. Monthly 49 (1942), 553-575.
+D Bertoloni Meli, Public claims, private worries : Newton's 'Principia' and Leibniz's theory of planetary motion, Stud. Hist. Philos. Sci. 22 (3) (1991), 415-449.
+T R Bingham, Newton and the development of the calculus, Pi Mu Epsilon J. 5 (1971), 171-181.
+J Blaquier, Sir Isaac Newton : The man and the mathematician (Spanish), Anales Acad. Nac. Ci. Ex. Fis. Nat. Buenos Aires 12 (1947), 9-32.
+M Blay, Le traitement newtonien du mouvement des projectiles dans les milieux rÃ©sistants, Rev. Histoire Sci. 40 (3-4) (1987), 325-355.
+M Blay, and G BarthÃ©lemy, Changements de repÃ¨res chez Newton : le problÃ¨me des deux corps dans les 'Principia', Arch. Internat. Hist. Sci. 34 (112) (1984), 68-98.
+C B Boyer, Newton as an originator of polar coÃ¶rdinates, Amer. Math. Monthly 56 (1949), 73-78.
+J B Brackenridge, The critical role of curvature in Newton's developing dynamics, in The investigation of difficult things (Cambridge, 1992), 231-260.
+J B Brackenridge, Newton's unpublished dynamical principles : a study in simplicity, Ann. of Sci. 47 (1) (1990), 3-31.
+J B Brackenridge, Newton's mature dynamics and the 'Principia' : a simplified solution to the Kepler problem, Historia Math. 16 (1) (1989), 36-45.
+J B Brackenridge, Newton's mature dynamics : revolutionary or reactionary?, Ann. of Sci. 45 (5) (1988), 451-476.
+W J Broad, Sir Isaac Newton : mad as a hatter, Science 213 (4514) (1981), 1341-1344.
+P Casini, Newton's 'Principia' and the philosophers of the Enlightenment : Newton's 'Principia' and its legacy, Notes and Records Roy. Soc. London 42 (1) (1988), 35-52.
+P Casini, Newton : the classical scholia, Hist. of Sci. 22 (55, 1) (1984), 1-58.
+M Cernohorsk'y, The rotation in Newton's wording of his first law of motion, in Isaac Newton's 'Philosophiae naturalis principia mathematica' (Singapore, 1988), 28-46.
+S Chandrasekhar, Newton and Michelangelo, Current Sci. 67 (7) (1994), 497-499.
+S Chandrasekhar, On reading Newton's 'Principia' at age past eighty, Current Sci. 67 (7) (1994), 495-496.
+S Chandrasekhar, Shakespeare, Newton and Beethoven or patterns of creativity, Current Sci. 70 (9) (1996), 810-822.
+C A Chant, Isaac Newton : Born three hundred years ago, J. Roy. Astr. Soc. Canada 37 (1943), 1-16.
+C Christensen, Newton's method for resolving affected equations, College Math. J. 27 (5) (1996), 330-340.
+I B Cohen, Notes on Newton in the art and architecture of the Enlightenment, Vistas Astronom. 22 (4) (1978), 523-537.
+I B Cohen, Newton's 'System of the world' : some textual and bibliographical notes, Physis - Riv. Internaz. Storia Sci. 11 (1-4) (1969), 152-166.
+I B Cohen, Isaac Newton, the calculus of variations, and the design of ships, in For Dirk Struik (Dordrecht, 1974), 169-187.
+I B Cohen, Newton's description of the reflecting telescope, Notes and Records Roy. Soc. London 47 (1) (1993), 1-9.
+A Cook, Edmond Halley and Newton's 'Principia', Notes and Records Roy. Soc. London 45 (2) (1991), 129-138.
+B P Copenhaver, Jewish theologies of space in the scientific revolution : Henry More, Joseph Raphson, Isaac Newton and their predecessors, Ann. of Sci. 37 (5) (1980), 489-548.
+P Costabel, Les 'Principia' de Newton et leurs colonnes d'Hercule, Rev. Histoire Sci. 40 (3-4) (1987), 251-271.
+G V Coyne, Newton's controversy with Leibniz over the invention of the calculus, in Newton and the new direction in science (Vatican City, 1988), 109-115.
+J T Cushing, Kepler's laws and universal gravitation in Newton's 'Principia', Amer. J. Phys. 50 (7) (1982), 617-628.
+S D'Agostino, On the problem of the redundancy of absolute motion in Newton's 'Principia', Physis - Riv. Internaz. Storia Sci. 25 (1) (1983), 167-169.
+S DÃ©barbat, Newton, Halley et l'Observatoire de Paris, Rev. Histoire Sci. 39 (2) (1986), 127-154.
+E Dellian, Newton, die TrÃ¤gheitskraft und die absolute Bewegung, Philos. Natur. 26 (2) (1989), 192-201.
+C Dilworth, Boyle, Hooke and Newton : some aspects of scientific collaboration, Rend. Accad. Naz. Sci. XL Mem. Sci. Fis. Natur. (5) 9 (1985), 329-331.
+R Dimitri'c, Sir Isaac Newton, Math. Intelligencer 13 (1) (1991), 61-65.
+B J T Dobbs, Newton as final cause and first mover, Isis 85 (4) (1994), 633-643.
+M J Duck, Newton and Goethe on colour : physical and physiological considerations, Ann. of Sci. 45 (5) (1988), 507-519.
+R Duda, Newton and the mathematical concept of space, in Isaac Newton's 'Philosophiae naturalis principia mathematica' (Singapore, 1988), 72-83.
+R Dugas, Le troisiÃ¨me centenaire de Newton, Revue Sci. 86 (1948), 111-114.
+S J Dundon, Newton's 'mathematical way' in the 'De mundi systemate', Physis - Riv. Internaz. Storia Sci. 11 (1-4) (1969), 195-204.
+A W F Edwards, Is the frontispiece of 'Gulliver's travels' a likeness of Newton?, Notes and Records Roy. Soc. London 50 (2) (1996), 191-194.
+S B Engelsman, Orthogonaltrajektorien im PrioritÃ¤tsstreit zwischen Leibniz und Newton, in 300 Jahre 'Nova methodus' von G W Leibniz (1684-1984) (Wiesbaden, 1986), 144-156.
+H Erlichson, Huygens and Newton on the Problem of Circular Motion, Centaurus 37 (1994), 210-229.
+H Erlichson, The visualization of quadratures in the mystery of Corollary 3 to Proposition 41 of Newton's 'Principia', Historia Math. 21 (2) (1994), 148-161.
+H Erlichson, Newton's polygon model and the second order fallacy, Centaurus 35 (3-4) (1992), 243-258.
+H Erlichson, Newton and Hooke on centripetal force motion, Centaurus 35 (1) (1992), 46-63.
+H Erlichson, Newton's first inverse solutions, Centaurus 34 (4) (1991), 345-366.
+H Erlichson, Newton's solution to the equiangular spiral problem and a new solution using only the equiangular property, Historia Math. 19 (4) (1992), 402-413.
+H Erlichson, How Newton went from a mathematical model to a physical model for the problem of a first power resistive force, Centaurus 34 (3) (1991), 272-283.
+H Erlichson, Motive force and centripetal force in Newton's mechanics, Amer. J. Phys. 59 (9) (1991), 842-849.
+H Erlichson, Newton's 1679/80 solution of the constant gravity problem, Amer. J. Phys. 59 (8) (1991), 728-733.
+N Feather, Rutherford - Faraday - Newton, Notes and Records Roy. Soc. London 27 (1972), 45-55.
+M Feingold, Newton, Leibniz, and Barrow too : an attempt at a reinterpretation, Isis 84 (2) (1993), 310-338.
+M Fellgett, Some influences on the young Isaac Newton, Notes and Records Roy. Soc. London 42 (2) (1988), 243.
+E A Fellmann, Ãber eine Bemerkung von G. W. Leibniz zu einem Theorem in Newtons 'Principia Mathematica', Historia Math. 5 (3) (1978), 267-273.
+E A Fellmann, Newtons 'Principia', Jber. Deutsch. Math.-Verein. 77 (3) (1975/76), 107-137.
+A Ferguson, Newton and the 'Principia', Philos. Mag. (7) 33 (1942), 871-888.
+C Ferrini, On Newton's demonstration of Kepler's second law in Hegel's 'De orbitis planetarum' (1801), Philos. Natur. 31 (1) (1994), 150-170.
+M Fierz and M Fierz, Zur Genauigkeit von Newtons Messung seiner Interferenzringe, Helv. Phys. Acta 67 (8) (1994), 923-929.
+K Figala, J Harrison and U Petzold, 'De scriptoribus chemicis' : sources for the establishment of Isaac Newton's (al)chemical library, in The investigation of difficult things (Cambridge, 1992), 135-179.
+S R Filonovich, Experiment in I Newton's 'Principia' (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (4) (1987), 57-67.
+G Findlay Shirras, Newton, a study of a master mind, Arch. Internat. Hist. Sci. (N.S.) 4 (1951), 897-914.
+M A Finocchiaro, Newton's third rule of philosophizing : a rule for logic in historiography, Isis 65 (1974), 66-73.
+E G Forbes, Newton's science and the Newtonian philosophy, Vistas Astronom. 22 (4) (1978), 413-418.
+A Franklin and C Howson, Newton and Kepler, a Bayesian approach, Stud. Hist. Philos. Sci. 16 (4) (1985), 379-385.
+H C Freiesleben, Newton's quadrant for navigation, Vistas Astronom. 22 (4) (1978), 515-522.
+A Gabbey, Newton's 'Mathematical principles of natural philosophy' : a treatise on 'mechanics'?, in The investigation of difficult things (Cambridge, 1992), 305-322.
+M Gagnon, Les arguments de Newton concernant l'existence du mouvement, de l'espace et du temps absolus, Dialogue 25 (4) (1986), 629-662.
+M Galuzzi, Some considerations about motion in a resisting medium in Newton's 'Principia', in Conference on the History of Mathematics (Rende, 1991), 169-189.
+F de Gandt, Le style mathÃ©matique des 'Principia' de Newton, Ãtudes sur l'histoire du calcul infinitÃ©simal, Rev. Histoire Sci. 39 (3) (1986), 195-222.
+F de Gandt, The mathematical style of Newton's 'Principia', Mathesis. Mathesis 6 (2) (1990), 163-189.
+J Gani, Newton on 'a question touching ye different odds upon certain given chances upon dice', Math. Sci. 7 (1) (1982), 61-66.
+J Gascoigne, The universities and the scientific revolution : the case of Newton and Restoration Cambridge, Hist. of Sci. 23 (62, 4) (1985), 391-434.
+I A Gerasimov, Newton and celestial mechanics (Russian), Istor.-Astronom. Issled. 20 (1988), 39-55.
+E Giusti, A comparison of infinitesimal calculus in Leibniz and Newton (Italian), Rend. Sem. Mat. Univ. Politec. Torino 46 (1) (1988), 1-29.
+J L Greenberg, Isaac Newton and the problem of the Earth's shape, Arch. Hist. Exact Sci. 49 (4) (1996), 371-391.
+J L Greenberg, Isaac Newton et la thÃ©orie de la figure de la Terre, Rev. Histoire Sci. 40 (3-4) (1987), 357-366.
+A T Grigor'yan, Isaac Newton's work of genius (Russian), Studies in the history of physics and mechanics 1987 'Nauka' (Moscow, 1987), 177-191; 245-246.
+A T Grigor'yan and B G Kuznetsov, On the 250th anniversary of the death of Newton (Russian), Organon 14 (1978), 263-274.
+U Grigull, Das Newtonsche AbkÃ¼hlungsgesetz : Bemerkungen zu einer Arbeit von Isaac Newton aus dem Jahre 1701, Physis - Riv. Internaz. Storia Sci. 20 (1-4) (1978), 213-235.
+E Grosholz, Some uses of proportion in Newton's 'Principia', Book I : a case study in applied mathematics, Stud. Hist. Philos. Sci. 18 (2) (1987), 209-220.
+H Guerlac, 'Newton's mathematical way' : another look, British J. Hist. Sci. 17 (55, 1) (1984), 61-64.
+H Guerlac, Can we date Newton's early optical experiments?, Isis 74 (271) (1983), 74-80.
+Z Hajduk, Isaac Newton's philosophy of nature, in Isaac Newton's 'Philosophiae naturalis principia mathematica' (Singapore, 1988), 96-112.
+A R Hall, Newton and the absolutes : sources, in The investigation of difficult things (Cambridge, 1992), 261-285.
+A R Hall, Beyond the fringe : diffraction as seen by Grimaldi, Fabri, Hooke and Newton, Notes and Records Roy. Soc. London 44 (1) (1990), 13-23.
+A R Hall, Further Newton correspondence, Notes and Records Roy. Soc. London 37 (1) (1982), 7-34.
+M B Hall, Newton and his theory of matter in the eighteenth century, Vistas Astronom. 22 (4) (1978), 453-459.
+A R Hall, Newton in France : a new view, Hist. of Sci. 13 (4) (1975), 233-250.
+A R Hall, Newton and his editors, Notes and Records Roy. Soc. London 29 (1974), 29-52.
+A R Hall, John Collins on Newton's telescope, Notes and Records Roy. Soc. London 49 (1) (1995), 71-78.
+F Hammer, Newtons Bedeutung fÃ¼r den Dialog zwischen Naturwissenschaft und Theologie, Philos. Natur. 20 (1) (1983), 3-13.
+P M Harman, Newton to Maxwell : the 'Principia' and British physics. Newton's 'Principia' and its legacy, Notes and Records Roy. Soc. London 42 (1) (1988), 75-96.
+J L Hawes, Newton's revival of the aether hypothesis and the explanation of gravitational attraction, Notes and Records Roy. Soc. London 23 (1968), 200-212.
+S W Hawking, Newton's 'Principia', in Three hundred years of gravitation (Cambridge, 1987), 1-4.
+A Hayli and Ph Kerspern, Le grand tournant de la pensÃ©e newtonienne de 1688-1690, Vistas Astronom. 22 (4) (1978), 511-514.
+J Hendry, Newton's theory of colour, Centaurus 23 (3) (1979/80), 230-251.
+J W Herivel, Newtonian studies. III : The originals of the two propositions discovered by Newton in December 1679?, Arch. Internat. Histoire Sci. 14 (1961), 23-33.
+J W Herivel, Sur les premiÃ¨res recherches de Newton en dynamique, Rev. Histoire Sci. Appl. 15 (1962), 105-140.
+J E Hofmann, Der junge Newton als Mathematiker (1665-1675), Math.-Phys. Semesterber. 2 (1951), 45-70.
+S H Hollingdale, Towards the tercentenary of Newton's 'Principia', Bull. Inst. Math. Appl. 18 (9-10) (1982), 178-183.
+S H Hollingdale, On reading Newton's 'Opticks', Bull. Inst. Math. Appl. 17 (1) (1981), 2-6.
+S H Hollingdale, The apotheosis of Isaac Newton, Bull. Inst. Math. Appl. 14 (8-9) (1978), 194-195.
+M A Hoskin, Newton and Lambert, Vistas Astronom. 22 (4) (1978), 483-484.
+M Hoskin, Newton and the beginnings of stellar astronomy, in Newton and the new direction in science (Vatican City, 1988), 55-63.
+R C Hovis, What can the history of mathematics learn from philosophy? A case study in Newton's presentation of the calculus, Philos. Math. (2) 4 (1) (1989), 35-57.
+M Hughes, Newton, Hermes and Berkeley, British J. Philos. Sci. 43 (1) (1992), 1-19.
+D W Hutchings, Isaac Newton, 1642-1727, in Late seventeenth century scientists (Oxford, 1969), 158-183.
+M de Icaza Herrera, Galileo, Bernoulli, Leibniz and Newton around the brachistochrone problem, Rev. Mexicana Fis. 40 (3) (1994), 459-475.
+T Ishigaki, Newton's 'Principia' from a logical point of view, Ann. Japan Assoc. Philos. Sci. 8 (4) (1994), 221-236.
+A Yu Ishlinskii, Inertia forces in Newton's world (Russian), Priroda (3) (1989), 66-74.
+A Jacob, The metaphysical systems of Henry More and Isaac Newton, Philos. Natur. 29 (1) (1992), 69-93.
+W B Joyce and A Joyce, Descartes, Newton, and Snell's law, J. Opt. Soc. Amer. 66 (1) (1976), 1-8.
+R Kargon, Newton, Barrow and the hypothetical physics, Centaurus 11 (1) (1965/66), 46-56.
+P Kerszberg, The cosmological question in Newton's science, Osiris (2) 2 (1986), 69-106.
+M Keynes, The personality of Isaac Newton, Notes and Records of the Royal Society of London 49 (1995), 1-56.
+P V Kharlamov, The concept of force in Newton's mechanics (Russian), Mekh. Tverd. Tela 20 (1988), 46-67; 112.
+C W Kilmister, The history of Newton's laws, Bull. Inst. Math. Appl. 17 (8-9) (1981), 173-176.
+V S Kirsanov, Newton and his epoch (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (1) (1993), 16-18.
+V S Kirsanov, The correspondence between Isaac Newton and Robert Hooke : 1679-80 (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (4) (1996), 3-39; 173.
+V S I Kirsanov, Newton's early ideas about gravity (1665-1669) (Russian), Voprosy Istor. Estestvoznan. i Tekhn. (2) (1993), 42-52; 172.
+P Kitcher, Fluxions, limits, and infinite littlenesse : A study of Newton's presentation of the calculus, Isis 64 (221) (1973), 33-49.
+O Knudsen, A note of Newton's concept of force, Centaurus 9 (1963/1964), 266-271.
+N Kollerstrom, Newton's two 'moon-tests', British J. Hist. Sci. 24 (82, 3) (1991), 369-372.
+N Kollerstrom and B D Yallop, Flamsteed's lunar data, 1692-95, sent to Newton, J. Hist. Astronom. 26 (3) (1995), 237-246.
+A KoyrÃ©, Pour une Ã©dition critique des oeuvres de Newton, Rev. Hist. Sci. Appl. 8 (1955), 19-37.
+F D Kramar, Questions of the foundations of analysis in the works of Wallis and Newton (Russian), Trudy Sem. MGU Istor. Mat. Istor.-Mat. Issledov. 1950 (3) (1950), 486-508.
+T M Kuk, On the question of Newton's physical concept of force (Russian), Sketches on the history of mathematical physics  'Naukova Dumka' (Kiev, 1985), 80-83; 185.
+L L Kul'vetsas, The content of the concept of force in Newton's mechanics (Russian), in Studies in the history of physics and mechanics, 1990  'Nauka' (Moscow, 1990), 131-149.
+B G Kuznecov, The teaching of Newton on relativity and absolute motion (Russian), Izvestiya Akad. Nauk SSSR. Ser. Istor. Filos. 5 (1948), 149-166.
+T Lai, Did Newton renounce infinitesimals?, Historia Math. 2 (1975), 127-136.
+V P Lishevskii, The genius of the natural sciences (on the occasion of the 350th anniversary of the birth of Isaac Newton) (Russian), Vestnik Ross. Akad. Nauk 63 (1) (1993), 33-37.
+J E Littlewood, Newton and the attraction of a sphere, Math. Gaz. 32 (1948), 179-181.
+J A Lohne, Hooke versus Newton : An analysis of the documents in the case on free fall and planetary motion, Centaurus 7 (1960), 6-52.
+J A Lohne, Newton's table of refractive powers. Origins, accuracy, and influence, Sudhoffs Arch.  61 (3) (1977), 229-247.
+J A Lohne, Fermat, Newton, Leibniz und das anaklastische Problem, Nordisk Mat. Tidskr. 14 (1966), 5-25.
+J Marek, Newton's report 'New theory about light and colours' and its relation to results of his predecessors, Physis - Riv. Internaz. Storia Sci. 11 (1-4) (1969), 390-407.
+J E McGuire, Newton on place, time, and God : an unpublished source, British J. Hist. Sci. 11 (38, 2) (1978), 114-129.
+J E McGuire and M Tamny, Newton's astronomical apprenticeship : notes of 1664/5, Isis 76 (283) (1985), 349-365.
+F A Medvedev, Horn angles in the works of I Newton (Russian), Istor.-Mat. Issled. 31 (1989), 18-37.
+A Michalik, Mathematical structure of nature in Newton's 'Definitions and Scholium', in Newton and the new direction in science (Vatican City, 1988), 265-269.
+F Mignard, The theory of the figure of the Earth according to Newton and Huygens, Vistas Astronom. 30 (3-4) (1987), 291-311.
+M Miller, Newtons Differenzenmethode, Wiss. Z. Hochsch. Verkehrswes. Dresden 2 (3) (1954), 1-13.
+M Miller, Isaac Newton : Ãber die Analysis mit Hilfe unendlicher Reihen, Wiss. Z. Hochsch. Verkehrswes. Dresden 2 (2) (1954), 1-16.
+M Miller, Newton, Aufzahlung der Linien dritter Ordnung, Wiss. Z. Hochsch. Verkehrswes. Dresden 1 (1) (1953), 5-32.
+A A Mills, Newton's water clocks and the fluid mechanics of clepsydrae, Notes and Records Roy. Soc. London 37 (1) (1982), 35-61.
+A A Mills, Newton's prisms and his experiments on the spectrum, Notes and Records Roy. Soc. London 36 (1) (1981/82), 13-36.
+J D Moss, Newton and the Jesuits in the 'Philosophical transactions', in Newton and the new direction in science (Vatican City, 1988), 117-134.
+H Nakajima, Two kinds of modification theory of light : some new observations on the Newton-Hooke controversy of 1672 concerning the nature of light, Ann. of Sci. 41 (3) (1984), 261-278.
+M Nauenberg, Huygens and Newton on Curvature and its applications to Dynamics, De zeventiende eeuw, jaargang 12 (1) (1996), 215-234.
+M Nauenberg, Newton's early computational method, Archive for the History of the Exact Science 46 (3) (1994), 221-252.
+M Nauenberg, Newton's Principia and Inverse square orbits, The College Mathematics Journal 25 (1994), 213-222.
+M Nauenberg, Newton's early computational method for dynamics, Arch. Hist. Exact Sci. 46 (3) (1994), 221-252.
+T Needham, Newton and the transmutation of force, Amer. Math. Monthly 100 (2) (1993), 119-137.
+J M Nicholas, Newton's extremal second law, Centaurus 22 (2) (1978/79), 108-130.
+C T O'Sullivan, Newton's laws of motion : some interpretations of the formalism, Amer. J. Phys. 48 (2) (1980), 131-133.
+M Panza, Eliminating time : Newton, Lagrange and the inverse problem of resisting motion (Italian), in Conference on the History of Mathematics (Rende, 1991), 487-537.
+J Peiffer, Leibniz, Newton et leurs disciples, Rev. Histoire Sci. 42 (3) (1989), 303-312.
+A PÃ©rez de Laborda, Newtons Fluxionsrechnung im Vergleich zu Leibniz' InfinitesimalkalkÃ¼l, in 300 Jahre 'Nova methodus' von G W Leibniz (1684-1984) (Wiesbaden, 1986), 239-257.
+S Pierson, Two mathematics, two Gods : Newton and the second law, Perspect. Sci. 2 (2) (1994), 231-253.
+B Pourciau, Reading the master : Newton and the birth of celestial mechanics, Amer. Math. Monthly 104 (1) (1997), 1-19.
+B Pourciau, Newton's solution of the one-body problem, Arch. Hist. Exact Sci. 44 (2) (1992), 125-146.
+B H Pourciau, On Newton's proof that inverse-square orbits must be conics, Ann. of Sci. 48 (2) (1991), 159-172.
+A Prince, The phenomenalism of Newton and Boscovich : a comparative study, Synth. Philos. 4 (2) (1989), 591-618.
+T Retnadevi, The life and contributions of a mathematician whom I respect - Sir Isaac Newton, Menemui Mat. 5 (1) (1983), 25-33.
+V F Rickey, Isaac Newton : man, myth and mathematics, Mathesis. Mathesis 6 (2) (1990), 119-162.
+V F Rickey, Isaac Newton : man, myth, and mathematics, College Math. J. 18 (5) (1987), 362-389.
+G A J Rogers, The system of Locke and Newton, in Contemporary Newtonian research (Dordrecht-Boston, Mass., 1982), 215-238.
+G A J Rogers, Locke, Newton and the Enlightenment, Vistas Astronom. 22 (4) (1978), 471-476.
+L Rosenfeld, Newton and the law of gravitation, Arch. History Exact Sci. 2 (1964/1965), 365-386.
+R Rynasiewicz, By their properties, causes and effects : Newton's scholium on time, space, place and motion. II. The context, Stud. Hist. Philos. Sci. 26 (2) (1995), 295-321.
+R Rynasiewicz, By their properties, causes and effects : Newton's scholium on time, space, place and motion. I. The text, Stud. Hist. Philos. Sci. 26 (1) (1995), 133-153.
+C J Scriba, ErtrÃ¤ge der Newton - Forschung, Sudhoffs Arch. 79 (2) (1995), 150-164.
+A E Shapiro, Beyond the dating game : watermark clusters and the composition of Newton's ' Opticks', in The investigation of difficult things (Cambridge, 1992), 181-227.
+A E Shapiro, Huygens' 'TraitÃ© de la lumiÃ¨re' and Newton's 'Opticks' : pursuing and eschewing hypotheses, Notes and Records Roy. Soc. London 43 (2) (1989),  223-247.
+A E Shapiro, The evolving structure of Newton's theory of white light and color, Isis 71 (257) (1980), 211-235.
+A E Shapiro, Newton's 'achromatic' dispersion law : theoretical background and experimental evidence, Arch. Hist. Exact Sci. 21 (2) (1979/80), 91-128.
+S Di Sieno and M Galuzzi, Section V of the first book of the 'Principia'. Newton and the 'problem of Pappus' (Italian), Arch. Internat. Hist. Sci. 39 (122) (1989), 51-68.
+D L Simms and P L Hinkley, Brighter than how many suns? Sir Isaac Newton's burning mirror, Notes and Records Roy. Soc. London 43 (1) (1989), 31-51.
+R Sokolowski, Idealization in Newton's physics, in Newton and the new direction in science (Vatican City, 1988), 65-72.
+G Solinas, Newton and Buffon. Newton and the Enlightenment, Vistas Astronom. 22 (4) (1978), 431-439.
+S K Stein, Exactly how did Newton deal with his planets?, Math. Intelligencer 18 (2) (1996), 6-11.
+F Steinle, Was ist Masse? Newtons Begriff der Materiemenge, Philos. Natur. 29 (1) (1992), 94-117.
+L Stewart, Seeing through the scholium : religion and reading Newton in the eighteenth century, Hist. Sci. 34 (104, 2) (1996), 123-165.
+E W Strong, Newton's 'mathematical way', J. Hist. Ideas 12 (1951), 90-110.
+J Such, Newton's fields of study and methodological principia, in Isaac Newton's 'Philosophiae naturalis principia mathematica' (Singapore, 1988), 113-125.
+J Sysak, Coleridge's construction of Newton, Ann. of Sci. 50 (1) (1993), 59-81.
+V Szebehely, Sir Isaac Newton and modern celestial mechanics, Acad. Roy. Belg. Bull. Cl. Sci. (5) 72 (4) (1986), 220-228.
+F J Tipler, The sensorium of God : Newton and absolute space, in Newton and the new direction in science (Vatican City, 1988), 215-228.
+D Topper, Newton on the number of colours in the spectrum, Stud. Hist. Philos. Sci. 21 (2) (1990), 269-279.
+B Tucha'nska, Newton's discovery of gravity, in Newton and the new direction in science (Vatican City, 1988), 45-53.
+I A Tyulina, On the foundations of Newtonian mechanics (on the 300th anniversary of Newton's 'Principia') (Russian), Istor. Metodol. Estestv. Nauk 36 (1989), 184-196.
+I A Tyulina, On the foundations of Newtonian mechanics (on the 300th anniversary of Newton's 'Principia') (Russian), Istor. Metodol. Estestv. Nauk 36 (1989), 184-196.
+S R Valluri, C Wilson and W Harper, Newton's apsidal precession theorem and eccentric orbits, J. Hist. Astronom. 28 (1) (1997), 13-27.
+A C S van Heel, Newton's work on geometrical optical aberrations, Nature 171 (1953), 305-306.
+S I Vavilov, I Newton's 'Lectures on Optics' (Russian), Akad. Nauk SSSR. Trudy Inst. Istorii Estestvoznaniya 1 (1947), 315-326.
+C Vilain, La proportionnalitÃ© de la masse et du poids dans la dynamique newtonienne, Rev. Histoire Sci. 47 (3-4) (1994), 435-473.
+C Vilain, Newton et le modÃ¨le mÃ©caniste de la rÃ©fraction, Rev. Histoire Sci. 40 (3-4) (1987), 311-324.
+V Vita, The theory of conics in Newton's 'Principia' (Italian), Archimede 30 (3) (1978), 130-141.
+Th von KÃ¡rmÃ¡n, Isaac Newton and aerodynamics, J. Aeronaut. Sci. 9 (1942), 521-522.
+O U Vonwiller, Galileo and Newton : their times and ours, J. Proc. Roy. Soc. New South Wales 76 (1943), 316-328.
+C B Waff, Isaac Newton, the motion of the lunar apogee, and the establishment of the inverse square law, Vistas Astronom. 20 (1-2) (1976), 99-103.
+W A Wallace, Newton's early writings : beginnings of a new direction, in Newton and the new direction in science (Vatican City, 1988), 23-44.
+R Weinstock, Newton's 'Principia' and inverse-square orbits : the flaw reexamined, Historia Math. 19 (1) (1992),  60-70.
+R Weinstock, Long-buried dismantling of a centuries-old myth : Newton's 'Principia' and inverse-square orbits, Amer. J. Phys. 57 (9) (1989), 846-849.
+R Weinstock, Newton's 'Principia' and the external gravitational field of a spherically symmetric mass distribution, Amer. J. Phys. 52 (10) (1984), 883-890.
+R Weinstock, Dismantling a centuries-old myth : Newton's 'Principia' and inverse-square orbits, Amer. J. Phys. 50 (7) (1982), 610-617.
+R S Westfall, Technical Newton : Reviews of five books on Newton's dynamics, Isis 87 (4) (1996), 701-706.
+R S Westfall, The achievement of Isaac Newton : an essay on the occasion of the three hundredth anniversary of the 'Principia', Math. Intelligencer 9 (4) (1987), 45-49.
+R S Westfall, Newton and the acceleration of gravity, Arch. Hist. Exact Sci. 35 (3) (1986), 255-272.
+R S Westfall, Newton's marvelous years of discovery and their aftermath : myth versus manuscript, Isis 71 (256) (1980), 109-121.
+R S Westfall, A note on Newton's demonstration of motion in ellipses, Arch. Internat. Histoire Sci. 22 (86-87) (1969), 51-60.
+R S Westfall, Huygens' rings and Newton's rings : Periodicity and seventeenth century optics, Ratio 10 (1968), 64-77.
+D T Whiteside, The mathematical principles underlying Newton's Principia, Journal for the History of Astronomy 1 (1970), 118-119.
+D T Whiteside, How forceful has a force proof to be? Newton's 'Principia', Book 1 : Corollary 1 to Propositions 11-13, Physis Riv. Internaz. Storia Sci. (N.S.) 28 (3) (1991), 727-749.
+D T Whiteside, Newton the mathematician, in Contemporary Newtonian research (Dordrecht-Boston, Mass., 1982), 109-127.
+D T Whiteside, Kepler, Newton and Flamsteed on refraction through a 'regular aire' : the mathematical and the practical, Centaurus 24 (1980), 288-315.
+D T Whiteside, Newton and dynamics, Bull. Inst. Math. Appl. 13 (9-10) (1977), 214-220.
+D T Whiteside, Newton's lunar theory : from high hope to disenchantment, Vistas Astronom. 19 (4) (1975/76), 317-328.
+D T Whiteside, The mathematical principles underlying Newton's 'Principia mathematica', J. Hist. Astronom. 1 (2) (1970), 116-138.
+D T Whiteside, Before the 'Principia' : the maturing of Newton's thoughts on dynamical astronomy, 1664-1684, J. Hist. Astronom. 1 (1) (1970), 5-19.
+G J Whitrow, Newton's role in the history of mathematics, Notes and Records Roy. Soc. London 43 (1) (1989), 71-92.
+E T Whittaker, Aristotle, Newton, Einstein, Proc. Roy. Soc. Edinburgh  Sect. A. 61 (1942), 231-246.
+E T Whittaker, Aristotle, Newton, Einstein, Philos. Mag. (7) 34 (1943), 266-280.
+A J Wojtcuk, Newton's childhood, in Newton and the new direction in science (Vatican City, 1988), 261-264.
+H Wussing, Isaac Newton - Leben und Werk, NTM Schr. Geschichte Natur. Tech. Medizin 15 (1) (1978), 71-80.
+I M Yaglom, Why was higher mathematics simultaneously discovered by Newton and Leibniz? (Russian), in Number and thought 6 (Moscow, 1983), 99-125.
+K N Yan, A re-examination into Newton's definition of mass and Mach's criticism, Historia Sci. 40 (1990), 29-40.
+K N Yan, On Isaac Newton's ideas of gravitation and God, Historia Sci. 34 (1988), 43-56.
+A P Youschkevitch, Newton and the mathematical natural sciences (on the 300th anniversary of the 'Principia') (Russian), Mat. v Shkole (1) (1988), 64-67.
+A P Youschkevitch, Comparaison des conceptions de Leibniz et de Newton sur le calcul infinitÃ©simal, in Leibniz in Paris (1672-1676) (Wiesbaden, 1978), 69-80.
+M Yurkina, Newton's 'Principia' and the origin of the modern theory of the shape of the Earth (Russian), Istor.-Astronom. Issled. 20 (1988), 56-63.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Isaac Newton:
+
+John Maynard Keynes' Newton the Man
+Newton's Arian beliefs
+Flamsteed v Newton
+Charles Bossut on Leibniz and Newton
+Newton's Principia Preface
+John Collins meets Isaac Newton
+Julian and Gregorian calendars
+Newton-Raphson method
+Woolsthorpe Manor
+The title page of Philosophiae naturalis principia mathematica  (The Principia  1687)
+The title page of Analysis per quantitatum series fluxiones  (1711)
+Isaac Newton by his contemporaries
+Multiple entries in The Mathematical Gazetteer of the British Isles,
+Astronomy: The Reaches of the Milky Way
+Astronomy: The Dynamics of the Solar System
+Henry Taylor on Isaac Newton
+Miller's postage stamps
+Heinz Klaus Strick biography
+
+
+
+Other websites about Isaac Newton:
+
+Dictionary of Scientific Biography
+Dictionary of National Biography
+Encyclopaedia Britannica
+NNDB
+The Newton Project (UK)
+Rouse Ball
+Bob Bruen
+The Galileo Project
+G Don Allen
+Sci Hi blog
+A Google doodle 
+Kevin Brown  (More about Newton's birthday)
+Mathematical Genealogy Project
+MathSciNet Author profile
+
+
+
+
+
+
+
+      Honours
+      (show)
+
+
+
+
+
+Honours awarded to Isaac Newton
+
+Lucasian Professor 1669 Fellow of the Royal Society 1672 President of the Royal Society 1703-1727 Lunar features Crater Newton Paris street names Rue Newton (16th Arrondissement) Popular biographies list Number 3 Google doodle 2010
+
+
+
+
+
+
+
+      Cross-references
+      (show)
+
+
+
+
+
+
+History Topics: A brief history of cosmology
+History Topics: A chronology of Ï
+History Topics: A history of the calculus
+History Topics: A history of time: 20th century time
+History Topics: A history of time: Classical time
+History Topics: An overview of Indian mathematics
+History Topics: An overview of the history of mathematics
+History Topics: Christianity and the Mathematical Sciences - the Heliocentric Hypothesis
+History Topics: Elliptic functions and integrals
+History Topics: English attack on the Longitude Problem
+History Topics: Fermat's last theorem
+History Topics: General relativity
+History Topics: Greek astronomy
+History Topics: Infinity
+History Topics: Light through the ages: Ancient Greece to Maxwell
+History Topics: London Coffee houses and mathematics
+History Topics: Longitude and the AcadÃ©mie Royale
+History Topics: Mathematical discovery of planets
+History Topics: Mathematics and Architecture
+History Topics: Mathematics and the physical world
+History Topics: Mathematics in St Andrews to 1700
+History Topics: Newton's bucket
+History Topics: Orbits and gravitation
+History Topics: Overview of Chinese mathematics
+History Topics: Science in the 17th century: From Europe to St Andrews
+History Topics: Special relativity
+History Topics: The Bakhshali manuscript
+History Topics: The Berlin Academy and forgery
+History Topics: The brachistochrone problem
+History Topics: The development of the 'black hole' concept
+History Topics: The mathematician and the forger
+History Topics: Theories of gravitation
+History Topics: Weather forecasting
+Famous Curves: Cartesian Oval
+Famous Curves: Cissoid of Diocles
+Famous Curves: Conchoid
+Famous Curves: Cycloid
+Famous Curves: Epicycloid
+Famous Curves: Epitrochoid
+Famous Curves: Hypocycloid
+Famous Curves: Hypotrochoid
+Famous Curves: Kappa Curve
+Famous Curves: Lissajous Curves
+Famous Curves: Newton's Diverging Parabolas
+Famous Curves: Parabola
+Famous Curves: Serpentine
+Famous Curves: Trident of Newton
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 11
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 13
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 14
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 15
+Student Projects: Indian Mathematics - Redressing the balance: Chapter 18
+Student Projects: James Clerk Maxwell - The Great Unknown: Chapter 1
+Student Projects: James Clerk Maxwell - The Great Unknown: Chapter 5
+Student Projects: James Clerk Maxwell - The Great Unknown: Chapter 8
+Other: 12th June
+Other: 13th May
+Other: 15th February
+Other: 15th January
+Other: 1897 ICM - Zurich
+Other: 1904 ICM - Heidelberg
+Other: 1908 ICM - Rome
+Other: 1912 ICM - Cambridge
+Other: 1924 ICM - Toronto
+Other: 1928 ICM - Bologna
+Other: 1932 ICM - Zurich
+Other: 1950 ICM - Cambridge USA
+Other: 19th February
+Other: 2009 Most popular biographies
+Other: 25th December
+Other: 26th January
+Other: 28th September
+Other: 2nd June
+Other: 2nd October
+Other: 30th November
+Other: 31st July
+Other: 3rd November
+Other: 4th September
+Other: 5th July
+Other: 6th December
+Other: 6th January
+Other: Cambridge Colleges
+Other: Cambridge Individuals
+Other: Cambridge professorships
+Other: Earliest Known Uses of Some of the Words of Mathematics (A)
+Other: Earliest Known Uses of Some of the Words of Mathematics (C)
+Other: Earliest Known Uses of Some of the Words of Mathematics (D)
+Other: Earliest Known Uses of Some of the Words of Mathematics (E)
+Other: Earliest Known Uses of Some of the Words of Mathematics (F)
+Other: Earliest Known Uses of Some of the Words of Mathematics (G)
+Other: Earliest Known Uses of Some of the Words of Mathematics (H)
+Other: Earliest Known Uses of Some of the Words of Mathematics (I)
+Other: Earliest Known Uses of Some of the Words of Mathematics (L)
+Other: Earliest Known Uses of Some of the Words of Mathematics (M)
+Other: Earliest Known Uses of Some of the Words of Mathematics (N)
+Other: Earliest Known Uses of Some of the Words of Mathematics (O)
+Other: Earliest Known Uses of Some of the Words of Mathematics (P)
+Other: Earliest Known Uses of Some of the Words of Mathematics (Q)
+Other: Earliest Known Uses of Some of the Words of Mathematics (R)
+Other: Earliest Known Uses of Some of the Words of Mathematics (S)
+Other: Earliest Known Uses of Some of the Words of Mathematics (T)
+Other: Earliest Uses of Symbols of Calculus
+Other: Earliest Uses of Symbols of Operation
+Other: Jeff Miller's postage stamps
+Other: London Learned Societies
+Other: London Miscellaneous
+Other: London Museums
+Other: London Schools
+Other: London Scientific Institutions
+Other: London individuals A-C
+Other: London individuals H-M
+Other: London individuals N-R
+Other: London individuals S-Z
+Other: Most popular biographies â 2024
+Other: On Growth and Form
+Other: Other Institutions in central London
+Other: Other London Institutions outside the centre
+Other: Oxford Institutions and Colleges
+Other: Oxford individuals
+Other: Oxford professorships
+Other: Popular biographies 2018
+Other: The Dynamics of the Solar System
+Other: The Reaches of the Milky Way
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update January 2000
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

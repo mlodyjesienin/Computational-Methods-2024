@@ -1,0 +1,279 @@
+
+
+
+
+Famous Theorems of Mathematics/Number Theory - Wikibooks, open books for an open world
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Famous Theorems of Mathematics/Number Theory
+
+From Wikibooks, open books for an open world
+< Famous Theorems of Mathematics
+
+
+Jump to navigation
+Jump to search
+Illustration showing that 11 is a prime number while 12 is not.
+Number theory is the branch of pure mathematics that deals with the properties of the integers and numbers in general, and the wide class of problems that arise from their study.  
+Please see the book Number Theory for a detailed treatment.
+
+Contents
+
+1 Elementary Number Theory
+2 Algebraic Number Theory
+3 Analytic Number Theory
+4 To Be Classified
+
+
+Elementary Number Theory[edit | edit source]
+In elementary number theory, integers are studied without use of techniques from other mathematical fields. Questions of divisibility, use of the Euclidean algorithm to compute greatest common divisors, integer factorizations into prime numbers, investigation of perfect numbers and congruences belong here. Several important discoveries of this field are Fermat's little theorem, Euler's theorem, the Chinese remainder theorem and the law of quadratic reciprocity. The properties of multiplicative functions such as the Möbius function, Euler's φ function, integer sequences, factorials, and Fibonacci numbers all also fall into this area.
+Many questions in number theory can be stated in elementary number theoretic terms, but they may require very deep consideration and new approaches outside the realm of elementary number theory to solve.
+
+
+
+Name of Topic
+
+Subtopics
+
+
+Divisibility
+
+Basic Results, Division Algorithm, Greatest Common Divisor, Euclidean Algorithm, Least Common Multiple, Prime Numbers, Fundamental Theorem of Arithmetic, Binomial Theorem
+
+
+Congruences
+
+Basic Results, Fermat's Little Theorem, Euler's Theorem, Wilson's Theorem, Solutions of Congruences, Chinese Remainder Theorem
+
+
+Quadratic Reciprocity
+
+Basic Results, Gauss Lemma, Law of Quadratic Reciprocity
+
+
+Functions of Number Theory
+
+Greatest Integer Function, de Polignac's Formula, Arithmetic Functions, Mobius Inversion Formula
+
+
+Algebraic Number Theory[edit | edit source]
+
+
+
+
+ This section is a stub.You can help Wikibooks by expanding it. 
+
+
+Algebraic number theory is a branch of number theory in which the concept of a number is expanded to the algebraic numbers which are roots of polynomials with rational coefficients. An algebraic number field is any finite (and therefore algebraic) field extension of the rational numbers. These domains contain elements analogous to the integers, the so-called algebraic integers. In this setting, the familiar features of the integers (e.g. unique factorization) need not hold. The virtue of the machinery employed — Galois theory, group cohomology, class field theory, group representations and L-functions — is that it allows one to recover that order partly for this new class of numbers.
+
+Analytic Number Theory[edit | edit source]
+
+
+
+
+ This section is a stub.You can help Wikibooks by expanding it. 
+
+
+Analytic number theory is the branch of the number theory that uses methods from mathematical analysis to prove theorems in number theory. Its major proofs include that of Dirichlet's theorem on arithmetic progressions, stating the existence of infinitely many primes in arithmetic progressions of the form a + nb, where a and b are relatively prime. The proofs of the prime number theorem based on the Riemann zeta function is another important proof.
+The outline of the subject remains similar to the heyday of the subject in the 1930s. Multiplicative number theory deals with the distribution of the prime numbers, applying Dirichlet series as generating functions.
+See Discrete Mathematics/Analytic Number Theory.
+
+To Be Classified[edit | edit source]
+Totient Function
+
+
+
+
+
+Retrieved from "https://en.wikibooks.org/w/index.php?title=Famous_Theorems_of_Mathematics/Number_Theory&oldid=4050579"
+Categories: Section stubsBook:Famous Theorems of Mathematics
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged inDiscussion for this IP addressContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+BookDiscussion
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadEditEdit sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main PageHelpBrowseCookbookWikijuniorFeatured booksRecent changesDonationsRandom bookUsing Wikibooks
+
+
+
+
+
+Community
+
+
+
+Reading room forumCommunity portalBulletin BoardHelp out!Policies and guidelinesContact us
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+Sister projects
+
+
+
+WikipediaWikiversityWiktionaryWikiquoteWikisourceWikinewsWikivoyageCommonsWikidataMediaWikiMeta-Wiki
+
+
+
+
+
+Print/export
+
+
+
+Create a collectionDownload as PDFPrintable version
+
+
+
+
+
+In other languages
+
+
+
+
+Add links
+
+
+
+
+
+
+ This page was last edited on 24 April 2022, at 00:27.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikibooks
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+

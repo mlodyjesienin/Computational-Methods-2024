@@ -1,0 +1,1882 @@
+
+
+
+
+Functional analysis - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Normed vector spaces
+
+
+
+
+Toggle Normed vector spaces subsection
+
+
+
+
+
+1.1
+Hilbert spaces
+
+
+
+
+
+
+
+
+1.2
+Banach spaces
+
+
+
+
+
+
+
+
+
+
+2
+Linear functional analysis
+
+
+
+
+
+
+
+
+3
+Major and foundational results
+
+
+
+
+Toggle Major and foundational results subsection
+
+
+
+
+
+3.1
+Uniform boundedness principle
+
+
+
+
+
+
+
+
+3.2
+Spectral theorem
+
+
+
+
+
+
+
+
+3.3
+Hahn–Banach theorem
+
+
+
+
+
+
+
+
+3.4
+Open mapping theorem
+
+
+
+
+
+
+
+
+3.5
+Closed graph theorem
+
+
+
+
+
+
+
+
+3.6
+Other topics
+
+
+
+
+
+
+
+
+
+
+4
+Foundations of mathematics considerations
+
+
+
+
+
+
+
+
+5
+Points of view
+
+
+
+
+
+
+
+
+6
+See also
+
+
+
+
+
+
+
+
+7
+References
+
+
+
+
+
+
+
+
+8
+Further reading
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Functional analysis
+
+
+
+49 languages
+
+
+
+
+العربيةAsturianuБашҡортсаБеларускаяБългарскиCatalàЧӑвашлаČeštinaCorsuDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGalego한국어ՀայերենBahasa IndonesiaItalianoעבריתქართულიҚазақшаMagyarBahasa Melayuမြန်မာဘာသာNederlands日本語Norsk bokmålNorsk nynorskPiemontèisPolskiPortuguêsРусскийShqipSimple EnglishSlovenčinaکوردیСрпски / srpskiSuomiSvenskaTürkçeУкраїнськаTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikiquoteWikiversity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Area of mathematics
+This article is about an area of mathematics. For a method of study of human behavior, see Functional analysis (psychology). For a method in linguistics, see Functional analysis (linguistics).
+One of the possible modes of vibration of an idealized circular drum head. These modes are eigenfunctions of a linear operator on a function space, a common construction in functional analysis.
+Functional analysis is a branch of mathematical analysis, the core of which is formed by the study of vector spaces endowed with some kind of limit-related structure (for example, inner product, norm, or topology) and the linear functions defined on these spaces and suitably respecting these structures. The historical roots of functional analysis lie in the study of spaces of functions and the formulation of properties of transformations of functions such as the Fourier transform as transformations defining, for example, continuous or unitary operators between function spaces. This point of view turned out to be particularly useful for the study of differential and integral equations.
+The usage of the word functional as a noun goes back to the calculus of variations, implying a function whose argument is a function. The term was first used in Hadamard's 1910 book on that subject. However, the general concept of a functional had previously been introduced in 1887 by the Italian mathematician and physicist Vito Volterra.[1][2] The theory of nonlinear functionals was continued by students of Hadamard, in particular Fréchet and Lévy. Hadamard also founded the modern school of linear functional analysis further developed by Riesz and the group of Polish mathematicians around Stefan Banach.
+In modern introductory texts on functional analysis, the subject is seen as the study of vector spaces endowed with a topology, in particular infinite-dimensional spaces.[3][4] In contrast, linear algebra deals mostly with finite-dimensional spaces, and does not use topology. An important part of functional analysis is the extension of the theories of measure, integration, and probability to infinite dimensional spaces, also known as infinite dimensional analysis.
+
+
+Normed vector spaces[edit]
+The basic and historically first class of spaces studied in functional analysis are complete normed vector spaces over the real or complex numbers. Such spaces are called Banach spaces. An important example is a Hilbert space, where the norm arises from an inner product. These spaces are of fundamental importance in many areas, including the mathematical formulation of quantum mechanics, machine learning, partial differential equations, and Fourier analysis.
+More generally, functional analysis includes the study of Fréchet spaces and other topological vector spaces not endowed with a norm.
+An important object of study in functional analysis are the continuous linear operators defined on Banach and Hilbert spaces. These lead naturally to the definition of C*-algebras and other operator algebras.
+
+Hilbert spaces[edit]
+Hilbert spaces can be completely classified: there is a unique Hilbert space up to isomorphism for every cardinality of the orthonormal basis.[5] Finite-dimensional Hilbert spaces are fully understood in linear algebra, and infinite-dimensional separable Hilbert spaces are isomorphic to 
+
+
+
+
+ℓ
+
+
+2
+
+
+(
+
+ℵ
+
+0
+
+
+)
+
+
+
+{\displaystyle \ell ^{\,2}(\aleph _{0})\,}
+
+. Separability being important for applications, functional analysis of Hilbert spaces consequently mostly deals with this space. One of the open problems in functional analysis is to prove that every bounded linear operator on a Hilbert space has a proper invariant subspace. Many special cases of this invariant subspace problem have already been proven.
+
+Banach spaces[edit]
+General Banach spaces are more complicated than Hilbert spaces, and cannot be classified in such a simple manner as those. In particular, many Banach spaces lack a notion analogous to an orthonormal basis.
+Examples of Banach spaces are 
+
+
+
+
+L
+
+p
+
+
+
+
+{\displaystyle L^{p}}
+
+-spaces for any real number 
+
+
+
+p
+≥
+1
+
+
+{\displaystyle p\geq 1}
+
+. Given also a measure 
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+ on set 
+
+
+
+X
+
+
+{\displaystyle X}
+
+, then 
+
+
+
+
+L
+
+p
+
+
+(
+X
+)
+
+
+{\displaystyle L^{p}(X)}
+
+, sometimes also denoted 
+
+
+
+
+L
+
+p
+
+
+(
+X
+,
+μ
+)
+
+
+{\displaystyle L^{p}(X,\mu )}
+
+ or 
+
+
+
+
+L
+
+p
+
+
+(
+μ
+)
+
+
+{\displaystyle L^{p}(\mu )}
+
+, has as its vectors equivalence classes 
+
+
+
+[
+
+f
+
+]
+
+
+{\displaystyle [\,f\,]}
+
+ of measurable functions whose absolute value's 
+
+
+
+p
+
+
+{\displaystyle p}
+
+-th power has finite integral; that is, functions 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ for which one has
+
+
+
+
+
+∫
+
+X
+
+
+
+
+|
+
+f
+(
+x
+)
+
+|
+
+
+p
+
+
+
+d
+μ
+(
+x
+)
+<
+∞
+.
+
+
+{\displaystyle \int _{X}\left|f(x)\right|^{p}\,d\mu (x)<\infty .}
+
+
+If 
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+ is the counting measure, then the integral may be replaced by a sum. That is, we require
+
+
+
+
+
+∑
+
+x
+∈
+X
+
+
+
+
+|
+
+f
+(
+x
+)
+
+|
+
+
+p
+
+
+<
+∞
+.
+
+
+{\displaystyle \sum _{x\in X}\left|f(x)\right|^{p}<\infty .}
+
+
+Then it is not necessary to deal with equivalence classes, and the space is denoted 
+
+
+
+
+ℓ
+
+p
+
+
+(
+X
+)
+
+
+{\displaystyle \ell ^{p}(X)}
+
+, written more simply 
+
+
+
+
+ℓ
+
+p
+
+
+
+
+{\displaystyle \ell ^{p}}
+
+ in the case when 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is the set of non-negative integers.
+In Banach spaces, a large part of the study involves the dual space: the space of all continuous linear maps from the space into its underlying field, so-called functionals. A Banach space can be canonically identified with a subspace of its bidual, which is the dual of its dual space. The corresponding map is an isometry but in general not onto. A general Banach space and its bidual need not even be isometrically isomorphic in any way, contrary to the finite-dimensional situation. This is explained in the dual space article.
+Also, the notion of derivative can be extended to arbitrary functions between Banach spaces. See, for instance, the Fréchet derivative article.
+
+Linear functional analysis[edit]
+[6]
+
+This section needs expansion. You can help by adding to it.  (August 2020)
+Major and foundational results[edit]
+There are four major theorems which are sometimes called the four pillars of functional analysis: 
+
+the Hahn–Banach theorem
+the open mapping theorem
+the closed graph theorem
+the uniform boundedness principle, also known as the Banach–Steinhaus theorem.
+Important results of functional analysis include:
+
+Uniform boundedness principle[edit]
+Main article: Banach-Steinhaus theorem
+The uniform boundedness principle or Banach–Steinhaus theorem is one of the fundamental results in functional analysis. Together with the Hahn–Banach theorem and the open mapping theorem, it is considered one of the cornerstones of the field. In its basic form, it asserts that for a family of continuous linear operators (and thus bounded operators) whose domain is a Banach space, pointwise boundedness is equivalent to uniform boundedness in operator norm.
+The theorem was first published in 1927 by Stefan Banach and Hugo Steinhaus but it was also proven independently by Hans Hahn.
+
+
+Theorem (Uniform Boundedness Principle) — Let 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ be a Banach space and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ be a normed vector space. Suppose that 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ is a collection of continuous linear operators from 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ to 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+. If for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ one has
+
+
+
+
+
+sup
+
+T
+∈
+F
+
+
+‖
+T
+(
+x
+)
+
+‖
+
+Y
+
+
+<
+∞
+,
+
+
+{\displaystyle \sup \nolimits _{T\in F}\|T(x)\|_{Y}<\infty ,}
+
+
+then
+
+
+
+
+
+sup
+
+T
+∈
+F
+
+
+‖
+T
+
+‖
+
+B
+(
+X
+,
+Y
+)
+
+
+<
+∞
+.
+
+
+{\displaystyle \sup \nolimits _{T\in F}\|T\|_{B(X,Y)}<\infty .}
+
+
+
+
+Spectral theorem[edit]
+Main article: Spectral theorem
+There are many theorems known as the spectral theorem, but one in particular has many applications in functional analysis.
+
+
+Spectral theorem[7] — Let 
+
+
+
+A
+
+
+{\displaystyle A}
+
+  be a bounded self-adjoint operator on a Hilbert space 
+
+
+
+H
+
+
+{\displaystyle H}
+
+. Then there is a measure space 
+
+
+
+(
+X
+,
+Σ
+,
+μ
+)
+
+
+{\displaystyle (X,\Sigma ,\mu )}
+
+ and a real-valued essentially bounded measurable function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and a unitary operator 
+
+
+
+U
+:
+H
+→
+
+L
+
+μ
+
+
+2
+
+
+(
+X
+)
+
+
+{\displaystyle U:H\to L_{\mu }^{2}(X)}
+
+ such that
+
+
+
+
+
+U
+
+∗
+
+
+T
+U
+=
+A
+
+
+{\displaystyle U^{*}TU=A}
+
+
+where T is the multiplication operator:
+
+
+
+
+[
+T
+φ
+]
+(
+x
+)
+=
+f
+(
+x
+)
+φ
+(
+x
+)
+.
+
+
+{\displaystyle [T\varphi ](x)=f(x)\varphi (x).}
+
+
+and 
+
+
+
+‖
+T
+‖
+=
+‖
+f
+
+‖
+
+∞
+
+
+
+
+{\displaystyle \|T\|=\|f\|_{\infty }}
+
+.
+
+
+This is the beginning of the vast research area of functional analysis called operator theory; see also the spectral measure.
+There is also an analogous spectral theorem for bounded normal operators on Hilbert spaces. The only difference in the conclusion is that now 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ may be complex-valued.
+
+Hahn–Banach theorem[edit]
+Main article: Hahn–Banach theorem
+The Hahn–Banach theorem is a central tool in functional analysis. It allows the extension of bounded linear functionals defined on a subspace of some vector space to the whole space, and it also shows that there are "enough" continuous linear functionals defined on every normed vector space to make the study of the dual space "interesting".
+
+
+Hahn–Banach theorem:[8] — If 
+
+
+
+p
+:
+V
+→
+
+R
+
+
+
+{\displaystyle p:V\to \mathbb {R} }
+
+ is a sublinear function, and 
+
+
+
+φ
+:
+U
+→
+
+R
+
+
+
+{\displaystyle \varphi :U\to \mathbb {R} }
+
+ is a linear functional on a linear subspace 
+
+
+
+U
+⊆
+V
+
+
+{\displaystyle U\subseteq V}
+
+ which is dominated by 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ on 
+
+
+
+U
+
+
+{\displaystyle U}
+
+; that is,
+
+
+
+
+φ
+(
+x
+)
+≤
+p
+(
+x
+)
+
+∀
+x
+∈
+U
+
+
+{\displaystyle \varphi (x)\leq p(x)\qquad \forall x\in U}
+
+
+then there exists a linear extension 
+
+
+
+ψ
+:
+V
+→
+
+R
+
+
+
+{\displaystyle \psi :V\to \mathbb {R} }
+
+ of 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ to the whole space 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ which is dominated by 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ on 
+
+
+
+V
+
+
+{\displaystyle V}
+
+; that is, there exists a linear functional 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ such that
+
+
+
+
+
+
+
+
+ψ
+(
+x
+)
+
+
+
+=
+φ
+(
+x
+)
+
+
+∀
+x
+∈
+U
+,
+
+
+
+
+ψ
+(
+x
+)
+
+
+
+≤
+p
+(
+x
+)
+
+
+∀
+x
+∈
+V
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\psi (x)&=\varphi (x)&\forall x\in U,\\\psi (x)&\leq p(x)&\forall x\in V.\end{aligned}}}
+
+
+
+
+Open mapping theorem[edit]
+Main article: Open mapping theorem (functional analysis)
+The open mapping theorem, also known as the Banach–Schauder theorem (named after Stefan Banach and Juliusz Schauder), is a fundamental result which states that if a continuous linear operator between Banach spaces is surjective then it is an open map. More precisely,[8]
+
+
+Open mapping theorem — If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ are Banach spaces and 
+
+
+
+A
+:
+X
+→
+Y
+
+
+{\displaystyle A:X\to Y}
+
+ is a surjective continuous linear operator, then 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is an open map (that is, if 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is an open set in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+, then 
+
+
+
+A
+(
+U
+)
+
+
+{\displaystyle A(U)}
+
+ is open in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+).
+
+
+The proof uses the Baire category theorem, and completeness of both 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is essential to the theorem. The statement of the theorem is no longer true if either space is just assumed to be a normed space, but is true if 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ are taken to be Fréchet spaces.
+
+Closed graph theorem[edit]
+Main article: Closed graph theorem
+The closed graph theorem states the following:
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a topological space and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is a compact Hausdorff space, then the graph of a linear map 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ from 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ to 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is closed if and only if 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is continuous.[9]
+
+Other topics[edit]
+Main article: List of functional analysis topics
+Foundations of mathematics considerations[edit]
+Most spaces considered in functional analysis have infinite dimension. To show the existence of a vector space basis for such spaces may require Zorn's lemma. However, a somewhat different concept, the Schauder basis, is usually more relevant in functional analysis. Many theorems require the Hahn–Banach theorem, usually proved using the axiom of choice, although the strictly weaker Boolean prime ideal theorem suffices. The Baire category theorem, needed to prove many important theorems, also requires a form of axiom of choice.
+
+Points of view[edit]
+Functional analysis includes the following tendencies:
+
+Abstract analysis. An approach to analysis based on topological groups, topological rings, and topological vector spaces.
+Geometry of Banach spaces contains many topics. One is combinatorial approach connected with Jean Bourgain; another is a characterization of Banach spaces in which various forms of the law of large numbers hold.
+Noncommutative geometry. Developed by Alain Connes, partly building on earlier notions, such as George Mackey's approach to ergodic theory.
+Connection with quantum mechanics. Either narrowly defined as in mathematical physics, or broadly interpreted by, for example, Israel Gelfand, to include most types of representation theory.
+See also[edit]
+List of functional analysis topics
+Spectral theory
+References[edit]
+
+
+^ Lawvere, F. William. "Volterra's functionals and covariant cohesion of space" (PDF). acsu.buffalo.edu. Proceedings of the May 1997 Meeting in Perugia. Archived from the original (PDF) on 2003-04-07. Retrieved 2018-06-12.
+
+^ Saraiva, Luís (October 2004). History of Mathematical Sciences. WORLD SCIENTIFIC. p. 195. doi:10.1142/5685. ISBN 978-93-86279-16-3.
+
+^ Bowers, Adam; Kalton, Nigel J. (2014). An introductory course in functional analysis. Springer Science & Business Media. p. 1.
+
+^ Kadets, Vladimir (2018). A Course in Functional Analysis and Measure Theory [КУРС ФУНКЦИОНАЛЬНОГО АНАЛИЗА]. Springer. pp. xvi.
+
+^ Riesz, Frigyes (1990). Functional analysis. Béla Szőkefalvi-Nagy, Leo F. Boron (Dover ed.). New York: Dover Publications. pp. 195–199. ISBN 0-486-66289-6. OCLC 21228994.
+
+^ Rynne, Bryan; Youngson, Martin A. (29 December 2007). Linear Functional Analysis. Springer. Retrieved December 30, 2023.
+
+^ Hall, Brian C. (2013-06-19). Quantum Theory for Mathematicians. Springer Science & Business Media. p. 147. ISBN 978-1-4614-7116-5.
+
+^ a b Rudin, Walter (1991). Functional Analysis. McGraw-Hill. ISBN 978-0-07-054236-5.
+
+^ Munkres, James R. (2000). Topology. Prentice Hall, Incorporated. p. 171. ISBN 978-0-13-181629-9.
+
+
+Further reading[edit]
+Aliprantis, C.D., Border, K.C.: Infinite Dimensional Analysis: A Hitchhiker's Guide, 3rd ed., Springer 2007, ISBN 978-3-540-32696-0. Online doi:10.1007/3-540-29587-9 (by subscription)
+Bachman, G., Narici, L.: Functional analysis, Academic Press, 1966. (reprint Dover Publications)
+Banach S. Theory of Linear Operations Archived 2021-10-28 at the Wayback Machine. Volume 38, North-Holland Mathematical Library, 1987, ISBN 0-444-70184-2
+Brezis, H.: Analyse Fonctionnelle, Dunod ISBN 978-2-10-004314-9 or ISBN 978-2-10-049336-4
+Conway, J. B.: A Course in Functional Analysis, 2nd edition, Springer-Verlag, 1994, ISBN 0-387-97245-5
+Dunford, N. and Schwartz, J.T.: Linear Operators, General Theory, John Wiley & Sons, and other 3 volumes, includes visualization charts
+Edwards, R. E.: Functional Analysis, Theory and Applications, Hold, Rinehart and Winston, 1965.
+Eidelman, Yuli, Vitali Milman, and Antonis Tsolomitis: Functional Analysis: An Introduction, American Mathematical Society, 2004.
+Friedman, A.: Foundations of Modern Analysis, Dover Publications, Paperback Edition, July 21, 2010
+Giles, J.R.: Introduction to the Analysis of Normed Linear Spaces, Cambridge University Press, 2000
+Hirsch F., Lacombe G. - "Elements of Functional Analysis", Springer 1999.
+Hutson, V., Pym, J.S., Cloud M.J.: Applications of Functional Analysis and Operator Theory, 2nd edition, Elsevier Science, 2005, ISBN 0-444-51790-1
+Kantorovitz, S.,Introduction to Modern Analysis, Oxford University Press, 2003,2nd ed.2006.
+Kolmogorov, A.N and Fomin, S.V.: Elements of the Theory of Functions and Functional Analysis, Dover Publications, 1999
+Kreyszig, E.: Introductory Functional Analysis with Applications, Wiley, 1989.
+Lax, P.: Functional Analysis, Wiley-Interscience, 2002, ISBN 0-471-55604-1
+Lebedev, L.P. and Vorovich, I.I.: Functional Analysis in Mechanics, Springer-Verlag, 2002
+Michel, Anthony N. and Charles J. Herget: Applied Algebra and Functional Analysis, Dover, 1993.
+Pietsch, Albrecht: History of Banach spaces and linear operators, Birkhäuser Boston Inc., 2007, ISBN 978-0-8176-4367-6
+Reed, M., Simon, B.: "Functional Analysis", Academic Press 1980.
+Riesz, F. and Sz.-Nagy, B.: Functional Analysis, Dover Publications, 1990
+Rudin, W.: Functional Analysis,  McGraw-Hill Science, 1991
+Saxe, Karen: Beginning Functional Analysis, Springer, 2001
+Schechter, M.: Principles of Functional Analysis, AMS, 2nd edition, 2001
+Shilov, Georgi E.: Elementary Functional Analysis, Dover, 1996.
+Sobolev, S.L.: Applications of Functional Analysis in Mathematical Physics, AMS, 1963
+Vogt, D., Meise, R.: Introduction to Functional Analysis, Oxford University Press, 1997.
+Yosida, K.: Functional Analysis, Springer-Verlag, 6th edition, 1980
+External links[edit]
+
+
+Functional analysis  at Wikipedia's sister projects
+
+Quotations from WikiquoteTextbooks from Wikibooks
+
+"Functional analysis", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Topics in Real and Functional Analysis by Gerald Teschl, University of Vienna.
+Lecture Notes on Functional Analysis by Yevgeny Vilensky, New York University.
+Lecture videos on functional analysis by Greg Morrow Archived 2017-04-01 at the Wayback Machine from University of Colorado Colorado Springs
+vteFunctional analysis (topics – glossary)Spaces
+Banach
+Besov
+Fréchet
+Hilbert
+Hölder
+Nuclear
+Orlicz
+Schwartz
+Sobolev
+Topological vector
+Properties
+Barrelled
+Complete
+Dual (Algebraic/Topological)
+Locally convex
+Reflexive
+Separable
+Theorems
+Hahn–Banach
+Riesz representation
+Closed graph
+Uniform boundedness principle
+Kakutani fixed-point
+Krein–Milman
+Min–max
+Gelfand–Naimark
+Banach–Alaoglu
+Operators
+Adjoint
+Bounded
+Compact
+Hilbert–Schmidt
+Normal
+Nuclear
+Trace class
+Transpose
+Unbounded
+Unitary
+Algebras
+Banach algebra
+C*-algebra
+Spectrum of a C*-algebra
+Operator algebra
+Group algebra of a locally compact group
+Von Neumann algebra
+Open problems
+Invariant subspace problem
+Mahler's conjecture
+Applications
+Hardy space
+Spectral theory of ordinary differential equations
+Heat kernel
+Index theorem
+Calculus of variations
+Functional calculus
+Integral operator
+Jones polynomial
+Topological quantum field theory
+Noncommutative geometry
+Riemann hypothesis
+Distribution (or Generalized functions)
+Advanced topics
+Approximation property
+Balanced set
+Choquet theory
+Weak topology
+Banach–Mazur distance
+Tomita–Takesaki theory
+
+ Category
+
+vteMajor topics in mathematical analysis
+Calculus: Integration
+Differentiation
+Differential equations
+ordinary
+partial
+stochastic
+Fundamental theorem of calculus
+Calculus of variations
+Vector calculus
+Tensor calculus
+Matrix calculus
+Lists of integrals
+Table of derivatives
+
+Real analysis
+Complex analysis
+Hypercomplex analysis (quaternionic analysis)
+Functional analysis
+Fourier analysis
+Least-squares spectral analysis
+Harmonic analysis
+P-adic analysis (P-adic numbers)
+Measure theory
+Representation theory
+Functions
+Continuous function
+Special functions
+Limit
+Series
+Infinity
+Mathematics portal
+vteMajor mathematics areas
+History
+Timeline
+Future
+Lists
+Glossary
+Foundations
+Category theory
+Information theory
+Mathematical logic
+Philosophy of mathematics
+Set theory
+Type theory
+Algebra
+Abstract
+Commutative
+Elementary
+Group theory
+Linear
+Multilinear
+Universal
+Homological
+Analysis
+Calculus
+Real analysis
+Complex analysis
+Hypercomplex analysis
+Differential equations
+Functional analysis
+Harmonic analysis
+Measure theory
+Discrete
+Combinatorics
+Graph theory
+Order theory
+Geometry
+Algebraic
+Analytic
+Arithmetic
+Differential
+Discrete
+Euclidean
+Finite
+Number theory
+Arithmetic
+Algebraic number theory
+Analytic number theory
+Diophantine geometry
+Topology
+General
+Algebraic
+Differential
+Geometric
+Homotopy theory
+Applied
+Engineering mathematics
+Mathematical biology
+Mathematical chemistry
+Mathematical economics
+Mathematical finance
+Mathematical physics
+Mathematical psychology
+Mathematical sociology
+Mathematical statistics
+Probability
+Statistics
+Systems science
+Control theory
+Game theory
+Operations research
+Computational
+Computer science
+Theory of computation
+Computational complexity theory
+Numerical analysis
+Optimization
+Computer algebra
+Related topics
+Mathematicians
+lists
+Informal mathematics
+Films about mathematicians
+Recreational mathematics
+Mathematics and art
+Mathematics education
+
+ Mathematics portal
+ Category
+ Commons
+ WikiProject
+
+Authority control databases International
+FAST
+National
+Spain
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Functional_analysis&oldid=1225702248"
+Category: Functional analysisHidden categories: Articles with short descriptionShort description is different from WikidataArticles to be expanded from August 2020All articles to be expandedArticles using small message boxesWebarchive template wayback linksPages using Sister project links with hidden wikidataArticles with FAST identifiersArticles with BNE identifiersArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with NKC identifiers
+
+
+
+
+
+
+ This page was last edited on 26 May 2024, at 04:53 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

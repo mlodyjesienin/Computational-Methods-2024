@@ -1,0 +1,181 @@
+
+
+
+
+
+
+Computational Science & Numerical Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Contact
+Site Map
+
+
+
+
+
+AboutAbout UsWelcomeAwardsHistorySimons BuildingDirectionsEmploymentContact UsPeopleAll PeopleFacultyInstructorsPostdocsResearchersGraduate StudentsStaffVisitorsResearchResearchPureAppliedGraduate ResearchUndergraduate ResearchHigh School ProgramsAcademicsAcademicsAcademic ServicesUndergraduate ProgramGraduate ProgramProspective UndergradsClass ScheduleOnline ClassesServicesServicesOrientationVisitor PoliciesGrant HelpInternalComputer HelpRoom ReservationsReimbursementsCommunityCommunityDiversityWomen in MathSponsorsGivingVisiting CommitteeNews & EventsNews OverviewNews ArchiveMath CalendarSeminarsConferencesIntegral 
+
+
+
+x
+
+
+Search
+
+
+
+
+AboutAbout UsWelcomeAwardsHistoryBrief HistoryFactsPast FacultyPhotosIn MemoriamSimons BuildingAboutSlideshowConstruction PhotosCompleted PhotosDirectionsEmploymentContact UsPeopleAll PeopleFacultyFacultyProfessorsAssociate ProfessorsAssistant ProfessorsEmeriti ProfessorsVisiting ProfessorsInstructorsPostdocsResearchersGraduate StudentsStaffVisitorsResearchResearchPurePureAlgebra & Algebraic GeometryAlgebraic TopologyAnalysis & PDEsGeometry & TopologyMathematical Logic & FoundationsNumber TheoryProbability & StatisticsRepresentation TheoryAppliedAppliedCombinatoricsComputational BiologyPhysical Applied MathematicsComputational Science & Numerical AnalysisTheoretical Computer ScienceMathematics of DataGraduate ResearchGraduate ResearchThesis DefensesUndergraduate ResearchUndergraduate ResearchSPURSPURPast ProjectsLecture SeriesRogers PrizeDRPUROPUROP+UROP+PapersMSRPHigh School ProgramsHigh School ProgramsPRIMESPRIMESWhy Choose PRIMESAreas of ResearchMIT PRIMESMIT PRIMESHow to ApplyPRIMES-USAPRIMES-USAApplyCrowdMathPRIMES CirclePRIMES CircleStudents SayCircle MentorsPapersApplyYulia's DreamYulia's Dream2023 ConferenceResearch PapersMedia Reports√MathROOTSPRIMES STEPPRIMES-SwitzerlandReading ListAnnual ConferenceAnnual Conference2023202220212020201920182017201620152014201320122011Research PapersHonors and AwardsResponse to COVIDAdvisory BoardProgram StaffMentorsNamed MentorshipsAlumniTestimonialsTestimonialsParentsDevadas InterviewMathROCs Q&ASponsorshipHow to ApplyOther ProgramsContactRSIRSIPast ProjectsLecture SeriesAcademicsAcademicsAcademic ServicesAcademic ServicesForms and RequestsLearning CenterStudent JobsUndergraduate ProgramUndergraduate ProgramMath MajorMath MajorCourse 18Course 18GeneralAppliedPureCourse 18CCI-MAdvisingMath MinorFirst Year SubjectsFirst Year SubjectsCalculusAdvanced PlacementTransfer CreditTransfer CreditPre-approved Summer SubjectsAdvanced StandingSubject GoalsSubjects OverviewSubjects Overview18.0x18.1x18.2x & 18.3x18.4x18.5x18.6x18.7x18.8x18.9xSubject ListingsRoadmapsOpportunitiesOpportunitiesInternational Study and InternshipsMCM CompetitionPutnam CompetitionSummer ProgramsUndergraduate Math AssociationUSWIMCoMMCareersCareersPreparing for Non-Academic JobsPreparing for Grad SchoolGraduate ProgramGraduate ProgramAdmissionAdmissionFAQFinancial SupportFinancial SupportPayroll/Visa DetailsFunding SourcesFellowshipsSummer SupportSummer SupportMentorshipsSummer TeachingTravel SupportTimelineTimelineOrientationCourseworkPlan of StudyQualifying ExamsExternal Thesis Advisor InfoTeacher TrainingThesis ProposalGraduation DeadlinesThesis DefenseAfter Graduate SchoolProspective UndergradsClass ScheduleOnline ClassesServicesServicesOrientationVisitor PoliciesVisitor PoliciesVisiting StudentsGrant HelpGrant HelpFunding OpportunitiesProposal Request FormInternalInternal ResourcesMath Department FormsUndergrad Office ResourcesData AdministrationInternal ArchivesDepartment PoliciesComputer HelpHours & ContactWorkstationsEquipmentPrintingNew UsersNew UsersUnix TutorialPoliciesRemote AccessRemote AccessSSH, SFTP and SCPWebsitesCreating WebsitesWeb AccessibilityCourse WebsitesMath AccountMath AccountMath EmailMath EmailMath WebmailThunderbirdOutlookGmailPineMac MailSpam & VirusesFAQFAQFAQGeneral QuestionsUsing LinuxLaptopsAthenaMailing ListsRoom ReservationsReimbursementsCommunityCommunityDiversityWomen in MathSponsorsGivingGivingDonor ProfilesVisiting CommitteeNews & EventsNews OverviewNews ArchiveMath CalendarSeminarsSeminarsSimons LecturesConferencesIntegral 
+
+
+ResearchPurePureAlgebra & Algebraic GeometryAlgebraic TopologyAnalysis & PDEsGeometry & TopologyMathematical Logic & FoundationsNumber TheoryProbability & StatisticsRepresentation TheoryAppliedAppliedCombinatoricsComputational BiologyPhysical Applied MathematicsComputational Science & Numerical AnalysisTheoretical Computer ScienceMathematics of DataGraduate ResearchGraduate ResearchThesis DefensesUndergraduate ResearchUndergraduate ResearchSPURSPURPast ProjectsLecture SeriesRogers PrizeDRPUROPUROP+UROP+PapersMSRPHigh School ProgramsHigh School ProgramsPRIMESPRIMESWhy Choose PRIMESAreas of ResearchMIT PRIMESMIT PRIMESHow to ApplyPRIMES-USAPRIMES-USAApplyCrowdMathPRIMES CirclePRIMES CircleStudents SayCircle MentorsPapersApplyYulia's DreamYulia's Dream2023 ConferenceResearch PapersMedia Reports√MathROOTSPRIMES STEPPRIMES-SwitzerlandReading ListAnnual ConferenceAnnual Conference2023202220212020201920182017201620152014201320122011Research PapersHonors and AwardsResponse to COVIDAdvisory BoardProgram StaffMentorsNamed MentorshipsAlumniTestimonialsTestimonialsParentsDevadas InterviewMathROCs Q&ASponsorshipHow to ApplyOther ProgramsContactRSIRSIPast ProjectsLecture Series 
+
+Computational Science & Numerical Analysis
+Computational science is a key area related to physical mathematics.  The problems 
+of interest in physical mathematics often require computations for their resolution. 
+Conversely, the development of efficient computational algorithms often requires an 
+understanding of the basic properties of the solutions to the equations to be solved 
+numerically.  For example, the development of methods for the solution of hyperbolic 
+equations (e.g. shock capturing methods in, say, gas-dynamics) has been characterized 
+by a very close interaction between theoretical, computational, experimental 
+scientists, and engineers.
+Department Members in This Field
+Faculty
+
+Laurent Demanet
+Applied analysis, Scientific Computing
+
+Alan Edelman
+Parallel Computing, Numerical Linear Algebra, Random Matrices
+
+Steven Johnson
+Waves, PDEs, Scientific Computing
+
+Pablo Parrilo
+Optimization, Control Theory, Computational Algebraic Geometry, Applied Mathematics 
+
+Gilbert Strang
+Numerical Analysis, Partial Differential Equations
+
+John Urschel
+Matrix Analysis, Numerical Linear Algebra, Spectral Graph Theory
+
+
+Instructors & Postdocs
+
+Pengning Chao
+Scientific computing, Nanophotonics, Inverse problems, Fundamental limits
+
+Ziang Chen
+applied analysis, applied probability, statistics, optimization, machine learning
+
+Andrew Horning
+Numerical Analysis, Scientific Computing, Large-Scale And Infinite-Dimensional Spectral Problems
+
+Adam Kay
+Hydrodynamic Quantum Analogues
+
+
+Researchers & Visitors
+
+Keaton Burns
+PDEs, Spectral Methods, Fluid Dynamics
+
+Raphaël Pestourie
+Surrogate Models, AI, Electromagnetic Design, End-to-end Optimization, Inverse Design
+
+
+Graduate Students*
+
+Rodrigo Arrieta Candia
+Numerical methods for PDEs, Numerical Analysis, Scientific Computing, Computational Electromagnetism
+
+Mo Chen
+Optimization, Scientific Computing
+
+Max Daniels
+High-dimensional statistics, optimization, sampling algorithms, machine learning
+
+Sarah Greer
+Imaging, inverse problems, signal processing
+
+Songchen Tan
+computational science, numerical analysis, differentiable programming
+
+
+*Only a partial list of graduate students
+
+ 
+
+
+
+
+Massachusetts Institute of Technology
+                            Department of Mathematics
+                            Headquarters Office
+                            Simons Building (Building 2), Room 106
+                            77 Massachusetts Avenue
+                            Cambridge, MA 02139-4307
+                        
+Campus Map
+(617) 253-4381
+
+
+Website Questions:math_web_help@mit.edu
+Undergraduate Admissions:admissions@mit.edu
+Graduate Admissions:gradadmissions@mit.edu
+Facilities:building2@mit.edu
+
+
+Accessibility
+Emergencies
+
+
+
+
+
+Instagram
+Facebook
+X
+Youtube
+
+
+
+ 
+

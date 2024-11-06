@@ -1,0 +1,818 @@
+
+
+
+
+Outline of category theory - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Essence of category theory
+
+
+
+
+
+
+
+
+2
+Branches of category theory
+
+
+
+
+
+
+
+
+3
+Specific categories
+
+
+
+
+
+
+
+
+4
+Objects
+
+
+
+
+
+
+
+
+5
+Morphisms
+
+
+
+
+
+
+
+
+6
+Functors
+
+
+
+
+
+
+
+
+7
+Limits
+
+
+
+
+
+
+
+
+8
+Additive structure
+
+
+
+
+
+
+
+
+9
+Dagger categories
+
+
+
+
+
+
+
+
+10
+Monoidal categories
+
+
+
+
+
+
+
+
+11
+Cartesian closed category
+
+
+
+
+
+
+
+
+12
+Structure
+
+
+
+
+
+
+
+
+13
+Topoi, toposes
+
+
+
+
+
+
+
+
+14
+History of category theory
+
+
+
+
+
+
+
+
+15
+Persons influential in the field of category theory
+
+
+
+
+Toggle Persons influential in the field of category theory subsection
+
+
+
+
+
+15.1
+Category theory scholars
+
+
+
+
+
+
+
+
+
+
+16
+See also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Outline of category theory
+
+
+
+Add languages
+
+
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Overview of and topical guide to category theory
+The following outline is provided as an overview of and guide to category theory, the area of study in mathematics that examines in an abstract way the properties of particular mathematical concepts, by formalising them as collections of objects and arrows (also called morphisms, although this term also has a specific, non category-theoretical sense), where these collections satisfy certain basic conditions.  Many significant areas of mathematics can be formalised as categories, and the use of category theory allows many intricate and subtle mathematical results in these fields to be stated, and proved, in a much simpler way than without the use of categories.
+
+
+Essence of category theory[edit]
+Category
+Functor
+Natural transformation
+Branches of category theory[edit]
+Homological algebra
+Diagram chasing
+Topos theory
+Enriched category theory
+Higher category theory
+Categorical logic
+Applied category theory
+Specific categories[edit]
+Category of sets
+Concrete category
+Category of vector spaces
+Category of graded vector spaces
+Category of chain complexes
+Category of finite dimensional Hilbert spaces
+Category of sets and relations
+Category of topological spaces
+Category of metric spaces
+Category of preordered sets
+Category of groups
+Category of abelian groups
+Category of rings
+Category of magmas
+Objects[edit]
+Initial object
+Terminal object
+Zero object
+Subobject
+Group object
+Magma object
+Natural number object
+Exponential object
+Morphisms[edit]
+Main article: Morphism
+Epimorphism
+Monomorphism
+Zero morphism
+Normal morphism
+Dual (category theory)
+Groupoid
+Image (category theory)
+Coimage
+Commutative diagram
+Cartesian morphism
+Slice category
+Functors[edit]
+Main article: Functor
+Isomorphism of categories
+Natural transformation
+Equivalence of categories
+Subcategory
+Faithful functor
+Full functor
+Forgetful functor
+Yoneda lemma
+Representable functor
+Functor category
+Adjoint functors
+Galois connection
+Pontryagin duality
+Affine scheme
+Monad (category theory)
+Comonad
+Combinatorial species
+Exact functor
+Derived functor
+Dominant functor
+Enriched functor
+Kan extension of a functor
+Hom functor
+Limits[edit]
+Main article: Limit (category theory)
+Product (category theory)
+Equaliser (mathematics)
+Kernel (category theory)
+Pullback (category theory)/fiber product
+Inverse limit
+Pro-finite group
+Colimit
+Coproduct
+Coequalizer
+Cokernel
+Pushout (category theory)
+Direct limit
+Biproduct
+Direct sum
+Additive structure[edit]
+Preadditive category
+Additive category
+Pre-Abelian category
+Abelian category
+Exact sequence
+Exact functor
+Snake lemma
+Nine lemma
+Five lemma
+Short five lemma
+Mitchell's embedding theorem
+Injective cogenerator
+Derived category
+Triangulated category
+Model category
+2-category
+Dagger categories[edit]
+Main article: Dagger category
+Dagger symmetric monoidal category
+Dagger compact category
+Strongly ribbon category
+Monoidal categories[edit]
+Main article: Monoidal category
+Closed monoidal category
+Braided monoidal category
+Cartesian closed category[edit]
+Topos
+Category of small categories
+Structure[edit]
+Main article: Structure (category theory)
+Semigroupoid
+Comma category
+Localization of a category
+Enriched category
+Bicategory
+Topoi, toposes[edit]
+Sheaf
+Gluing axiom
+Descent (category theory)
+Grothendieck topology
+Introduction to topos theory
+Subobject classifier
+Pointless topology
+Heyting algebra
+History of category theory[edit]
+History of category theory
+Persons influential in the field of category theory[edit]
+Category theory scholars[edit]
+Saunders Mac Lane
+Samuel Eilenberg
+Max Kelly
+William Lawvere
+André Joyal
+See also[edit]
+
+Mathematics portal
+Abstract nonsense
+Glossary of category theory
+vteCategory theoryKey conceptsKey concepts
+Category
+Abelian
+Additive
+Concrete
+Pre-abelian
+Preadditive
+Bicategory
+Adjoint functors
+CCC
+Commutative diagram
+End
+Exponential
+Functor
+Kan extension
+Morphism
+Natural transformation
+Universal property
+Universal constructionsLimits
+Terminal objects
+Products
+Equalizers
+Kernels
+Pullbacks
+Inverse limit
+Colimits
+Initial objects
+Coproducts
+Coequalizers
+Cokernels and quotients
+Pushout
+Direct limit
+Algebraic categories
+Sets
+Relations
+Magmas
+Groups
+Abelian groups
+Rings (Fields)
+Modules (Vector spaces)
+Constructions on categories
+Free category
+Functor category
+Kleisli category
+Opposite category
+Quotient category
+Product category
+Comma category
+Subcategory
+Higher category theory
+Key concepts
+Categorification
+Enriched category
+Higher-dimensional algebra
+Homotopy hypothesis
+Model category
+Simplex category
+String diagram
+Topos
+n-categoriesWeak n-categories
+Bicategory (pseudofunctor)
+Tricategory
+Tetracategory
+Kan complex
+∞-groupoid
+∞-topos
+Strict n-categories
+2-category (2-functor)
+3-category
+Categorified concepts
+2-group
+2-ring
+En-ring
+(Traced)(Symmetric) monoidal category
+n-group
+n-monoid
+
+
+ Category
+ Outline
+ Glossary
+
+vteWikipedia outlinesGeneral reference
+Culture and the arts
+Geography and places
+Health and fitness
+History and events
+Mathematics and logic
+Natural and physical sciences
+People and self
+Philosophy and thinking
+Religion and belief systems
+Society and social sciences
+Technology and applied sciences
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Outline_of_category_theory&oldid=1216176419"
+Categories: Outlines of mathematics and logicOutlinesMathematics-related listsCategory theoryHidden categories: Articles with short descriptionShort description matches WikidataArticles with hatnote templates targeting a nonexistent page
+
+
+
+
+
+
+ This page was last edited on 29 March 2024, at 15:20 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

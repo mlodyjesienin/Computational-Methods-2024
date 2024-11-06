@@ -1,0 +1,1018 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determinants and Matrices (Definition, Types, Properties & Example)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login Study MaterialsNCERT SolutionsNCERT Solutions For Class 12 NCERT Solutions For Class 12 PhysicsNCERT Solutions For Class 12 ChemistryNCERT Solutions For Class 12 BiologyNCERT Solutions For Class 12 MathsNCERT Solutions Class 12 AccountancyNCERT Solutions Class 12 Business StudiesNCERT Solutions Class 12 EconomicsNCERT Solutions Class 12 Accountancy Part 1NCERT Solutions Class 12 Accountancy Part 2NCERT Solutions Class 12 Micro-EconomicsNCERT Solutions Class 12 CommerceNCERT Solutions Class 12 Macro-EconomicsNCERT Solutions For Class 11 NCERT Solutions For Class 11 PhysicsNCERT Solutions For Class 11 ChemistryNCERT Solutions For Class 11 BiologyNCERT Solutions For Class 11 MathsNCERT Solutions Class 11 AccountancyNCERT Solutions Class 11 Business StudiesNCERT Solutions Class 11 EconomicsNCERT Solutions Class 11 StatisticsNCERT Solutions Class 11 CommerceNCERT Solutions For Class 10 NCERT Solutions for Class 10 Social ScienceNCERT Solutions for Class 10 Maths NCERT Solutions for Class 10 Maths Chapter 1NCERT Solutions for Class 10 Maths Chapter 2NCERT Solutions for Class 10 Maths Chapter 3NCERT Solutions for Class 10 Maths Chapter 4NCERT Solutions for Class 10 Maths Chapter 5NCERT Solutions for Class 10 Maths Chapter 6NCERT Solutions for Class 10 Maths Chapter 7NCERT Solutions for Class 10 Maths Chapter 8NCERT Solutions for Class 10 Maths Chapter 9NCERT Solutions for Class 10 Maths Chapter 10NCERT Solutions for Class 10 Maths Chapter 11NCERT Solutions for Class 10 Maths Chapter 12NCERT Solutions for Class 10 Maths Chapter 13NCERT Solutions for Class 10 Maths Chapter 14NCERT Solutions for Class 10 Maths Chapter 15MoreNCERT Solutions for Class 10 Science NCERT Solutions for Class 10 Science Chapter 1NCERT Solutions for Class 10 Science Chapter 2NCERT Solutions for Class 10 Science Chapter 3NCERT Solutions for Class 10 Science Chapter 4NCERT Solutions for Class 10 Science Chapter 5NCERT Solutions for Class 10 Science Chapter 6NCERT Solutions for Class 10 Science Chapter 7NCERT Solutions for Class 10 Science Chapter 8NCERT Solutions for Class 10 Science Chapter 9NCERT Solutions for Class 10 Science Chapter 10NCERT Solutions for Class 10 Science Chapter 11NCERT Solutions for Class 10 Science Chapter 12NCERT Solutions for Class 10 Science Chapter 13NCERT Solutions for Class 10 Science Chapter 14NCERT Solutions for Class 10 Science Chapter 15NCERT Solutions for Class 10 Science Chapter 16MoreNCERT Solutions For Class 9 NCERT Solutions For Class 9 Social ScienceNCERT Solutions For Class 9 Maths NCERT Solutions For Class 9 Maths Chapter 1NCERT Solutions For Class 9 Maths Chapter 2NCERT Solutions For Class 9 Maths Chapter 3NCERT Solutions For Class 9 Maths Chapter 4NCERT Solutions For Class 9 Maths Chapter 5NCERT Solutions For Class 9 Maths Chapter 6NCERT Solutions For Class 9 Maths Chapter 7NCERT Solutions For Class 9 Maths Chapter 8NCERT Solutions For Class 9 Maths Chapter 9NCERT Solutions For Class 9 Maths Chapter 10NCERT Solutions For Class 9 Maths Chapter 11NCERT Solutions For Class 9 Maths Chapter 12NCERT Solutions For Class 9 Maths Chapter 13NCERT Solutions For Class 9 Maths Chapter 14NCERT Solutions For Class 9 Maths Chapter 15MoreNCERT Solutions For Class 9 Science NCERT Solutions for Class 9 Science Chapter 1NCERT Solutions for Class 9 Science Chapter 2NCERT Solutions for Class 9 Science Chapter 3NCERT Solutions for Class 9 Science Chapter 4NCERT Solutions for Class 9 Science Chapter 5NCERT Solutions for Class 9 Science Chapter 6NCERT Solutions for Class 9 Science Chapter 7NCERT Solutions for Class 9 Science Chapter 8NCERT Solutions for Class 9 Science Chapter 9NCERT Solutions for Class 9 Science Chapter 10NCERT Solutions for Class 9 Science Chapter 11NCERT Solutions for Class 9 Science Chapter 12NCERT Solutions for Class 9 Science Chapter 13NCERT Solutions for Class 9 Science Chapter 14NCERT Solutions for Class 9 Science Chapter 15MoreNCERT Solutions For Class 8 NCERT Solutions For Class 8 MathsNCERT Solutions For Class 8 ScienceNCERT Solutions for Class 8 Social ScienceNCERT Solutions for Class 8 EnglishNCERT Solutions For Class 7 NCERT Solutions For Class 7 MathsNCERT Solutions For Class 7 ScienceNCERT Solutions for Class 7 Social ScienceNCERT Solutions for Class 7 EnglishNCERT Solutions For Class 6 NCERT Solutions For Class 6 MathsNCERT Solutions For Class 6 ScienceNCERT Solutions For Class 6 Social ScienceNCERT Solutions for Class 6 EnglishNCERT Solutions For Class 5 NCERT Solutions For Class 5 MathsNCERT Solutions For Class 5 EVSNCERT Solutions For Class 4 NCERT Solutions For Class 4 MathsNCERT Solutions For Class 4 EVSNCERT Solutions For Class 3 NCERT Solutions For Class 3 MathsNCERT Solutions For Class 3 EVSNCERT Solutions For Class 3 EnglishNCERT Solutions For Class 2 NCERT Solutions For Class 2 MathsNCERT Solutions For Class 2 EnglishNCERT Solutions For Class 1 NCERT Solutions For Class 1 MathsNCERT Solutions For Class 1 EnglishNCERTNCERT SyllabusClassesClass 1 - 3Class 4 - 5Class 6 - 10CBSENCERT Books NCERT Books for Class 5NCERT Books Class 6NCERT Books for Class 7NCERT Books for Class 8NCERT Books for Class 9NCERT Books for Class 10NCERT Books for Class 11NCERT Books for Class 12NCERT Exemplar NCERT Exemplar Class 8NCERT Exemplar Class 9NCERT Exemplar Class 10NCERT Exemplar Class 11NCERT Exemplar Class 12RD Sharma RD Sharma Class 6 SolutionsRD Sharma Class 7 SolutionsRD Sharma Class 8 SolutionsRD Sharma Class 9 SolutionsRD Sharma Class 10 SolutionsRD Sharma Class 11 SolutionsRD Sharma Class 12 SolutionsPHYSICS MechanicsOpticsThermodynamicsElectromagnetismFamous PhysicistsUnit ConversionKirchhoff's LawsFaraday's LawLaws of MotionRefraction of LightMaxwell's EquationElectrostaticsBernoulli's PrincipleProjectile MotionElectric ChargePhysics SymbolsMoreCHEMISTRY Periodic TableStereochemistryOrganic CompoundsInorganic ChemistryQuantum NumbersAtomic Mass of ElementsPeriodic Properties of Elements118 Elements and Their SymbolsBalancing Chemical EquationsSalt AnalysisAcids, Bases, and SaltsBenzeneOrganometallic CompoundsAtomic Number and Mass NumberMoreMATHS Pythagoras TheoremPrime NumbersProbability and StatisticsFractionsSetsTrigonometric FunctionsRelations and FunctionsSequence and SeriesMultiplication TablesDeterminants and MatricesProfit And LossPolynomial EquationsDividing FractionsSocial Science Manufacturing IndustriesSahara DesertAmazon RiverIndian TribesMughal DynastyMonuments of India ListJudiciaryAutocratic MeaningFundamental Rights of IndiaUnion Territories of IndiaCapitals of Seven Sisters of IndiaMost Populated States In IndiaBIOLOGY MicrobiologyEcologyZoologyPhotosynthesisFORMULAS Maths FormulasAlgebra FormulasTrigonometry FormulasGeometry FormulasCBSE Sample Papers CBSE Sample Papers for Class 6CBSE Sample Papers for Class 7CBSE Sample Papers for Class 8CBSE Sample Papers for Class 9CBSE Sample Papers for Class 10CBSE Sample Papers for Class 11CBSE Sample Papers for Class 12CBSE Previous Year Question Paper CBSE Previous Year Question Papers Class 10CBSE Previous Year Question Papers Class 12Lakhmir Singh Solutions Lakhmir Singh Class 9 SolutionsLakhmir Singh Class 10 SolutionsLakhmir Singh Class 8 SolutionsCBSE Notes Class 6 CBSE NotesClass 7 CBSE NotesClass 8 CBSE NotesClass 9 CBSE NotesClass 10 CBSE NotesClass 11 CBSE NotesClass 12 CBSE NotesCBSE Revision Notes CBSE Class 9 Revision NotesCBSE Class 10 Revision NotesCBSE Class 11 Revision NotesCBSE Class 12 Revision NotesCBSE Extra Questions CBSE Class 8 Maths Extra QuestionsCBSE Class 8 Science Extra QuestionsCBSE Class 9 Maths Extra QuestionsCBSE Class 9 Science Extra QuestionsCBSE Class 10 Maths Extra QuestionsCBSE Class 10 Science Extra QuestionsCBSE Class Class 3Class 4Class 5Class 6Class 7Class 8Class 9Class 10Class 11Class 12Textbook SolutionsCalculatorsBasic Calculators Percentage CalculatorLoan CalculatorEmi CalculatorFraction CalculatorAlgebra CalculatorFactoring CalculatorDistance CalculatorPercentage Increase CalculatorSquare Footage CalculatorSquare Root CalculatorPercentage Change CalculatorRatio CalculatorTriangle CalculatorFractions CalculatorArea CalculatorPercentage Difference CalculatorPercentage Off CalculatorScientific Notation CalculatorSimple Interest CalculatorEquation CalculatorLcm CalculatorRounding CalculatorLong Division CalculatorMixed Fraction CalculatorMoreMaths Calculators Compound Interest CalculatorIntegral CalculatorDerivative CalculatorGraphing CalculatorStandard Deviation CalculatorLimit CalculatorBinary CalculatorMatrix CalculatorCp CalculatorDiscount CalculatorAntiderivative CalculatorExponents CalculatorProbability CalculatorSample Size CalculatorSlope CalculatorArea Of A Circle CalculatorCircumference CalculatorCombination CalculatorInverse Matrix CalculatorMod CalculatorPythagorean Theorem CalculatorConfidence Interval CalculatorDouble Integral CalculatorMatrix Multiplication CalculatorInverse Function CalculatorVolume CalculatorVolume Of A Cylinder CalculatorZ Score CalculatorVariance CalculatorMorePhysics Calculators Power CalculatorVoltage Drop CalculatorChemistry Calculators Molarity CalculatorCommerceClass 11 Commerce Syllabus Class 11 Accountancy SyllabusClass 11 Business Studies SyllabusClass 11 Economics SyllabusClass 12 Commerce Syllabus Class 12 Accountancy SyllabusClass 12 Business Studies SyllabusClass 12 Economics SyllabusCommerce Sample Papers Class 11 Commerce Sample PapersClass 12 Commerce Sample PapersTS Grewal Solutions TS Grewal Solutions Class 12 AccountancyTS Grewal Solutions Class 11 AccountancyStatement Of Cash FlowsWhat Is EntrepreneurshipConsumer ProtectionWhat Is A Fixed AssetWhat Is A Balance SheetWhat Is Fiscal DeficitWhat Are Equity SharesDifference Between Selling And MarketingICSEICSE Sample PapersICSE Question PapersML Aggarwal Solutions ML Aggarwal Solutions Class 10 MathsML Aggarwal Solutions Class 9 MathsML Aggarwal Solutions Class 8 MathsML Aggarwal Solutions Class 7 MathsML Aggarwal Solutions Class 6 MathsSelina Solutions Selina Solution for Class 8Selina Solutions for Class 10Selina Solution for Class 9Frank Solutions Frank Solutions for Class 10 MathsFrank Solutions for Class 9 MathsICSE Class ICSE Class 6ICSE Class 7ICSE Class 8ICSE Class 9ICSE Class 10ISC Class 11ISC Class 12IASIAS ExamUPSC ExamCivil Service ExamUPSC SyllabusIAS TopperFree IAS PrepUPSC Results UPSC Prelims ResultUPSC Mains ResultCurrent Affairs List of Current Affairs ArticlesList Of IAS ArticlesPublic Service Commission KPSC KAS ExamUPPSC PCS ExamMPSC ExamRPSC RAS ExamTNPSC Group 1APPSC Group 1BPSC ExamWBPSC ExamMPPSC ExamJPSC ExamGPSC ExamUPSC Question Papers UPSC Prelims 2022 Question PaperUPSC Prelims 2022 Answer KeyIAS Coaching IAS Coaching BangaloreIAS Coaching DelhiIAS Coaching ChennaiIAS Coaching HyderabadIAS Coaching MumbaiBest IAS coaching ChennaiBest IAS coaching BangaloreBest IAS coaching DelhiIAS QuestionsJEEJEE 2024NMTC 2023 Question PapersNMTC 2023 Sub Junior DivisionNMTC 2023 Primary DivisionNMTC 2023 Junior DivisionJEE 2023JEE Test SeriesJEE Advanced 2023JEE Advanced 2023 Question PaperJEE Advanced 2023 Paper AnalysisJEE Advanced 2022 Question PaperJEE Advanced Question PapersJEE Advanced Answer KeysJEE Advanced ResultsJEE Advanced Marks vs RankJEE Advanced Rank PredictorJEE Advanced Paper AnalysisJEE Main 2024JEE Main 2024 Question Papers with AnswersJEE Main 2024 Mock TestJEE Main 2023 Question PapersJEE Main Toppers List 2023JEE Main 2023 Paper AnalysisJEE Main 2022 Question PapersJEE Main 2022 Paper AnalysisJEE Main Rank PredictorJEE Main ResultsJEE Sample PaperJEE Question PaperJEE Main Answer KeyBinomial TheoremJEE ArticlesQuadratic EquationJEE QuestionsNEETNEET 2024NEET 2023NEET Registration 2023NEET Admit CardNEET Test SeriesNEET 2023 Question PaperNEET 2023 Answer KeyNEET 2023 Question Paper AnalysisNEET 2022 Question PaperNEET 2022 Answer KeyNEET 2022 Question paper analysisNEET 2022 ResultsNEET Eligibility CriteriaNEET Question PapersNEET Sample PapersNEET PreparationNEET SyllabusNEET QuestionsGATE 2024GATEGATE Previous Year Question PapersGATE Syllabus GATE Syllabus For CSEGATE Syllabus For ECEGATE Syllabus For Civil EngineeringGATE Syllabus For Mechanical EngineeringGATE Aptitude SyllabusGATE Study Material GATE Notes For CSEGATE Difference Between ArticlesGATE FAQsOlympiad ExamsMaths OlympiadScience OlympiadEntrance Exams In IndiaCOMED-K COMED-K SyllabusCOMED-K Previous Year Question PapersCOMED-K Sample PapersKCET KCET SyllabusKCET Question PapersWBJEE WBJEE SyllabusWBJEE Question PapersGUJCET GUJCET SyllabusGUJCET Question PapersKVPY KVPY SyllabusMHT-CET MHT-CET SyllabusNSTSE NSTSE SyllabusNTSE NTSE SyllabusNTSE Question PaperBCECE BCECE SyllabusUPSEE UPSEE SyllabusGCETHPCETKEAMState BoardsGSEB GSEB SyllabusGSEB Question PaperGSEB Sample PaperGSEB BooksMSBSHSE MSBSHSE SyllabusMSBSHSE TextbooksMSBSHSE Sample PapersMSBSHSE Question PapersAP Board APSCERT BooksAP SSC SyllabusAP 1st Year SyllabusAP 2nd Year SyllabusMP Board MP Board SyllabusMP Board Sample PapersMP Board TextbooksAssam Board Assam Board SyllabusAssam Board TextbooksAssam Board Sample PapersBSEB Bihar Board SyllabusBihar Board TextbooksBihar Board Question PapersBihar Board Model PapersBSE Odisha Odisha Board SyllabusOdisha Board Sample PapersPSEB PSEB SyllabusPSEB TextbooksPSEB Question PapersRBSE Rajasthan Board SyllabusRBSE TextbooksRBSE Question PapersHPBOSE HPBOSE SyllabusHPBOSE TextbooksHPBOSE Question PapersJKBOSE JKBOSE SyllabusJKBOSE Sample PapersJKBOSE Exam PatternTN Board TN Board SyllabusTN Board Question PapersTN Board Sample PapersSamacheer Kalvi BooksJAC JAC SyllabusJAC TextbooksJAC Question PapersTelangana Board Telangana Board SyllabusTelangana Board TextbooksTelangana Board Question PapersKSEEB KSEEB SyllabusKSEEB Model Question PapersKBPE KBPE SyllabusKBPE TextbooksKBPE Question PapersUPMSP UP Board SyllabusUP Board BooksUP Board Question PapersWest Bengal Board West Bengal Board SyllabusWest Bengal Board TextBooksWest Bengal Board Question PapersUBSETBSEGoa BoardNBSECGBSEMBSEMeghalaya BoardManipur BoardHaryana BoardNIOSNIOS A Level Syllabus A Level EVS SyllabusA Level Basic Computer Skill SyllabusA Level Maths SyllabusNIOS B Level Syllabus B Level EVS SyllabusB Level Computer Skill SyllabusB Level Maths SyllabusNIOS C Level Syllabus C Level Social Science SyllabusC Level Science SyllabusC Level Maths SyllabusC Level Basic Computer Skills SyllabusC Level English Language SyllabusNIOS Secondary Course Secondary Course Group B SyllabusSecondary Course Group A SyllabusNIOS Senior Secondary Course Senior Secondary Group F SyllabusSenior Secondary Group E SyllabusSenior Secondary Group D SyllabusSenior Secondary Group C SyllabusSenior Secondary Group B SyllabusSenior Secondary Group A SyllabusGovernment ExamsBank Exams SBI ExamsIBPS ExamsRBI ExamsIBPS RRB ExamSSC Exams SSC JESSC GDSSC CPOSSC CHSLSSC CGLRRB Exams RRB JERRB NTPCRRB ALPInsurance Exams LIC ExamsLIC HFLLIC ADOUPSC CAPFList of Government Exams ArticlesKids LearningClass 1Class 2Class 3English LanguageLetter WritingSpeech Topics For KidsSlogans for KidsEnglish Grammar Parts of SpeechEnglish Grammar ExercisesAcademic QuestionsPhysics QuestionsChemistry QuestionsBiology QuestionsMaths QuestionsScience QuestionsGK QuestionsCommerce QuestionsEnglish QuestionsOnline TuitionHome TuitionFull FormsGeneral Full Forms Physics Full FormsChemistry Full FormsBiology Full FormsEducational Full FormsBanking Full FormsTechnology Full FormsCATCAT 2023CAT SyllabusCAT Exam PatternCAT ExamCAT Percentile PredictorFree CAT PrepByju's App Review on CATEducation NewsSupportComplaint ResolutionCustomer CareBYJU'S Answer Scholarshipi-BASTBNAT Class 11-12BNST | IASMock Test | JEE MainMock Test | JEE AdvancedMock Test | NEETBTCBYJU'S Tuition CentreTuition in North ZoneTuition in  Madhya Pradesh Tuition in  IndoreTuition in  RewaTuition in  UjjainTuition in  BhopalTuition in  JabalpurTuition in  GwaliorTuition in  SagarTuition in  Chhattisgarh Tuition in  RaipurTuition in  BilaspurTuition in  BhilaiTuition in  DurgTuition in  DelhiTuition in  Haryana Tuition in  GurgaonTuition in  FaridabadTuition in  KarnalTuition in  SonipatTuition in  AmbalaTuition in  HisarTuition in  PanipatTuition in  JagadhriTuition in  SirsaTuition in  PanchkulaTuition in  Himachal Pradesh Tuition in  ShimlaTuition in  Punjab Tuition in  chandigarhTuition in  LudhianaTuition in  JalandharTuition in  AmritsarTuition in  BathindaTuition in  MohaliTuition in  KhararTuition in  Rajasthan Tuition in  JaipurTuition in  AjmerTuition in  JodhpurTuition in  BikanerTuition in  UdaipurTuition in  AlwarTuition in  Sri GanganagarTuition in  BharatpurTuition in  SikarTuition in  BhilwaraTuition in  Uttar Pradesh Tuition in  KanpurTuition in  LucknowTuition in  NoidaTuition in  GhaziabadTuition in  AligarhTuition in  AgraTuition in  MeerutTuition in  MathuraTuition in  FaizabadTuition in  SaharanpurTuition in  BareillyTuition in  Gautam Buddha NagarTuition in  RampurTuition in  JhansiTuition in  AllahabadMoreTuition in  Uttarakhand Tuition in  RudrapurTuition in  HaridwarTuition in  DehradunTuition in  RoorkeeTuition in West ZoneTuition in  Gujarat Tuition in  AhmedabadTuition in  SuratTuition in  AnandTuition in  VadodaraTuition in  VapiTuition in  BhavnagarTuition in  RajkotTuition in  JamnagarTuition in  Maharashtra Tuition in  MumbaiTuition in  Navi MumbaiTuition in  ThaneTuition in  PuneTuition in  NashikTuition in  NagpurTuition in  SolapurTuition in  LaturTuition in  AhmednagarTuition in  AurangabadTuition in  AmravatiTuition in  NandedTuition in  AkolaTuition in  DhuleMoreTuition in East ZoneTuition in  Bihar Tuition in  PatnaTuition in  MuzaffarpurTuition in  DarbhangaTuition in  GayaTuition in  BhagalpurTuition in  PurniaTuition in  Jharkhand Tuition in  JamshedpurTuition in  BokaroTuition in  RanchiTuition in  DhanbadTuition in  Odisha Tuition in  BhubaneswarTuition in  CuttackTuition in  West Bengal Tuition in  KolkataTuition in  KharagpurTuition in  BardhamanTuition in  SiliguriTuition in  AsansolTuition in  Assam Tuition in  DibrugarhTuition in South ZoneTuition in  Andhra Pradesh Tuition in  KurnoolTuition in  NelloreTuition in  RajahmundryTuition in  VijayawadaTuition in  VisakhapatnamTuition in  KadapaTuition in  AnantapurTuition in  TirupatiTuition in  Karnataka Tuition in  BangaloreTuition in  BelagaviTuition in  GulbargaTuition in  DharwadTuition in  MandyaTuition in  BellaryTuition in  HassanTuition in  VijayapuraTuition in  HubliTuition in  ShimogaTuition in  DavanagereTuition in  MysoreTuition in  MangaloreTuition in  Kerala Tuition in  TrivandrumTuition in  CochinTuition in  ThrissurTuition in  KozhikodeTuition in  KannurTuition in  KollamTuition in  PalakkadTuition in  KottayamTuition in  MalappuramTuition in  Tamil Nadu Tuition in  ChennaiTuition in  CoimbatoreTuition in  TiruchirappalliTuition in  SalemTuition in  VelloreTuition in  ErodeTuition in  KrishnagiriTuition in  PuducherryTuition in  Telangana Tuition in  HyderabadTuition in  KhammamTuition Centre Near YouBuy a Course Success Stories Live QuizNEWLogin+91-9243500460MathsAlgebra  Arithmetic  Calculus  Geometry  Probability and Statistics  Number System  Set Theory  Trigonometry  Permutation and Combination  Mensuration  Maths ArticleMaths Index PagesClass 10 Maths Index Class 11 Maths Index Class 12 Maths Index Maths Properties  Math Theorems  Maths SymbolsAlgebra Symbols Geometry Symbols Probability And Statistics Symbols Set Theory Symbols Maths TablesTables 1 to 20 Tables 2 to 30 Tables 1 to 100 Tables 100 to 200 Tables 200 to 300 Tables 300 to 400 Tables 400 to 500 Tables 500 to 600 Tables 600 to 700 Tables 700 to 800 Tables 800 to 900 Tables 900 to 1000 Addition Table Multiplication Tables Square RootSquare Root of 2 Square Root of 3 Square Root of 4 Square Root Table Diff. Between In Maths  Differential Equations  Trigonometry Formulas  Trigonometry LawsLaw of Sine Law of Cosines Law of Tangent Maths FormulasMaths formulas for class 6  Maths formulas for class 7  Maths formulas for class 8  Maths formulas for class 9  Maths formulas for class 10  Maths formulas for class 11  Maths formulas for class 12  Maths SyllabusClass 6 Maths Syllabus  Class 7 Maths Syllabus  Class 8 Maths Syllabus  Class 9 Maths Syllabus  Class 10 Maths Syllabus  Class 11 Maths Syllabus  Class 12 Maths Syllabus  Maths Important QuestionsMaths Questions  Important Questions For Class 8 Maths  Important Questions For Class 9 Maths  Important Questions For Class 10 Maths  Important Questions For Class 11 Maths  Important Questions For Class 12 Maths   Maths CalculatorMaths MCQsClass 8 Maths MCQs  Class 9 Maths MCQs  Class 10 Maths MCQs  Class 11 Maths MCQs  Class 12 Maths MCQs   
+
+
+
+
+
+
+
+
+MathsMath ArticleDeterminants And Matrices 
+Determinants and Matrices
+
+
+
+
+
+
+
+
+ 
+
+Determinants and matrices, in linear algebra, are used to solve linear equations by applying Cramer’s rule to a set of non-homogeneous equations which are in linear form. Determinants are calculated for square matrices only. If the determinant of a matrix is zero, it is called a singular determinant and if it is one, then it is known as unimodular. For the system of equations to have a unique solution, the determinant of the matrix must be nonsingular, that is its value must be nonzero. In this article, let us discuss the definition of determinants and matrices, different matrices types, properties, with examples.
+Table of contents:
+
+Matrices
+Types of Matrices
+Inverse Matrix
+Transpose of Matrix
+Determinant
+
+Properties
+Laplace formula
+
+
+Determinant of a Matrix
+Examples
+FAQs
+
+
+Matrices Definition
+Matrices are the ordered rectangular array of numbers, which are used to express linear equations. A matrix has rows and columns. we can also perform the mathematical operations on matrices such as addition, subtraction, multiplication of matrix. Suppose the number of rows is m and columns is n, then the matrix is represented as m × n matrix.
+
+Also, read:
+
+Inverse Of 3 By 3 Matrix
+Identity Matrix
+
+
+Types of Matrices
+There are different types of matrices. Let’s see some of the examples of different types of matrices
+
+\(\begin{array}{l}\text{Zero Matrix:} \begin{bmatrix} 0 & 0 & 0 \\ 0 & 0 & 0\\ 0& 0 & 0 \end{bmatrix}\end{array} \)
+\(\begin{array}{l}\text{Identity Matrix: } \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0\\ 0& 0 & 1 \end{bmatrix}\end{array} \)
+\(\begin{array}{l}\text{Symmetric Matrix: } \begin{bmatrix} 2 & 3 & -1 \\ 3 & 0 & 6\\ -1 & 6 & 5 \end{bmatrix}\end{array} \)
+\(\begin{array}{l}\text{Diagonal Matrix: } \begin{bmatrix} 6 & 0 & 0 \\ 0 & 9 & 0\\ 0 & 0 & 2 \end{bmatrix}\end{array} \)
+\(\begin{array}{l}\text{Upper Triangular Matrix: } \begin{bmatrix} 6 & -1 & 5 \\ 0 & 4 & 2\\ 0 & 0 & 2 \end{bmatrix}\end{array} \)
+\(\begin{array}{l}\text{Lower Triangular Matrix: } \begin{bmatrix} 6 & 0 & 0 \\ 2 & 4 & 0\\ 8 & -1 & 2 \end{bmatrix}\end{array} \)
+
+
+Inverse of a Matrix
+Inverse of a matrix is defined usually for square matrices. For every m × n square matrix, there exists an inverse matrix. If A is the square matrix then A-1 is the inverse of matrix A and satisfies the property:
+AA-1 = A-1A = I, where I is the Identity matrix.
+Also, the determinant of the square matrix here should not be equal to zero.
+
+Transpose of Matrix
+The transpose of a matrix can be determined by rows for the columns. If A is a matrix, then the transpose of a matrix is represented by AT.
+For example, let us assume a 3×3 matrix, Say A, then the transpose of A, i.e. AT is given by
+\(\begin{array}{l}A =\begin{bmatrix} 6 & 2 & 1 \\ 3 & 5 & 9\\ 7 & 4 & 8 \end{bmatrix}\end{array} \)
+\(\begin{array}{l}A^{T} =\begin{bmatrix} 6 & 3 & 7 \\ 2 & 5 & 4\\ 1 & 9 & 8 \end{bmatrix}\end{array} \)
+ 
+In case, if the given square matrix is a symmetric matrix, then the matrix A should be equal to AT.
+It means that A = AT.
+
+Definition of Determinant
+A determinant can be defined in many ways for a square matrix.
+The first and most simple way is to formulate the determinant by taking into account the top row elements and the corresponding minors. Take the first element of the top row and multiply it by it’s minor, then subtract the product of the second element and its minor. Continue to alternately add and subtract the product of each element of the top row with its respective minor until all the elements of the top row have been considered.
+For example let us consider a 4×4 matrix A.
+
+Second Method to find the determinant:
+The second way to define a determinant is to express in terms of the columns of the matrix by expressing an n x n matrix in terms of the column vectors.
+Consider the column vectors of matrix A as A = [ a1, a2, a3, …an] where any element aj is a vector of size x.
+Then the determinant of matrix A is defined such that
+Det [ a1 + a2 …. baj+cv … ax ] = b det (A) + c det [ a1+ a2 + … v … ax ]
+Det [ a1 + a2 …. aj  aj+1… ax ] = – det [ a1+ a2 + … aj+1 aj … ax ]
+Det (I) = 1
+Where the scalars are denoted by b and c, a vector of size x is denoted by v, and the identity matrix of size x is denoted by I.
+We can infer from these equations that the determinant is a linear function of the columns. Further, we observe that the sign of the determinant can be interchanged by interchanging the position of adjacent columns. The identity matrix of the respective unit scalar is mapped by the alternating multi-linear function of the columns. This function is the determinant of the matrix.
+Check: Determinant Of A 3×3 Matrix
+
+Properties of Determinant
+
+If In is the identity matrix of the order nxn, then det(I) = 1
+If the matrix MT is the transpose of matrix M, then det (MT) = det (M)
+If matrix M-1 is the inverse of matrix M, then det (M-1) = 1/det (M) = det (M)-1
+If two square matrices M and N have the same size, then det (MN) = det (M) det (N)
+If matrix M has a size axa and C is a constant, then det (CM) = Ca det (M)
+If X, Y, and Z are three positive semidefinite matrices of equal size, then the following holds true along with the corollary det (X+Y) ≥ det(X) + det (Y) for X,Y, Z ≥ 0 det (X+Y+Z) + det C ≥ det (X+Y) + det (Y+Z)
+In a triangular matrix, the determinant is equal to the product of the diagonal elements.
+The determinant of a matrix is zero if all the elements of the matrix are zero.
+Laplace’s Formula and the Adjugate Matrix
+
+Apart from these properties of determinants, there are some other properties, such as
+
+Reflection Property
+All-zero property
+Proportionality property or Repetition Property
+Switching Property
+Sum Property
+Scalar multiple Property
+Factor Property
+Triangle Property
+Invariance Property
+The determinant of Cofactor matrix
+
+
+Laplace Formula for Determinant
+With Laplace’s formula, the determinant of a matrix can be expressed in terms of the minors of the matrix.
+If matrix Bxy is the minor of matrix A obtained by removing xth and yth column and has a size of
+( j-1 x  j-1), then the determinant of the matrix A is given by
+\(\begin{array}{l}det (A) = \sum_{y=1}^{j}(-1)^{x+y}a_{x,y}B_{x,y}\end{array} \)
+\(\begin{array}{l}And\ (-1)^{x+y}B_{x,y}\end{array} \) is known as the cofactor.
+The adjugate matrix is obtained by transposing the matrix containing the cofactors and is given by the equation,
+(Adj (A))x,y = (-1)x+y Bx,y
+Class Related Links:
+
+
+
+
+
+Matrices For Class 12
+Important Questions Class 12 Maths Chapter 3 Matrices
+Important Questions Class 12 Maths Chapter 4 Determinants
+
+
+
+
+
+
+Determinant of a Matrix
+To solve the system of linear equations and to find the inverse of a matrix, the determinants play an important role. Now, let us discuss how to find the determinant of 2×2 matrix and 3×3 matrix. If A is a matrix, then the determinant of a matrix A is generally represented using det (A) or |A|.
+Finding Determinants for 2×2 matrix:
+Let us assume a 2×2 square matrix
+\(\begin{array}{l}A=\begin{bmatrix} a_{11} & a_{12}\\ a_{21} & a_{22} \end{bmatrix},\ then\end{array} \)
+ \(\begin{array}{l}|A| =\begin{vmatrix} a_{11} & a_{12}\\ a_{21} & a_{22} \end{vmatrix}\end{array} \)
+\(\begin{array}{l}|A| = a_{11}a_{22}-a_{21}a_{12}\end{array} \)
+Finding Determinants for 3×3 Matrix
+Now, assume the 3×3 matrix, say
+\(\begin{array}{l}A = \begin{bmatrix} a_{11} &a_{12} & a_{13}\\ a_{21} & a_{22} &a_{23} \\ a_{31} & a_{32} &a_{33} \end{bmatrix},\ then\end{array} \)
+\(\begin{array}{l}|A| = \begin{vmatrix} a_{11} &a_{12} & a_{13}\\ a_{21} & a_{22} &a_{23} \\ a_{31} & a_{32} &a_{33} \end{vmatrix}\end{array} \)
+\(\begin{array}{l}|A| = a_{11}\begin{bmatrix} a_{22} & a_{23}\\ a_{32} & a_{33} \end{bmatrix}- a_{12}\begin{bmatrix} a_{21} & a_{23}\\ a_{31} & a_{33} \end{bmatrix} + a_{13}\begin{bmatrix} a_{21} & a_{22}\\ a_{31} & a_{32} \end{bmatrix}\end{array} \)
+Video Lesson on Matrices and Determinants Class 12
+
+
+
+
+
+
+
+
+
+
+
+
+Determinants & It’s Properties
+
+
+
+Algebra And Properties Of Matrices
+
+
+
+
+
+
+Adjoint and Inverse
+
+
+
+
+System of Equations
+
+
+
+
+Important Conceptual Problems
+
+
+
+
+Characteristic Equation & Polynomial
+
+
+
+Determinants and Matrices Solved Examples
+Example 1: 
+\(\begin{array}{l}\text{Find the determinant of matrix } A = \begin{bmatrix} 4 & 2\\ 3& 2 \end{bmatrix}\end{array} \)
+Solution:
+\(\begin{array}{l}\text{Given:}A = \begin{bmatrix} 4 & 2\\ 3& 2 \end{bmatrix}\end{array} \)
+The determinant of matrix A is
+det (A) = |A| = 8 – 6
+|A| = 2
+Example 2: 
+\(\begin{array}{l}\text{Find the determinant of a matrix }A = \begin{bmatrix} 2 & 3 & 1\\ 6 & 5 & 2 \\ 1 & 4 & 7 \end{bmatrix}\end{array} \)
+Solution:
+\(\begin{array}{l}\text{Given:} A = \begin{bmatrix} 2 & 3 & 1\\ 6 & 5 & 2 \\ 1 & 4 & 7 \end{bmatrix}\end{array} \)
+Therefore, 
+\(\begin{array}{l}|A| = 2\begin{vmatrix} 5 & 2\\ 4 & 7 \end{vmatrix} – 3\begin{vmatrix} 6 & 2\\ 1 & 7 \end{vmatrix} + 1\begin{vmatrix} 6 & 5\\ 1 & 4 \end{vmatrix}\end{array} \)
+|A| = 2(35-8) – 3(42-2) +1(24-5)
+|A| = 2(27) – 3(40) + 1(19)
+|A| = 54-120+19
+|A| = 73 -120
+|A| = -47
+
+Frequently Asked Questions on Determinants and MatricesQ1 Define matrix
+A matrix is defined as the rectangular array of numbers. The collection of numbers are arranged in rows and columns
+Q2 What is meant by determinant?
+The determinant is defined as a scalar value which is associated with the square matrix. If X is a matrix, then the determinant of a matrix is represented by |X| or det (X).
+Q3 Mention the different types of matrices
+The different types of matrices are:
+Square matrix
+Diagonal matrix
+Zero matrix
+Symmetric matrix
+Identity matrix
+Upper triangular matrix
+Lower Triangular Matrix
+Q4 Why do we use determinants?
+The determinants are used to solve the system of linear equations and it is also used to find the inverse of a matrix.
+Q5 Mention the important properties of determinants
+The properties of determinants are:
+Reflection property
+Triangle property
+All zero property
+Sum property
+Scalar multiple property
+Factor property
+Proportionality Property
+
+Download BYJU’S – The Learning App today and learn all about determinants and matrices in a quick and simple way.
+
+
+
+
+
+
+
+
+
+
+
+MATHS Related Links
+
+
+
+
+
+Area Of Ellipse
+
+
+Circles Class 10
+
+
+
+Table Of 18 And 19
+
+
+Centimeters To Inches
+
+
+
+Area Of Triangle In Coordinate Geometry
+
+
+Maths Project On Triangles
+
+
+
+Length Conversion Chart
+
+
+Integration
+
+
+
+Degree Of Polynomial
+
+
+Difference Between Average And Mean
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+Leave a Comment Cancel replyYour Mobile number and Email id will not be published. Required fields are marked * 
+
+
+*
+
+Send OTP
+
+
+
+
+
+
+
+									Did not receive OTP?
+									
+										Request OTP on
+										
+
+
+
+
+Voice Call
+
+
+
+
+
+
+*
+
+
+
+*
+
+
+Website 
+
+*
+
+Grade/Exam
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+*
+
+
+
+* 
+Post My Comment 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Saikarthick M
+
+
+November 9, 2020 at 6:58 pm
+
+
+
+
+it is very useful thankyou byjus team.
+
+
+Reply 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBSE Sample Papers
+
+
+
+CBSE Sample Papers Class 8 Maths
+CBSE Sample Papers Class 9 Maths
+CBSE Sample Papers Class 10 Maths
+CBSE Sample Papers Class 11 Maths
+CBSE Sample Papers Class 12 Maths
+
+
+
+
+
+
+
+
+
+CBSE Previous Year Question Papers
+
+
+
+CBSE Previous Year Question Papers Class 12 Maths
+CBSE Previous Year Question Papers Class 10 Maths
+
+
+
+
+
+
+
+
+
+ICSE Sample Papers
+
+
+
+ICSE Sample Papers Class 8 Maths
+ICSE Sample Papers Class 9 Maths
+ICSE Sample Papers Class 10 Maths
+ISC Sample Papers Class 11 Maths
+ISC Sample Papers Class 12 Maths
+
+
+
+
+
+
+
+
+
+ICSE Previous Year Question Papers
+
+
+
+ICSE Previous Year Question Papers Class 10
+ISC Previous Year Question Papers Class 12 Maths
+
+
+
+
+
+
+
+
+BYJU'S Tuition Centre for Class 4 to 10
+
+
+Class 10 Tuition Centre
+Class 9 Tuition Centre
+Class 8 Tuition Centre
+Class 7 Tuition Centre
+Class 6 Tuition Centre
+Class 5 Tuition Centre
+Class 4 Tuition Centre
+
+
+
+
+
+
+
+
+Join BYJU'S Learning Program
+
+
+
+
+
+
+
+
+Send OTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grade/Exam
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COURSES
+CBSEICSECATIASJEENEETCommerceJEE MainNCERTJEE AdvancedUPSC Prelims 2022 Question PaperUPSC Prelims 2022 Answer KeyIAS CoachingCBSE Sample PapersCBSE Question Papers
+
+EXAMS
+CAT ExamCAT 2023GATE ExamGATE 2024IAS ExamUPSC ExamUPSC SyllabusUPSC 2023Bank ExamGovernment ExamsEducation NewsCLASSES
+Kids LearningClass 1st - 3rdClass 4th - 5thClass 6th - 10thClass 11th - 12thBYJU'S Tuition Centre
+
+EXAM PREPARATION
+Free CAT PrepFree IAS PrepMathsPhysicsChemistryBiologyJEE 2024JEE Advanced 2023 Question Paper with AnswersJEE Main Mock TestJEE Main 2024 Question Papers with AnswersJEE Main 2023 Question Papers with AnswersJEE Advanced 2022 Question Paper with AnswersNEET 2023 Question PaperNEET 2023 Question Paper AnalysisNEET 2022 Answer KeyRESOURCES
+CAT College PredictorWorksheetsBYJU'S AnswerDSSLHome TuitionAll ProductsCalculatorsFormulas
+
+COMPANY
+About UsContact UsContact our Financial PartnersInvestorsComplianceCareersBYJU'S in MediaSocial Initiative - Education for AllBYJU'S APPFAQStudents Stories - The Learning TreeSupportFaces of BYJU'S – Life at BYJU'SBlogBYJU'S GiveFOLLOW US
+
+
+
+
+
+
+
+
+FREE TEXTBOOK SOLUTIONS
+NCERT SolutionsNCERT ExemplarNCERT Solutions for Class 6NCERT Solutions for Class 7NCERT Solutions for Class 8NCERT Solutions for Class 9NCERT Solutions for Class 10NCERT Solutions for Class 11NCERT Solutions for Class 11 EnglishNCERT Solutions for Class 12 EnglishNCERT Solutions for Class 12RD Sharma SolutionsRD Sharma Class 10 SolutionsICSE Selina Solutions
+
+STATE BOARDS
+MaharashtraGujaratTamil NaduKarnatakaKeralaAndhra PradeshTelanganaUttar PradeshBiharRajasthan
+
+Madhya PradeshWest Bengal
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer
+
+
+Privacy Policy
+
+
+Terms of Services
+
+
+Sitemap
+
+
+© 2024, BYJU'S. All rights reserved.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register with BYJU'S & Download Free PDFs
+
+
+
+
+
+
+*
+
+Send OTP
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+*
+
+
+Grade
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+
+
+Download Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register with BYJU'S & Watch Live Videos
+
+
+
+
+
+
+*
+
+Send OTP
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+*
+
+
+Grade
+Class 1
+Class 2
+Class 3
+Class 4
+Class 5
+Class 6
+Class 7
+Class 8
+Class 9
+Class 10
+Class 11
+Class 12
+IAS
+CAT
+Bank Exam
+GATE
+
+
+
+
+
+
+Watch Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+

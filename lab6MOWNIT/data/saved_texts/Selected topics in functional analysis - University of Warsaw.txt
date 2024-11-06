@@ -1,0 +1,92 @@
+Selected topics in functional analysis - University of WarsawOn-line services of the University of WarsawYou are not logged in | log ingo to the main portalSee other Course Catalogues in PolandWYŚWIETL PO POLSKUStudy programmesCourse searchInformation for students
+
+
+Conducted in
+            terms:
+            2023L, 2024L
+        
+    
+
+Erasmus code: 11.1
+        
+
+ISCED code: 0541
+        
+
+ECTS credits:
+        
+            6 
+        
+    
+
+Language:
+            English
+        
+
+Organized by:
+Faculty of Mathematics, Informatics, and Mechanics
+
+
+Related to study programmes:
+
+Bachelor's degree, first cycle programme, Mathematics
+Master's degree, second cycle programme, Mathematics
+
+
+
+
+        Selected topics in functional analysis
+        1000-135ZAF
+
+
+
+
+1. Spectral properties of compact operators on Banach spaces; the Fredholm alternative and the Riesz-Schauder theorem; applications to integral equations.
+2. Topological vector spaces; local convexity of topologies determined by families of seminorms; weak and weak* topologies; the Banach-Alaoglu theorem; extreme points and the Krein-Milman theorem.
+3. Rudiments of theory of Banach algebras and C*-algebras; the Calkin algebra, essential spectrum and Fredholm operators; the Gelfand transform and the Gelfand-Naimark theorem.
+4. Spectral measures and resolution of identity; the spectral theorem for normal operators on Hilbert spaces; functional calculus; positive and unitary operators - polar decomposition.
+5. Convolution algebras - the Fourier transform as a Gelfand transform; introduction to theory of distributions - tempered distributions and the Fourier transform; Wiener's tauberian theorem and its application to the proof of the prime number theorem.
+
+Main fields of studies for MISMaP
+mathematics
+Type of course
+elective courses
+Prerequisites
+Functional Analysis
+Prerequisites (description)
+Taking this course, the student should have basic knowledge in functional analysis which includes the notions of normed space, Banach space, Hilbert space (with the most important examples), dual space, bounded operator, adjoint operator. It is advisable to have passed the course "Functional analysis".
+Course coordinators
+Piotr Rybka
+Learning outcomes
+Knowledge and skills:
+1. The student understands the Riesz theory of compact operators on Banach spaces and examples of its applications to integral equations.
+2. The student can point out some natural occurences of (locally convex) linear topological spaces, as well as weak and weak* topologies in various mathematical structures.
+3. The student is able to formulate and explain the spectral theorem for normal operators on a Hilbert space, an abstract approach with the aid of theory of C*-algebras and its important consequences such as functional calculus.
+4. The student understands Fourier transform as an important tool occuring in various aspects, as a way of transforming "time scale" into "frequency scale", as the Gelfand transform of a convolution algebra, and as a transform acting on tempered distributions.
+5. The student knows fundamentals of theory of distributions, knows the notion of tempered distribution. The students understands the idea of applying abstract functional analysis to Tauberian theorems and, in turn, to the proof of one of the most celebrated results in number theory, i.e. the prime number theorem.
+Social competencies:
+1. The student understands the importance of functional analysis as an abstract tool in various fields of mathematics.
+Assessment criteria
+The final grade based on number of points gained during classes and the score on the final exam.
+Bibliography
+1. W. Arveson, A short course on spectral theory, Springer 2002.2. J.B. Conway, A course in functional analysis, Springer-Verlag 1985.3. M. Fabian, P. Habala, P. Hájek, V. Montesinos, V. Zizler, Banach space theory, Springer 2011.4. E. Kaniuth, A course in commutative Banach algebras, Springer 2009.5. R.E. Megginson, An introduction to Banach space theory, Springer 1998.6. W. Rudin, Real and complex analysis, McGraw-Hill Education, 19867. W. Rudin, Functional Analysis, McGraw-Hill, 1991
+Additional information
+
+Information on level of this course, year of study and semester when the course
+                    unit is delivered, types and amount of class hours - can be found in course structure
+                    diagrams of apropriate study programmes. This course is related to
+                    the following study programmes:
+
+Bachelor's degree, first cycle programme, Mathematics
+Master's degree, second cycle programme, Mathematics
+
+Additional information (registration calendar, class conductors,
+                    localization and schedules of classes), might be available in the USOSweb system:
+
+Description of 1000-135ZAF in USOSweb
+
+
+
+
+
+ECTS Catalogue 7.0.0.0-6f0ad95

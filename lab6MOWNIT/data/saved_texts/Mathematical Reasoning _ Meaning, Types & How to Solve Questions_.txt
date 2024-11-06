@@ -1,0 +1,271 @@
+Mathematical Reasoning : Meaning, Types & How to Solve Questions?YearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsAlready booked a tutor?Book A FREE ClassYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsFind your Math Personality!HomeLearnMath ConceptsMathematical Reasoning : Meaning, Types & How to Solve QuestionsMath ConceptsIs mathematical reasoning important to study?72.9k views
+
+Table of Contents
+
+
+
+1.
+Introduction
+
+
+2.
+What is Mathematical Reasoning?
+
+
+3.
+What are the types of mathematical reasoning?
+
+
+4.
+What are the types of reasoning statements?
+
+
+5.
+Sample Mathematical Reasoning Questions With Answers 
+
+
+6.
+Conclusion
+
+
+7.
+About Cuemath
+
+
+8.
+FAQs
+
+
+9.
+External References
+
+
+
+
+
+January 18, 2021
+Reading Time: 9 minutes
+
+Introduction
+The purpose of mathematics is not just to earn grades. Students who wish to aim high in life need to figure out their purpose. Broadly speaking, Mathematics is implemented in every sphere of life. Nowadays, organizations require measurable input and output for performance assessment, and career outcomes are not based on qualitative or verbal feedback.
+Students need to gear up and prepare for a future that will depend solely on mathematics. The evolution of newer technologies like data science will bring a renewed emphasis on Mathematics.   
+
+Mathematical reasoning, on the other hand, helps individuals build mathematical critical thinking and logical reasoning. A lack of mathematical reasoning skills may reflect not just in mathematics performance but also in Physics, Chemistry, or Economics.
+In the subsequent sections, we will try to understand What is Mathematical reasoning and what are the basic terms used in mathematical reasoning. We will also have a look at different types of mathematical reasoning and go through mathematical reasoning questions and answers.
+Later in the article, we will look at a few Frequently Asked Questions with solutions to solidify the idea behind learning mathematical reasoning.
+Also read:
+
+The importance of developing mathematical thinking in children
+Logical Reasoning: Topics, Examples, Syllabus, Questions
+Slow Learners
+
+
+PDF
+Here is a downloadable PDF. After downloading, you will be able to read 'Mathematical Reasoning’ offline at your convenience and as many times as you want. Click on the download button to explore them.
+
+
+
+📥
+PDF of Mathematical Reasoning
+
+Download
+
+
+
+
+
+What is Mathematical Reasoning?
+Mathematical reasoning is a critical skill that enables students to analyze a given hypothesis without any reference to a particular context or meaning. In layman's words, when a scientific inquiry or statement is examined, the reasoning is not based on an individual's opinion. Derivations and proofs require a factual and scientific basis. 
+Mathematical critical thinking and logical reasoning are important skills that are required to solve maths reasoning questions. 
+When we learn literature, we follow certain rules of grammar. Likewise, there are certain rules and parts of a scientific hypothesis. It is important to note that most books and texts written on mathematical reasoning follow scientific grammar or relevant terminologies and notations.
+
+What are the basic terms used in Mathematical Reasoning?
+In this section, the basic terminologies associated with Mathematical reasoning are discussed.
+
+
+Statement
+
+
+Any sentence in mathematics which follows the following rules is a statement.
+
+
+A sentence needs to be either true or false but not both to be considered a mathematically accepted statement.
+
+
+Any sentence which is either imperative or interrogative or exclamatory cannot be considered a mathematically validated statement. 
+
+
+A Sentence containing one or many variables is termed an open statement. An open statement can become a statement if the variables present in the sentence are replaced by definite values
+
+
+Example: The distance from the center of a circle to any point on the circumference of the circle is equal. 
+
+
+Conjunction and Disjunction
+
+
+Whenever statements are joined to make a new statement and all the conditions need to be fulfilled, it is a Conjunction. ‘And’, ‘with’ are commonly used to join such statements.
+Whenever statements are joined to make a new statement and only one of the conditions needs to be fulfilled, it is a Disjunction. ‘Or’, ‘But’ are commonly used to join such statements.
+The conjunction is true only if the original statements are found to be true.
+The conjunction is false if the original statement or statements are found to be false.
+The conjunction is true if only one statement is found to be true.
+The conjunction is false if none of the original statements are found to be true.
+Example: Square is a polygon and a parallelogram can also be a square.
+These are a few mathematical terminologies that will help you comprehend and apply mathematical reasoning. These terms will also help you solve and understand reasoning questions.
+
+
+
+What are the types of mathematical reasoning?
+
+
+Inductive Reasoning
+
+
+Inductive reasoning is based on observations and not any hypothesis. If any phenomena are observed for n number of times, it can be generalized. This generalization is based on observation and therefore it may be false. Inductive reasoning is a logical guess which can be backed up by using valid reasons.
+
+This type of reasoning is not used in geometry, for instance, one may observe a few right triangles and conclude all triangles to be right triangles. Therefore, other mathematical tools are used to prove geometrical results. An example of inductive reasoning will help elucidate the concept.
+Example of Inductive Reasoning:
+Statement: I picked a ball from the bag and it happens to be a red ball. I picked a second red ball. A third ball from the bag is also red. Therefore, all the balls in the bag are red.
+Reasoning: All the balls picked up from the bag are red. Therefore, we can say all the balls are red. This is an example of inductive reasoning where existing data is analyzed to come to a general conclusion.
+
+
+Deductive Reasoning
+
+
+Deductive reasoning is based on the exact opposite principles of induction. Unlike Inductive reasoning, Deductive reasoning is not based on simple generalizations. A Hypothesis is required or a statement that has to be true under specified conditions for deductive reasoning to be valid. In the case of Inductive reasoning, the conclusion may be false but Deductive reasoning is true in all cases.
+
+Therefore, Deductive reading is used for geometrical and mathematical proofs. The following example will simplify the concepts discussed in this section.
+Example of Deductive Reasoning:
+Statement: The sum of angles in a triangle is always equal to 180° and ABC is a Triangle.
+Reasoning: Here in the given statement we are considering two hypotheses, where the sum of angles in a triangle is said to be 180° and ABC is a triangle. Based on the given hypotheses we deduce that the sum of angles of ABC is 180°.
+
+
+Abductive Reasoning
+
+
+Abductive reasoning is a modified version of Inductive Reasoning and takes a more practical approach. In the case of inductive reasoning, the data or observation is complete but in real situations, most of the data is not available at the time of making a decision.
+
+So based on the data and its availability, the conclusion may vary and reasoning may change.   
+Example of Abductive Reasoning:
+Statement: The heights of four students studying in a class were found to be 160cm, 162cm, 163 cm, 167 cm respectively. The measuring scale available had the least count of 1cm. 
+Reasoning: As per the data and hypotheses available at the time of observation, the average height comes out to be 163cm. But once a new measuring scale was installed the least count was found to be 0.1 cm and the recorded height of students changed. This also impacted the Average height which came to be 63.8 cm. 
+As discussed in this section, reasoning techniques are categorized in three major sections. An understanding of Inductive, Abductive and Deductive reasoning will help you solve any reasoning question. It is important to identify the reasoning technique which has to be used to solve a question from examination point of view. 
+
+
+
+What are the types of reasoning statements?
+Reasoning statements in mathematics are broadly classified into three types:
+
+
+Simple Statements
+
+
+Compound Statements
+
+
+If-Then Statements
+
+
+We will look into each type of reasoning statement along with their examples.
+
+
+Simple Statements
+
+
+If the truth value of a statement or proposition does not directly depend on another statement, it is a simple statement. In other words, a simple statement should not be composed of simpler statements.
+Therefore a simple statement can never be broken down into simpler statements. It is easiest to work with simple statements and direct reasoning approach can be implemented. A few examples have been provided to clear the concept of simple statements. 
+Example 1: Square is a parallelogram.  
+Reasoning: There are no modifiers in the given statement. Therefore we can say that the given statement is simple. 
+
+
+Compound Statement
+
+
+In simple words, the combination of simple statements is a compound statement. Therefore, such statements are made of either two or more simple statements joined together by connectives like 'and', 'or'.
+A variety of connectives can be used instead of the two connectives as mentioned. These statements are crucial for Deduction reasoning in Mathematics. Have a look at the detailed example below for a better understanding:
+Example 1: We have taken two simple statements that can be joined together by the use of a connector.
+Statement 1: Parallel lines do not intersect.
+Statement 2: Transversal lines make equal alternate angles with parallel lines
+Compound Statement: Parallel lines do not intersect and Transversal lines make equal alternate angles with parallel lines.
+Example 2: In this example, a compound statement is being dissected into its simple statement components. 
+Compound Statement: Triangle has three sides and the square has four sides.
+The Simple Statements for this statement is:
+Statement 1: Triangle has three sides.
+Statement 2: The square has four sides. 
+
+
+If-then Statement
+
+
+Conditional statements where a hypothesis is followed by a conclusion are known as the If-then statement. If the hypothesis is true and the conclusion is false then the conditional statement is false. Likewise, if the hypothesis is false the whole statement is false.
+Example 1: If 40% population is female then 60% population is male.
+Reasoning: Here the 40% female is the hypothesis and if that condition is met then the conclusion is satisfying.
+
+
+
+Sample Mathematical Reasoning Questions With Answers
+Now that we have an understanding of Mathematical Reasoning and the various terminologies and reasoning associated, we will go through two sample questions with an explanation to understand maths and reasoning in depth.
+Q1. Look at this series: 12, 10, 13, 11, 14, 12, … What number should come next?
+A. 15
+B. 16
+C. 13
+D. 10
+Answer: Option D.
+Explanation: First, 2 is subtracted, then 3 is added therefore when 3 is added to 12 it becomes 15. This is an example of an alternating number of subtraction series.
+Q2. SQUARE:PERIMETER::CIRCLE :?
+A.RADIUS
+B. CHORD
+C. SECTOR
+D. CIRCUMFERENCE
+Answer: D.CIRCUMFERENCE. 
+Explanation: The boundary of a square is given by its perimeter just as the boundary of a circle is given by circumference.
+Most kids study mathematics for the sake of grades. That will improve grades temporarily but cause great damage in the longer run. Kids need to ask questions to understand how a particular concept is being used. If children do not understand the concepts in their initial days, they will struggle at a later stage.
+Practice Proofs
+Proofs will help Children Ideate their own set of techniques to understand complex problems. Students need to focus on Geometry Proofs, results, and maths reasoning questions.
+Cuemath Activities
+Some kids do need additional support and tools. Sometimes kids underperform in mathematics due to stress and fear of bad grades. Such kids are unable to ask questions in class and eventually start lagging. Cuemath provides a customized learning journey for such kids.
+The most basic concepts are cleared and corrected. Individual attention by professional Mathematics Teachers helps them cope better. Once a child gains confidence, mathematics is a cakewalk. 
+
+
+
+Conclusion
+Begin teaching mathematical reasoning at an early age to avoid struggling with it at a later stage. Children need to understand the principles of mathematics rather than mugging up proofs and theorems.
+This will help them solve higher-order problems and develop mathematical aptitude. Over time you will find your child solving complex problems on their own without much intervention or assistance. 
+
+
+
+About Cuemath
+Cuemath, a student-friendly mathematics and coding platform, conducts regular Online Classes for academics and skill-development, and their Mental Math App, on both iOS and Android, is a one-stop solution for kids to develop multiple skills. Understand the Cuemath fee structure and sign up for a free trial.
+
+
+
+Frequently asked questions (FAQs)
+
+
+What is a fallacy in mathematical reasoning?
+
+
+Fallacy refers to errors in hypotheses caused due to logical inaccuracy.
+
+
+Why is mathematical reasoning important?
+
+
+Students have the potential to solve higher-order thinking questions which are frequently asked in competitive examinations. But a lack of mathematical reasoning skills may render their potential. Encouragement is needed to develop a student's natural inclination to strive for purpose and meaning.
+The reasoning is the most fundamental and essential tool of mathematics. It helps one understand and justify mathematical theorems. A good grip in reasoning will help students apply the concepts they learn in the classroom. 
+
+
+What are the two types of fallacy?
+
+
+The two types of fallacies are as follows:
+
+
+Formal fallacy: When the relationship between premises and conclusion is not valid or when premises are unsound, Formal fallacies are created.
+
+
+Informal Fallacy: Misuse of language and evidence is classified as an Informal fallacy.
+
+
+
+Related ArticlesMath ConceptsThe secret behind the angularity of Tchaikovsky’s Swan LakeRead the blog to know the secret behind the angularity of Tchaikovsky’s Swan Lake5th April '21Read Full Article(2 min read)Math ConceptsMirror Mirror on the wall, Joe’s smoothie is the yummiest of them allDo ratios help put numbers in perspective and understand them better? Read on to know more about...5th April '21Read Full Article(3 min read)Math ConceptsDessert Storm: Why going Dutch is the best way to pay an ice cream bill?As adults, we normally argue about who will pay the bill. However, as kids, our argument would be...5th April '21Read Full Article(2 min read)Math ConceptsThe secret behind the angularity of Tchaikovsky’s Swan LakeRead the blog to know the secret behind the angularity of Tchaikovsky’s Swan Lake5th April '21Read Full Article(2 min read)Math ConceptsMirror Mirror on the wall, Joe’s smoothie is the yummiest of them allDo ratios help put numbers in perspective and understand them better? Read on to know more about...5th April '21Read Full Article(3 min read)Math ConceptsDessert Storm: Why going Dutch is the best way to pay an ice cream bill?As adults, we normally argue about who will pay the bill. However, as kids, our argument would be...5th April '21Read Full Article(2 min read)FOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandFOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsTerms and ConditionsPrivacy Policy

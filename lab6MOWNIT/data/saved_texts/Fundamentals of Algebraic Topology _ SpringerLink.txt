@@ -1,0 +1,888 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fundamentals of Algebraic Topology | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fundamentals of Algebraic Topology
+        
+
+Textbook
+© 2014
+
+
+
+
+                Access provided by Polish Consortium ICM University of Warsaw
+            
+
+
+
+
+Download book PDF
+
+
+
+
+
+
+
+Download book EPUB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Fundamentals of Algebraic Topology
+                            
+
+
+
+Download book PDF
+
+
+
+
+
+
+
+Download book EPUB
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Steven H. Weintraub
+0
+
+
+
+
+
+
+Steven H. Weintraub
+
+
+
+                                    
+                                        Department of Mathematics, Lehigh University, Bethlehem, USA
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+Covers the essential results of algebraic topology in a concise and pragmatic manner
+Provides an introduction to manifolds, CW complexes, and homotopy theory
+Explains applications of algebraic topology to problems in topology and algebra
+Reveals the logical structure of the subject by illuminating the separate roles of algebra and topology
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Graduate Texts in Mathematics (GTM, volume 270)
+                    
+
+
+
+
+
+
+
+
+
+53k Accesses
+
+
+
+
+4
+                    
+Altmetric
+
+
+
+
+
+
+
+
+Buy print copy
+
+
+
+
+
+
+
+
+
+Softcover Book  EUR 58.84 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 53.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (7 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-x
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+The Basics
+
+
+Steven H. Weintraub
+
+Pages 1-4
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+The Fundamental Group
+
+
+Steven H. Weintraub
+
+Pages 5-22
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Generalized Homology Theory
+
+
+Steven H. Weintraub
+
+Pages 23-33
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Ordinary Homology Theory
+
+
+Steven H. Weintraub
+
+Pages 35-54
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Singular Homology Theory
+
+
+Steven H. Weintraub
+
+Pages 55-93
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Manifolds
+
+
+Steven H. Weintraub
+
+Pages 95-126
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Homotopy Theory
+
+
+Steven H. Weintraub
+
+Pages 127-138
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Back Matter
+Pages 139-163
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+Algebraic Topology
+
+
+
+
+Homology Theory
+
+
+
+
+Homotopy Theory
+
+
+
+
+Manifolds
+
+
+
+
+
+
+About this book
+
+This rapid and concise presentation of the essential ideas and results of algebraic topology follows the axiomatic foundations pioneered by Eilenberg and Steenrod. The approach of the book is pragmatic: while most proofs are given, those that are particularly long or technical are omitted, and results are stated in a form that emphasizes practical use over maximal generality. Moreover, to better reveal the logical structure of the subject, the separate roles of algebra and topology are illuminated.Assuming a background in point-set topology, Fundamentals of Algebraic Topology covers the canon of a first-year graduate course in algebraic topology: the fundamental group and covering spaces, homology and cohomology, CW complexes and manifolds, and a short introduction to homotopy theory. Readers wishing to deepen their knowledge of algebraic topology beyond the fundamentals are guided by a short but carefully annotated bibliography.
+
+
+
+Reviews
+
+“Weinberg front-loads the Eilenberg-Steenrod axioms, thus rendering singular homology, where most authors start, merely an important example that emerges well on in the text. Certain readers either primarily interested in making calculations or in ‘extraordinary’ theories such as K-theories or (co)bordism will appreciate this emphasis. Summing Up: Recommended. Upper-division undergraduates and above.” (D. V. Feldman, Choice, Vol. 52 (10), June, 2015)“The fundamental group, covering spaces, a heavy dose of homology theory, applications to manifolds, and the higher homotopy groups is what the book is all about. … The exposition is exquisite, making reading the book very enjoyable. The book certainly has its place among the existing literature, as it offers something different from its peers. … All in all, what the book does it does very well, and it achieves a lot. … Certainly a recommended read.” (Ittay Weiss, MAA Reviews, March, 2015)“This new booklet by the renowned textbook author Steven H. Weintraub is to serve as a quick guide to the fundamental concepts and results of classical algebraic topology. … the present book is certainly a highly useful and valuable companion for a first-year graduate course in algebraic topology, as well for ambitious students as for instructors.” (Werner Kleinert, zbMATH, Vol. 1305, 2015)
+                
+
+
+Authors and Affiliations
+
+
+
+
+                                        Department of Mathematics, Lehigh University, Bethlehem, USA
+                                    
+
+                                    
+                                        Steven H. Weintraub
+                                    
+                                
+
+
+
+
+
+About the author
+
+                    Steven H. Weintraub is Professor of Mathematics at Lehigh University. He is the author of Galois Theory and Algebra: An Approach via Module Theory (with W. A. Adkins).
+                
+
+
+Bibliographic Information
+
+
+
+Book Title: Fundamentals of Algebraic Topology
+Authors: Steven H. Weintraub
+Series Title: 
+
+Graduate Texts in Mathematics
+
+DOI: https://doi.org/10.1007/978-1-4939-1844-7
+Publisher: Springer New York, NY
+eBook Packages: 
+
+Mathematics and Statistics, Mathematics and Statistics (R0)
+
+Copyright Information: Springer Science+Business Media, LLC, part of Springer Nature 2014
+Hardcover ISBN: 978-1-4939-1843-0Published: 01 November 2014
+Softcover ISBN: 978-1-4939-4885-7Published: 10 September 2016
+eBook ISBN: 978-1-4939-1844-7Published: 31 October 2014
+Series ISSN: 
+ 0072-5285 
+Series E-ISSN: 
+ 2197-5612 
+Edition Number: 1
+Number of Pages: X, 163
+Number of Illustrations: 82 b/w illustrations
+Topics: 
+
+Algebraic Topology, 
+Manifolds and Cell Complexes (incl. Diff.Topology), 
+Category Theory, Homological Algebra
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Buy print copy
+
+
+
+
+
+
+
+
+
+Softcover Book  EUR 58.84 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 53.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+149.156.52.13
+
+Polish Consortium ICM University of Warsaw (3000169041)  - Polish Consortium ICM University of Warsaw (3003616166)  - Pedagogical University of Cracow (1000857903) 
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

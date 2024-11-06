@@ -1,0 +1,790 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Number Pi Ï: The History and main Names | OpenMind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Click Enter        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Themes
+
+
+Discover
+
+
+
+
+
+
+Economy
+
+
+Humanities
+
+
+Science
+
+
+Technology
+
+
+
+
+Multimedia
+
+
+OpenMind books
+
+
+Authors
+
+
+Scientific anniversaries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es
+
+
+En
+
+
+
+
+
+
+Leave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economy
+
+
+Humanities
+
+
+Science
+
+
+Technology
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+24 July 2018
+The Night of the Blood Moon
+
+
+
+
+
+Environment
+
+
+
+03 February 2020
+Zero Waste, for Beginners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multimedia
+
+
+OpenMind books
+
+
+ Authors
+
+
+Scientific anniversaries
+
+
+
+
+
+
+
+
+
+Environment
+
+
+
+
+
+
+05 March 2020
+Plants, the Root of the Earthâs Health Problem
+
+
+
+
+
+Featured author
+
+
+
+
+Sandip Tiwari
+
+
+                                                    Cornell University, Nueva York, USA                                                
+
+
+
+Latest book
+
+Sustainability Notes nÂº3: The Search for Alternatives to Fossil Fuels
+
+See more books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+Created by Materia for  OpenMind
+Recommended by Materia
+
+
+
+
+
+OpenMind
+                    
+
+
+
+
+
+
+
+
+
+THEMES
+
+
+DISCOVER
+
+
+
+
+
+
+Search                         
+
+
+
+
+Es
+
+
+En
+
+
+
+
+
+
+Leave
+
+
+
+
+
+
+
+
+
+
+
+  3  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+The History of the Number Pi    
+
+
+
+			Science        
+
+			Mathematics        
+
+
+	05 February 2021
+
+The History of the Number Pi
+
+History | Protagonists 
+
+
+
+
+
+
+
+
+
+
+
+Ventana al Conocimiento (Knowledge Window)
+
+
+
+              Scientific journalism            
+
+
+
+Estimated reading time
+Time
+
+  3  
+to read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On February 5 or 6, 1897, the House of Representatives of the State of Indiana (USA) passed one of the most absurd laws in history by a vote of 67 to 0. By introducing as a “new mathematical truth” a supposed method for squaring the circle âdefining with compass and straightedge a square with the same area as a circleâ invented by the physician and amateur mathematician Edward Goodwin, the law established de facto a value of 3.2 for the number pi. Fortunately, the text was never voted on in the Senate, enduring only as one of the more bizarre episodes in the history of the world’s most popular irrational number, a mathematical constant whose endless quest has captivated human beings for centuries.
+Rhind Mathematical Papyrus. Credit: Paul James Cowie
+Although today we know pi (Ï) as the ratio between the length of a circumference and its diameter, the first historical approximations arose when analysing the relationship between polygons and circles. In ancient Babylon, a value of 3/8, or 3.125, was calculated by relating the length of a circumference to the perimeter of an inscribed hexagon, as deduced from a clay tablet dated around 1900 B.C. Another estimated value appears in the Rhind Papyrus, an Egyptian mathematical document from 1650 B.C. that yields a calculation of 256/81, around 3.1604. Interestingly, before the proposal from the State of Indiana, perhaps the last integer value of pi appears in the Bible: the First Book of Kings, written about the 6th century BC, speaks of a sea of molten metal with a circumference of 30 cubits and a diameter of 10 cubits, which would give a value of pi equal to three.
+
+Archimedes algorithmÂ 
+Around 250 BC, the Greek polymath Archimedes created an algorithm, based on the Pythagorean theorem, which allowed a better approximation; by inscribing and circumscribing a circle with polygons he calculated its upper and lower limits, 3/7 and 310/71, which predicted an average value of 3.1418…. Archimedes also observed that this same number related the area of a circle to its radius. However, and although in classical Greece the letter Ï (“p”) was used in the notation of geometric calculations because it was the first letter of “periphery” or “perimeter”, it was not until the eighteenth century when its use began to be standardised; it was Leonhard Euler who in 1736 established the definition of “Ï” as half the circumference of a circle whose radius is equal to one, or 3.14….
+Archimedes created an algorithm which allowed a better approximation. Source:Wikimedia
+Decimals began to flourish in the first millennium of our era at the hands of Chinese, Indian and Arab mathematicians, who undertook cumbersome calculations to reach the seventh or ninth digits of pi. With the development of calculus in the 17th century by Isaac Newton and Gottfried Leibniz, the English mathematician and physicist published up to the fifteenth digit. The race progressed slowly: by the end of the 19th century, the figure stood at 527 digits. The exception, of course, was the curious case of Indiana, fortunately frustrated. Although legislators saw in Goodwin’s proposal an opportunity to collect royalties for the state, the intervention of mathematician Clarence Waldo succeeded in getting the Senate to simply shelve a proposal that had already been ridiculed in American newspapers.
+Ramanujan and the leap from hundreds of decimal placesÂ 
+It was the development of computing in the 20th century that brought about the leap from hundreds of decimal places of pi âthe record for hand calculation is 620 digits, set in 1946â to thousands and then millions, making this quest a more affordable endeavour. The revolution in computing pi relied on formulas developed in the early 20th century by the Indian genius Srinivasa Ramanujan, who filled hundreds of pages of his notebooks with methods that were not rediscovered until decades later and are still in use today. In 1985, one of the formulas created by Ramanujan made it possible to surpass 17 million digits of pi.
+The formulas created by Ramanujan made it possible to surpass 17 million digits of pi. Source: Wikimedia
+Today the decimals recorded are counted in the tens of trillions. After Emma Haruka Iwao, a Japanese computer scientist at Google, reached more than 31.4 trillion digits on March 14, 2019, since January 29, 2020 the record has been set at 50 trillion, a mark achieved by the American cybersecurity analyst Timothy Mullican, who used an old computer expanded with second-hand hardware purchased on eBay.Â 
+However, although pi has a finger in every pie in mathematics and is an essential element in fields such as wave physics, for its practical applications scientists make do with much less. According to NASA engineer Marc Rayman, only 15 digits are used for space mission calculations, and 40 would suffice to calculate the circumference of the visible universe with an accuracy the size of a hydrogen atom. Nevertheless, there is no doubt that the race to increase this infinite numerical string will continue, because if there is one thing that knows no limits, like pi itself, it is human curiosity. 
+Javier Yanes
+@yanes68
+
+
+
+
+
+
+
+    Related publications  
+
+
+Fibonacci and his Magic Numbers
+
+
+When Magic Gave Way to Numbers
+
+
+The Mystery of Number 33 and the Diophantine Equations
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+More about Science
+
+Bioscience
+Environment
+Leading Figures
+Mathematics
+Physics
+Research
+Scientific Insights
+
+
+
+
+
+More publications about Ventana al Conocimiento (Knowledge Window)
+
+Environment
+
+Does a Lack of Copper Threaten Our Green Future?
+
+Environment
+
+Climate Tipping Points: A Journey of No Return?
+
+Research
+
+Microplastics Are Already Inside Us
+
+
+
+
+
+
+Comments on this publication
+
+
+
+Login to comment
+Log in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for collaborating with the OpenMind community! Your comment will be published after validation.
+
+
+
+
+
+Oops!, 
+It seems that there has been an error in the communication.
+Please, try again later.
+
+
+
+
+
+
+
+Name cannot be empty
+
+
+
+
+Write a comment hereâ¦* 
+(500 words maximum)
+
+This field cannot be empty, Please enter your comment.
+
+
+
+
+
+ *Your comment will be reviewed before being published
+
+
+
+
+
+Captcha must be solved
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for collaborating with the OpenMind community! Your comment will be published after validation.
+
+
+
+
+
+Oops!, 
+It seems that there has been an error in the communication.
+Please, try again later.
+
+
+
+
+
+
+Name cannot be empty
+
+
+
+
+Write a comment hereâ¦* 
+(500 words maximum)
+
+This field cannot be empty, Please enter your comment.
+
+
+
+
+
+ *Your comment will be reviewed before being published
+
+
+
+
+
+Captcha must be solved
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next article
+
+
+leading-figures
+
+
+
+Mendel, a Paradigmatic Scientist
+
+
+
+
+        Manuel Ruiz RejÃ³n      
+
+
+
+
+
+Start
+The History of the Number Pi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you want to stay up to date with our new publications?
+Receive the OpenMind newsletter with all the latest contents published on our website
+Find out more here
+
+
+
+
+
+
+
+
+OpenMind BooksThe Search for Alternatives to Fossil Fuels
+View all books
+About OpenMindAbout us
+Authors
+Contact Us
+FAQs
+Connect with usFacebook
+Twitter
+YouTube
+LinkedIn
+NewsletterKeep up to date with our newsletter
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sharing Knowledge for a Better Future
+
+
+
+
+Â© Copyright 2024
+
+BBVA Group
+Legal Notice
+Cookies Policy
+Personal Data Protection Policy
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

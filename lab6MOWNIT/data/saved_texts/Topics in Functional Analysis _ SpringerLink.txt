@@ -1,0 +1,659 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics in Functional Analysis | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Advanced Real Analysis
+
+
+
+
+
+Chapter
+
+
+
+Topics in Functional Analysis
+
+Chapter
+
+
+
+ pp 105–178
+
+
+Cite this chapter
+
+
+
+
+
+
+
+
+
+
+
+Advanced Real Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Cornerstones ((COR))
+                    
+
+
+
+
+
+
+
+
+
+4970 Accesses
+
+
+
+
+
+
+
+
+ AbstractThis chapter pursues three lines of investigation in the subject of functional analysis—one involving smooth functions and distributions, one involving fixed-point theorems, and one involving spectral theory.Section 1 introduces topological vector spaces. These are real or complex vector spaces with a Hausdorff topology in which addition and scalar multiplication are continuous. Examples include normed linear spaces, spaces given by a separating family of countably many seminorms, and weak and weak-star topologies in the context of Banach spaces. Various general properties of topological vector spaces are proved, and it is proved that the quotient of a topological vector space by a closed vector subspace is Hausdorff and is therefore a topological vector space.Section 2 introduces a topology on the space C∞(U) of smooth functions on an open subset of ℝN. The support of a continuous linear functional on C∞(U) is defined and shown to be a compact subset of U. Accordingly, the continuous linear functionals are called distributions of compact support.Section 3 studies weak and weak-star topologies in more detail. The main result is Alaoglu’s Theorem, which says that the closed unit ball in the weak-star topology on the dual of a normed linear space is compact. In an earlier chapter a preliminary form of this theorem was used to construct elements in a dual space as limits of weak-star convergent subsequences.Section 4 follows Alaoglu’s Theorem along a particular path, giving what amounts to a first example of the Gelfand theory of Banach algebras. The relevant theorem, known as the Stone Representation Theorem, says that conjugate-closed uniformly closed subalgebras containing the constants in B(S) are isomorphic via a norm-preserving algebra isomorphism to the space of all continuous functions on some compact Hausdorff space. The compact space in question is the space of multiplicative linear functionals on the subalgebra, and the proof of compactness uses Alaoglu’s Theorem.Sections 5–6 return to the lines of study toward distributions and fixed-point theorems. Section 5 studies the relationship between convexity and the existence of separating linear functionals. The main theorem makes use of the Hahn-Banach Theorem. Section 6 introduces locally convex topological vector spaces. Application of the basic separation theorem from the previous section shows the existence of many continuous linear functionals on such a space.Section 7 specializes to the line of study via smooth functions and distributions. The topic is the introduction of a certain locally convex topology on the space C
+∞com
+(U) of smooth functions of compact support on U. This is best characterized by a universal mapping property introduced in the section.Sections 8–9 pursue locally convex spaces along the other line of study that split off in Section 5. Section 8 gives the Krein-Milman Theorem, which asserts the existence of a supply of extreme points for any nonempty compact convex set in a locally convex topological vector space. Section 9 relates compact convex sets to the subject of fixed-point theorems.Section 10 takes up the abstract theory of Banach algebras, with particular attention to commutative C* algebras with identity. Three examples are the algebras characterized by the Stone Representation Theorem, any L∞ space, and any adjoint-closed commutative Banach algebra consisting of bounded linear operators on a Hilbert space and containing the identity.Section 11 continues the investigation of the last of the examples in the previous section and derives the Spectral Theorem for bounded self-adjoint operators and certain related families of operators. Powerful applications follow from a functional calculus implied by the Spectral Theorem. The section concludes with remarks about the Spectral Theorem for unbounded self-adjoint operators.
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this chapter
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chapter
+      
+
+
+        EUR 29.95
+       
+
+
+       Price includes VAT (Poland)
+      
+
+        
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter 
+       
+
+
+
+
+
+
+
+ eBook
+      
+
+       EUR 67.40
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+ Hardcover Book
+      
+
+       EUR 85.59
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+
+
+
+
+
+
+
+Institutional subscriptions
+                                        
+
+
+
+
+
+
+
+Preview
+
+
+Unable to display preview. Download preview
+                                        PDF.
+
+Unable to display preview. Download preview
+                                    PDF.
+
+
+
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Banach Space Theory
+                                        
+
+
+Chapter
+© 2022
+
+
+
+
+
+
+
+
+
+Applications of the Theory of Orlicz Spaces to Vector Measures
+                                        
+
+
+Article
+17 August 2018
+
+
+
+
+
+
+
+
+
+Hilbert Spaces
+                                        
+
+
+Chapter
+© 2015
+
+
+
+
+
+
+
+ Rights and permissionsReprints and permissions Copyright information© 2005 Anthony W. Knapp About this chapterCite this chapter (2005).  Topics in Functional Analysis.
+
+                     In:  Advanced Real Analysis. Cornerstones. Birkhäuser Boston. https://doi.org/10.1007/0-8176-4442-3_4Download citation.RIS.ENW.BIBDOI: https://doi.org/10.1007/0-8176-4442-3_4
+                            Publisher Name: Birkhäuser Boston
+                                Print ISBN: 978-0-8176-4382-9
+                                Online ISBN: 978-0-8176-4442-0eBook Packages: Mathematics and StatisticsMathematics and Statistics (R0)Share this chapterAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                                Provided by the Springer Nature SharedIt content-sharing initiative
+                             Publish with usPolicies and ethics
+
+
+
+
+
+
+
+
+
+
+Access this chapter
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chapter
+      
+
+
+        EUR 29.95
+       
+
+
+       Price includes VAT (Poland)
+      
+
+        
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter 
+       
+
+
+
+
+
+
+
+ eBook
+      
+
+       EUR 67.40
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+ Hardcover Book
+      
+
+       EUR 85.59
+      
+
+       Price includes VAT (Poland)
+      
+
+   
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+
+
+
+
+
+
+
+Institutional subscriptions
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+
+

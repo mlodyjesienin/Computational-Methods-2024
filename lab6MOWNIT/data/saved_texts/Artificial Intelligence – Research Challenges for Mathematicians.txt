@@ -1,0 +1,738 @@
+
+
+
+
+
+
+Artificial Intelligence – Research Challenges for Mathematicians
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Promoting careers in Business, Industry and Government to students and departments of the mathematical sciences
+
+
+Menu
+Skip to content
+Home
+About Us
+
+Overview
+Partners
+Steering Committee
+By-laws
+
+
+Department Resources
+Student Resources
+Our Events
+Join Mailing List
+
+
+Facebook  
+Instagram  
+Twitter  
+ 
+
+
+
+
+
+
+January 24, 2022January 24, 2022 dariac3
+
+		Artificial Intelligence – Research Challenges for Mathematicians	
+
+
+by Natalia Alexandrov, PhD, Principal Investigator at NASA Langley Research Center
+The previous article described the recommended training for undergraduates majoring in math and interested in working with AI and machine learning (ML), one of the major tools in the contemporary AI toolbox. 
+This article gives a sample of open problems in machine learning that would benefit from mathematical attention. The stage for discussion is narrow Artificial Intelligence (AI), which focuses on solving specific problems in domains of interest. In contrast, Artificial General Intelligence (AGI) and weak AI aim at building an intelligent “mind”, either in its entirety (AGI or strong AI) or in part (weak AI).
+SOme Open Problems of Interest To mathematicians
+AI in all its forms is software that receives information about a part of the world and processes this information to serve in one of two major capacities:
+It can make decisions and control actions of a physical or digital agent, such as the flight of an aircraft. If humans grant a software system the authority to make decisions and act without external control, we call such a system autonomous.Software can also serve in an advisory capacity, such as AI in medical diagnostics softwares, which informs the decision-making of human physicians – but humans have the final say.
+Trustworthiness
+Trustworthiness is a property of the system, such as an expert medical system or an air vehicle and its associated software. It is an assurance that the system does what is required and does not do what is prohibited. Not doing what is prohibited is crucial for safety-critical systems such as in medicine and for safety and time-critical systems such as in air transportation.
+Methods for verifying and validating (V&V) safety-critical software exist in many domains. However, humans, such as pilots, air traffic controllers and physicians, have served as the ultimate decision makers. Moreover, traditional V&V applies to models and algorithms amenable to a clear statement of correctness requirements. Systems that rely on autonomous machine decision-making and, specifically, machine learning, face a new technical challenge: it is not clear how to define correctness properties for ML, so that they can be verified formally. Moreover, ML algorithms lack a well-defined safety envelope. For instance, a deep learning model may excel in visual recognition of numerous cases and yet, after a small change in the image that is invisible to a human eye, the model may mistake a chair for an elephant.
+The identification of correctness properties amenable to rigorous testing is an active and vitally important research area, especially for safety-critical and time-critical applications. When software misidentifies an individual at an airport, the mistake – while annoying and possibly offensive – is easily corrected. But when visual recognition software in an autonomous air taxi mistakes a building for a cloud and tries to fly through it, the error will be fatal. This area of correctness properties in cyber-physical-human systems clearly needs some novel, rigorous mathematical approaches.
+Trustworthiness also includes the ability of algorithms to assess the uncertainty associated with their outputs. This brings up a difficult question of thresholds. All decision-making under uncertainty involves some risk. When deciding on an action, we weigh the uncertainty against the consequences of failure. Suppose that a visual perception algorithm advising a pilot says it is 70% certain that an object in its field of view is a cloud. How useful is this prediction? Is 70% a good threshold for accepting its decision? Would 70% be any better than 69.99%? This kind of risk-based decision-making in the context of machine autonomy is another important area calling out for mathematical analysis.
+Trustworthiness of software models, especially those related to everyday functions such as banking, requires considerations of fairness, equity, and bias. Data processing and algorithm design aimed at removal of biases is an active research area. The National Institute of Standards (NIST) is a good place to start information gathering on this subject.Unfortunately, complete bias removal may be impossible, in principle, because data used to build models in complex systems are never complete. How complete is enough? This is a rich source of timely and practically important problems.
+Is there a set of fundamental rules that, if followed by an AI system, would guarantee its trustworthiness? Asimov’s Three Laws of Robotics are designed to guarantee safety of robotic systems. Many of his stories, famously, deal with the incompleteness and unintended consequences of the Laws. Attempts to complete the Laws have not been successful. 
+Problem Formulation
+AI is about decision-making for solving problems. However, the solution is only as good as the problem formulation. In a very informative paper [1], Amodei et al. describe several critical technical difficulties in the safety of AI algorithms. A student familiar with optimization will note that most of the difficulties have to do with defining the right objective function and constraints in what amounts to an optimization problem formulation.
+This is a particularly important and fruitful open area for mathematical researchers.
+Human-Machine and Machine-Machine Interaction
+While trustworthiness is a property of the system, trust is an attribute of the system’s user or participant. It is the readiness to rely on another system participant for information or direction.
+The traditional discipline of Human Factors deals with the design of efficient and convenient interfaces between humans and machines. Contemporary Human-Machine Interaction (HMI) must also deal with a deep understanding of the algorithms underlying machine decision-making.
+Ideally, a rational agent would trust another agent if that agent is trustworthy in a specific context. How trustworthy must AI be to invoke justifiable trust? How is that threshold measured? Suppose a human and a machine disagree about a decision or two machines disagree about a decision. Who or what has the final word and under what circumstances? Answering these questions calls for mathematical attention.
+An active research area known as Explainable AI or XAI (see, e.g., [2]) is based on the premise that humans will develop justifiable trust in AI-based systems if the system produces output accompanied by explanation or interpretation or justification of the result. While explanations during an algorithm’s operations may be suitable in domains that are not time-critical, in safety-critical and time-critical domains, explanations can be used only during algorithm development and post-operations analysis. Further, what makes an explanation informative? This area is another rich source of important and difficult open problems.
+Online Learning
+In a changing environment, such as planetary exploration, an autonomous machine should ideally be able to update its model as it receives new data. However, this would mean that with each new update, the model is no longer verified or validated. What tractable and reliable methods would maintain V&V of models that can modify themselves in real time during operations? What can be said about the uncertainty associated with updated models?
+Concluding Remarks
+In this section, I touched on a tiny subset of open problems connected with AI that can benefit from mathematical research. Given the growing ubiquity of software-based decision-making, arguably, no area of life will be untouched by AI. Science, engineering, education, environment, economics, medicine, agriculture, the quality of life, and many other domains will pose their own highly multidisciplinary problems to mathematicians interested in AI. And, of course, new air transportation systems and space exploration offer numerous and exciting opportunities for developing intelligent and autonomous machines.
+As a math major, you are uniquely trained in problem solving and prepared to tune fundamental methods of mathematics to many AI application areas. I would highly recommend making use of summer and school-year internship opportunities to gain a good understanding of practical problems in application domains.
+References
+[1] D. Amodei, C. Olah, J. Steinhardt, P. Christiano, J. Schulman, D. Mané, Concrete Problems in AI Safety, arXiv:1606.06565v2 [cs.AI] 25 Jul 2016
+[2] W. Samek, T. Wiegand, K.-R. Muller, Explainable artificial intelligence: Understanding, visualizing and interpreting deep learning models, arXiv:1708.08296v1 [cs.AI] 28 Aug 2017
+Share this:TwitterFacebookLike Loading...
+
+Related
+ 
+
+
+Artificial Intelligence
+GovernmentAIMathematicsNasaProblem SolvingResearch 
+
+ 
+
+
+				Published by dariac3 
+
+
+
+				View all posts by dariac3			
+
+
+
+Post navigation
+Previous BIG Math Network Industry Connection Series: FinanceNext BIG Math Network Industry Connection Series: NASA Research Center
+ 
+
+
+
+Leave a comment Cancel reply
+
+
+
+Δ 
+
+
+
+
+
+All Posts
+
+Artificial Intelligence
+
+Boot Camp
+
+Business
+
+Career Information
+
+Data science
+
+Government
+
+High Performance Computing
+
+Industry
+
+Industry Connection Series
+
+Job Seeking
+
+Mathematical Modeling
+
+Mentoring
+
+News
+
+Opportunity
+
+Organization
+
+Skill Transfer
+
+Sports Analytics
+
+Summer Internship
+
+Uncategorized
+
+
+Check out our book! 
+Click here for more – student price $15
+
+Check out our interview game! 
+Click here for more 
+
+Follow Us via Email
+
+
+Enter your email address to follow this site and receive notifications of new posts by email!
+
+
+						Email Address:					
+ 
+
+
+
+
+
+
+ 
+						Follow					
+
+
+
+ 
+
+
+
+
+
+Create a website or blog at WordPress.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Comment						
+
+
+
+
+Reblog
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+
+
+
+
+
+				bigmathnetwork.org			
+
+
+
+Join 537 other subscribers
+
+
+
+
+
+
+
+ 
+
+												Sign me up											
+
+
+
+
+											Already have a WordPress.com account? Log in now. 
+
+
+
+
+
+
+
+ Privacy						
+
+
+
+ 
+
+
+
+
+
+				bigmathnetwork.org			
+
+
+
+ Customize
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+Sign up
+Log in
+Copy shortlink
+
+
+											Report this content										
+
+
+
+											View post in Reader										
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+%d 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

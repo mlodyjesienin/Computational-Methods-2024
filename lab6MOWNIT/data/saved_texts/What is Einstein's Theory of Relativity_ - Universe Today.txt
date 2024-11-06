@@ -1,0 +1,627 @@
+
+
+
+
+
+
+
+
+What is Einstein's Theory of Relativity? - Universe Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+Universe Today
+Space and astronomy news
+
+
+
+
+
+
+
+
+    Menu 
+Videos
+Newsletter
+Podcast
+Contact Us
+Support Us
+Log in
+
+
+
+
+Albert Einstein during a lecture in Vienna in 1921.
+Credit: National Library of Austria/F Schmutzer/Public Domain
+
+
+
+
+
+
+
+Posted on January 28, 2022January 28, 2022 by Matt WilliamsWhat is Einstein’s Theory of Relativity? 
+
+In the history of science and physics, several scholars, theories, and equations have become household names. In terms of scientists, notable examples include Pythagoras, Aristotle, Galileo, Newton, Planck, and Hawking. In terms of theories, there’s Archimede’s “Eureka,” Newton’s Apple (Universal Gravitation), and Schrodinger’s Cat (quantum mechanics). But the most famous and renowned is arguably Albert Einstein, Relativity, and the famous equation, E=mc2. In fact, Relativity may be the best-known scientific concept that few people truly understand. 
+For example, Einstein’s Theory of Relativity comes in two parts: the Special Theory of Relativity (SR and the General Theory of Relativity (GR). And the term “Relativity” itself goes back to Galileo Galilee and his explanation for why motion and velocity are relative to the observer. As you can probably tell, explaining how Einstein’s groundbreaking theory works require a deep dive into the history of physics, some advanced concepts, and how it all came together for one of the greatest minds of all time!
+
+To break it down, Einstein proposed SR in 1905 to resolve experiments involving light with classical physics. Over the next ten years, Einstien would attempt to generalize the theory to explain how electromagnetism and classic mechanics could be resolved with gravity – which yielded GR. While Einstein’s insights would be confirmed within a few years, they continue to be tested and validated to this very day. 
+Prof. Albert Einstein delivering the 11th Josiah Willard Gibbs lecture at the meeting of the American Association for the Advancement of Science in on Dec. 28, 1934. Credit: AP Photo
+As Einstein is credited with once saying, “If you can’t explain it to a six-year-old, you don’t understand it yourself.” But as noted already, doing that means getting into some history and advanced concepts – like universal gravitation, inertial reference frames, mass-energy equivalence, spacetime, etc. But with a little patience and dedication, the theory of Relativity is something that anyone is capable of understanding. 
+Galileo and Newton
+The story of Relativity goes back to the 17th century and the work of famed Italian astronomer and polymath Galileo Galilee. In 1632, Galileo published Dialogue Concerning the Two Chief World Systems, which many consider to be his magnum opus. In this work, Galileo explained in simple terms how the Heliocentric Model of the Universe (as described by Copernicus) resolved issues that the Geocentric Model could not explain. Among other things, Galileo explained why the Earth’s motion was not obvious to people on its surface.
+In keeping with his ability to convey complex ideas with simple and erudite logic, Galileo illustrated how this was possible using the metaphor of a ship at sea. In short, Galileo said that if a person standing on the deck were to drop a ball of wax into a vase of water, they would see the ball descend directly down to the bottom. This would apply regardless of whether the ship was in motion or not. The reason, he stated, is because the ball and everything aboard the ship is part of the ship’s inertial reference frame – i.e., it moves with it. 
+The same, he argued, holds for a person standing on the surface of Earth as it moves:
+“Now these things take place in motion which is not natural, and in materials with which we can experiment also in a state of rest or moving in the opposite direction, yet we can discover no difference in the appearances, and it seems that our senses are deceived. “Then what can we be expected to detect as to the earth, which, whether it is in motion or at rest, has always been in the same state? And when is it that we are supposed to test by experiment whether there is any difference to be discovered among these events of local motion in their different states of motion and of rest, if the earth remains forever in one or the other of these two states?”
+Galileo Galilei displaying his telescope to Leonardo Donato. Credit: Wikimedia Commons
+However, to an observer on the shore, Galileo claimed that things would look quite different. If the person standing on the ship’s deck dropped the ball over the side, it would appear to them that it still fell straight down. But to the observer on the shore, it would look like it was following a parabolic path. To them, the ball’s motion would visibly be the result of motion imparted by the moving ship with the Earth’s gravitational pull. In short, the motion and velocity would be relative to the observer. 
+This came to be known as Galilean Relativity (or Galilean Invariance), which came down to a single postulate: “[A]ny two observers moving at constant speed and direction with respect to one another will obtain the same results for all mechanical experiments.” In other words, the physical mechanics of a system are the same in all reference frames, provided the motion and velocity of the observers remain constant. However, if either of these parameters changes, then the mechanics will change (more on that later).
+The explanation would become a key argument used in defense of the Heliocentric Model. For Earth-based observers, the motions of the planets, the Sun, the Moon, and the stars were all relative to the observer (us). But when one cataloged the motions (and the relative size) of these objects in the night sky over time, they would see how these observations could only be explained by the motion of the Earth around the Sun (as well as the rotation of Earth itself) at a constant velocity.
+By 1687, Sir Isaac Newton would revolutionize our understanding of physics with his magnum opus, Philosophiæ Naturalis Principia Mathematica. In this tome, Newton synthesized Galileo’s theories on motion with his research into gravitation, which was summarized with his Three Laws of Motion. These included:
+A body continues in its state of rest, or in uniform motion in a straight line, unless acted upon by a force.A body acted upon by a force moves in such a manner that the time rate of change of momentum equals the force.If two bodies exert forces on each other, these forces are equal in magnitude and opposite in direction.
+
+
+
+These three laws describe three physical constants that remain central to modern physics: Intertia, which states that bodies will remain in a state of motion unless an external force speeds them up or slows them down; Force, which can be summarized mathematically as the mass of an object multiplied by its acceleration (F=ma); and Action-Reaction, which establishes when an object exerts a force on another object, the second object exerts an equal and opposite on the first.
+This laid the groundwork for Newton’s Universal Gravitation, which states that all point sources with mass attract each other through gravitational force; and the Inverse Square Law, which states that this force is directly dependent on the masses of both objects and inversely proportional to the square of the distance between their centers. In short, Newton argued that the same force that caused the apple to fall from a tree (Newton’s Apple) causes the planets to orbit the Sun, the Moon to orbit Earth, and all other orbital mechanics in the Solar System.
+A consequence of Newton’s Universality was that scientists would henceforth see space and time as reference frames that were fixed and separate. Basically, an object’s position and motion could be described in terms of three dimensions in space – length, height, and depth (or the x, y, z axes) – and one dimension in time. This framework for understanding the Universe would become canon for the next two hundred years. Newton’s theories were so influential that the terms Classical Physics and Newtonian Physics (or Mechanics) would be used interchangeably. 
+By the mid-to-late 19th century, new discoveries in the fields of astronomy, electromagnetism, and particle theory would knock these conventions on their ear. What had previously seemed like an orderly Universe consisting of space and time, matter and energy, and universal reference frames would be replaced by relativistic effects, time dilation, and “spooky action at a distance.”
+Electromagnetism
+By the mid-19th century, scientists had made multiple breakthroughs in the study of optics (light and colors) and electromagnetic (EM) phenomena. This led to the realization that light is a form of EM radiation and that its properties (how it behaves like a wave) were similar to the propagation of electrical current. Moreover, experiments performed by this time yielded highly-accurate estimates in the speed of light – 299,792,458 m/s (1.079 billion km/h; 670.6 million mph). 
+In addition, the theoretical work of James Clerk Maxwell and Hendrik Lorentz established that electric and magnetic forces behaved as fields that exert force on point charges. These were summarized in Maxwell’s Equations (1861-62) and the Lorentz Force Law (1895), which describe how electric and magnetic fields are generated by charges, currents, and changes of the fields. Together, these principles form the basis of classical electromagnetism, optics, and electric circuits.
+
+
+
+These experiments also yielded highly-accurate estimates for the speed of light – which is currently clocked at 299,792,458 m/s (1.079 billion km/h; 670.6 million mph). Unfortunately, these experiments also presented theoretical problems as far as Classical Physics was concerned. In all cases, the measured speed of light was constant, regardless of whether the source was moving relative to the observer or not. This contradicted a basic tenet of Classical Mechanics and Galilean Relativity. 
+For example, Earth’s rotation on its axis essentially means that it is rotating towards the Sun. This means that when the Sun is in the east, the light reaching an observer would be approaching and therefore have a greater measured velocity than light observed from any other direction. However, experiments involving optics and the refraction of light, like those performed by Augustin Fresnel in 1818, showed no measurable change in the speed of light.
+The Mysterious “Aether”
+As a result, scientists began postulating by the early 19th century that space must be filled with some invisible “aether.” This medium, they argued, allowed light to propagate through space but also meant that light was dragged along by it – leading to a change in its velocity. This was exemplified by Fresnel’s partial aether-drag hypothesis, where he stated that the motion of the Earth does not have any influence on how light refracts because “the ether is partially carried along by the earth and light waves inside the optical medium are partially dragged along with the ether.” 
+This is similar to how sound travels in air or water or ripples propagate across the surface of a pond. Alas, the experiments conducted throughout the 19th century continually indicated that the speed of light was constant. To resolve these theoretical issues with the experimental results, scientists needed to measure the effects of this aether to determine its properties. This required that scientists show that the measured speed of the light was a simple sum of its speed through the medium, plus the speed of the medium. 
+Hippolyte Fizeau attempted to prove this with his “water tube experiment” (or Fizeau experiment), which he conducted in 1851. After measuring the speed of light in moving water through tubes, Fizeau’s results indicated that light was being dragged along by the medium – the water. This appeared to confirm earlier experimental results, such as those conducted by Augustin Fresnel and Sir George Strokes. However, the magnitude of the effect that Fizeau observed was far lower than expected.
+
+
+
+Another famous example was the Michelson-Morley Experiment (1887) conducted by American physicists Albert A. Michelson and Edward W. Morley. Using a chamber and a series of mirrors, they attempted to measure the speed of light from different angles – a horizontal one corresponding to Earth’s rotation towards the Sun and a perpendicular one. If such an “aether” existed, then the Earth’s movement through it (and towards the Sun) would result in a noticeable difference with the horizontal beam.
+Once again, the experiment yielded negative results since there was no observable difference between the measured speeds of the light beams. At this point in the game, Einstein would come along and offer a brilliant insight, analysis, and synthesis of the theoretical and experimental data. This occurred in 1905 when Einstein first revealed what would be known as his Theory of Special Relativity (SR).
+Enter Einstein
+In 1905, during his “annus mirabilis” (miracle year), Einstein published his dissertation, as well as four groundbreaking papers that would bring him to the notice of the international scientific community. One of them was “On the Electrodynamics of Moving Bodies,” where Einstein proposed what would come to be known as his Theory of Special Relativity (SR). This theory resolved Maxwell’s equations and the Lorentz force law with Newton’s Laws of Motion and came down to two postulates:
+The laws of physics are identical in all non-accelerated inertial reference framesThe speed of light in a vacuum is constant, regardless of the motion of the observer or light source
+A key aspect of Einstein’s breakthrough was Lorentz Transformations, which the elder physicist derived when examining the experiments concerning the behavior of light. To explain why light did not conform to Relativity, Lorentz theorized that things become distorted (compacted) along the path of travel in an accelerated inertial reference frame. As Einstein theorized, objects approaching the speed of light (c) will observe no change in c coming from external sources, but they will notice time is moving slower for them than the 
+Like his predecessor, Galileo, Einstein related the mechanics of this concept using a metaphor, a slightly updated one at that. According to Einstein, a person traveling on a train will notice the same relativistic effects Galileo mentioned, where a ball will fall straight to the floor. To an observer beside the tracks, the same boll dropped over the side of the train would appear to fall along a parabolic path. Now substitute the ball with a series of mirrors. 
+
+
+
+The person riding the train holds one in their hand while another is directly beneath it on the floor. To the person holding the mirror, a beam of light would appear to be bouncing up and down repeatedly. Now imagine another mirror is located on the wall at the head of the car. If the person reoriented the mirror in their hand to face it, a beam of light would appear as if it were bouncing back and forth across the train car. In all cases, the light would appear to be traveling at a constant speed (c). 
+But to the person standing beside the tracks, the light would appear to be zig-zagging along in the first scenario, trying to catch up with the moving mirrors. In the second scenario, it would appear as if the light were moving slower as it went from the handheld mirror to the one in the front of the car. Alas, if they could time it, they too would record a constant speed of c. Instinctively, this would make little sense to the two observers until they consulted their watches. 
+For the person riding in the train cart, time would have moved (infinitesimally) slower. The difference would be immeasurable, but if the moving reference frame were something like a spacecraft capable of traveling at a fraction of the speed of light, the difference would be impossible to miss. Essentially, the person in the moving reference frame has experienced time at a slower rate, an effect known as “time dilation.” As objects get closer and closer to the speed of light, this effect increases. 
+However, Einstein and his contemporaries still held to the Conservation of Energy Law first proposed and tested by Émilie du Châtelet in the 18th century. This law states that the total energy of an isolated system remains constant and is conserved over time. Applying this same reasoning to objects approaching the speed of light, Einstein’s derived the equation E=mc2, where E is the total amount of energy in a system, m is the system’s mass, and c is the system’s acceleration towards the speed of light. 
+According to this law, objects accelerating towards the speed will experience an increase in their inertial mass. This means that more energy is required to maintain the object’s acceleration over time and that the speed of light is absolute. Not only would an object require an infinite amount of energy to achieve the speed of light, but its mass would also become infinite in the process. Another startling consequence was how mass and energy are interchangeable in this equation. 
+
+
+
+If mass and energy are switched around in the equation, the outcome remains the same. This came to be known as the principle of Mass-Energy Equivalence, which states that energy and mass are essentially two sides of the same coin. Another consequence of SR is how it interprets space and time as two expressions of the same reality. Per Newtonian Physics, scientists viewed the geometry of the Universe in terms of three dimensions – height, length, and width (or an x, y, and z axes) – and one dimension of time.
+In other words, Newtonian Physics viewed space and time as separate and fixed. But by showing how time was relative to the observer in an accelerated reference frame, Einstein’s presented a four-dimensional geometry consisting of three dimensions of space and one dimension of time – aka. Spacetime! Almost immediately, scientists began adopting Einstein’s SR because of the way it resolved electromagnetism with Newton’s theories of motion and for how it did away with the need for an “aether.” 
+General Relativity
+Between 1905 and 1915, Einstein sought to generalize SR by extending it to account for gravity. This was largely due to theoretical problems arising from Newton’s theory of Universal Gravitation. Previously, astronomers found that Newton’s equations could account for the orbits of most of the then-known Solar bodies. However, Mercury’s orbit presented a long-term peculiarity that Newton’s equations couldn’t account for. In addition to having a highly-eccentric orbit, Mercury’s perihelion also moves around the Sun over time.
+This is known as a “precession of perihelion,” where the farthest point in a planet’s orbit moves around the parent body over time. There was the way Newton’s theories interpreted gravity as an attraction between point sources with mass. But if this were true, then the force of attraction would be something that occurred instantaneously between objects, even if it was particularly weak over long distances. But as Einstein demonstrated with SR, information is not communicated instantaneously across spacetime.
+There were also several outstanding issues regarding how SR applied to the Universe at large. The first issue was the idea of instantaneous communication. As Einstein previously demonstrated with SR, information is not communicated instantly across spacetime but is limited to the speed of light. A supernova that takes place 1 billion light-years away will appear to be presently exploding in the night sky to us but took place 1 billion years ago.
+
+
+
+In keeping with the laws of electromagnetism, Einstein ventured that gravity acted as a field rather than an instantaneous pull. The greater the mass, the more powerful the field within which objects would be attracted to each other. Another important issue was acceleration, which Einstein illustrated using another clever (and updated) metaphor: a passenger on an elevator. If someone were to cut the cable, the elevator would begin to fall at a rate of 9.8 m/s2 (Earth-normal gravity, or 1 g) towards the center of the Earth.
+The passenger would experience the sensation of weightlessness (freefall) right up until the point where the elevator crashed! The same holds for any object experiencing acceleration, be they boats, planes, trains, automobiles, or spacecraft. At a constant velocity, people traveling within an inertial reference frame (in the absence of external reference points) would not be aware that they were even moving. In fact, a passenger or crew in space would feel weightless if the spacecraft were at rest or moving at a constant velocity.
+But if the reference frame accelerated, anyone inside would be thrust in the opposite direction of travel. If the acceleration were equal to 9.8 m/s2, the crew would experience the sensation of Earth-normal gravity. If the spacecraft were oriented with its vertical axis pointed in the direction of travel, the acceleration would keep the crew’s feet firmly planted on the floor. The same principle applies to pinwheel stations or rotating cylinders in space, where the rotational velocity generates a centripetal force that causes objects to be pulled outwards.
+For people aboard the station, this force creates the sensation of gravity. Depending on the radius and velocity of the station, the “artificial gravity” can be equal to Earth-normal gravity. Since the late 20th century, many noted scientists have proposed that such facilities could be the key to exploring and settling the Solar System – including Konstantin Tsiolkovsy, Werner von Braun, and Gerard K. O’Neill (where the O’Neill Cylinder gets its name). The bottom line is that acceleration is indistinguishable from gravity in an inertial reference frame. 
+Last, but not least, there was the issue of time dilation, as raised by SR and Lorentz Transformations. If acceleration causes time dilation, then this means that gravity itself has an effect on spacetime. From this, Einstein’s General Relativity (GR) was born! Instead of gravity being a force of attraction between point masses, said Einstein, gravity itself is a consequence of the curvature of spacetime, which is altered by the presence of a massive object. Ergo, when objects orbit one another, they are not being “pulled,” but tracing the curvature of that spacetime.
+
+
+
+In November 1915, Einstein presented his Field Equations to the Prussian Academy of Science in Berlin, Germany. These equations specify how the four-dimensional geometry of spacetime is influenced by gravitational fields (mass) and radiation (electromagnetic forces). In the words of John Wheeler, “spacetime tells matter how to move; matter tells spacetime how to curve.” From all of this, Einstein’s General Theory of Relativity (GR) was officially born and would quickly become foundational to our modern understanding of physics.
+Much like SR, Einstein’s generalized theory of Relativity would have several theoretical consequences. For starters, if what Einstein was saying was true, it meant that gravitational fields and the resulting curvature of spacetime would affect everything, including light! This prediction presented astrophysicists with the means to test GR, and the first opportunity came in 1919. At this time, Frank Dyson, Arthur Eddington, and a team of astrophysicists conducted an experiment during a solar eclipse (the Eddington Experiment).
+Eddington Experiment
+In the century since Einstein’s formalized his theory, SR and GR have been repeatedly tested and validated. Some of these tests involved small-scale experiments, while others were conducted under the most extreme conditions. In the case of the Eddington Experiment (or Expedition), the test consisted of observations made during a solar eclipse from two equatorial observatories – one located on the northeast coast of Brazil, the other on the island of Sao Tome and Principe off the coast of West Africa.
+Specifically, the expedition team was looking for stars passing behind the Sun during the eclipse. If Einstein’s theory were correct, the light coming from these stars would trace the spacetime curvature caused by the Sun’s gravity. To the observers, this effect would make it look like the stars themselves were next to the Sun. With the Sun’s radiance effectively blocked by a total eclipse by the Moon, the light would be visible to their expeditions’ instruments.
+Not only did the teams at both observatories see these stars, but their positions in the night sky were precisely where Einstein’s Field Equations predicted they would be. The story was immediately picked up by newspapers worldwide and posted on their front pages, making Einstein and General Relativity an overnight sensation! However, this was one of many tests and predictions that ultimately proved Einstein’s theories to be correct.
+In time, GR would be incorporated into all areas of modern physics, ranging from electromagnetism and astrophysics to particle physics and the then-emerging field of quantum mechanics. Interestingly, some of the theories that would arise from Einstein’s breakthrough would not sit well with the astrophysicist. In fact, he would consider some of them (like cosmic expansion and quantum theory) to be downright heretical (and “spooky”)!
+
+
+
+Cosmic Expansion 
+For example, in 1917, Einstein attempted to use GR to create a model of the structure of the Universe. To his dismay, he found that on the cosmic scale, his Field Equations predicted that the Universe was either in a state of expansion or a state of contraction. In order to prevent galaxy clusters and the large-scale structure of the Universe from collapsing in on itself, something needed to be counteracting gravity on the largest of scales. Since he preferred the idea of a constant and unchanging Universe (a common view at the time), Einstein introduced a new concept to GR.
+This was known as the Cosmological Constant, represented by the mathematical character Lambda in his Field Equations. This force, he ventured, was responsible for “holding back gravity” and ensuring that the matter-energy density of the cosmos remained the same over time. By doing this, Einstein found himself caught up in the debate between proponents of the Steady State Hypothesis and the Big Bang Theory of cosmology (which would eventually be resolved in favor of the Big Bang model). 
+Einstein’s new theory would also attract challenges from some of his peers, who viewed it as an unstable fix to the problems presented by GR. In 1922, Russian physicist Alexander Friedmann mathematically showed how Einstein’s Field Equations were consistent with a dynamic Universe (The Friedmann Equation). This was followed by Belgian astrophysicist Georges Lemaître in 1927, who demonstrated that GR and an expanding Universe were consistent with astronomical observations, particularly those of American astronomer Edwin Hubble. 
+In 1931, Einstein visited Hubble at the Mount Wilson Observatory, where he witnessed how galaxies were receding from the Milky Way. In response to what Hubble presented him, Einstein formally announced that he was dropping the Cosmological Constant from his theories, claiming that it was the “biggest blunder of my career.” Meanwhile, astrophysicists would continue to measure the rate at which the cosmos was expanding, which would come to be known as Hubble’s Law (aka. the Hubble-Lemaitre Law). However, observations made throughout the 1990s (particularly with the Hubble Space Telescope) showed that the rate of cosmic expansion increased with time!
+This led astrophysicists to theorize that there was a mysterious force counteracting gravity. But rather than preventing the Universe from collapsing on itself, this force was actively driving it apart. Today, we know this force as Dark Energy. Along with Dark Matter, it is a key ingredient to the most widely accepted cosmological model – the Lambda Cold Dark Matter (LCDM) model. 
+
+
+
+Black Holes, Lensing, and Waves
+In 1915, just a few months after Einstein unveiled GR, German physicist and astronomer Karl Schwarzschild found a solution to Einstein’s Field Equations that predicted the existence of black holes. According to this solution, the mass of a sphere can become so compressed that the escape velocity from the surface would be equal to the speed of light. This is now called the Schwarzschild Radius, which describes the minimum dimensions a spherical mass must collapse to form a black hole.
+In 1924, Eddington observed how Einstein’s theory allowed astronomers to rule out the existence of visible stars with overly large densities. According to Eddington, such dense bodies would “produce so much curvature of the spacetime metric that space would close up around the star, leaving us outside (i.e., nowhere).” 
+In 1931, Indian-American astrophysicist Subrahmanyan Chandrasekhar offered a resolution to SR by calculating how a sufficient mass of electron-degenerate matter (in a non-rotating body) would collapse in on itself. This came to be known as the Chandrasekhar Limit. When combined with Schwarzschild’s calculation, astrophysicists now had estimates on the mass and radius limits of black holes. 
+In 1939, Robert Oppenheimer and other scientists concurred with Chandrasekhar’s analysis, claiming that neutron stars above a prescribed limit would collapse into black holes. They also defined the outer boundary of the Schwarzschild radius as the edge of a singularity, within which time would stop. To external observers, a black hole would be perceived as a star frozen in time at the instant of collapse, but an infalling observer would have an entirely different experience. 
+Another effect predicted by GR is how gravitational fields can bend and focus light coming from more distant sources. This is known as Gravitational Lensing, where a particularly massive object acts as a “Lens” to amplify light forces beyond (or behind) it. This method has also been used to test Einstein’s GR under extreme conditions, such as observations of Sagittarius A*, the supermassive black hole (SMBH) at the center of the Milky Way. A modified version of this technique, Gravitational Microlensing, also detects exoplanets around distant stars.
+
+
+
+Yet another prediction that emerged from GR is the rippling effect that gravitational forces can have on spacetime. This occurs when two particularly massive objects (neutron stars, black holes, or SMBHs) merge and release a tremendous amount of energy in the form of Gravitational Waves. The first confirmed detection of these waves was made by the Laser Interferometer Gravitational-Wave Observatory (LIGO) in 2016, roughly a century after Einstein first predicted them. 
+Einstein’s Theory of Relativity would also have a profound influence in the emerging field of Quantum Mechanics. The discoveries he would help make here were another source of consternation for him. Among them, the principle of quantum entanglement, which he would characterize as “spooky action at a distance,” and that the Universe was characterized by the semi-chaotic nature of Schrodinger’s Equation of quantum wave function and Heisenberg’s Uncertainty Principle.
+Even though Einstein would resist some of the breakthroughs he helped inspire, the role he played in revolutionizing modern physics cannot be denied. Of all the contributions he made, however, none begin to approach the significance (or consequence) of Relativity. Over a century after he finalized his generalized theory, advanced experiments continue to demonstrate just how correct he was. Little wonder why it remains part of the foundation upon which modern physics, quantum physics, astrophysics, and cosmology rest. 
+We have many articles on Einstein’s theories of Relativity here at Universe Today. Here’s Who was Albert Einstein?, Einstein Still Rules Says Fermi Telescope Team, Einstein. Right Again, Why Einstein Will Never Be Wrong, Astronomy Jargon 101: Gravity, What is Gravitational Lensing?, and What are Gravitational Waves?
+Two Astronomy Cast episodes are worth a special listen, Einstein’s Theory of Special Relativity, and Einstein’s Theory of General Relativity.
+For more information, check out Albert Einstein and the Theory of Relativity (from the University of Tennessee) and Relativity Tutorial (Ned Wright, UCLA).
+Share this:Click to share on Facebook (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on Reddit (Opens in new window)Like this:Like Loading... 
+  CategoriesAstronomy, Guide to Space, Physics  TagsBlack Holes, Einstein, electromagnetism, Featured, General Relativity, Gravitational Lensing, Gravitational Waves, gravity, relativity, special relativity
+
+
+Post navigation
+Previous PostPrevious   The Scientific Debate Rages on: Is there Water Under Mars’ South Pole?Next PostNext Is the Underground Lake on Mars Just Volcanic Rock?  
+
+
+
+
+
+
+
+
+Privacy Policy 
+Proudly powered by WordPress 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+%d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

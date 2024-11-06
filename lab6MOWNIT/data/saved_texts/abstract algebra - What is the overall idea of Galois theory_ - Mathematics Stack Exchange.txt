@@ -1,0 +1,1012 @@
+
+
+
+
+abstract algebra - What is the overall idea of Galois theory? - Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+What is the overall idea of Galois theory?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+9 years, 7 months ago
+
+
+Modified
+3 years, 2 months ago
+
+
+Viewed
+                        3k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            16
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I am a third year undergraduate, doing a course on Field and Galois theory. Now, while I seem to understand most of the concepts locally, I do not seem to get the 'Whole picture' of what is happening in Galois theory, and things seem to be a bit disconnected. I would be grateful if some could help me get an overall picture of the subject. The whole, I believe, is greater than the sum of its parts.
+I am familiar with the concepts of field theory, such as extensions, separability, splitting fields, finite fields and all the other basic concepts you would expect to know to study Galois theory, and also have a fair understanding of the main concepts of Galois theory. I just dont get the whole picture. Thanks.
+
+
+
+
+abstract-algebrasoft-questionfield-theorygalois-theorybig-picture
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Nov 2, 2014 at 12:42
+
+
+
+
+
+
+Shaun
+
+45.6k1919 gold badges6868 silver badges179179 bronze badges
+
+
+
+
+
+
+
+
+            asked Nov 2, 2014 at 12:41
+
+
+
+
+
+
+user13987user13987
+
+30522 silver badges77 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+16
+
+
+
+
+
+
+3
+
+
+
+
+$\begingroup$
+Start with the fundamental theorem of Galois theory (for finite Galois extensions, and infinite ones). This gives a good idea about the whole picture.
+$\endgroup$
+
+– Dietrich Burde
+
+Nov 2, 2014 at 12:46
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+A rational polynomial is solvable by radicals if, and only if, its Galois group is solvable.
+$\endgroup$
+
+– Git Gud
+
+Nov 2, 2014 at 12:47
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+As others have pointed out, one of the central points of Galois theory is that you can study field extensions by doing group theory.
+$\endgroup$
+
+– Hayden
+
+Nov 2, 2014 at 12:48
+
+
+
+
+
+
+6
+
+
+
+
+$\begingroup$
+The idea is even more general. Having some object, you can get to study the objects containing your object or that are contained in your object by looking at the subgroups of the group of automorphisms of your object. Mainly, you can get results in your subject via group theory.
+$\endgroup$
+
+– Lolman
+
+Nov 2, 2014 at 13:08
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+@user138359 in the chapter 1.3 about covering spaces in Hatcher, Algebraic topology we relate a locally simply connected topological space with its fundamental group, and the subgroups of it as all the possible connected coverings of it.  On a different note: Jacobson's Basic Algebra 2 page 467 we have a relation between subfields with finite codimensions of some field $E$ correspond to a set of endomorphisms of $E$.
+$\endgroup$
+
+– Lolman
+
+Nov 2, 2014 at 14:07
+
+
+
+
+
+
+
+ | 
+Show 11 more comments
+
+
+
+
+
+
+
+
+
+
+                                        1 Answer
+                                    1
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Galois theory is a branch of abstract algebra that gives a connection between field theory and group theory, by reducing field theoretic problems to group theoretic problems. 
+It started out by using permutation groups to give a description of how various roots of a polynomial equation are related, but nowadays, Galois theory has expanded to involve automorphisms of field extensions. 
+It was motivated by looking for the roots of fifth degree polynomials in terms of the coefficients of the polynomial using algebraic operations and the application of radicals. Galois answered this question and gave us a method for examining/checking that an equation higher degree can be solved in this way. 
+The epitome of Galois theory is the fundamental theorem of Galois theory. It describes the structure of field extensions. It says that for a finite and Galois field extension $E/F,$ there is a one-to-one correspondence between its intermediate fields and subgroups of its Galois group.  
+Does that help?
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Apr 29, 2015 at 16:20
+
+
+
+
+
+
+        user230715user230715
+
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Yes it does, thanks.
+$\endgroup$
+
+– user13987
+
+May 5, 2015 at 13:11
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+                                    You must log in to answer this question.
+                                
+
+
+Not the answer you're looking for? Browse other questions tagged abstract-algebrasoft-questionfield-theorygalois-theorybig-picture.                                
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+3
+
+Finding Polynomials of Intermediate Galois extensions
+
+
+
+8
+
+First examples in Galois theory
+
+
+
+3
+
+Topology in Infinite Galois Theory.
+
+
+
+3
+
+Basics of fields/field extensions
+
+
+
+3
+
+Galois Theory without the Primitive Element Theorem
+
+
+
+4
+
+Does a Galois extension always have the same order over the field from which it is extended for which polynomial it is a splitting field for?
+
+
+
+3
+
+Question on Garling Approach to Galois Theory
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    How could the switch from steam to diesel locomotives be delayed 20-30 years?
+                
+
+
+
+                    How to make the battle against Tiamat last longer?
+                
+
+
+
+                    Create repeating geometry across a face
+                
+
+
+
+                    Why Did The Drywall Tape Fail in My Garage? And How Can I Fix It?
+                
+
+
+
+                    Find characters common among all strings
+                
+
+
+
+                    British child with Italian mother. Which document can she use to travel to/from Italy on her own?
+                
+
+
+
+                    What happens to the souls of non-evil creatures when they reach their aligned outer plane?
+                
+
+
+
+                    Can this flying island survive a 15kt nuke? (and if yes, how much more can it take?)
+                
+
+
+
+                    TikZ - how to draw ticks on circle perpendicularly with ellipses around?
+                
+
+
+
+                    Proving differentiability by testing continuity of the partials?
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+                    Do you still cross out and redo the page numbers if you do it wrong in your scientific notebook?
+                
+
+
+
+                    Can someone explain the damage distrubution on this aircraft that flew through a hailstorm?
+                
+
+
+
+                    Book where the populace is split between two sects, that of the “hand” and that of the “mind"
+                
+
+
+
+                    Are dichotomous categorical variables technically interval/continuous measures?
+                
+
+
+
+                    Is a weak appliance behind a reverse proxy affecting the security of the home network?
+                
+
+
+
+                    In the Unabomber case, was "call Nathan R" really mistakenly written by a New York Times intern?
+                
+
+
+
+                    How do I emphasize a sentence without making it seem like the character is shouting?
+                
+
+
+
+                    Is this deck post getting cracks due to overloaded?
+                
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    What do humans do uniquely, that computers apparently will not be able to?
+                
+
+
+
+                    Structure that holds the twin-engine on an aircraft
+                
+
+
+
+                    70s or 80s film or TV show with a handgun that fires backwards and a torture chamber that burns the skin off and chars the victims black
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

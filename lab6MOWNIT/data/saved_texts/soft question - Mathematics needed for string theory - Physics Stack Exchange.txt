@@ -1,0 +1,1166 @@
+
+
+
+
+soft question - Mathematics needed for string theory - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+Mathematics needed for string theory [duplicate]
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+8 years, 10 months ago
+
+
+Modified
+8 years, 10 months ago
+
+
+Viewed
+                        19k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            8
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+
+
+
+
+
+
+
+This question already has answers here:
+                                
+                            
+
+
+
+
+Prerequisites and introduction to string theory [duplicate]
+
+
+Introduction to string theory
+
+                                (8 answers)
+                            
+
+Closed 8 years ago.
+
+
+
+I'm interested in cutting edge string theory studied by research physicist. I'm wonder what  mathematics is needed and how far am I in terms of mathematics background needed and how much more mathematics do I need in order to study it properly and reach my goal. My mathematics level is at calculus/Linear algebra.
+
+
+
+
+string-theorysoft-questioneducationmathematics
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jul 20, 2015 at 17:51
+
+
+
+
+
+
+Qmechanic♦
+
+205k4747 gold badges560560 silver badges2.3k2.3k bronze badges
+
+
+
+
+
+
+
+
+            asked Jul 20, 2015 at 16:59
+
+
+
+
+
+
+ys wongys wong
+
+26511 gold badge22 silver badges77 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+You have a very long way to go in terms of math knowledge.
+$\endgroup$
+
+– Jim
+
+Jul 20, 2015 at 17:06
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+tensor calculus, group theory, topology, etc. The list is long.
+$\endgroup$
+
+– Jim
+
+Jul 20, 2015 at 17:08
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Why string theory? Even Sheldon knows better.
+$\endgroup$
+
+– john
+
+Jul 20, 2015 at 17:39
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Related: physics.stackexchange.com/q/5495/2451
+$\endgroup$
+
+– Qmechanic
+♦ 
+Jul 20, 2015 at 17:57
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        2 Answers
+                                    2
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Some years ago, Gerard 't Hooft posted "How to Become a Good Theoretical Physicist", which is more inclusive than just string theory but which you'll probably still find a valuable list.  Here's what he recommends for mathematics:
+"Primary Mathematics":
+
+
+Natural numbers: 1, 2, 3, …
+Integers: …, -3, -2, -1, 0, 1, 2, …
+Rational numbers (fractions): 1/2, 1/4, 3/4, 2379/1773, …
+Real numbers: Sqrt(2) = 1.4142135… , π = 3.14159265… , e = 2.7182818…, …
+Complex numbers: $2+3i$, $e^{ia}= \cos(a) + i \sin( a)$, … they are very important!
+Set theory: open sets, compact spaces. Topology.  You may be surprised to learn that they do play a role indeed in physics!
+Algebraic equations. Approximation techniques. Series expansions: the Taylor series.
+Solving equations with complex numbers. Trigonometry: sin(2x)=2sin x cos x, etc.
+Infinitesimals. Differentiation. Differentiate basic functions (sin, cos, exp).
+Integration. Integrate basic functions, when possible. Differential equations. Linear equations.
+The Fourier transformation. The use of complex numbers. Convergence of series.
+The complex plane. Cauchy theorems and contour integration (now this is fun).
+The Gamma function (enjoy studying its properties).
+Gaussian integrals. Probability theory.
+Partial differential equations. Dirichlet and Neumann boundary conditions.
+
+
+"Advanced Mathematics":
+
+
+Group theory, and the linear representations of groups
+Lie group theory
+Vectors and tensors
+More techniques to solve (partial) differential and integral equations
+Extremum principle and approximation techniques based on that
+Difference equations
+Generating functions
+Hilbert spaces
+Introduction to the functional integral
+
+
+There is almost nothing on these lists that's jumps out at me as unnecessary for string theory, with the possible exception of probability theory (and even then, it's so baked in to quantum mechanics that it'd be hard to leave it out.)
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 20, 2015 at 17:32
+
+
+
+
+
+
+Michael SeifertMichael Seifert
+
+49.5k1313 gold badges9797 silver badges168168 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+3
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
++1 because of how depressing it is to read this list and see how much more one has to learn to be a good physicist.
+$\endgroup$
+
+– Jim
+
+Jul 20, 2015 at 17:45
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Update: I have learnt a lot since, I now have calculus, multivariable calculus, ODE,Group Theory, Real Analysis, Numerical Analysis,Fourier Analysis, Complex Analysis, PDE
+$\endgroup$
+
+– ys wong
+
+Jan 30, 2018 at 18:51
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@yswong Have you studied QFT yet?
+$\endgroup$
+
+– bolbteppa
+
+Jun 11, 2019 at 14:38
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+It really depends on what you want to research within string theory, but it's one of most mathematically intensive areas within physics. List a mathematical discipline, and chances are you can apply it within string theory.
+At a bare minimum, you'll need everything through quantum field theory and general relativity, which includes calculus of variations, complex analysis, group theory, PDEs, path integrals, differential geometry, maybe some topology and anything else I've forgotten. String theory usually builds on this with at the very least a little algebraic geometry. If you take cues from people on the nLab, category theory can be big in string theory. Pick any combination of differential/algebraic and geometry/topology and it will be useful in string theory. Number theory as well.
+Pick some math and learn it and it's hard to go wrong.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 20, 2015 at 17:10
+
+
+
+
+
+
+JohnnyMo1JohnnyMo1
+
+74144 silver badges1515 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged string-theorysoft-questioneducationmathematics or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+33
+
+Introduction to string theory
+
+
+
+3
+
+Prerequisites and introduction to string theory
+
+
+
+1
+
+Mathematical prerequisites for M-theory
+
+
+
+1
+
+Mathematics involved in string theory
+
+
+
+5
+
+What does it take to become a top physicist?
+
+
+
+0
+
+Knowledge pre-requisite on mathematics and physics in order to study string theory
+
+
+
+
+Related
+
+
+
+3
+
+S-Matrix, String theory, Matrix mechanics and Quantum Mechanics
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    What scientific evidence there is that keeping cooked meat at room temperature is unsafe past two hours?
+                
+
+
+
+                    Meaning of にしておく here
+                
+
+
+
+                    can you roll your own .iso for USB stick?
+                
+
+
+
+                    What's the difference between cryogenic and Liquid propellant?
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    How to cut a large piece of marble 1” thick
+                
+
+
+
+                    What do humans do uniquely, that computers apparently will not be able to?
+                
+
+
+
+                    For the square wave signal, why does a narrower square wave correspond to more spread in the frequency domain?
+                
+
+
+
+                    Executable files with a bytecode compiler/interpreter
+                
+
+
+
+                    Formula to return row pairs of data based on number in second row
+                
+
+
+
+                    Brake Line no Longer Connected to Brake Lever
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+                    Why are ETFs so bad at tracking Japanese indices?
+                
+
+
+
+                    What is the maximum number of fish possible in your tank?
+                
+
+
+
+                    How can show division of fraction with tikz?
+                
+
+
+
+                    Has there ever been arms supply with restrictions attached prior to the current war in Ukraine?
+                
+
+
+
+                    Expected Amp difference going from SEU-AL to Copper on HVAC?
+                
+
+
+
+                    How to create a `\gtrsimless` symbol?
+                
+
+
+
+                    is_decimal Function Implementation in C++
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Why Did The Drywall Tape Fail in My Garage? And How Can I Fix It?
+                
+
+
+
+                    Starlink Satellite Orbits
+                
+
+
+
+                    How to negotiate such toxic competitiveness during my master’s studies?
+                
+
+
+
+                    Saint Augustine letter to Nebridio
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

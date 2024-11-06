@@ -1,0 +1,1367 @@
+
+
+
+Discrete Mathematics - Introduction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Home
+
+
+
+                  Coding Ground
+
+
+
+                   Jobs
+
+
+
+                  Whiteboard
+
+
+
+                  Tools
+
+
+ Articles
+
+
+
+
+ Menu 
+ Categories 
+
+
+ Login
+
+
+
+Switch theme
+
+
+
+
+
+
+
+
+ Teach with us
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+										AI, ML, and Data Science
+										
+
+
+										Programming Languages
+										
+
+
+										Web Development Languages
+										
+
+
+										DevOps
+										
+
+
+										Databases
+										
+
+
+										Computer Science Subjects
+										
+
+
+										Python Technologies
+										
+
+
+										Software Testing
+										
+
+
+										Cyber Security
+										
+
+
+ All Categories 
+
+
+
+
+
+
+
+ Back
+											
+
+
+Artificial Intelligence 
+													
+
+
+Machine Learning 
+
+
+ML With Python 
+
+
+Data Science 
+
+
+Statistics 
+
+
+
+
+NLP 
+
+
+Neural Networks 
+
+
+TensorFlow 
+
+
+PyTorch 
+
+
+Matplotlib 
+
+
+
+NumPy 
+
+
+Pandas 
+
+
+SciPy 
+
+
+Big Data Analytics 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+Python 
+
+
+Java 
+
+
+C++ 
+
+
+C 
+
+
+PHP 
+
+
+Go 
+
+
+
+
+Kotlin 
+
+
+R 
+
+
+ASP.Net 
+
+
+C#.Net 
+
+
+VB.Net 
+
+
+Scala 
+
+
+
+Swift 
+
+
+Perl 
+
+
+Ruby 
+
+
+Rust 
+
+
+Lua 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+HTML 
+
+
+CSS 
+
+
+JavaScript 
+
+
+jQuery 
+
+
+ReactJs 
+
+
+NodeJs 
+
+
+
+
+Wordpress 
+
+
+AngularJs 
+
+
+PHP 
+
+
+Django 
+
+
+JSON 
+
+
+Codeigniter 
+
+
+
+
+TypeScript 
+
+
+Ajax 
+
+
+Bootstrap 
+
+
+Sass 
+
+
+AppML 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+GIT 
+
+
+AWS 
+
+
+Docker 
+
+
+Kubernetes 
+
+
+Azure 
+
+
+OpenShift 
+
+
+
+
+Jira 
+
+
+Gerrit 
+
+
+Ansible 
+
+
+Bugzilla 
+
+
+Chef 
+
+
+Gitlab 
+
+
+
+OpenShift 
+
+
+Puppet 
+
+
+UNIX 
+
+
+Linux Admin 
+
+
+Ubuntu 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+DBMS 
+
+
+SQL 
+
+
+PL/SQL 
+
+
+MySQL 
+
+
+TinyDB 
+
+
+
+
+SQL Server 
+
+
+MongoDB 
+
+
+Postgrey SQL 
+
+
+SQLite 
+
+
+Redis 
+
+
+
+
+PHP MyAdmin 
+
+
+MariaDB 
+
+
+CouchDB 
+
+
+DB2 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+Computer Fundamentals 
+
+
+Operating System 
+
+
+DBMS 
+
+
+DSA 
+
+
+Computer Networks 
+
+
+Software Engineering 
+
+
+
+
+Computer Graphics 
+
+
+Data Mining 
+
+
+Digital Marketing 
+
+SEO 
+
+
+Digital Circuits 
+
+
+Desecrate Mathematics 
+
+
+
+
+Cryptography 
+
+
+Cloud Computing 
+
+
+Compiler Design 
+
+
+Embedded Systems 
+
+
+Microprocessors 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+Python 
+
+
+NumPy 
+
+
+Pandas 
+
+
+Matplotlib 
+
+
+
+
+Django 
+
+
+PyQt 
+
+
+PyCharm 
+
+
+Pillow 
+
+
+
+
+OpenCV 
+
+
+Seaborn 
+
+
+ML with Python 
+
+
+SciPy 
+
+
+See all 
+
+
+
+
+
+
+Back
+											
+
+
+Software Testing 
+
+
+Jira 
+
+
+Selenium 
+
+
+TestRail 
+
+
+
+
+Postman 
+
+
+Cucumber 
+
+
+Cypress 
+
+
+
+
+Watir 
+
+
+Agile 
+
+
+jMeter 
+
+
+
+
+
+
+Back
+											
+
+
+Blockchain 
+
+
+Information Security 
+
+
+
+
+Computer Security 
+
+
+Internet Security 
+
+
+
+
+Network Security 
+
+
+Wireless Security 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Library
+Courses
+Certifications
+Login
+
+
+
+Menu
+
+
+
+
+
+
+Show search
+
+
+
+
+
+
+
+
+
+HTML
+CSS
+Javascript
+SQL
+Python
+Java
+C
+C++
+PHP
+Scala
+C#
+Node.js
+MySQL
+MongoDB
+PL/SQL
+Swift
+Bootstrap
+R
+Machine Learning
+Blockchain
+Angular
+React Native
+Computer Fundamentals
+Compiler Design
+Operating System
+Data Structure and Algorithms
+Computer Network
+DBMS
+Excel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discrete Mathematics Tutorial
+Discrete Mathematics - Home
+Discrete Mathematics - Introduction
+
+
+Sets, Relations, & Functions
+Discrete Mathematics - Sets
+Discrete Mathematics - Relations
+Discrete Mathematics - Functions
+
+
+Mathematical Logic
+Propositional Logic
+Predicate Logic
+Rules of Inference
+
+
+Group Theory
+Operators & Postulates
+Group Theory
+
+
+Counting & Probability
+Counting Theory
+Probability
+
+
+Mathematical & Recurrence
+Mathematical Induction
+Recurrence Relation
+
+
+Discrete Structures
+Graph & Graph Models
+More on Graphs
+Introduction to Trees
+Spanning Trees
+
+
+Boolean Algebra
+Boolean Expressions & Functions
+Simplification of Boolean Functions
+
+
+Discrete Mathematics Resources
+Discrete Mathematics - Quick Guide
+Discrete Mathematics - Resources
+Discrete Mathematics - Discussion
+
+
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+HR Interview Questions
+Computer Glossary
+Who is Who
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discrete Mathematics - Introduction
+
+
+
+
+
+
+
+
+      Previous
+   
+
+
+
+Next
+   
+
+
+
+
+
+Mathematics can be broadly classified into two categories −
+
+Continuous Mathematics − It is based upon continuous number line or the real numbers. It is characterized by the fact that between any two numbers, there are almost always an infinite set of numbers. For example, a function in continuous mathematics can be plotted in a smooth curve without breaks.
+Discrete Mathematics − It involves distinct values; i.e. between any two points, there are a countable number of points. For example, if we have a finite set of objects, the function can be defined as a list of ordered pairs having these objects, and can be presented as a complete list of those pairs.
+
+Topics in Discrete Mathematics
+Though there cannot be a definite number of branches of Discrete Mathematics, the following topics are almost always covered in any study regarding this matter −
+
+Sets, Relations and Functions
+Mathematical Logic
+Group theory
+Counting Theory
+Probability
+Mathematical Induction and Recurrence Relations
+Graph Theory
+Trees
+Boolean Algebra
+
+We will discuss each of these concepts in the subsequent chapters of this tutorial.
+
+
+
+      Print Page
+   
+
+
+
+
+      Previous
+   
+
+
+Next
+   
+
+
+
+
+
+
+Advertisements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+To Continue Learning Please Login
+
+
+          Login with Google
+		
+
+
+
+
+
+
+
+Tutorials Point is a leading Ed Tech company striving to provide the best learning material on technical and non-technical subjects.
+About us
+
+
+ Company
+ Our Team
+  Careers
+ Jobs
+ Contact Us
+
+
+ Terms of use
+ Privacy Policy
+  Refund Policy
+  Cookies Policy
+FAQ's
+
+
+
+
+
+					Tutorials Point India Private Limited, Incor9 Building,
+					Kavuri Hills, Madhapur, Hyderabad, Telangana - 500081, INDIA
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tutorials
+ Articles
+ Jobs
+ Courses
+ Certifications
+ Annual Membership
+
+
+Languages
+
+
+  Python Tutorial
+
+
+  Java Tutorial
+
+
+ C++ Tutorial
+
+
+  C Programming Tutorial
+
+
+  C# Tutorial
+
+
+  PHP Tutorial
+
+
+  R Tutorial
+
+
+  Go Tutorial
+
+
+
+
+Web Technologies
+
+
+  HTML Tutorial
+
+
+  CSS Tutorial
+
+
+  JavaScript Tutorial
+
+
+  ReactJS Tutorial
+
+
+  Bootstrap Tutorial
+
+
+  AngularJS Tutorial
+
+
+  Node.js Tutorial
+
+
+  TypeScript Tutorial
+
+
+
+
+Database
+
+
+  SQL Tutorial
+
+
+  MySQL Tutorial
+
+
+  DBMS Tutorial
+
+
+  MongoDB Tutorial 
+
+
+  SQLite Tutorial 
+
+
+  PL/SQL Tutorial 
+
+
+  PostgreSQL Tutorial 
+
+
+  Excel Tutorial 
+
+
+
+
+Editors
+
+
+Online SQL Editor
+
+
+Online Html Editor
+
+
+Online Css Editor
+
+
+Online Javascript Editor
+
+
+Online Latext Editor
+
+
+Online TEX Editor
+
+
+Online Mathml Compiler
+
+
+Online Markdown Editor
+
+
+
+
+Trending Technologies
+
+
+  Cloud Computing Tutorial
+
+
+  Amazon Web Services Tutorial
+
+
+  Microsoft Azure Tutorial
+
+
+  Git Tutorial
+
+
+  Ethical Hacking Tutorial
+
+
+  Docker Tutorial
+
+
+  Kubernetes Tutorial
+
+
+
+
+Compilers
+
+
+Online Java Compiler
+
+
+Online C Compiler
+
+
+Online C++ Compiler
+
+
+Online C# Compiler
+
+
+Online Php Compiler
+
+
+Online Matlab Compiler
+
+
+Online Bash Compiler
+
+
+
+
+Terminals
+
+
+Online Unix Terminal
+
+
+Online Python3 Terminal
+
+
+Online Php Terminal
+
+
+Online Nodejs Terminal
+
+
+Online R Terminal
+
+
+Online Numpy Terminal
+
+
+Online Octave Terminal
+
+
+
+
+Data Science & ML
+
+
+NLP Tutorial
+
+
+NumPy Tutorial
+
+
+Python Pandas Tutorial
+
+
+Machine Learning Tutorial
+
+
+Big Data Analytics Tutorial
+
+
+  Cryptography Tutorial
+
+
+  Power BI Tutorial
+
+
+
+
+Computer Science
+
+
+DSA Tutorial
+
+
+Spring Boot Tutorial
+
+
+  SDLC Tutorial
+
+
+  Unix Tutorial
+
+
+  Operating System Tutorial
+
+
+  Assembly Programming Tutorial
+
+
+  Digital Circuits Tutorial
+
+
+Microprocessor Tutorial
+
+
+  System Analysis and Design Tutorial
+
+
+  Flutter Tutorial
+
+
+
+
+Top Certifications
+
+
+Business Analytics Certification
+
+
+ Java & Spring Boot Advanced Certification
+
+
+ Data Science Advanced Certification
+
+
+ Advanced Certification In Cloud Computing And DevOps
+
+
+ Advanced Certification In Business Analytics
+
+
+ Artificial Intelligence And Machine Learning Certification
+
+
+ DevOps Certification
+
+
+
+
+ 
+
+
+ Game Development Certification
+
+
+ Front-End Developer Certification
+
+
+ AWS Certification Training
+
+
+ Python Programming Certification
+
+
+ Generative AI Certification
+
+
+ Microsoft Excel Certification Training
+
+
+Java Certification
+
+
+ Cyber Security Certification
+
+
+Coding For Beginners Certification
+
+
+
+
+ 
+
+
+JavaScript Certification
+
+
+Apache Spark Certification
+
+
+Advanced Python Certification
+
+
+Back-End Developer Certification
+
+
+Front-End Developer Certification
+
+
+Web Developer Advanced Certification
+
+
+Linux System Administrator Certification
+
+
+Automation Testing Certification Training
+
+
+
+
+
+
+
+© Copyright 2024. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,689 @@
+
+
+
+
+
+
+
+Black Holes | Brilliant Math & Science Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+          Home
+        
+
+
+
+
+
+
+
+
+
+          Courses
+        
+
+
+
+
+                    Sign up
+            
+
+                    Log in
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                The best way to learn math and computer science.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+Black Holes
+
+
+
+
+
+
+                        Sign up with Facebook
+or
+
+                        Sign up manually
+
+
+
+                    Already have an account?
+                    
+                            Log in here.
+                    
+
+
+
+
+
+
+                Sravanth C.,
+        
+    
+        
+                Muhammad Arifur Rahman,
+        
+    
+        
+                Matt DeCross,
+        
+    
+
+    
+        and
+        
+
+                11 others
+            
+
+
+
+                                Gabriel Merces
+                        
+
+
+
+                                Pi Han Goh
+                        
+
+
+
+                                Adam Strandberg
+                        
+
+
+
+                                Christopher Williams
+                        
+
+
+
+                                A Former Brilliant Member
+                        
+
+
+
+                                Sriram Venkatesan
+                        
+
+
+
+                                Brian Wang
+                        
+
+
+
+                                Pranjal Prashant
+                        
+
+
+
+                                Calvin Lin
+                        
+
+
+
+                                Jimin Khim
+                        
+
+
+
+                                Eli Ross
+                        
+
+
+
+    
+
+    contributed
+
+
+            
+
+
+
+A black hole is a region of spacetime in which the attractive force of gravity is so strong that not even light escapes. As a result, black holes are not visible to the eye, although they can be detected from the behavior of light and matter nearby.
+
+
+Credits: NASA/CXC/M.Weiss
+The most well-studied black holes are formed from stars collapsing under the gravitational attraction of their own mass, but black holes of any mass can theoretically exist even down to sizes as small as a single atom. 
+Supermassive black holes, such as the one at the center of the Milky Way, are the most important for studying the development of galaxies and the universe as a whole. Supermassive black holes are defined as black holes with a mass on the scale of hundreds of times the mass of the Sun and greater. It is believed that every galaxy is centered around one such supermassive black hole.
+Since the equations of general relativity that govern Einstein's gravity break down at the center of a black hole, a region of enormous energy density, black holes are intensely studied for clues about how quantum mechanics and general relativity can be combined to form a unified theory of "quantum gravity" such as string theory.
+
+
+
+Contents
+
+
+ Escape Velocity and Event Horizons
+
+
+Schwarzschild Radius
+
+
+Singularities
+
+
+Spaghettification
+
+
+Formation and Evolution
+
+
+Hawking Radiation
+
+
+Problems
+
+
+Citations
+
+
+
+
+
+
+ Escape Velocity and Event Horizons
+
+
+
+Black holes are a natural prediction of Einstein's theory of general relativity. General relativity describes both how spacetime bends in response to mass, and how mass moves in response to bent spacetime. When spacetime is completely flat because no mass is nearby, an object moving through it stays at constant velocity. But when other mass is present, spacetime curves, and the object accelerates toward the mass. 
+The escape velocity is the velocity the object would need to move away far enough away from the mass that it would no longer be affected by its gravitational pull, i.e., to infinity.
+The escape velocity is given by \(V_{e} = \sqrt{\frac{2 G M}{R}}\), where \(G\) is Newton's gravitational constant, \(M\) is the mass of the object to be escaped from, and \(R\) is the radius of the object.
+
+Escape velocity for an object: 
+The escape velocity of an object in Newtonian gravity can be derived as follows: 
+\[\begin{align}
+  \dfrac12mV_e^2&=\dfrac{GMm}{R}\\
+  V_e^2&=\dfrac{2GM}{R}\\
+  \implies V_e&=\sqrt{\dfrac{2GM}{R}}.
+  \end{align}\] 
+
+The event horizon of a black hole is equivalent to the set of points surrounding the black hole at which the escape velocity is equal to the speed of light: \(299,000 \text{ km}/\text{s}\). (For scale, the escape velocity at Earth's surface is \(11.2\text{ km}/\text{s}\).) Because escape velocity increases as you get closer to a spherically symmetric mass distribution, objects closer to the black hole than the event horizon would need to move faster than the speed of light in order to escape. But since it is impossible to move faster than the speed of light, nothing can escape. The event horizon can therefore be thought of as a boundary that screens off everything happening inside from the rest of the world.
+Note that using the Newtonian escape velocity to describe the motion of masses near an inherently relativistic object is not technically correct. Fortunately, the answer works out the same in the full relativistic computation.
+
+
+
+
+
+
+
+
+
+
+
+
+False
+
+
+
+
+
+
+
+
+True
+
+
+
+
+
+
+
+
+
+True or False
+Because light cannot escape from a black hole, there is no way for us to detect a black hole.
+
+
+
+
+
+
+
+
+
+
+Schwarzschild Radius
+
+
+
+Black holes are massive objects that have become so dense that they collapse in on themselves under their own gravitational attraction. The Schwarzschild radius \(R_{S}\) is defined as the distance from a spherically symmetric mass distribution at which the escape velocity from the sphere is equal to the speed of light, i.e., it is the location of the event horizon. If this distance is greater than the radius of the sphere of mass itself, the event horizon is outside the sphere of mass, and the sphere cannot be seen: it is a black hole.
+The Schwarzschild radius can be calculated by substituting \(v_{e} = c\) into the equation for the escape velocity above:
+\[c = \sqrt{\frac{2 G M}{R_{S}}}.\]
+Solving in terms of \(R_{S}\) gives
+\[R_{S} = \frac{2 G M}{c^{2}}.\]
+For scale, \(R_{S}\) for the sun is about 3 km, and \(R_{S}\) for the Earth is a mere 9 mm. Since the radii of both the Sun and the Earth are much larger than either of these numbers, neither is a black hole, as one would hope and expect.
+
+
+
+
+
+
+
+
+
+
+
+
+Stays the same
+
+
+
+
+
+
+
+
+Decreases
+
+
+
+
+
+
+
+
+Increases
+
+
+
+
+
+
+Consider the volume of a black hole to be the volume of a sphere with radius equal to the Schwarzschild radius \(R_{S} = \frac{2 G M}{c^{2}}\).
+How does the average density of a black hole change as the mass increases?
+
+
+
+
+
+As a point of historical interest, the Schwarzschild radius is named after Karl Schwarzschild, a German physicist who formulated the first nontrivial solution to the Einstein field equations in 1915 while fighting in World War I on the Russian front. The name "Schwarzschild" also happens to literally translate to "black shield," ironically.
+
+
+
+
+
+Singularities
+
+
+
+A singularity is a point at which the curvature of spacetime is undefined or divergent. The center of black holes in general relativity may contain singularities at a single point of infinite mass density. The gravitational force becomes so strong that no other forces (including electrostatic repulsion and the strong or weak nuclear forces) can prevent the mass from collapsing further and further in on itself, resulting in a point of infinite density.
+However, the existence of an event horizon does not necessarily imply the existence of a point of infinite density. An object with finite density that was compressed within its Schwarzschild radius would still have an event horizon, but no singularity. While black holes are observed astronomically to definitely exist, it is not yet understood what happens near the singularity of a black hole, or even whether true singularities exist. Since the energy density near the center of a black hole is so high, there may be effects from theories of high energy physics / quantum gravity such as string theory that prevent singularities from forming.
+Even without knowing what happens at the center of a black hole, it is still possible describe what happens around it. A theorem in classical (non-quantum) general relativity known as the "no-hair theorem" states that the only variables that matter in terms of the physics outside the event horizon are the total mass, total angular momentum, and total electric charge of the black hole. (The "hair" in "no-hair" refers to details more specific than these general qualities.) The specific distribution of mass inside the event horizon doesn't matter, nor do other details like whether the mass/energy in the black hole consists primarily of matter or antimatter.
+It is also mathematically possible that a singularity could exist without an event horizon, though most physicists reject the notion that such a "naked" singularity exists in the universe. Based on mathematical observations that any process one could design to expose the singularity of a black hole seems to fail, Roger Penrose formulated the "cosmic censorship hypothesis." This hypothesis states that all singularities in the universe are contained inside event horizons and therefore are in principle not observable (because no information about the singularity can make it past the event horizon to the outside world). However, this hypothesis is unproven: it is possible that so-called "naked singularities" might exist, and indeed many physicists in recent years have shown that in at least some spacetimes (though not the physical universe, yet) naked singularities are possible.
+
+
+
+
+
+Spaghettification
+
+
+
+"Spaghettification" is a whimsical term for how objects falling into a black hole get stretched out due to massive tidal forces.
+
+
+Tendency of a distribution of mass to flatten in one dimension and stretch in the other due to tidal forces [2].
+Spaghettification in principle occurs anywhere there is a difference in the strength of gravity between one end of an object and another. For instance, if you stand up, the force of gravity on your head is smaller than the force of gravity on your feet because your feet are closer to the center of the Earth. Near a black hole, the same is true, but the difference in gravitational strength between your feet and your head is much larger. Because your feet accelerate towards the center of the hole faster than your head, you would be stretched out like a piece of spaghetti. 
+Depending on the mass of the black hole, spaghettification may in fact occur outside the event horizon and therefore be observable to a faraway observer, especially if the infalling body is a large source of light such as a star. This is due to the fact that the gravitational strength of the black hole is immense whether or not one is inside the event horizon.
+
+
+
+
+
+Formation and Evolution
+
+
+
+Stellar Death
+One mechanism of black hole formation is star death. When a star runs out of its fuel storage it explodes into fragments, burning the remainder of its fuel and giving rise to a supernova, a sudden outburst of energy by a star as it dies. A supernova forms when there is a sudden disruption in the ongoing nuclear reactions in the core, which causes an explosion that sends the particles of the star away from it rapidly in a cosmic shockwave. The energy released by a supernova is approximately the amount of energy released by a medium sized star over its entire lifetime. A supernova is highly unstable and exists for about a month before the remaining mass collapses under its own gravity, forming a neutron star. Neutron stars are the densest stars known to exist (though not the theoretically densest possible stars). The eventual fate of this star depends upon its mass. If the star has a mass greater than about 3 times the mass of the sun, it will eventually collapse into a black hole. This limit on how large a neutron star can be is known as the Tolman-Oppenheimer-Volkoff limit.
+\[\]
+Black Hole Accretion
+
+
+Credit: ROSAT/MPE/NASA
+A compact star in an binary system, specifically, an accreting binary system, may also form a black hole. Accreting binary systems generally form when a lower mass star expands into a more compact star, and is said to accrete more particles, often forming a astronomical structure called an accretion disk. Accretion disks can form around black holes, where they look similar to accretion onto a neutron star or white dwarf.    
+To the right is a ROAST X-ray image of LMC X-1 (the bright cluster on the left). This bright cluster is an accretion disk in the Large Magellanic Cloud, giving off x-ray emissions in the vicinity of a massive star that can be detected by astronomers. This star isn't visible, but is estimated to have a mass of 5 solar masses or more, and is a candidate for a black hole. On the right side of the image, normal stars with 1 solar mass or lower are visible. 
+\[\]
+Bipolar Mass Ejection
+One way to detect a black hole is to look for rapidly ejected mass from a local region of spacetime. Some of the material accreting onto a black hole may gain a large amount of angular momentum that propels it above the escape velocity. It then may be thrown off at a high velocity in the direction defined by the black hole's rotation. This process is called bipolar flow. However, ejected mass could also come from neutron stars that are accreting mass. The key difference between a neutron star and a black hole is the magnitude of the mass of the object, and estimating the mass of the unseen object that is ejecting particles is a key means of proving that bipolar mass is associated with a black hole.
+\[\]
+Binary Black Hole Systems
+The LIGO experiment, which announced the first-ever detection of gravitational waves on February 11, 2016 [1], observed gravitational waves coming from a binary black hole system consisting of two black holes of about 30 solar masses each. In a binary black hole system, two black holes orbit each other. In this case, the two black holes inspiraled towards each other until they collided, forming a single black hole. This merger of the two black holes generated waves of expanding and contracting spacetime that spread out from the new black hole, that is, gravitational waves. As they passed through the earth, they caused the earth to expand and contract by about the width of an atomic nucleus, sufficiently large to be detected in an interferometry experiment.
+
+
+A binary black hole system emitting graviational waves, Credit: T. Carnahan NASA GSFC
+
+
+
+
+
+Hawking Radiation
+
+
+
+Despite the fact that nothing can escape from within the event horizon, black holes still give off a form of radiation from the event horizon called Hawking radiation, via which they lose energy to the surrounding space. Heuristically, this process occurs as particle/anti-particle pairs are created near the event horizon of the black hole, and one particle escapes from the black hole as the other one falls in. This explanation is not quite mathematically or physically precise, however.
+A black hole created from a collapsing star would take at least 57 orders of magnitude longer than the current age of the universe for the hole to completely evaporate due to the energy lost in Hawking radiation. However, extremely small black holes, such as the ones that some people worried could be created in the Large Hadron Collider, can exist for extremely short periods of time before evaporating due to Hawking radiation. 
+Hawking radiation is central to the black hole information paradox, a subject of intense recent study. If an object with finite entropy (and therefore some finite amount of information, in the statistical sense) falls into a black hole, but the black hole evaporates due to Hawking radiation, it seems as though the information has been forever destroyed in violation of the second law of thermodynamics. Thus it would seem that information must be destroyed on entering a black hole, which is in contradiction with the idea that in general relativity nothing special occurs to an observer falling into a black hole at the instant he/she crosses the event horizon. Recent resolutions of the paradox suggest among other things that the Hawking radiation does in fact contain the information (i.e., correlations in entropy) of whatever fell into the black hole.
+
+
+
+
+
+Problems
+
+
+
+
+
+
+
+
+Submit your answer
+
+
+Black holes are regions of space from which nothing can escape.  If you consider a spherical object of mass M and radius R and set the escape velocity from the object to be \(c\), the speed of light, you can determine a relationship between R and M, \(R=2 GM/c^2\), where \(G\) is Newton's gravitational constant. This radius is called the Schwarzschild radius, denoted by \(R_s\). If mass M is concentrated into a region with a radius smaller than \(R_s\) then you have a black hole, and if not, there is no black hole.
+From the above relation you can determine the minimum mass of a black hole,  as roughly speaking the Schwarzschild radius must be larger or equal to the Compton wavelength - the minimum size of the region in which an object  at rest can be localized.
+Find the minimum mass of a black hole in \(\mu g\).  
+Finally, a bonus thing to think about.  What does this result mean for the masses of the particles that we see in nature?
+Details and assumptions
+
+The value of the gravitational constant is \(G=6.67 \times 10^{-11} \text{ m}^3\text{/kg s}^2\).
+The speed of light is \(c=3 \times 10^8\text{ m/s}\).
+Planck's constant is \(h=6.63 \times 10^{-34} \text{ kgm}^2\text{/s}\).
+\( 1 ~\mu g = 10^{-6} \text{ g} = 10^{-9} \text{ kg} \)
+
+
+
+
+
+
+
+
+
+
+
+Citations
+
+
+
+[1] Science Magazine. Gravitational Waves, Einstein's Ripples in Spacetime, Spotted For First Time. Retrieved February 11, 2016 from http://www.sciencemag.org/news/2016/02/gravitational-waves-einstein-s-ripples-spacetime-spotted-first-time 
+[2] By Krishnavedala - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32941013
+
+
+
+
+
+
+Cite as:
+                Black Holes.
+                Brilliant.org.
+                Retrieved from
+                https://brilliant.org/wiki/black-hole/
+
+
+
+
+
+
+
+
+
+
+Join Brilliant
+The best way to learn math and computer science.
+
+Sign up
+
+
+
+
+
+
+
+
+
+                Sign up to read all wikis and quizzes in math, science, and engineering topics.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Problem Loading...
+Note Loading...
+Set Loading...
+
+
+
+
+
+
+

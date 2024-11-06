@@ -1,0 +1,204 @@
+
+
+
+Mathematical Reasoning: Definition, Statements, Types & Formula
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English Get StartedExams SuperCoaching  Live Classes FREETest Series Previous Year Papers  Skill Academy Pass Pass Pass Pro Pass Pass Pro IAS Preparation  More  Free Live Classes  Free Live Tests & Quizzes  Free Quizzes  Previous Year Papers  Doubts  Practice  Refer and Earn  All Exams  Our Selections  Careers  IAS Preparation  Current Affairs Practice GK & Current Affairs Blog Refer & Earn Our Selections  Home  Reasoning  Statements In Mathematical Reasoning Statements in Mathematical Reasoning: Meaning, Reasoning and Statements Types with Examples Last Updated on Aug 22, 2023  Download as PDF
+OverviewTest SeriesMathematical reasoning supports individuals in building mathematical critical thinking and logical reasoning. An absence of these reasoning skills may reflect not only in mathematics performance but also in other subjects like physics, chemistry, economics or statistics and other such math related subjects or the one which requires knowledge of mathematics.
+ 
+Mathematics is applied in each field of life. Nowadays, organizations need measurable input and output for performance evaluation, and career results that are based on mathematical reasoning. Through this article on statements in mathematical reasoning, we will aim to learn about the various mathematical reasoning statements with examples to build a better concept.
+Also, read about Number System.Mathematical Reasoning Definition
+Mathematical reasoning or say the principle of mathematical reasoning is a part of math where we learn to obtain the true values of the presented statements. These types of reasoning statements are very common in competitive exams like JEE.
+The principal objective from such a domain is to examine the conceptual logical reasoning ability of a person in competitive examinations and eligibility analyses. Mathematical reasoning questions are extremely engaging and strongly stirs up the analytical thinking of the individual brain
+There are various sorts of statements in mathematical reasoning and the procedures that are performed on those statements. Let us understand them one by one.Crack SSC MTS with India's Super TeachersGet 6 Months SuperCoaching @ just₹3949₹499 Your Total Savings ₹3450  Purchase Now Want to know more about this Super Coaching ? Explore SuperCoaching Now What is a Mathematical Reasoning Statement?
+A statement is a form of a sentence that is either true or false, but not both together. It should be noted that no sentence can be termed a statement if:
+
+It is in exclamation format.
+The statement is an order or request.
+The given statement is a question.
+The given statement includes variable time such as ‘today’, ‘tomorrow’, ‘yesterday’ etc.
+The given statement involves variable places such as ‘here’, ‘there’, ‘everywhere’ etc.
+The given statement includes pronouns such as ‘she’, ‘he’, ‘they’ etc.
+
+Know more about Mean Median Mode here.Get Pass ProNewAll-in-One Pass For All Your ExamsAlso IncludesAll Test SeriesPrev. Year PaperPracticePro Live TestsUnlimited Test Re-AttemptsTypes of Reasoning in Mathematics
+In terms of mathematics, the two types of mathematical reasoning are:
+
+Inductive Reasoning
+Deductive Reasoning
+
+Inductive Reasoning
+In the inductive approach of mathematical reasoning, the validity of the statement is indicated by a particular set of rules and then it is generalized. The principle of mathematical induction practices the concept of inductive reasoning. As mathematical inductive reasoning is generalized, it is not regarded in geometrical proofs. Below is an example to understand the same:
+Statement: The price of a commodity is Rs 20 and the cost of employees to fabricate the item is Rs. 10. The sales rate of the item is Rs. 70.
+Reasoning: From the above statement, it can be stated that the item will give a good profit for the shops selling it.
+Deductive Reasoning
+In this type of mathematical reasoning, the principal approach of deductive reasoning is the contrast of the principle of induction. In deductive type reasoning, we implement the rules of a general case to a provided statement and make it true for particular statements. Below is an example to understand the same:
+Statement: Pythagorean Theorem is true for every right-angled triangle.
+Reasoning: If triangle PQR is a right triangle, it will support the Pythagorean Theorem.Test Series94.3k Users SSC MTS Mock Test 2024 (New) 692 Total Tests | 1 Free Tests English,Hindi + 6 MoreAvailable in: English, Hindi, Bengali, Marathi, Telugu, Tamil, Gujarati, Kannada, 211 Chapter Test45 Subject Test10 Sectional Test+426 more testsView Test Series535.8k Users SSC MTS and Havaldar Mock Test 2023 566 Total Tests  Hindi,English + 6 MoreAvailable in: Hindi, English, Bengali, Marathi, Telugu, Tamil, Gujarati, Kannada, 117 Chapter Test100 PYCT48 Sectional Test+301 more testsView Test Series375.6k Users Ace General Knowledge - For All Railway, SSC & Other Competitive Exams 243 Total Tests  English,Hindi + 7 MoreAvailable in: English, Hindi, Bengali, Marathi, Telugu, Tamil, Gujarati, Oria, Kannada, 10 Current Affairs (Most Asked Topic)14 Static GK (Most Asked Topic)16 Lucent Static GK+203 more testsView Test Series1083.9k Users SSC Reasoning PYP Mock Test Series (20k+ Questions) [With 75 Days Hard Challenge] 1360 Total Tests | 1 Free Tests English,Hindi 203 75 Days Hard Challenge50 PYCT203 SSC CGL PYST+904 more testsView Test Series312.8k Users Current Affairs (CA) 2024 Mega Pack for SSC/Railways/State Exam Mock Test 422 Total Tests | 8 Free Tests English,Hindi + 4 MoreAvailable in: English, Hindi, Bengali, Marathi, Telugu, Oria, 24 Election Special168 Topic Specific14 Major Events+216 more testsView Test Series706.3k Users SSC Maths PYP Mock Test Series (20k+ Questions) [With 75 Days Hard Challenge] 1299 Total Tests  English,Hindi 193 75 Days Hard Challenge81 PYCT203 SSC CGL PYST+822 more testsView Test SeriesView MoreView LessTypes of Mathematical Reasoning Statements
+There are three main types of reasoning statements:
+
+Simple Statements
+Compound Statements
+If-Then Statements
+
+Simple Statements
+Simple statements are those types of mathematical reasoning statements that are direct and do not cover any modifier. These statements are somewhat comfortable to work on and do not need much reasoning. In other words, a statement is said to be simple if it cannot be split down into two or more statements. Some examples of the simple statement are:
+
+The sunsets in the west.
+8 is an even number.
+A rectangle has two sides equal.
+Delhi is the capital of India.
+
+Learn more about Relations and Functions.
+Compound Statements
+With the aid of certain connectives, we can combine different statements. Such a statement in mathematical reasoning is made up of two or more statements is identified as a compound statement. In other words, a compound statement is one that is made up of two or more simple statements. The connectives can be “and”, “or”, etc. Some examples of the compound statement are:
+Example 1:
+“The number 13 is both an odd and prime number” can be split into two statements “13 is an odd number” and “13 is a prime number” therefore it is a compound statement.
+Example 2:
+
+Even numbers are divisible by 2.
+2 is an even number.
+
+The above two statements can be combined together as a compound statement :
+Even numbers are divisible by 2 and 2 is also an even number.
+Note: The simple statements which create a compound statement are defined as component statements.
+If-Then Statements
+According to mathematical reasoning, if we find an if-then statement i.e. ‘if x then y’, then by showing that x is true, y can be confirmed to be true or if we show that y is false, then x is also false. For example:
+Example 1:
+If we encounter a statement that states ‘X if and only if Y’, then we can address the reason for such a statement by pointing out that if X is true, then Y is also true and if Y is true, then X is also true.
+Example 2:
+x: 9 is a multiple of 81.
+y: 9 is a factor of 81.
+As one of the given statements i.e. x is true, we can say that y is also true.
+Check more topics of Mathematics here.Connectives Applied in Compound Statements
+Let us learn about basic logical connectives; there are many ways of joining simple statements to develop new statements. The words which connect or modify a simple statement to form a new statement or compound statement are termed connectives. There are three basic types of connectives that are applied to connect simple statements in mathematical reasoning to form a compound statement. Let us learn about these three:
+Conjunction: A compound statement that is achieved by combining two simple statements with the connective ‘and’ is said to be a conjunctive statement in mathematical reasoning. The conjunction of two statements ‘a’ and ‘b’ is presented as “a and b” or “a ∧ b”.
+Example: 
+a: Arun is a boy.
+b: Netra is a girl.
+Solution: The conjunction of the statement a and b is provided by:
+a ∧ b: Arun is a boy and Netra is a girl.
+Disjunction: The compound statement that is achieved by connecting two or more statements with a connecting word ‘or’ is said to be a disjunctive statement in mathematical reasoning. The disjunction of two statements ‘a’ and ‘b’ is given as “a or b” or “a ∨ b”.
+Example:
+“X is an odd number” and “X is an even number”
+ 
+The disjunction of the statement is given as:
+“X is an odd number or an even number”.
+Negation: Negation of a statement in mathematical reasoning represents a denial of any comment. The word ‘not’ is practiced to negate a statement. Though negation does not connect two statements, it provides the negative of a statement. In other words, it only alters a statement.
+Negation of any statement ‘x’ is presented as “not x” and is symbolically represented as “~x”.
+Example 1: 
+“17 is a prime number”.
+The negation for this is given as “17 is not a prime number”.
+Example 2: 
+Jaipur is a city.
+The negation for this statement is: Jaipur is not a city
+or
+It is false that Jaipur is a city.
+Learn the concepts of Three Dimensional Geometry here.
+
+
+
+
+CONJUNCTION (also called as AND)
+Symbolic representation: ^
+
+
+DISJUNCTION (also called as OR)
+Symbolic representation: v
+
+
+NEGATION (also called as NOT)
+Symbolic representation: ~
+
+
+
+
+Mathematical Reasoning Formulas 
+Some of the important mathematical reasoning formulas used in compound statements are as follows:
+Negation of Conjunction
+The negation of the conjunction implies the negation of at least one of the two-components of the given statements. The negation of a conjunction a ∧ b denotes the disjunction of the negation of “a” and the negation of “b”.
+This is written as: ~ (a ∧ b) = ~ a ∨ ~ b
+Negation of Disjunction
+The negation of the disjunction implies the negation of both a and b simultaneously. The negation of a disjunction a ∨ b means the conjunction of the negation of “a” and the negation of “b”.
+This is written as: ~ (a ∨ b) = ~ a ∧ ∼ b
+Negation of a Negation
+As studied, negation only alters a given statement and is applied only to a single simple statement.
+Negation of a statement is written as: ~ ( ~ p) = p
+Learn more about Speed, Time and Distance here.
+Conditional Statement in Mathematical Reasoning
+Conditional statements are sort of compound mathematical reasoning statements in which the truth value of one statement relies on the exact value of the other states. i.e. the second statement is true only if the first statement is true.
+Consider if “x” and “y” are any two given statements, then the compound statement “if x then y” developed by joining ‘x” and “y” by a connective ‘if then’ is said to be a conditional statement or an implication.
+ 
+Symbolic written as x → y or x ⇒ y. Here, “x” is termed a hypothesis or antecedent and “y” is named the conclusion or consequence of the given conditional statement.
+Examples: 
+
+If there is no government holiday, then the employee is available at the office.
+
+In the above example, “no government holiday” is the requirement to be reviewed to determine whether “the employee is” available.
+
+If you have your supper, then you will get ice cream.
+If Kavya works hard, then she will get an appraisal.
+
+In all the above three sentences the first part is the antecedent and the next half part implies the conclusion.
+Inverse
+The inverse of a conditional statement symbolizes the statement outlining the negation of antecedent and negation of the conclusion. Let us consider an example of a conditional statement to be “If a number is greater than zero, then it is positive”.
+The inverse of this is “If a number is not greater than zero, then it is not positive”.
+Converse
+The converse of a statement in mathematical reasoning is represented by swapping the antecedent and conclusion with one another.
+Example:
+“If it is afternoon, then we have lunch” the converse for the same is written as “If we have lunch, then it is afternoon”.
+If a=>b is a conditional statement; then its converse is represented by b=>a.
+Contrapositive in Mathematical Reasoning
+The statement “(~ b) → (~ a)” is said to be the contrapositive of statement a → b.
+In terms of theoretical definition, the contrapositive of a conditional statement is another type of conditional statement that expresses the negation of the outcome of the first statement as the antecedent of the second and the opposite of the antecedent of the first statement as the outcome of the second.
+ For example:
+If she knows how to swim, then she will pass the river”. The contrapositive of the given statement can be written as “If she cannot pass the river, then she does not know how to swim”.
+Also, read about Distance and Displacement concepts here.
+Conditional Statements Formula
+
+The inverse of a conditional mathematical reasoning statement x → y is given as ~ x → ~ y.
+The converse of a conditional statement x → y is given as y → x.
+The contrapositive for a conditional statement x → y is given as ~ y→ ~ x.
+
+The Biconditional Statement
+If two statements x and y are joined by the connective ‘if and only if’ then the resultant compound statement “x if and only if y” is declared a biconditional of x and y and is addressed in symbolic form as p ↔ q.
+We hope that the above article on Statements in Mathematical Reasoning is helpful for your understanding and exam preparations. Stay tuned to the Testbook App for more updates on related topics from Mathematics, and various such subjects. Also, reach out to the test series available to examine your knowledge regarding several exams.
+
+
+
+
+If you are checking  Statements in Mathematical Reasoning article, also check the related maths articles in the table below:
+
+
+Types of sets
+Variance and standard deviation 
+
+
+Universal set
+Incenter of a triangle
+
+
+Symmetric relations
+Sum of n natural numbers
+
+
+
+Statements in Mathematical Reasoning FAQsWhat are statements in mathematical reasoning?A statement is a form of a sentence that is either true or false, but not both together.What is an example of a mathematical statement?A rectangle with two sides equal is an example of a mathematical statement.What are the 3 types of mathematical statements?The three main types of reasoning statements are: Simple Statements,Compound Statements, If-Then Statements.What is Mathematical Reasoning?Mathematical reasoning is a part of math where we learn to obtain the truth values of the presented statements.What are the types of Reasoning?In terms of mathematics, reasoning can be of two principal types which are: Inductive Reasoning, Deductive Reasoning.Report An ErrorImportant LinksOverviewLogical ReasoningVerbal ReasoningArithmetic ReasoningNon Verbal ReasoningInductive ReasoningMaths Deductive ReasoningAnalogyAnalytical ReasoningCritical ReasoningStatement And Course Of Action ReasoningStatement And Conclusion ReasoningStatement And Assumption ReasoningStatement And Argument ReasoningStatements In Mathematical ReasoningDecision Making ReasoningLinear Arrangement ReasoningCircular Arrangement ReasoningSeating Arrangement ReasoningArrangement Pattern ReasoningMixed Series ReasoningSign Up Now &Daily Live Classes3000+ TestsStudy Material & PDFQuizzes With Detailed Analytics+ More BenefitsGet Free Access NowTestbook Edu Solutions Pvt. Ltd.  2nd Floor, Plot No. 4, Minarch Tower, Sector-44, Gurgaon, Haryana, India, 122003 [email protected]Toll Free:1800 203 0577Office Hours: 10 AM to 7 PM (all 7 days)CompanyAbout usCareers  We are hiringTeach Online on TestbookMediaSitemapProductsTest SeriesLive Tests and QuizzesTestbook PassOnline VideosPracticeLive ClassesBlogRefer & EarnBooks Exam Calendar GK & CA Teacher Training ProgramDoubtsHire from SkillAcademyOur AppFollow us onCopyright © 2014-2024 Testbook Edu Solutions Pvt. Ltd.: All rights reservedUser PolicyTermsPrivacy
+
+
+
+

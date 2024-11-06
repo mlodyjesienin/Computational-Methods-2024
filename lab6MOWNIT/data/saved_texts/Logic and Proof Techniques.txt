@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logic and Proof Techniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content\(\newcommand{\vheart}{\textcolor{red}{\varheart}}
+\newcommand{\vdia}{\textcolor{red}{\vardiamond}}
+\newcommand{\Mod}[1]{\ \left(\mathrm{mod}\ #1\right)}
+\newcommand{\mmod}[1]{\ \mathrm{\bf mod}\ #1}
+
+\newcommand{\st}{ {\mbox{ s.t. }} }
+\newcommand{\pow}[1]{ \mathcal{P}\left(#1\right) }
+
+\newcommand{\diff}[2]{ \frac{\mathrm{d}#1}{\mathrm{d}#2}}
+\newcommand{\bdiff}[2]{ \frac{\mathrm{d}}{\mathrm{d}#2} \left( #1 \right)}
+\newcommand{\ddiff}[3]{ \frac{\mathrm{d}^#1#2}{\mathrm{d}{#3}^#1}}
+
+\newcommand{\limp}{ {\;\Rightarrow\;} }
+\newcommand{\nimp}{ {\;\not\Rightarrow\;} }
+\newcommand{\liff}{ {\;\Leftrightarrow\;} }
+\newcommand{\niff}{ {\;\not\Leftrightarrow\;} }
+
+\newcommand{\arccsc}{\mathop{\mathrm{arccsc}}}
+\newcommand{\arcsec}{\mathop{\mathrm{arcsec}}}
+\newcommand{\arccot}{\mathop{\mathrm{arccot}}}
+
+
+
+\renewcommand{\textcolor}[2]{{\color{#1}{#2}}}
+\newcommand{\lt}{<}
+\newcommand{\gt}{>}
+\newcommand{\amp}{&}
+\)
+
+
+MAT202: Introduction to Discrete Mathematics
+TJ Yusun
+
+
+
+
+
+ContentsPrevUpNext
+
+
+ContentsPrevUpNext
+
+
+
+
+
+Front Matter
+Welcome Message
+About This Resource
+Feedback and Acknowledgements
+Colophon
+
+
+
+1 Review of MAT102
+Sets and Functions
+Logic and Proof Techniques
+Integers and Divisibility
+
+
+
+2 Counting Techniques
+The Basic Counting Principles
+Permutations and Combinations
+Binomial Coefficients
+The Balls in Bins Formula
+Combinatorial Arguments
+Summary
+Exercises
+
+
+
+3 Pigeonhole and Inclusion-Exclusion
+The Pigeonhole Principle
+Principle of Inclusion-Exclusion
+Application: Derangements
+Exercises
+
+
+
+4 Congruence Modulo \(n\)
+Equivalence Relations
+Congruences and their Properties
+Solving Congruences
+Euler's Theorem
+The Chinese Remainder Theorem
+Exercises
+
+
+
+5 Graph Theory
+Modeling with Graphs
+Basic Definitions
+Eulerian Graphs
+Isomorphisms and Subgraphs
+Connectedness and Trees
+Bipartite Graphs
+Hamiltonian Graphs
+Exercises
+
+
+Back Matter
+
+A How to Read and Write Mathematics
+Introduction to LaTeX
+Reading Mathematics
+Writing Mathematics, Part I
+Writing Mathematics, Part II
+
+
+B Notation
+C List of Results
+D List of Examples and Exercises
+References
+Authored in PreTeXt
+
+
+Section 1.2 Logic and Proof Techniques
+
+Mathematical statements can typically be phrased as an implication \(P \Rightarrow Q\text{,}\)  read as if \(P\text{,}\) then \(Q\), where \(P\) or \(Q\) may be complex statements themselves that involve conjunctions (and), disjunctions (or), negations, quantifiers, even implications. There are various ways in which an implication can be proven true, and there is no hard and fast rule that dictates which proof method to use given a particular problem. In MAT102 you were introduced to the following proof techniques:
+
+Direct proof: Assume \(P\) is true, then prove \(Q\) is true.
+Contrapositive: Assume \(\neg Q\) is true, then prove \(\neg P\) is true.
+Contradiction: Assume the conclusion is false, then use this to arrive at a statement that contradicts one of the assumptions.
+
+
+Activity 1.2.1. Review of Proofs.
+
+Prove each statement, noting which proof technique you used. Explain all your steps clearly, as if you are writing for the current batch of MAT102 students.
+
+The sum of two odd numbers is even.
+The square of an even number is divisible by 4.
+The equation \(x^3 + x + 1 = 0\) has no rational solutions.
+For integer \(n\text{,}\) if \(n^3 + 5\) is odd, then \(n\) is even.
+There is no smallest positive rational number.
+Every multiple of 4 can be written as \(1 + (-1)^n(2n-1)\) for some \(n \in \mathbb{N}\text{.}\)
+The sum of a rational number and an irrational number is irrational.
+A three-digit natural number is divisible by 9 if and only if the sum of its digits is divisible by 9.
+If \(A\) and \(B\) are defined as in Checkpoint 1.1.2, then \(B \not\subseteq A\text{.}\)
+Many of these statements are quantified universally, which means it involves some variable (say \(n\)), and you need to prove the claim holds for all relevant values of the variable (say \(n \in \mathbb{N}\)). For 1, 2, and 4, for example, the relevant quantities are integers; the statements need to be proven for all integers.
+We can use mathematical induction to prove that a statement is true for all natural numbers.
+
+Theorem 1.2.1. Principle of Mathematical Induction.
+
+Let \(P(n)\) be a predicate defined for \(n \in \mathbb{N}\text{.}\) If the following conditions hold:
+
+\(P(1)\) is true;
+For all \(k \in \mathbb{N}\text{,}\) \(P(k) \Rightarrow P(k+1)\) is true.
+
+then \(P(n)\) is true for all \(n \in \mathbb{N}\text{.}\)
+One can also replace the second condition with the following:
+b.* For all \(k \in \mathbb{N}\text{,}\) \([P(1) \wedge P(2) \wedge \cdots \wedge P(k)] \Rightarrow P(k+1)\) is true.
+This is called strong induction, where one assumes the induction step holds for all natural numbers from 1 to \(k\) in order to prove the claim for \(k+1\text{.}\)Depending on what is being proved, one may need to make slight modifications to the standard technique: e.g. changing/adding to the base case, or “skipping” from \(k\) to \(k+2\) in the case when one only has to prove the claim for every other natural number starting from the base case.
+
+Checkpoint 1.2.2. Practice Induction.
+Prove the following statements using induction:
+
+\(1^2 + 2^2 + 3^2 + \cdots + n^2 = \frac{1}{6}n(n+1)(2n+1)\) for all \(n \in \mathbb{N}\text{.}\)
+\(2^n \geq n^2\) for all \(n \in \mathbb{N}, n \geq 4\text{.}\)
+\(4^{2n} -1\) is divisible by 5 for every \(n \in \mathbb{N}\text{.}\)
+
+
+Checkpoint 1.2.3. Fibonacci Sequence.
+The Fibonacci sequence \(\{F_n\}\) is defined recursively as
+
+\begin{equation*}
+\begin{cases} F_n = F_{n-1} + F_{n-2}, n \geq 3 \\
+F_1 = F_2 = 1 \end{cases}\text{.}
+\end{equation*}
+
+Prove that
+
+\begin{equation*}
+F_n = \frac{1}{\sqrt{5}}\left(\frac{1+\sqrt{5}}{2}\right)^n - \frac{1}{\sqrt{5}}\left(\frac{1-\sqrt{5}}{2}\right)^n
+\end{equation*}
+
+using strong induction.
+
+Checkpoint 1.2.4. Tiling.
+Let \(T_n\) be the number of ways one can tile a \(2 \times n\) grid with \(1 \times 2\) rectangles. For example, \(T_2 = 2\) since there are two tilings of a \(2 \times 2\) grid using only \(1 \times 2\) rectangles.
+
+Figure 1.2.5. The two tilings of a two-by-two grid.Find a recurrence relation for \(T_n\) and prove that \(T_n = F_{n+1}\) as defined in Checkpoint 1.2.3.
+
+
+
+
+
+
+

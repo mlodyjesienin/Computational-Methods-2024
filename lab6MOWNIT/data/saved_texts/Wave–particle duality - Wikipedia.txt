@@ -1,0 +1,1254 @@
+
+
+
+
+Wave–particle duality - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+Toggle History subsection
+
+
+
+
+
+1.1
+Wave-particle duality of light
+
+
+
+
+
+
+
+
+1.2
+Wave-particle duality of matter
+
+
+
+
+
+
+
+
+
+
+2
+Classical waves and particles
+
+
+
+
+
+
+
+
+3
+Electrons behaving as waves and particles
+
+
+
+
+
+
+
+
+4
+Observing photons as particles
+
+
+
+
+
+
+
+
+5
+Duality with other properties
+
+
+
+
+
+
+
+
+6
+Which slit experiments
+
+
+
+
+
+
+
+
+7
+See also
+
+
+
+
+
+
+
+
+8
+References
+
+
+
+
+
+
+
+
+9
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Wave–particle duality
+
+
+
+59 languages
+
+
+
+
+AlemannischالعربيةAsturianuAzərbaycancaবাংলাБеларускаяБългарскиCatalàЧӑвашлаČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaItalianoעבריתMagyarМакедонскиBahasa MelayuNederlands日本語Norsk bokmålଓଡ଼ିଆਪੰਜਾਬੀپنجابیPolskiPortuguêsRomânăРусиньскыйРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்Татарча / tatarçaไทยTürkçeУкраїнськаTiếng Việt吴语粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Concept in quantum mechanics
+Part of a series of articles aboutQuantum mechanics
+
+
+
+i
+ℏ
+
+
+d
+
+d
+t
+
+
+
+
+|
+
+Ψ
+⟩
+=
+
+
+
+H
+^
+
+
+
+
+|
+
+Ψ
+⟩
+
+
+{\displaystyle i\hbar {\frac {d}{dt}}|\Psi \rangle ={\hat {H}}|\Psi \rangle }
+
+Schrödinger equation
+Introduction
+Glossary
+History
+Background
+Classical mechanics
+Old quantum theory
+Bra–ket notation
+
+Hamiltonian
+Interference
+
+
+Fundamentals
+Complementarity
+Decoherence
+Entanglement
+Energy level
+Measurement
+Nonlocality
+Quantum number
+State
+Superposition
+Symmetry
+Tunnelling
+Uncertainty
+Wave function
+Collapse
+
+
+Experiments
+Bell's inequality
+Davisson–Germer
+Double-slit
+Elitzur–Vaidman
+Franck–Hertz
+Leggett–Garg inequality
+Mach–Zehnder
+Popper
+
+Quantum eraser
+Delayed-choice
+
+Schrödinger's cat
+Stern–Gerlach
+Wheeler's delayed-choice
+
+
+Formulations
+Overview
+
+Heisenberg
+Interaction
+Matrix
+Phase-space
+Schrödinger
+Sum-over-histories (path integral)
+
+
+Equations
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+
+
+Interpretations
+Bayesian
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden-variable
+Local
+Superdeterminism
+Many-worlds
+Objective collapse
+Quantum logic
+Relational
+Transactional
+Von Neumann–Wigner
+
+
+Advanced topics
+Relativistic quantum mechanics
+Quantum field theory
+Quantum information science
+Quantum computing
+Quantum chaos
+EPR paradox
+Density matrix
+Scattering theory
+Quantum statistical mechanics
+Quantum machine learning
+
+Scientists
+Aharonov
+Bell
+Bethe
+Blackett
+Bloch
+Bohm
+Bohr
+Born
+Bose
+de Broglie
+Compton
+Dirac
+Davisson
+Debye
+Ehrenfest
+Einstein
+Everett
+Fock
+Fermi
+Feynman
+Glauber
+Gutzwiller
+Heisenberg
+Hilbert
+Jordan
+Kramers
+Lamb
+Landau
+Laue
+Moseley
+Millikan
+Onnes
+Pauli
+Planck
+Rabi
+Raman
+Rydberg
+Schrödinger
+Simmons
+Sommerfeld
+von Neumann
+Weyl
+Wien
+Wigner
+Zeeman
+Zeilinger
+
+vte
+Wave–particle duality is the concept in quantum mechanics that quantum entities exhibit particle or wave properties according to the experimental circumstances.[1]: 59  It expresses the inability of the classical concepts such as particle or wave to fully describe the behavior of quantum objects.[2]: III:1-1  During the 19th and early 20th centuries, light was found to behave as a wave, and then later discovered to have a particulate character, whereas electrons were found to act as particles, and then later discovered to have wavelike aspects. The concept of duality arose to name these contradictions.
+
+
+History[edit]
+Wave-particle duality of light[edit]
+In the late 17th century Sir Isaac Newton had advocated that light was particles, but Christiaan Huygens took an opposing wave approach.[3] Thomas Young's interference experiments in 1801, and François Arago's detection of the Poisson spot in 1819, validated Huygen's wave models.  However the wave model was challenged in 1901 by Planck's law for black-body radiation.[4] Max Planck heuristically derived a formula for the observed spectrum by assuming that a hypothetical electrically charged oscillator in a cavity that contained black-body radiation could only change its energy in a minimal increment, E, that was proportional to the frequency of its associated electromagnetic wave. In 1905 Einstein interpreted the photoelectric effect also with discrete energies for photons.[5] These both indicate particle behavior. Despite confirmation by various experimental observations, the photon theory (as it came to be called) remained controversial until Arthur Compton performed a series of experiments from 1922 to 1924 demonstrating the momentum of light.[6]: 211  The experimental evidence of particle-like momentum and energy seemingly contradicted the earlier work demonstrating wave-like interference of light.
+
+Wave-particle duality of matter[edit]
+Main article: Matter wave
+The contradictory evidence from electrons arrived in the opposite order. Many experiments by J. J. Thomson,[6]: I:361  Robert Millikan,[6]: I:89  and Charles Wilson[6]: I:4   among others had shown that free electrons had particle properties, for instance the measurement of their mass by Thompson in 1897.[7] In 1924 Louis de Broglie in his PhD thesis Recherches sur la théorie des quanta[8] introduced his theory of electron waves. He suggested that an electron around a nucleus could be thought of as being a standing wave, and that electrons and all matter could be considered as waves. He merged the idea of thinking about them as particles, and of thinking of them as waves. He proposed that particles are bundles of waves (wave packets) which move with a group velocity and have an effective mass. Both of these depend upon the energy, which in turn connects to the wavevector and the relativistic formulation of Albert Einstein a few years before.
+Following de Broglie's proposal of wave–particle duality of electrons, in 1925 to 1926, Erwin Schrödinger developed the wave equation of motion for electrons. This rapidly became part of what was called by Schrödinger undulatory mechanics,[9] now called the Schrödinger equation and also "wave mechanics". 
+In 1926, Max Born gave a talk in an Oxford meeting about using the electron diffraction experiments to confirm the wave-particle duality of electrons. In his talk, Born cited experimental data from Clinton Davisson in 1923. It happened that Davisson also attended that talk. Davisson returned to his lab in the US to switch his experimental focus to test the wave property of electrons.[10]
+In 1927, the wave nature of electrons was empirically confirmed by two experiments. The Davisson–Germer experiment at Bell Labs measured electrons scattered from Ni metal surfaces.[11][12][13][14][15] George Paget Thomson and Alexander Reid at Cambridge University scattered electrons through thin metal films and observed concentric diffraction rings.[16] Alexander Reid, who was Thomson's graduate student, performed the first experiments,[17] but he died soon after in a motorcycle accident[18] and is rarely mentioned. These experiments were rapidly followed by the first non-relativistic diffraction model for electrons by Hans Bethe[19] based upon the Schrödinger equation, which is very close to how electron diffraction is now described. Significantly, Davisson and Germer noticed[14][15] that their results could not be interpreted using a Bragg's law approach as the positions were systematically different; the approach of Bethe,[19] which includes the refraction due to the average potential, yielded more accurate results. Davisson and Thomson were awarded the Nobel Prize in 1937 for experimental verification of wave property of electrons by diffraction experiments.[20] Similar crystal diffraction experiments were carried out by Otto Stern in the 1930s using beams of helium atoms and hydrogen molecules. These experiments further verified that wave behavior is not limited to electrons and is a general property of matter on a microscopic scale.
+
+Classical waves and particles[edit]
+Before proceeding further, it is critical to introduce some definitions of waves and particles both in a classical sense and in quantum mechanics.  Waves and particles are two very different models for physical systems, each with an exceptionally large range of application. Classical waves obey the wave equation; they have continuous values at many points in space that vary with time; their spatial extent can vary with time due to diffraction, and they display wave interference. Physical systems exhibiting wave behavior and described by the mathematics of wave equations include water waves, seismic waves, sound waves, radio waves, and more.
+Classical particles obey classical mechanics; they have some center of mass and extent; they follow trajectories characterized by positions and velocities that vary over time; in the absence of forces their trajectories are straight lines. Stars, planets, spacecraft, tennis balls, bullets, sand grains: particle models work across a huge scale. Unlike waves, particles do not exhibit interference.
+
+Classical waves interfere. Particles follow trajectories.Wave interference in water due to two sources marked as red points on the left.Classical trajectories for a mass thrown at an angle of 70°, at different speeds.Line trace for a two-slit electron interference pattern. Compare to a slice through the image of the water wave pattern above.Curved arc shows a cloud chamber trajectory of a positron acting like a particle.Both interference and trajectories are observed in quantum systems
+Some experiments on quantum systems show wave-like interference and diffraction; some experiments show particle-like collisions. 
+Quantum systems obey wave equations that predict particle probability distributions. These particles are associated with discrete values called quanta for properties such as spin, electric charge and magnetic moment. These particles arrive one at time, randomly, but build up a pattern. The probability that experiments will measure particles at a point in space is the square of a complex-number valued wave. Experiments can be designed to exhibit diffraction and interference of the probability amplitude.[1] Thus statistically large numbers of the random particle appearances can display wave-like properties. Similar equations govern collective excitations called quasiparticles.
+
+Electrons behaving as waves and particles[edit]
+See also: Double-slit experiment
+The electron double slit experiment is a textbook demonstration of wave-particle duality.[2] A modern version of the experiment is shown schematically in the figure below.
+
+Left half: schematic setup for electron double-slit experiment with masking; inset micrographs of slits and mask; Right half: results for slit 1, slit 2 and both slits open.[21]
+Electrons from the source hit a wall with two thin slits. A mask behind the slits can expose either one or open to expose both slits. The results for high electron intensity are shown on the right, first for each slit individually, then with both slits open. With either slit open there is a smooth intensity variation due to diffraction. When both slits are open the intensity oscillates, characteristic of wave interference.
+Having observed wave behavior, now change the experiment, lowering the intensity of the electron source until only one or two are detected per second, appearing as individual particles, dots in the video. As shown in the movie clip below, the dots on the detector seem at first to be random. After some time a pattern emerges, eventually forming an alternating sequence of light and dark bands.
+
+Experimental electron double slit diffraction pattern.[21] Across the middle of the image at the top the intensity alternates from high to low showing interference in the signal from the two slits. Bottom: movie of the pattern build up dot by dot. Click on the thumbnail to enlarge the movie.
+The experiment shows wave interference revealed a single particle at a time -- quantum mechanical electrons display both wave and particle behavior. Similar results have been shown for atoms and even large molecules.[22]
+
+Observing photons as particles[edit]
+Photoelectric effect in a solid
+Main articles: Photoelectric effect and Compton scattering
+While electrons were thought to be particles until their wave properties were discovered; for photons it was the opposite. In 1887, Heinrich Hertz observed that when light with sufficient frequency hits a metallic surface, the surface emits cathode rays, what are now called electrons.[23]: 399  In 1902, Philipp Lenard discovered that the maximum possible energy of an ejected electron is unrelated to its intensity.[24] This observation is at odds with classical electromagnetism, which predicts that the electron's energy should be proportional to the intensity of the incident radiation.[25]: 24  In 1905, Albert Einstein suggested that the energy of the light must occur a finite number of energy quanta.[26] He postulated that electrons can receive energy from an electromagnetic field only in discrete units (quanta or photons): an amount of energy E that was related to the frequency f of the light by
+
+
+
+
+
+E
+=
+h
+f
+
+
+{\displaystyle E=hf}
+
+
+A photon of wavelength 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ comes in from the left, collides with a target at rest, and a new photon of wavelength 
+
+
+
+
+λ
+′
+
+
+
+{\displaystyle \lambda '}
+
+ emerges at an angle 
+
+
+
+θ
+
+
+{\displaystyle \theta }
+
+. The target recoils, and the photons have provided momentum to the target.
+where h is the Planck constant (6.626×10−34 J⋅s). Only photons of a high enough frequency (above a certain threshold value which is the work function) could knock an electron free. For example, photons of blue light had sufficient energy to free an electron from the metal he used, but photons of red light did not. One photon of light above the threshold frequency could release only one electron; the higher the frequency of a photon, the higher the kinetic energy of the emitted electron, but no amount of light below the threshold frequency could release an electron. Despite confirmation by various experimental observations, the photon theory (as it came to be called later) remained controversial until Arthur Compton performed a series of experiments from 1922 to 1924 demonstrating the momentum of light.[6]: 211 
+Both discrete (quantized) energies and also momentum are, classically, particle attributes. There are many other examples where photons display particle-type properties, for instance in solar sails, where sunlight could propel a space vehicle and laser cooling where the momentum is used to slow down (cool) atoms. These are a different aspect of wave-particle duality.
+
+Duality with other properties[edit]
+Focused Laguerre-Gaussian beam
+Normally angular momentum is considered to be a particle-like property, for instance a spinning top. However, light waves can have angular momentum when they form a vortex,[27] as illustrated in the Figure. Electron waves with angular momentum have also been produced,[28] with up to a thousand angular momentum quanta.[29] These matter waves will diffract and interfere, while simultaneously having particle-like angular momentum so they will interact with magnetic fields, similar to a current loop.
+
+Which slit experiments[edit]
+In a "which way" experiment, particle detectors are placed at the slits to determine which slit the electron traveled through. When these detectors are inserted, quantum mechanics predicts that the interference pattern disappears because the detected part of the electron wave has changed (loss of coherence).[2] Many similar proposals have been made and many have been converted into experiments and tried out.[30] Every single one shows the same result: as soon as electron trajectories are detected, interference disappears.
+A simple example of these "which way" experiments uses a Mach–Zehnder interferometer, a device based on lasers and mirrors sketched below.[31]
+
+Interferometer schematic diagram
+A laser beam along the input port splits at a half-silvered mirror. Part of the beam continues straight, passes though a glass  phase shifter, then reflects downward. The other part of the beam reflects from the first mirror then turns at another mirror. The two beams meet at a second half-silvered beam splitter.  
+Each output port has a camera to record the results. The two beams show interference characteristic of wave propagation. If the laser intensity is turned sufficiently low, individual dots appear on the cameras, building up the pattern as in the electron example.[31]
+The first beam-splitter mirror acts like double slits, but in the interferometer case we can remove the second beam splitter. Then the beam heading down ends up in output port 1: any photon particles on this path gets counted in that port. The beam going across the top ends up on output port 2. In either case the counts will track the photon trajectories. However, as soon as the second beam splitter is removed the interference pattern disappears.[31]
+
+See also[edit]
+Basic concepts of quantum mechanics – Non-technical introduction to quantum physicsPages displaying short descriptions of redirect targets
+Complementarity (physics) – Quantum physics concept
+Einstein's thought experiments
+Interpretations of quantum mechanics
+Wheeler's delayed choice experiment – Number of quantum physics thought experimentsPages displaying short descriptions of redirect targets
+Uncertainty principle
+Matter wave
+Corpuscular theory of light
+References[edit]
+
+
+^ a b Messiah, Albert (1966). Quantum Mechanics. North Holland, John Wiley & Sons. ISBN 0486409244.
+
+^ a b c Feynman, Richard P.; Leighton, Robert B.; Sands, Matthew L. (2007). Quantum Mechanics. The Feynman Lectures on Physics. Vol. 3. Reading/Mass.: Addison-Wesley. ISBN 978-0-201-02118-9.
+
+^ Christiaan Huygens, Traité de la lumiere... (Leiden, Netherlands: Pieter van der Aa, 1690), Chapter 1.
+
+^ Planck, Max (1901). "Ueber das Gesetz der Energieverteilung im Normalspectrum". Annalen der Physik (in German). 309 (3): 553–563. doi:10.1002/andp.19013090310.
+
+^ Einstein, Albert (1993). The collected papers of Albert Einstein. 3: The Swiss years: writings, 1909 - 1911: [English translation]. Princeton, NJ: Princeton Univ. Pr. ISBN 978-0-691-10250-4.
+
+^ a b c d e Whittaker, Edmund T. (1989). A history of the theories of aether & electricity. 2: The modern theories, 1900 - 1926 (Repr ed.). New York: Dover Publ. ISBN 978-0-486-26126-3.
+
+^ Thomson, J. J. (1897). "XL. Cathode Rays". The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science. 44 (269): 293–316. doi:10.1080/14786449708621070. ISSN 1941-5982.
+
+^ de Broglie, Louis Victor. "On the Theory of Quanta" (PDF). Foundation of Louis de Broglie (English translation by A.F. Kracklauer, 2004. ed.). Retrieved 25 February 2023.
+
+^ Schrödinger, E. (1926). "An Undulatory Theory of the Mechanics of Atoms and Molecules". Physical Review. 28 (6): 1049–1070. Bibcode:1926PhRv...28.1049S. doi:10.1103/PhysRev.28.1049. ISSN 0031-899X.
+
+^ Gehrenbeck, Richard K. (1978-01-01). "Electron diffraction: fifty years ago". Physics Today. 31 (1): 34–41. doi:10.1063/1.3001830. ISSN 0031-9228.
+
+^ C. Davisson and L. H. Germer (1927). "The scattering of electrons by a single crystal of nickel" (PDF). Nature. 119 (2998): 558–560. Bibcode:1927Natur.119..558D. doi:10.1038/119558a0. S2CID 4104602.
+
+^ Davisson, C.; Germer, L. H. (1927). "Diffraction of Electrons by a Crystal of Nickel". Physical Review. 30 (6): 705–740. Bibcode:1927PhRv...30..705D. doi:10.1103/physrev.30.705. ISSN 0031-899X.
+
+^ Davisson, C.; Germer, L. H. (1927). "Diffraction of Electrons by a Crystal of Nickel". Physical Review. 30 (6): 705–740. Bibcode:1927PhRv...30..705D. doi:10.1103/PhysRev.30.705. ISSN 0031-899X.
+
+^ a b Davisson, C. J.; Germer, L. H. (1928). "Reflection of Electrons by a Crystal of Nickel". Proceedings of the National Academy of Sciences. 14 (4): 317–322. Bibcode:1928PNAS...14..317D. doi:10.1073/pnas.14.4.317. ISSN 0027-8424. PMC 1085484. PMID 16587341.
+
+^ a b Davisson, C. J.; Germer, L. H. (1928). "Reflection and Refraction of Electrons by a Crystal of Nickel". Proceedings of the National Academy of Sciences. 14 (8): 619–627. Bibcode:1928PNAS...14..619D. doi:10.1073/pnas.14.8.619. ISSN 0027-8424. PMC 1085652. PMID 16587378.
+
+^ Thomson, G. P.; Reid, A. (1927). "Diffraction of Cathode Rays by a Thin Film". Nature. 119 (3007): 890. Bibcode:1927Natur.119Q.890T. doi:10.1038/119890a0. ISSN 0028-0836. S2CID 4122313.
+
+^ Reid, Alexander (1928). "The diffraction of cathode rays by thin celluloid films". Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character. 119 (783): 663–667. Bibcode:1928RSPSA.119..663R. doi:10.1098/rspa.1928.0121. ISSN 0950-1207. S2CID 98311959.
+
+^ Navarro, Jaume (2010). "Electron diffraction chez Thomson: early responses to quantum physics in Britain". The British Journal for the History of Science. 43 (2): 245–275. doi:10.1017/S0007087410000026. ISSN 0007-0874. S2CID 171025814.
+
+^ a b Bethe, H. (1928). "Theorie der Beugung von Elektronen an Kristallen". Annalen der Physik (in German). 392 (17): 55–129. Bibcode:1928AnP...392...55B. doi:10.1002/andp.19283921704.
+
+^ "The Nobel Prize in Physics 1937". NobelPrize.org. Retrieved 2024-03-18.
+
+^ a b Bach, Roger; Pope, Damian; Liou, Sy-Hwang; Batelaan, Herman (2013-03-13). "Controlled double-slit electron diffraction". New Journal of Physics. 15 (3). IOP Publishing: 033018. arXiv:1210.6243. Bibcode:2013NJPh...15c3018B. doi:10.1088/1367-2630/15/3/033018. ISSN 1367-2630. S2CID 832961.
+
+^ Arndt, Markus; Hornberger, Klaus (2014). "Testing the limits of quantum mechanical superpositions". Nature Physics. 10 (4): 271–277. arXiv:1410.0270v1. Bibcode:2014NatPh..10..271A. doi:10.1038/nphys2863. ISSN 1745-2473. S2CID 56438353.
+
+^ Whittaker, E. T. (1910). A History of the Theories of Aether and Electricity: From the Age of Descartes to the Close of the Nineteenth Century. Longman, Green and Co.
+
+^ Wheaton, Bruce R. (1978). "Philipp Lenard and the Photoelectric Effect, 1889-1911". Historical Studies in the Physical Sciences. 9: 299–322. doi:10.2307/27757381. JSTOR 27757381.
+
+^ Hawking, Stephen (November 6, 2001) [November 5, 2001]. "The Universe in a Nutshell". Physics Today. 55 (4). Impey, C.D. Bantam Spectra (published April 2002): 80~. doi:10.1063/1.1480788. ISBN 978-0553802023. S2CID 120382028. Archived from the original on September 21, 2020. Retrieved December 14, 2020 – via Random House Audiobooks. Alt URL.
+
+^ Einstein, Albert (1905). "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt". Annalen der Physik. 17 (6): 132–48. Bibcode:1905AnP...322..132E. doi:10.1002/andp.19053220607, translated into English as Einstein, A. "On a Heuristic Point of View about the Creation and Conversion of Light" (PDF). The Old Quantum Theory. Archived from the original (PDF) on 11 June 2009.  The term "photon" was introduced in 1926.
+
+^ Allen, L.; Beijersbergen, M. W.; Spreeuw, R. J. C.; Woerdman, J. P. (1992). "Orbital angular momentum of light and the transformation of Laguerre-Gaussian laser modes". Physical Review A. 45 (11): 8185–8189. doi:10.1103/PhysRevA.45.8185. PMID 9906912.
+
+^ Verbeeck, J.; Tian, H.; Schattschneider, P. (2010). "Production and application of electron vortex beams". Nature. 467 (7313): 301–304. Bibcode:2010Natur.467..301V. doi:10.1038/nature09366. ISSN 0028-0836. PMID 20844532. S2CID 2970408.
+
+^ Tavabi, A. H.; Rosi, P.; Roncaglia, A.; Rotunno, E.; Beleggia, M.; Lu, P.-H.; Belsito, L.; Pozzi, G.; Frabboni, S.; Tiemeijer, P.; Dunin-Borkowski, R. E.; Grillo, V. (2022). "Generation of electron vortex beams with over 1000 orbital angular momentum quanta using a tunable electrostatic spiral phase plate". Applied Physics Letters. 121 (7). arXiv:2203.00477. doi:10.1063/5.0093411. ISSN 0003-6951. S2CID 247187983.
+
+^ Ma, Xiao-song; Kofler, Johannes; Zeilinger, Anton (2016-03-03). "Delayed-choice gedanken experiments and their realizations". Reviews of Modern Physics. 88 (1): 015005. arXiv:1407.2930. doi:10.1103/RevModPhys.88.015005. ISSN 0034-6861. S2CID 34901303.
+
+^ a b c Schneider, Mark B.; LaPuma, Indhira A. (2002-03-01). "A simple experiment for discussion of quantum interference and which-way measurement" (PDF). American Journal of Physics. 70 (3): 266–271. doi:10.1119/1.1450558. ISSN 0002-9505.
+
+
+External links[edit]
+R. Nave. "Wave–Particle Duality". HyperPhysics. Georgia State University, Department of Physics and Astronomy. Retrieved December 12, 2005.
+"Wave–particle duality". PhysicsQuest. American Physical Society. Retrieved August 31, 2023.
+Mack, Katie. "Quantum 101 – Quantum Science Explained". Perimeter Institute for Theoretical Physics. Retrieved August 31, 2023.
+vteParticles in physicsElementaryFermionsQuarks
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+Leptons
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Neutrino
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+BosonsGauge
+Photon
+Gluon
+W and Z bosons
+Scalar
+Higgs boson 
+Ghost fields
+Faddeev–Popov ghosts
+HypotheticalSuperpartnersGauginos
+Gluino
+Gravitino
+Photino
+Others
+Axino
+Chargino
+Higgsino
+Neutralino
+Sfermion (Stop squark)
+Others
+Axion
+Curvaton
+Dilaton
+Dual graviton
+Graviphoton
+Graviton
+Inflaton
+Leptoquark
+Magnetic monopole
+Majoron
+Majorana fermion
+Dark photon
+Preon
+Sterile neutrino
+Tachyon
+W′ and Z′ bosons
+X and Y bosons
+CompositeHadronsBaryons
+Nucleon
+Proton
+Antiproton
+Neutron
+Antineutron
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Mesons
+Pion
+Rho meson
+Eta and eta prime mesons
+Bottom eta meson
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Kaon
+B meson
+D meson
+Quarkonium
+Exotic hadrons
+Tetraquark (Double-charm tetraquark)
+Pentaquark
+Others
+Atomic nuclei
+Atoms
+Exotic atoms
+Positronium
+Muonium
+Tauonium
+Onia
+Pionium
+Protonium
+Superatoms
+Molecules
+HypotheticalBaryons
+Hexaquark
+Heptaquark
+Skyrmion
+Mesons
+Glueball
+Theta meson
+T meson
+Others
+Mesonic molecule
+Pomeron
+Diquark
+R-hadron
+Quasiparticles
+Anyon
+Davydov soliton
+Dropleton
+Exciton
+Fracton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+Lists
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+Related
+History of subatomic physics
+timeline
+Standard Model
+mathematical formulation
+Subatomic particles
+Particles
+Antiparticles
+Nuclear physics
+Eightfold way
+Quark model
+Exotic matter
+Massless particle
+Relativistic particle
+Virtual particle
+Wave–particle duality
+Particle chauvinism
+ Physics portal
+vteQuantum mechanicsBackground
+Introduction
+History
+Timeline
+Classical mechanics
+Old quantum theory
+Glossary
+Fundamentals
+Born rule
+Bra–ket notation
+ Complementarity
+Density matrix
+Energy level
+Ground state
+Excited state
+Degenerate levels
+Zero-point energy
+Entanglement
+Hamiltonian
+Interference
+Decoherence
+Measurement
+Nonlocality
+Quantum state
+Superposition
+Tunnelling
+Scattering theory
+Symmetry in quantum mechanics
+Uncertainty
+Wave function
+Collapse
+Wave–particle duality
+Formulations
+Formulations
+Heisenberg
+Interaction
+Matrix mechanics
+Schrödinger
+Path integral formulation
+Phase space
+Equations
+Dirac
+Klein–Gordon
+Pauli
+Rydberg
+Schrödinger
+Interpretations
+Bayesian
+Consistent histories
+Copenhagen
+de Broglie–Bohm
+Ensemble
+Hidden-variable
+Local
+Superdeterminism
+Many-worlds
+Objective collapse
+Quantum logic
+Relational
+Transactional
+Von Neumann–Wigner
+Experiments
+Bell test
+Davisson–Germer
+Delayed-choice quantum eraser
+Double-slit
+Franck–Hertz
+Mach–Zehnder interferometer
+Elitzur–Vaidman
+Popper
+Quantum eraser
+Stern–Gerlach
+Wheeler's delayed choice
+Science
+Quantum biology
+Quantum chemistry
+Quantum chaos
+Quantum cosmology
+Quantum differential calculus
+Quantum dynamics
+Quantum geometry
+Quantum measurement problem
+Quantum mind
+Quantum stochastic calculus
+Quantum spacetime
+Technology
+Quantum algorithms
+Quantum amplifier
+Quantum bus
+Quantum cellular automata
+Quantum finite automata
+Quantum channel
+Quantum circuit
+Quantum complexity theory
+Quantum computing
+Timeline
+Quantum cryptography
+Quantum electronics
+Quantum error correction
+Quantum imaging
+Quantum image processing
+Quantum information
+Quantum key distribution
+Quantum logic
+Quantum logic gates
+Quantum machine
+Quantum machine learning
+Quantum metamaterial
+Quantum metrology
+Quantum network
+Quantum neural network
+Quantum optics
+Quantum programming
+Quantum sensing
+Quantum simulator
+Quantum teleportation
+Extensions
+Quantum fluctuation
+Casimir effect
+Quantum statistical mechanics
+Quantum field theory
+History
+Quantum gravity
+Relativistic quantum mechanics
+Related
+Schrödinger's cat
+in popular culture
+Wigner's friend
+EPR paradox
+Quantum mysticism
+
+ Category
+
+vteAlbert EinsteinPhysics
+Theory of relativity
+Special relativity
+General relativity
+Mass–energy equivalence (E=mc2)
+Brownian motion
+Photoelectric effect
+Einstein coefficients
+Einstein solid
+Equivalence principle
+Einstein field equations
+Einstein radius
+Einstein relation (kinetic theory)
+Cosmological constant
+Bose–Einstein condensate
+Bose–Einstein statistics
+Bose–Einstein correlations
+Einstein–Cartan theory
+Einstein–Infeld–Hoffmann equations
+Einstein–de Haas effect
+EPR paradox
+Bohr–Einstein debates
+Teleparallelism
+Thought experiments
+Unsuccessful investigations
+Wave–particle duality
+Gravitational wave
+Tea leaf paradox
+Works
+Annus mirabilis papers (1905)
+"Investigations on the Theory of Brownian Movement" (1905)
+Relativity: The Special and the General Theory (1916)
+The Meaning of Relativity (1922)
+The World as I See It (1934)
+The Evolution of Physics (1938)
+"Why Socialism?" (1949)
+Russell–Einstein Manifesto (1955)
+In popularculture
+Die Grundlagen der Einsteinschen Relativitäts-Theorie (1922 documentary)
+The Einstein Theory of Relativity (1923 documentary)
+Relics: Einstein's Brain (1994 documentary)
+Insignificance (1985 film)
+Picasso at the Lapin Agile (1993 play)
+I.Q. (1994 film)
+Einstein's Gift (2003 play)
+Einstein and Eddington (2008 TV film)
+Genius (2017 series)
+Oppenheimer (2023 film)
+Prizes
+Albert Einstein Award
+Albert Einstein Medal
+Kalinga Prize
+Albert Einstein Peace Prize
+Albert Einstein World Award of Science
+Einstein Prize for Laser Science
+Einstein Prize (APS)
+Books aboutEinstein
+Albert Einstein: Creator and Rebel
+Einstein and Religion
+Einstein for Beginners
+Einstein: His Life and Universe
+Einstein's Cosmos
+I Am Albert Einstein
+Introducing Relativity
+Subtle is the Lord
+Family
+Mileva Marić (first wife)
+Elsa Einstein (second wife; cousin)
+Lieserl Einstein (daughter)
+Hans Albert Einstein (son)
+Pauline Koch (mother)
+Hermann Einstein (father)
+Maja Einstein (sister)
+Eduard Einstein (son)
+Robert Einstein (cousin)
+Bernhard Caesar Einstein (grandson)
+Evelyn Einstein (granddaughter)
+Thomas Martin Einstein (great-grandson)
+Siegbert Einstein (distant cousin)
+Related
+Awards and honors
+Brain
+House
+Memorial
+Political views
+Religious views
+Things named after
+Albert Einstein Archives
+Einstein's Blackboard
+Einstein Papers Project
+Einstein refrigerator
+Einsteinhaus
+Einsteinium
+Max Talmey
+
+ Category
+
+Authority control databases: National 
+Germany
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wave–particle_duality&oldid=1226552104"
+Categories: DichotomiesFoundational quantum physicsWavesParticlesHidden categories: CS1 German-language sources (de)Articles with short descriptionShort description is different from WikidataPages using multiple image with auto scaled imagesPages displaying short descriptions of redirect targets via Module:Annotated linkArticles with GND identifiersArticles containing video clips
+
+
+
+
+
+
+ This page was last edited on 31 May 2024, at 11:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

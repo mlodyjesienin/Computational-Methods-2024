@@ -1,0 +1,1454 @@
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Euclidean Geometry: Principles, Theorems | StudySmarter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Find Study Materials                                                                     
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                            Explanations                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Exams                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Magazine                                                                                                                                                                    
+
+
+
+
+
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Engineering
+
+
+English
+
+
+English Literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+Exams
+
+
+Read our Magazine
+
+
+
+
+
+
+
+
+
+
+                                Create Study Materials                                                                    
+
+
+
+
+
+Create Study Materials
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+Open in App
+
+
+
+Log In
+Start studying!
+
+
+
+
+Open in App
+Log out
+
+
+
+
+
+
+
+Find Study Materials for
+
+
+
+																																			Explanations																	                                                                
+
+
+
+
+																																			Exams																	                                                                
+
+
+
+
+																																			Magazine																	                                                                
+
+
+
+
+
+
+Main menu
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Engineering
+
+
+English
+
+
+English Literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+Exams
+
+
+Read our Magazine
+
+
+Create Study Materials
+
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math
+
+
+
+
+
+Geometry
+
+
+
+
+Euclidean geometry
+
+
+
+
+Euclidean geometry
+Euclidean geometry, a mathematical system attributed to the Alexandrian Greek mathematician Euclid, is the study of plane and solid figures on the basis of axioms and theorems. This foundational framework, established in Euclid's seminal work "Elements", lays the groundwork for understanding shapes, sizes, and the properties of space, playing a critical role in the development of modern mathematics and physics. By exploring the principles of Euclidean geometry, students gain insights into the logical structure of mathematical arguments and the beauty of geometrical construction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Create learning materials about Euclidean geometry with our free learning app!							
+
+
+
+
+
+									Instand access to millions of learning materials								
+
+
+
+
+									Flashcards, notes, mock-exams and more								
+
+
+
+
+									Everything you need to ace your exams								
+
+
+								Create a free account							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applied Mathematics
+
+
+Calculus
+
+
+Decision Maths
+
+
+Discrete Mathematics
+
+
+Geometry
+
+
+
+
+
+
+
+
+
+2 Dimensional Figures
+
+
+3 Dimensional Vectors
+
+
+3-Dimensional Figures
+
+
+Affine geometry
+
+
+Altitude
+
+
+Analytic geometry
+
+
+Angles in Circles
+
+
+Arc Measures
+
+
+Area and Volume
+
+
+Area of Circles
+
+
+Area of Circular Sector
+
+
+Area of Parallelograms
+
+
+Area of Plane Figures
+
+
+Area of Rectangles
+
+
+Area of Regular Polygons
+
+
+Area of Rhombus
+
+
+Area of Trapezoid
+
+
+Area of a Kite
+
+
+Birational geometry
+
+
+Complex geometry
+
+
+Composition
+
+
+Computational geometry
+
+
+Conformal geometry
+
+
+Congruence Transformations
+
+
+Congruent Triangles
+
+
+Convex geometry
+
+
+Convexity in Polygons
+
+
+Coordinate Systems
+
+
+Differential geometry
+
+
+Differential topology
+
+
+Dilations
+
+
+Discrete geometry
+
+
+Distance and Midpoints
+
+
+Equation Of Circles
+
+
+Equilateral Triangles
+
+
+Ergodic theory
+
+
+Euclidean geometry
+
+
+Figures
+
+
+Finsler geometry
+
+
+Fractal geometry
+
+
+Fundamentals of Geometry
+
+
+Galois geometry
+
+
+Geodesy
+
+
+Geometric Inequalities
+
+
+Geometric Mean
+
+
+Geometric Probability
+
+
+Geometric analysis
+
+
+Geometric function theory
+
+
+Geometric topology
+
+
+Glide Reflections
+
+
+HL ASA and AAS
+
+
+Harmonic analysis
+
+
+Hodge theory
+
+
+Hyperbolic geometry
+
+
+Identity Map
+
+
+Inscribed Angles
+
+
+Integral geometry
+
+
+Inversive geometry
+
+
+Isometry
+
+
+Isosceles Triangles
+
+
+Kähler manifolds
+
+
+Law of Cosines
+
+
+Law of Sines
+
+
+Linear Measure and Precision
+
+
+Manifolds
+
+
+Mathematical Physics
+
+
+Median
+
+
+Metric geometry
+
+
+Minimal surfaces
+
+
+Mirror symmetry
+
+
+Moduli spaces
+
+
+Morse theory
+
+
+Möbius transformations
+
+
+Non-Euclidean geometry
+
+
+Parallel Lines Theorem
+
+
+Parallelograms
+
+
+Perpendicular Bisector
+
+
+Plane Geometry
+
+
+Poisson geometry
+
+
+Polygons
+
+
+Projections
+
+
+Projective geometry
+
+
+Properties of Chords
+
+
+Proportionality Theorems
+
+
+Pythagoras Theorem
+
+
+Quantum geometry
+
+
+Quaternionic analysis
+
+
+Rectangle
+
+
+Reflection in Geometry
+
+
+Regular Polygon
+
+
+Rhombuses
+
+
+Ricci flow
+
+
+Right Triangles
+
+
+Rotations
+
+
+SSS and SAS
+
+
+Sasaki geometry
+
+
+Segment Length
+
+
+Similarity
+
+
+Similarity Transformations
+
+
+Simplicial complexes
+
+
+Special quadrilaterals
+
+
+Spherical geometry
+
+
+Squares
+
+
+Sub-Riemannian geometry
+
+
+Surface Area of Cone
+
+
+Surface Area of Cylinder
+
+
+Surface Area of Prism
+
+
+Surface Area of Sphere
+
+
+Surface Area of a Solid
+
+
+Surface of Pyramids
+
+
+Symmetry
+
+
+Symplectic geometry
+
+
+Toric geometry
+
+
+Transformation groups
+
+
+Translations
+
+
+Trapezoids
+
+
+Triangle Inequalities
+
+
+Triangles
+
+
+Twistor theory
+
+
+Using Similar Polygons
+
+
+Vector Addition
+
+
+Vector Product
+
+
+Vector bundles
+
+
+Volume of Cone
+
+
+Volume of Cylinder
+
+
+Volume of Pyramid
+
+
+Volume of Solid
+
+
+Volume of Sphere
+
+
+Volume of prisms
+
+
+Vortex dynamics
+
+
+Weyl geometry
+
+
+What is Point Slope Form
+
+
+
+
+Logic and Functions
+
+
+Mechanics Maths
+
+
+Probability and Statistics
+
+
+Pure Maths
+
+
+Statistics
+
+
+Theoretical and Mathematical Physics
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Table of contents                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What Is Euclidean Geometry?Euclidean geometry is a branch of mathematics that studies the properties and relations of points, lines, surfaces, and solids in space. It is named after the ancient Greek mathematician Euclid, who first systematised this field in his work, the Elements. At its core, Euclidean geometry deals with the construction and comparison of geometric figures using a set of axioms and theorems derived from those axioms. It forms the basis for many mathematical disciplines and applications, ranging from design and architecture to engineering and computer science.Understanding Euclidean geometry involves familiarising oneself with its fundamental principles, theorems, and proofs. It also requires an appreciation of how these elements interconnect to describe the spatial relationships that exist in the world around us. Through its rigorous structure, Euclidean geometry provides a powerful framework for solving both theoretical and practical problems in a wide array of fields.The Roots of Euclidean GeometryEuclidean geometry finds its origins in ancient Greece, specifically in the work of the mathematician Euclid around 300 BC. Euclid's Elements is one of the most influential works in the history of mathematics, laying down the foundational principles of what we now understand as Euclidean geometry. This work presented a comprehensive collection of definitions, postulates (axioms), and theorems accompanied by logical proofs, all of which aimed to describe the properties of space.The influence of Euclidean geometry extends far beyond its mathematical applications. It has played a critical role in the development of Western scientific thought and philosophy, providing a model for logical reasoning and the importance of empirical evidence. Euclid's method of starting from basic axioms and rigorously proving more complex theorems demonstrated a way of thinking that impacted numerous fields of study. Euclid's Postulates: A set of five basic assumptions that underpin Euclidean geometry. These include the notions that a straight line can be drawn connecting any two points and that all right angles are equal. They provide the foundation from which all other theorems in Euclidean geometry are derived. Example of Euclid's Postulate: Consider Euclid's first postulate, which states that given any two points, there exists exactly one straight line that connects them. This principle is fundamental in creating geometric figures such as triangles, squares, and circles, and it underlies many of the proofs found in Euclidean geometry. Understanding Euclidean SpaceEuclidean space is a mathematical construct that represents the three-dimensional space in which we live, but it can also extend into two or more dimensions. In a two-dimensional Euclidean space, often referred to as the plane, you deal primarily with points, lines, and shapes like circles and polygons. When extended to three dimensions, Euclidean space encompasses the additional concept of depth, allowing for the study of solids such as cubes, spheres, and pyramids.The properties of Euclidean space are governed by the axioms and theorems of Euclidean geometry. By applying these principles, you can solve complex problems related to distance, angle, area, and volume. A deep understanding of Euclidean space is essential for fields such as physics, engineering, and architecture, where spatial relationships play a critical role.In computer graphics, Euclidean space provides the mathematical framework for modelling and manipulating objects in a virtual environment.Euclidean geometry does not account for the curvature of space under the influence of gravity, as described by general relativity. However, for most practical purposes on Earth and in engineering projects, the principles of Euclidean geometry offer a sufficiently accurate approximation of reality.Euclidean Geometry ExamplesThrough examining Euclidean geometry examples, you can better understand this foundational branch of mathematics. Specifically, by exploring various shapes and solids, alongside their real-world applications, the principles of Euclidean geometry can be brought to life. This journey through geometric examples not only reinforces the theoretical knowledge but also showcases the practical utility of Euclidean concepts in everyday life and various professional fields.By focusing on these examples, you will gain insights into how Euclidean geometry describes the world around us, providing a bridge between abstract mathematical theorems and tangible, observable phenomena.Shapes and Solids in Euclidean GeometryIn Euclidean geometry, shapes and solids form the basis of study. These are the geometric figures that you encounter frequently, not just in your mathematical journey, but also in your day-to-day life. They include planar figures such as triangles, rectangles, circles, and polygons, as well as three-dimensional solids like cubes, spheres, cylinders, and pyramids.Understanding these shapes and solids involves recognising their properties, measuring their dimensions, and computing their area or volume. For instance, the area of a rectangle is found by multiplying its length and width (	extit{area} = length 	imes width), while the volume of a sphere is given by rac{4}{3}	extit{π}r^3, where 	extit{r} is the radius of the sphere. These formulae are fundamental in Euclidean geometry, providing necessary tools for solving problems related to space and form. Example of Calculating the Area of a Triangle: Given a triangle with a base of 6 units and a height of 4 units, you can use the formula rac{1}{2}	imes 	extit{base} 	imes 	extit{height} to calculate its area. Substituting the given values, you get rac{1}{2} 	imes 6 	imes 4 = 12. Thus, the area of the triangle is 12 square units.  Regular Polygon: A regular polygon is a plane figure with equal sides and angles. Examples include equilateral triangles and square. The properties of regular polygons, such as their internal angles and symmetry, are explored in Euclidean geometry.Real-World Applications of Euclidean GeometryReal-world applications of Euclidean geometry permeate various fields, demonstrating the practical utility of geometrical principles. From architecture and engineering to computer graphics and geography, the foundational elements of Euclidean geometry play a pivotal role in problem-solving and design.In architecture, the principles of Euclidean geometry are employed to design buildings and structures that are aesthetically pleasing and structurally sound. Engineers utilise geometric theorems to optimise space and materials in construction projects. In the realm of computer graphics, Euclidean geometry facilitates the modelling of objects and environments, enabling the creation of realistic and functional virtual worlds.GPS technology relies on Euclidean geometry to accurately calculate distances and directions between different points on the Earth's surface.The field of robotics utilises Euclidean geometry in multiple ways. For instance, in designing robotic arms, the kinematics involving angles and lengths is based on geometric principles. This allows the arms to accurately reach and manipulate objects. Further, pathfinding algorithms implement geometric concepts to navigate and avoid obstacles efficiently.Axioms of Euclidean GeometryEuclidean geometry, a branch of mathematics named after the ancient Greek mathematician Euclid, forms the cornerstone of geometrical understanding. It operates on a set of foundational principles or axioms that establish the rules governing points, lines, angles, and surfaces. These axioms are universally accepted truths within the context of Euclidean geometry, serving as the starting points for logical reasoning and theorem derivation.The significance of these axioms lies in their simplicity and broad applicability, making Euclidean geometry a fundamental framework for various scientific and engineering fields. By understanding these axioms, you gain insight into the structured and logical nature of the mathematical world.Fundamental Principles Behind Euclidean GeometryThe axioms of Euclidean geometry spell out the basic assumptions on which the entire structure of geometry is built. These axioms were thoroughly presented in Euclid's Elements, where they have been used to construct the entirety of Euclidean geometric theory. Interestingly, while Euclid originally outlined these principles without proof, they are considered self-evident truths.The fundamental principles involve concepts such as the uniqueness of the line connecting two points, the ability to extend a line segment indefinitely, and the notion that right angles are congruent. Through these principles, Euclidean geometry offers a framework that can describe the spatial relations and properties of different geometric shapes and figures. Axiom: An axiom is a statement or proposition which is regarded as being accepted, established, or self-evidently true. In the context of Euclidean geometry, axioms form the foundational truths from which theorems are logically derived. Illustration of an Axiom: One of Euclid's axioms states that for any two distinct points, there is exactly one line that contains both points. This axiom is pivotal because it underlies the construction of geometric figures and is a fundamental concept for proving other geometric theorems. Without this basic principle, the discipline of geometry would lack its ordered and logical structure. How Axioms Shape Our Understanding of GeometryThe axioms of Euclidean geometry play a critical role in shaping our understanding of geometry, forming the bedrock upon which logical deductions and mathematical proofs are built. They allow for a systematic exploration of geometric concepts, facilitating the derivation of complex theorems from basic, self-evident truths. This logical progression from simple to complex is a hallmark of mathematical reasoning and argumentation.Moreover, the axioms provide a universal language and set of rules that can be universally applied, enabling mathematicians to communicate ideas clearly and consistently. Through this structured approach, Euclidean geometry not only describes the physical world but also fosters a deeper appreciation for the beauty and precision of mathematical thought.Euclid's axioms have remained fundamentally unchanged for millennia, underscoring the timeless nature of these mathematical truths and their wide-ranging applicability in fields beyond pure mathematics, including physics, engineering, and computer science.The impact of Euclidean geometry extends beyond the understanding and description of physical space. It has influenced the development of mathematical logic and the philosophy of science, highlighting the importance of basing complex systems of thought on simple, undeniable truths. By embracing these axioms, Euclidean geometry teaches us the power of logical deduction and the value of building knowledge from well-defined foundations.Euclidean Geometry Theorems and PostulatesExploring the world of Euclidean geometry offers a fascinating journey through space and form, anchored in a set of principles and theorems that have shaped mathematical thought for centuries. This field of study, central to the fabric of mathematics, consists of theorems and postulates that describe the relationships between points, lines, angles, and surfaces. By understanding these fundamental concepts, you acquire the tools necessary for navigating through geometric space, offering profound insights into the physical world.Euclidean geometry's theorems and postulates serve as the building blocks for various fields of science and engineering, laying the groundwork for advances in technology, architecture, and design.Key Theorems in Euclidean GeometryEuclidean geometry is renowned for its theorems, which are propositions that have been proven based on previously established axioms and theorems. Among the most significant are the Pythagorean theorem, theorems on the properties of angles and triangles, and the parallel postulate. These theorems not only demonstrate the internal consistency of Euclidean geometry but also have practical applications in various scientific and engineering disciplines.For example, the Pythagorean theorem, which states that in a right-angled triangle the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides, can be articulated as \[c^2 = a^2 + b^2\]. This theorem is pivotal in calculating distance and designing structures. Example of the Pythagorean Theorem: Consider a right-angled triangle where the lengths of the two shorter sides, \(a\) and \(b\), are 3 units and 4 units respectively. Using the Pythagorean theorem, the length of the hypotenuse, \(c\), can be calculated as \(c=\sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5\) units.  Parallel Postulate: This postulate suggests that given any straight line and a point not on it, there exists exactly one straight line which passes through that point and is parallel to the initial line. This foundational assumption is critical to many of Euclidean geometry's proofs and theorems.Exploring Euclidean Geometry PostulatesThe postulates of Euclidean geometry, introduced by Euclid in his seminal work Elements, serve as the foundational assumptions from which all geometric reasoning is derived. These include statements about the properties of points, lines, angles, and planes that seem intuitively true and are accepted without proof. The exploration of these postulates is essential for anyone looking to understand the rules and structures governing geometric space.The five postulates cover the basic constructions of geometric figures, the concept of congruent segments, and the properties of parallel lines. For instance, the first postulate states that a straight line segment can be drawn connecting any two points, forming the basis for constructing geometric figures.Euclid’s fifth postulate, also known as the ‘parallel postulate’, has been the subject of much debate through the centuries, leading to the development of non-Euclidean geometries when it is replaced with alternative statements.A deep dive into the third postulate reveals its significance in constructing circles, stating that a circle can be drawn with any centre and radius. This postulate is fundamental to the study of angular measures and circular geometry, demonstrating the intricate relationships between lines and curves.Understanding Euclid’s postulates not only aids in navigating through the logical framework of Euclidean geometry but also enhances one’s appreciation for the elegance and coherence of mathematical principles. Through these postulates, Euclid laid down the groundwork for centuries of mathematical thought, influencing fields as diverse as physics, engineering, and art.
+Euclidean geometry - Key takeaways
+
+Definition of Euclidean Geometry: A branch of mathematics dealing with points, lines, surfaces, and solids using a set of axioms and theorems, named after Euclid's work Elements.
+Euclid's Postulates: Five foundational assumptions, such as the ability to connect any two points with a straight line and the equality of all right angles, form the base for Euclidean geometry theorems and principles.
+Euclidean Space: A mathematical construct representing multi-dimensional space where geometric relationships such as distance, angle, area, and volume are studied under Euclidean geometry principles.
+Real-World Applications: Euclidean geometry is utilised in fields like architecture, engineering, computer graphics, and GPS technology to solve problems and design structures.
+Key Theorems and Postulates: Fundamental concepts in Euclidean geometry, such as the Pythagorean theorem and the parallel postulate, underpin the science of space and form across various scientific and engineering disciplines.
+
+
+
+
+
+
+
+
+
+
+
+Learn with 0 Euclidean geometry flashcards in the free StudySmarter app
+We have 14,000 flashcards about Dynamic Landscapes.
+
+
+
+
+
+
+
+
+				Sign up with Email			
+Already have an account?				Log in
+
+
+
+
+
+Frequently Asked Questions about Euclidean geometry		
+
+What are the basic postulates of Euclidean geometry?
+The basic postulates of Euclidean geometry are: 1) A straight line can be drawn between any two points, 2) A finite straight line can be extended continuously in a straight line, 3) A circle can be drawn with any centre and any radius, 4) All right angles are congruent, and 5) If two lines intersected by a transversal form internal angles on the same side that sum to less than two right angles, the two lines, if extended indefinitely, meet on that side.
+How do Euclidean geometry principles apply to modern-day mathematics?
+Euclidean geometry underpins modern mathematics by providing foundational principles for shapes, space, and structure essential in fields like calculus, linear algebra, and topology. It aids in understanding physical space and solving practical problems in engineering, architecture, and computer science, showcasing its enduring relevance and application.
+What is the difference between Euclidean and non-Euclidean geometry?
+Euclidean geometry is based on Euclid's postulates which describe flat surfaces, assuming parallel lines never meet. Non-Euclidean geometry, encompassing hyperbolic and elliptic geometry, operates on curved surfaces where the parallel postulate doesn't hold, allowing for parallel lines to meet or not existing at all.
+What is the significance of the Pythagorean theorem in Euclidean geometry?
+The Pythagorean theorem is foundational in Euclidean geometry as it describes the relationship between the lengths of the sides of a right-angled triangle. It enables the calculation of the length of one side, given the lengths of the other two, facilitating the exploration of distances and angles within geometric figures.
+How do you calculate the area and perimeter of shapes in Euclidean geometry?
+To calculate the area and perimeter of shapes in Euclidean geometry, one uses formulas specific to each shape. For example, the area of a rectangle is its length times its width (A = l * w), and its perimeter is the sum of all sides (P = 2l + 2w). For a circle, the area is π times the radius squared (A = πr²), and the perimeter, or circumference, is 2π times the radius (C = 2πr).
+
+
+
+
+		Discover learning materials with the free StudySmarter app	
+
+
+
+
+
+
+
+
+
+Sign up for free
+
+
+
+
+
+
+
+				About StudySmarter			
+
+
+			StudySmarter is a globally recognized educational technology company, offering a holistic learning platform designed for students of all ages and educational levels. Our platform provides learning support for a wide range of subjects, including STEM, Social Sciences, and Languages and also helps students to successfully master various tests and exams worldwide, such as GCSE, A Level, SAT, ACT, Abitur, and more. We offer an extensive library of learning materials, including interactive flashcards, comprehensive textbook solutions, and detailed explanations. The cutting-edge technology and tools we provide help students create their own learning materials. StudySmarter’s content is not only expert-verified but also regularly updated to ensure accuracy and relevance.		
+
+			Learn more		
+
+
+
+
+
+
+
+
+
+
+
+
+						StudySmarter Editorial Team					
+
+						Team Euclidean geometry Teachers					
+
+
+
+
+
+
+
+
+13 minutes reading time						
+
+
+
+
+
+
+						Checked by StudySmarter Editorial Team 
+
+
+
+
+			Save Explanation		
+
+
+
+
+
+
+
+
+
+
+
+
+					Study anywhere. Anytime.Across all devices.				
+
+					Sign-up for free				
+
+
+
+
+
+Explore our app and discover over 50 million learning materials for free.
+
+		Sign up for free	
+
+
+
+
+
+
+
+
+
+
+
+
+
+94% of StudySmarter users achieve better grades with our free platform.	
+
+		Download now!	
+
+
+
+
+
+
+
+
+
+
+
+Create a free account to save this explanation.
+Save explanations to your personalised space and access them anytime, anywhere!
+
+
+
+
+
+
+                Sign up with Email
+
+
+
+
+
+                Sign up with Apple
+By signing up, you agree to the  Terms and Conditions and the Privacy Policy of StudySmarter.
+Already have an account? Log in
+
+
+
+
+
+Sign up to highlight and take notes. It’s 100% free.	
+
+
+
+                Get Started Free            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join over 22 million students in learning with our StudySmarter App
+
+
+The first learning app that truly has everything you need to ace your exams in one place
+
+
+
+
+
+Flashcards & Quizzes
+
+
+
+
+
+AI Study Assistant
+
+
+
+
+
+Study Planner
+
+
+
+
+
+
+
+
+
+Mock-Exams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart Note-Taking
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Sign up with Email					
+Already have an account? Log in						
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English (UK)	                                
+
+
+
+ English (US)
+ German
+ French
+ Spanish
+ Italian
+
+
+
+
+
+
+
+
+
+Company
+
+Career
+About Us
+
+
+
+
+
+Product
+
+Exams
+Explanations
+For Companies
+Magazine
+
+
+
+
+
+Help
+
+Contact
+Help Center
+Cancel Premium
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+© 2024 StudySmarter GmbH
+
+Terms
+Privacy
+Transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

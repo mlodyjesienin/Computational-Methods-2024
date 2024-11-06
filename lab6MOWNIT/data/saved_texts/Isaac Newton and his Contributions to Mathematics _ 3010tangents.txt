@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+Isaac Newton and his Contributions to Mathematics | 3010tangents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3010tangents
+The class blog for Math 3010, fall 2014, at the University of Utah
+
+
+Menu
+Skip to content
+
+HomeAbout
+
+
+
+
+
+
+
+
+Isaac Newton and his Contributions to Mathematics
+
+
+Sir Isaac Newton. Image: Arthur Shuster & Arthur E. Shipley, via Wikimedia Commons..
+In class we discussed the Fundamental Theorem of Calculus and how Isaac Newton contributed to it, but what other discoveries did he make?
+Sir Isacc Newton was born on January 4, 1643, but in England they used the Julian Calender at that time and his birthday was on Christmas Day 1642. He was born in Woolsthorpe-by-Colsterworth, a hamlet in the county of Lincolnshire. His father had already passed prior to his birth and his mother remarried after his birth and left Isaac to live with her mother. He went to The King’s School, Grantham from the time he was twelve until he was seventeen. His mother removed him from school after the death of her second husband, but later allowed him to return by the encouragement of the school’s headmaster. He rose to be at the top in rankings in his school, mainly motivated to get revenge towards a bully. He began attending Trinity College in Cambridge in 1661. After receiving his degree he developed his theories on calculus over the span of two years during the plague [1].
+Newton’s work in calculus intitially started as a way to find the slope at any point on a curve whose slope was constantly varying (the slope of a tangent line to the curve at any point). He calculated the derivative in order to find the slope. He called this the “method of fluxions” rather than differentiation. That is because he termed “fluxion” as the instantaneous rate of change at a point on the curve and “fluents” as the changing values of x and y. He then established that the opposite of differentiation is integration, which he called the “method of fluents”. This allowed him to create the First Fundamental Theorem of Calculus, which states that if a function is integrated and then differentiated the original function can be obtained because differentiation and integration are inverse functions [2].
+Controversy later arose over who developed calculus. Newton didn’t publish anything about calculus until 1693, but German mathematician Leibniz published his own version of the theory in 1684. The Royal Society accused Leibniz of plagiarism in 1699 and the dispute caused a scandal to occur in 1711 when the Royal Society claimed Newton was the real discoverer of calculus. The scandal got worse when it was discovered that the accusations against Leibniz were actually written by Newton. The dispute between Newton and Leibniz went on until the death of Leibniz. It is now believed that both developed the theories of Calculus independently, both with very different notations. It should also be noted that Newton actually developed his Fundamental Theory of Calculus between 1665 and 1667, but waited to publish his works due to fear of being criticized and causing controversy [1].
+Newton not only discovered calculus but he is also credited for the discovery of the generalised binomial theorem. This theorem describes the algebraic expansion of powers of a binomial. He also contributed to the theory of finite differences, he used fractional exponents and coordinate geometry to get solutions to Diophantine equations, he developed a method for finding better approximation to the zeroes or roots of a function, and he was the first to use infinite power series.
+His work and discoveries were not limited to mathematics; he also developed theories in optics and gravitation. He observed that prisms refract different colors at different angles, which led him to conclude that color is a property intrinsic to light. He developed his theory of color by noting that regardless if colored light was reflected, scattered, or transmitted it remained the same color. Therefore color is the result of objects interacting with colored light and objects do not generate their own colors themselves [1].
+Sir Isaac Newton was a truly amazing mathematician and scientist. He achieved so much in his lifetime and the amount of discoveries he made can seem almost impossible. He helped make huge advancements in mathematics and created theorems that we still use heavily to this day.
+[1] http://en.wikipedia.org/wiki/Isaac_Newton
+[2] http://www.storyofmathematics.com/17th_newton.html
+Share this:TwitterFacebookLike Loading...
+
+Related
+ 
+
+			This entry was posted in Uncategorized and tagged Isaac Newton on May 5, 2015 by u0752301.								
+
+
+Post navigation
+← Leonardo of Pisa – The Great Fibonacci
+What are the p-adic numbers? →
+
+
+
+
+
+
+RSS - PostsRSS - Comments
+Archives
+
+December 2015 (1)
+May 2015 (12)
+April 2015 (45)
+March 2015 (19)
+February 2015 (15)
+January 2015 (1)
+December 2014 (20)
+November 2014 (25)
+October 2014 (19)
+September 2014 (20)
+
+Categories
+
+Big Problems
+
+Chinese mathematics
+
+Egyptian Mathematics
+
+European mathematics
+
+Geometry
+
+Greek mathematics
+
+Indian mathematics
+
+Marshall Islands mathematics
+
+Math and Nature
+
+Mesopotamian mathematics
+
+Middle Eastern mathematics
+
+Numbers
+
+Practical Math
+
+Uncategorized
+
+Women in math
+
+
+Tags
+Ada Lovelace
+algebra
+base 10
+base 12
+base60
+binary
+calculus
+Cantor
+chaos theory
+Chinese mathematics
+clocks
+complex numbers
+Computer Science
+cryptography
+cryptology
+decimal
+Dimensions
+Emmy Noether
+encryption
+euclid
+Euclidean Geometry
+Euler
+eye of Horus
+Fermat
+Fermat's Last Theorem
+Fibonacci Sequence
+fractals
+fractions
+galley division
+gauss
+geometry
+Georg Cantor
+Golden Ratio
+Gottfried Leibniz
+Hamilton
+hilbert
+history
+Hypatia
+hyperbolic geometry
+imaginary numbers
+Infinity
+Isaac Newton
+math
+Mathematics
+Mersenne
+modular arithmetic
+Nature
+Nine Chapters on the Mathematical Art
+Non Euclidean Geometry
+Number bases
+Numbers
+Number Theory
+Pascal
+Pascals triangle
+Philosophy
+philosophy of mathematics
+pi
+Platonism
+Poincare
+prime number
+Pythagoras
+Pythagorean theorem
+Ramanujan
+realism
+religion and mathematics
+Riemann
+RSA
+set theory
+Sophie Germain
+Spherical Geometry
+The Simpsons
+Topology
+William Rowan Hamilton
+zeno's paradox
+zero
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reblog
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+
+
+
+
+
+				3010tangents			
+
+
+
+Join 33 other subscribers
+
+
+
+
+
+
+
+ 
+
+												Sign me up											
+
+
+
+
+											Already have a WordPress.com account? Log in now. 
+
+
+
+
+
+
+
+ Privacy						
+
+
+
+ 
+
+
+
+
+
+				3010tangents			
+
+
+
+ Customize
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+Sign up
+Log in
+Copy shortlink
+
+
+											Report this content										
+
+
+
+											View post in Reader										
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+%d 
+
+
+ 
+
+

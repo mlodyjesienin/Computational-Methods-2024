@@ -1,0 +1,559 @@
+
+
+
+
+
+
+
+
+
+
+Statistical Mechanics, Probability and Stochastic Analysis
+
+
+
+
+
+
+
+
+
+  
+
+University of Reading cookie policy
+We use cookies on reading.ac.uk to improve your experience, monitor site performance and tailor content to you
+Read our cookie policy to find out how to manage your cookie settings
+
+
+Confirm
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+This site may not work correctly on Internet Explorer. We recommend switching to a different browser for a better experience. 
+
+
+
+
+
+
+
+
+University of Reading Home 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Department ofMathematics and Statistics 
+
+
+
+ 
+
+
+
+
+Undergraduate
+
+Undergraduate courses
+
+
+Why study a degree with us?
+
+
+How you'll study
+
+
+Department life for undergraduates
+
+
+
+
+PhD
+
+PhD opportunities
+
+
+Why study with us?
+
+
+Department life for PhD students
+
+
+How we support you
+
+
+Mathematics for our Future Climate
+
+
+PhD fees and funding
+
+
+How to apply for a PhD
+
+
+
+
+Research
+
+Applied and numerical mathematics
+
+Complex Fluids and Theoretical Polymer Physics
+
+
+Data Assimilation and Inverse Problems
+
+
+Geophysical Fluid Dynamics
+
+
+Mathematical Biology
+
+
+Numerical Analysis and Computational Modelling
+
+
+
+
+Pure mathematics
+
+Analysis
+
+
+Number Theory
+
+
+
+
+Statistics
+
+Applied Statistics
+
+
+Statistical Mechanics, Probability and Stochastic Analysis
+
+
+
+
+Mathematics of Planet Earth
+
+
+
+
+Stories
+
+
+Outreach
+
+
+Publications
+
+Applied Mathematics reports
+
+
+Mathematics Report series
+
+
+Numerical Analysis reports
+
+
+Preprint series
+
+
+Theses and dissertations
+
+Mathematics MSc dissertations
+
+
+Mathematics PhD theses
+
+
+Statistics PhD theses
+
+
+
+
+
+
+Staff
+
+
+Seminars and events
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+Undergraduate
+
+Undergraduate courses
+
+
+Why study a degree with us?
+
+
+How you'll study
+
+
+Department life for undergraduates
+
+
+
+
+PhD
+
+PhD opportunities
+
+
+Why study with us?
+
+
+Department life for PhD students
+
+
+How we support you
+
+
+Mathematics for our Future Climate
+
+
+PhD fees and funding
+
+
+How to apply for a PhD
+
+
+
+
+Research
+
+Applied and numerical mathematics
+
+Complex Fluids and Theoretical Polymer Physics
+
+
+Data Assimilation and Inverse Problems
+
+
+Geophysical Fluid Dynamics
+
+
+Mathematical Biology
+
+
+Numerical Analysis and Computational Modelling
+
+
+
+
+Pure mathematics
+
+Analysis
+
+
+Number Theory
+
+
+
+
+Statistics
+
+Applied Statistics
+
+
+Statistical Mechanics, Probability and Stochastic Analysis
+
+
+
+
+Mathematics of Planet Earth
+
+
+
+
+Stories
+
+
+Outreach
+
+
+Publications
+
+Applied Mathematics reports
+
+
+Mathematics Report series
+
+
+Numerical Analysis reports
+
+
+Preprint series
+
+
+Theses and dissertations
+
+Mathematics MSc dissertations
+
+
+Mathematics PhD theses
+
+
+Statistics PhD theses
+
+
+
+
+
+
+Staff
+
+
+Seminars and events
+
+
+
+
+
+
+
+
+
+
+Home >
+
+
+Research >
+
+
+Statistics >
+
+
+Statistical Mechanics, Probability and Stochastic Analysis >
+
+
+
+
+
+
+
+
+
+Search
+
+
+Close
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Statistical Mechanics, Probability and Stochastic Analysis 
+
+ 
+
+
+
+
+
+
+
+ 
+
+Is there a connection between the distribution of prime numbers, the structure of Mandelbrot sets, compression algorithms for data sets, the description of polymers and the analysis of heat flow in media?
+Probability theory naturally appears in the description and analysis of all these different areas. Located between pure and applied mathematics, this field overlaps with many different branches of mathematics and provides a background, as well as tools, to properly formulate and solve problems from a range of other sciences.
+From its inception as an analysis of "chance", modern probability theory is indispensable in mathematical fields as different as combinatorics, real and complex analysis, and group theory.
+Probability theory is key to providing robust foundations for statistical mechanics, an interdisciplinary research area between mathematics and theoretical physics focussing on the study of the emerging properties of systems with many degrees of freedom. 
+
+Research
+People
+Publications
+ 
+
+
+
+ResearchOur research group in Reading is focused on the following areas:
+Point processes and interacting particle systems
+Systems consisting out of a large number of point like subsystems arise in many areas, for example if the system is based on a large number of interacting individual agents as in economics, biology or sociology. A classical area of application for such systems is the description of solid and soft matter from microscopic principles. The aim is a rigorous derivation of cooperative effects. Main areas of research are the moment problem for point processes, geometry of configuration spaces and analyticity properties.
+ 
+Markov processes (Dr Tobias Kuna, Dr Jochen Broecker, Professor Valerio Lucarini)
+Of enormous practical relevance in applications are memoryless time developments, known as Markov processes, it is a well studied area of probability theory having many deep connections to real and complex analysis, in particular ordinary differential equations, spectral theory, partial differential equations. In particular, we do research in derivation of scaling limits, effective description for large systems in terms of few low-dimensional equations.
+ 
+Random dynamical systems and time series analysis (Dr Tobias Kuna, Dr Jochen Broecker, Professor Valerio Lucarini)
+The mathematics of random as well as deterministic dynamical systems is central in the description of processes appearing in many areas of science. Research in this area includes the investigation of mixing properties.
+ 
+Rough path theory
+Many standard stochastic processes, such as Brownian motion, have no-where differentiable sample paths. Rough path is a deterministic theory of calculus purposed built for such paths. It simplifies and strengthens classical results in Stochastic Analysis such as large deviation principle and stochastic flow. Rough path theory also gives a canonical way to define differential equations driven by non-semi-martingales. Originating from T. Lyons' study of stochastic differential equation, the theory has inspired Martin Hairer's (Fields Medal 2014) work on stochastic partial differential equations and subsequently the theory of regularity structures.
+ 
+Extreme events (Dr Tobias Kuna, Professor Valerio Lucarini)
+The study of extreme events has long been a very relevant field of investigation at the intersection of different fields, most notably mathematics, geosciences, engineering, finance. While extreme events in a given physical system obey the same laws as typical events, extreme events are rather special both from a mathematical point of view and in terms of their impacts. Clearly, understanding the properties of the tail of the probability distribution of a stochastic variable attracts a lot of interest in many sectors of science and technology because extremes sometimes relate to situations of high stress or serious hazard, so that it is crucial to be able to predict their return times in order to cushion and gauge risks. Our research focuses on studying the properties of the extremes of observables of chaotic dynamical systems.
+ 
+Nonequilibrium statistical mechanics (Dr Tobias Kuna, Professor Valerio Lucarini)
+Our understanding of nonequilibrium systems is relatively poor and limited, in spite of the wealth of phenomena occurring out of equilibrium, and advancing it is one of the great frontiers of contemporary science, both for the theoretical relevance of the problem and for a multitude of practical applications. The presence of nonequilibrium conditions is essential for sustaining life, the atmospheric circulation, or convective motions, just to name few relevant example. Nonequilibrium statistical mechanical systems can be essentially characterized as being in contact with at least two thermostats with different temperatures (or, e.g., chemical potentials). Nonequilibrium systems exhibit an extremely complex phenomenology and the derivation of a macroscopic description able to account for the fundamental properties of the microscopic dynamics is extremely challenging. Our research focuses on relating the properties of nonequilibrium systems across scales (microscopic-mesoscopic-macroscopic) and on using response theory for predicting how nonequilibrium systems react to applied perturbations.
+ 
+Applications
+Our research group is open for interdisciplinary research. We are interested in applications mainly in the following areas:
+Meteorology
+Atmospheric dynamics is the interplay of processes ranging over enormous temporal and spatial scales. Despite ever-increasing computer power, we are still not able to simulate all these processes faithfully; we might never be able to, and we might in fact not want to. Nonetheless, fast and small-scale processes might still be taken into account in some sense by modelling them as stochastic processes.
+ 
+Filtering problems
+Important in various areas such as engineering, systems biology, and meteorology, filtering aims at reconstruction trajectories of dynamical systems (such as Markov processes) from a history of noise-corrupted and incomplete observations.
+ 
+Demography and biology
+Demography has always been one of the important fields of applications of probabilistic and statistical methods. The dynamics of populations must often be considered as inherently stochastic and therefore it is often appropriate to describe the dynamics via stochastic processes. The development of probabilistic and statistical tools for the investigation of populations undergoing ageing and mortality is of particular interest.
+ 
+Theory of classical fluids
+Liquids and gases are formed by the cooperative behaviour of a myriad of molecules. In time spans perceivable by human beings, liquids and gases are very well-distinguished states of matter. Conversely, in the world of molecules, the striking difference between these two states of matter disappears. Only probabilistic tools can tell apart a gas from a liquid. All properties of liquids perceivable by human beings have to be, in principle, derivable from properties of the molecules alone.
+Most existing physical theories contain ad hoc steps which can be justified only afterwards by apparent similarity with observed properties of the liquid. Probability theory is already able to fill some of these gaps. 
+
+
+
+People
+Dr Jochen Broecker
+Dr Tobias Kuna
+Professor Valerio Lucarini
+
+ 
+Former group members
+
+Dr Mladen Savov
+Dr Martin Kolb
+Dr Maria Infusino
+Dr Horatio Boedihardjo
+Dr Richard Everitt
+ 
+
+
+
+PublicationsPublications by the members of this research group are available at the Reading publications database, Centaur.
+Statistical Mechanics, Probability and Stochastic Analysis publications 
+
+
+
+Take the next stepVisit usGet a prospectusAsk us a questionChat to our students 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of
+Mathematics and Statistics
+Part of the School of Mathematical, Physical and Computational Sciences
+
+ 
+
+
+
+
+
+Related departments
+
+
+Meteorology
+
+
+Computer Science
+
+
+
+ 
+
+
+
+Follow us
+
+Facebook
+Instagram
+Twitter
+Youtube
+ 
+
+
+
+
+
+
+
+University of Reading Home 
+
+
+
+
+
+
+Charitable status
+
+Anti-slavery policy
+
+Accessibility
+
+Privacy policy
+
+Cookies
+
+Terms of use
+
+Sitemap
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+

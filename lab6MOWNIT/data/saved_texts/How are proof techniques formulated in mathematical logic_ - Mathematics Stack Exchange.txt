@@ -1,0 +1,1036 @@
+
+
+
+
+How are proof techniques formulated in mathematical logic? - Mathematics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Mathematics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+How are proof techniques formulated in mathematical logic?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+3 years, 9 months ago
+
+
+Modified
+3 years, 9 months ago
+
+
+Viewed
+                        101 times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+How are proof techniques formulated in mathematical logic, for example:
+
+direct proof,
+proof by contrapositive,
+proof by contradiction?
+
+Are the following   some possible ways?
+
+This Wikipedia article  formulates them as some  logical equivalence
+identities. How are the identities used in proofs as proof techniques?  Is it by "if $\phi$ and $\psi$ are logically equivalent, then $\Phi \models \phi$ iff $\Phi \models \psi$ for any set $\Phi$ of formulas" and "if $\Phi$ and $\Psi$ are logically equivalent, then $\Phi \models \phi$ iff $\Psi \models \phi$ for any formula $\phi$"?
+
+Does p35 of Ebbinghaus' Mathematical Logic   formulate proof by
+contraction at some metalanguage level using "iff" to connect two
+instances of $\models$?
+
+4.4 Lemma.  For all  $\Phi$  and all $\phi$, $\Phi \models \phi$  iff  not  Sat  $\Phi \cup \{ \neg \phi \}$.
+
+How are other proof techniques formulated at some metalanguage
+level using "iff" to connect two instances of $\models$?
+
+Ebbinghaus' Mathematical Logic formulates proof by contradiction and proof by contrapositive, as some inference rules in the sequent calculus, e.g. IV.2.4  Contradiction Rule (Ctr) on p63 for proof by contradiction, and IV.3.3 Contrapositon Rules  (Cp) on p64 for proof by contrapositive. Notice that the inference rules are one-directional, while proof techniques are bi-directional by nature, which the other possible ways of formulations have shown. So how can inference rules be used for representing bi-directionalness of proof techniques?
+
+What are other ways for formulating proof techniques, if any?
+
+
+Thanks.
+
+
+
+
+logicproof-writing
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Sep 8, 2020 at 12:39
+
+
+
+
+
+Tim
+
+
+
+
+
+
+
+
+
+            asked Sep 6, 2020 at 15:27
+
+
+
+
+
+
+TimTim
+
+47.6k5555 gold badges249249 silver badges517517 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+6
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+There seems to be a negation sign missing in the quote.
+$\endgroup$
+
+– tomasz
+
+Sep 6, 2020 at 15:54
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Usual rules of inference of propositional and predicate logic formalize the "basic" proof technique. See Natural Deduction
+$\endgroup$
+
+– Mauro ALLEGRANZA
+
+Sep 7, 2020 at 14:28
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+See e.g. the rule of Negation Introduction: "if $\Phi, \varphi \vdash \bot$, then $\Phi \vdash \lnot \varphi$". Lemma 4.4. above is the semantical counterpart of the rule.
+$\endgroup$
+
+– Mauro ALLEGRANZA
+
+Sep 7, 2020 at 14:30
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@MauroALLEGRANZA What is the semantical counterpart for proof by contrapositive?
+$\endgroup$
+
+– Tim
+
+Sep 8, 2020 at 12:22
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+What does it mean? Please, be precise with references... In Ebbinghaus, page 64, there are four Contraposition rules: each one “implement” a valid argument. Example: if $\Gamma \varphi \vDash \psi$, then $\Gamma \lnot \psi \vDash \lnot \varphi$”
+$\endgroup$
+
+– Mauro ALLEGRANZA
+
+Sep 8, 2020 at 12:27
+
+
+
+
+
+
+
+ | 
+Show 1 more comment
+
+
+
+
+
+
+
+
+
+
+                                        1 Answer
+                                    1
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+If $P$ is a proposition, then $P$ is equivalent to $\neg P\Rightarrow false$.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Sep 6, 2020 at 15:42
+
+
+
+
+
+
+WuestenfuxWuestenfux
+
+21k22 gold badges1515 silver badges2424 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+                                    You must log in to answer this question.
+                                
+
+
+Not the answer you're looking for? Browse other questions tagged logicproof-writing.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+4
+
+What are these symbols in logic called?
+
+
+
+3
+
+What does "prove" mean?
+
+
+
+
+Related
+
+
+
+1
+
+What techniques are there to search for first order sentence equivalence?
+
+
+
+1
+
+What are techniques for proving undecidability or unprovability of a sentence?
+
+
+
+0
+
+Are these two characterizations of two (sets of) formulas being equivalent?
+
+
+
+3
+
+What does "prove" mean?
+
+
+
+3
+
+Does sequent calculus have axiom?
+
+
+
+10
+
+Math proof vs Logic Proof.
+
+
+
+0
+
+Different Proof Systems for the same Logic
+
+
+
+0
+
+First order logic, why are the quantifier rules of inference reasonable?
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    can you roll your own .iso for USB stick?
+                
+
+
+
+                    Have any countries managed to reduce immigration by a significant margin in the absence of economic problems?
+                
+
+
+
+                    How do you load a regtest wallet?
+                
+
+
+
+                    Is a weak appliance behind a reverse proxy affecting the security of the home network?
+                
+
+
+
+                    Preventing Javascript in a browser from connecting to servers
+                
+
+
+
+                    what does the word of seven book- length means
+                
+
+
+
+                    Does it make sense for giants to use clubs or swords when fighting non-giants?
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    Sum of square roots (as an algebraic number)
+                
+
+
+
+                    Executable files with a bytecode compiler/interpreter
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    What's the difference between cryogenic and Liquid propellant?
+                
+
+
+
+                    Proving differentiability by testing continuity of the partials?
+                
+
+
+
+                    Can you use the special use features with tools without the tool?
+                
+
+
+
+                    Cut out rotated rectangle shape
+                
+
+
+
+                    Structure that holds the twin-engine on an aircraft
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    Thought experiment regarding gravity
+                
+
+
+
+                    Has there ever been arms supply with restrictions attached prior to the current war in Ukraine?
+                
+
+
+
+                    Why is finding a mathematical basis for the fine-structure constant meaningful?
+                
+
+
+
+                    Can you cite parts of a case if the core issues in the case were later overruled?
+                
+
+
+
+                    How can show division of fraction with tikz?
+                
+
+
+
+                    What does "far right tilt" actually mean in the context of the EU in 2024?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

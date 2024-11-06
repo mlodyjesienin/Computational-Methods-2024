@@ -1,0 +1,877 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Probability theory | Definition, Examples, & Facts | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				probability theory
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+IntroductionExperiments, sample space, events, and equally likely probabilitiesApplications of simple probability experimentsThe principle of additivityMultinomial probabilityThe birthday problemConditional probabilityApplications of conditional probabilityIndependenceBayes’s theoremRandom variables, distributions, expectation, and varianceRandom variablesProbability distributionExpected valueVarianceAn alternative interpretation of probabilityThe law of large numbers, the central limit theorem, and the Poisson approximationThe law of large numbersThe central limit theoremThe Poisson approximationInfinite sample spaces and axiomatic probabilityInfinite sample spacesThe strong law of large numbersMeasure theoryProbability density functionsConditional expectation and least squares predictionThe Poisson process and the Brownian motion processThe Poisson processBrownian motion processStochastic processesStationary processesMarkovian processesThe Ehrenfest model of diffusionThe symmetric random walkQueuing modelsInsurance risk theoryMartingale theory
+
+				References & Edit History
+
+				Related Topics
+
+
+
+				Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        For Students
+                    
+
+
+
+
+
+
+
+probability theory summary
+
+
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+
+
+
+
+Define It: Math Terms
+
+
+
+
+
+                        Related Questions
+                    
+
+
+				What was Carl Friedrich Gauss’s childhood like?
+
+				What awards did Carl Friedrich Gauss win?
+
+				How was Carl Friedrich Gauss influential?
+
+
+
+
+                        Read Next
+                    
+
+
+
+
+
+
+
+How Fast Is the Universe Expanding?
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+Do Lemmings Really Commit Mass Suicide?
+
+
+
+
+
+
+
+
+
+The Top COVID-19 Vaccine Myths Spreading Online
+
+
+
+
+
+
+
+
+
+Why Was Nazi Germany Called the Third Reich?
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+Why Is Pride Month Celebrated in June?
+
+
+
+
+
+
+
+
+
+9 American Political Scandals
+
+
+
+
+
+
+
+
+
+What’s the Difference Between Asian and African Elephants?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+
+
+
+
+
+probability theory
+
+
+mathematics
+
+
+
+
+	
+    
+            Actions
+        
+
+
+
+
+	
+			
+			Cite
+		
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+
+
+	
+            
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/probability-theory
+
+
+
+
+
+
+	
+                        Give Feedback
+                    
+
+
+
+
+	
+                        External Websites
+                    
+
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                        External Websites
+                    
+
+
+Stanford University - Review of Probability Theory
+Statistics LibreTexts - Probability Theory
+Indian Academy of Sciences - What is Probability Theory?
+University of California - Department of Statistics - Probability: Philosophy and Mathematical Background
+Stanford Encyclopedia of Philosophy - Quantum Logic and Probability Theory
+University of Minnesota - College of Liberal Arts Statistics - Introduction to Probability Theory
+
+
+
+
+
+
+
+
+
+	
+    
+                    Print
+        
+
+
+
+print
+			Print
+		
+
+			Please select which sections you would like to print:
+		
+
+
+
+Table Of Contents
+
+
+
+
+
+
+
+
+	
+    
+            Cite
+        
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+	
+    
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/probability-theory
+
+
+
+
+	
+    
+            Feedback
+        
+
+
+
+
+
+
+	
+                    External Websites
+                
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                    External Websites
+                
+
+
+Stanford University - Review of Probability Theory
+Statistics LibreTexts - Probability Theory
+Indian Academy of Sciences - What is Probability Theory?
+University of California - Department of Statistics - Probability: Philosophy and Mathematical Background
+Stanford Encyclopedia of Philosophy - Quantum Logic and Probability Theory
+University of Minnesota - College of Liberal Arts Statistics - Introduction to Probability Theory
+
+
+
+
+
+
+
+
+			
+				Written by
+				
+
+
+David O. Siegmund
+Professor of Statistics, Stanford University, California. Author of Sequential Analysis; Tests and Confidence Intervals.
+
+
+
+
+  David O. Siegmund
+
+Fact-checked by 
+
+The Editors of Encyclopaedia Britannica
+Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.
+
+
+
+
+  The Editors of Encyclopaedia Britannica
+
+Article History
+
+
+
+
+	
+			Table of Contents
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										sample space for a pair of dice 
+
+
+
+
+
+
+
+
+
+
+
+
+
+See all media
+
+
+
+
+Key People: 
+Carl Friedrich Gauss
+Pierre de Fermat
+Andrey Nikolayevich Kolmogorov
+Siméon-Denis Poisson
+Abraham de Moivre
+
+
+(Show more)
+
+
+
+
+Related Topics: 
+Bayes’s theorem
+central limit theorem
+stochastic process
+indifference
+likelihood
+
+
+(Show more)
+
+
+
+
+
+					See all related content →
+
+probability theory,  a branch of mathematics concerned with the analysis of random phenomena. The outcome of a random event cannot be determined before it occurs, but it may be any one of several possible outcomes. The actual outcome is considered to be determined by chance.The word probability has several meanings in ordinary conversation. Two of these are particularly important for the development and applications of the mathematical theory of probability. One is the interpretation of probabilities as relative frequencies, for which simple games involving coins, cards, dice, and roulette wheels provide examples. The distinctive feature of games of chance is that the outcome of a given trial cannot be predicted with certainty, although the collective results of a large number of trials display some regularity. For example, the statement that the probability of “heads” in tossing a coin equals one-half, according to the relative frequency interpretation, implies that in a large number of tosses the relative frequency with which “heads” actually occurs will be approximately one-half, although it contains no implication concerning the outcome of any given toss. There are many similar examples involving groups of people, molecules of a gas, genes, and so on. Actuarial statements about the life expectancy for persons of a certain age describe the collective experience of a large number of individuals but do not purport to say what will happen to any particular person. Similarly, predictions about the chance of a genetic disease occurring in a child of parents having a known genetic makeup are statements about relative frequencies of occurrence in a large number of cases but are not predictions about a given individual.(Read Steven Pinker’s Britannica entry on rationality.)This article contains a description of the important mathematical concepts of probability theory, illustrated by some of the applications that have stimulated their development. For a fuller historical treatment, see probability and statistics. Since applications inevitably involve simplifying assumptions that focus on some features of a problem at the expense of others, it is advantageous to begin by thinking about simple experiments, such as tossing a coin or rolling dice, and later to see how these apparently frivolous investigations relate to important scientific questions.
+
+
+Britannica Quiz
+Numbers and Mathematics
+
+  Experiments, sample space, events, and equally likely probabilities  Applications of simple probability experiments The fundamental ingredient of probability theory is an experiment that can be repeated, at least hypothetically, under essentially identical conditions and that may lead to different outcomes on different trials. The set of all possible outcomes of an experiment is called a “sample space.” The experiment of tossing a coin once results in a sample space with two possible outcomes, “heads” and “tails.” Tossing two dice has a sample space with 36 possible outcomes, each of which can be identified with an ordered pair (i, j), where i and j assume one of the values 1, 2, 3, 4, 5, 6 and denote the faces showing on the individual dice. It is important to think of the dice as identifiable (say by a difference in colour), so that the outcome (1, 2) is different from (2, 1). An “event” is a well-defined subset of the sample space. For example, the event “the sum of the faces showing on the two dice equals six” consists of the five outcomes (1, 5), (2, 4), (3, 3), (4, 2), and (5, 1). A third example is to draw n balls from an urn containing balls of various colours. A generic outcome to this experiment is an n-tuple, where the ith entry specifies the colour of the ball obtained on the ith draw (i = 1, 2,…, n). In spite of the simplicity of this experiment, a thorough understanding gives the theoretical basis for opinion polls and sample surveys. For example, individuals in a population favouring a particular candidate in an election may be identified with balls of a particular colour, those favouring a different candidate may be identified with a different colour, and so on. Probability theory provides the basis for learning about the contents of the urn from the sample of balls drawn from the urn; an application is to learn about the electoral preferences of a population on the basis of a sample drawn from that population.
+Get a Britannica Premium subscription and gain access to exclusive content. 
+Subscribe Now
+ Another application of simple urn models is to use clinical trials designed to determine whether a new treatment for a disease, a new drug, or a new surgical procedure is better than a standard treatment. In the simple case in which treatment can be regarded as either success or failure, the goal of the clinical trial is to discover whether the new treatment more frequently leads to success than does the standard treatment. Patients with the disease can be identified with balls in an urn. The red balls are those patients who are cured by the new treatment, and the black balls are those not cured. Usually there is a control group, who receive the standard treatment. They are represented by a second urn with a possibly different fraction of red balls. The goal of the experiment of drawing some number of balls from each urn is to discover on the basis of the sample which urn has the larger fraction of red balls. A variation of this idea can be used to test the efficacy of a new vaccine. Perhaps the largest and most famous example was the test of the Salk vaccine for poliomyelitis conducted in 1954. It was organized by the U.S. Public Health Service and involved almost two million children. Its success has led to the almost complete elimination of polio as a health problem in the industrialized parts of the world. Strictly speaking, these applications are problems of statistics, for which the foundations are provided by probability theory. In contrast to the experiments described above, many experiments have infinitely many possible outcomes. For example, one can toss a coin until “heads” appears for the first time. The number of possible tosses is n = 1, 2,…. Another example is to twirl a spinner. For an idealized spinner made from a straight line segment having no width and pivoted at its centre, the set of possible outcomes is the set of all angles that the final position of the spinner makes with some fixed direction, equivalently all real numbers in [0, 2π). Many measurements in the natural and social sciences, such as volume, voltage, temperature, reaction time, marginal income, and so on, are made on continuous scales and at least in theory involve infinitely many possible values. If the repeated measurements on different subjects or at different times on the same subject can lead to different outcomes, probability theory is a possible tool to study this variability. Because of their comparative simplicity, experiments with finite sample spaces are discussed first. In the early development of probability theory, mathematicians considered only those experiments for which it seemed reasonable, based on considerations of symmetry, to suppose that all outcomes of the experiment were “equally likely.” Then in a large number of trials all outcomes should occur with approximately the same frequency. The probability of an event is defined to be the ratio of the number of cases favourable to the event—i.e., the number of outcomes in the subset of the sample space defining the event—to the total number of cases. Thus, the 36 possible outcomes in the throw of two dice are assumed equally likely, and the probability of obtaining “six” is the number of favourable cases, 5, divided by 36, or 5/36. Now suppose that a coin is tossed n times, and consider the probability of the event “heads does not occur” in the n tosses. An outcome of the experiment is an n-tuple, the kth entry of which identifies the result of the kth toss. Since there are two possible outcomes for each toss, the number of elements in the sample space is 2n. Of these, only one outcome corresponds to having no heads, so the required probability is 1/2n.
+ It is only slightly more difficult to determine the probability of “at most one head.” In addition to the single case in which no head occurs, there are n cases in which exactly one head occurs, because it can occur on the first, second,…, or nth toss. Hence, there are n + 1 cases favourable to obtaining at most one head, and the desired probability is (n + 1)/2n.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,995 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics of Climate Modeling | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Book
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mathematics of Climate Modeling
+        
+
+Book
+© 1997
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Valentin P. Dymnikov
+0, 
+                        
+
+Aleksander N. Filatov
+1
+
+
+
+
+
+
+Valentin P. Dymnikov
+
+
+
+                                    
+                                        Institute of Numerical Mathematics of the Russian Academy of Sciences, Moscow, Russia
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+Aleksander N. Filatov
+
+
+
+                                    
+                                        Hydrometeorological Center of Russia, Moscow, Russia
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Modeling and Simulation in Science, Engineering and Technology (MSSET)
+                    
+
+
+
+
+
+
+
+
+
+4368 Accesses
+
+
+
+
+6 
+Citations
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 117.69 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 160.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 160.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+About this book
+
+                    The present monograph is dedicated to a new branch of the theory of climate, which is titled by the authors, "Mathematical Theory of Climate. " The foundation of this branch is the investigation of climate models by the methods of the qUalitative theory of differential equa­ tions. In the Russian edition the book was named "Fundamentals of the Mathematical Theory of Climate. " Respecting the recommenda­ tions of Wayne Yuhasz (we are truly grateful to him for this advice), we named the English edition of the book "Mathematics of Climate Modelling. " This title appears to be more appropriate, since the con­ structive results of the theory are at present preliminary and have not been fully tested with experiments in climate modelling. This branch of science is yet developing and its practical results will be obtained only in the near future. Nevertheless, we want to keep the terminology which we have used in the introduction to the Russian edition of the book, since the authors hope that this term will be accepted by the scientific community for identification of a given branch of climate theory. On preparing the English edition, new ideas were established con­ necting some significant new research results obtained by the author. We are deeply grateful to G. Marchuk for continual encourage­ ment of this scientific enterprise and fruitful discussions, to our young colleagues A. Gorelov, E. Kazantsev, A. Gritsun, and A.
+                
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Climate as a Complex Dynamical System
+                                        
+
+
+Chapter
+© 2014
+
+
+
+
+
+
+
+
+
+Climate in Barcelona Is Wonderful
+                                        
+
+
+Chapter
+© 2017
+
+
+
+
+
+
+
+
+
+Understanding and building upon pioneering work of Nobel Prize in Physics 2021 laureates Syukuro Manabe and Klaus Hasselmann: From greenhouse effect to Earth system science and beyond
+                                        
+
+
+Article
+Open access
+15 March 2022
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+Mathematica
+
+
+
+
+atmosphere
+
+
+
+
+climate
+
+
+
+
+dynamical systems
+
+
+
+
+modeling
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (9 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-xvi
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Dynamical Systems. Attractors, Invariant Measures
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 1-76
+
+
+
+
+
+
+
+
+Non-autonomous Dissipative Systems, Their Attractors and Averaging
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 77-108
+
+
+
+
+
+
+
+
+Analysis of Barotropic Model
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 109-130
+
+
+
+
+
+
+
+
+Discretization of Systems Possessing Attractors
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 131-169
+
+
+
+
+
+
+
+
+Numerical Study of Structure of Attractor Generated by Barotropic Equations on Sphere
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 171-188
+
+
+
+
+
+
+
+
+Two-Layer Baroclinic Model
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 189-209
+
+
+
+
+
+
+
+
+Investigation of Structure of Climate Attractors by Observed Data Series
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 211-219
+
+
+
+
+
+
+
+
+Regimes of Atmosphere Circulation
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 221-233
+
+
+
+
+
+
+
+
+Solvability of Ocean and Atmosphere Models
+
+
+Valentin P. Dymnikov, Aleksander N. Filatov
+
+Pages 235-246
+
+
+
+
+
+
+
+Back Matter
+Pages 247-264
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Authors and Affiliations
+
+
+
+
+                                        Institute of Numerical Mathematics of the Russian Academy of Sciences, Moscow, Russia
+                                    
+
+                                    
+                                        Valentin P. Dymnikov
+                                    
+                                
+
+
+
+                                        Hydrometeorological Center of Russia, Moscow, Russia
+                                    
+
+                                    
+                                        Aleksander N. Filatov
+                                    
+                                
+
+
+
+
+
+Bibliographic Information
+
+
+
+Book Title: Mathematics of Climate Modeling
+Authors: Valentin P. Dymnikov, Aleksander N. Filatov
+Series Title: 
+
+Modeling and Simulation in Science, Engineering and Technology
+
+DOI: https://doi.org/10.1007/978-1-4612-4148-5
+Publisher: Birkhäuser Boston, MA
+
+eBook Packages: 
+
+Springer Book Archive
+
+
+
+Copyright Information: Birkhäuser Boston 1997
+Hardcover ISBN: 978-0-8176-3915-0Published: 01 May 1997
+Softcover ISBN: 978-1-4612-8674-5Published: 14 October 2011
+eBook ISBN: 978-1-4612-4148-5Published: 06 December 2012
+Series ISSN: 
+ 2164-3679 
+Series E-ISSN: 
+ 2164-3725 
+Edition Number: 1
+Number of Pages: XVI, 264
+Topics: 
+
+Applications of Mathematics, 
+Atmospheric Sciences
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 117.69 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 160.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Hardcover Book  EUR 160.49 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+

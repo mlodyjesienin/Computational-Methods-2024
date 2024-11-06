@@ -1,0 +1,4601 @@
+
+
+
+
+Application of Statistics in Real Life | Overview & Examples - Lesson | Study.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for Teachers
+for Schools
+for Working Scholars®
+for College Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+Sign Up
+
+Menu
+					
+
+
+
+
+
+
+
+
+
+
+									Plans
+							
+
+
+
+									Subjects
+							
+
+
+
+
+
+Art
+
+
+Business
+
+
+Computer Science
+
+
+Education & Teaching
+
+
+English
+
+
+Health & Medicine
+
+
+History
+
+
+Humanities
+
+
+Math
+
+
+Psychology
+
+
+Science
+
+
+Social Science
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Art
+							
+
+
+
+									Architecture 
+
+
+
+
+									Art History 
+
+
+
+
+									Design 
+
+
+
+
+									Performing Arts 
+
+
+
+
+									Visual Arts 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business
+							
+
+
+
+									Accounting 
+
+
+
+
+									Business Administration 
+
+
+
+
+									Business Communication 
+
+
+
+
+									Business Ethics 
+
+
+
+
+									Business Intelligence 
+
+
+
+
+									Business Law 
+
+
+
+
+									Economics 
+
+
+
+
+									Finance 
+
+
+
+
+									Healthcare Administration 
+
+
+
+
+									Human Resources 
+
+
+
+
+									Information Technology 
+
+
+
+
+									International Business 
+
+
+
+
+									Operations Management 
+
+
+
+
+									Real Estate 
+
+
+
+
+									Sales & Marketing 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Computer Science
+							
+
+
+
+									Computer Engineering 
+
+
+
+
+									Computer Programming 
+
+
+
+
+									Cybersecurity 
+
+
+
+
+									Data Science 
+
+
+
+
+									Software 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Education & Teaching
+							
+
+
+
+									Education Law & Policy 
+
+
+
+
+									Pedagogy & Teaching Strategies 
+
+
+
+
+									Special & Specialized Education 
+
+
+
+
+									Student Support in Education 
+
+
+
+
+									Teaching English Language Learners 
+
+
+
+
+
+
+							 
+						
+
+
+
+									English
+							
+
+
+
+									Grammar 
+
+
+
+
+									Literature 
+
+
+
+
+									Public Speaking 
+
+
+
+
+									Reading 
+
+
+
+
+									Vocabulary 
+
+
+
+
+									Writing & Composition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Health & Medicine
+							
+
+
+
+									Counseling & Therapy 
+
+
+
+
+									Health 
+
+
+
+
+									Medicine 
+
+
+
+
+									Nursing 
+
+
+
+
+									Nutrition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									History
+							
+
+
+
+									US History 
+
+
+
+
+									World History 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities
+							
+
+
+
+									Communication 
+
+
+
+
+									Ethics 
+
+
+
+
+									Foreign Languages 
+
+
+
+
+									Philosophy 
+
+
+
+
+									Religious Studies 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math
+							
+
+
+
+									Algebra 
+
+
+
+
+									Basic Math 
+
+
+
+
+									Calculus 
+
+
+
+
+									Geometry 
+
+
+
+
+									Statistics 
+
+
+
+
+									Trigonometry 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Psychology
+							
+
+
+
+									Clinical & Abnormal Psychology 
+
+
+
+
+									Cognitive Science 
+
+
+
+
+									Developmental Psychology 
+
+
+
+
+									Educational Psychology 
+
+
+
+
+									Organizational Psychology 
+
+
+
+
+									Social Psychology 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science
+							
+
+
+
+									Anatomy & Physiology 
+
+
+
+
+									Astronomy 
+
+
+
+
+									Biology 
+
+
+
+
+									Chemistry 
+
+
+
+
+									Earth Science 
+
+
+
+
+									Engineering 
+
+
+
+
+									Environmental Science 
+
+
+
+
+									Physics 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Social Science
+							
+
+
+
+									Anthropology 
+
+
+
+
+									Criminal Justice 
+
+
+
+
+									Geography 
+
+
+
+
+									Law 
+
+
+
+
+									Linguistics 
+
+
+
+
+									Political Science 
+
+
+
+
+									Sociology 
+
+
+
+
+
+
+
+									Courses
+							
+
+
+
+
+
+By Subject
+
+
+By Education Level
+
+
+Adult Education
+
+
+Transferable Credit
+
+
+
+
+
+
+
+							By Subject
+						
+
+
+
+									Arts 
+
+
+
+
+									Business 
+
+
+
+
+									Computer Science 
+
+
+
+
+									Education & Teaching 
+
+
+
+
+									English (ELA) 
+
+
+
+
+									Foreign Language 
+
+
+
+
+									Health & Medicine 
+
+
+
+
+									History 
+
+
+
+
+									Humanities 
+
+
+
+
+									Math 
+
+
+
+
+									Psychology 
+
+
+
+
+									Science 
+
+
+
+
+									Social Science 
+
+
+
+
+
+
+							By Education Level
+						
+
+
+
+									Elementary School 
+
+
+
+
+									Middle School 
+
+
+
+
+									High School 
+
+
+
+
+									College 
+
+
+
+
+									Graduate and Post-Grad 
+
+
+
+
+
+
+
+									Test Prep
+							
+
+
+
+
+
+Teacher Certification Exams
+
+
+Nursing Exams
+
+
+Allied Health & Medicine Exams
+
+
+Real Estate Exams
+
+
+All Test Prep
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Teacher Certification Exams
+							
+
+
+
+									Praxis 
+
+
+
+
+									FTCE 
+
+
+
+
+									TExES 
+
+
+
+
+									CSET & CBEST 
+
+
+
+
+									More Teacher Certification Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Nursing Exams
+							
+
+
+
+									NCLEX 
+
+
+
+
+									HESI 
+
+
+
+
+									More Nursing Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Allied Health & Medicine Exams
+							
+
+
+
+									ASCP 
+
+
+
+
+									CNA 
+
+
+
+
+									CNS 
+
+
+
+
+									More Medical Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Real Estate Exams
+							
+
+
+
+									Real Estate Sales 
+
+
+
+
+									Real Estate Brokers 
+
+
+
+
+									Real Estate Appraisals 
+
+
+
+
+
+
+
+									Teach
+							
+
+
+
+
+
+Teaching Resources and Curriculum
+
+
+Skills Practice
+
+
+Lesson Plans
+
+
+Teacher Certification
+
+
+Teacher Professional Development
+
+
+
+
+
+
+
+
+									Tutoring
+							
+
+
+
+
+
+Math Tutoring
+
+
+Science Tutoring
+
+
+Business Tutoring
+
+
+Humanities Tutoring
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math Tutoring
+							
+
+
+
+									Algebra  Tutoring
+
+
+
+
+									Calculus  Tutoring
+
+
+
+
+									Geometry  Tutoring
+
+
+
+
+									Pre-calculus  Tutoring
+
+
+
+
+									Statistics  Tutoring
+
+
+
+
+									Trigonometry  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science Tutoring
+							
+
+
+
+									Biology  Tutoring
+
+
+
+
+									Chemistry  Tutoring
+
+
+
+
+									Physics  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business Tutoring
+							
+
+
+
+									Accounting  Tutoring
+
+
+
+
+									Economics  Tutoring
+
+
+
+
+									Finance  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities Tutoring
+							
+
+
+
+									History  Tutoring
+
+
+
+
+									Literature  Tutoring
+
+
+
+
+									Writing  Tutoring
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright
+
+
+
+
+
+
+
+
+
+
+ Math Courses
+			
+			/
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+		
+			
+Contemporary Math: Help and Review
+Course
+
+
+
+
+		Application of Statistics in Real Life | Overview & Examples
+	
+
+
+
+
+
+
+Lesson
+
+
+
+						
+							
+							
+								Transcript
+							
+						
+					
+
+
+
+
+					Dan Brioli, Beverly Maitland-Frett, Jerry Allison
+			
+
+
+Author
+
+Dan Brioli
+Dan has a B.A. in economics from the University of Pittsburgh and an A.A.S. in computer programming from the Pittsburgh Technical Institute. He has trained others in STEM topics and authored technical documentation throughout his career.
+
+					View bio
+				
+
+
+Instructor
+
+Beverly Maitland-Frett
+Beverly has taught mathematics at the high school level and has a doctorate in teaching and learning.
+
+					View bio
+				
+
+
+Expert Contributor
+
+Jerry Allison
+Jerry holds a Doctor of Business Administration and a Master’s in Mathematics.  He has taught business, math, and accounting for over 25 years.
+
+					View bio
+				
+
+
+
+							Learn what statistics are used for. Study applications of statistics, identify jobs that use statistics in everyday life, and see statistics examples in real life.
+						
+								
+									Updated: 11/21/2023
+								
+
+
+
+
+
+
+
+			FAQs
+		
+
+			Activities
+		
+
+
+
+
+Application of Statistics in Daily Life
+Discovery Project
+Watch the weather forecast today?  What statistics are given in the forecast?  Is there a chance of rain or snow given in the forecast?  Does the weather person tell what the average temperature is for the day?  These are all statistics or based on statistics.  What is the forecast for the next week?  This is all based on statistics and what is called inferential statistics, statistics used to predict values.  Make a list of all the statistics you hear or see from the weather forecast.
+
+Research Project
+Use an Internet search engine to research the concepts of mean, median, and mode.  During your research, determine when and why each of these is used.  Is one of these used more frequently than others?  Which do you think is the easiest to calculate?  Now let's apply it.  Suppose you have a gerbil that ate 10 food pellets on Sunday, 12 on Monday, 9 on Tuesday, and 10 on Wednesday.  You would like to approximate how many pellets the gerbil will eat on Thursday.  Would you use the mean, median, or mode to decide?  Why did you pick this method?
+
+Discussion Question
+Economists often use a median to describe housing prices or wages in an area.  For example, the median wage in Bigtown is $50,000 meaning half the people in Bigtown earn less than $50,000 and half of the people earn more than $50,000.  Why do you think that the median is used?  Why is the mean not used?  Why is the mode not used?
+
+
+
+
+
+What are some examples of statistics?
+
+Statistics can be used in real life to plan budgets, determine the best routes to travel, find the best prices for products bought and sold, and the best times to perform various daily activities.
+
+
+
+What are the application of statistics in various fields?
+
+Statistics are used in business to detect market trends and sales results, in education to determine teaching method effectiveness, in government to detect changes in population demographics and effectiveness of public policy, and in sports to examine player and team successes and capabilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Create an account
+		
+
+
+
+
+Table of ContentsWhat Are Applications of Statistics? Statistics Examples in Real-Life Careers Statistics in Everyday Life Lesson SummaryShow 
+
+
+
+
+
+
+What Are Applications of Statistics?
+
+
+
+Statistics is often seen as the domain of big business, especially in the age of the internet, big data, and machine learning algorithms. Statistics helps us gauge uncertainty and make plans when given incomplete information by collecting a sample of information and deriving further information from that data.
+
+A screenshot of Google search results.
+
+
+
+
+
+
+The application of statistics is done on large scales with massive budgets and strict adherence to the scientific method and can be found across all industries, government organizations, and academia. Education administrators, governmental offices and officials, business leaders and marketing departments, and scientific researchers all use statistical methods and processes during their work.But it can also be applied to the real world and day-to-day activities of people going about their daily lives, too. Every day, people are confronted with incomplete information and try to figure things out based on that information. It could be what route to take to work, how much to charge for a product they're selling, how long a certain activity will take, or how much they should pay for something in a store or online.Once they've decided on what they are trying to find out and how they will discover that information, steps are taken to collect and organize the data in a structure that can be examined more easily and interpreted to conclude what has been found. They might even use this data and their conclusions to convince others of their position on the topic.So, what are statistics used for in everyday life and in people's careers, and what are some examples of its use? It helps to understand the process behind the statistical process and some definitions of important concepts in the field first.Planning a StudyThe first step in any statistical examination is asking a question like, "What time should I leave for work in order to minimize my travel time?" This is the most important part, as knowing what needs to be discovered informs all other parts of the statistical process. Once the question is known, the researcher needs to plan the steps they will take to collect their data and what tools will be best used for the process.
+Organizing the DataOrganizing data might be as simple as noting values down on a piece of paper for less formal types of statistical analysis. However, in large organizations or when working with large data sets, the software is used to manipulate and structure the data somehow, whether simple spreadsheet software or complicated mathematical algorithms developed for niche purposes in various industries.Interpreting the DataOnce data has been collected and organized, interpretations need to be made based on the data. Is it the best day to have a sale on a weekend when traffic is already high or is it on a weekday to encourage people to visit a business during slower times?Presenting the DataFinally, the ways in which data and findings based on data are presented have a massive effect on how people feel about the interpretations. In many academic fields, findings are presented dry and formal. Still, the marketing department of a business might develop flashy infographics to persuade more people of their arguments.Mean, Median, and ModeMeans, medians, and modes are everywhere in statistics and are the fundamental pieces of information derived from data that help inform researchers of the structure of the data itself. Consider the following table of values:
+
+
+Observation
+Value
+
+
+
+
+1
+2
+
+
+2
+3
+
+
+3
+3
+
+
+4
+5
+
+
+5
+8
+
+
+6
+11
+
+
+7
+14
+
+
+The mean is the average of the data's values, calculated by taking the sum of all the values and dividing by the total number of observations. From the data in the table, the total of the values is 46 and dividing that by 7 gives a mean (or average) of 6.57.The median is whatever value is represented by the center-most piece of data when the data has been ordered in some way. The data in the table are ordered in ascending order, and the center-most observation is the 4th value, so the median is 5. In data sets with even numbers of observations, the average of the central observations is used.The mode is whatever value occurs most often in a set of data. The most common observation in the table, with two total observations, is 3. The mode of this data set is 3.The larger the collection of data, the more reliable it is to conclude it. A sample of five people out of a hundred might give a hint of a trend in the total population, but it would be much less reliable to make a statement about that population using that data than if the total number of people sampled was fifty.
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An error occurred trying to load this video.
+Try refreshing the page, or contact customer support.
+
+
+
+
+
+You must cCreate an account to continue watching
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+
+							 Create Your Account To Continue Watching
+As a member, you'll also get unlimited access to over 88,000
+						lessons in math, English, science, history, and more. Plus, get practice tests, quizzes, and personalized coaching to help you
+						succeed.
+
+						Get unlimited access to over 88,000 lessons.
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+							
+								 
+								 
+									  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		It only takes a few minutes to setup and you can cancel any time.
+	
+	
+
+
+								 
+							
+                        
+
+Already registered? Log in here for
+						access
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+
+
+
+
+Coming up next:
+					Mathematical Sets: Elements, Intersections & Unions
+			
+
+You're on a roll. Keep up the good work!
+
+
+						Take Quiz
+					
+
+Watch Next Lesson
+
+
+
+ Replay
+		
+
+
+
+
+
+
+Just checking in. Are you still watching?
+Yes! Keep playing. 
+
+
+
+
+
+	Your next lesson will play in
+	10 seconds
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        0:04 Definition of Statistics
+
+
+                        1:05 Statistical Process Stages
+
+
+                        2:40 Applications of Statistics
+
+
+                        4:18 Three Statistical Measures
+
+
+                        5:44 Common Concerns about…
+
+
+                        6:34 Lesson Summary
+
+
+
+
+
+
+View Video Only
+
+ Save
+
+
+ Timeline
+				
+
+413K views
+
+
+
+
+
+
+
+
+									Video
+							
+
+
+
+									Quiz
+								
+
+
+
+									Course
+								
+
+
+
+									Video Only
+								
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+							413K
+							views
+
+
+
+
+
+
+
+Statistics Examples in Real-Life Careers
+
+
+
+
+
+Atlanta Falcons training camp during a training event.
+
+
+
+
+
+
+
+
+Sports is often a go-to example of data collection and statistical analysis. Watch any professional sports game, and the hosts will continually reference various statistics like how often teams play against each other and their normal results, how many goals are scored by players, and how often certain players are on the field.
+Government agencies regularly perform censuses to discover trends in populations and collect economic data to determine the outcome of policy decisions.
+Statistics are often used in medicine not just for studies used to determine the efficacy of drugs and procedures, but also to detect problems in patients based on baseline health statistics in the population or the patient's demographic, and to study natural phenomena like how diseases spread among populations.
+Businesses collect and process large amounts of data to determine the effects of prices and sale events, how much market penetration they have, and the likely state of their market in coming business quarters and years.
+The field of education and academia in general use statistics to determine the effectiveness of teaching methods and school policies, as well.
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statistics in Everyday Life
+
+
+
+What are statistics used for? Statistics in everyday life can be used to estimate budgets for households. Knowing average fuel, food, and entertainment costs help prepare a person for the likely expenses they will have next month or the month after that, and these numbers can be found by averaging the values found on previous bills and receipts.
+Or consider planning on where to eat dinner. Restaurant A isn't the best food, but they produce it quickly, affordably, and there is never any wait when someone walks in the door. Restaurant B is much nicer, however, but it's more expensive, and sometimes there is quite a long wait. Which restaurant should a customer go to? The answer will be different for everyone, but knowing the wait time trends, quality, and cost go a long way toward informing someone of where to go for dinner.But beyond the application of statistics in everyday life, understanding the basics of statistics is important to interpret events in the news and various pieces of data presented to argue points about public policy. Understanding that research can be cherry-picked to color a debate while being able to find other research that presents contrary evidence is an important skill in being a more informed and more discerning consumer of news and media, and knowing about sample sizes helps when determining whether something is just a fluke or if it might be a very reliable piece of information.
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Lesson Summary
+
+
+
+Statistics helps us gauge uncertainty and make plans when given incomplete information by collecting a sample of information and deriving further information from that data. The primary steps for statistical analysis are planning a study, organizing the data, interpreting the data, and presenting the data. The mean is the average of a set of values, the median is the value of the center-most value in an ordered set, and the mode is the value that occurs the most often in a set.
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+														Video Transcript
+														
+													
+
+
+
+Definition of StatisticsTimmy is a pizza shop manager and he has two locations picked for a possible new location. He decides to conduct a mini-study to decide based on a variety of factors. Location A is smaller, and he notices that there is a high school two blocks away, some business offices close by, and a laundromat next door. Location B is larger and next to a supermarket with some business offices scattered around the area, amidst several vacant lots. If you were Timmy, which would you choose? You are a statistician in many ways. Statistics is the method of conducting a study about a particular topic by collecting, organizing, interpreting, and finally presenting data. Being a statistician at an elementary level may simply mean noticing patterns in daily circumstances and drawing conclusions about those patterns. On a grander scale, statisticians may spend months or years conducting a study before they can produce meaningful analysis of information. Statistics is its own community, with rules, procedures, and policies all built on simple mathematical principles. 
+Stages in the Statistical ProcessThe statistical process guides genuine study, and statisticians are exacting in their methodologies. The major steps of statistics are explained in a simplistic form as follows: 
+Planning a study: There must be a subject that requires investigation. Planning entails deciding what instruments (interviews, surveys, etc.) to use, who to speak with, and how to analyze findings. Instruments, in this case, are tools used in conducting a study like surveys, interviews, etc. Do you remember Timmy? In this stage, he plans to interview shoppers and count people. 
+Organizing the data: The best way to obtain the valid answers is to organize the information effectively to help expose patterns and other significant relationships. There are a variety of software programs that can help with this step. Once Timmy has gathered data, he could perform calculations of the mean, mode, and median visitors. 
+Interpreting the data: This is the heartbeat of statistics. Interpretations can have lasting repercussions, and it's important to make sure they are valid assumptions and supported by mathematical reasoning. Timmy, based on his interpretations of the numbers, could make plans to have special sales on days with the most traffic. 
+Presenting the data: The methods you chose to present the data can make findings more interesting or powerful. People use graphs, tables, and various diagrams to show relationships between data. With this information, Timmy could present compelling arguments using his analysis so that he and his business partners can discuss the most profitable possibilities for the pizza shop. 
+Applications of StatisticsOther than individuals and small businesses owners like Timmy who conducted their own studies, there are some entities who thrive on statistics. Here are a few major examples. Government AgenciesThe government uses statistics to make decisions about populations, health, education, etc. It may conduct research on education to check the progress of high schools students using a specific curriculum or collect characteristic information about the population using a census. Science and MedicineThe medical field would be far less effective without research to see which medicines or interventions work best and how the human bodies react to treatment. Medical professionals also perform studies by race, age, or nationality to see the effect of these characteristics on health. PsychologyAlthough this is attached to both the science and medical field, success in psychology would be impossible without the systematic study of human behavior, often analyzing results statistically. EducationTeachers are encouraged to be researchers in their classrooms, to see what teaching methods work on which students and understand why. They also should evaluate test items to determine if students are performing in a statistically expected way. At all levels of education and testing there are statistical reports about student performance, from kindergarten to an SAT or GRE. Large CompaniesEvery large company employs its own statistical research divisions or firms to research issues related to products, employees, customer service, etc. Business success relies on knowing what is working and what isn't. Three Major Statistical MeasuresIn many cases, basic statistical analysis can be done by using three main concepts: the mean, the median, and the mode. MeanThe mean is the mathematical average. For example, a laundromat may conduct a study to see how many people use a machine each day, then calculate the average for each week. 
+Sun: 105 
+Mon: 50 
+Tues: 40 
+Wed: 50 
+Thurs: 70 
+Fri: 80 
+Sat: 95 
+The mean is the sum of the items divided by the number of items. In this case, we have seven items, so: mean = (105 + 50 + 40 + 50 + 70 + 80 + 95) / 7 = 70 people ModeThe mode is the number that occurs most frequently in the data set. If we first organize the data in ascending order we get: 40, 50, 50, 70, 80, 95, 105. You can see 50 is the mode because it occurs twice while every other number occurs just once. 
+
+
+MedianThe median is found by organizing the data and then taking note of the number(s) that is in the middle. If we consider our data set again (40, 50, 50, 70, 80, 95, 105), you can see 70 is the number in the middle. In data sets with an odd number of items, you simply select the middle item. In data sets with an even number of items, you must average the value of the two middle items to find the median. Common Concerns about StatisticsSome of the main concerns with statistics are: Data interpretation: Many people can interpret the same data differently. For example, if a report explains that 80% of high school students are left handed, it is easy to think that teenagers these days are mostly left handed. However, if you find that this is based on a population of students at Left Handed High, your opinion would change. When reading statistics, it is important to ask: what data was really captured and how was it interpreted? Data validity?: Validity is a common term in the statistics world and it refers to whether the study is true or false. A study could be inaccurate, for example, if researchers pressured participants to answer a certain way. All factors must be representative of the real world to create a valid study. Lesson SummaryStatistical studies are extremely important in our everyday life. Statistics are the method of conducting a study about a particular topic by collecting, organizing, interpreting, and finally presenting data. Every human, at some level, is a statistician. We observe trends, sort out information, and then draw conclusions. This is similar to the actual process of gathering statistics, which begins with planning a study, which involves deciding what instruments to use, who to speak with, and how to analyze findings. Instruments are tools used in conducting a study like surveys, etc. From there, you collect data, when the instruments you selected are used, organize the data, putting the information together effectively to help expose patterns and other significant relationships. Interpret the data, valid assumptions supported by mathematical reasoning and finally, present the data, graphs, tables, and various diagrams are used to show relationships between data. The mean, median and mode, the average, The middle-valued number(s), and the most common number, respectively are all calculated during the organization process, while validity, whether the study is true or false, is a common concern that is analyzed during the entire process. Many major entities do more advanced and larger statistical analysis. Some major areas relying on statistics include government, education, science, and large companies. By doing more and better statistical analysis, we are able to understand the world around us, appreciate the value of analysis, and we are less deceived by numbers. Key Terms
+
+
+
+
+
+Statistics - the method of conducting a study about a particular topic by collecting, organizing, interpreting, and finally presenting data Instruments - tools used in conducting a study like surveys, interviews, etc. Mean - the mathematical average of a set of data Mode - the number that occurs most frequently in the data set Median - the middle number of an ordered data set Validity - whether the study is true or false Learning OutcomesAfter viewing this lesson, you should be able to: 
+Restate various fields in which statistics are used 
+Report the major steps of statistics 
+Calculate the mean, mode, and median of a set of data 
+Recognize how you adapt statistical instruments to everyday scenarios
+
+
+
+
+
+
+
+			
+				
+				
+					To unlock this lesson you must be a Study.com Member.
+				
+			
+			
+			
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+Unlock Your Education
+See for yourself why 30 million people use Study.com
+Become a Study.com member and start learning now.
+Become a Member
+Already a member? Log In
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+Recommended Lessons and Courses for You
+
+
+Related Lessons
+
+
+Related Courses
+
+
+
+
+
+
+
+
+									Recommended Lessons for You
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statistics, Data Analysis & Probability in Real Life
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Constructing Equilateral Triangles, Squares, and Regular Hexagons Inscribed in Circles
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Misleading Statistics | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Unit Fraction | Definition, Form & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ronald Fisher | Biography, Publication & Accomplishments
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Business Statistics Definition, Uses & Importance
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Teaching Statistics & Probability Using Models, Materials & Technologies
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Measures of Correlation in Business & Finance: Uses & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequency Distribution in Statistics | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Decile | Definition, Formula & Calculation
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Difference Between Grouped and Ungrouped Data
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Time Series Analysis | Application, Methods & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bivariate Distribution | Definition, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Central Tendency | Overview, Measures & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Normal Distribution | Curve, Table & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Parameter vs. Statistic | Definition, Differences & Example
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discrete Probability Distribution | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Ogive | Definition, Graph & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Probability Theory in Decision-Making, Marketing & Business
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Beta Distribution | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									Related Courses
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developmental College Statistics
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Holt McDougal Algebra 2: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Prentice Hall Algebra 2: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Glencoe Algebra 1: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remedial Contemporary Math
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Common Entrance Test (CET): Study Guide & Syllabus
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Common Admission Test (CAT): Study Guide & Test Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Math 104: Calculus
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+ELM: CSU Math Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Study.com SAT Test Prep: Practice & Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Math Review for Teachers: Study Guide & Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 1: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 2: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+TExES Mathematics 7-12 (235) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET Math Subtest I (211) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSET Math Subtest II (212) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET Math Subtest III (213) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Supplemental Math: Study Aid
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CLEP College Mathematics Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Start today. Try it now
+		
+
+
+
+
+Table of ContentsWhat Are Applications of Statistics? Statistics Examples in Real-Life Careers Statistics in Everyday Life Lesson SummaryShow 
+
+
+
+
+
+
+Contemporary Math: Help and Review
+
+
+20 chapters |
+				
+					
+					
+						221 lessons
+						
+					
+				
+			
+
+
+
+
+
+
+Ch 1. 
+									
+										Mathematical Reasoning &...
+
+
+
+
+
+
+
+
+
+
+Ch 2. 
+              Statistics Overview: Help and Review
+
+
+
+
+
+
+							Descriptive vs. Inferential Statistics | Definition & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:11
+						 
+
+
+
+							Population vs Sample in Statistics | Differences & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+3:24
+						 
+
+
+
+							Random Sampling Definition, Types & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:55
+						 
+
+
+
+							Simple Random Sampling in Statistics | Definition & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:10
+						 
+
+
+
+							Stratified Random Sampling | Definition, Method & Characteristics
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:25
+						 
+
+
+
+							Cluster Sampling | Definition, Types & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+6:44
+						 
+
+
+
+							Systematic Random Sampling | Definition, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:37
+						 
+
+
+
+							Measures of Central Tendency | Definition, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:30
+						 
+
+
+
+							Calculating the Mean, Median, Mode & Range: Practice Problems
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+7:13
+						 
+
+
+
+							Population Variance | Definition, Formula & Calculation
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+9:34
+						 
+
+
+
+							Standard Deviation Equation, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+13:05
+						 
+
+
+
+							Outliers in a Data Set | Minimums & Maximums
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:40
+						 
+
+
+
+							Quartiles & Interquartile Range | Calculation & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:00
+						 
+
+
+
+							Finding the Percentile of a Data Set | Formula & Example
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:25
+						 
+
+
+
+							Relative Frequency | Definition & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:48
+						 
+
+
+
+							Cumulative Frequency | Definition, Table & Example
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:17
+						 
+
+
+
+							Cumulative & Relative Frequency | Formula, Table & Calculations
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:47
+						 
+
+
+
+							Creating & Interpreting Histograms: Process & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:43
+						 
+
+
+
+							Degrees of Freedom Formula, Uses & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:12
+						 
+
+
+
+							Restriction of Range: Definition & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:09
+						 
+
+
+
+							Linear Regression | Definition, Formula & Example
+					
+
+
+
+							Misleading Graphs | Overview & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+3:46
+						 
+
+
+
+							Misleading Statistics | Definition & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:39
+						 
+
+
+
+							Poission Distribution Overview, Formula & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:26
+						 
+
+
+
+							Population Variance | Definition, Formula & Examples
+					
+
+
+
+							Sample Variance | Formula, Symbol & Examples
+					
+
+
+
+							Data Distribution | Definition & Types
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:21
+						 
+
+
+
+							Application of Statistics in Real Life | Overview & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+8:11
+						 
+
+
+
+
+
+
+
+
+Ch 3. 
+									
+										Probability Overview: Help and...
+
+
+
+
+
+
+
+
+
+
+Ch 4. 
+									
+										Understanding Discrete Probability...
+
+
+
+
+
+
+
+
+
+
+Ch 5. 
+									
+										The Normal Curve & Continuous...
+
+
+
+
+
+
+
+
+
+
+Ch 6. 
+									
+										The Mathematics of Voting: Help and...
+
+
+
+
+
+
+
+
+
+
+Ch 7. 
+									
+										The Mathematics of Apportionment: Help...
+
+
+
+
+
+
+
+
+
+
+Ch 8. 
+									
+										Graph Theory: Help and Review
+
+
+
+
+
+
+
+
+
+
+Ch 9. 
+									
+										Operations with Basic Algebraic...
+
+
+
+
+
+
+
+
+
+
+Ch 10. 
+									
+										Conics in Algebra
+
+
+
+
+
+
+
+
+
+
+Ch 11. 
+									
+										Algebraic Concepts of Groups &...
+
+
+
+
+
+
+
+
+
+
+Ch 12. 
+									
+										Notation, Sequences & Series
+
+
+
+
+
+
+
+
+
+
+Ch 13. 
+									
+										Matrices and Determinants in...
+
+
+
+
+
+
+
+
+
+
+Ch 14. 
+									
+										Combinatorics
+
+
+
+
+
+
+
+
+
+
+Ch 15. 
+									
+										Fractions, Decimals & Mixed...
+
+
+
+
+
+
+
+
+
+
+Ch 16. 
+									
+										Approaches to Math Word Problems
+
+
+
+
+
+
+
+
+
+
+Ch 17. 
+									
+										How to Solve Word Problems: Help and...
+
+
+
+
+
+
+
+
+
+
+Ch 18. 
+									
+										Performing Basic Arithmetic
+
+
+
+
+
+
+
+
+
+
+Ch 19. 
+									
+										Operations with Monomials and...
+
+
+
+
+
+
+
+
+
+
+Ch 20. 
+									
+										Number Line & the Coordinate...
+
+
+
+
+
+
+
+
+
+
+
+
+Application of Statistics in Real Life | Overview & Examples Related Study Materials
+
+
+
+
+
+
+
+
+				Related Lessons
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statistics, Data Analysis & Probability in Real Life
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Constructing Equilateral Triangles, Squares, and Regular Hexagons Inscribed in Circles
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Misleading Statistics | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Unit Fraction | Definition, Form & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ronald Fisher | Biography, Publication & Accomplishments
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Business Statistics Definition, Uses & Importance
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Teaching Statistics & Probability Using Models, Materials & Technologies
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Measures of Correlation in Business & Finance: Uses & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequency Distribution in Statistics | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Decile | Definition, Formula & Calculation
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Difference Between Grouped and Ungrouped Data
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Time Series Analysis | Application, Methods & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bivariate Distribution | Definition, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Central Tendency | Overview, Measures & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Normal Distribution | Curve, Table & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Parameter vs. Statistic | Definition, Differences & Example
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discrete Probability Distribution | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Ogive | Definition, Graph & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Probability Theory in Decision-Making, Marketing & Business
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Beta Distribution | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Related Courses
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developmental College Statistics
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Holt McDougal Algebra 2: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Prentice Hall Algebra 2: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Glencoe Algebra 1: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remedial Contemporary Math
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Common Entrance Test (CET): Study Guide & Syllabus
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Common Admission Test (CAT): Study Guide & Test Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Math 104: Calculus
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+ELM: CSU Math Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Study.com SAT Test Prep: Practice & Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Math Review for Teachers: Study Guide & Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 1: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+SAT Subject Test Mathematics Level 2: Practice and Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+TExES Mathematics 7-12 (235) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET Math Subtest I (211) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSET Math Subtest II (212) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CSET Math Subtest III (213) Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Supplemental Math: Study Aid
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+CLEP College Mathematics Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Topics
+
+
+
+
+
+
+Browse by Courses
+Statistics 101 Syllabus Resource & Lesson Plans
+Remedial Algebra
+College Mathematics for Teachers: Professional Development
+Precalculus Algebra for Teachers: Professional Development
+Precalculus for Teachers: Professional Development
+Remedial Contemporary Math
+College Algebra Syllabus Resource & Lesson Plans
+College Mathematics Syllabus Resource & Lesson Plans
+College Precalculus Syllabus Resource & Lesson Plans
+Calculus Syllabus Resource & Lesson Plans
+Trigonometry Curriculum Resource & Lesson Plans
+Algebra I Curriculum Resource & Lesson Plans
+Algebra II Curriculum Resource & Lesson Plans
+UExcel Calculus: Study Guide & Test Prep
+Statistics for Teachers: Professional Development
+
+
+
+
+
+
+Browse by Lessons
+Statistical Analysis: Using Data to Find Trends and Examine Relationships
+Analyzing, Applying, and Drawing Conclusions From Research to Make Recommendations
+Statistical Analysis | Overview, Methods & Examples
+Statistical Analysis | Definition, Types & Purpose
+Proportional Relationships in Multistep Ratio & Percent Problems
+Statistics: Lesson for Kids
+Using Common Math Procedures
+Interpreting Data & Statistics in a Passage
+Understanding & Presenting Research in Social Science
+Summarizing & Organizing Social Studies Research Data
+Evaluating Random Processes in Statistical Experiments
+Chi-Square Test of Independence: Example & Formula
+Solving Two-Step Inequalities with Fractions | Steps & Examples
+Solving Systems of Equations Using Matrices
+Independent System of Equations | Formula & Examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Create an account to start this course today
+			
+
+						  
+							  Used by over 30 million students worldwide
+						  
+						  
+                
+
+
+				  Create an account
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like this lesson
+
+
+
+Share
+
+
+
+
+Explore our library of over 88,000 lessons
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Browse
+
+
+						Browse by subject
+					
+
+
+College Courses
+
+Business
+English
+Foreign Language
+History
+Humanities
+Math
+Science
+Social Science
+See All College Courses
+
+
+
+High School Courses
+
+AP
+Common Core
+GED
+
+High School
+See All High School Courses
+
+
+
+Other Courses
+
+College & Career Guidance Courses
+College Placement Exams
+Entrance Exams
+General Test Prep
+K-8 Courses
+Skills Courses
+Teacher Certification Exams
+See All Other Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade to enroll
+×
+
+
+Upgrade to Premium to enroll in Contemporary Math: Help and Review
+Enrolling in a course lets you earn progress by passing quizzes and exams.
+
+
+
+
+Track course progress
+
+
+
+
+Take quizzes and exams
+
+
+
+
+Earn certificates of completion
+
+
+
+			You will also be able to:
+			
+Create a Goal
+Create custom courses
+Get your questions answered
+
+
+
+
+Upgrade to Premium to add all these features to your account!
+
+			Upgrade Now
+		
+Upgrade to Premium to add all these features to your account!
+
+
+
+
+
+
+
+
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars® Solutions
+
+
+
+About Us
+
+Blog
+Careers
+Teach For Us
+Press Center
+Ambassador
+Scholarships
+
+
+
+
+
+Support
+
+FAQ
+Site Feedback
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working Scholars® Bringing Tuition-Free College to the Community
+
+
+
+
+
+
+
+
+©  Copyright 2024 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		
+
+
+
+
+
+Terms of Use  
+Privacy Policy  
+DMCA Notice  
+ADA Compliance  
+Honor Code For Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+
+Euclid's Elements, Introduction
+
+
+
+
+
+
+
+
+
+Introduction
+Euclid’s Elements form one of the most beautiful and influential works of science in the
+ history of humankind.  Its beauty lies in its logical development of geometry and other branches of
+ mathematics.  It has influenced all branches of science but none so much as mathematics and the exact
+ sciences.  The Elements have been studied 24 centuries in many languages starting, of course,
+ in the original Greek, then in Arabic, Latin, and many modern languages.
+
+I'm creating this version of Euclid’s Elements for a couple of reasons. The main one is to
+ rekindle an interest in the Elements, and the web is a great way to do that.  Another reason
+ is to show how Java applets can be used to illustrate geometry.  That also helps to bring the
+ Elements alive.
+
+The text of all 13 Books is complete, and all of the figures are illustrated using the Geometry
+ Applet, even those in the last three books on solid geometry that are three-dimensional. I still have
+ a lot to write in the guide sections and that will keep me busy for quite a while.
+
+This edition of Euclid’s Elements uses a Java applet called the Geometry Applet to
+ illustrate the diagrams.  If you enable Java on your browser, then you’ll be able to dynamically
+ change the diagrams.  In order to see how, please read Using the Geometry
+ Applet before moving on to the Table of Contents.
+
+
+
+
+

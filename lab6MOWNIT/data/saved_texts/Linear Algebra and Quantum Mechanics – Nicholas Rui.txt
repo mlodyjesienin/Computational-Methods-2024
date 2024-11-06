@@ -1,0 +1,742 @@
+
+
+
+
+
+
+Linear Algebra and Quantum Mechanics – Nicholas Rui
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+Nicholas Rui
+
+
+
+☰ Menu
+Home
+Research
+
+Stellar magnetism
+Forbidden planet
+Stellar mergers
+Globular cluster dynamics
+
+
+Outreach
+Teaching
+
+Order-of-magnitude
+Electromagnetism
+Waves and Vibrations
+Beginner’s Guide to the Universe
+Python for Astronomers
+
+
+ARC Seminar
+Blog
+About Me
+ 
+
+
+
+
+
+
+
+ 
+
+Linear Algebra and Quantum Mechanics
+
+Posted on May 14, 2018July 5, 2020 by nrui 
+
+
+When I was younger, I would occasionally hear about higher math classes that one was able to take. To me, then a naïve high schooler, AP Calculus represented an attainable pinnacle of mathematical knowledge beyond which lie a plethora of weird maths to explore. I had heard of multivariable calculus, which sounded like more of the same with more letters, differential equations, which was just calculus with more tricky problems, and so on and so forth.
+However one, linear algebra, seemed like a mystery. It’s name evoked, to me, the kinds of problems done in middle school where I was painstakingly asked to grind through systems of three equations to find , , and . Sure, I thought, maybe there’s a use for solving ever bigger systems of equations of ever increasing complexity with bigger and better techniques. But, if multivariable and diff-E.Q. were “more of the same,” jumping back to middle school lines and planes was definitely going be a bore.
+Spoiler alert: It wasn’t, and, while related, linear algebra really isn’t about that stuff. It’s actually about a lot of other, cooler stuff, including really cool stuff like quantum mechanics.
+Note: This is just a primer on linear algebra. I introduce the axioms, and then paint over the subject with a broad brush that isn’t meant to be comprehensive. Quantum mechanics is inseparable from linear algebra, so I try to get to the meat of linear algebra while not glossing over too much. At the same time, this obviously shouldn’t be taken as a substitute for a more rigorous treatment of linear algebra.
+
+Part 1: The Abstract
+All throughout grade school, I was decent at math, but I was lacking one key piece of mathematical maturity: I relied on intuition to do math, and struggled when that failed. When looking at a function, I would imagine the graph. When doing trigonometry, I would imagine triangles. I did calculus by imagining the summing up of little pieces rather than by working through the more rigorous sea of Riemann sums and so on.
+While this isn’t really all that bad for most everyday purposes, it certainly becomes a problem when trying to do upper level math. It took a long while for me to realize that math isn’t so much about describing physical things (which is the domain of physics), but more about asking the question what if? about increasingly abstract concepts and working out what would happen. It’s about assuming certain statements, called axioms, and deriving results, called theorems in order to understand what an object that followed said axioms would behave like.
+For the reader who is new to such thinking, I caution you: use your intuition, but don’t get caught up in what “all this stuff is, really?” A lot of it is going to sound vague, but that sort of answers the question of what this stuff is about, which is, as it turns out, a whole lot of stuff.
+For this introduction to linear algebra, I will use some mathematical notation in order to ease in the more compact notation for what I’m saying. However, I will be sure to explain what I’m saying in normal well-adjusted human language in close proximity when I do so. I also won’t bother proving every single statement, but will be sure to prove some of the more important ones.
+This introduction is about the theory of vector spaces and linear transformations, rather than the computational, matrix-math aspect of linear algebra. Admittedly, that’s leaving a lot out, but hopefully this is a helpful overview of a summary course on the subject.
+Part 2: A Theory of Vector Spaces
+Definition: A field is a set  which is a generalized notion of numbers with some nice properties. I won’t really go into what defines them precisely since it isn’t all that important for our purposes (those defining axioms can be found here). However, some examples of fields are below:
+
+: The rational numbers, numbers which can be expressed as a fraction of integers
+: The real numbers, numbers which each represent a point on a number line
+: The complex numbers, a set of numbers big enough so that every polynomial equation as a solution in  (for this, we introduce a number  such that $i^2=-1$. Don’t think too hard about how this is possible, this is what I mean by asking what if?)
+Finite fields like , , , etc. These are less intuitively but still technically fields. While they are fun and interesting in their own right, I will ignore them since they won’t be all that interesting for the end goal here, which is understanding how linear algebra is related to quantum mechanics.
+
+I will commonly refer to objects in a field as numbers or scalars.
+Definition: A vector space  over a field  is a set of objects, called vectors. This set has two binary operations:
+
+ (vector addition). These symbols just mean that there is an operation called  which takes two vectors which are in the vector space  and returns another object which is also in . It is important that two vectors in , when added together, give another vector which is also in . This is called closure, and vector spaces are said to be closed under vector addition.
+ (scalar multiplication). This is an operation that takes in a number from the field  (which we are leaving general at the moment) and a vector in  and returns a vector also in . Scalar multiplication also obeys closure, so we have that vector spaces are closed under scalar multiplication. I will often omit the  symbol and just write the scalar next to the vector. For example,
+
+In addition, in order for  to be a vector space, it must obey the following axioms:
+Vector Addition Axioms:
+
+. For any two vectors in , I must be able to add them in either order and get the same thing. This is called commutativity, and may be familiar from middle school when learning about number addition.
+. For any three vectors in  called , , and , if I add  and  together, and then add , that is equivalent to adding  to the sum of  and . This is called associativity, which should also be familiar.
+ s.t. (“such that”) . There is a special object, which I’m calling  for now such that, when I add it to another object, the result is always that other object. From now on, I will call this vector . I will justify why I can do so in a bit. This is saying that there is a zero vector, also called an additive identity.
+ s.t. . This is the statement that, for every vector, there is some other vector which, when added to the first vector, gives . I called these vectors  and , respectively, but, from now on, instead of saying , I will say . I will justify this later as well. This is the notion of additive inverses and basically tells me that I am allowed to do subtraction (which is just glorified addition involving inverses).
+
+Scalar Multiplication Axioms:
+
+. The  on the left is the  scalar (in ). If I multiply a vector by the number , the vector is left unchanged.
+. If I multiply a vector  by a number  and then multiply the result by another number , I will get the same thing as if I multiplied those numbers together to get  and then multiplied the result by the vector .
+
+Distributive Axioms:
+
+. Scalar multiplication distributes over vector addition.
+. Scalar multiplication distributes over scalar addition.
+
+These two axioms are the familiar distributive property.
+All of these axioms may seem like a lot to keep track of, but the key thing to take away from this is how familiar they are. You should really think of vector spaces as collections of objects which can be added together and scaled up or down by numbers. If this sounds like it would apply to a lot of things, that’s because it does.
+Some Loose Ends:
+In this section, I want to justify a few of the claims I made before. I first said that I would just call the additive identity . The reason why I need to be a bit careful is that I haven’t proved that there can only be one identity vector—I haven’t showed that it is unique, so let me do that.
+Theorem. The additive identity is unique.
+Proof. Suppose there are two additive identities,  and . Then consider the sum . Because  is an additive identity, . However, because  is an additive identity, . Therefore, , and so additive identities are equal to each other, which means that there is only one additive identity. ■
+In addition, I never showed that each vector has a unique additive inverse.
+Theorem. Each vector has a unique additive inverse.
+Proof. Let  and  both be additive inverses of . Consider the combination . We see that . However, it is also true that . Therefore, , so all additive inverses of  are equal to each other, and, thus,  has a unique additive inverse. ■
+Another important theorem which is extremely important to understand but which isn’t an axiom because it can be proven from the other theorems:
+Theorem. . The  on the left is the  scalar (in ) whereas the one on the right is the  vector (in ). This statement says that, if I multiply a vector by the number zero, I will get the zero vector.
+Proof. For any , . ■
+Finally, we should establish some notion of vector spaces being encapsulated inside of other vector spaces.
+Definition. A set is a vector subspace of another vector space if (1) it is a subset of that vector space, and (2) it is a vector space with the same operations and field as that other vector space.
+Linear Independence
+So far, we have defined what a vector space is, and we have proven two fairly simple but important theorems about vector spaces. Implicit here is that I have really proven them about all vector spaces. If I ever have a system that seems pretty complicated and unwieldy, if I can show that it is a vector space, life becomes a lot simpler.
+What other conclusions can we draw about these increasingly fascinating objects?
+Definition. For a set of vectors ,  is a linear combination of . Basically, a linear combination is just when you scale a bunch of vectors each by a certain amount and then add them together.
+Definition. A set of vectors  is linearly independent if the only linear combination of them that is  is the trivial one. That is to say, the following statement is true:
+ only if 
+If  is not linearly independent, then it is called linearly dependent. If this is the case, then there is some linear combination of  which is equal to  even though not all of its coefficients  are 0.
+At first, this seems like some random definition I made up for no reason. However, we can prove a theorem which demonstrates why linear (in)dependence is interesting.
+Theorem. If a set of vectors  is linearly dependent, then you can write at least one of the vectors in  as a linear combination of the others.
+Proof. If  is linearly dependent, then there is some linear combination  where not all  are zero. Suppose, then, that  is nonzero (without loss of generality). Then I can rewrite this equation as
+
+and then divide:
+
+Notice that the key here is that , so I am able to divide by , which I am able to do because  is linearly dependent. Therefore,  is a linear combination of the other vectors in , so one of the vectors in  can be written as a linear combination of the others. ■
+The implication here is that, if a set of vectors is linearly independent, you cannot write any of them in terms of each other. There is also another useful theorem about linear independence.
+Theorem. Any set containing the zero vector is linearly dependent.
+Proof. Take the set . Then the following linear combination is equal to zero:
+
+Note that the first coefficient is nonzero, so there is some nontrivial linear combination of vectors in  which is nonzero, so  is linearly dependent. ■
+Spanning and Bases
+Definition. A set of vectors  of vectors in a vector space  is called spanning if every vector in  can be written as a linear combination of vectors in . Such a set is said to span .
+Definition. A basis for a vector space  is a set of vectors  in  which is both linearly dependent and spanning.
+Bases are super duper important in linear algebra because of one really important theorem.
+Theorem. If  is a basis for a vector space , then every vector in  is a unique linear combination of vectors in .
+Proof. First, every vector in  can be written as a linear combination of vectors in  because  is spanning. Second, to show that such a linear combination is unique, take a vector  in , . Then suppose it can be written as the following two linear combinations of vectors in the basis :
+
+and
+
+where . Then we set these two linear combinations equal to each other:
+
+and then rearrange:
+
+Since  is linearly independent, each coefficient is equal to zero. That means , , and so on. These can be rearranged as , , and so on. Therefore, any two linear combinations that are equal to the same vector are the same linear combination, since all the coefficients are equal. ■
+These coefficients are called the components of a vector in a certain basis.
+Another fact about bases that I won’t prove is that every basis for a so-called “finite-dimensional” vector space has the same number of vectors in it. The dimension of a vector space is just the number of vectors in its basis, and a finite-dimensional vector space just means that a basis for the vector space doesn’t have an infinite number of vectors in it (infinite-dimensional vector spaces are also very important in quantum mechanics and other things, like Fourier analysis).
+Linear Transformations
+So far, I’ve only talked about vector spaces and the vectors in them. However, I haven’t really talked about functions from one vector space to another. They are quite important, however, so let’s talk about them.
+Definition. A linear transformation  from a vector space  to a vector space  () is a function with the following property:
+
+In other words, linear transformations “distribute” over vectors, in a sense. Really, though, this is what it truly means to be linear, hence the name “linear algebra.” As boring-sounding of a term it is, it certainly is accurate.
+Definition. A linear operator is a linear transformation from a vector space to itself.
+Definition. A linear transformation is one-to-one (or injective) if  if and only if . Basically, it means that  doesn’t map two input vectors to the same output vector. This is provably equivalent to the statement that  is only true if , although I won’t prove it here.
+Definition. A linear transformation from a vector space  to a vector space  is onto (or surjective) if and only if . This is just the statement that, for every vector in the output vector space,  maps some vector from the input vector space to that vector.
+Definition. A function (not necessarily linear) which is both one-to-one and onto is called a bijection. A linear transformation which is a bijection is called an isomorphism.
+An isomorphism is basically the notion of a transformation which connects every single vector in one vector space to every single vector in another vector space, with no overlap.
+Some other very important facts about linear transformations that I won’t prove:
+
+Linear transformations can be composed, i.e., turned into another linear transformation which is when one linear transformation is performed after another. This is equivalent to matrix multiplication and, while not commutative, composition is associative.
+A linear transformation which can be undone by another linear transformation is called invertible, and the latter linear transformation is called the inverse of the former.
+Two finite-dimensional vector spaces which have some isomorphism between them are called isomorphic and must have the same dimension.
+The vector space  is just an ordered tuple (list) of  scalars. It can be shown that a finite dimensional vector space over  with dimension  is isomorphic to . This means that, after adopting a basis for each vector space, you can represent vectors in a vector space as a list of numbers called column vectors and linear transformations as matrices. Actually, this is where most introductory linear algebra classes go and it’s extremely important, although that approach leaves out some of the beauty of vector spaces which is independent of basis.
+To get meta for a second, linear transformations from one vector space to another are, themselves, a vector space. You can add linear transformations together, scale them, define a zero linear transformation, etc. You can then define linear transformations over this vector space, then take the set of all of those linear transformations, define linear transformations for those, and so on and so forth.
+
+Eigenstuffs
+In general, linear operators, linear transformations from a vector space to itself, do really weird things to vectors. They can send them in places which are not intuitive. However, there are certain vectors which are mostly unaffected by a given linear transformation. Some vectors only get scaled up or down by a certain linear transformation. These vectors, as it turns out, hold the key to quantum mechanics.
+Be warned: every word in this section starts with eigen-. It’s really important!
+Definition. For a given linear transformation, an eigenvector  is a nonzero vector with the following property:
+
+where  is called the eigenvalue.
+In order to find the eigenvalues of a linear transformation , you find the roots of the characteristic polynomial  where  is the determinant and  is the identity transformation (which sends every vector to itself). The set of all eigenvalues of a transformation is called the spectrum.
+For many linear transformations, you can make a basis out of eigenvectors. Such a basis is called an eigenbasis. Note that, while the sum of two eigenvectors isn’t always an eigenvector, the following theorem is true.
+Theorem. A linear combination of two eigenvectors corresponding to the same eigenvalue is also an eigenvector with that same eigenvalue:
+Proof. Let  both be eigenvectors of  with eigenvalue . Let . Then . Therefore,  is also an eigenvector of  with eigenvalue . ■
+Note that this makes eigenvectors of the same eigenvalue a vector space in their own right. They are a vector subspace of the original vector space. For an eigenvalue , the set of all eigenvectors with that eigenvalue including the zero vector is called the -eigenspace.
+Not all linear transformations have eigenvectors. For example, rotations in 2D by angles that aren’t multiples of 180 degrees (the vector space is , the -plane), which are linear transformations, do not have eigenvectors if the field is , the real numbers. This is because all vectors will get rotated around, and none of them will end up being a scaled version of themselves except the zero vector, which, by definition, doesn’t count as an eigenvector.
+Inner Products
+For everything before this section, we have discussed general vector spaces over arbitrary fields. I have never had to assume what the field was in order to prove any theorems. However, this next section works only when the field is either the real numbers, , or the complex numbers, . We come across the following definition, which is extremely useful in physics as well as math.
+Definition. For a vector space  over a field  where either  or , an inner product is a binary operation . That is to say, it is a function that takes in two vectors and returns a scalar. To be an inner product, the following conditions need to be fulfilled:
+
+Linearity in the Second Argument: .
+Conjugate Symmetry: . The star represents a complex conjugate. For a real number, this doesn’t do anything (which means that real inner products are symmetric, i.e., you can feed in two vectors in either order and get the same number. For a complex number , the complex conjugate is .
+Positive Definiteness: , and . This is saying that the inner product of every vector with itself is always greater than equal to zero (and also real). In addition, if the inner product of a vector with itself is , then the vector is the zero vector.
+
+I will try to motivate why this definition, while at first abstract, is actually useful. Generally, vectors are introduced as arrows in space with direction and magnitude. However, I’ve deliberately avoided doing that because I didn’t want us to be overdependent on this picture in our heads of arrows floating in space, which sort of takes away from finer points of nuance in actually reasoning from the vector space axioms.
+Indeed, if we look closely, we now have a mathematically rigorous definition of what we really mean by direction and magnitude. For the magnitude, or length, of the vector, we notice that all vectors have some non-negative length: no vector can have a length of  or  or . In addition, the only vector with a length of  is the zero vector itself, which we can imagine as a point without any length. We can actually define the magnitude of a vector as (the square root of) the inner product of a vector with itself. We can see from the positive definiteness condition for the inner product that it does the things we want length to do. We say that, if a vector  has a length of , i.e., , that  is normalized.
+We may also address direction, which, if you think about it, really is all about telling the angles by which vectors are separated. It turns out that we can define the angle  between two vectors  and  as . We can see that, if , then  and  are “perpendicular,” or orthogonal, to each other.
+Definition. An inner product space is a vector space together with a specific inner product.
+Note that you can always define an inner product, and there are actually, in all cases, an infinite number of inner products you can define. For example, a very common inner product is the dot product over real vector spaces, which is just when you expand two vectors in terms of their components in a basis, multiply their corresponding components together, and summing the resulting numbers. But you could always define an inner product where you do this same process, and then multiply by  at the end. It sounds really dumb, but it technically follows the definition of an inner product, so it counts as one. However, we are often in the situation where we only want to talk about a single inner product (we want to have one answer for how long vectors are, which vectors are orthogonal to each other, etc.).
+Definition. A basis composed of vectors that are all normalized and all orthogonal to each other is called an orthonormal basis.
+Orthonormal bases have an extremely useful property that means physicists pretty much always pick them. In quantum mechanics, they are so ubiquitous that, when someone talks about a “basis,” they are always talking about an orthonormal basis. What is that property?
+Theorem. Let  be an orthonormal basis for a vector space , and let  be a vector in . We know that  for some coefficients . The claim is that  for all .
+Proof. We start with  for some  from  to . We then perform an inner product with  on the left:
+
+Since the inner product is linear over the second component, this implies that
+
+Because  is an orthonormal basis, all of the inner products on the right hand side are zero because all the vectors in the basis are orthogonal to each other, except one, which is the inner product . This inner product is equal to  because all vectors in the basis are normalized. Therefore,
+
+so that , as desired.
+This gives us a very, very, very convenient way of getting the expansion coefficients of a vector in terms of a basis. Before, we said it was possible, but we never actually talked about how to figure out how to expand an arbitrary vector in terms of a given basis. If the basis is orthonormal with respect to some inner product, we have an easy way to do this. This is how the standard dot product works, since we almost always pick an orthonormal basis for this convenient feature.
+We can ask if any vector space has an orthonormal basis. I never actually proved that that’s true. In fact, all vector spaces have an orthonormal basis. We can always construct an orthonormal basis from any basis by doing the Gram-Schmidt process.
+Another important fact is that, if I take some orthonormal basis and define my inner product as the sum of the multiplied components of two vectors in that basis, it doesn’t matter which orthonormal basis I pick. I will always get the same answer.
+Finally, we should note here the very important fact that eigenspaces corresponding to different eigenvalues are orthogonal to each other. All vectors in one eigenspace are orthogonal to all vectors in a different eigenspace.
+Other Linear Transformation Definitions and Theorems
+For this section, we’re going to assume some inner product.
+Definition. Define the adjoint of a linear operator  with the following property:
+
+where  is the adjoint of . It can be shown that all linear transformations have an adjoint, and that the adjoint itself is also a linear transformation.
+Definition. Call a linear operator  a Hermitian (or self-adjoint) operator if the following is true:
+
+In other words,  (Hermitian operators are their own adjoints). Hermitian operators are super important for quantum mechanics, and have a very important theorem.
+Theorem. The eigenvalues of a Hermitian operator are all real.
+Proof. Let  be an eigenvector of  with eigenvalue . Then consider the inner product . We see that
+
+but also that
+
+so that
+
+Since  is an eigenvector, it is nonzero by definition. This means that  is nonzero by the definition of the inner product. This, in turn, means that we can divide the above expression by  to yield
+
+which is only true if  is real. ■
+In fact, not only is it the case that all the eigenvalues are real, it is also the case that you can make an orthonormal basis out of eigenvectors of any Hermitian operator, no matter what it is. This statement is called the spectral theorem.
+Definition. A linear operator  is unitary if
+
+Basically, the way you should think about unitary transformations is that they are transformations which can’t change the length of any vector or the angle between vectors. While I won’t prove this particular statement, a unitary transformation will turn an orthonormal basis into another orthonormal basis. Unitary transformations also have their own special theorem about their eigenvalues.
+Theorem. All eigenvalues of a unitary operator lie on the unit circle in the complex plane, i.e., if  is an eigenvalue of a unitary operator, then .
+Proof. Consider  where  is an eigenvector of a unitary operator  with eigenvalue . We have that
+
+Then, since , as an eigenvector, is nonzero, we can divide by  to obtain
+
+as desired. ■
+In addition, an equivalent and often-used definition is that a unitary operator is an operator whose inverse is the adjoint, i.e. . You can always find an eigenbasis for a unitary operator.
+Definition. A projection is a linear operator  such that , that is, doing the operator multiple is the same as doing it once. This property is also called idempotence.
+We have a theorem about the eigenvectors of a projection, also:
+Theorem. The eigenvalues of a projection can only be  or .
+Proof. Let  be an eigenvector of a projection  with eigenvalue . Then consider . We have, on one hand, that
+
+and, on the other hand, that
+
+by idempotence, so that
+
+or, rearranged,
+
+Since  is nonzero since it’s an eigenvector, we see that  or , and this completes the proof. ■
+You can also always find an eigenbasis for a projection operator. There is a notion of “projection onto a subspace.” A projection can be thought of as taking all the components of a vector “parallel to” a given subspace, and throwing away the rest. It’s a tad bit like how your shadow is like the shape of your figure, but only the parts parallel to the ground.
+Another concept that we should be somewhat comfortable with, if only conceptually, is the idea of exponentiating linear operators. For example, I can write down  where  is a linear operator (note that linear operators go from one vector space to that same vector space), and, while exponentials are none-too-unfamiliar, it isn’t a priori clear what it means to exponentiate a transformation. However, we note that the Taylor series of  is given by
+
+Then, we have a convenient way to define the exponential of a linear operator :
+
+where  is the identity transformation,  means the transformation corresponding to applying  twice,  applying  three times, and so on.
+Part 3: The Quantum Mechanics—The Postulates
+What I’m going to try to do here is lay out the straight math underlying quantum mechanics. I’m going to leave it extremely barebones, which means even leaving out such things as Schrödinger’s cat or the stock first-year-quantum-class exercise of integrating over a wavefunction to get the probabilities. I’ll even leave out here most of the physical interpretation, instead jumping into the skinniest of descriptions as to how the math works.
+Postulate 1. In quantum mechanics, the state of a system corresponds to a vector in a vector space called a Hilbert space, which is an inner product space. These “state vectors” are called kets. The Hilbert space is always a vector space over the field of complex numbers .
+Really, the only vectors in this Hilbert space that are physical are the ones with length  (normalized), but we keep the other ones there to maintain the nice linear algebra. Most vectors in the vector space can be normalized, that is, they can be scaled up or down so that their length is  and they correspond to a real, physical state. The only one that you can’t do this to is the one corresponding to the zero vector, or the null ket. Again, this is only here to keep the vector space structure. A ket is written as , where the letter  is just some label for my convenience.
+Postulate 2. Every observable variable (observable) has a corresponding Hermitian operator on the Hilbert space, and every Hermitian operator corresponds to an observable.
+In quantum mechanics, operators are written as letters with hats on them, i.e., .
+Postulate 3. If you try to measure a variable corresponding to a Hermitian opreator, your outcome will be one of the eigenvalues of the Hermitian operator.
+Note that the outcome of the measurement is always going to be a real number, since Hermitian operators have real eigenvalues. Operators that aren’t Hermitian in quantum mechanics still have a role to play, but do not correspond to physical observables.
+Postulate 4. If you have the state , the probability of measuring an observable  to be the eigenvalue  is  where  is the projection operator onto the eigenspace corresponding to that eigenvalue.
+Basically, the probability of measuring a given eigenvalue is the squared length of the projection of the state vector onto the eigenspace corresponding to that eigenvalue.
+Postulate 5. After measuring the observable  to be , the state will collapse into .
+Basically, once you measure the eigenvalue, the only part of the state that remains is the projection along the eigenspace corresponding to the measured eigenvalue , normalized so that the ket is length .
+Postulate 6. The evolution of a ket in time, assuming it hasn’t been measured, is  is governed by the Schrödinger equation:
+
+where  is the Hamiltonian operator, which is just an operator corresponding to the energy of a system.
+Another way to put this is that, in order to time-evolve a ket from time  to , we can apply the operator . Note that we have exponentiated a linear transformation proportional to the Hamiltonian here. It is a convenient fact that this  time-evolution operator is always unitary, so physicists refer to this kind of time-evolution as unitary time-evolution.
+In contrast, collapse after measurement is non-unitary time-evolution, since the time-evolution of those vectors is not as simple as applying a unitary operation. Note that, since unitary operations are always invertible, you can, in principle, undo the changes that happen to a system as long as you do not measure anything. Interestingly, for this reason, quantum computers can’t practically do things like AND gates and OR gates because such gates are not invertible (if I told you that A AND B is true, you still would not be able to tell me what A and B were, individually).
+Some other notes. I have introduced the Hilbert space of kets as state vectors. I can also introduce this notion of a bra, which is defined to be the operation of taking the inner product of a given ket with something. For example, the  is defined as
+
+where  is the inner product, since now using the angle-bracket notation for inner products becomes confusing. We see from the above that, for every ket, there is an associated bra. Bras themselves form a vector space called a dual space to the Hilbert space. I can write the inner product of the kets  and  as
+
+where the right hand side is called a bracket. Thus, you see one of the cheesiest puns in all of physics. A “bra” written beside a “ket” gives a “bracket,” which is always just some complex number. This bra-ket notation, also called Dirac notation (who must have been an excellent punster in life, if he was even the person to come up with these words), simplifies the notation of quantum mechanics drastically. For example, to enforce that physical kets are normalizable, I may simply write
+
+The average value of the operator , the so-called expectation value  can be compactly written as
+
+where the right hand side means that I act  on  before taking the inner product of the resulting vector with . We can also think about the Hermitian operator corresponding to measuring whether or not a vector is in state  with the following operator:
+
+where I leave it to you to see why this is an operator. This also happens to be, out of coincidence, the projection operator onto the subspace corresponding to a positive measurement of the state being in state .
+Part 4: The Two-State System
+In order to show these postulates in practice, let’s consider the two-state system. This is a simple example of a quantum system occupying a Hilbert space that is two dimensional.
+
+While the representation of the Hilbert space above as a two-dimensional plane is a pretty good visualization, it masks the fact that this is a complex vector space, whereas the plane is really a better representation of a real vector space. To make this more concrete, let’s call the normalized ket pointing to the right  and the one pointing straight up . Then a vector that points up and to the right could look like
+
+and one that points down and to the right is
+
+However, it’s difficult to visualize, for example, the following state:
+
+In fact, in general, we could have states that look like this:
+
+where  is called the relative phase. Note that , , and  correspond to the three cases above.
+Suppose I wanted to measure whether the state is in state , which corresponds to the observable . Then the possible results are “yes” (1) and “no” (0). The former result corresponds to a projection  and the latter corresponds to . Suppose we measure  for the state . The probability of measuring  for this observable is
+
+after which the state would collapse to state .
+In a way, this state is an “equal superposition between  and .” Oftentimes, especially in popular science, people talk as if there isn’t more to quantum than systems being in “between” two classically discrete states. The reality is clearly more nuanced than that. There is a probability of one half that we find this particular state in . However, notice that this doesn’t depend at all about the relative phase . This begs the question of why we care about relative phase if it doesn’t seem to do anything here.
+The answer is that the relative phase doesn’t affect the probability of measuring this particular observable. However, we can instead consider the observable corresponding to whether or not the state is in state . This corresponds to the operator . Now the projection operators we need for this observable are  and . The probability of measuring that the state is in  is
+
+after which the state would collapse to state .
+We see that the probability of measuring the state $latex \lvert\psi_\varphi\rangle$ in state  is . Note that this is equal to  when , when . It’s equal to  when , which is perpendicular to . Indeed, when we measure this second observable, called measuring in a different basis.
+
+The basic gist of what would happen here is this: if I measure  over and over again, no matter what the state started with, I will always measure the same thing. This is because the first measurement collapses the original state into an eigenstate (eigenvector) of the  operator. However, if I measure , then , and  again, I will actually only get a 50% chance of measuring the state in .
+While a bit more nuanced, in quantum mechanics, a similar thing goes on with position and momentum. If you measure the position over and over again, you will get the same answer each time. However, if you measure the momentum, the state will collapse to an eigenstate of the momentum operator, and, if you measured the position again, it wouldn’t be in the exact place anymore. In fact, if you measured the momentum perfectly, it turns out that you lose all position information. This underlies Heisenberg’s uncertainty principle between position and momentum, which says that the product of the uncertainties for position and momentum  must be at least a nonzero constant .
+Now, this two-state system seems like a pretty abstract quantum system, but it’s actually not. Many systems are effectively two-state systems. This includes
+
+The polarization of light
+The spin of an electron
+The energy level of an electron in an atom if only two levels are realistically likely
+
+The two-state system is really important in quantum information and computation, the underlying idea of which is that the weirdness of quantum mechanics can be used to solve certain problems which cannot be efficiently solved by classical computers. By efficiently, I mean it would be nice to solve certain problems before the heat death of the universe trillions of years from now, but for some problems we actually can’t do that with classical computers. That’s not a really high bar for efficiency, but some problems, like factoring semiprime numbers (which is relevant for a security protocol called RSA) are really that hard.
+The fundamental unit of these quantum computers is the quantum bit, usually abbreviated to qubit. Each qubit is a two-state system. If you consider  qubits together, the Hilbert space spanned by all of them actually has dimension . For example, if I have two qubits, I can take the basis , which has four () elements in it. This is often pitched as  qubits being equivalent to  classical bits, although the reality is, as always, a bit more nuanced than that.
+Part 5: Going Further
+I have covered here a basic overview of linear algebra and introductory quantum mechanics. Of course, if you want to be able to do any of these subjects, go beyond this summary and explore these beautiful subjects. In this section, I’m going to discuss some topics which are cool extensions of linear algebra and quantum mechanics.
+Linear Algebra
+
+Numerical linear algebra, which is the use of algorithms to do linear algebraic operations. Note that matrices are very important in computation because it turns out that, while, say, humans have a difficult time inverting matrices and stuff like that, computers are actually quite good at it. It’s also extensively used in subjects like machine learning.
+Abstract algebra, which is a generalization of linear algebra (hence the “linear” part is replaced by “abstract”). One key object in abstract algebra is that of groups (the study of which is called group theory), which are this generalized algebraic structure which basically underlie the mathematical study of symmetries. Other objects in abstract algebra are rings (ring theory), which are specific kinds of groups or, if you would like, generalized fields (for example, the integers  are not a field, but they are a ring), and modules, which are like vector spaces except, instead of being over a field, they only have to be over a ring.
+Functional analysis, which is the study of special kinds of infinite-dimensional vector spaces.
+
+Quantum Mechanics
+
+Quantum information and computation, which, as stated before, is the use of quantum mechanical weirdness in building quantum computers, which could theoretically efficiently solve problems which we believe that classical computers cannot.
+Quantum field theory (QFT), which describes all particles as perturbations in fields. In QFT, particle number is not necessarily conserved, and special relativity is fully accounted for. Quantum field theory is possibly the best tested theory in all of physics, predicting the g-factor of the electron to thirteen decimal places and the Hall conductance to nine. When applied to electromagnetism, this is called quantum electrodynamics (QED). When applied to the strong force, it’s called quantum chromodynamics (QCD). When applied to the weak force, it’s called quantum flavordynamics (QFD), although people often resort to the electroweak model for this.
+Particle physics, the study of subatomic particles, which obey quantum mechanics. The current best accepted model of particle physics is the standard model, although we know that there are subtle some problems with it. There are also a lot of people trying to figure out how dark matter fits into all of this.
+String theory, loop quantum gravity, and other theories of quantum gravity. We’re really off the deep end here.
+
+Acknowledgements
+The linear algebra presented here is inspired by material from the following courses at UC Berkeley:
+
+Physics 89 (Austin Hedeman)
+Math 110 (Zvezdelina Stankova)
+
+The quantum mechanics presented here is inspired by material from the following courses:
+
+Physics 5C (Mina Aganagic)
+Physics 137A (Austin Hedeman)
+
+For further reading on linear algebra, especially in physics, some texts I can point to are
+
+Mathematical Methods in the Physical Sciences (Boas)
+Advanced Engineering Mathematics (Kreyszig)
+Linear Algebra (Friedberg)
+Linear Algebra Done Right (Axler)
+Linear Algebra Done Wrong (Treil)
+
+Yes, I am not making those names up. This is actually what those books are called.
+For further reading on quantum mechanics (and, believe me, if you want to actually know how to do quantum mechanics, you should read further), consider
+
+Quantum Physics (Wichmann)
+Introduction to Quantum Mechanics (Griffiths)
+Quantum Mechanics (Bransden)
+
+Share this:TwitterFacebookLike Loading...
+
+Related
+ 
+
+
+
+
+ 
+
+
+				Published by nrui 
+
+
+
+				View all posts by nrui			
+
+
+
+
+Post navigation
+Previous Post Convolutions and the Game of LifeNext Post The Squishy Pendulum
+
+
+
+Leave a comment Cancel reply
+
+
+
+Δ 
+
+
+
+
+
+
+
+Create a website or blog at WordPress.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Comment						
+
+
+
+
+Reblog
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+
+
+
+
+
+				Nicholas Rui			
+
+
+
+
+
+
+
+
+
+
+ 
+
+												Sign me up											
+
+
+
+
+											Already have a WordPress.com account? Log in now. 
+
+
+
+
+
+
+
+ Privacy						
+
+
+
+ 
+
+
+
+
+
+				Nicholas Rui			
+
+
+
+ Customize
+
+
+
+
+
+Subscribe
+
+
+
+Subscribed
+
+
+Sign up
+Log in
+Copy shortlink
+
+
+											Report this content										
+
+
+
+											View post in Reader										
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+%d 
+
+
+ 
+
+
+
+
+
+
+

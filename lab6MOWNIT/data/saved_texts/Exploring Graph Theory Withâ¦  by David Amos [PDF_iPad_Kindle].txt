@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploring Graph Theory Withâ¦  by David Amos [PDF/iPad/Kindle]
+
+
+Exploring Graph Theory With JuliaExploring Graph Theory With JuliaLast updated on 2023-09-21David AmosLearn how the mathematics of relationships helps run the world and explain the universe as you explore the fascinating world of graph theory using the Julia programming language. No advanced math or coding skills required.Interested in this book? Show your support by saying what you'd like to pay for it!NameEmail Also share your email address with the author.I would payâ¦$Notify Me When This Is PublishedTable of Contents7Pages60 daysguaranteeEnglishPDFEPUB
+
+
+WEBAbout the BookUsing graph theory, you can apply the tools of science and mathematics to study relationships between things. In Exploring Graph Theory With Julia, hobby coders and armchair mathematicians are given the opportunity to understand and explore graph theory without the proofs and formality found in other books. No mathematics beyond high school algebra is assumed. Code samples and explanations are targeted to anyone who has completed a beginner course in a procedural programming language, such as Julia, Python, or R. The book is divided into two parts. The first part describes the fundamental concepts of graph theory while guiding the reader through building a simple Julia graph library. This library is used throughout the book to explore concepts with concrete examples. The second part discusses how graph theory arises in different contexts, including recreation, industry, and science.  Table of ContentsNOTE: This is a preliminary outline of the book and may change in the future. Part 1Chapter 1: What Is a Graph?Chapter 2: Telling Graphs ApartChapter 3: Drawing Graphs Part 2Chapter 4: Graphs and MapsChapter 5: Graphs and IndustryChapter 6: Graphs and GamesChapter 7: Graphs and MusicChapter 8: Graphs and the UniverseChapter 9: Graphs and KnowledgeAppendicesAppendix A: Getting Started with JuliaAppendix B: Library ReferenceAppendix C: More on Graph Visualization  Release ScheduleThe book will be released in four stages. Price increases will accompany the first three stages, so purchasing early, unfinished drafts of the book will be less expensive. Early supporters will receive regular updates at no extra cost. I have not settled on a price for the book yet. Please let me know what you'd like to pay by filling out the form at the top of this page. Here is the rough plan for when each chapter in the book will be available:Chapters 1â3: September 2023Chapters 4â6: November 2023Chapters 7â9: January 2024Full release: March 2024  Frequently Asked QuestionsWho is this book for?The primary audience Iâm writing for is hobby coders with an interest in math and science, but students in an undergraduate graph theory course will also benefit from the book. Exploring Graph Theory With Julia can supplement formal text books to expose students to practical applications of graph theory and provide them with tools to explore theory with a computer. How long will the book be?Iâll try and keep it under 300 pages, not including front matter, the glossary, or the index. Wish me luck. Will a print version be available?Yes, a print version will be available soon after the LeanPub version is published. I am currently working out publishing and distribution. I am also considering offering a spiral-bound version, but I have not worked out the logistics yet. Please let me know if you are interested in a spiral-bound version of the book. Will the book contain exercises?Yes. Some exercises are presented in line with the text as callouts. These exercises are intended to be easy and allow readers to take a break from the book and think about a new concept. Each chapter will contain a set of coding exercises that reinforce and extend the topics discussed in the chapter. Solutions to these coding exercises will be provided in a GitHub repository. Why Julia?Julia is easy to install on almost every operating system, especially using the juliaup tool. Julia's syntax is easy to grasp for folks already familiar with a language like Python or R. But most importantly, for loops in Julia are fast. Using Julia, you can write beginner-friendly code without sacrificing so much performance that using the code on a decently sized data set is impossible. Another strength of Julia for hobby coders is that all of the standard library and nearly all of the third-party ecosystem is written in Julia. This does not automatically make everything easy to read, but at least you aren't required to learn another programming language just to try and understand how some parts of the language work. Why not use Graphs.jl?All of the code in this book is written from scratch. There are pedagogical advantages that make this choice attractive. Readers will implement fundamental algorithms themselves rather than call a function from a library they've never seen. I have always found writing things myself to be helpful for internalizing a new concept. But there is another reason I have chosen to avoid using a package like Graphs.jl. When I imagine who will read my book, I think of a tinkerer â someone whose first instinct when confronted with the unknown is to poke, prod, take things apart, and rebuild them. Building a library from scratch and using it to explore things yourself seems highly aligned with that audience. Additionally, many of the packages in the Julia ecosystem are targeted towards researchers and professionals. Personally, I find the way variables, functions, and types are named in most Julia packages to be unhelpful for the audience of this book. Writing everything from scratch allows me to use names I feel are more appropriate. All that said, the graph library that readers build in this book is unsuitable for real-world applications. It is specifically designed for education. Readers interested in falling deeper down the graph theory rabbit hole are encouraged to check out the JuliaGraphs project.Share this bookFeedbackEmail the Author(s)About the AuthorDavid AmosI have a B.Sc. in mathematics, with a minor in computer science, from the University of Houston â Downtown. I spent three years pursuing a Ph.D. in mathematics at Texas A&M University before leaving academia for industry in 2015. Since then, I have worked as a system designer and programmer for distributed audio/visual systems, an analyst for a large event venue, and a technical writer.I currently work on the User Education team at RelationalAI, teaching users about knowledge graphs and graph analytics.Table of ContentsPart 1What is a graph?Telling Graphs ApartDrawing GraphsThe Leanpub 60 Day 100% Happiness GuaranteeWithin 60 days of purchase you can get a 100% refund on any Leanpub purchase, in two clicks.Now, this is technically risky for us, since you'll have the book or course files either way. But we're so confident in our products and services, and in our authors and readers, that we're happy to offer a full money back guarantee for everything we sell.You can only find out how good something is by trying it, and because of our 100% money back guarantee there's literally no risk to do so!So, there's no reason not to click the Add to Cart button, is there?See full terms...80% Royalties. Earn $16 on a $20 book.We pay 80% royalties. That's not a typo: you earn $16 on a $20 sale. If we sell 5000 non-refunded copies of your book or course for $20, you'll earn $80,000.(Yes, some authors have already earned much more than that on Leanpub.)In fact, authors have earnedover $13 millionwriting, publishing and selling on Leanpub.Learn more about writing on LeanpubFree Updates. DRM Free.If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).Most Leanpub books are available in PDF (for computers) and EPUB (for phones, tablets and Kindle). The formats that a book includes are shown at the top right corner of this page.Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device.Learn more about Leanpub's ebook formats and where to read themWrite and Publish on LeanpubYou can use Leanpub to easily write, publish and sell in-progress and completed ebooks and online courses!Leanpub is a powerful platform for serious authors, combining a simple, elegant writing and publishing workflow with a store focused on selling in-progress ebooks.Leanpub is a magical typewriter for authors: just write in plain text, and to publish your ebook, just click a button. (Or, if you are producing your ebook your own way, you can even upload your own PDF and/or EPUB files and then publish with one click!) It really is that easy.Learn more about writing on LeanpubPublish Early, Publish OftenPathThere are many paths, but the one you're on right now on Leanpub is... âº Exploring-graph-theory-with-juliaREADERSNewslettersWeekly SaleMonthly SaleStoreHomeRedeem a TokenSearchSupportLeanpub FAQLeanpub Author FAQSearch our Help CenterHow to Contact UsFRONTMATTER PODCASTFeatured EpisodeEpisode ListMEMBERSHIPSReader MembershipsDepartment Reader MembershipsAuthor MembershipsYour MembershipCOMPANYAboutAbout LeanpubBlogContactPressEssaysAI ServicesImagine a world...ManifestoMorePartner ProgramCausesAccessibilityAUTHORSWrite and Publish on LeanpubCreate a BookCreate a CourseCreate a TrackTestimonialsWhy LeanpubServicesCourseAITranslateAIAuthor NewsletterThe Leanpub Author UpdateAuthor SupportAuthor Help CenterLeanpub Authors ForumThe Leanpub ManualSupported LanguagesThe LFM ManualThe Markua ManualAPI DocsOrganizationsLearn MoreSign UpLEGALTerms of ServiceCopyright PolicyPrivacy PolicyRefund Policy*Â Â Â *Â Â Â *Leanpub is copyright Â© 2010-2024 Ruboss Technology Corp.All rights reserved.This site is protected by reCAPTCHAand the GoogleÂ Privacy Policy andÂ Terms of Service apply.
+
+  Leanpub requires cookies in order to provide you the best experience.
+  Dismiss
+
+
+
+
+
+
+
+
+
+

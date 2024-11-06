@@ -1,0 +1,731 @@
+
+
+
+Understanding the Theory of Equations - Testbook.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English Get StartedExams SuperCoaching  Live Classes FREETest Series Previous Year Papers  Skill Academy Pass Pass Pass Pro Pass Pass Pro IAS Preparation  More  Free Live Classes  Free Live Tests & Quizzes  Free Quizzes  Previous Year Papers  Doubts  Practice  Refer and Earn  All Exams  Our Selections  Careers  IAS Preparation  Current Affairs Practice GK & Current Affairs Blog Refer & Earn Our Selections  Home  Maths  Understanding the Theory of Equations - Testbook.com Understanding the Theory of Equations - Testbook.com Last Updated on Jul 31, 2023  Download as PDF
+OverviewTest Series
+
+Every polynomial equation of the nth degree has 'n' roots, which could be real or imaginary. If α is a root of the equation f (x) = 0, then the polynomial f (x) is exactly divisible by (x – α). This means that (x – α) is a factor of the polynomial f (x).
+
+
+
+The study of algebraic equations, which are equations defined by a polynomial, in algebra is known as the
+
+theory of equations
+
+. A polynomial is an expression that contains one or more terms. The main challenge in the theory of equations was to determine when an algebraic equation has an algebraic solution. In this comprehensive guide, we will delve deeper into the theory of equations and explore examples of solving equations.
+
+
+
+
+Here are some key concepts that fall under the theory of equations.
+
+
+
+
+
+Linear equations
+
+
+
+
+Simultaneous linear equations
+
+
+
+
+Finding the integer solutions of an equation or of a system of equations
+
+
+
+
+Systems of polynomial equations
+
+
+
+
+Key Points to Remember
+
+
+
+
+Here are some important concepts you need to know in the theory of equations:
+
+
+
+
+
+A quadratic equation in x generally takes the form ax
+
+
+
+2
+
+
+
++ bx + c  = 0
+
+
+
+
+The roots of a quadratic equation are given by x = (-b±√(b
+
+
+
+2
+
+
+
+– 4ac))/2a
+
+
+
+
+If α and β are the roots of the equation ax
+
+
+
+2
+
+
+
++ bx + c  = 0, a ≠ 0, then the sum of roots, α + β = -b/a.
+
+
+
+
+
+The product of roots is given by  αβ = c/a
+
+
+
+
+
+If the sum and product of roots are known, then the quadratic equation can be represented as
+
+x
+
+2
+
+– (sum of roots)x + product of roots = 0
+
+
+
+
+
+For a quadratic equation, b
+
+
+
+
+2
+
+
+
+
+– 4ac is known as the discriminant and is represented by D.
+
+
+
+
+If D = 0, the equation will have two identical real roots.
+
+
+
+
+If D > 0, then the equation will have two different real roots.
+
+
+
+
+If D < 0, then the equation has no real roots.
+
+
+
+
+The graph of a quadratic equation is a parabola. The parabola will open upwards if a >0, and open downwards if a < 0.
+
+
+
+
+If a > 0, when x = -b/2a, f(x) attains its minimum value.
+
+
+
+
+If a < 0, when x = -b/2a, f(x) attains its maximum value.
+
+
+UGC NET/SET Course Online by SuperTeachers: Complete Study Material, Live Classes & MoreGet UGC NET/SET SuperCoaching @ just₹27999₹12249 Your Total Savings ₹15750 Explore SuperCoachingWant to know more about this Super Coaching ? Download Brochure 
+
+Understanding the Relationship between Roots and Coefficients
+
+
+
+If
+
+α
+
+1
+
+, α
+
+2
+
+, α
+
+3
+
+, α
+
+4
+
+, α
+
+5
+
+, α
+
+6
+
+,…., α
+
+n
+
+
+are the roots of the quadratic equation:
+
+
+
+
+\(\begin{array}{l}a_{0} ­x^{n} + a_{1} ­x^{n-1} + a_{2} ­x^{n – 2} + a_{3} ­x^{n – 3} + a_{4} ­x^{n – 4 }+ . . . . . . . . . . . . . . . . + a_{n-1} x + a_{n} = 0\end{array} \)
+
+
+
+Then, the sum of roots:
+
+
+
+
+\(\begin{array}{l}\sum \alpha_{1} = \alpha_{1} + \alpha_{2} + \alpha_{3} + \alpha_{4} . . . . . . \alpha_{n}=\mathbf{-\;\frac{a_{1}}{a_{o}}}\end{array} \)
+
+
+
+The sum of the product of roots taken two at a time:
+
+
+
+
+\(\begin{array}{l}\sum \alpha_{1} \alpha_{2} = \mathbf{\frac{a_{2}}{a_{o}}}\end{array} \)
+
+
+
+The sum of the product of roots taken three at a time:
+
+
+
+
+\(\begin{array}{l}\sum \alpha_{1} . \alpha_{2} .\alpha_{3}=\mathbf{-\;\frac{a_{3}}{a_{o}}}\end{array} \)
+
+The product of roots:
+
+
+
+
+\(\begin{array}{l}\alpha_{1} . \alpha_{2} . \alpha_{3} . \alpha_{4} . \alpha_{5}. . . . . . \alpha_{n} = (- 1)^{n} \times \frac{a_{n}}{a_{o}}\end{array} \)
+
+
+
+Thus, for a cubic equation
+
+
+\(\begin{array}{l}ax^{3} + bx^{2} + cx + d = 0\end{array} \)
+
+
+
+
+
+\(\begin{array}{l}\alpha{1} + \alpha_{2} + \alpha_{3}=\mathbf{-\;\frac{a_{1}}{a_{o}}}=\mathbf{-\;\frac{b}{a}}\end{array} \)
+
+
+
+
+
+\(\begin{array}{l}\alpha_{1}.\alpha_{2} + \alpha_{2}. \alpha_{3}+ \alpha_{3}.\alpha_{1}=\mathbf{\frac{a_{2}}{a_{o}}}=\mathbf{\frac{c}{a}}\end{array} \)
+
+
+
+
+
+\(\begin{array}{l}\alpha_{1}.\alpha_{2} . \alpha_{3} = (- 1)^{n} \times \frac{a_{3}}{a_{o}}=-\frac{d}{a}\end{array} \)
+
+Get Pass ProNewAll-in-One Pass For All Your ExamsAlso IncludesAll Test SeriesPrev. Year PaperPracticePro Live TestsUnlimited Test Re-Attempts
+
+Solving Problems in Theory of Equations
+
+
+
+
+Problem 1: If one root of a cubic equation is double of another, find all the roots of the equation x
+
+3
+
++ 36 = 7x
+
+2
+
+.
+
+
+
+
+Solution:
+
+
+
+Given, f (x) = x
+
+3
+
+– 7x
+
+2
+
++ 0.x + 36
+
+
+Let α, β, and γ be the roots of the given cubic function f (x).
+
+
+We know, α + β + γ =
+
+-b/a
+
+= 7 . . . . . . (1)
+
+
+Also, αβ + γβ + αγ =
+
+c/a
+
+= 0 . . . . . . . . . . (2)
+
+
+And, αβγ =
+
+-d/a
+
+= – 36 . . . . . . . . (3)
+
+
+Given that α = 2β,
+
+
+3β + γ = 7 [From Equation (1)] . . . . . . . . . . . (4)
+
+
+Also, 2β
+
+2
+
++ 3βγ = 0 [From Equation (2)]
+
+β (2β + 3γ) = 0
+
+
+Since β ≠ 0, 2β + 3γ = 0 . . . . . . . . . . . . . . (5)
+
+
+And, 2β
+
+2
+
+γ = – 36 [From Equation (3)] . . . . . . . . . . . . . . (6),
+
+
+On solving Equation (4) and Equation (5), we get,
+
+
+β = 3 and γ = – 2
+
+
+Therefore, the roots of equation x
+
+3
+
++ 36 = 7x
+
+2
+
+are 3, 6, and – 2.
+
+
+
+Problem 2: If x, y, and z are real variables satisfying the equations x + y + z = 5 and xy + yz+ zx = 8, determine the range of x.
+
+
+
+
+Solution:
+
+
+
+Given, x + y + z = 5
+
+
+Therefore, z = 5 – (y + x) . . . . . . . . . . . . (1)
+
+
+Substituting the values of Equation (1) in xy + yz+ zx = 8, we get,
+
+
+xy + z (y+ z) = 8,
+
+
+i.e., xy + (y + z) (5 – y- x) = 8,
+
+
+Or,
+
+xy + 5y – y
+
+2
+
+– yx + 5x – xy – x
+
+2
+
+= 8
+
+
+
+Or,
+
+y
+
+2
+
+– (5 – x)y – 5x + 8 + x
+
+2
+
+= 0
+
+
+
+Now,
+
+b
+
+2
+
+– 4ac (D) ≥ 0
+
+[Since, y is real]
+
+i.e.,
+
+(5 – x)
+
+2
+
+– 4 (x
+
+2
+
+– 5x + 8) ≥ 0
+
+,
+
+
+Or,
+
+x
+
+2
+
++ 25 – 10x – 4x
+
+2
+
++ 20x – 32 ≥ 0
+
+,
+
+
+Or,
+
+– 3x
+
+2
+
++ 10x – 7 ≥ 0
+
+,
+
+
+Or,
+
+3x
+
+2
+
+– 10x + 7 ≤ 0
+
+. . . . . . . . . . . (2)
+
+
+Now, the roots of the
+
+quadratic equation
+
+
+3x
+
+2
+
+– 10x + 7 = 0
+
+
+
+
+
+\(\begin{array}{l}x = \mathbf{\frac{+\;10\;\pm \;\sqrt{100\;-\;84}}{6}\;=\;\frac{10\;\pm \;4}{6}\;=\;\frac{7}{3},\;1}\end{array} \)
+
+
+
+Therefore, from Equation (2),
+
+
+
+
+\(\begin{array}{l}\mathbf{\left ( x\;-\;1 \right )\;\left ( x\;-\;\frac{7}{3} \right )}\le 0\end{array} \)
+
+
+
+
+
+\(\begin{array}{l}\mathbf{x\;\in \;\left [ 1, \;\frac{7}{3} \right ]}\end{array} \)
+
+.
+
+
+
+Problem 3: If α and β are the roots of the quadratic equation 2x
+
+2
+
++ 6x + k = 0, find the maximum value of [(α/β) + (β/α)] if k < 0.
+
+
+
+
+Solution:
+
+
+
+From the given quadratic equation 2x
+
+2
+
++ 6x + k = 0,
+
+
+α + β = – 3 and αβ = k/2
+
+
+Since, k < 0, D = (
+
+b
+
+2
+
+– 4ac
+
+) = 36 – 4k > 0.
+
+
+Hence, the roots of the quadratic equation α and β are real.
+
+
+Now,
+
+
+\(\begin{array}{l}\mathbf{\left [\;\frac{\alpha }{\beta }\;+\;\frac{\beta }{\alpha }\; \right ]}=\mathbf{\left [\;\frac{\alpha^{2} \;+\;\beta ^{2}}{\alpha \;\beta }\right ]}\end{array} \)
+
+
+
+
+
+\(\begin{array}{l}=\mathbf{\frac{\left ( \alpha \;+\; \beta \right )^{2}}{\alpha\; \beta }\;-\;2}\end{array} \)
+
+
+
+
+
+\(\begin{array}{l}=\mathbf{\frac{18}{k}\;-\;2}\end{array} \)
+
+
+
+Since k < 0, the maximum possible value of the above expression is -2.
+
+
+Hence, the maximum value of [(α/β) + (β/α)]= – 2.
+
+
+
+Problem 4: In a polynomial equation
+
+
+\(\begin{array}{l}px^{4} + qx^{3} + rx^{3} + sx^{2} + tx + u = 0\end{array} \)
+
+, the product of all the roots taken at a time is one-third of the sum of the product of roots taken two at a time. Find the relationship between ‘r’ and ‘u’.
+
+
+
+
+Solution:
+
+
+
+Let α, β, γ and δ be the roots of the given polynomial equation px
+
+4
+
++ qx
+
+3
+
++ rx
+
+3
+
++ sx
+
+2
+
++ tx + u = 0.
+
+
+The sum of the product of roots taken two at a time is given by r/p.
+
+
+The product of all the roots taken at a time is given by u/p.
+
+
+According to the given condition, r/p = 3(u/p).
+
+
+Therefore, r = 3u.
+
+
+
+Problem 5: Solve the equation 3x
+
+3
+
+– x + 88 = 4x
+
+2
+
+if one of the roots of the given cubic polynomial equation is 2 – i√7.
+
+
+
+
+Solution:
+
+
+
+Let f (x) = 3x
+
+3
+
+– x + 88 – 4x
+
+2
+
+
+
+The given cubic function will have three roots, i.e., α, β and γ.
+
+
+Therefore, α = x = 2 – i
+
+√7
+
+
+
+And, β = x = 2 + i
+
+√7
+
+[Since imaginary roots occur in conjugate pairs]
+
+Therefore,
+
+
+(x – 2 + i
+
+√7)(x – 2 – i√7) = (x – 2)
+
+
+2
+
+
++ 7
+
+
+
+= x
+
+
+2
+
+
+– 4x + 11
+
+
+= g (x)
+
+
+On dividing f (x) by g (x), we will get 3x + 8 as the quotient.
+
+
+Therefore, 3x + 8 = 0
+
+
+Hence,
+
+γ = -8/3
+
+
+
+Therefore, the roots of the given equation f (x) are 2 – i
+
+√7, 2 + i√7, γ = -8/3.
+
+
+
+
+More Articles for Maths Understanding Trigonometric Inequality - Examples and SolutionsTrigonometric Ratios of Compound Angles - Explanation and Solved Examples | Testbook.comTrigonometric Equations and Identities Solved Examples - Testbook.comTrigonometric Equations and Its Solutions - TestbookValidity of Statements - Mathematical Logic | Testbook.comUnderstanding the System of Linear Equations with No SolutionUnderstanding Tangent to a Parabola: Condition for Tangency, Equations & Solved Examples | Testbook.comUnderstanding Tetrahedral Void: Characteristics, Diagram, and Differences with Octahedral VoidTangents and Normals: Definition, Examples, and ApplicationsTheorems of Continuity - Understanding Continuous Functions | Testbook.comFrequently Asked QuestionsGive the formula for the sum of roots of the quadratic equation ax2 + bx + c = 0, if α and β are the roots of the equation.If α and β are the roots of the equation ax2 + bx + c = 0, then the sum of roots is given by -b/a.Mention the nature of roots of the quadratic equation when the discriminant is equal to zero.When the discriminant is equal to zero, the quadratic equation will have two equal and real roots.If α and β are the roots of the equation ax2 + bx + c = 0, find the product of the roots.If α and β are the roots of the equation ax2 + bx + c = 0, then the product of roots is given by c/a.Test Series20.3k Users MH-SET (Assistant Professor) Test Series 2021 31 Total Tests | 1 Free Tests English 8 Previous Year Paper20 Subject Test3 Full TestView Test Series16.5k Users All SET Exams Mock Test 109 Total Tests | 1 Free Tests English,Hindi 10 Subject Test30 Chapter Test6 Full Tests+63 more testsView Test Series10.3k Users MAHA TAIT 2023 Mock Test 14 Total Tests | 1 Free Tests English,Marathi 4 Sectional Test4 Mini Full Test3 Full Test+3 more testsView Test SeriesReport An ErrorImportant LinksOverview30 in words50 in words70 in words40 in wordsMidpoint FormulaSquare Root45000 in wordsCube Root1999 in roman numerals13 in roman numerals200 in roman numerals70 in roman numeralsFactors of 27Factors of 16Factors of 120Square Root and Cube RootSquares and Square rootsTypes of Function GraphsRight Triangle Congruence Theorem80 in WordsSign Up Now &Daily Live Classes3000+ TestsStudy Material & PDFQuizzes With Detailed Analytics+ More BenefitsGet Free Access NowImportant ExamsUGC NETSSC JESBI ClerkUPTETUPSC CDSUP Police ConstableRRB ALPBihar Police ConstableBihar TeacherBihar Police SIChandigarh Police ConstableDFCCIL Junior ExecutiveBihar Secondary TeacherUPPCSIBPS POUGC CSIR NETRBI AssistantRRB JEIBPS SOBPSC ExamIndian Navy SSRUPSSSC VDOIndian Navy ChargemanDFCCIL ExecutiveEMRS TGTBihar Senior Secondary TeacherAFCATSBI POUPSC NDAUPSC CSEDelhi Police ConstableDDA JEIndian Navy MRIDBI ExecutiveUPSC CAPF ACBSF ROBihar Primary TeacherEMRS PGTSSC GD ConstableUPSC EPFOSSC CPOEPFO SSAJSSC CGLIBPS RRB POJSSC JEDSSSB TGTIBPS RRB Office AssistantDSSSB PGTHaryana CET Group DSSC MTS & HavaldarKey DifferencesDifference Between Compiler and InterpreterDifference Between PERT and CPMDifference Between Quality Assurance and Quality ControlDifference Between Cheque and Bill of ExchangeIAS vs NDA salaryDifference Between Census and SamplingDifference Between Induction and OrientationDifference Between Job Analysis and Job EvaluationDifference Between DBMS and RDBMSDifference Between Kharif and Rabi CropsCAT Score vs PercentileDifference Between Vouching and VerificationDifference Between Foreign Trade and Foreign InvestmentDifference Between Bailable Offense and Non Bailable OffenseDifference Between Confession and AdmissionDifferences Between direct democracy and indirect democracyDifference Between shares and debenturesDifference Between Entrepreneur and ManagerDifference Between FERA and FEMADifference Between Standard Costing and Budgetary ControlDifference Between Pressure Group and Political PartyDifference Between Common Intention and Common ObjectDifference Between Summon and WarrantDifference Between Java and JavaScriptDifference Between C and JavaDifference Between Manual Accounting and Computerized AccountingDifference Between Amalgamation and AbsorptionDifference Between Census and SamplingDifference Between NDA and CDSDifference Between Right Shares and Bonus SharesTest SeriesCTET Mock TestSSC CHSL Mock TestSBI PO Mock TestAMCAT Mock TestMP GK Mock TestWB TET Mock TestLIC ADO Mock TestSSC GD Constable Mock TestCUET Physics Mock TestECGC PO Mock TestNABARD Development Assistant Mock TestFCI Manager Mock TestCUET Mock TestNDA Mock TestUGC NET Paper 1 Mock TestLIC AAO Mock TestTCS NQT Mock TestRBI Assistant Mock TestUGC NET Commerce Mock TestIBPS SO Mock TestHaryana CET Mock TestNIMCET Mock TestMAH MBA CET Mock TestCUET Chemistry Mock TestNEET Mock TestIBPS PO Mock TestAFCAT Mock TestTCS Mock TestIBPS RRB PO Mock TestREET Test SeriesCAT Exam Mock TestESIC SSO Mock TestIndian Army GD Mock TestCUET Economics Mock TestUGC NET English Mock TestIB Security Assistant Mock TestJEE Main Mock TestIBPS Clerk Mock TestRRB Group D Mock TestCDS Mock TestSSC Stenographer Mock TestRRB NTPC Mock TestCUET Maths Mock TestInfosys Mock TestUPPCL Executive Assistant Mock TestCUET History Mock TestCUET Political Science Mock TestCSIR NET Life Science Mock TestTestbook Edu Solutions Pvt. Ltd.  2nd Floor, Plot No. 4, Minarch Tower, Sector-44, Gurgaon, Haryana, India, 122003 [email protected]Toll Free:1800 203 0577Office Hours: 10 AM to 7 PM (all 7 days)CompanyAbout usCareers  We are hiringTeach Online on TestbookMediaSitemapProductsTest SeriesLive Tests and QuizzesTestbook PassOnline VideosPracticeLive ClassesBlogRefer & EarnBooks Exam Calendar GK & CA Teacher Training ProgramDoubtsHire from SkillAcademyOur AppFollow us onCopyright © 2014-2024 Testbook Edu Solutions Pvt. Ltd.: All rights reservedUser PolicyTermsPrivacy
+
+
+
+

@@ -1,0 +1,472 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5: Calculus of Variations - Physics LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+Variational Principles in Classical Mechanics (Cline)Classical Mechanics{ "5.01:_Introduction_to_the_Calculus_of_Variations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.02:_Eulers_Differential_Equation" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.03:_Applications_of_Eulers_Equation" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.04:_Selection_of_the_Independent_Variable" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.05:_Functions_with_Several_Independent_Variables" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.06:_Eulers_Integral_Equation" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.07:_Constrained_Variational_Systems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.08:_Generalized_coordinates_in_Variational_Calculus" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.09:_Lagrange_multipliers_for_Holonomic_Constraints" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.10:_Geodesic" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.11:_Variational_Approach_to_Classical_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.E:_Calculus_of_Variations_(Exercises)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "5.S:_Calculus_of_Variations_(Summary)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "01:_A_brief_History_of_Classical_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02:_Review_of_Newtonian_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03:_Linear_Oscillators" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04:_Nonlinear_Systems_and_Chaos" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05:_Calculus_of_Variations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "06:_Lagrangian_Dynamics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "07:_Symmetries_Invariance_and_the_Hamiltonian" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "08:_Hamiltonian_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "09:_Hamilton\'s_Action_Principle" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Nonconservative_Systems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_Conservative_two-body_Central_Forces" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_Non-inertial_Reference_Frames" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "13:_Rigid-body_Rotation" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "14:_Coupled_Linear_Oscillators" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "15:_Advanced_Hamiltonian_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16:_Analytical_Formulations_for_Continuous_Systems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "17:_Relativistic_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "18:_The_Transition_to_Quantum_Physics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "19:_Mathematical_Methods_for_Classical_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "Classical_Mechanics_(Dourmashkin)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Classical_Mechanics_(Tatum)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Essential_Graduate_Physics_-_Classical_Mechanics_(Likharev)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Graduate_Classical_Mechanics_(Fowler)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Variational_Principles_in_Classical_Mechanics_(Cline)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Sun, 14 Mar 2021 17:23:48 GMT5: Calculus of Variations95929592admin{ }AnonymousAnonymous2falsefalse[ "article:topic-guide", "calculus of variations", "authorname:dcline", "license:ccbyncsa", "showtoc:no", "licenseversion:40", "source@http://classicalmechanics.lib.rochester.edu" ][ "article:topic-guide", "calculus of variations", "authorname:dcline", "license:ccbyncsa", "showtoc:no", "licenseversion:40", "source@http://classicalmechanics.lib.rochester.edu" ]https://phys.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fphys.libretexts.org%2FBookshelves%2FClassical_Mechanics%2FVariational_Principles_in_Classical_Mechanics_(Cline)%2F05%253A_Calculus_of_Variations
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Classical Mechanics
+                            
+
+
+
+
+                                    Variational Principles in Classical Mechanics (Cline)
+                            
+
+
+
+                            5: Calculus of Variations
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        5: Calculus of Variations
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID9592
+
+
+
+
+Douglas ClineUniversity of Rochester
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+No headers
+
+
+
+The prior chapters have focussed on the intuitive Newtonian approach to classical mechanics, which is based on vector quantities like force, momentum, and acceleration. Newtonian mechanics leads to second-order differential equations of motion. The calculus of variations underlies a powerful alternative approach to classical mechanics that is based on identifying the path that minimizes an integral quantity. This integral variational approach was first championed by Gottfried Wilhelm Leibniz, contemporaneously with Newton’s development of the differential approach to classical mechanics.
+
+5.1: Introduction to the Calculus of VariationsDuring the  18th  century, Bernoulli, who was a student of Leibniz, developed the field of variational calculus which underlies the integral variational approach to mechanics. He solved the brachistochrone problem which involves finding the path for which the transit time between two points is the shortest.5.2: Euler’s Differential EquationThe calculus of variations, presented here, underlies the powerful variational approaches that were developed for classical mechanics. Variational calculus, developed for classical mechanics, now has become an essential approach to many other disciplines in science, engineering, economics, and medicine.5.3: Applications of Euler’s EquationThe Brachistochrone problem involves finding the path having the minimum transit time between two points. The Brachistochrone problem stimulated the development of the calculus of variations by John Bernoulli and Euler.5.4: Selection of the Independent VariableA wide selection of variables can be chosen as the independent variable for variational calculus. Selecting which variable to use as the independent variable does not change the physics of a problem, but some selections can simplify the mathematics for obtaining an analytic solution. The following example of a cylindrically-symmetric soap-bubble surface formed by blowing a soap bubble that stretches between two circular hoops, illustrates the importance of the independent variable.5.5: Functions with Several Independent VariablesThe discussion has focussed on systems having only a single function  y(x)  such that the functional is an extremum. It is more common to have a functional that is dependent upon several independent variables  f[y1(x),y′1(x),y2(x),y′2(x),....;x].5.6: Euler’s Integral EquationAn integral form of the Euler differential equation can be written which is useful for cases when the function  f  does not depend explicitly on the independent variable  x.5.7: Constrained Variational SystemsHolonomic constraints couple coordinates for the system.5.8: Generalized coordinates in Variational CalculusGeneralized coordinates allow embedding constraint forces which simplifies the solution.5.9: Lagrange multipliers for Holonomic ConstraintsThe Lagrange multiplier technique provides a powerful, and elegant, way to handle holonomic constraints using Euler’s equations. The general method of Lagrange multipliers for  n  variables, with  m  constraints, is best introduced using Bernoulli’s ingenious exploitation of virtual infinitessimal displacements, which Lagrange signified by the symbol  δ.5.10: GeodesicThe geodesic is defined as the shortest path between two fixed points for motion that is constrained to lie on a surface. Variational calculus provides a powerful approach for determining the equations of motion constrained to follow a geodesic.5.11: Variational Approach to Classical MechanicsThis chapter illustrates that variational principles provide a means of deriving more detailed information, such as the trajectories for the motion between given initial and final conditions, by requiring that scalar functionals have extrema values. For example, the solution of the brachistochrone problem determined the trajectory having the minimum transit time, based on only the magnitudes of the kinetic and gravitational potential energies.5.E: Calculus of Variations (Exercises)5.S: Calculus of Variations (Summary)
+
+Thumbnail: Minimizing function and trial functions. (CC BY-SA 2.5; Banerjee).
+
+This page titled 5: Calculus of Variations is shared under a CC BY-NC-SA  4.0  license and was authored, remixed, and/or curated by Douglas Cline via source content that was edited to the style and standards of the LibreTexts platform; a detailed edit history is available upon request.
+
+
+
+
+
+
+
+Back to top
+
+
+4.S: Nonlinear Systems and Chaos (Summary)
+
+
+5.1: Introduction to the Calculus of Variations
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Chapter
+
+
+Author
+Douglas Cline
+
+
+License
+CC BY-NC-SA
+
+
+License Version
+4.0
+
+
+Show TOC
+no
+
+
+
+Tags
+
+
+ calculus of variations
+ source@http://classicalmechanics.lib.rochester.edu
+
+
+
+
+
+
+
+
+
+
+© Copyright 2024 Physics LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

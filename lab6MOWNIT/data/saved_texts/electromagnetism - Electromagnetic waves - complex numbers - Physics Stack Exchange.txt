@@ -1,0 +1,1253 @@
+
+
+
+
+electromagnetism - Electromagnetic waves - complex numbers - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+Electromagnetic waves - complex numbers
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+3 years, 10 months ago
+
+
+Modified
+3 years, 10 months ago
+
+
+Viewed
+                        5k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+The solution for the wave equation for the electric field is generally: $$\vec{E} = E_0 e^{i(\vec{k}\cdot\vec{r} - \omega t)} $$
+My question is about the complex part, why do we use complex numbers? Why isn't it described by a cosine function without an imaginary part? Is it only out of comfort, making phase shifts more easy to deal with? From a mathematical perspective, we can describe functions using Fourier analysis, constructing waves using sum of exponents with different frequencies, but how does that apply to a real world wave? It is something I generally struggle with, understanding the place complex numbers have in physics in different topics, but I see the imaginary part mainly deals with the phases and I was wondering if it is here for the same reason.
+
+
+
+
+electromagnetismwaveselectromagnetic-radiationcomplex-numbers
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jul 18, 2020 at 18:06
+
+
+
+
+
+
+Qmechanic♦
+
+205k4747 gold badges560560 silver badges2.3k2.3k bronze badges
+
+
+
+
+
+
+
+
+            asked Jul 18, 2020 at 18:00
+
+
+
+
+
+
+DarkeninDarkenin
+
+1,02899 silver badges2222 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+More on E&M and complex numbers.
+$\endgroup$
+
+– Qmechanic
+♦ 
+Jul 18, 2020 at 18:08
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        3 Answers
+                                    3
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+The electric field is actually a real quantity. The complex notation is just a mathematical trick, we use to simplify the calculations. This trick is fine  as long as we are dealing with linear systems, where the fields are multiplied by scalar numbers or added to scalar numbers. Once we leave this regime and calculate e.g. intensities $I\propto |E|^2$, we should convert the electric field to a real number before doing the calculation. E.g. the plane wave
+$$
+E = E_0 e^{i(kx - wt)}
+$$
+would yields $|E|^2 = |E_0|^2$ irrespectively of position and time, while
+$$
+|\Re\{E\}|^2 = |E_0|^2 \cos^2(kx - wt)
+$$
+accounts for the oscillations.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 18, 2020 at 19:15
+
+
+
+
+
+
+SemoiSemoi
+
+8,88811 gold badge1414 silver badges3535 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+The reason complex numbers are used to describe oscillatory quantities in Physics is a mixture of convenience, compactness, and generality. It's usually easier to do math with complex exponentials than it is with trigonometric functions, and it looks more concise. It's also more abstract than using sines and cosines and a lot more general.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 18, 2020 at 18:55
+
+
+
+
+
+
+YejusYejus
+
+2,10655 silver badges1616 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+The complex number notation naturally lends itself to describing the oscillatory behavior of the EM wave. It's also convenient to use in other contexts like acoustics that deal with wave behavior.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Jul 18, 2020 at 18:08
+
+
+
+
+
+
+niels nielsenniels nielsen
+
+94.5k1818 gold badges133133 silver badges244244 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to Physics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged electromagnetismwaveselectromagnetic-radiationcomplex-numbers or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+-1
+
+What is the use of $i=\sqrt{-1}$ in plane wave equation?
+
+
+
+
+Related
+
+
+
+3
+
+Deriving the group velocity of a wave produced by some basic cosine waves with unequal amplitudes
+
+
+
+18
+
+What is the physical significance of the imaginary part when plane waves are represented as $e^{i(kx-\omega t)}$?
+
+
+
+4
+
+Complex vectors: Electric and Magnetic Fields
+
+
+
+2
+
+How are complex number being treated in physics?
+
+
+
+3
+
+Are the equations of the Poynting vector and energy density of an electromagnetic wave only for the real waves?
+
+
+
+0
+
+Graphical interpretation of complex electric fields
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Ubuntu Terminal with alternating colours for each line
+                
+
+
+
+                    How to explain Hazard Ratio in layman‘s terms
+                
+
+
+
+                    Geometry Nodes - Fill Quadrilaterals That Intersect
+                
+
+
+
+                    70s or 80s film or TV show with a handgun that fires backwards and a torture chamber that burns the skin off and chars the victims black
+                
+
+
+
+                    Is a Poisson minus a constant still a Poisson?
+                
+
+
+
+                    Starlink Satellite Orbits
+                
+
+
+
+                    Does it make sense for giants to use clubs or swords when fighting non-giants?
+                
+
+
+
+                    Why Did The Drywall Tape Fail in My Garage? And How Can I Fix It?
+                
+
+
+
+                    Why are ETFs so bad at tracking Japanese indices?
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    How to negotiate such toxic competitiveness during my master’s studies?
+                
+
+
+
+                    How to use 'awkward' as an adjective in Chinese
+                
+
+
+
+                    MOSFET driver: Totem Pole or NPN Self-Biasing Turn-Off Circuit
+                
+
+
+
+                    What is the origin of the idiom "say the word"?
+                
+
+
+
+                    What happens to the souls of non-evil creatures when they reach their aligned outer plane?
+                
+
+
+
+                    How do Authenticators work?
+                
+
+
+
+                    Examples of systems with infinite dimensional Hilbert space, whose energy is bounded from above
+                
+
+
+
+                    Why are we abbreviating Player's Handbook to PHB?
+                
+
+
+
+                    What's the difference between cryogenic and Liquid propellant?
+                
+
+
+
+                    Should I remove young tomato's first flowers?
+                
+
+
+
+                    What happens when you target a dead creature with Scrying?
+                
+
+
+
+                    PolynomialQ behaviour
+                
+
+
+
+                    Found possible instance of plagiarism in joint review paper and PhD thesis of high profile collaborator, what to do?
+                
+
+
+
+                    Was it known in ancient Rome and Greece that boiling water made it safe to drink and if so, what was the theory behind this?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

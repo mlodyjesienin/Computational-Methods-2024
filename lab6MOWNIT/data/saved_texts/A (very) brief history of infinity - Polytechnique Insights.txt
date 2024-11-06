@@ -1,0 +1,867 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A (very) brief history of infinity - Polytechnique Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FR
+
+
+EN
+
+
+
+
+
+
+
+
+Polytechnique insights
+A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
+
+
+
+
+
+
+
+
+Columns
+
+
+Braincamps
+
+
+
+
+
+
+
+FR
+
+
+EN
+
+
+
+
+
+
+Sign up for the newsletter
+
+
+
+
+
+Subscribe to our weekly newsletter
+
+
+
+
+
+
+I have read and accepted the privacy policy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Planet
+				
+
+
+
+π Energy
+				
+
+
+
+π Health and biotech
+				
+
+
+
+π Digital
+				
+
+
+
+π Space
+				
+
+
+
+π Economics
+				
+
+
+
+π Industry
+				
+
+
+
+π Science and technology
+				
+
+
+
+π Society
+				
+
+
+
+π Geopolitics
+				
+
+
+
+π Neuroscience
+				
+
+
+
+π Videos
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polytechnique insights
+A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Share
+				
+
+
+
+
+
+
+
+
+
+
+
+
+ Copié !
+
+
+
+
+
+
+Subscribe to our weekly newsletter
+
+
+
+Newsletter
+
+
+
+Subscribe to our weekly newsletter
+
+
+									Valider
+								
+
+
+
+
+									I have read and accepted the privacy policy.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home / Chroniques / A (very) brief history of infinity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			On the same topic:
+        
+
+
+
+						How humans will live on the Moon
+                    
+
+
+
+						Scouring Mars for answers to life on Earth
+                    
+
+
+
+						Seeking out life forms on Jupiter’s moons
+                    
+
+
+
+
+
+
+
+
+
+
+
+π Space
+										
+
+
+							A (very) brief history of infinity
+							
+
+
+On February 23rd, 2022
+
+
+
+4 min reading time
+
+
+
+
+
+
+
+
+
+
+
+
+Pierre Henriquet
+ Doctor in Nuclear Physics and Columnist at Polytechnique Insights
+
+
+
+
+
+
+
+
+Key takeaways 
+
+
+Infinity is a mathematical concept originating from Zeno of Elia (~450 BC) who tried to show its “physical” impossibility. This resulted in the “arrow paradox”, but which was solved later on.
+Many mathematicians and physicists went on to try understanding infinity and to explain it by various theories and experiments.
+Georg Cantor went further than anyone else by asking a simple question: can we compare two sets of infinite numbers? Can one be “bigger” than the other?
+His method consists of pairing an element of the first set with an element of the second. If each element finds its partner and none remains alone (this is called a bijection), then we can say that the two sets are equal.
+The Von Koch flake is constructed by adding a triangle on each edge of the previous figure and has an infinite perimeter.
+
+
+
+
+Once con­sid­ered as a sacred con­cept (only God is infi­nite) or a meta­phys­i­cal one (the human mind will nev­er be able to entire­ly con­ceive it), infin­i­ty has since entered the domain of sci­ence and tech­nol­o­gy. Today, we mea­sure it, com­pare it, study it, and use it almost like a nor­mal number.
+But what is infin­i­ty? And how did we learn to tame it?
+An old story
+It seems that ques­tions about infin­i­ty are almost as old as human­i­ty. Unfor­tu­nate­ly, the writ­ings that attest to this are all the rar­er because they are old. We know that the philoso­phers of the first mil­len­ni­um B.C. were already won­der­ing about the amaz­ing prop­er­ties of infinity.
+But is infin­i­ty only a con­cept? A weird idea that math­e­mati­cians play with? Or does it have a con­nec­tion with the world around us? Is any­thing real­ly infi­nite?
+For Anax­i­man­der, infin­i­ty is the found­ing prin­ci­ple of real­i­ty. From it are born an infi­nite num­ber of worlds that fill the vol­ume of the Uni­verse. For Her­a­cli­tus, on the oth­er hand, it is time that is infi­nite. It has always been and will always be. It is through infin­i­ty that we per­ceive our own existence.
+Of course, none of these state­ments are sup­port­ed by an “exper­i­ment” or a “mea­sure­ment” by cur­rent sci­en­tif­ic stan­dards. It is more a philo­soph­i­cal posi­tion that dif­fer­en­ti­ates one school of thought from another.
+From mathematics to physics
+Of course, infin­i­ty is first and fore­most a math­e­mat­i­cal con­cept. And it is math­e­mati­cians who took it upon them­selves to observe it a lit­tle clos­er. Zeno of Elia (~450 BC) tried to show the “phys­i­cal” impos­si­bil­i­ty of infin­i­ty, not by mea­sur­ing it but by using it to divide things into small­er and small­er elements.
+The result is his famous “arrow para­dox” that, accord­ing to him, should nev­er be able to hit its tar­get. Indeed, one can always divide its remain­ing path by two and there will always remain a por­tion of path to cov­er (1/2, 1/4, 1/8, 1/16, 1/32), ad infini­tum.
+Since it takes an infi­nite num­ber of steps to cross the dis­tance between the bow and the tar­get, Zeno con­clud­ed that it was impos­si­ble for the arrow to reach its des­ti­na­tion in a finite time.
+How­ev­er, this para­dox was solved much lat­er by one of the branch­es of math­e­mat­ics that stud­ies infi­nite sums of num­bers: the series.
+Adding 1/2+ 1/4+ 1/8+ 1/16+… is like adding 1/2+ 1/22+ 1/23+ 1/24+…
+This series is called a geo­met­ric series. It is writ­ten in the form: 
+
+Its res­o­lu­tion is very sim­ple. When n tends to infin­i­ty, the val­ue of this sum tends nat­u­ral­ly to 1.
+A schemat­ic res­o­lu­tion is even sim­pler. In the fig­ure below, we can intu­itive­ly see that, to fill a square with side 1, we must add the ele­ments whose area cor­re­sponds exact­ly to the series above it.
+The geo­met­ric series 12n fills a square of side (and area) equal to 1
+What Zeno was miss­ing was the coun­ter­in­tu­itive result that the sum of an infi­nite num­ber of num­bers does not always give an infi­nite result.
+In oth­er words, it is not because the tra­jec­to­ry of the arrow can be decom­posed into an infi­nite num­ber that the time it will take to cov­er them will be infi­nite. Para­dox solved. The arrows can now reach their tar­get with com­plete peace of mind.
+Lat­er, Isaac New­ton per­fect­ed the art of mea­sur­ing arbi­trar­i­ly small val­ues by devel­op­ing infin­i­tes­i­mal cal­cu­lus. This led to the famous deriv­a­tives (and inte­gers) which math­e­mat­ics, but also mod­ern physics, could not do with­out today to describe and under­stand the world.
+Comparing infinities
+There is no need to under­stand or visu­alise infin­i­ty to use it. In the end, infin­i­ty is just a tool among many oth­ers that math­e­mat­ics puts at our dis­pos­al to mea­sure, cal­cu­late and under­stand our environment.
+But a Ger­man math­e­mati­cian from the end of the 19th Cen­tu­ry went much fur­ther than any­one else at the time to manip­u­late infin­i­ty, or more pre­cise­ly infi­nite sets.
+Georg Can­tor asked him­self a sim­ple ques­tion: can we com­pare two infi­nite sets? Can one be “big­ger” than the other?
+His answer lies in the way he com­pares two sets: instead of count­ing the num­ber of ele­ments of the lat­ter and com­par­ing them (which can­not be done with an infi­nite set), the method con­sists in try­ing to match an ele­ment of the first set with an ele­ment of the sec­ond. If each ele­ment finds its part­ner and none remains alone (we call this a bijec­tion), we can then say that the two sets are equal. And this method applies to both finite and infi­nite sets.
+The two sets A and B are the same size because there is at least one way to match each ele­ment of A with an ele­ment of B (bijec­tion).
+This is how we can prove that the size of the (infi­nite) set of pos­i­tive inte­gers is strict­ly equal to that of the set of inte­gers (pos­i­tive and negative).
+What’s more, we can also show that, although there are infi­nite­ly many frac­tions between two inte­gers, the size of the set of inte­gers is strict­ly equal to the size of the set of num­bers that are writ­ten as frac­tions. How­ev­er, it has also been proven that the set of real num­bers (all num­bers writ­ten with a dec­i­mal point and a finite or infi­nite num­ber of dec­i­mal places) is strict­ly larg­er than the set of integers.
+As counter-intu­itive as it may seem, two dif­fer­ent infini­ties can have the same size, but, con­verse­ly, not all infini­ties are equal.
+Impossible geometries
+Can we draw fig­ures with infi­nite parameters?
+Besides the cir­cle (which can be con­sid­ered as a poly­gon with an infi­nite num­ber of sides), oth­er strange fig­ures start­ed to emerge dur­ing the sec­ond half of the 20th Cen­tu­ry: fractals.
+One way to cre­ate them is to build them by iter­a­tion, step by step. After an infi­nite num­ber of steps, the fig­ure is fin­ished, and we can study its prop­er­ties. The Von Koch flake, for exam­ple, is an extra­or­di­nary fig­ure: although its sur­face is finite, its perime­ter is infinite.
+The Von Koch flake is con­struct­ed by adding a tri­an­gle on each edge of the pre­vi­ous fig­ure – up to infinity
+This kind of geom­e­try has been suc­cess­ful­ly applied in the field of telecom­mu­ni­ca­tions. Since the end of the 80’s, frac­tal anten­nas have been devel­oped, whose length, if not infi­nite, is very large, but whose vol­ume remains small, which allows to obtain com­pact and effi­cient systems.
+
+
+
+Contributors
+
+
+
+
+
+
+
+
+Pierre Henriquet
+ Doctor in Nuclear Physics and Columnist at Polytechnique Insights
+
+
+
+
+After a doctorate in Nuclear Physics applied to Medicine and a university degree in Astronomy/Astrophysics, Pierre Henriquet worked for 10 years at the Planetarium of the city of Vaulx-en-Velin where he perfected his talents as a science communicator with multiple audiences, both novices and specialists. Today, he is a freelance writer and mediator of science.
+
+
+Other contributions
+
+Quantum, the indispensable ally of modern medicine
+Health, tech, space: quantum technology is already benefiting many sectors
+Quantum physics has already changed the world
+Space industry: what are the scientific and geopolitical challenges for Europe?
+Voyage to Mars: myth or reality?
+
+Voir toutes ses contributions
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+											More on this topic
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Planet
+                                                
+
+π Space
+                                                
+
+
+                                        How to monitor climate change from space
+                                    
+
+                                                                             Cyril Crevoisier,  CNRS Research Director at the Dynamic Meteorology Laboratory (LMD*) at the École Polytechnique (IP Paris)
+
+
+On December 15th, 2021
+
+
+
+4 min reading time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Space
+                                                
+
+π Science and technology
+                                                
+
+
+                                        Plasma: a future fuel for satellites 
+                                    
+
+                                                                             Pascal Chabert,  CNRS Research Director at the Plasma Physics Laboratory (LPP*) and Lecturer at École Polytechnique (IP Paris)
+
+
+On December 6th, 2022
+
+
+
+3 min reading time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Space
+                                                
+
+
+                                        What are the risks of space for humans?
+                                    
+
+                                                                             Pierre Henriquet,  Doctor in Nuclear Physics and Columnist at Polytechnique Insights
+
+
+On November 30th, 2022
+
+
+
+6 min reading time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Science and technology
+                                                
+
+π Space
+                                                
+
+
+                                        Detecting life on other planets with lasers
+                                    
+
+                                                                             Ricardo Arévalo,  Associate Professor at the University of Maryland
+
+
+On May 31st, 2023
+
+
+
+4 min reading time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Space
+                                                
+
+π Economics
+                                                
+
+
+                                        New Space: the changing face of the space industry
+                                    
+
+                                                                             Pierre Henriquet,  Doctor in Nuclear Physics and Columnist at Polytechnique Insights
+
+
+On November 3rd, 2022
+
+
+
+5 min reading time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our weekly newsletter
+
+
+Subscribe to our weekly newsletter
+
+
+
+
+
+
+
+
+
+
+                        I have read and accepted the privacy policy.
+                    
+
+
+
+
+
+
+
+
+
+Our selection of braincamps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Space
+                                                
+
+π Science and technology
+                                                
+
+
+Satellites, black holes, exoplanets: when science extends beyond our planet
+
+6                                              episodes
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Space
+                                                
+
+π Science and technology
+                                                
+
+π Energy
+                                                
+
+
+The challenges of extraterrestrial mining
+
+3                                              episodes
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π Space
+                                                
+
+
+How Space telescopes unravel the mysteries of the cosmos
+
+3                                              episodes
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About us
+
+
+Sponsors
+
+
+Contributors
+
+
+Legal notices
+
+
+Contact
+
+
+
+Cookie Settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our world explained with science. Every week, in your inbox.
+Get the newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

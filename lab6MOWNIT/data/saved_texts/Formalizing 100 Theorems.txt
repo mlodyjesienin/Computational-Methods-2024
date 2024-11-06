@@ -1,0 +1,1142 @@
+
+
+
+
+
+
+Formalizing 100 Theorems
+
+
+
+Formalizing 100 Theorems
+
+There used to exist a "top 100" of mathematical theorems on the web,
+which is a rather arbitrary list (and most of the theorems seem rather
+elementary), but still is nice to look at.
+On the current page I will keep track of which theorems from this list
+have been formalized.
+Currently the fraction that already has been formalized seems to be
+
+
+
+99%
+
+
+
+The page does not keep track of all formalizations of these theorems.
+It just shows formalizations in systems that have formalized a significant number of theorems,
+or that have formalized a theorem that none of the others have done.
+The systems that this page refers to are (in order of the number of
+theorems that have been formalized, so the more
+interesting systems for mathematics are near the top):
+
+
+
+Isabelle 90
+HOL Light 87
+Coq 79
+Lean 76
+Metamath 74
+Mizar 69
+nqthm/ACL2 45
+ProofPower 43
+PVS 26
+Megalodon 12
+Naproche 10
+NuPRL/MetaPRL 8
+
+
+
+Theorems in the list which have not been formalized yet
+are in italics.
+Formalizations of constructive proofs are in italics too.
+The difficult proofs in the list (according to John all the others
+are not a serious challenge "given a week or two") have been underlined.
+The formalizations under a theorem are in the order of the list of systems,
+and not in chronological order.
+
+
+The List
+
+
+The Irrationality of the Square Root of 2
+
+Isabelle, Markus Wenzel: statement
+HOL Light, John Harrison: statement
+Coq, contrib, many versions: statement
+Lean, mathlib: statement
+Metamath, Norman Megill: statement
+Mizar, Freek Wiedijk: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+PVS, Bart Jacobs & John Rushby
+Megalodon: statement
+Naproche, Peter Koepke, Mateusz Marcol & Patrick Schäfer
+NuPRL, Stuart Allen, Paul Jackson
+
+
+Fundamental Theorem of Algebra
+
+Isabelle, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, C-CoRN, Herman Geuvers et al.: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Robert Milewski: statement
+ACL2, Ruben Gamboa & John Cowles
+ProofPower, Rob Arthan: statement
+PVS, Anthony Narkawicz
+
+
+The Denumerability of the Rational Numbers
+
+Isabelle, Stefan Richter & Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Yves Bertot & Milad Niqui: statement
+Lean, Chris Hughes: statement
+Metamath, revised by Mario Carneiro: statement
+Mizar, Grzegorz Bancerek: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, Jerry James
+Megalodon: statement
+NuPRL, Stuart Allen
+
+
+Pythagorean Theorem
+
+Isabelle, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Joseph Myers: statement
+Metamath, Norman Megill: statement
+Mizar, Akihiro Kubo & Yatsuka Nakamura: statement
+ProofPower, Rob Arthan: statement
+PVS, NASA library, David Lester
+
+
+Prime Number Theorem
+
+Isabelle, Jeremy Avigad et al.: statement
+HOL Light, John Harrison: statement
+Metamath, Mario Carneiro: statement
+
+
+Gödel's Incompleteness Theorem
+
+Isabelle, Larry Paulson: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Russell O'Connor: statement
+nqthm, Natarajan Shankar
+
+
+Law of Quadratic Reciprocity
+
+Isabelle, Jeremy Avigad et al.: statement
+HOL Light, John Harrison: statement
+Coq, Nathanaël Courant: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Li Yan & Xiquan Liang & Junjie Zhao: statement
+nqthm, David M. Russinoff
+
+
+The Impossibility of Trisecting the Angle and Doubling the Cube
+
+Isabelle, Ralph Romanos & Larry Paulson: statement
+HOL Light, John Harrison: statements
+
+
+The Area of a Circle
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statements
+Lean, James Arthur & Benjamin Davidson & Andrew Souther: statement
+Metamath, Brendan Leahy: statement
+ACL2, Jagadish Bapanapally
+ProofPower, Rob Arthan: statement
+
+
+Euler's Generalization of Fermat's Little Theorem
+
+Isabelle, Thomas M. Rasmussen, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Yoshinori Fujisawa & Yasushi Fuwa & Hidetaka Shimizu: statement
+ACL2, David M. Russinoff
+
+
+The Infinitude of Primes
+
+Isabelle, Jacques D. Fleuriot: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, Russell O'Connor: statement
+Lean, Jeremy Avigad: statement
+Metamath, Norman Megill: statement
+Mizar, Rafal Kwiatek: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler
+Megalodon: statement
+Naproche, Peter Koepke
+
+
+The Independence of the Parallel Postulate
+
+Isabelle, Tim Makarios: statement
+HOL Light, John Harrison: statement
+
+
+Polyhedron Formula
+
+Isabelle, Larry Paulson: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Jean-François Dufourd: statement
+Mizar, Jesse Alama: statement
+
+
+Euler's Summation of 1 + (1/2)^2 + (1/3)^2 + ....
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, Jean-Marie Madiot: statement
+Lean, Marc Masdeu: statement
+Metamath, Mario Carneiro: statement
+Mizar, Karol Pak & Artur Kornilowicz: statement
+
+
+Fundamental Theorem of Integral Calculus
+
+Isabelle, Jacques D. Fleuriot: statement
+HOL Light, John Harrison: statement
+Coq, C-CoRN, Luís Cruz-Filipe: statement
+Lean, Yury G. Kudryashov (first) and Benjamin Davidson (second): statement
+Metamath, Mario Carneiro: statement
+Mizar, Noboru Endou & Katsumi Wasaki & Yasunari Shidama: statement
+ACL2, Matt Kaufmann
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler
+
+
+Insolvability of General Higher Degree Equations
+
+Coq, Sophie Bernard & Cyril Cohen & Assia Mahboubi & Pierre-Yves Strub, statement
+Lean, Thomas Browning: statement
+
+
+De Moivre's Theorem
+
+Isabelle, Jacques D. Fleuriot: statements
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Abhimanyu Pallavi Sudhir: statement
+Metamath, Steve Rodriguez: statement
+Mizar, Takashi Mitsuishi & Noboru Endou & Keiji Ohkubo: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+
+
+Liouville's Theorem and the Construction of Transcendental Numbers
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statements
+Coq, C-CoRN, Valentin Blot: statement
+Lean, Jujian Zhang: statement
+Metamath, Stefan O'Rear: statement
+Mizar, Artur Kornilowicz, Adam Naumowicz & Adam Grabowski: statement
+
+
+Four Squares Theorem
+
+Isabelle, Roelof Oosterhuis: statement
+HOL Light, John Harrison: statement
+Coq, Guillaume Allais & Jean-Marie Madiot: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Yasushige Watase: statement
+ACL2, David M. Russinoff
+PVS, Anthony Narkawicz
+
+
+All Primes (1 mod 4) Equal the Sum of Two Squares
+
+Isabelle, Roelof Oosterhuis: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, Anthony Narkawicz
+
+
+Green's Theorem
+
+Isabelle, Mohammad Abdulaziz & Larry Paulson: statement
+
+
+The Non-Denumerability of the Continuum
+
+Isabelle, Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, C-CoRN: statement
+Lean, Floris van Doorn: statement
+Metamath, Norman Megill: statement
+Mizar, Grzegorz Bancerek: statement
+ACL2, Ruben Gamboa & John Cowles
+ProofPower, Rob Arthan: statement
+PVS, Clément Blaudeau
+Megalodon: statement
+
+
+Formula for Pythagorean Triples
+
+Isabelle, Roelof Oosterhuis: statement
+HOL Light, John Harrison: statement
+Coq, contrib, David Delahaye: statement
+Lean, Paul van Wamelen: statement
+Metamath, Scott Fenton: statement
+Mizar, Freek Wiedijk: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+
+
+The Undecidability of the Continuum Hypothesis
+
+Isabelle, Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf & Matías Steinberg: statement
+Lean, Jesse Han & Floris van Doorn: statement
+
+
+Schroeder-Bernstein Theorem
+
+Isabelle, Tobias Nipkow: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Hugo Herbelin: statement
+Lean, Mario Carneiro: statement
+Metamath, Norman Megill and Jim Kingdon: statement
+Mizar, Piotr Rudnicki & Andrzej Trybulec: statement
+ACL2, Grant Jurgensen
+ProofPower, Rob Arthan: statement
+Megalodon: statement
+Naproche, Peter Koepke & Marcel Schütz
+
+
+Leibniz's Series for Pi
+
+Isabelle, Johannes Hoelzl: statement
+HOL Light, John Harrison: statement
+Coq, standard library & C-CoRN, Luís Cruz-Filipe: statement
+Lean, Benjamin Davidson: statement
+Metamath, Mario Carneiro: statement
+Mizar, Karol Pak: statement
+PVS, NASA library, David Lester
+
+
+Sum of the Angles of a Triangle
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Joseph Myers: statement
+Metamath, Mario Carneiro: statement
+Mizar, Wenpai Chang, Yatsuka Nakamura & Piotr Rudnicki: statement
+
+
+Pascal's Hexagon Theorem
+
+HOL Light, John Harrison: statement
+Coq, Nicolas Magaud & Julien Narboux: statement
+Mizar, Roland Coghetto: statement
+
+
+Feuerbach's Theorem
+
+HOL Light, John Harrison: statement
+Coq, not in contribs, CertiGeo team: statement
+
+
+The Ballot Problem
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, Jean-Marie Madiot: statement
+Lean, Bhavik Mehta, Kexing Ying: statement
+Metamath, Thierry Arnoux: statement
+Mizar, Karol Pak: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+
+
+Ramsey's Theorem
+
+Isabelle, Tom Ridge: statement
+HOL Light, John Harrison: statement
+Coq, Frédéric Blanqui: statement
+Lean, Bhavik Mehta: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+ProofPower, Rob Arthan & Roger Bishop Jones: statement
+nqthm, Matt Kaufmann
+PVS, NASA library, Natarajan Shankar
+Megalodon: statement
+NuPRL, David Basin
+
+
+The Four Color Problem
+
+Coq, not in contribs, Georges Gonthier: statement
+
+
+Fermat's Last Theorem
+Divergence of the Harmonic Series
+
+Isabelle, Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Anatole Dedecker: statement
+Metamath, Mario Carneiro: statement
+Mizar, Konrad Raczkowski & Andrzej Nedzusiak: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, Greg Anderson
+
+
+Taylor's Theorem
+
+Isabelle, Jacques D. Fleuriot & Lukas Bulwahn & Bernhard Häupler: statement
+HOL Light, John Harrison: statement
+Coq, C-CoRN, Luís Cruz-Filipe: statement
+Lean, Moritz Doll: statement
+Metamath, Mario Carneiro: statement
+Mizar, Yasunari Shidama: statement
+ACL2, Ruben Gamboa & Brittany Middleton & Jun Sawada
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler
+
+
+Brouwer Fixed Point Theorem
+
+Isabelle, Robert Himmelmann: statement
+HOL Light, John Harrison: statement
+Lean, Brendan Seamas Murphy: statement
+Mizar, Karol Pak: statement
+
+
+The Solution of a Cubic
+
+Isabelle, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, Frédéric Chardard: statement
+Lean, Jeoff Lee: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+
+
+Arithmetic Mean/Geometric Mean
+
+Isabelle, Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, Jean-Marie Madiot: statement
+Lean, Yury G. Kudryashov: statement
+Metamath, Mario Carneiro: statement
+Mizar, Adam Grabowski: statement
+ACL2, Matt Kaufmann, Paolo Pecchiari
+ProofPower, Rob Arthan: statement
+
+
+Solutions to Pell's Equation
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Lean, Mario Carneiro and Michael Stoll: statement
+Metamath, Stefan O'Rear: statement
+Mizar, Marcin Acewicz & Karol Pak: statement
+
+
+Minkowski's Fundamental Theorem
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Lean, Alex J. Best & Yaël Dillies: statement
+ProofPower, Rob Arthan: statement
+
+
+Puiseux's Theorem
+
+Isabelle, Manuel Eberl: statement
+Coq, not yet in contrib, Daniel de Rauglaudre: statement
+
+
+Sum of the Reciprocals of the Triangular Numbers
+
+Isabelle, Iain Whiteside & Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Jalex Stark & Yury Kudryashov: statement
+Metamath, Scott Fenton: statement
+Mizar, Adam Grabowski: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+
+
+The Isoperimetric Theorem
+
+HOL Light, John Harrison: statement
+
+
+The Binomial Theorem
+
+Isabelle, Tobias Nipkow: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry: statement
+Lean, Chris Hughes: statement
+Metamath, Norman Megill: statement
+Mizar, Christoph Schwarzweller: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+NuPRL, Paul Jackson & Rich Eaton
+
+
+The Partition Theorem
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Lean, Bhavik Mehta & Aaron Anderson: statement
+Metamath, Thierry Arnoux: statement
+Mizar, Karol Pak: statement
+ACL2, David M. Russinoff
+
+
+The Solution of the General Quartic Equation
+
+Isabelle, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédéric Chardard: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+
+
+The Central Limit Theorem
+
+Isabelle, Jeremy Avigad: statement
+
+
+Dirichlet's Theorem
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Metamath, Mario Carneiro: statement
+
+
+The Cayley-Hamilton Theorem
+
+Isabelle, Stephan Adelsberger, Stefan Hetzl & Florian Pollak: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Sidi Ould Biha: statement
+Lean, Scott Morrison: statement
+Metamath, Alexander van der Vekens: statement
+
+
+The Number of Platonic Solids
+
+HOL Light, John Harrison: statement
+
+
+Wilson's Theorem
+
+Isabelle, Thomas M. Rasmussen: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+nqthm, David M. Russinoff
+ProofPower, Rob Arthan: statement
+
+
+The Number of Subsets of a Set
+
+Isabelle, Florian Kammüller: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry: statement
+Lean, mathlib: statement
+Metamath, Norman Megill: statement
+Mizar, Grzegorz Bancerek: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+Megalodon: statement
+Naproche, Patrick Schäfer
+
+
+Pi is Transcendental
+
+Isabelle, Manuel Eberl: statement
+Coq, Sophie Bernard & Laurence Rideau: statement
+
+
+Konigsberg Bridges Problem
+
+Isabelle, Wenda Li: statement
+HOL Light, John Harrison: statement
+Coq, Jean-Marie Madiot: statement
+Lean, Kyle Miller: statement
+Metamath, Mario Carneiro: statement
+Mizar, Adam Naumowicz: statement
+ACL2, David M. Russinoff
+
+
+Product of Segments of Chords
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, Loïc Pottier: statement
+Lean, Manuel Candales: statement
+Metamath, David Moews: statement
+Mizar, Marco Riccardi: statement
+
+
+The Hermite-Lindemann Transcendence Theorem
+
+Coq, Sophie Bernard: statement
+Isabelle, Manuel Eberl: statement
+
+
+Heron's Formula
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Matt Kempster: statement
+Metamath, Mario Carneiro (based on work by Jon Pennant): statement
+Mizar, Marco Riccardi: statement
+
+
+Formula for the Number of Combinations
+
+Isabelle, Larry Paulson: statement
+HOL Light, John Harrison: statement
+Coq, Pierre Letouzey: statement
+Lean, mathlib: statement
+Metamath, Mario Carneiro: statement
+Mizar, Karol Pak: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+
+
+The Laws of Large Numbers
+
+Isabelle, Manuel Eberl: statement
+Coq, Avraham Shinnar & Barry Trager: statement
+Lean, Sébastien Gouëzel: statement
+
+
+Bezout's Theorem
+
+Isabelle, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, standard library: statement
+Lean, mathlib: statement
+Metamath, Mario Carneiro: statement
+Mizar, Rafal Kwiatek: statement
+ACL2, John Cowles
+ProofPower, Rob Arthan: statement
+Megalodon: statement
+Naproche, Mateusz Marcol & Patrick Schäfer
+NuPRL, Paul Jackson & Mark Bickford
+
+
+Theorem of Ceva
+
+Isabelle, Matthias Schack Rabing: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot, Julien Narboux: statement
+Metamath, Saveliy Skresanov: statement
+Mizar, Boris A. Shminke: statement
+
+
+Fair Games Theorem
+
+Coq, Avraham Shinnar & Barry Trager: statement
+Lean, Kexing Ying: statement
+
+
+Cantor's Theorem
+
+Isabelle, Larry Paulson: statement
+HOL Light, John Harrison: statement
+Coq, Jorik Mandemaker: statement
+Lean, mathlib: statement
+Metamath, Norman Megill: statement
+Mizar, Grzegorz Bancerek: statement
+ProofPower, Rob Arthan: statement
+Megalodon: statement
+Naproche, Peter Koepke
+NuPRL, Jim Caldwell
+
+
+L'Hôpital's Rule
+
+Isabelle, Johannes Hölzl: statement
+HOL Light, John Harrison: statement
+Coq, Sylvain Dailler: statement
+Lean, Anatole Dedecker: statement
+Metamath, Mario Carneiro: statement
+Mizar, Malgorzata Korolkiewicz: statement
+ProofPower, Rob Arthan: statement
+
+
+Isosceles Triangle Theorem
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Joseph Myers: statement
+Metamath, Saveliy Skresanov: statement
+Mizar, Marco Riccardi: statement
+
+
+Sum of a Geometric Series
+
+Isabelle, Jacques D. Fleuriot: statements
+HOL Light, John Harrison: statements
+Coq, C-CoRN, Luís Cruz-Filipe: statement
+Lean, Sander R. Dahmen (finite) and Johannes Hölzl (infinite): statement
+Metamath, Norman Megill: statement
+Mizar, Konrad Raczkowski & Andrzej Nedzusiak: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler
+Naproche, Peter Koepke
+
+
+e is Transcendental
+
+Isabelle, Manuel Eberl: statement
+HOL Light, Jesse Bingham: statement
+Coq, Sophie Bernard & Laurence Rideau: statement
+Lean, Jujian Zhang: statement
+Metamath, Glauco Siliprandi: statement
+
+
+Sum of an arithmetic series
+
+Isabelle, Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, many versions: statement
+Lean, Johannes Hölzl: statement
+Metamath, Frédéric Liné: statement
+Mizar, Ming Liang & Yuzhong Ding: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Tanner Slagel
+Naproche, Peter Koepke
+
+
+Greatest Common Divisor Algorithm
+
+Isabelle, Larry Paulson: statement
+HOL Light, John Harrison: statements
+Coq, standard library: statement
+Lean, mathlib: statement
+Metamath, Paul Chapman: statement
+Mizar, Grzegorz Bancerek: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, Kai Engelhardt
+NuPRL, Paul Jackson & Rich Eaton
+Megalodon: statement
+Naproche, Mateusz Marcol & Patrick Schäfer
+
+
+The Perfect Number Theorem
+
+Isabelle, Mark IJbema: statement
+HOL Light, John Harrison: statement
+Coq, Raül Espejo Boix: statement
+Lean, Aaron Anderson: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+ACL2, David M. Russinoff
+
+
+Order of a Subgroup
+
+Isabelle, Florian Kammüller: statement
+HOL Light, John Harrison: statement
+Coq, almost C-CoRN, Dan Synek & contrib, Laurent Théry: statement
+Lean, mathlib: statement
+Metamath, Mario Carneiro: statement
+Mizar, Wojciech Trybulec: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, NASA library, David Lester
+
+
+Sylow's Theorem
+
+Isabelle, Florian Kammüller: statement
+HOL Light, Alexey Solovyev: statement
+Coq, contrib, Laurent Théry: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statements
+ACL2, David M. Russinoff
+PVS, André Galdino
+
+
+Ascending or Descending Sequences
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, Florent Hivert: statement
+Lean, Bhavik Mehta: statement
+Metamath, Mario Carneiro: statement
+Mizar, Piotr Rudnicki: statements
+ACL2, David M. Russinoff
+
+
+The Principle of Mathematical Induction
+
+Isabelle, Tobias Nipkow: statement
+HOL Light, John Harrison: statement
+Coq, standard library: statement
+Lean, Leonardo de Moura: statement
+Metamath, Norman Megill: statement
+Mizar, Grzegorz Bancerek: statement
+ProofPower, Rob Arthan: statement
+Megalodon: statement
+Naproche, Peter Koepke
+
+
+The Mean Value Theorem
+
+Isabelle, Jacques D. Fleuriot: statement
+HOL Light, John Harrison: statement
+Coq, C-CoRN, Luís Cruz-Filipe: statement
+Lean, Yury G. Kudryashov: statement
+Metamath, Mario Carneiro: statement
+Mizar, Jaroslaw Kotowicz & Konrad Raczkowski & Pawel Sadowski: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Bruno Dutertre
+
+
+Fourier Series
+
+Isabelle, Larry Paulson (after John Harrison): statement
+HOL Light, John Harrison: statement
+Lean, Heather Macbeth: statement
+Metamath, Glauco Siliprandi: statement
+
+
+Sum of kth powers
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédéric Chardard: statement
+Lean, Moritz Firsching & Fabian Kruse & Ashvni Narayanan: statement
+Metamath, Scott Fenton: statement
+
+
+The Cauchy-Schwarz Inequality
+
+Isabelle, Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, Daniel de Rauglaudre: statement
+Lean, Zhouhang Zhou: statement
+Metamath, Norman Megill: statement
+Mizar, Jaroslaw Kotowicz: statement
+ACL2, Carl Kwan
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler
+
+
+The Intermediate Value Theorem
+
+Isabelle, Jacques D. Fleuriot: statement
+HOL Light, John Harrison: statement
+Coq, C-CoRN, Herman Geuvers et al.: statement
+Lean, mathlib: statement
+Metamath, Paul Chapman: statement
+Mizar, Yatsuka Nakamura & Andrzej Trybulec: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Bruno Dutertre
+
+
+The Fundamental Theorem of Arithmetic
+
+Isabelle, Thomas M. Rasmussen: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Martijn Oostdijk: statement
+Lean, mathlib: statement
+Metamath, Paul Chapman: statement
+Mizar, Artur Korniłowicz, Piotr Rudnicki & Hiroyuki Okazaki, Yasunari Shidama: statements
+ACL2, John Cowles
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler
+Megalodon: statement
+NuPRL, Stuart Allen & Paul Jackson
+
+
+Divergence of the Prime Reciprocal Series
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Lean, Manuel Candales: statement
+Metamath, Mario Carneiro: statement
+ACL2, John Cowles & Ruben Gamboa
+ProofPower, Rob Arthan: statement
+
+
+Dissection of Cubes (J.E. Littlewood's "elegant" proof)
+
+Lean, Floris van Doorn: statement
+
+
+The Friendship Theorem
+
+Isabelle, Wenda Li: statement
+HOL Light, John Harrison: statement
+Coq, Alex Loiko: statement
+Lean, Aaron Anderson, Jalex Stark, Kyle Miller: statement
+Metamath, Alexander van der Vekens: statement
+Mizar, Karol Pak: statement
+
+
+Morley's Theorem
+
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Mizar, Roland Coghetto: statement
+
+
+Divisibility by 3 Rule
+
+Isabelle, Benjamin Porter: statement
+HOL Light, John Harrison: statement
+Coq, standard library: statement
+Lean, Scott Morrison: statement
+Metamath, Mario Carneiro: statement
+Mizar, Adam Naumowicz: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, Kai Engelhardt
+
+
+Lebesgue Measure and Integration
+
+Isabelle, Stefan Richter: statement
+HOL Light, John Harrison: statement
+Coq, Sylvie Boldo, François Clément, Florian Faissole, Vincent Martin & Micaela Mayero, and Reynald Affeldt & Cyril Cohen: statement
+Lean, Johannes Hölzl: statement
+Metamath, Mario Carneiro: statement
+Mizar, Noboru Endou & Yasunari Shidama: statement
+
+
+Desargues's Theorem
+
+Isabelle, Anthony Bordg: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot, Julien Narboux: statement
+Metamath, Norman Megill: statement
+Mizar, Wojciech Leonczuk & Krzysztof Prazmowski: statement
+
+
+Derangements Formula
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, Fabian Wolff: statement
+Lean, Henry Swanson: statement
+Metamath, Mario Carneiro: statement
+Mizar, Cezary Kaliszyk: statement
+ACL2, David M. Russinoff
+
+
+The Factor and Remainder Theorems
+
+Isabelle, Clemens Ballarin: statements
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry, Loïc Pottier: statement
+Lean, Chris Hughes: statement
+Metamath, Mario Carneiro: statement
+Mizar, Piotr Rudnicki: statement
+ProofPower, Rob Arthan: statement
+
+
+Stirling's Formula
+
+Isabelle, Manuel Eberl: statements
+HOL Light, John Harrison: statement
+Coq, not in contribs, Coqtail team: statement
+Lean, mathlib (Moritz Firsching, Fabian Kruse, Nikolas Kuhn, Heather Macbeth): statement
+Metamath, Glauco Siliprandi: statement
+
+
+The Triangle Inequality
+
+Isabelle, Steven Obua: statement
+HOL Light, John Harrison: statement
+Coq, Frédérique Guilhot: statement
+Lean, Zhouhang Zhou: statement
+Metamath, Norman Megill: statement
+Mizar, Czeslaw Bylinski: statement
+ACL2, Ruben Gamboa
+ProofPower, Rob Arthan: statement
+PVS, NASA library, Ricky Butler & Cesar Munoz
+
+
+Pick's Theorem
+
+Isabelle, Sage Binder & Katherine Kosaian: statement
+HOL Light, John Harrison: statement
+
+
+The Birthday Problem
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, Jean-Marie Madiot: statement
+Lean, Eric Rodriguez: statement
+Metamath, Mario Carneiro: statement
+Mizar, Cezary Kaliszyk: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+
+
+The Law of Cosines
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Frédérique Guilhot: statement
+Lean, Joseph Myers: statement
+Metamath, David A. Wheeler: statement
+Mizar, Marco Riccardi: statement
+PVS, NASA library, Cesar Munoz & Ricky Butler
+
+
+Ptolemy's Theorem
+
+Isabelle, Lukas Bulwahn: statement
+HOL Light, John Harrison: statement
+Coq, Tuan Minh Pham: statement
+Lean, Manuel Candales: statement
+Metamath, David A. Wheeler: statement
+Mizar, Marco Riccardi: statement
+
+
+Principle of Inclusion/Exclusion
+
+Isabelle, Andreas Lochbihler: statement
+HOL Light, John Harrison: statement
+Coq, Jean-Marie Madiot: statement
+Lean, Neil Strickland: statement
+Metamath, Mario Carneiro: statement
+Mizar, Karol Pak: statement
+ACL2, David M. Russinoff
+ProofPower, Rob Arthan: statement
+PVS, Kai Engelhardt
+
+
+Cramer's Rule
+
+Isabelle, Amine Chaieb: statement
+HOL Light, John Harrison: statement
+Coq, not in contribs, Georges Gonthier et al.: statement
+Lean, Anne Baanen: statement
+Metamath, Alexander van der Vekens (based on work by Stefan O'Rear): statement
+Mizar, Karol Pak: statement
+
+
+Bertrand's Postulate
+
+Isabelle, Julian Biendarra & Manuel Eberl: statement
+HOL Light, John Harrison: statement
+Coq, contrib, Laurent Théry: statement
+Lean, Bolton Bailey & Patrick Stevens: statement
+Metamath, Mario Carneiro: statement
+Mizar, Marco Riccardi: statement
+
+
+Buffon Needle Problem
+
+Isabelle, Manuel Eberl: statement
+ProofPower, Rob Arthan: statement
+
+
+Descartes Rule of Signs
+
+Isabelle, Manuel Eberl: statement
+HOL Light, John Harrison: statement
+ProofPower, Rob Arthan: statement
+
+
+
+
+
+This list (which I did not make!) has some obvious omissions.
+I will list here, in alphabetical order, the theorems that people have
+complained to me are missing.
+(Some of them might just be missing because they are "too new",
+as the list is from 1999.)
+
+
+
+Atiyah-Singer Index Theorem
+Baker's Theorem on Linear Forms in Logarithms
+Black-Scholes Formula
+Borsuk-Ulam Theorem
+Cantor-Bendixson theorem
+Cauchy's Integral Theorem
+Cauchy's Residue Theorem
+Chen's theorem
+every vector space is free
+Classification of Finite Simple Groups
+Classification of semisimple Lie groups (Killing, Cartan, Dynkin)
+Sophie Germain's theorem
+Gödel's Completeness Theorem
+Gödel's Second Incompleteness Theorem
+Green-Tao Theorem
+Feit-Thompson Theorem
+The Fundamental Theorem of Finite Abelian Groups
+Fundamental Theorem of Galois Theory
+Heine-Borel Theorem
+Hessenberg's Theorem = "Pappus → Desargues"
+Hilbert Basis Theorem
+Hilbert Nullstellensatz
+Hilbert-Waring theorem
+Invariance of Dimension
+IP=PSPACE
+Jordan Curve Theorem
+Kepler Conjecture
+Lie's work relating Algebras and Groups
+Nash's Theorem
+Perelman-Hamilton-Thurston theorem classifying compact 3-manifolds
+Poincaré Conjecture
+Riemann Mapping Theorem
+sorting takes Θ(N log N) steps
+Stokes' Theorem
+Stone-Weierstrass Theorem
+Thales' Theorem
+Thue-Siegel-Roth theorem about approximating algebraic numbers by rationals
+Yoneda lemma
+ζ(-1) = -1 ⁄ 12
+existence of ZF+DC+IHC model in which all real subsets are Lebesque measurable, have the perfect set property, and are Baire
+
+
+
+
+
+(last modification 2024-05-08)
+
+
+
+
+
+
+
+

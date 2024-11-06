@@ -1,0 +1,716 @@
+
+
+
+
+
+
+
+
+
+
+Modelling Roles of Mathematics in Physics | Science & Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Science & Education
+
+
+
+
+
+Article
+
+
+
+Modelling Roles of Mathematics in PhysicsPerspectives for Physics Education
+
+Article
+
+Open access
+
+
+                            Published: 07 November 2022
+
+
+
+
+Volume 33, pages 365–382, (2024)
+                        
+
+Cite this article
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+                            You have full access to this open access article
+
+
+
+
+
+
+
+
+Science & Education
+
+
+                                Aims and scope
+                                
+
+
+                                Submit manuscript
+                                
+
+
+
+
+
+
+
+
+
+
+                                Modelling Roles of Mathematics in Physics
+                            
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+Elina Palmgren 
+            ORCID: orcid.org/0000-0003-0036-22821 & Tapio Rasa 
+            ORCID: orcid.org/0000-0003-1315-52072 
+
+
+
+
+
+3826 Accesses
+
+
+
+
+4 Citations
+
+
+
+
+1 Altmetric
+
+
+Explore all metrics 
+
+
+
+
+
+
+
+
+
+
+AbstractModelling roles of mathematics in physics has proved to be a difficult task, with previous models of the interplay between the two disciplines mainly focusing on mathematical modelling and problem solving. However, to convey a realistic view of physics as a field of science to our students, we need to do more than train them to become fluent in modelling and problem solving. In this article, we present a new characterisation of the roles mathematics plays in physics and physics education, taking as a premise that mathematics serves as a constitutive structure in physics analogous to language. In doing so, we aim to highlight how mathematics affects the way we conceptualise physical phenomena. To contextualise our characterisation, we examine some of the existing models and discuss aspects of the interplay between physics and mathematics that are missing in them. We then show how these aspects are incorporated in our characterisation in which mathematics serves as a foundation upon which physical theories are built, and on which we may build mathematical representations of physical information that in turn serve as a basis for further reasoning and modifications. Through reasoning processes mathematics also aids in generating new information and explanations. We have elucidated each of these roles with an example from the historical development of quantum physics. To conclude, we discuss how our new characterisation may aid the development of physics education and physics education research.
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Guided Discovery—Robert Gagné
+                                        
+
+
+Chapter
+© 2020
+
+
+
+
+
+
+
+
+
+Problem solving in mathematics education: tracing its foundations and current research-practice trends
+                                        
+
+
+Article
+Open access
+30 April 2024
+
+
+
+
+
+
+
+
+
+Teaching and learning of probability
+                                        
+
+
+Article
+Open access
+04 August 2023
+
+
+
+
+
+
+
+
+
+
+Use our pre-submission checklist
+
+
+Avoid common mistakes on your manuscript.
+
+
+
+
+
+
+
+
+1 IntroductionThe relationship between physics and mathematics has been widely discussed in the field of physics education research. It is undeniable that mathematics has an important, even inseparable, role in physics, and thus also in physics education. However, modelling the role of mathematics in physics has turned out difficult, and the focus has most often been quite narrow. The existing literature has largely concentrated on problem solving through mathematical manipulations or on mathematical modelling. In physics education research, student reasoning has often been studied using thinking-out-loud problem-solving interviews, e.g. in Walsh et al. (2007), Bing and Redish (2009), and Kuo et al. (2013), just to mention some. Also models and their significance have been widely discussed in many areas. For example Greca and Moreira (2001) and Kanderakis (2016) provide some notable discussions on relationships among physical and mathematical models and how they consequently affect scientific understanding.Arguably all these contributions build on the general issue of the role of mathematics in physics. Recently, Pospiech (2019) has provided an extensive overview of previous research on the topic, and they present multiple models that intend to capture the interplay between physics and mathematics. These models describe how the roles of mathematics manifest in physics, again emphasising the aforementioned perspectives of mathematical modelling and problem solving. Typically, their starting point is a qualitative description of a system or phenomenon (e.g. a problem assignment) that is then translated into a mathematical form using available mathematical tools. As the existing models highlight, this process generally requires physical understanding in addition to proficiency with mathematical methods. The mathematised description of the system or phenomenon can subsequently be manipulated mathematically and finally reinterpreted in physical terms. Our goal in this paper is to examine and build on this perspective by suggesting a novel characterisation of the roles of mathematics in physics, and by illustrating our characterisation with examples from the history of quantum physics. In addition, we discuss the implications of our characterisation to physics education, especially at the university level.In this article, we have chosen for discussion two of the most prominent theoretical models of the interplay presented by Pospiech (2019): the modelling cycle adapted from mathematics education research by Redish and Kuo (2015) (see also, Redish, 2005; Redish & Smith, 2008) and the revised, more nuanced version of this model by Uhden et al. (2012). These models provide for our discussion a sufficient background into how the use of mathematics in physics is conceptualised in many of the models presented in physics education research. However, while the models by Redish and Kuo (2015) and Uhden et al. (2012) mostly focus on physics in high school or early university levels, our characterisation intends to describe the roles of mathematics in general. Thus, its implications for physics instruction can, at least in principle, be extended to all levels of education.Our aim is to discuss what aspects of the interplay between physics and mathematics are missing in the previous models and how to incorporate them into a new kind of characterisation of the roles mathematics plays in physics. To achieve this aim, we have chosen to distance ourselves from the modelling and problem-solving perspective, and instead emphasise how mathematics affects the way we conceptualise physical phenomena. We do not intend to discuss only how mathematics is utilised in classrooms, but also probe the epistemological foundations of physics knowledge: how physics knowledge is formed and what is the role of mathematics in this process. Rooting our discussion in existing literature, we discuss the relationship between physics and mathematics from the point of view previously presented by, e.g. Pietrocola (2002) and Kneubil and Robilotta (2015), namely that contemporary physics has largely taken form within an interrelationship with mathematics. In a sense, mathematics has given physicists an ability to think about the material world (Pietrocola, 2002). Because of this the way, we conceptualise physical phenomena is often characteristically mathematical. Of course, this issue touches on some fundamental questions on the epistemology of mathematics (see, e.g. Quale, 2011a, b), which in turn may stem from unresolved philosophical debates on the nature of knowledge and “realness”. However, our view is that the interplay of physics and mathematics can be characterised meaningfully without an explicit commitment to any certain ontology of mathematics, and hope our article also serves to demonstrates this approach.Mathematics accounts for much of the form of physical knowledge. This is to say that the mathematical constructs available at the time of formation of a physical theory contribute to shaping the theory. On the other hand, the mathematical constructs used are also selected and modified for the use of a particular theory and its physical context. This idea of a two-way dynamic between mathematical and physical constructs and knowledge is echoed by the evolutionary perspective of human knowledge presented by Galili (2018). In essence, this view posits that the effectiveness of mathematics in accounting for reality is a result of a long process in which mathematical constructs have been tested in (or conceived for) the construction of physics knowledge. The failed attempts have been discarded while successful constructs have found their place in established structures.As was earlier asserted, following the argument by Kneubil and Robilotta (2015), physics has been formed in close connection with mathematics. Naturally this entails that the relationship between the two disciplines has not been one-sided, mathematics only feeding information to physics. On the contrary, physics has played a significant role in the advancement of mathematics. For example Kjeldsen and Lützen (2015) have discussed how physics contributed to the formation of the concept of mathematical function, just to mention one example. This complex interaction between the disciplines has been extensively discussed in Galili (2018). However, in this article we have limited our perspective to the role mathematics plays in physics, and we merely touch on the issue of their other interactions.Of course, recognition of these issues is not new to science education. For example in the Science for All Americans framework (AAAS, 1989, p. 17), mathematics “provides science with powerful tools to use in analysing data” and “is the chief language of science” that provides precision and a “grammar” for analysis. Accordingly, the mathematical underpinnings of scientific activity and knowledge has seen some discussion in nature of science (NOS) literature (see e.g. Erduran et al., 2019; Galili, 2019), even if it arguably has rarely been at the forefront. However, here we have focused on a historical-philosophical perspective, similarly to, e.g. Uhden et al. (2012). By stepping back from a problem-solving centred perspective, we also direct our discussion primarily to higher education, but will suggest some educational implications relevant for lower educational stages as well.Indeed, from all these perspectives, the role of mathematics in physics is much more than serving as a tool for modelling and manipulations, and our main goal in this article is to illustrate this further. First and foremost, in our new characterisation we argue that mathematics can be regarded as providing physical theories with a skeletal structure. This is the foundation upon which we may build various representations (models) following the physical–mathematical rules stemming from the underlying structure. These representations in turn can be shared (communicated) and examined further. Further reasoning based on a representation may give rise to new insights that would not have been possible were the situation not presented using mathematics. These processes often get trivialised if we focus only on mathematisation and manipulations.In the following, we have elucidated each presented role with an example from the historical development of quantum physics. We have selected quantum physics as our reference theory because it is relatively easy to find suitable examples from it. This is likely because quantum physics is a highly math-intensive area of physics. However, we could have chosen the examples from, e.g. electro-magnetism that has previously been the subject of extensive discussion in similar contexts (cf. Silva, 2007; Tweney, 2009, 2011).While the roles explicated in our new characterisation may be new to previous models that have aimed to depict the interplay between physics and mathematics, they have been discussed in other contexts. For example Gire and Price (2015) have examined the significance of notational systems on problem solving, while Tweney (2009, 2011) has discussed the contribution of different representations to the subsequent reasoning processes. Various ways of mathematical reasoning have been discussed, e.g. by Hull et al. (2013) who aim to shift the focus to more blended reasoning in problem solving, and Tzanakis and Thomaidis (2000), Pask (2003), Silva (2007), and Gingras (2015) who have examined the use of analogies and deductive as well as inductive reasoning. The way mathematics gives rise to new knowledge has also been discussed elsewhere: for example Quale (2011a, b) has examined the appearance of unexpected entities and solutions, and Vemulapalli and Byerly (2004) have focused on quantitative variables in physical theories. The purpose of our new characterisation is to collect and organise these existing but somewhat scattered pieces of the puzzle, and in doing so suggest a background for the discussion on the roles mathematics plays in physics learning and teaching.In the next sections, we first present a brief overview of the existing models, discuss the elements missing in these models and then present a new characterisation looking at the theme from a different angle. We begin by presenting two previous depictions of how mathematics is used in physics. After this, we present our characterisation of the roles mathematics takes in different situations in the context of physics. Each role is demonstrated with an example from the history of quantum physics. The existing models and the proposed characterisation are then contrasted with each other and with the previous research literature.2 Models of the InterplayPospiech (2019) has reviewed the topic of mathematics in physics education from many perspectives. They discuss, for example the historical-philosophical perspective, conceptual understanding, and external representations. Most notably for the present article, they review multiple models of the interplay between mathematics and physics from the physics education point of view.In the next sections, we follow Pospiech’s (2019) discussion of theoretical models of mathematisation in physics. Key to these models is to focus on translating physical elements into mathematics and vice versa. We note, however, that we will not discuss models of the interplay not essential for our focus.2.1 Modelling CycleRedish and Kuo (2015) consider “the language of mathematics in physics” from the perspective of cognitive linguistics: they argue that “in science, we don’t just use math, we make meaning with it in a different way than mathematicians do” (Redish & Kuo, 2015, p. 561). They base this discussion on the notion that the use of mathematics in physics is vastly different from how mathematicians use mathematics. According to them, this is because physicists use mathematics to describe, learn about, and understand physical systems, while for mathematicians, mathematical expressions are free from the ancillary (and often implicit, tacit, or unstated) physical meaning of symbols. To explicate their view of how mathematics is used in modelling and problem solving in physics classes, they present the diagram in Fig. 1, called a model of mathematical modelling or a modelling cycle (see also, Redish, 2005; Redish & Smith, 2008), and describe the modelling process having the following steps:
+
+1.
+The modelling process begins by identifying the physical system to be modelled (the lower left corner of the diagram). The system is defined and isolated from its environment, and the quantifiable variables and parameters of the system are identified.
+
+
+2.
+By choosing the mathematical structures appropriate for describing the features of the system, it becomes possible to map the measures of the system onto mathematical symbols. This step is called modelling. The resulting mathematical representation of the physical system is thus composed of the measures of the physical system and the relations between them.
+
+
+3.
+As the mathematical representation of the physical system inherits the features and rules confining the chosen mathematical structures, it now becomes possible to process the modelled system mathematically. By mathematical manipulations, mathematical results are achieved.
+
+
+4.
+The mathematical results must be interpreted back into physics in order to make them understandable in the context of physics. The interpreted results are finally compared with the original physical system. This step is called evaluation.
+
+Fig. 1Modelling cycle by Redish and Kuo (2015)Full size imageRedish and Kuo (2015) emphasise that in reality the use of mathematics in physics is not as simple or sequential as their diagram indicates. They note that the diagram does not intend to capture this entanglement of disciplines but “to emphasise that our traditional way of thinking about using math in physics classes may not give enough emphasis to the critical elements of modelling, interpreting, and evaluating” (p. 568). As such, the modelling cycle parallels models previously presented in mathematics education research, depicting the translational processes between the real world and mathematics (cf. Blum & Leiß, 2005). In addition, its clarity and simplicity make it a useful step in introducing more complex models.Although the educational level on which the model by Redish and Kuo (2015) is intended to be utilised is not specified, the examples presented in their article seem to be of early university level. The model is indeed very well suited for solving traditional introductory and upper division level exercise problems.2.2 Revised Modelling CycleUhden et al. (2012) have noted some shortcomings in the modelling cycle and other previous models. According to their criticism, the modelling cycle conceptualisation does not address different levels or “degrees” of mathematisation. Furthermore, and crucially for education, it does not clearly distinguish between the technical and structural role of mathematics that they define after Pietrocola (2008): the technical role refers to the algorithmic use of mathematics, e.g. rote manipulations, while the structural role is related to the more conceptual use which is more “entangled” with physics. In education, these two roles map onto definitions of technical and structural skills, where “technical skills are associated with pure mathematical manipulations whereas the structural skills are related to the capacity of employing mathematical knowledge for structuring physical situations” (Uhden et al., 2012, p. 493).To address these issues, Uhden et al. (2012) propose an alternative model, a revised modelling cycle, shown in Fig. 2. In this model, the purely qualitative physics is accounted for by the lowest level of the physical–mathematical model, with each of the higher levels representing the model at a new degree of mathematisation. Pure mathematics is detached from the physical–mathematical model. They describe the steps of mathematical reasoning as follows:
+
+1.
+Arrow (1) stands for the translation from the world to the physical–mathematical model, i.e. the idealisation process. Just as in the modelling cycle by Redish and Kuo (2015), an idealised model of a physical system is constructed.
+
+
+2.
+In the modelling or problem-solving process, we move up and down in the diagram as we carry out mathematisation and interpretation phases. In the diagram, this is denoted by arrows (2) and (3), respectively. In practice, this may mean refining our mathematical model (moving towards a more mathematised representation) and interpreting the physical meaning of mathematical expressions (moving downwards on the latter of mathematisation). The mathematisation and interpretation steps (arrows (2) and (3)) are identified as application of structural skills whereas arrow (4), making a round to the pure mathematics, represents technical skills, e.g. doing calculations. Uhden et al., (2012, p. 498) describe this step as “doing just mathematics”.
+
+
+3.
+Arrow (5), standing for the validation process in which results are interpreted back into the world, closes the cycle.
+
+Fig. 2Revised modelling cycle by Uhden et al. (2012)Full size imageUhden et al. (2012) highlight that their model is intended to be used as a diagnostic tool for mathematical reasoning in physics: for example the model may help in distinguishing between the structural and technical skills required in problem-solving contexts. Ultimately, they envisage the model being used as an instrument to support teaching strategies which focus on the structural role of mathematics.Uhden et al. (2012) mention that their discussion moves mainly on high school and university levels. Also their chosen example for the application of the model, the classical physics problem of free fall, may be treated both in high school and in an introductory university course on different levels of abstraction. However, they emphasise, their discussion is applicable to physics education in general.Even though the revised modelling cycle is indeed able to capture a more detailed depiction of the use of mathematics in physics, it still overlooks some subtleties that arise from the entanglement of physics and mathematics. To highlight these aspects, we have constructed another characterisation of these roles in physics and physics education that we will present in the next section.3 New Characterisation of the InterplayIn this section, we present a new characterisation of how the roles of mathematics manifest in physics and physics education. The characterisation does not intend to provide yet another visual, cyclic depiction of the actions (and skills) that involve physical–mathematical reasoning. Instead, we aim to dissect and analyse the roles more deeply and to describe, through examples from the history of quantum physics, how they manifest. In this sense, our characterisation is meant to answer somewhat different questions than the previously presented models: the modelling cycles focus on modelling and problem-solving actions and skills, whereas our characterisation aims to provide a more general description of the roles mathematics takes in physics (hence our use of the word “characterisation”).Moreover, our characterisation aims to describe the roles of mathematics outside some specific type of activity on some stage of physics education, thus being relevant all the way up to the graduate level of universities. As the scope of the characterisation is wider, its contents are also more general and abstract than those of the modelling cycles. However, we argue, it can still be applied on lower educational levels in a simplified form. For example ideas of utilising underlying rules in forming representations or carrying out calculations resemble closely the actions presented in the modelling cycles. Furthermore, the characterisation provides vocabulary for discussing, even somewhat practically, the role of mathematics in (the nature of) science; for example the case of the positron (see Section 3.4.1 below) should spark valuable classroom dialogue even with younger students.We begin presenting the new characterisation by discussing mathematics as a foundation upon which physical theories are built. Then we proceed to examine how mathematics contributes to representations of physical information that in turn serve as a basis for further reasoning and modifications. Lastly, we review the ways in which mathematics aids in generating new information and explanations. Each of these roles is presented in their own section followed by an illustrating example from the history of quantum physics. Note that the selected examples do not cover all the facets of the roles presented in the characterisation. We have selected them because they exemplify some central features of the characterisation.A summary of the roles in our characterisation is presented in Table 1. This table is intended to support understanding the characterisation as a whole. In the following text, we have used numbering to identify the subroles presented in the table when they appear for the first time. However, it should be noted that both in the table and in the following descriptions, the limits of different roles of the characterisation are not clear-cut. The roles are mutually dependent (for example syntactic structure affects representations) and thus there naturally is some overlap.Table 1 The roles of mathematics in the new characterisationFull size table3.1 Syntactic StructureStarting with the fundamentals, mathematics has a role in forming the basic structure that fixes the rules and limitations for physical theories. More precisely, mathematics aids in forming a syntactic structure for physics: it acts as a framework in which physical knowledge is organised (Table 1, role 1a). We call this structure syntactic as it parallels the idea of linguistic syntax in the sense that it provides the form of physical theories (1b). For a natural language, the rules and limitations stem from, e.g. grammar and vocabulary that define how the language can be used and what can be expressed using it. Syntactic structure also limits the scope of things that can be perceived in terms of the language, i.e. what kind of entities and structures can be made understandable using it.There exists an organised collection of mathematically expressed information that is thought to be valid in physics at a given moment. The syntactic structure organising this information is formed by the core of mathematical axiomatic principles, on top of which physical–mathematical theories are built. Here we mostly discuss the mathematical nature of this structure, but it is worth noting that we do not intend to say that it is thoroughly mathematical. On the contrary, a physical theory is a collection of physical information that is organised and expressed mathematically. On the same note, purely syntactic bits of the structure form its hard nucleus, while the higher layers bring also semantic aspects into it. The semantics is further discussed in the next section.The established theory structure provides rules and limits for actions in physics. These rules affect many things from planning experiments, representing physical systems, mathematical manipulations and logical reasoning to interpretation of results (1d–1f). The rules stem from both physical and mathematical aspects of the syntactic structure, and they can be either physical or mathematical in nature. For example following mathematical rules guarantees that the end result is logically true. Logic does not, however, ensure that the result is physically possible because logically consistent results can be ruled out by the selected physical background theory or the context. After all, while, e.g. solving a physical problem, we may end up with multiple mathematical results, from which we have to choose the plausible one(s) in the given context. These cases bring our attention to the interface of mathematical and physical–mathematical structure: physical solutions are ones that do not violate theoretical assumptions by, e.g. exceeding the speed of light (1 g).Even though the theory structure is established, it can still be modified. For example the advancement of scientific knowledge sometimes requires incorporating previously unapplied mathematics into the theory structure, while some new observations may even shake the foundations of the existing structures. Indeed, one purpose of scientific research is to study the soundness of existing theories, to test the limits of theories and expand their reach to new domains. New results, if they are found to be reliable enough, are attached as a part of the theory structure (1c). This image of syntactic theory structures closely resembles Kuhn’s (1962) paradigms of normal science.3.1.1 Example: the Bohr Atomic ModelThe history of quantum physics is a story about realisations of the shortcomings of classical physics and the inception of new quantum–mechanical theories that required physicists to adopt new mathematical theories into their repertoire. As an example of this development, let us consider the conception of the Bohr atomic model.At the turn of the nineteenth and twentieth centuries, it was realised that atoms are not the smallest possible constituents of matter. In the subsequent years, multiple models describing the subatomic structures were developed, most famously the models by J. J. Thompson and Rutherford. Bohr was very familiar with the development of such atomic models, as around the time he first worked with Thompson in Cambridge and then moved to work with Rutherford in Manchester (Jammer, 1989). According to Jammer (1989), as the first step of the work that finally led to the new atomic model, Bohr investigated to what extent classical mechanics and electrodynamics (the main body of the theory structure of the time) could account for Rutherford’s model that assumes electrons revolving around a massive, positively charged nucleus. Based on these examinations, he soon understood that the stability of the Rutherford atom cannot possibly be explained in classical terms. Thus, he made the assumption that only certain discrete electron orbits are allowed, and by incorporating Planck’s quanta into this model, he was able to find the right numeric solution for the hydrogen energy spectrum.Building on nineteenth century physics and the theory structure of that time, Bohr’s work extended the reach of the existing syntactic theory structure. He utilised his knowledge of the classical theories of mechanics and electrodynamics as well as the theoretical ideas and observational results about the atomic structure presented by others before him. Combining these pieces of the puzzle with a few bold assumptions, Bohr was able to build a new atomic model that in turn became a milestone on the way towards the full-fledged quantum theory.3.2 Representations and SemanticsWhile the syntactic structure provides a framework in which physical knowledge is organised, there is another role mathematics has in expressing this knowledge: in addition to the syntactic mathematical structure giving the rules and limits for representations, mathematics also provides their shape (Table 1, role 2a). We call this level of representations semantic because of its resemblance to linguistic semantics: constructing a representation loads the used syntactic structures with meaning. The objects we choose to use in our representation are given meaning in relation to each other, and to their physical background theory and context. This is quite analogous to the way we make meaning in natural languages. For example the same system or phenomenon can be represented in multiple different ways (graphically, tabulated, mathematically using different notational systems, etc.) that bring different facets or aspects of the system to the foreground. Likewise, we can, e.g. choose to use a certain synonym in a sentence or to structure a sentence in a certain way to emphasise a particular point in the present context.The idea of semantics is in fact fairly close to the argument with which Redish and Kuo (2015) start their investigation: they argue that physicists use mathematics to represent physical systems and therefore load physical meaning onto mathematical symbols. They argue that in physics mathematical representations often bear different meanings than the same representations in the pure mathematics context. This is because, in forming a representation in a physics context we often blend physical and mathematical information. This usage of mathematics is what they intend to explicate in their modelling cycle, and it is strongly present also in our characterisation.On a more general note, an entity in physics is made perceivable by expressing it in a mathematical form. Representations synthesise our understanding of the target, leaving out unnecessary information. The aim of a model can be, e.g. to represent experimental data in an ordered form or to write down a theoretical thought. It is possible to construct a theoretical representation of a phenomenon or system based only on the relevant physical background theory, or to construct an experimental representation where background theory and observations are in interaction with each other. This way mathematics allows constructing representations that can be further investigated and modified (2b).Through representations, mathematics also provides a way to represent phenomena and systems in a shareable and reusable form; a mathematical representation is often easier to communicate to other people than, e.g. a qualitative description (2c). In that sense, mathematics acts as a common, universal language. For science in general, the communication function of mathematics is crucial.3.2.1 Example: Matrix and Wave MechanicsIn the 1920s, the two most influential early formulations of quantum mechanics were developed. Born, Heisenberg, and Jordan refined Heisenberg’s initial work to a formulation commonly known as matrix mechanics, in which quantum mechanical quantities are expressed as matrices. According to Longair (2013, p. 227), the aim in making the new formulation was “to rewrite all the equations of classical physics in matrix notation so that the key concept of non-commutativity [previously introduced in the work by Heisenberg] would automatically be incorporated in the new quantum mechanics”. Meanwhile, Schrödinger developed an alternative formulation of the theory, named wave mechanics. He started his work from the Hamilton–Jacobi differential equation, defining a new function, the “wave function”, and setting certain constraints for it. This way he was able to fulfil the pre-existing quantum conditions.Even though the two formulations were later on found to be isomorphic in the context of the abstract Hilbert space theory of von Neumann, only Schrödinger’s wave mechanics stuck until today. The physicists at the time were reluctant to adopt matrix mechanics due to its unfamiliar mathematical machinery and cumbersome conceptual background. Ultimately, the matrix mechanical formalism was incorporated into the abstract Hilbert space formalism. We can regard the two early formalisms as representations that depicted the same theory but conveying their message differently. In the end, Schrödinger’s wave mechanics was more successful in expressing the theory in an understandable form.The case of matrix and wave mechanics shows how the same theory can be mathematically represented in vastly different forms. It also illustrates the point that different mathematical representations may mediate differing aspects of the same theory. This contrasts with the idea that there are simply degrees of mathematisation (cf. the revised modelling cycle): mathematical and physical knowledge are intertwined in a more deep and nuanced way.3.3 Reasoning and ModificationsA suitable representation can be further investigated through, e.g. mathematical reasoning and modifications. The chosen representation may either advance or hinder investigations and extraction of information, as different representations benefit different modes of reasoning. For example an algebraic representation allows mathematical manipulations more readily than a graphical representation. Thus, the possible reasoning and modification methods depend on the previous layers: the theory structure determines the available methods and rules for them, and the chosen representation limits the range of available methods.In physics education, reasoning and modifications have a significant role. They are involved, for example in problem-solving situations in which mathematical representations are manipulated and analysed until a solution is found (Table 1, role 3a). In physics research, mathematical representations are in a similar manner modified to test and expand the limits of physical models (3b). In these situations, the problem solver needs to apply their knowledge of the underlying rules and the physical context to the situation at hand. This enables using, e.g. logical reasoning in deducing new theoretical results (3c). Modifying and analysing mathematical representations may also aid in recognising new objects and regularities that would otherwise stay hidden (3d).Following Easdown (2009), we separate two modes of reasoning: syntactic and semantic.Syntactic reasoning and modifications utilise physical–mathematical rules in, e.g. carrying out calculations or modifying representations. This kind of use of mathematics requires little more than syntactic understanding; the semantic content of the studied representation does not enter the reasoning process. In other words, the reasoning process only applies rules stemming from the syntactic structure and does not utilise the understanding about the chosen representation. For example this may mean rote mathematical manipulations of equations in problem solving.The separation between syntactic and semantic modes of reasoning seems to be rather widely acknowledged. In Easdown (2009, p. 942), the same kind of (syntactic) reasoning is described as relying on “simple or naive, incremental rules, searching or pattern matching”. In physics education research, this kind of use of mathematics is often referred to as “plug and chug”, i.e. working through mathematics algorithmically. In the revised modelling cycle by Uhden et al. (2012), this step is detached from the physical–mathematical model, making a round to the area of “pure mathematics”. In their discussion, abilities of syntactic reasoning and modifications fall under the category of technical skills.At the opposite end of the spectrum lies semantic reasoning. Here mathematics functions as a structure guiding and limiting thought. As the name suggests, semantic reasoning relies on understanding the semantics of the representation at hand, i.e. it requires understanding the content of the representation—or the physical meaning loaded onto mathematical symbols (Redish & Kuo, 2015). It heavily relies on the insight the reasoner has on the representation and on how the representation connects and maps onto the physical background theory of the studied system. One example of semantic reasoning is “opportunistic” blended reasoning (Hull et al., 2013), which relies on the physical interpretation of the used representation. Using this kind of reasoning, the reasoner may bypass the “doing mathematics” phase altogether during a problem-solving process.Compared to the “plug and chug” aspect of syntactic reasoning, semantic reasoning may be conceptually harder to pin down. Easdown’s (2009, p. 942) definition of semantic reasoning involves “solid intuition, insight or experience”, whereas de Regt (2017, p. 105) describes an analogous reasoning mode as qualitative insight that “does not involve any calculations; it is based on general characteristics of the theoretical description of [the target]”. As de Regt also notes, at some point in a reasoning process, subsequent calculations are motivated and given direction by this qualitative reasoning.As indicated earlier, the division between syntactic and semantic reasoning is not clear-cut. Instead, we can regard syntactic and semantic reasoning processes as opposite ends of the same spectrum, in the middle of which the reasoning modes gradually mix together. Most often in realistic situations, syntactic and semantic modes are both involved in the reasoning process and separating them from each other is artificial. These kinds of reasoning and modifications involve understanding both the syntactic and semantic content of the examined representation. The skills called structural in Uhden et al. (2012) probably lie somewhere in the middle of the spectrum.3.3.1 Example: Wave Mechanics and OpticsAn important part of Schrödinger’s justification for his wave mechanical formalism of quantum mechanics, as presented in the previous example, was an analogy with classical optics. His work was heavily influenced by de Broglie’s investigations, and originally he set out to find an equation describing de Broglie’s matter waves (Longair, 2013). As a result, he finally arrived at the non-relativistic Schrödinger equation.According to Longair (2013), Schrödinger’s reasoning closely followed the classical path. Namely, classical ray optics that works well on small wave lengths compared to the system, e.g. a slit, breaks down when the wavelength and the scale of the system are of the same order, giving rise to the diffraction and interference phenomena. Analogously, he inferred, classical mechanics breaks down on small scales, and we can no longer neglect the wave properties of matter. The small enough scale to bring forth the quantum mechanical phenomena was reasoned to be of the same order as the de Broglie wavelength. This analogy with its mathematical machinery allowed Schrödinger to successfully justify his wave equation. The resulting formalism was not only successful in explaining previous observations but also “was based on the familiar apparatus of differential equations, akin to the classical mechanics of fluids and suggestive of an easily visualizable representation” (Jammer, 1989, p. 270), which made it easier for physicists of the time to apply it.Schrödinger’s use of analogical reasoning is an example of successfully blending syntactic and semantic reasoning. On one hand, he relied on the rules and limits set by the mathematical machinery, and on the other hand, he utilised his understanding of the content of the physical theories by letting the analogy to classical optics guide his work.3.4 New Information and ExplanationsA mathematical representation or its modifications can also give rise to new information. This gained information can be “new” in various ways: it can be a new scientific discovery or a new insight for a learner. In both cases, the representation or its modifications has yielded information that was previously more or less inaccessible.Quite often in the context of physics education, solving typical end-of-chapter problems leads to clear numerical or analytic results. These solutions require interpretation in their context in order to give an answer to the original question. In this case, mathematics leads directly to new information. This way of ending up with a piece of information we call direct extraction of information. Similarly, scientific tests and analyses often lead to direct results (Table 1, role 4a).Sometimes, mathematical representations or their manipulations can uncover new structures that can lead to even unexpected explanations of phenomena. For example building a mathematical theory can result in theoretical predictions that foresee their observational confirmation (see the following example of the positron), in theoretical entities that have no direct physical interpretation (e.g. the wave function), or in a mathematical explanation of an observed phenomena that cannot be explained in qualitative terms (e.g. entanglement entropy). These kinds of objects could not have been constructed based solely on observations using the information available at the time. To emphasise the way these theoretical entities emerge from mathematics, we have chosen to call this pattern emergent extraction of information (4b–d).As was the case with syntactic and semantic reasoning, the different modes of knowledge extraction are not clearly distinct. Again, they are rather the opposite ends of the same spectrum. We have, however, made the distinction to emphasise the emergent nature of many advancements of physical research: especially in these occasions mathematics has tremendously contributed to the scientific progress.3.4.1 Example: Inventing the PositronAfter the formation of matrix and wave mechanics, it was soon realised that achieving a relativistic quantum theory based on them was not a trivial task. In 1928, Dirac succeeded in generalising the Schrödinger equation into the relativistic Dirac equation. Even if it was not Dirac’s initial intention to incorporate spin into his theory or predict the existence of positrons, he ended up doing just that (Longair, 2013).The first remarkable thing in the relativistic equation was that “in the relativistic formulation of quantum mechanics, there is necessarily a magnetic moment associated with the spin of the electron” and its magnitude coincided exactly with the observed value (Longair, 2013, p. 338). Moreover, when solving for energies of the electron energy states from the Dirac equation, it emerges that there are also negative solutions. These negative energy solutions puzzled physicists of the time and it took some time for them to find an appropriate explanation for them. After a couple of years of pondering and proposing different explanations, Dirac came up with the proposal that the negative energies correspond to “a new kind of particle, unknown to experimental physics, having the same mass and opposite charge to an electron. We may call such a particle an anti-electron” (Dirac, 1931). Anti-electrons were later named positrons. Dirac’s invention of the positron illustrates how mathematical solutions can find interpretations in terms of novel physical conceptions.4 DiscussionEspecially in higher education, one aim of physics teaching is to guide students to understand physics as a field of science that has its distinctive characteristics. To convey this understanding, we need to do more than only train students to become fluent in modelling and problem solving. Even if those are important parts of the field, they offer too narrow a point of view. Consequently, physics education and educators should, both implicitly and explicitly, take into consideration the wider range of roles mathematics plays in physics. In a broad sense, this parallels or falls under the recommendation that educators should be aware of nature of science, if science education is to teach not only science but also “about” science. Furthermore, again analogously to common practices relating to NOS in education, the level of depth and abstraction in teaching about the entanglement of mathematics and physics can be adapted to students of various ages and knowledge levels. Here we have sought especially to aid educators in higher education to reflect on the issue, but hope to also contribute to, e.g. upper-secondary education in both physics and mathematics. For example the invention of new mathematical constructs and their subsequent adoption by natural scientists may be an unfamiliar yet intriguing idea for aspiring mathematicians.In this article, we have presented a characterisation of how the roles of mathematics manifest on different levels in physics: at the level of theory structure, representations, mathematical reasoning, and new information and explanations. We echo arguments made by others in the same vein: e.g. Karam (2014) has discussed similar roles in their research. However, we wish to add to this discussion by introducing with our characterisation a more organised view of the roles mathematics plays in physics. In addition, we wish to diversify discourses of mathematics in physics and physics teaching by stressing issues such as the extraction of information through mathematics.Comparing the new characterisation with the previous models, e.g. the modelling cycles of Redish and Kuo (2015) and Uhden et al. (2012), it is apparent that they are meant to answer somewhat different questions: the modelling cycles focus on modelling and problem-solving actions and skills, whereas our characterisation aims to provide a more general description of the roles mathematics takes in physics. Most notably, while the modelling cycle of Redish and Kuo (2015) highlights building models and performing mathematical manipulations, it differs from our characterisation as it does not bring up the significance of theory structure, differentiate between modes of reasoning, or emphasise the extraction of mathematical knowledge. In part, Uhden et al. (2012) address some of these shortages and further emphasise the reasoning processes in terms of separate structural and technical use of mathematics. However, neither do they include theory structure explicitly in their model nor cover different ways mathematics leads to new knowledge. Pointing the explicit differences between the existing models and our characterisation, however, is not to say that these parts are necessarily completely missing in the previous models, as they can be seen as included implicitly. For example the contribution of theory structure is inevitably present in parts of the models as an element that guides modelling and interpretation processes or mathematical manipulations. However, our chosen epistemological perspective, i.e. the premise that mathematics serves as a constitutive structure in physics analogous to language, brings these different roles to the foreground.Therefore, our characterisation also yields implications for physics education research and physics instruction, as it can help researchers as well as instructors avoid what Karam (2014, p. 1) calls “an artificial separation between the mathematical and the conceptual aspects of physical theories”. Assuming our proposed standpoint, it becomes unreasonable to separate these aspects. For physics education research, in which conceptual and mathematical (or procedural) learning are often seen as separate, this would mean shifting the focus to a more blended view, in which physics learning is regarded as profoundly dependent on both the aspects. This would also force us to rethink physics instruction, taking this entanglement into account and making it explicit in teaching.Besides emphasising the intertwining of conceptual and mathematical aspects, our characterisation provides a holistic view of physical theories: physical theories are not just unrelated pieces, but parts of a larger structure held together, organised and expressed by mathematics. Using this framework in physics learning would, we argue, likely lead to deeper and more coherent understanding, as this framework provides a natural basis on which to build new knowledge. This is also something to be explicated in physics instruction.These lines of argument gain further importance in the case of more advanced physics theories because conceptual physical and formal mathematical aspects are so inextricably merged in them. How does one explain concepts such as a spacetime metric or the state of a quantum system without mathematics? We argue that making the entanglement of these aspects explicit in the instruction of these theories would be especially beneficial for student learning. Here, both general and highly domain-specific examinations of the interplay of mathematics and physics may be needed, with content domains spanning various stages of science learning; after all, the guidelines given here are intended primarily for students on and around the undergraduate level. At the moment, however, physics education research in the field of advanced physical theories is relatively scarce, and in order to research learning in these fields and to make more robust arguments in relation to learning advanced physics, we must adopt a wider view on the roles mathematics plays in physics and physics learning. Focusing only on the modelling and problem-solving perspectives (emphasising the role of mathematics as a tool) may even hinder the advancement of educational research into the more advanced physics theories, while potentially oversimplifying and misrepresenting the interplay of the disciplines.5 ConclusionsThe aim of physics as a field of science is to gain understanding of physical phenomena. To accumulate this collective understanding, the scientific community needs to construct new explanations that can be communicated and organised—and in these construction, communication and organisation processes mathematics plays an important role. Mathematics does not only present physical information, but also shapes our beliefs about physical phenomena. Because mathematics is so tightly knit into the formation of physical knowledge, its role is inextricably intertwined also with physics learning. As we have demonstrated, this dynamic is more complex than typical problem-solving or modelling-centred perspectives account for, and thus there is a need for more comprehensive characterisations. Here we have illustrated the wider array of the roles of mathematics in physics, but further work is needed to examine how to incorporate representation of and discourse on these roles in how we teach the nature of science and the philosophy of physics.In order to make this constructive role of mathematics more explicit, we have presented a new characterisation of how the roles of mathematics appear on different levels of physics. It also brings forward the parts that the previous problem-solving or modelling-oriented models have neglected, namely, theory structure and the emergence of new knowledge. Moreover, it emphasises the gradual mixing of syntactic and semantic reasoning. These are key features in the development of understanding in more advanced physics theories: the more advanced a theory is, the more entangled the syntactic and semantic modes are in reasoning—as we have sought to illustrate through examples from the history of modern physics. Likewise, the emergent nature of many entities is more prominent in these topics. In order to gain ground in studying the learning of these more advanced topics, such as quantum physics and relativity, we have to take these perspectives into account. In our view, to ensure that pedagogies comprehensively address these “entangled” bodies of knowledge, educators should be aware of a fuller range of roles of mathematics in physics.
+
+ReferencesAmerican Association for the Advancement of Science. (1989). Science for all Americans. American Association for the Advancement of Science.
+                    Google Scholar 
+                Bing, T. J., & Redish, E. F. (2009). Analyzing problem solving using math in physics: Epistemic framing via warrants. Physical Review Special Topics – Physics Education Research, 5, 020108. https://doi.org/10.1103/PhysRevSTPER.5.020108Article 
+    
+                    Google Scholar 
+                Blum, W., & Leiß, D. (2005). “Filling up” the problem of independence-preserving teacher interventions in lessons with demanding modelling tasks. In: Bosch, M. (Ed.), CERME-4 – Proceedings of the fourth conference of the European Society for Research in Mathematics Education. Sant Feliu de Guíxols, February 17–21, 2005.de Regt, H. W. (2017). Understanding scientific understanding. Oxford University Press.Book 
+    
+                    Google Scholar 
+                Dirac, P. A. M. (1931). Quantised singularities in the quantum field. Proceedings of the Royal Society A., 133, 60–72. https://doi.org/10.1098/rspa.1931.0130Article 
+    
+                    Google Scholar 
+                Easdown, D. (2009). Syntactic and semantic reasoning in mathematics teaching and learning. International Journal of Mathematical Education in Science and Technology, 40(7), 941–949. https://doi.org/10.1080/00207390903205488Article 
+    
+                    Google Scholar 
+                Erduran, S., Dagher, Z. R., & McDonald, C. V. (2019). Contributions of the family resemblance approach to nature of science in science education. Science & Education, 28(3), 311–328. https://doi.org/10.1007/s11191-019-00052-2Article 
+    
+                    Google Scholar 
+                Galili, I. (2018). Physics and mathematics as interwoven disciplines in science education. Science & Education, 27, 7–37. https://doi.org/10.1007/s11191-018-9958-yArticle 
+    
+                    Google Scholar 
+                Galili, I. (2019). Towards a refined depiction of nature of science. Science & Education, 28(3), 503–537. https://doi.org/10.1007/s11191-019-00042-4Article 
+    
+                    Google Scholar 
+                Gingras, Y. (2015). The creative power of formal analogies in physics: The case of Albert Einstein. Science & Education, 24, 529–541. https://doi.org/10.1007/s11191-014-9739-1Article 
+    
+                    Google Scholar 
+                Gire, E., & Price, E. (2015). Structural features of algebraic quantum notations. Physical Review Special Topics – Physics Education Research, 11, 020109. https://doi.org/10.1103/PhysRevSTPER.11.020109Article 
+    
+                    Google Scholar 
+                Greca, I. M., & Moreira, M. A. (2001). Mental, physical, and mathematical models in the teaching and learning of physics. Science Education, 86(1), 106–121. https://doi.org/10.1002/sce.10013Hull, M. M., Kuo, E., Gupta, A., & Elby, A. (2013). Problem-solving rubrics revisited: Attending to blending of informal conceptual and formal mathematical reasoning. Physical Review Special Topics – Physics Education Research, 9, 010105. https://doi.org/10.1103/PhysRevSTPER.9.010105Article 
+    
+                    Google Scholar 
+                Jammer, M. (1989). The conceptual development of quantum mechanics. Tomash Publishers.
+                    Google Scholar 
+                Kanderakis, N. (2016). The mathematics of high school physics. Science & Education, 25, 837–868. https://doi.org/10.1007/s11191-016-9851-5Article 
+    
+                    Google Scholar 
+                Karam, R. (2014). Framing the structural role of mathematics in physics lectures: A case study on electromagnetism. Physical Review Special Topics – Physics Education Research, 10(1), 10119. https://doi.org/10.1103/PhysRevSTPER.10.010119Article 
+    
+                    Google Scholar 
+                Kjeldsen, T. H., & Lützen, J. (2015). Interactions between mathematics and physics: The history of the concept of function—Teaching with and about nature of mathematics. Science & Education, 24, 543–559. https://doi.org/10.1007/s11191-015-9746-xArticle 
+    
+                    Google Scholar 
+                Kneubil, F. B., & Robilotta, M. R. (2015). Physics teaching: Mathematics as an epistemological tool. Science & Education, 24, 645–660. https://doi.org/10.1007/s11191-014-9727-5Article 
+    
+                    Google Scholar 
+                Kuhn, T. S. (1962). The structure of scientific revolutions. University of Chicago Press.
+                    Google Scholar 
+                Kuo, E., Hull, M., Gupta, A., & Elby, A. (2013). How students blend conceptual and formal mathematical reasoning in solving physics problems. Science Education, 97(1), 32–57. https://doi.org/10.1002/sce.21043Article 
+    
+                    Google Scholar 
+                Longair, M. S. (2013). Quantum concepts in physics: An alternative approach to the understanding of quantum mechanics. Cambridge University Press.Book 
+    
+                    Google Scholar 
+                Pask, C. (2003). Mathematics and the science of analogies. American Journal of Physics, 71, 526–534. https://doi.org/10.1119/1.1545761Article 
+    
+                    Google Scholar 
+                Pietrocola, M. (2002). A Matemática como Estruturante do conhecimento físico. Caderno Brasileiro De Ensino De Física, 19(1), 93–114.
+                    Google Scholar 
+                Pietrocola, M. (2008). Mathematics as structural language of physical thought. In Vicentini M., & Sassi, E. (Eds.) Connecting research in physics education with teacher education (Vol. 2). International Commission on Physics Education.Pospiech G. (2019). Framework of mathematization in physics from a teaching perspective. In: Pospiech G., Michelini M., & Eylon B. S. (Eds.), Mathematics in physics education. Springer. https://doi.org/10.1007/978-3-030-04627-9_1Quale, A. (2011a). On the role of mathematics in physics: A constructivist epistemic perspective. Science & Education, 20, 609–624. https://doi.org/10.1007/s11191-010-9257-8Article 
+    
+                    Google Scholar 
+                Quale, A. (2011b). On the role of mathematics in physics. Science & Education, 20, 359–372. https://doi.org/10.1007/s11191-010-9278-3Article 
+    
+                    Google Scholar 
+                Redish, E. F., & Kuo, E. (2015). Language of physics, language of math: Disciplinary culture and dynamic epistemology. Science & Education, 24, 561–590. https://doi.org/10.1007/s11191-015-9749-7Article 
+    
+                    Google Scholar 
+                Redish, E. F., & Smith, K. A. (2008). Looking beyond content: Skill development for engineers. Journal of Engineering Education, 97(3), 295–307. https://doi.org/10.1002/j.2168-9830.2008.tb00980.xArticle 
+    
+                    Google Scholar 
+                Redish, E. F. (2005). Problem solving and the use of math in physics courses. In Conference world view on physics education in 2005: Focusing on change, Delhi, August 21–26, 2005. http://arxiv.org/abs/physics/0608268.Silva, C. C. (2007). The role of models and analogies in the electromagnetic theory: A historical case study. Science & Education, 16, 835–848. https://doi.org/10.1007/s11191-006-9008-zArticle 
+    
+                    Google Scholar 
+                Tweney, R. D. (2009). Mathematical representations in science: A cognitive–historical case history. Topics in Cognitive Science, 1(4), 758–776. https://doi.org/10.1111/j.1756-8765.2009.01043.xArticle 
+    
+                    Google Scholar 
+                Tweney, R. D. (2011). Representing the electromagnetic field: How Maxwell’s mathematics empowered Faraday’s field theory. Science & Education, 20, 687–700. https://doi.org/10.1007/s11191-010-9256-9Article 
+    
+                    Google Scholar 
+                Tzanakis, C., & Thomaidis, Y. (2000). Integrating the close historial development of mathematics and physics in mathematics education: Some methodological and epistemological remarks. For the Learning of Mathematics, 20(1), 44–55.
+                    Google Scholar 
+                Uhden, O., Karam, R., Pietrocola, M., & Pospiech, G. (2012). Modelling mathematical reasoning in physics education. Science & Education, 21, 485–506. https://doi.org/10.1007/s11191-011-9396-6Article 
+    
+                    Google Scholar 
+                Vemulapalli, G. K., & Byerly, H. C. (2004). Carl Hempel’s philosophy of science: How to avoid epistemic discontinuity and pedagogical pitfalls. Science & Education, 13, 85–98. https://doi.org/10.1023/B:SCED.0000018498.92528.16Article 
+    
+                    Google Scholar 
+                Walsh, L., Howard, R., & Bowe, B. (2007). Phenomenographic study of students’ problem solving approaches in physics. Physical Review Special Topics – Physics Education Research, 3, 020108. https://doi.org/10.1103/PhysRevSTPER.3.020108Article 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsWe are grateful for helpful comments and discussions with Ricardo Karam, Inkeri Kontro, Tommi Kokkonen, and Ismo T. Koponen. FundingThis work has been supported in part by a grant from Magnus Ehrnrooth Foundation. Open Access funding provided by University of Helsinki including Helsinki University Central Hospital.Author informationAuthors and AffiliationsDepartment of Physics, University of Helsinki, POB 64, FI-00014, Helsinki, FinlandElina PalmgrenDepartment of Education, University of Helsinki, POB 9, FI-00014, Helsinki, FinlandTapio RasaAuthorsElina PalmgrenView author publicationsYou can also search for this author in
+                        PubMed Google ScholarTapio RasaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarCorresponding authorCorrespondence to
+                Elina Palmgren.Ethics declarations
+Conflict of Interest
+The authors declare that they have no conflict of interest.
+Additional informationPublisher's NoteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and permissionsAbout this articleCite this articlePalmgren, E., Rasa, T. Modelling Roles of Mathematics in Physics.
+                    Sci & Educ 33, 365–382 (2024). https://doi.org/10.1007/s11191-022-00393-5Download citationAccepted: 22 September 2022Published: 07 November 2022Issue Date: April 2024DOI: https://doi.org/10.1007/s11191-022-00393-5Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+
+
+
+
+
+
+Use our pre-submission checklist
+
+
+Avoid common mistakes on your manuscript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+149.156.126.11
+
+Polish Consortium ICM University of Warsaw (3000169041)  - AGH University of Science and Technology (2000159061)  - Polish Consortium ICM University of Warsaw (3003616166) 
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+

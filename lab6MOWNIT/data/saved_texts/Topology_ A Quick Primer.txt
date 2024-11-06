@@ -1,0 +1,94 @@
+
+
+
+
+Topology: A Quick Primer
+
+
+
+
+
+
+
+   
+ Next: Observing the Effects of 
+Up: Measuring the Topology of 
+ Previous: Introduction
+ 
+Topology: A Quick Primer
+
+Physicists assume that the universe can be described as a manifold.
+Mathematician characterize manifolds in terms of their geometry and
+topology. Geometry is a local quantity that measures the intrinsic curvature
+of a surface. General relativity relates the mass distribution of the
+universe to its geometry and of course, the geometry of the universe
+determines the dynamics of the mass. Topology is a global quantity that
+characterizes the shape of space (see, e.g., Weeks 1985 for a general
+introduction). General relativity does not at all constrain the topology of
+the universe.
+
+The relationship between topology and geometry is most familiar in flat
+space. Cosmologists often consider flat infinite universes: a model that
+mathematicians denote as , which symbolizes a space that is a the
+product of the three orthogonal real lines. A familiar cosmological model
+that has the same geometry as  but a different topology is the three
+torus or what mathematician call  Most cosmological simulations are
+run on a three torus: if a particle tries to leave the computational
+cube through one side it emerges on the opposite side.
+
+There are several different ways of thinking about the topology of a
+manifold. It is simplest to begin by considering topology in flat two
+dimensional space. One example of a flat topology is a
+square with identified sides. This square is the fundamental domain
+of the topology. Another way of thinking about this topology is to
+glue the sides
+together to create a donut, a two dimensional surface embedded in a three
+dimensional space. Yet another way of thinking about this topology is
+to tile an
+infinite plane with identical copies of the same fundamental domain.
+
+Cosmologists generally consider three possible geometries for the universe:
+a positively curved universe, a flat universe, and a negatively curved
+universe. In standard parlance, closed, critical and open universes. This
+later nomenclature is misleading: negatively curved universes can be either
+infinite in spatial extent or compact. Both models have the same dynamics
+and expand forever: dynamics is determined by geometry. The three-sphere is
+a space of constant positive curvature, and the pseudosphere is a hyperbolic
+space with constant negative curvature.
+
+From a topological point of view, negatively curved (hyperbolic)
+universes are ``generic'': most three dimensional manifolds can be viewed as
+homogenous negatively curved and compact (Thurston's geometrization
+conjecture [Thurston 1978]). Cornish, Gibbons and Weeks (1997) have
+recently shown that in the Hartle-Hawking approach to quantum cosmology, the
+smallest volume manifolds are favored. These smallest volume manifolds are
+the simplest (least complex) compact models.
+
+In negatively curved manifolds, the characteristic length is the curvature
+scale. Thus, throughout the rest of this talk, we will use it as our unit
+of length. There are an infinite number of distinct compact hyperbolic
+topologies. There is a fundamental group, usually denoted  ,
+associated with each of these topologies. Each of these topologies also has
+a specific volume (measured in curvature units). We strongly recommend the
+publicly available SNAPPEA program (http://www.geom.umn.edu/) for anyone
+interested in developing a more intuitive feel for the rich structure of
+compact hyperbolic topology.
+
+One of the intriguing mathematical properties of compact hyperbolic
+manifolds is that geodesic flows on these manifolds are maximally
+chaotic and mixing. Because of this property they are extensively studied by
+physicists and mathematicians interested in quantum chaos(Balazs & Voros 1986;
+Gutzweiler 1985). We
+have speculated that quantum chaos plays an important role in the
+homogenization of the early universe (Cornish, Spergel & Starkman 1996a).
+
+   
+ Next: Observing the Effects of 
+Up: Measuring the Topology of 
+ Previous: Introduction
+
+David Spergel 
+Tue Jul 28 16:22:57 EDT 1998
+
+
+

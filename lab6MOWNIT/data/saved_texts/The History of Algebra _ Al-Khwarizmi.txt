@@ -1,0 +1,402 @@
+The History of Algebra | Al-KhwarizmiYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsAlready booked a tutor?Book A FREE ClassYearKG1st2nd3rd4th5th6th7th8th9th10th11th12thPricingAbout UsFind your Math Personality!HomeMathematicsThe History of AlgebraMathematicsThe History of Algebra81.4k views
+
+Table of Contents
+
+
+
+1.
+Introduction
+
+
+2.
+What is Algebra
+
+
+3.
+History Of Algebra
+
+
+3.
+Developmental Stages Of Algebra
+
+
+4.
+Contributions of Different Countries
+
+
+5.
+Contributions of Great Mathematicians
+
+Muhammad ibn Musa al-Khwarizmi
+Emmy Noether
+
+
+
+
+6.
+Summary
+
+
+7.
+About Cuemath
+
+
+8.
+FAQs
+
+
+9.
+External references
+
+
+
+
+
+27 October 2020                
+Read time: 12 minutes
+
+Introduction
+Mathematics as a subject can be broadly divided into three significant branches Arithmetic, Algebra, and Geometry. Algebra is considered to be one of the oldest components in the history of mathematics. Algebra deals with the study of symbols, exponentials, known and unknown variables, and equations. The History of Algebra has been dealt with in detail here.
+
+
+
+What Is Algebra?
+The Number Theory, Geometry, and their analysis put together to make an extensive part of mathematics which is known as "Algebra". In other words, Algebra is a part of mathematics that deals with symbols and the rules to calculate those symbols.
+Also read:
+
+Algebra in Real Life
+Algebra vs Calculus
+
+
+
+Downloadable PDF
+If you ever want to read it again as many times as you want, here is a downloadable PDF to explore more.
+
+
+
+📥
+
+The History of Algebra
+
+
+Download
+
+
+
+
+
+
+History Of Algebra
+Muhammad ibn Musa al-Khwarizmi was a Persian mathematician who wrote a book named Kitab Al Muhtasar fi Hisab Al Gabr Wa I Muqabala in the Arabic language, which was later translated into English as " The Compendious Book on Calculation by Completion and Balancing", from which the word ALGEBRA was derived. The book provides a systematic solution for linear and quadratic equations.
+According to Al-Khwarizmi, the word algebra is described as 'reduction' and 'balancing' of subtracted terms that is a transposition to other sides of the equation (cancellation of like terms).
+There are some renowned mathematicians from different countries who have made significant contributions in this subject, such as, the Babylonians, the ancient Egyptians, the Chinese, the Greek, and the Indians (Aryabhatta, Brahmagupta, Bhaskara)
+
+
+
+Developmental Stages Of Algebra
+
+There are three critical developmental stages in "Symbolic Algebra" which is as follows :
+1. Rhetorical Algebra
+It was developed by ancient Babylonians where the equation was written in the form of words that remained up to the 16th century.
+Example: x + 5 = 8, is written as " The thing plus five equal to eight"
+2. Syncopated Algebra
+Its expression first appeared in Diophantus Arithmetica (3rd century ) Brahmagupta's  "Brahmagupta's sputa Siddhanta" (9th century), where few symbols were used, and subtraction was used only once in the equation.
+3. Symbolic Algebra
+At this stage, all the symbols were used in Algebra. Many Islamic mathematicians like Ibn Al-Banna and Al Qalasadi wrote in their books about Symbolic Algebra. Francois Viete fully developed it in the 16th century. Rene Descartes introduced a modern notation that can solve geometrical problems in terms of algebra known as Cartesian Geometry. 
+\[\begin{align}&x^2 + px = q\\[6pt]&x^2 = px + q\\[6pt]&x^2 + q = px \end{align}\]
+In early algebra, Quadratic equations played an important role, where it is said to belong one among the above three equations.
+# The Greeks and Vedic Indian Mathematicians developed two more stages of algebra which lie between rhetorical and syncopated stages known as Geometric Constructive stages.
+
+
+
+Contributions of different countries
+I. Babylon
+Ancient Babylonians developed a rhetorical stage of algebra where equations were written in the form of words. They used linear interpolation to approximate intermediate values as they were not interested more in exact solutions. Plimpton 322 tablet, one of the most famous tablets designed around 1900 - 1600 BC gives the tables of "Pythagorean Triplets".
+Learn more about the .
+Following are the significant contributions :
+
+They developed flexible algebraic operations to eliminate fractions and factors by adding equals to equals and multiplying like quantities on both sides of the equation.
+They also knew simple forms of factoring, three-term quadratic equations with the positive term, and cubic equations
+
+II. Ancient Egypt
+Ahmed, an Egyptian mathematician, wrote an Egyptian Papyrus in 1650 BC known as "The Rhind Papyrus" which is considered to be the most extensive ancient Egyptian Mathematical document in history. They mainly used linear equations.
+The Rhind Papyrus contains problems of linear equation in the form of
+x + xa = b and x + xa + bx = c where a, b and c are known terms and x is referred as " aha" or heap. The equations were solved by "method of false position" or "regular falsi" , in which a specific value is substituted to the left-hand side of the equation, and the obtained answer, after performing the required arithmetic operation is compared to the right-hand side of the equation.
+III. China 
+
+ZHOUBI SUANGJING is one of the oldest Chinese Mathematical documents. 
+
+The following are the five major books by Chinese mathematicians in algebra.
+
+
+
+
+Nine Chapters on Mathematical Art
+
+
+It is one of the most influential books that gives solutions for determining and indeterminate simultaneous linear equations using both positive and negative numbers.
+In one of the problems, it has a solution for five unknowns in four equations.
+
+
+
+
+Sea-mirror of the Circle- measurement
+
+
+LI ZHI wrote this book where he solved equations with the highest degree as six by using Horner's method.
+
+
+
+
+Mathematical Treatise in nine section
+
+
+Ch'in Chiu-Shao, a wealthy governor and minister, invented the Chinese Remainder Theorem to solve simultaneous congruences.
+
+
+
+
+Magic Square
+
+
+In this book, the author Yang Hui formed a magic square or matrix by placing coefficients and constants to solve simultaneous linear equations.
+He worked with column reduction methods to get the solution.
+
+
+
+
+Precious mirror of the four elements
+
+
+Chu Shih-Chieh wrote this book in 1303 where unknown quantities in algebraic equations were represented as heaven, man, earth, and matter.
+Horner's method is used to solve the simultaneous equation with the highest degree of fourteen.
+
+
+
+
+ 
+
+Precious mirror of the four elements
+IV Greece
+The Greek mathematician represented the sides of geometric objects, lines, and letters associated with them, which is called Geometric Algebra.
+They invented "The application of areas " to obtain the solutions for equations solved in geometric algebra.
+Following are few Greek mathematicians whose contribution are the milestone in the history of Algebra :
+1. Thymaridas (c 400 BCE - 350 BCE) created a famous rule called
+ "Blooms Of Thymaridas" which states that
+
+
+ 
+
+ 
+
+
+'If the sum of n quantities be given, and also the sum of every pair containing a particular quantity, then this particular quantity is equal to [1/(n - 2)] of the difference between the sums of these pairs and the first given sum' 
+
+
+ 2. Euclid Of Alexandria called as "Father of Geometry". He wrote a textbook named "Elements" which provides the Framework for generalizing formulae beyond the solution of particular problems into more general systems of stating and solving equations.
+
+In Euclid's time, line segments were considered magnitudes. They were solved using the theory of Geometry, which in modern algebra is nothing but solving known and unknown magnitudes applying arithmetic operations.
+There are fourteen propositions in Book ii, which are now known as Geometric equivalents and trigonometry.
+
+Basic laws of addition and multiplication like distributive law, commutative law and associative laws are geometrically proved in Book V and Book VII of Elements.
+
+
+Proposition 5 proves the following equations geometrically
+
+\[\begin{align}a^2 - b^2 &= (a + b) (a - b)\\[6pt](a + b)^2 &= a^2 + b^2 + 2ab \end{align}\]
+
+Proposition 6 and 11 gives the solution to quadratic Equations
+
+ax + x2 = b2  and ax + x2 = a2 geometrically.
+Data was another book written by Euclid for the school of Alexandria. It contains fifteen definitions and ninety-five statements which serve as algebraic rules and formulas.
+The book has solution for dx2 + b2 c - adx = 0. 
+3. Diophantus was a Hellenistic mathematician who wrote ARITHMETICA, a treatise; six among thirteen books have survived. Diophantus was the first to introduce symbols for unknown numbers abbreviations for powers of numbers, relationships, and operations as used in Syncopated algebra.
+The only difference between Diophantus Arithmetica and modern algebra is special symbols for operations, exponentials, and relations.
+V. India
+Indian Mathematicians worked repeatedly on determinate and indeterminate linear quadratic equations, mensuration, and Pythagorean triplets.
+1. Aryabhatta
+He gave the following rules in his book Aryabhatiya
+\[\begin{align}&1^2 + 2^2 +.............. +n^2 = n \quad \frac{(n+1)}{(2n+1)}{6}\\[6pt]&1^3+ 2^3 +.............. +n^3 = (1 + 2 +........ + n)^2 \end{align}\]
+2. Brahma Sphta Siddhanta
+Brahmagupta wrote Brahma Sphta Siddhanta in which he gave solutions for general quadratic equations for both positive and negative roots. He gave Pythagorean triads m, 
+\(\begin{align}½ ( m2/n - n), ½ ( m2/n + n) \end{align}\) by using indeterminate analysis. He was the first to give a solution for the Diophantine linear equation ax + by = c where a, b and c are integers.
+Brahmagupta followed syncopated algebra where addition, subtraction, and division are represented as given in the table below. Abbreviations were used to denote multiplication, evolution, and unknown quantities.
+
+
+
+
+Addition
+
+
+Placing numbers side by side
+
+
+
+
+Subtraction
+
+
+Placing a dot over subtrahend
+
+
+
+
+Division
+
+
+Placing the divisor below the dividend
+
+
+
+
+3. Bhaskara II
+
+He is one of the leading Indian mathematicians of the 12th century.
+He wrote books titled "Lilavati " and "Vija - Ganita" where he gave solutions for determinate and indeterminate equations, linear and quadratic equations, and Pythagorean triples.
+He also gave a solution to Pell's equation. 
+He denoted unknown variables as initial symbols of colors. 
+Bhaskara was best at giving solutions using indeterminate analysis.
+
+
+
+
+Contributions of great mathematicians:
+
+1. Muhammad ibn Musa al-Khwarizmi
+
+Muhammad ibn Musa al-Khwarizmi
+
+A Persian mathematician whose works have wide influence in mathematics, astronomy, and geography.
+
+
+He wrote the book " The compendious book on calculation by completion and balancing" translated in Arabic as "Kitab Al muhtasar fi Hisab Al Gabr Wa I Muqabala" from which the word ALGEBRA was coined.
+
+
+The book gives a systematic approach to solve linear and quadratic equations by reduction and balancing methods. Here are the steps used by him:
+
+
+Step 1 : Reduction in which the given equation is reduced to one of the following standard type,
+
+
+
+
+
+ax2 = bx
+
+
+Squares equal roots 
+
+
+
+
+ax2 = c
+
+
+Squares equal number 
+
+
+
+
+bx = c
+
+
+Roots equal number 
+
+
+
+
+ax2 + bx = c
+
+
+Squares and roots equal numbers
+
+
+
+
+ax2 + c = bx
+
+
+Squares and numbers equal roots. 
+
+
+
+
+bx + c = ax2
+
+
+Roots and numbers equal squares. 
+
+
+
+
+
+Step 2 : balancing by adding the same quantities to each side and removing negative roots, units and squares from equations.
+
+
+
+
+Example :
+
+
+
+ 
+ 
+\[\begin{align}&x^2 + 16 = 9 + x\\[5pt]&x^2 + 16 - 9 = x\end{align}\]
+Solution :  \(\begin{align}x^2 + 7 = x\end{align}\)
+ 
+
+
+Al-Khwarizmi gave a unifying theory that created a new revolution in mathematical history where rational numbers, irrational numbers, geometrical magnitudes are treated as "Algebraic Objects ". 
+
+
+
+
+2. Emmy Noether
+ Amalie Emmy Noether, a German mathematician, gave her contribution to Abstract Algebra. A famous theorem in Mathematical Physics has been titled in her name known as Noether theorem. She developed the Theories of Rings, fields and algebras. In physics Noether theorem explains the connection between symmetry and conservation laws.
+Emmy Noether was born in a Jewish family in Franconian for Max Noether who was a mathematician. She studied mathematics at "University of Erlangen" She worked at the Mathematical Institute of Erlangenunder the supervision of Paul Gordan in 1907.
+In 1915 she got an invitation to join "the University of Gottingen" , a world renowned centre of mathematical research from David Hilbert, and Fliex Klien to join the mathematics department. She spent four years lecturing under David Hilbert's name. In 1919, she obtained "rank of privatdozent" after getting approval for her habilitation.
+Noether's mathematical work is divided into three 'epochs'
+
+Contribution to Theories of algebraic invariants and number fields (1908 - 1919)
+Noether developed "theory of ideals in commutative rings " into a tool which had wide ranging applications that was published in her paper "Idealtheorie in Ringbereichen" (1920 - 1926)
+She published papers on noncommutative algebras and hypercomplex numbers and united the representation theory of groups with the theory of modules and ideals (1927 - 1935).
+
+Pavel Alexandros, Albert Einstein, Jean Dieudonne, Herman Weyl, and Norbert Wiener described her as one of the most important women in the History of Mathematics. Her contribution to Abstract Algebra earned her the title " Mother of Algebra " 
+
+
+
+
+Summary:
+The History of Algebra almost started from the 9th century and the contributions of mathematics of different countries are infinite. Modern algebra is the evolution of all their works which has made it easy. The solution of quadratic equations with any number of exponentials can be obtained for both positive and negative integers by simple arithmetic analysis.
+Written by Nethravati C, Cuemath Teacher
+
+
+
+About Cuemath
+Cuemath, a student-friendly mathematics platform, conducts regular Online Classes for academics and skill-development and their Mental Math App, on both iOS and Android, is a one-stop solution for kids to develop multiple skills. Understand the Cuemath Fee structure and sign up for a free trial.
+
+
+
+Frequently Asked Questions (FAQs)
+
+
+Who is Muhammad ibn Musa al-Khwarizmi?
+
+Muhammad ibn Musa al-Khwarizmi was a Muslim mathematician and astronomer who lived in Baghdad around the 9th century. He wrote a book called "kitab Al-Jabr" from which the word "ALGEBRA" derived. 
+
+
+
+
+What are the contributions of the Islamic world to Algebra?
+
+
+Arabic mathematicians were first to introduce algebra as an independent discipline in an elementary form.
+Emphasizes Hindu influence, emphasizes Mesopotamian or Persian- syriac influence, and emphasizes Greek influence are the three algebraic theories which have originated from ARABIC ALGEBRA.
+Al-Hassar, a mathematician from Morocco developed a special mathematical notation for fractions where the numerator and the denominator is separated by an horizontal bar.
+Omar Khayyam wrote a book on algebra which included 3rd degree algebraic equations. He provided both Arithmetic and geometric solutions for the quadratic equations.
+Al karkhi successor of Abu Al Wafa al buzjani was the first to discover the solutions for equations of the form . He is the first person to replace the geometrical operations with the arithmetic operations which are the core of algebra.
+
+
+
+ 
+FOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandFOLLOW CUEMATHFacebookYoutubeInstagramTwitterLinkedInTiktokMATHS PROGRAMMaths ProgramOnline TutorsMATHS WORKSHEETSKindergarten Worksheets1st Grade Worksheets2nd Grade Worksheets3rd Grade Worksheets4th Grade Worksheets5th Grade Worksheets6th Grade Worksheets7th Grade Worksheets8th Grade Worksheets9th Grade Worksheets10th Grade WorksheetsINTERNATIONALUnited StatesUnited KingdomCanadaDubaiAustraliaFranceGermanyIndonesiaItalyNetherlandsSri LankaSingaporeSaudi ArabiaOmanBahrainQatarNorwaySwedenIrelandABOUT USOur MissionOur JourneyOur TeamMATHS TOPICSNumbersAlgebraGeometryMeasurementCommercial MathsDataTrigonometryCalculusMaths FormulasCalculatorsMultiplication TablesQUICK LINKSMaths GamesMaths PuzzlesMaths QuestionsBlogsCURRICULUM1st Grade Maths2nd Grade Maths3rd Grade Maths4th Grade Maths5th Grade Maths6th Grade Maths7th Grade Maths8th Grade MathsTerms and ConditionsPrivacy Policy

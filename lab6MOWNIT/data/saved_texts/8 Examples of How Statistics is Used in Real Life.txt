@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+8 Examples of How Statistics is Used in Real Life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statology
+Statistics Made Easy
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+Menu
+
+
+About
+Course
+Basic Stats
+Machine Learning
+Software Tutorials
+
+Excel
+Google Sheets
+MongoDB
+MySQL
+Power BI
+PySpark
+Python
+R
+SAS
+SPSS
+Stata
+TI-84
+VBA
+
+
+Tools
+
+Calculators
+Critical Value Tables
+Glossary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 Examples of How Statistics is Used in Real Life 
+
+
+ by Zach BobbittPosted on January 3, 2022 
+
+
+
+The field of statistics is concerned with collecting, analyzing, interpreting, and presenting data.
+When learning about statistics, students often ask:
+When is statistics actually used in real life?
+It turns out that it’s used in many different fields for a variety of applications.
+In this article we share 8 examples of how statistics is used in real life.
+Related: Why is Statistics Important? (10 Reasons Statistics Matters!)
+Example 1: Weather Forecasting
+Statistics is used heavily in the field of weather forecasting.
+In particular, probability is used by weather forecasters to assess how likely it is that there will be rain, snow, clouds, etc. on a given day in a certain area.
+Forecasters will regularly say things like “there is a 90% chance of rain today between after 5PM” to indicate that there’s a high likelihood of rain during certain hours.
+Example 2: Sales Tracking
+Retail companies often use descriptive statistics like the mean, median, mode, standard deviation, and interquartile range to track the sales behavior of certain products.
+This gives companies an idea of how many products they can expect to sell during different time periods and allows them to know how much they should keep in inventory.
+Example 3: Health Insurance
+Health insurance companies often use statistics and probability to determine how likely it is that certain individuals will spend a certain amount on healthcare each year.
+For example, an actuary at a health insurance company might use factors like age, existing medical conditions, current health status, etc. to determine that there’s a 80% probability that a certain individual will spend $10,000 or more on healthcare in a given year.
+Example 4: Traffic
+Traffic engineers regularly use statistics to monitor total traffic in different areas of a city, which allows them to decide whether or not they should add or remove roads to optimize traffic flow.
+Also, traffic engineers often use time series analysis to monitor how traffic changes throughout the day so they can optimize the behavior of traffic lights.
+Example 5: Investing
+Investors use statistics and probability to assess how likely it is that a certain investment will pay off.
+For example, a given investor might determine that there is a 5% chance that the stock of company A will increase 100x during the upcoming year. Based on this probability, they’ll decide how much of their portfolio to invest in the stock.
+Example 6: Medical Studies
+Statistics is regularly used in medical studies to understand how different factors are related.
+For example, medical professions often use correlation to analyze how factors like weight, height, smoking habits, exercise habits, and diet are related.
+If a certain diet and overall weight is found to be negatively correlated, a medical professional may recommend the diet to an individual who needs to lose weight.
+Example 7: Manufacturing
+Statistics is often used in manufacturing to monitor the efficiency of different processes.
+For example, manufacturing engineers may collect a random sample of widgets from a certain assembly line and track how many of the widgets are defective.
+They may then perform a one proportion z-test to determine if the proportion of widgets that are defective is lower than a certain value that is considered acceptable.
+Example 8: Urban Planning
+Statistics is regularly used by urban planners to decide how many apartments, shops, stores, etc. should be built in a certain area based on population growth patterns.
+For example, if an urban planner sees that population growth in a certain part of the city is increasing at an exponential rate compared to other parts of the city then they may decide to prioritize building new apartment complexes in that part of town compared to another area.
+
+
+
+Posted in Programming 
+
+
+Zach BobbittHey there. My name is Zach Bobbitt. I have a Masters of Science degree in Applied Statistics and I’ve worked on machine learning algorithms for professional businesses in both healthcare and retail. I’m passionate about statistics, machine learning, and data visualization and I created Statology to be a resource for both students and teachers alike.  My goal with this site is to help you learn statistics through using simple terms, plenty of real-world examples, and helpful illustrations.
+
+
+
+
+
+Post navigation
+Prev The Three Assumptions Made in a Paired t-TestNext How to Use the slice() Function in dplyr (With Examples)
+
+
+
+
+			One Reply to “8 Examples of How Statistics is Used in Real Life”		
+
+
+
+
+
+ Biplab Goswami says: 
+
+December 13, 2023 at 10:07 am 
+
+
+This statements helped me to compair statistics in our real life…
+
+Reply 
+
+
+
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name * 
+Email * 
+ 
+
+Δ 
+
+
+
+
+
+
+Search
+
+
+Search for:
+
+
+Search
+
+ABOUT STATOLOGY Statology makes learning statistics easy by explaining topics in simple and straightforward ways. Our team of writers have over 40 years of experience in the fields of Machine Learning, AI and Statistics. Learn more about our team here.
+
+Featured Posts6 Key Techniques in Survival Analysis Every Analyst Should KnowJune 11, 2024
+5 Statistical Fallacies and How to Avoid ThemJune 10, 2024
+5 Free University Courses to Learn StatisticsJune 5, 2024
+How to Calculate Mean, Median, and Mode with NumPyJune 4, 2024
+Tips for Handling Multicollinearity in Regression ModelsJune 3, 2024
+7 Common Beginner Stats Mistakes and How to Avoid ThemMay 31, 2024
+Statology StudyStatology Study is the ultimate online statistics study guide that helps you study and practice all of the core concepts taught in any elementary statistics course and makes your life so much easier as a student.
+
+Introduction to Statistics CourseIntroduction to Statistics is our premier online video course that teaches you all of the topics covered in introductory statistics. Get started  with our course today.
+
+You Might Also Like4 Examples of Using Conditional Probability in Real Life10 Examples of Using Probability in Real LifeThe Importance of Statistics in Accounting (With Examples)6 Examples of Using Standard Deviation in Real LifeStatistics vs. Econometrics: What’s the Difference?The Importance of Statistics in Finance (With Examples) 
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Statology | Privacy PolicyWisteria Theme by WPFriendship ⋅ Powered by WordPress 
+
+
+
+
+
+
+
+
+Join the Statology Community
+Sign up to receive Statology's exclusive study resource: 100 practice problems with step-by-step solutions. Plus, get our latest insights, tutorials, and data analysis tips straight to your inbox!
+
+
+
+
+
+
+
+By subscribing you accept Statology's Privacy Policy.Leave this field empty if you're human: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,728 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Set Theory | Basic Concepts of Set Theory – Hitbullseye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Testimonial
+Courses
+Contact
+Careers
+Web Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learning Home
+
+
+
+
+
+
+
+
+MBAPlacement TrainingBANK PO / SSCLAW / CLATBBA / IPMHotel ManagementGMATGRELLM 
+
+
+
+
+
+
+
+QuantGKVerbalDataReasoningVocabInterview PrepE-library/BooksPuzzles 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rate this Article
+
+
+
+
+
+★
+★
+★
+★
+★
+
+
+
+
+
+Not Now! Will rate later
+
+
+
+Rate
+
+
+
+
+
+
+
+
+
+
+Already Rated
+
+
+
+
+
+★
+★
+★
+★
+★
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+Set Theory: Basic Concepts
+		
+	Learn the basic concepts and formulas of Set Theory with the help of solved examples.
+
+
+
+
+
+
+
+
+Rate Us
+Views:118421
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Instant Access to Free Material
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Set Theory
+A Set is defined as a group of objects, known as elements. These objects could be anything conceivable, including numbers, letters, colors, even set themselves. However, none of the objects of the set can be the set itself.
+
+Set Notation
+We write sets using braces and denote them with capital letters. The most natural way to describe sets is by listing all its members.
+
+
+Suggested Action
+
+ FREE Live Master Classes by our Star Faculty with 20+ years of experience. Register Now 
+For example,
+A = {1,2,3,…,10} is the set of the first 10 counting numbers, or naturals, B = {Red, Blue, Green} is the set of primary colors, N = {1,2,3,…} is the set of all naturals, and Z = {...,−3,−2,−1,0,1,2,3,…} is the set of all integers.
+Well defined Set
+Well-defined means, it must be absolutely clear that which object belongs to the set and which does not.
+Some common examples of well defined sets:
+
+The collection of vowels in English alphabets. This set contains five elements, namely, a, e, i, o, u
+N = {1,2,3,…} is the set of counting numbers, or naturals.
+N = {1,2,3,…} is the set of counting numbers, or naturals.
+Z = {…,−3,−2,−1,0,1,2,3,…} is the set of integers.
+
+Set Equality
+Two sets A and B are said to be equal if and only if both the sets have same and exact number of elements. Here, if and only if means that both parts of the statement ("A = B" and "both sets have the exact same elements") are interchangeable. For example,
+{2,4,6,8} = {4,8,6,2} and {2,4,6,8} = {2,4,2,6,8,2,6,4,4}.
+Another example comes from the set of even naturals, which can be described as E = {2,4,6,8,…} = {2x | x ∊ N}.
+Null Set
+A very important set is the empty set, or the null set, which has no elements. We denote the empty set by ∅, or {}. Note that we could also write, for example, ∅= {x | x ∊N and x < 0} or ∅
+= {x | x ∊Q and x ∉Q}.
+Intersection of Sets
+The intersection of sets A and B, denoted as A ∩ B, is the set of elements common to both A AND B.
+For example:
+A = {1,2,3,4,5}
+B = {2,4,6,8,10}
+The intersection of A and B (i.e. A∩B) is simply {2, 4}
+Union of Sets
+The union of sets A and B, written as A∪B, is the set of elements that appear in either A OR B.
+For example:
+A = {1,2,3,4,5}
+B = {2,4,6,8,10}
+The union of A and B (i.e. A∪B) is {1, 2, 3, 4, 5, 6, 8, 10}
+Difference of Sets
+The difference of sets A and B, written as A-B, is the set of elements belonging to set A and NOT to set B.
+For example:
+A = {1,2,3,4,5}
+B = {2,3,5}
+The difference of A and B (i.e. A-B) is {1,4}
+NOTE: A-B ≠ B-A
+Cartesian Product of Sets
+The Cartesian product of sets A and B, written A x B, is expressed as:
+A x B = {(a,b)│a is every element in A, b is every element in B}
+For example:
+A = {1,2}
+B = {4,5,6}
+The Cartesian product of A and B (i.e. A x B) is {(1,4), (1,5), (1,6), (2,4), (2,5), (2,6)}
+Now, lets us try doing some questions based on Set Theory.
+Solved Questions:
+Question 1: If ∪ = {1, 3, 5, 7, 9, 11, 13}, then which of the following are subsets of U.
+B = {2, 4}
+A = {0}
+C = {1, 9, 5, 13}
+D = {5, 11, 1}
+E = {13, 7, 9, 11, 5, 3, 1}
+F = {2, 3, 4, 5}
+Answer: Here, we can see that C, D and E have the terms which are there in ∪. Therefore, C, D and E are the subsets of ∪.
+Question 2: Let A and B be two finite sets such that n(A) = 20, n(B) = 28 and n(A ∪ B) = 36, find n(A ∩ B).
+Solution: Using the formula n(A ∪ B) = n(A) + n(B) - n(A ∩ B).
+then n(A ∩B) = n(A) + n(B) - n(A ∪B)
+= 20 + 28 - 36
+= 48 - 36
+= 12
+
+
+ 
+
+Question 3: In a group of 60 people, 27 like cold drinks and 42 like hot drinks and each person likes at least one of the two drinks. How many like both coffee and tea?
+Solution: Let A = Set of people who like cold drinks B = Set of people who like hot drinks Given,
+(A ∪B) = 60     n(A) = 27     n(B) = 42 then;
+n(A ∩ B) = n(A) + n(B) - n(A ∪ B)
+= 27 + 42 - 60
+= 69 - 60 = 9
+= 9
+Therefore, 9 people like both tea and coffee.
+Question 4: In a competition, a school awarded medals in different categories. 36 medals in dance, 12 medals in dramatics and 18 medals in music. If these medals went to a total of 45 persons and only 4 persons got medals in all the three categories, how many received medals in exactly two of these categories?
+Solution: Let A = set of persons who got medals in dance.
+B = set of persons who got medals in dramatics.
+C = set of persons who got medals in music.
+Given,
+n(A) = 36
+n(B) = 12
+n(C) = 18
+n(A ∪ B ∪C) = 45
+n(A ∩ B ∩ C) = 4
+We know that number of elements belonging to exactly two of the three sets A, B, C
+= n(A ∩ B) + n(B ∩ C) + n(A ∩ C) - 3n(A ∩ B ∩ C)
+= n(A ∩ B) + n(B ∩ C) + n(A ∩ C) - 3 × 4 ……..(i)
+n(A ∪ B ∪ C) = n(A) + n(B) + n(C) - n(A ∩ B) - n(B ∩ C) - n(A ∩ C) + n(A ∩ B ∩C)
+Therefore, n(A ∩ B) + n(B ∩ C) + n(A ∩ C) = n(A) + n(B) + n(C) + n(A ∩ B ∩ C) - n(A ∪ B ∪ C)
+From (i) required number
+= n(A) + n(B) + n(C) + n(A ∩ B ∩ C) - n(A ∪ B ∪ C) - 12
+= 36 + 12 + 18 + 4 - 45 - 12
+= 70 - 67
+= 3
+Question 5: In a group of 100 persons, 72 people can speak English and 43 can speak French. How many can speak English only? How many can speak French only and how many can speak both English and French?
+Solution: Let A be the set of people who speak English.
+B be the set of people who speak French.
+A - B be the set of people who speak English and not French.
+B - A be the set of people who speak French and not English.
+A ∩ B be the set of people who speak both French and English.
+Given,
+n(A) = 72
+n(B) = 43
+n(A ∪ B) = 100
+Now, n(A ∩ B) = n(A) + n(B) - n(A ∪ B)
+= 72 + 43 - 100
+= 115 - 100
+= 15
+Therefore, Number of persons who speak both French and English = 15
+
+
+Suggested Action:
+
+Kick start Your Preparations with FREE access to 25+ Mocks, 75+ Videos & 100+ Chapterwise Tests.Sign Up Now
+n(A) = n(A - B) + n(A ∩ B) ⇒
+n(A - B) = n(A) - n(A ∩ B)
+= 72 - 15
+= 57
+and n(B - A) = n(B) - n(A ∩ B)
+= 43 - 15
+= 28
+Therefore, Number of people speaking English only = 57
+Number of people speaking French only = 28
+
+
+
+
+
+
+Key Learning:
+In this article, we have learnt about the different types of sets as well as formulas to solve questions in a simplified manner.
+
+ 
+
+
+
+
+
+Rate Us
+Views:118421
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+Most Popular Articles - PS
+
+
+
+ 
+
+
+
+
+Time and Work Concepts  
+
+
+
+
+ 
+
+
+
+
+Time and Work Formula and Solved Problems  
+
+
+
+
+ 
+
+
+
+
+Time and Work Problems (Easy)  
+
+
+
+
+ 
+
+
+
+
+Time and Work Problems (Difficult)  
+
+
+
+
+ 
+
+
+
+
+Problems on Ages Practice Problems : Level 02  
+
+
+
+
+ 
+
+
+
+
+Chain Rule : Theory & Concepts  
+
+
+
+
+ 
+
+
+
+
+Chain Rule Solved Examples  
+
+
+
+
+ 
+
+
+
+
+Chain Rule Practice Problems: Level 01  
+
+
+
+
+ 
+
+
+
+
+Chain Rule Practice Problems : Level 02   
+
+
+
+
+ 
+
+
+
+
+Problems on Numbers System : Level 02  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Testimonial
+Courses
+Contact
+
+
+
+
+Quick Links
+
+
+MBA
+Bank-PO
+GK
+Interview
+Miscellaneous
+Vocab
+Academic Zone
+Placement Training
+After +2 - Law / BBA / HM / Others
+
+
+
+
+
+Download App
+
+
+
+
+
+Follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © Hitbullseye 2023 | All Rights Reserved
+
+Privacy Policy
+Refund Policy
+Term Of Use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Login Successful: Redirecting...
+						 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download Our App
+
+
+
+
+ Learn on-the-go
+ Unlimited Prep Resources
+ Better Learning Experience
+Personalized Guidance
+
+
+
+Get More Out of Your Exam Preparation - Try Our App! 
+
+
+
+
+
+
+Download the App Now
+Continue in
+				Browser
+
+
+
+
+
+
+
+

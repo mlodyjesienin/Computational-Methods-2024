@@ -1,0 +1,56 @@
+Newton's Legacy | NOVA | PBSOpens in a new windowConnect With UsTwitterFaceBookInstagramYouTubeNewsletter0NovaMenuSite NavigationWatchTopicsPlanet EarthAncient WorldsSpace + FlightBody + BrainMilitary + EspionageTech + EngineeringEvolutionNaturePhysics + MathSearchSearchscheduleEducationPodcastInteractivesNewsletterAboutPhysics + MathPhysics & MathNewton's LegacyGravity. Laws of motion. Reflecting telescope. Calculus. The list of Sir Isaac's accomplishments goes on...ByPeter TysonTuesday, November 15, 2005 NOVAA replica of the six-inch reflecting telescope that Newton presented to the Royal Society in 1671© Andrew DunnShareRelatedEinstein on NewtonNewton the AlchemistNewton's Dark Secrets
+Sir Isaac Newton's accomplishments border on the uncanny, as does his image in the world of science. As the historian Mordechai Feingold has written, "With time, the historical Newton receded into the background, overshadowed by the very legacy he helped create. Newton thus metamorphosed into science personified." So what is that legacy? What were those accomplishments? Here, familiarize yourself with Newton's greatest contributions.
+Invented the reflecting telescopeThe standard telescope of Newton's time, the refracting telescope, was not ideal. Its glass lenses focused the different colors inherent in light at different distances. This resulted, at the edges of any bright objects seen through the telescope, in colored fringes that rendered those objects slightly out of focus. Newton solved the "chromatic aberration" problem by using mirrors instead of lenses. His original reflecting telescope, which he built himself in 1668, was just six inches long. This modest device not only eliminated the colored fringes but magnified whatever it focused on by 40 times, which, as Newton noted at the time, "is more than any 6 foote Tube can do." After presenting his scope to the Royal Society, the then-unknown Newton was proposed for membership; he later served as its president for 24 years, until his death in 1727.
+
+
+"Newton Investigating Light," from The Illustrated London News, June 4, 1870
+        
+        © Jim Sugar/CORBIS
+
+
+Proposed new theory of light and colorNot long after he donated his telescope to the Royal Society, Newton delivered a paper to that august body about his novel theory of light and colors. Using prisms and his usual very exacting experimental technique, Newton had discovered that sunlight is comprised of all the colors of the rainbow, which could not only be separated but recombined into white light. "[T]he most surprising and wonderful composition was that of Whiteness," he wrote. "I have often with Admiration beheld that all the Colours of the Prisme being made to converge, and thereby to be again mixed ... reproduced light, intirely [sic] and perfectly white." Though he made his experiments on light as early as 1666, when he was only 24 years old, he didn't publish his classic Opticks, which summarized his findings on light and color, until 1704.
+
+
+The first page of Newton's "How to Draw Tangents to Mechanicall Lines" (November 8, 1665), from his "Waste Book" manuscript. Image Credit: Library of Congress
+
+
+Discovered calculusWhen Newton began to muse on the problem of the motion of the planets and what kept them in their orbits around the sun, he realized that the mathematics of the day weren't sufficient to the task. Properties such as direction and speed, by their very nature, were in a continuous state of flux, constantly changing with time and exhibiting varying rates of change. So he invented a new branch of mathematics, which he called the fluxions (later known as calculus). Calculus allowed him to draw tangents to curves, determine the lengths of curves, and solve other problems that classical geometry could not help him solve. Interestingly, Newton's masterwork, the Principia, doesn't include the calculus in the form that he'd invented years before, simply because he hadn't yet published anything about it. But he did combine related methods with a very high level of classical geometry, making no attempt to simplify it for his readers. The reason was, he said, "to avoid being baited by little Smatterers in Mathematicks."
+
+
+Newton's first and second laws of motion, in Latin, as they appear in the original 1687 edition of the Principia. Image Credit: Cambridge University Library
+
+
+Developed three laws of motionNewton's Principia is difficult to comprehend on two levels, even for experts: in its original form, it is written in Latin, and it uses very challenging mathematics. Yet one thing that comes out very simply and very clearly to all is his three laws of motion:Law of inertia: Every object persists in its state of rest or uniform motion in a straight line unless it is compelled to change that state by forces impressed upon it.Law of acceleration: Force is equal to the change in momentum (mV) per change in time. For a constant mass, force equals mass times acceleration, F = ma.Law of action and reaction: For every action, there is an equal and opposite reaction.To these Newton added, in the Principia, two general principles of space and time, many careful explanations, and much else besides. All of this went into his classic explanation of how the universe works, otherwise known as Newtonian mechanics. (Mechanics developed into a branch of physical science that deals with energy and forces and their effect on bodies.)
+
+
+As an old man Newton claimed the idea of universal gravitation came to him while watching an apple fall in the garden of his mother's house at Woolsthorpe (seen here as it appears today).
+        
+        © Bettmann/CORBIS
+
+
+
+Support Provided ByLearn More
+Devised law of universal gravitationNewton said shortly before his death that it was seeing an apple fall in his mother's garden that set him thinking "that the power of gravity ... was not limited to a certain distance from the earth but that this power must extend much farther than was usually thought. Why not as high as the moon ... and if so that must influence her motion and perhaps retain her in her orbit." This brainstorm (which some scholars suspect Newton may have invented late in life) ultimately led to his law of universal gravitation. The law says that all particles of matter in the universe attract every other particle, that gravitational attraction is a property of all matter. The law explained many things, from the orbits of the planets around the sun to the influence of the moon and sun on the tides. And it held sway as the accepted description of terrestrial and celestial mechanics for almost 200 years—until Einstein came along and rocked the boat with relativity.
+
+
+The work of alchemists, depicted here in a painting by the 19th-century artist William Fettes Douglas, helped lay the groundwork for modern chemistry.
+        
+        Courtesy Wikipedia.org
+
+
+Advanced early modern chemistryNewton spent untold hours of his life practicing alchemy. Like other alchemists, he sought to turn base metals into gold, find a universal cure for disease, and secure the elixir of life, which promised perpetual youth and eternal life. In his garden shed outside his rooms at Trinity College, Cambridge, in the midst of phials and furnaces, mortars and pestles, Newton pored over ancient texts and performed endless experiments. Yet while he never found what he and other alchemists sought, and while he only published one short paper that grew out of his alchemical experiments (a two-page speculation on acids), his work was not for naught. As the historian Jed Buchwald has said, "As historians have shown in the last several decades, there was a much more profound element to the practice of alchemy which really makes it deserving of being called early modern chemistry." Through his meticulous efforts, Newton greatly furthered the practice and techniques of chemical science.
+
+
+"Newton," painted by William Blake in 1795
+        
+        Erich Lessing/Art Resource, NY
+
+
+Became father of modern scienceNewton essentially invented many elements of the modern scientific method. His paper on the properties of light that he presented to the Royal Society in the early 1670s shows all the hallmarks of the method he would use throughout his long life: conducting experiments and taking very careful notes on the results; making measurements; conducting further experiments that grew out of the initial ones; formulating a theory, then creating yet further experiments to test it; and finally, painstakingly describing the entire process so that other scientists could replicate every step of the way. This method governs how all science is conducted today. Newton once famously said, "If I have seen further it is by standing on the shoulders of Giants." Many scientists today would argue that the greatest Giant of all in the world of science was Isaac Newton himself.
+Receive emails about upcoming NOVA programs and related content, as well as featured reporting about current events through a science lens.Email AddressZip CodeSubscribeShare this articlePeter TysonPosts By This Contributor Most PopularWatch | EpisodeArctic SinkholesRead | ArticleNOVA’s most popular science documentaries of 2022Read | ArticleHow a select few people have been cured of HIV
+Carlisle Companies
+
+CPB
+
+NOVA Science Trust Logo
+National Corporate funding for NOVA is provided by Carlisle Companies. Major funding for NOVA is provided by the NOVA Science Trust, the Corporation for Public Broadcasting, and PBS viewers.Site MetaNavigateHomeWatchInteractivesTV ScheduleEducationAboutContactShopCreditsFundersTerms of UsePrivacy PolicyCorporate SponsorshipTopicsPlanet EarthAncient WorldsSpace + FlightBody + BrainMilitary + EspionageTech + EngineeringEvolutionNaturePhysics + MathExploreThe Nature of RealityNOVA ScienceNOWThe Secret Life of Scientists and EngineersNOVA WondersNOVA Science StudioNOVA LabsNOVA NextWhat the Physics?!Gross ScienceConnect With UsTwitterFaceBookInstagramYouTubeNewsletterITunesPodcastsThis website was produced for PBS Online by GBH. PBS is a 501(c)(3) not-for-profit organization. © 1996–2024 WGBH Educational FoundationNova

@@ -1,0 +1,234 @@
+
+
+
+Von Neumann and the Development of Game Theory
+
+
+
+
+
+
+
+
+Emile
+Borel: The Forgotten Father of Game Theory? 
+
+In 1921, Emile Borel, a French mathematician, published several papers on
+the theory of games. He used poker as an example and addressed the problem
+of bluffing and second-guessing the opponent in a game of imperfect
+information. Borel envisioned game theory as being used in economic and
+military applications.
+Borel's ultimate goal was to determine whether a "best" strategy for a
+given game exists and to find that strategy. While Borel could be arguably
+called as the first mathematician to envision an organized system for
+playing games, he did not develop his ideas very far. For that reason,
+most historians give the credit for developing and popularizing game
+theory to John Von Neumann, who published his first paper on game theory
+in 1928, seven years after Borel.
+
+
+
+
+John Von Neumann
+
+
+
+
+Born in Budapest, Hungary, in 1903, Von Neumann distinguished himself from
+his peers in childhood for having a photographic memory, being able to
+memorize and recite back a page out of a phone book in a few minutes.
+Science, history, and psychology were among his many interests; he
+succeeded in every academic subject in school.
+
+
+He published his first mathematical paper in collaboration with his tutor
+at the age of eighteen, and resolved to study mathematics in college. He
+enrolled in the University of Budapest in 1921, and over the next few
+years attended the University of Berlin and the Swiss Federal Institute
+of Technology in Zurich as well. By 1926, he received his Ph.D. in
+mathematics with minors in physics and chemistry.
+
+
+By his mid-twenties, von Neumann was known as a young mathematical genius  
+and his fame had spread worldwide in the academic community. In 1929, he
+was offered a job at Princeton. Upon marrying his fiancee, Mariette,
+Neumann moved to the U.S. (Agnostic most of his life, Von Neumann accepted
+his wife's Catholic faith for the marriage, though not taking it very
+seriously.)
+
+
+In 1935, Mariette gave birth to Von Neumann's daughter, Marina. Two years
+later, Mariette left Von Neumann for J. B. Kuper, a physicist. Within a
+year of his divorce, Von Neumann began an affair with Klara Dan,
+his childhood sweetheart, who was willing to leave her husband for him.
+
+
+Von Neumann is commonly described as a practical joker and always the life
+of the party. John and Klara held a party every week or so, creating a
+kind of salon at their house. Von Neumann used his phenomenal memory to
+compile an immense library of jokes which he used to liven up a
+conversation. Von Neumann loved games and toys, which probably contributed
+in great part to his work in Game Theory.
+
+
+An occasional heavy drinker, Von Neumann was an aggressive and reckless
+driver, supposedly totaling a car every year or so. According to William
+Poundstone's Prisoner's Dilemma, "an intersection in Princeton was
+nicknamed "Von Neumann Corner" for all the auto accidents he had there."
+(p.25)
+
+
+His colleagues found it "disconcerting" that upon entering an office where
+a pretty secretary worked, von Neumann habitually would "bend way way
+over, more or less trying to look up her dress."  (Steve J. Heims, John
+Von Neumann and Norbert Wiener: From Mathematics to the Technologies of
+Life and Death, 1980, quoted in Prisoner's Dilemma, p.26) Some
+secretaries 
+were so bothered by Von Neumann that they put cardboard partitions at the
+front of their desks to block his view.
+
+
+Despite his personality quirks, no one could dispute that Von Neumann was
+brilliant. Beginning in 1927, Von Neumann applied new mathematical methods
+to quantum theory. His work was instrumental in subsequent "philosophical"
+interpretations of the theory.
+
+
+
+For Von Neumann, the inspiration for game theory was poker, a game he
+played occasionally and not terribly well. Von Neumann realized that poker
+was not guided by probability theory alone, as an unfortunate player who
+would use only probability theory would find out. Von Neumann wanted to
+formalize the idea of "bluffing," a strategy that is meant to deceive the
+other players and hide information from them.
+
+
+In his 1928 article, "Theory of Parlor Games," Von Neumann first
+approached the discussion of game theory, and proved the famous Minimax
+theorem. From the outset, Von Neumann knew that game theory would prove
+invaluable to economists. He teamed up with Oskar Morgenstern, an Austrian
+economist at Princeton, to develop his theory.
+
+
+Their book, Theory of Games and Economic Behavior, revolutionized
+the field of economics. Although the work itself was intended solely for
+economists, its applications to psychology, sociology, politics, warfare,
+recreational games, and many other fields soon became apparent.
+
+
+Although Von Neumann appreciated Game Theory's applications to
+economics, he was most interested in applying his methods to politics and
+warfare, perhaps stemming from his favorite childhood game, Kriegspiel, a
+chess-like military simulation. He used his methods to model the Cold War
+interaction between the U.S. and the USSR, viewing them as two players in
+a zero-sum game.
+
+
+From the very beginning of World War II, Von Neumann was confident of the
+Allies' victory.  He sketched out a mathematical model of the conflict
+from which he deduced that the Allies would win, applying some of the
+methods of game theory to his predictions.
+
+
+In 1943, Von Neumann was invited to work on the Manhattan Project. Von
+Neumann did crucial calculations on the implosion design of the atomic
+bomb, allowing for a more efficient, and more deadly, weapon. Von
+Neumann's mathematical models were also used to plan out the path the
+bombers carrying the bombs would take to minimize their chances of being
+shot down. The mathematician helped select the location in Japan to bomb.
+Among the potential targets he examined was Kyoto, Yokohama, and Kokura.
+
+
+"Of all of Von Neumann's postwar work, his development of the digital
+computer looms the largest today." (Poundstone 76) After examining the
+Army's ENIAC during the war, Von Neumann came up with ideas for a better
+computer, using his mathematical abilities to improve the computer's logic
+design. Once the war had ended, the U.S. Navy and other sources provided
+funds for Von Neumann's machine, which he claimed would be able to
+accurately predict weather patterns.
+
+
+Capable of 2,000 operations a second, the computer did not
+predict weather very well, but became quite useful doing a set of
+calculations necessary for the design of the hydrogen bomb. Von Neumann 
+is also credited with coming up with the idea of basing computer
+calculations on binary numbers, having programs stored in computer's
+memory in coded form as opposed to punchcards, and several other
+crucial developments. Von Neumann's wife, Klara, became one of the first
+computer programmers.
+
+
+Von Neumann later helped design the SAGE computer system designed to
+detect a Soviet nuclear attack
+
+
+In 1948, Von Neumann became a consultant for the 
+RAND Corporation.  RAND
+(Research ANd Development) was founded by defense contractors and the
+Air Force as a "think tank" to "think about the unthinkable." Their main
+focus was exploring the possibilities of nuclear war and the possible
+strategies for such a possibility.
+
+
+Von Neumann was, at the time, a strong supporter of "preventive war."
+Confident even during World War II that the Russian spy network had
+obtained many of the details of
+the atom bomb design, Von Neumann knew that it was only a matter of time
+before the Soviet Union became a nuclear power. He predicted that were
+Russia allowed to build a nuclear arsenal, a war against the U.S. would be
+inevitable. He therefore recommended that the U.S. launch a nuclear strike
+at Moscow, destroying its enemy and becoming a dominant world power, so as
+to avoid a more destructive nuclear war later on. "With the Russians it is
+not a question of whether but of when," he would say. An oft-quoted remark
+of his is, "If you say why not bomb them tomorrow, I say why not today? If
+you say today at 5 o'clock, I say why not one o'clock?"
+
+
+Just a few years after "preventive war" was first advocated, it became an
+impossibility. By 1953, the Soviets had 300-400 warheads, meaning that any
+nuclear strike would be effectively retaliated.
+
+
+In 1954, Von Neumann was appointed to the Atomic Energy Commission. A year
+later, he was diagnosed with bone cancer. William Poundstone's
+Prisoner's 
+Dilemma suggests that the disease resulted from the radiation Von
+Neumann 
+received as a witness to the atomic tests on Bikini atoll. "A number of
+physicists associated with the bomb succumbed to cancer at relatively
+early ages." (p. 189)
+
+
+
+Von Neumann maintained a busy schedule throughout his sickness, even when
+he became confined to a wheelchair. It has been claimed by some that the
+wheelchair-bound mathematician was the inspiration for the character of
+Dr. Strangelove in the 1963 film Dr. Strangelove or: How I Learned to Stop
+Worrying and Love the Bomb.
+
+
+Von Neumann's last public appearance was in February 1956, when President
+Eisenhower presented him with the Medal of Freedom at the White House. In
+April, Von Neumann checked into Walter Reed Hospital. He set up office in
+his room, and constantly received visitors from the Air Force and the
+Secretary of Defense office, still performing his duties as a consultant
+to many top political figures.
+
+
+John von Neumann died February 8, 1957.
+
+
+His wife, Klara von Neumann, committed suicide six years later.
+
+
+Dr. Marina von Neumann Whitman, John's daughter from his first marriage,
+was invited by President Nixon to become the first woman to serve on the
+council of economic advisers.
+
+
+
+
+
+
+
+

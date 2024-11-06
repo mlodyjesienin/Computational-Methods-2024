@@ -1,0 +1,141 @@
+
+
+
+
+
+Mathematical Methods in Theoretical Physics 5354MMIT6Y
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Mathematical Methods in Theoretical Physics
+
+6 EC
+Semester 1, period 2
+5354MMIT6Y
+
+
+
+Owner
+Master Physics and Astronomy (joint degree)
+
+
+Coordinator
+dr. V. Gritsev
+
+
+Part of
+
+Master Physics and Astronomy, track Theoretical Physics, year 1Master Physics and Astronomy, track GRAPPA, year 1
+
+
+
+
+
+
+
+
+General infoCourse contentStudy materialsObjectivesTeaching methodsLearning activitiesAttendanceAssessmentAssignmentsFraud and plagiarismCourse structureTimetableAdditional informationContact information
+
+
+
+Course manual 2018/2019
+Course contentThe course focuses on (algebraic) topological methods and group theory and their applications in theoretical physics.Â Subjects to be covered will be simplicial homology, homotopy, manifolds, groups, De Rham cohomology. When time permits, the basics of fibre bundles and connections may also beÂ covered.Study materialsLiteratureM. Nakahara, 'Geometry, Topology and Physics'.C. Nash and S. Sen, 'Topology and Geometry for Physicists'. B. Schutz, 'Geometrical Methods for Mathematical Physics'.ObjectivesAt the end of the course, the student will be familiar with concepts of Lie groups, manifolds and Riemann geometry, homotopy, homology and cohomology, and applications of above concepts in physics.Teaching methodsLectureSeminarLaptop seminarSelf-studyLearning activitiesActivityNumber of hoursZelfstudie168AttendanceRequirements concerning attendance (OER-B).
+
+In addition to, or instead of, classes in the form of lectures, the elements of the masterâs examination programme often include a practical component as defined in article 1.2 of part A. The course catalogue contains information on the types of classes in each part of the programme. Attendance during practical components is mandatory.
+Assessment
+
+Item and weight
+        
+
+            Details
+        
+
+
+
+Final grade
+
+
+
+
+
+40%Homeworks
+
+
+
+
+
+60%Exam
+
+
+AssignmentsThere are three homework assignments planned for this course.Â The average grade for the three homework sets will count as 40 % of the final grade.Â Discussing the homework problems with your fellow students is allowed, but we expect every student towrite down his or her own solutions.Fraud and plagiarismThe 'Regulations governing fraud and plagiarism for UvA students'  applies to this course. This will be monitored carefully. Upon suspicion of fraud or plagiarism the Examinations Board of the programme will be informed. For the 'Regulations governing fraud and plagiarism for UvA students' see: www.student.uva.nlCourse structure
+
+
+ Weeknummer 
+ Onderwerpen 
+ Studiestof 
+
+
+1
+Introduction and math preliminary
+Nakahara, chapters 1-2Â 
+
+
+2
+Homology
+Nakahara, chapter 3
+
+
+3
+Homotopy
+Nakahara, chapter 4
+
+
+4
+Homotopy and Manifolds
+Nakahara, chapter 5
+
+
+5
+Manifolds and formsÂ 
+Nakahara, chapter 5
+
+
+6
+CohomologyÂ 
+Nakahara, chapter 6
+
+
+7
+Geometry
+Nakahara, chapter 7
+
+
+8
+Preparation for the exam and the exam.
+Nakahara
+
+
+TimetableThe schedule for this course is published on DataNose.Additional informationTeaching assistant for this course isÂ Ward Vleeshouwers (wardvleeshouwers@protonmail.com)Contact informationCoordinator
+
+
+        dr. V. Gritsev
+    
+v.gritsev@uva.nl
+
+
+
+

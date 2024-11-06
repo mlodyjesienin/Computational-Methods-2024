@@ -1,0 +1,184 @@
+
+
+
+
+
+The Uncertainty Principle - Heisenberg Web Exhibit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu ☰
+Family Matters 1901-1910
+High School Student 1911-1920
+Youth Movement 1911-1920
+University Student 1920-1927
+Heisenberg's Doctorate 1920-1927
+The Quantum Mechanic 1925-1927
+The Uncertainty Principle 1925-1927
+The Copenhagen Interpretation 1925-1927
+Professor in Leipzig 1927-1942
+Fission Research 1939-1945
+Reviving German Science 1946-1976
+Physics and Philosophy 1955-1956
+A Brief Chronology 1901-1976
+
+☰
+
+
+Heisenberg Home
+Links and Sources
+Site Information
+Site Map
+Feedback
+Web Exhibits Portal
+© American Institute of Physics
+
+
+
+
+
+Family Matters
+1901-1910
+
+
+
+High School Student
+1911-1920
+
+
+
+Youth Movement
+1911-1920
+
+
+
+University Student
+1920-1927
+
+
+
+Heisenberg's Doctorate
+1920-1927
+
+
+
+The Quantum Mechanic
+1925-1927
+
+
+
+The Uncertainty Principle
+1925-1927
+
+
+
+The Copenhagen Interpretation
+1925-1927
+
+
+
+Professor in Leipzig
+1927-1942
+
+
+
+Fission Research
+1939-1945
+
+
+
+Reviving German Science
+1946-1976
+
+
+
+Physics and Philosophy
+1955-1956
+
+
+
+A Brief Chronology
+1901-1976
+
+
+
+About Image
+
+
+        	Credit line: Photograph by John H. Martin, courtesy AIP Emilio Segrè Visual Archives
+       		Description: Werner Heisenberg converses with Federal Republic of Germany officials.
+        	Person(s): Heisenberg, Werner, 1901-1976
+        
+
+
+The Uncertainty Principle (1925-1927)
+
+
+	This is a succinct statement of the "uncertainty relation" between the position and the momentum (mass times velocity) of a subatomic particle, such as an electron. This relation has profound implications for such fundamental notions as causality and the determination of the future behavior of an atomic particle. Because of the scientific and philosophical implications of the seemingly harmless sounding uncertainty relations, physicists speak of an uncertainty principle, which is often called more descriptively the "principle of indeterminacy." This page focuses on the origins of Heisenberg's uncertainty relations and principle.
+
+Uncertainty relations expressed mathematically.
+An account of a supporting thought experiment.
+In a nutshell: Dresden Codak's cartoon "Lil' Werner"
+Heisenberg's conclusions on the impact on physics.
+Listen to Heisnberg's early thoughts on the uncertainty principle.
+
+The origins of uncertainty entail almost as much personality as they do physics. Heisenberg's route to uncertainty lies in a debate that began in early 1926 between Heisenberg and his closest colleagues on the one hand, who espoused the "matrix" form of quantum mechanics, and Erwin Schrödinger and his colleagues on the other, who espoused the new "wave mechanics."
+"I knew of [Heisenberg's] theory, of course, but I felt discouraged, not to say repelled, by the methods of transcendental algebra, which appeared difficult to me, and by the lack of visualizability."
+		—Schrödinger in 1926
+Most physicists were slow to accept "matrix mechanics" because of its abstract nature and its unfamiliar mathematics. They gladly welcomed Schrödinger's alternative wave mechanics when it appeared in early 1926, since it entailed more familiar concepts and equations, and it seemed to do away with quantum jumps and discontinuities. French physicist Louis de Broglie had suggested that not only light but also matter might behave like a wave. Drawing on this idea, to which Einstein had lent his support, Schrödinger attributed the quantum energies of the electron orbits in the old quantum theory of the atom to the vibration frequencies of electron "matter waves" around the atom's nucleus. Just as a piano string has a fixed tone, so an electron-wave would have a fixed quantum of energy. This led to much easier calculations and more familiar visualizations of atomic events than did Heisenberg's matrix mechanics, where the energy was found in an abstruse calculation.
+"I had no faith in a theory that ran completely counter to our Copenhagen conception."
+		—Heisenberg, recollection
+	In May 1926 Schrödinger published a proof that matrix and wave mechanics gave equivalent results: mathematically they were the same theory. He also argued for the superiority of wave mechanics over matrix mechanics. This provoked an angry reaction, especially from Heisenberg, who insisted on the existence of discontinuous quantum jumps rather than a theory based on continuous waves.
+There was more at stake than personal preferences, for jobs were now in the balance for the creators of matrix mechanics. Most of the young men who created matrix mechanics were ready to move into teaching positions as professors, and the older generation of theoretical physicists was beginning to vacate positions at German universities. Heisenberg's family was exerting pressure on the young man to capture one of the vacancies at the same time that his best work, matrix mechanics, seemed to be overshadowed by wave mechanics.
+"The more I think about the physical portion of Schrödinger's theory, the more repulsive I find it...What Schrödinger writes about the visualizability of his theory 'is probably not quite right,' in other words it's crap."
+		—Heisenberg, writing to Pauli, 1926
+Heisenberg had just begun his job as Niels Bohr's assistant in Copenhagen when Schrödinger came to town in October 1926 to debate the alternative theories with Bohr. The intense debates in Copenhagen proved inconclusive. They showed only that neither interpretation of atomic events could be considered satisfactory. Both sides began searching for a satisfactory physical interpretation of the quantum mechanics equations in line with their own preferences.
+After Schrödinger showed the equivalence of the matrix and wave versions of quantum mechanics, and Born presented a statistical interpretation of the wave function, Jordan in Göttingen and Paul Dirac in Cambridge, England, created unified equations known as "transformation theory." These formed the basis of what is now regarded as quantum mechanics. The task then became a search for the physical meaning of these equations in actual situations showing the nature of physical objects in terms of waves or particles, or both. As Bohr later explained it, events in tiny atoms are subject to quantum mechanics, yet people deal with larger objects in the laboratory, where the "classical" physics of Newton prevails. What was needed was an "interpretation" of the Dirac-Jordan quantum equations that would allow physicists to connect observations in the everyday world of the laboratory with events and processes in the quantum world of the atom.
+Studying the papers of Dirac and Jordan, while in frequent correspondence with Wolfgang Pauli, Heisenberg discovered a problem in the way one could measure basic physical variables appearing in the equations. His analysis showed that uncertainties, or imprecisions, always turned up if one tried to measure the position and the momentum of a particle at the same time. (Similar uncertainties occurred when measuring the energy and the time variables of the particle simultaneously.) These uncertainties or imprecisions in the measurements were not the fault of the experimenter, said Heisenberg, they were inherent in quantum mechanics. Heisenberg presented his discovery and its consequences in a 14-page letter to Pauli in February 1927. The letter evolved into a published paper in which Heisenberg presented to the world for the first time what became known as the uncertainty principle.
+
+
+Heisenberg Home
+Links and Sources
+Site Information
+Site Map
+Feedback
+Web Exhibits Portal
+© American Institute of Physics
+
+
+
+

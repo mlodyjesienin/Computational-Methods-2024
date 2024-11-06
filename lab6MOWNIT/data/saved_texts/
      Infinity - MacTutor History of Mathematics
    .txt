@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+      Infinity - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Infinity
+
+
+
+
+An article on infinity in a History of Mathematics Archive presents special problems. Does one concentrate purely on the mathematical aspects of the topic or does one consider the philosophical and even religious aspects? In this article we take the view that historically one cannot separate the philosophical and religious aspects from mathematical ones since they play an important role in how ideas developed. This is particularly true in ancient Greek times, as Knorr writes in [26]:-
+The interaction of philosophy and mathematics is seldom revealed so clearly as in the study of the infinite among the ancient Greeks. The dialectical puzzles of the fifth-century Eleatics, sharpened by Plato and Aristotle in the fourth century, are complemented by the invention of precise methods of limits, as applied by Eudoxus in the fourth century and Euclid and Archimedes in the third.
+Of course from the time people began to think about the world they lived in, questions about infinity arose. There were questions about time. Did the world come into existence at a particular instant or had it always existed? Would the world go on for ever or was there a finite end? Then there were questions about space. What happened if one kept travelling in a particular direction? Would one reach the end of the world or could one travel for ever? Again above the earth one could see stars, planets, the sun and moon, but was this space finite or did it go on for ever?
+
+
+The questions above are very fundamental and must have troubled thinkers long before recorded history. There were more subtle questions about infinity which were also asked at a stage when people began to think deeply about the world. What happened if one cut a piece of wood into two pieces, then again cut one of the pieces into two and continued to do this. Could one do this for ever?
+
+
+We should begin our account of infinity with the "fifth-century Eleatic" Zeno. The early Greeks had come across the problem of infinity at an early stage in their development of mathematics and science. In their study of matter they realised the fundamental question: can one continue to divide matter into smaller and smaller pieces or will one reach a tiny piece which cannot be divided further. Pythagoras had argued that "all is number" and his universe was made up of finite natural numbers. Then there were Atomists who believed that matter was composed of an infinite number of indivisibles. Parmenides and the Eleatic School, which included Zeno, argued against the atomists. However Zeno's paradoxes show that both the belief that matter is continuously divisible and the belief in an atomic theory both led to apparent contradictions.
+
+
+Of course these paradoxes arise from the infinite. Aristotle did not seem to have fully appreciated the significance of Zeno's arguments but the infinite did worry him nevertheless. He introduced an idea which would dominate thinking for two thousand years and is still a persuasive argument to some people today. Aristotle argued against the actual infinite and, in its place, he considered the potential infinite. His idea was that we can never conceive of the natural numbers as a whole. However they are potentially infinite in the sense that given any finite collection we can always find a larger finite collection.
+
+
+Of relevance to our discussion is the remarkable advance made by the Babylonians who introduced the idea of a positional number system which, for the first time, allowed a concise representation of numbers without limit to their size. Despite positional number systems, Aristotle's argument is quite convincing. Only a finite number of natural numbers has ever been written down or has ever been conceived. If LLL is the largest number conceived up till now then I will go further and write down L+1L + 1L+1, or L2L^{2}L2 but still only finitely many have been conceived. Aristotle discussed this in Chapters 4-8 of Book III of Physics (see [36]) where he claimed that denying that the actual infinite exists and allowing only the potential infinite would be no hardship to mathematicians:-
+Our account does not rob the mathematicians of their science, by disproving the actual existence of the infinite in the direction of increase, in the sense of the untransversable. In point of fact they do not need the infinite and do not use it. They postulate only that the finite straight line may be produced as far as they wish.
+Cantor, over two thousand years later, argued that Aristotle was making a distinction which was only in his use of words:-
+... in truth the potentially infinite has only a borrowed reality, insofar as a potentially infinite concept always points towards a logically prior actually infinite concept whose existence it depends on.
+We will come to Cantor's ideas towards the end of this article but for the moment let us consider the effect Aristotle had on later Greek mathematicians by only allowing the potentially infinite, particularly on Euclid; see for example [36]. How then, one may ask, was Euclid able to prove that the set of prime numbers is infinite in 300 BC? Well the answer is that Euclid did not prove this in the Elements.  This is merely a modern phrasing of what Euclid actually stated as his theorem which, according to Heath's translation, reads:-
+Prime numbers are more than any assigned magnitude of prime numbers.
+So in fact what Euclid proved was that the prime numbers are potentially infinite but in practice, of course, this amounts to the same thing. His proof shows that given any finite collection of prime numbers there must be a prime number not in the collection.
+
+
+We should discuss other aspects of the infinite which play a crucial role in the Elements.  There Euclid explains the method of exhaustion due to Eudoxus of Cnidus. Often now this method is thought of as considering the circle as the limit of regular polygons as the number of sides increases to infinity. We should strongly emphasise, however, that this is not the way that the ancient Greeks looked at the method. Rather it was a reductio ad absurdum argument which avoided the use of the infinite. For example, to prove two areas AAA and BBB equal, the method would assume that the area AAA was less than BBB and then derive a contradiction after a finite number of steps. Again assuming the area BBB was less than AAA also led to a contradiction in a finite number of steps.
+
+
+Recently, however, evidence has come to light which suggests that not all ancient Greek mathematicians felt constrained to deal only with the potentially infinite. The authors of [32] have noticed a remarkable way that Archimedes investigates infinite numbers of objects in The Method  in the Archimedes palimpsest:-
+... Archimedes takes three pairs of magnitudes infinite in number and asserts that they are, respectively, "equal in number". ... We suspect there may be no other known places in Greek mathematics - or, indeed, in ancient Greek writing - where objects infinite in number are said to be "equal in magnitude". ...
+
+
+The very suggestion that certain objects, infinite in number, are "equal in magnitude" to others implies that not all such objects, infinite in number, are so equal. ... We have here infinitely many objects - having definite, and different magnitudes (i.e. they nearly have number); such magnitudes are manipulated in a concrete way, apparently by something rather like a one-one correspondence. ... ... in this case Archimedes discusses actual infinities almost as if they possessed numbers in the usual sense ...
+Even if most mathematicians accepted Aristotle's potentially infinite arguments, others argued for cases of actual infinity, others argued for cases of actual infinity. In the first century BC Lucretius wrote his poem De Rerum Natura â(On nature)  in which he argued against a universe bounded in space. His argument is a simple one. Suppose the universe were finite so there had to be a boundary. Now if one approached that boundary and threw an object at it there could be nothing to stop it since anything which stopped it would lie beyond the boundary and nothing lies outside the universe by definition. We now know, of course, that Lucretius's argument is false since space could be finite without having a boundary. However for many centuries the boundary argument dominated debate over whether space was finite.
+
+
+It became largely theologians who argued in favour of the actual infinite. For example St Augustine, the Christian philosopher who built much of Plato's philosophy into Christianity in the early years of the 5th  century AD, argued in favour of an infinite God and also a God capable of infinite thoughts. He wrote in his most famous work City of God:-
+Such as say that things infinite are past God's knowledge may just as well leap headlong into this pit of impiety, and say that God knows not all numbers. ... What madman would say so? ... What are we mean wretches that dare presume to limit his knowledge.
+Indian mathematicians worked on introducing zero into their number system over a period of 500 years beginning with Brahmagupta in the 7th  Century. The problem they struggled with was how to make zero respect the usual operations of arithmetic. Bhaskara II wrote in Bijaganita:-
+A quantity divided by zero becomes a fraction the denominator of which is zero. This fraction is termed an infinite quantity. In this quantity consisting of that which has zero for its divisor, there is no alteration, though many may be inserted or extracted; as no change takes place in the infinite and immutable God when worlds are created or destroyed, though numerous orders of beings are absorbed or put forth.
+It was an attempt to bring infinity, as well as zero, into the number system. Of course it does not work since if it were introduced as Bhaskara II suggests then 0 times infinity must be equal to every number nnn, so all numbers are equal.
+
+
+Thomas Aquinas, the Christian theologian and philosopher, used the fact that there was not a number to represent infinity as an argument against the existence of the actual infinite. In Summa theologia â(Main theology), written in the 13th  Century, Thomas Aquinas wrote:-
+The existence of an actual infinite multitude is impossible. For any set of things one considers must be a specific set. And sets of things are specified by the number of things in them. Now no  number is infinite, for number results from counting through a set of units. So no set of things can actually be inherently unlimited, nor can it happen to be unlimited.
+This objection is indeed a reasonable one and in the time of Aquinas had no satisfactory reply. An actual infinite set requires a measure, and no such measure seemed possible to Aquinas. We have to move forward to Cantor near the end of the 19th  Century before a satisfactory measure for infinite sets was found. The article [15] examines:-
+... mathematical arguments used by two thirteenth-century theologians, Alexander Nequam and Richard Fishacre, to defend the consistency of divine infinity. In connection with their arguments, the following question is raised: Why did theologians judge it appropriate to appeal to mathematical examples in addressing a purely theological issue?
+Mathematical induction began to be used hundreds of years before any rigorous formulation of the method was made. It did provide a technique for proving propositions were true for an infinite number of integer values. For example al-Karaji around 1000 AD used a non-rigorous form of mathematical induction in his arguments. Basically what al-Karaji did was to demonstrate an argument for n=1n = 1n=1, then prove the case n=2n = 2n=2 based on his result for n=1n =1n=1, then prove the case n=3n = 3n=3 based on his result for n=2n = 2n=2, and carry on to around n=5n = 5n=5 before remarking that one could continue the process indefinitely. By these methods he gave a beautiful description of generating the binomial coefficients using Pascal's triangle.
+
+
+Pascal did not know about al-Karaji's work on Pascal's triangle but he did know that Maurolico had used a type of mathematical induction argument in the middle of the 17th  Century. Pascal, setting out his version of Pascal's triangle writes:-
+Even though this proposition may have an infinite number of cases, I shall give a very short proof of it assuming two lemmas. The first, which is self evident, is that the proposition is valid for the second row. The second is that if the proposition is valid for any row then it must necessarily be valid for the following row. From this it can be seen that it is necessarily valid for all rows; for it is valid for the second row by the first lemma; then by the second lemma it must be true for the third row, and hence for the fourth, and so on to infinity.
+Having moved forward in time following the progress of induction, let us go back a little to see arguments which were being made about an infinite universe. Aristotle's finite universe model with nine celestial spheres centred on the Earth had been the accepted view over a long period. It was not unopposed, however, and we have already seen Lucretius's argument in favour of an infinite universe. Nicholas of Cusa in the middle of the 15th  Century was a brilliant scientist who argued that the universe was infinite and that the stars were distant suns. By the 16th  Century, the Catholic Church in Europe began to try to stamp out such heresies. Giordano Bruno was not a mathematician or scientist, but he argued vigorously the case for an infinite universe in On the infinite universe and worlds (1584). Brought before the Inquisition, he was tortured for nine years in an attempt to make him agree that the universe was finite. He refused to change his views and he was burned at the stake in 1600.
+
+
+Galileo was acutely aware of Bruno's fate at the hands of the Inquisition and he became very cautious in putting forward his views. He tackled the topic of infinity in Discorsi e dimostrazioni matematiche intorno a due nuove scienze â(Discorsi e dimostrazioni matematiche intorno a nuse scienze) (1638) where he studied the problem of two concentric circles with centre OOO, the larger circle AAA with diameter twice that of the smaller one BBB. The familiar formula gives the circumference of AAA to be twice that of BBB. But taking any point PPP on the circle AAA, then OPOPOP cuts circle BBB in one point. Similarly if QQQ is a point on BBB then OQOQOQ produced cuts circle AAA in exactly one point. Although the circumference of AAA is twice the length of the circumference of BBB they have the same number of points. Galileo proposed adding an infinite number of infinitely small gaps to the smaller length to make it equal to the larger yet allow them to have the same number of points. He wrote:-
+These difficulties are real; and they are not the only ones. But let us remember that we are dealing with infinities and indivisibles, both of which transcend our finite understanding, the former on account of their magnitude, the latter because of their smallness. In spite of this, men cannot refrain from discussing them, even though it must be done in a roundabout way.
+However, Galileo argued that the difficulties came about because:-
+... we attempt, with our finite minds, to discuss the infinite, assigning to it properties which we give to the finite and limited; but I think this is wrong, for we cannot speak of infinite quantities as being the one greater or less than or equal to another.
+He then gave another paradox similar to the circle paradox yet this time with numbers so no infinite indivisibles could be inserted to correct the situation. He produced the standard one-to-one correspondence between the positive integers and their squares. On the one hand this showed that there were the same number of squares as there were whole numbers. However most numbers were not perfect squares. Galileo says this means only that:-
+... the totality of all numbers is infinite, and that the number of squares is infinite.; neither is the number of squares less than the totality of all numbers, nor the latter greater than the former; and, finally, the attributes "equal", "greater", and "less" are not applicable to the infinite, but only to finite quantities.
+In [25] Knobloch takes a new look at this work by Galileo. In the same paper Leibniz's careful definitions of the infinitesimal and the infinite in terms of limit procedures are examined. Leibniz's development of the calculus was built on ideas of the infinitely small which has been studied for a long time.
+
+
+Cavalieri wrote Geometria indivisibilibus continuorum â(Continuous indivisible geometry) (1635) in which he thought of lines as comprising of infinitely many points and areas to be composed of infinitely many lines. He gave quite rigorous methods of comparing areas, known as the "Principle of Cavalieri". If a line is moved parallel to itself across two areas and if the ratio of the lengths of the line within each area is always a:ba : ba:b then the ratio of the areas is a:ba : ba:b.
+
+
+Roberval went further down the road of thinking of lines as being the sum of an infinite number of small indivisible parts. He introduced methods to compare the sizes of the indivisibles so even if they did not have a magnitude themselves one could define ratios of their magnitudes. It was a real step forward in dealing with infinite processes since for the first time he was able to ignore magnitudes which were small compared to others. However there was a difference between being able to use the method correctly and writing down rigorously precise conditions when it would work. Consequently paradoxes arose which led some to want the method of indivisibles to be rejected.
+
+
+The Roman College rejected indivisibles and banned their teaching in Jesuit Colleges in 1649. The Church had failed to silence Bruno despite putting him to death, it had failed to silence Galileo despite putting him under house arrest and it would not stop progress towards the differential and integral calculus by banning the teaching of indivisibles. Rather the Church would only force mathematicians to strive for greater rigour in the face of criticism.
+
+
+The symbolÂ  â Â  which we use for infinity today, was first used by John Wallis who used it in De sectionibus conicis â(Conic sections)  in 1655 and again in Arithmetica infinitorum â(Infinitesimal arithmetic)  in 1656. He chose it to represent the fact that one could traverse the curve infinitely often.
+
+
+Three years later Fermat identified an important property of the positive integers, namely that it did not contain an infinite descending sequence. He did this in introducing the method of infinite descent 1659:-
+... in the cases where ordinary methods given in books prove insufficient for handling such difficult propositions, I have at last found an entirely singular way of dealing with them. I call this method of proving infinite descent ...
+The method was based on showing that if a proposition was true for some positive integer value nnn, then it was also true for some positive integer value less than nnn. Since no infinite descending chain existed in the positive integers such a proof would yield a contradiction. Fermat used his method to prove that there were no positive integer solutions to 
+x4+y4=z4x^{4} + y^{4} = z^{4}x4+y4=z4 .
+Newton rejected indivisibles in favour of his fluxion which was a measure of the instantaneous variation of a quantity. Of course, the infinite was not avoided since he still had to consider infinitely small increments. This was, in a sense, Newton's answer to Zeno's arrow problem:-
+If, says Zeno, everything is either at rest or moving when it occupies a space equal to itself, while the object moved is in the instant, the moving arrow is unmoved.
+Newton's fluxions produced wonderful mathematical results but many were wary of his use of infinitely small increments. George Berkeley's famous quote summed up the objections in a succinct way:-
+And what are these fluxions? The velocities of evanescent increments. And what are these same evanescent increments? They are neither finite quantities, nor quantities infinitely small, nor yet nothing. May we not call them ghosts of departed quantities?
+Newton believed that space is in fact infinite and not merely indefinitely large. He claimed that such an infinity could be understood, particularly using geometrical arguments, but it could not be conceived. This is interesting for, as we shall see below, others argued against actual infinity using the fact that it could not be conceived.
+
+
+The problem of whether space and time are infinitely divisible continued to trouble people. The philosopher David Hume argued that there was a minimum perceptible size in Treatise of human nature (1739):-
+Put a spot of ink upon paper, fix your eye upon the spot, and retire to such a distance that at last you lose sight of it; 'tis plain that the moment before it vanished the image or impression was perfectly indivisible.
+Immanuel Kant argued in The critique of pure reason (1781) that the actual infinite cannot exist because it cannot be perceived:-
+... in order to conceive the world, which fills all space, as a whole, the successive synthesis of the parts of an infinite world would have to be looked upon as completed; that is, an infinite time would have to be looked upon as elapsed, during the enumeration of all coexisting things.
+This comes to the question often asked by philosophers: would the world exist if there were no intelligence capable of conceiving its existence? Kant says no; so we come back to the point made near the beginning of this article namely that the collection of integers is not infinite since we can never enumerate more than a finite number.
+
+
+Little progress was being made on the question of the actual infinite. The same arguments kept on appearing without any definite progress towards a better understanding. Gauss, in a letter to Schumacher in 1831, argued against the actual infinite:-
+I protest against the use of infinite magnitude as something completed, which in mathematics is never permissible. Infinity is merely a facon de parler, the real meaning being a limit which certain ratios approach indefinitely near, while others are permitted to increase without restriction.
+Perhaps one of the most significant events in the development of the concept of infinity was Bernard Bolzano's Paradoxes of the infinite  which was published in 1840. He argues that the infinite does exist and his argument involves the idea of a set which he defined for the first time:-
+I call a set a collection where the order of its parts is irrelevant and where nothing essential is changed if only the order is changed.
+Why does defining a set make the actual infinite a reality? The answer is simple. Once one thinks of the integers as a set then there is a single entity which must be actually infinite. Aristotle would look at the integers from the point of view that one can find arbitrarily large finite subsets. But once one has the set concept then these are seen as subsets of the set of integers which must itself be actually infinite. Perhaps surprisingly Bolzano does not use this example of an infinite set but rather looks at all true propositions:-
+The class of all true propositions is easily seen to be infinite. For if we fix our attention upon any truth taken at random and label it A, we find that the proposition conveyed by the words "A is true" is distinct from the proposition A itself...
+At this stage the mathematical study of infinity moves into set theory and we refer the reader to the article on the History of set theory at THIS LINK for more information about Bolzano's contribution and also the treatment of infinity by Cantor who built a theory of different sizes of infinity with his definitions of cardinal and ordinal numbers.
+
+
+The problem of infinitesimals was put on a rigorous mathematical basis by Robinson with his famous 1966 text on nonstandard analysis. Kreisel wrote:- 
+This book, which appeared just 250 years after Leibniz' death, presents a rigorous and efficient theory of infinitesimals obeying, as Leibniz wanted, the same laws as the ordinary numbers.
+Fenstad, in [17], looks at infinity and nonstandard analysis. He also examines its use in modelling natural phenomena.
+
+
+
+
+
+
+References (show)
+
+
+
+
+
+J Benardete, Infinity (Oxford, 1964).
+I N Burova, The development of the problem of infinity in the history of science (Russian), Nauka (Moscow, 1987).
+E Maor, To infinity and beyond : A cultural history of the infinite (Boston, MA, 1987).
+E Maor, To infinity and beyond : A cultural history of the infinite (Princeton, NJ, 1991).
+F Monnoyeur, Infini des mathÃ©maticiens, infini des philosophes,  (Paris, 1997).
+A Moretto, Hegel e la "matematica dell'infinito" (Trento, 1984).
+R Rucker, Infinity and the mind (Prinveton, N.J., 1995).
+N Ya Vilenkin, In search of infinity (Boston, MA, 1995).
+N Ya Vilenkin, In search of infinity (Russian) Nauka (Moscow, 1983).
+D A Anapolitanos and A K Demis, Incommensurability and infinity according to Proclus, Neusis No. 5 (1996), 55-73, 170.
+F C M Bosinelli, I quattro infiniti di Leibniz, Ann. Discipl. Filos. Univ. Bologna 10 (1988/89), 117-134.
+F C M Bosinelli, Uber Leibniz' Unendlichkeitstheorie, Studia Leibnitiana 23 (2) (1991), 151-169.
+H Burkhardt and C Dufour, Infinity in Leibniz's metaphysics, in The Leibniz renaissance, Firenze, 1986 (Florence, 1989), 43-54.
+P Costabel, Descartes et la mathÃ©matique de l'infini, Historia Sci. No. 29 (1985), 37-49.
+A A Davenport, The Catholics, the Cathars, and the concept of infinity in the thirteenth century, Isis 88 (2) (1997), 263-295.
+P Dugac, La thÃ©orie des fonctions analytiques de Lagrange et la notion d'infini, in Konzepte des mathematisch Unendlichen im 19. Jahrhundert (GÃ¶ttingen, 1990), 34-46.
+J E Fenstad, Infinities in mathematics and the natural sciences, in Methods and applications of mathematical logic, Campinas, 1985,  Contemp. Math. 69 (Providence, RI, 1988), 79-92.
+H Grauert, Die Unendlichkeit in der Mathematik, Math. Semesterber. 37 (2) (1990), 153-156.
+M Guillemot and D Daumas, En route for infinity, History of mathematics : History of problems (Paris,1997), 7-32.
+J Holtsmark, The concept of infinity from Aristotle to the scholastics, Phys. Norveg. 5 (3-4) (1971), 311-318.
+W S Horng, How did Liu Hui perceive the concept of infinity : a revisit, Historia Sci. (2) 4 (3) (1995), 207-222.
+J Hrubes, The genesis of the philosophical-mathematical concept of infinity (Czech), Sb. PracÃ­ Ped. Fak. v Ostrave Mat. Fyz. Ser. A No. 22 (1987), 3-23.
+C G Huang, The notion of infinity for 2500 years (Chinese), Tianjin Jiaoyu Xueyuan Xuebao Ziran Ban (1) (1993), 3-7.
+G S Jha, Concept of infinity in Hindu mathematics, Math. Ed. (Siwan) 15 (1) (1981), B13-B19.
+E Knobloch, Galileo and Leibniz : different approaches to infinity, Arch. Hist. Exact Sci. 54 (2) (1999), 87-99.
+W R Knorr, Infinity and continuity in ancient and medieval thought (Ithaca, N.Y., 1982), 112-145.
+T Krischer, Mathematische Unendlichkeit und Induktion bei Platon und Aristoteles, in Aristoteles. Werk und Wirkung 1 (Berlin, 1985), 518-542.
+J E McGuire, Space, geometrical objects and infinity : Newton and Descartes on extension, in Nature mathematized  I, Montreal, Que., 1980 (Dordrecht-Boston, Mass., 1983), 69-112.
+H Meyer, Unendlichkeitsbegriff und Infinitesimalrechnung im Denken Lazare Carnots, 200 Jahre Grosse FranzÃ¶sische Revolution,  Wiss. Z. Tech. Univ. Magdeburg 33 (2) (1989), 61-62.
+A W Moore, A brief history of infinity, Sci. Amer. 272 (4) (1995), 112-116.
+E Naert, Double infinitÃ© chez Pascal et Monade, Studia Leibnitiana 17 (1) (1985), 44-51.
+R Netz, K Saito and N Tchernetska, A new reading of Method Proposition 14 : preliminary evidence from the Archimedes palimpsest. I, SCIAMVS 2 (2001), 9-29.
+S Probst, Infinity and creation : the origin of the controversy between Thomas Hobbes and the Savilian professors Seth Ward and John Wallis, British J. Hist. Sci. 26 (90-3) (1993), 271-279.
+R Rucker, The actual infinite, Speculations in Science and Technology 3 (1980), 197-208.
+J SeppÃ¤nen, Infinity - an outline of conceptions in mythology, cosmology and natural philosophy. Finite versus infinite, Discrete Math. Theoret. Comput. Sci. (2000), 257-283.
+D D Spalt, Die Unendlichkeiten bei Bernard Bolzano, in Konzepte des mathematisch Unendlichen im 19. Jahrhundert (GÃ¶ttingen, 1990), 189-218.
+V Vita, Mathematical infinity in Aristotle and his time (Italian), Boll. Storia Sci. Mat. 6 (2) (1986), 109-132.
+P Vopenka, Infinity, sets and possibility in the sense of B Bolzano (Polish), Wiadom. Mat. 26 (2) (1985), 171-204.
+W C Waterhouse, Gauss on infinity, Historia Math. 6 (4) (1979), 430-436.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Infinity:
+
+Lucretius:  On the Nature of Things
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update February 2002
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,435 @@
+
+
+
+
+
+
+Music Math Harmony – Math Fun Facts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+Expand Menu 
+About Math Fun FactsToggle Child Menu
+
+How to Use Fun Facts
+Contributors
+
+
+All Fun Facts
+Get a Random Fun Fact!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Music Math Harmony
+
+
+
+
+Harmony occurs in music when two pitches vibrate at frequencies in small integer ratios.
+It is a remarkable(!) coincidence that27/12 is very close to 3/2.Why?
+For instance, the notes of middle C and high C sound good together (concordant) because the latter has TWICE the frequency of the former. Middle C and the G above it sound good together because the frequencies of G and C are in a 3:2 ratio.
+Well, almost!
+In the 16th century the popular method for tuning a piano was to a just-toned scale. What this means is that harmonies with the fundamental note (tonic) of the scale were pure; i.e., the frequency ratios were pure integer ratios. But because of this, shifting the melody to other keys would make the music sound different (and bad) because the harmonies in other keys were impure!
+So, the equal-tempered scale (in common use today), popularized by Bach, sets out to “even out” the badness by making the frequency ratios the same between all 12 notes of the chromatic scale (the white and the black keys on a piano). Thus, harmonies shifted to other keys would sound exactly the same, although a really good ear might be able to tell that the harmonies in the equal-tempered scale are not quite pure.
+So to divide the ratio 2:1 from high C to middle C into 12 equal parts, we need to make the ratios between successive note frequencies 21/12:1. The startling fact that 27/12 is very close to 3/2 ensures that the interval between C and G, which are 7 notes apart in the chromatic scale, sounds “almost” pure! Most people cannot tell the difference!
+What a harmonious coincidence!
+The Math Behind the Fact:It is possible that our octave might be divided into something other than 12 equal parts if the above coincidence were not true!
+It is worth noting that on a stringed instrument, a player has complete control over the frequency of notes. So she can produce pure harmonies. Very good string players will actually play A-sharp and B-flat differently. Sometimes they don’t even realize they are doing it— they just do what their ear tells them. Playing pure harmonies on stringed instruments also means that the same note will sound different depending on the key the music is played in; for instance, notes based on ‘C’ will produce slightly different frequencies than those based on ‘A’.
+There are a lot of interesting connections of mathematics with music. Take courses in music theory to learn more!
+How to Cite this Page: Su, Francis E., et al. “Music Math Harmony.” Math Fun Facts. <https://www.math.hmc.edu/funfacts>.
+Fun Fact suggested by:   Francis Su
+           Did you like this Fun Fact?               Click to rate it.                                 Submit Rating           Average rating 4.2 / 5. Vote count: 60        No votes so far! Be the first to rate this Fun Fact              Share:                
+
+ Tags:  
+	easy, other  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Fun Facts
+
+
+
+Search by Difficulty • Easy
+• Medium
+• Advanced
+
+Search by Subject • Algebra
+• Calculus
+• Combinatorics
+• Geometry
+• Number Theory
+• Probability
+• Topology
+• Other
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular Fun Facts 
+
+
+
+ 4.7
+(72)
+
+
+Napoleon’s Theorem
+
+
+
+
+ 4.6
+(73)
+
+
+Borsuk-Ulam Theorem
+
+
+
+
+ 4.6
+(70)
+
+
+Brouwer Fixed Point Theorem
+
+
+
+
+ 4.6
+(40)
+
+
+Spherical Pythagorean Theorem
+
+
+
+
+ 4.5
+(17)
+
+
+Inductive Tiling
+
+
+
+
+ 
+
+From the Creator of Math Fun Facts: Winner of the 2021 Euler Book Prize
+from the Mathematical Association of America
+
+An inclusive vision of mathematics:
+what it is, who it’s for, why anyone should learn it
+
+ 
+
+View Our Most Used Tags!advanced
+algebra
+analysis
+approximations
+arithmetic
+bicycle
+binomial coefficients
+calculus
+combinatorics
+complex numbers
+demonstration
+easy
+ellipse
+Fibonacci
+functions
+game theory
+geometric series
+geometry
+hard
+infinite series
+irrational
+lightning arithmetic
+logic
+matrix
+medium
+multivariable calculus
+number theory
+other
+paradox
+pi
+pi formula
+polynomial
+prime
+probabilities
+probability
+puzzle
+real analysis
+Riemann zeta function
+sphere
+Taylor series
+topology
+triangles
+unit circle
+universe
+unsolved problem
+ 
+
+
+
+
+
+
+
+
+1999-2021 by Francis Su. All Rights Reserved.
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

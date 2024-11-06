@@ -1,0 +1,100 @@
+
+
+
+
+BasicPropertiesPrimes
+
+
+
+
+
+
+
+
+
+
+ Your web-browser does not support JavaScript
+
+
+
+
+
+Main Index
+Number Theory
+Sequences
+Primes
+
+�Subject Index
+
+comment on the page
+Basic properties of primes
+Prime numbers have always fascinated  the mathematicians, from ancient times onwards. 
+Euclid calls a prime number πρωτος αριϑμος and a composite number σιυϑετος αριϑμος, while Nicomachus of Gerasa (c. 60 - c. 120) (Εισαγωγη I, Chapter 11 and 12) called them  προτος και ασινϑετος αριτμος and δεντερος και σιυϑετος αριτμος.
+In Book VII  (Def. 11 and 13  ) of Euclid's Elements we find the first known definition of a prime number: A prime number is that which is measured by a unit alone. In contrast: A composite number is that which is measured by some number.
+We can interpret the definition of a prime number in modern terminology in two way:
+Definition 1. A prime number (or shortly a prime) is a positive integer that has exactly two distinct positive integral divisors: 1 and itself. 
+Definition 2. A prime number is a positive integer  that cannot be written as a product of two distinct integers . 
+Historically seen it was probably the second definition which stood at the beginning of the process of differentiation between prime and composite numbers. 
+
+For instance, in Rhind Mathematical Papyrus    which dates to around 1650 BC. we can find five methods for decomposition of fractions into a sum of unit fractions1 . The basic rule for fractions with “small” odd denominator was  
+(1)
+For composite odd denominator they used several relations, for instance
+(2)
+For “bigger” primes they used the decomposition of type
+(3)
+where  is an integer from interval  possessing the property that is has a “big number” of divisors. For instance, 
+
+
+The notion of a prime number appears for the first time in a work by Speusippus (c. 400-339 BC) 2 [1] , p. 72. Speusippus’ work is based upon the work of  Philolaus ( 480 - 385 BC), from whom treatises learned the philosophy also Plato.  Speusippus distinguished between πρωτος και ασυνθετος (prime or incomposite numbers) and δευτερος και ασυνθετος (secondary or composite numbers). 
+Iamblichus (c. 245-c. 325) says that Thymaridas of Paros (ca. 400 BCE - ca. 350 BCE)  called prime numbers ευθυραμμικος (rectilinear) since they can only be represented on a one dimensional line. Contrary to this, non-prime numbers can be represented on a two dimensional plane as a rectangle with sides that, when multiplied, produce the non-prime number in question. 
+It is interesting to note that Chinese mathematics did not know the notion of a prime until the Euclid’s Elements were translated in Chinese in 1600.
+
+Another historically interesting question is whether 1 is a prime number or is not (Historically seen there was problem even with the categorization of 2. Nicomachus and Iamblichus did not exclude 2 from prime numbers, but for instance, Theon of Smyrna (ca. 70-ca. 135)  considered 2 to be odd-like but not a prime [1] , p. 73. ). In modern literature, 1 is not considered as a prime in general. But in older texts 1 is often a prime. For instance, French number theoretist V.A. Le Besgue3  (1791 - 1875) explicitly counts 1 as a prime [2] . Some sources say that the last mathematician who counted 1 as a prime was his namesake H. Lebesgue (1875 - 1941) even in 1899.  This, however, is not true. D.N. Lehmer includes 1 among the primes still in 1914 (though probably from historical reasons). The known popularizer of science and astronomer C. Sagan count 1 as a prime in his novel Contact still in 1985. The reason why 1 is not today counted as a prime is the theorem about uniqueness of decomposition into primes (see below).This important property was for the first time explicitly formulated and also proved by C.F. Gauß in his Disquisitiones Arithmeticae (1801). By an irony of fate, the direct successor of Gauß as the professor of mathematics at university of Göttingen,  M.A. Stern (1807 - 1894)  continued in tradition and counted 1 as a prime.
+The notion of a prime is usually defined in terms of our first definition. In rest we show that is possible to prove all fundamental properties of prime numbers also using our second definition.
+
+Theorem. Every positive integer  has at least prime number divisor. 
+The set of divisors of  which are  is non-empty, for  is such a number. Then the least positive divisor of  is a prime. In the opposite case,  with  and . Since , we get a contradiction with the choice of . 
+This result has several important consequences.
+
+Theorem. Every composite positive integer  has at least one prime divisor .
+Since  is composite,  with . Consequently, , i.e. . Previous theorem implies that  has at least one prime divisor, say . Clearly, .
+
+Theorem. Every positive integer can be written as a product, which every factor is a prime number.
+This result can be easily proved by induction last but one theorem.
+The next result shows that the second definition implies the first one 
+
+Theorem. Every prime number  has only two positive divisors,  and .
+If  has a third divisor, say , then  and  for some . But this contradicts our definition of a prime.
+Our two definitions are actually equivalent:
+
+Theorem. A necessary and sufficient condition for a positive integer to be a prime number is that it has exactly two distinct positive divisors. 
+It is possible to show starting with the second definition of a prime, that the following fundamental property of primes it true. The result is know as Euclid’s lemma. 
+
+Theorem. If a prime number  divides a product  of two integers  and , then it divides at least one of the factors .
+Now it is possible deduce, for instance, by induction, the so called fundamental theorem of arithmetic
+
+Theorem. Every positive integer can be represented in exactly one way apart from rearrangement as a product of one or more primes. 
+Spracovane podla Sierpinski, Co vime a nevime o prvocislech.
+Notes
+
+1 The ancient Egyptians expressed all fractions (except  as sums of distinct unit fractions (that is, fractions of the form , with  a positive integer). Unit  fractions are also called Egyptian fractions.
+
+2 Speusippus was son of Plato’s sister Potone. When Plato died he became head of the Academy. His main interest was theory of numbers. He rejected Plato’s theory of ideal numbers. Only a fragment of his writings of Pyathgorean numbers have survived (it was found by Raymond Klibansky in 1953). His work is reported by Aristotle.
+
+3 Also written as V.A. Lebesque, and consequently confused with Henry Léon Lebesque (1875-1941).  
+References
+
+[1]  Heath, T. L. (1921). A History of Greek Mathematics, Vol. I. Oxford: Clarendon Press.
+
+[2]  Le Besque, V. A. (1859). Exercices d’Analyse Numérique. Paris: Liber et Faraguet.
+Cite this web-page as:
+
+Štefan Porubský: Basic Properties of Primes.
+
+
+
+Page created�
+.
+
+
+

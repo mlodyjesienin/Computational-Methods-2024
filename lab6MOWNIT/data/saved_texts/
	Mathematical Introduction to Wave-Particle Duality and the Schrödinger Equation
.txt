@@ -1,0 +1,747 @@
+
+
+
+
+	Mathematical Introduction to Wave-Particle Duality and the Schrödinger Equation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Community  
+
+
+
+  
+
+
+
+
+  Search Options    
+
+
+
+
+
+   
+
+
+
+
+  Search Options    
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content (Press Enter).
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+Skip auxiliary navigation (Press Enter).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI and Data Science
+
+
+Topic areas
+
+AI and DS Skills 
+Decision Optimization 
+Embeddable AI 
+Global AI and Data Science 
+IBM Advanced Studies 
+SPSS Statistics 
+watsonx Assistant 
+Watson Discovery 
+
+
+User groups
+Events
+
+Upcoming AI Events
+
+IBM TechXchange Webinars
+
+All IBM TechXchange Community Events
+
+
+Participate
+
+Gamification Program
+Community Manager's Welcome
+Post to Forum
+Share a Resource
+Share Your Expertise
+Blogging on the Community
+ Connect with Data Science Users 
+All IBM TechXchange Community Users
+
+
+Resources
+
+IBM TechXchange Group
+AI Learning
+IBM Champions
+ IBM Cloud Support 
+IBM Documentation
+IBM Support
+IBM Support 101
+IBM Technology Zone
+IBM Training
+
+
+TechXchange Conference
+
+IBM TechXchange Conference 2024
+
+
+Marketplace
+
+Marketplace
+
+
+
+
+
+
+
+
+AI and Data Science
+Master the art of AI and Data Science.
+ Ask a question 
+
+
+
+Join us for IBM TechXchange Day: AI and Automation
+
+
+
+
+Skip main navigation (Press Enter).
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Global AI and Data Science
+						
+
+
+
+
+
+
+
+
+
+
+  Group Navigator                
+
+
+
+
+
+
+
+
+ View Only
+
+		
+
+
+            Community Home
+            
+        
+
+            Discussion
+            2.3K
+
+
+            Library
+            278
+
+
+            Blogs
+            745
+
+
+            Events
+            12
+
+
+            Members
+            28.3K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Share 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Mathematical Introduction to Wave-Particle Duality and the Schrödinger Equation
+                                    
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+Luis Gerardo Ayala Bertel
+posted
+                                        Tue October 17, 2023 04:10 AM
+                                    
+			
+
+
+                              
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+Like
+
+
+
+
+
+
+
+
+
+
+Cordial greetings dear IBM community, 
+
+
+I hope you are all well, I will start by saying that writing on a topic where there are so many Nobel Prize winners requires rigor and respect for what is going to be written. I took the conscientiousness to review it many times, any comments or constructive criticism would be very welcome. Quantum mechanics, a cornerstone of modern physics, is a formalism that describes the fundamental behavior of matter and energy at the smallest scales. It encompasses wave-particle duality, illustrating how quantum entities can exhibit both particle-like and wave-like characteristics, and the Schrödinger equation, a central component of quantum mechanics, mathematically defines the quantum state of a system. These equations allow the exploration of a wide range of physical phenomena, from atomic and molecular behavior to the principles governing the behavior of quantum particles in various environments. 
+
+Wave-particle duality is a foundational concept in quantum physics that challenges our classical understanding of particles and waves. It highlights the dual nature of entities like electrons and photons, which exhibit characteristics of both particles and waves.
+
+Introduction to Wave-Particle Duality:
+In classical physics, we are accustomed to describing particles, such as a tennis ball. These entities have well-defined positions and velocities. We can precisely state where a tennis ball is and measure its velocity at any given time. This particle-based description aligns with our everyday experiences. In contrast, when we shift our focus to waves, it becomes apparent that they do not have a specific, localized position. For instance, a water wave or a wave on a rope. We cannot pinpoint exactly where the wave is at any given moment. Instead, waves are described in terms of parameters like wavelength and wave vector.
+
+In this equation:
+
+A is the amplitude, representing the maximum displacement from the equilibrium position.
+k is the wave vector, characterizing the spatial characteristics of the wave.
+x denotes the position in space.
+ω is the angular frequency, defining how rapidly the wave oscillates with time.
+φ0 is the phase angle, representing the initial phase of the wave.
+
+The phase angle determines the position of the wave at time ’t=0’. If we change the value of φ0, we shift the entire wave’s position in space at the reference time ’t=0’. Different values of φ0 lead to different starting positions for the wave, while the overall shape and behavior of the wave remain the same. There are two common ways to represent waves: using trigonometric functions (cosine and sine) and using complex exponential functions. The complex exponential form is often favored in quantum physics:
+
+y(x,t) = A·ei(kx−ωt)
+
+In this expression, 'i' represents the imaginary unit, which is the square root of -1. It’s essential to note that these two representations are equivalent; this equivalence is based on Euler’s formula, which relates complex exponentials to trigonometric functions. In practice, the complex exponential form is often used due to its mathematical convenience.
+
+Wave Fundamentality:
+One of the key insights from wave-particle duality is that waves are considered more fundamental than particles. This might seem counterintuitive at first, as we tend to think of particles as the building blocks of the physical world. However, this concept stems from the idea that we can represent particles in terms of waves. The mathematical transformation that enables this representation is known as the Fourier transform. It allows us to express a particle's behavior in terms of its wave properties, such as its wavevector and frequency. In essence, the wave description provides a versatile framework for understanding the behavior of particles at the quantum level.
+
+The Schrödinger Equation:
+To describe quantum systems, we introduced the concept of a wave function, denoted as ψ(x, t). For a free particle, like an electron, we postulate a wave function in the form of a plane wave:
+
+Here, k is the wave vector, and ω is the frequency of the particle. We can relate these parameters to more familiar concepts using de Broglie’s relations: p = ℏk (momentum) and E = ℏω (energy), where ℏ is the reduced Planck constant. (Planck constant h = 2πℏ = 6.626 x 10-24 J . s).
+To derive the Schrödinger equation, we start with the kinetic energy of a free particle: K·E = p2/2m, where m is the mass of the particle. We want to find an equation that describes the behavior of ψ(x, t). We need an equation that satisfies two conditions:
+
+It must yield the plane wave solution ψ(x, t) = A·ei(kx−ωt).
+It must connect energy and momentum as E = p2/2m.
+
+A simple wave equation (like the wave equation for electromagnetic waves) doesn’t work for electrons because it doesn’t yield the desired relationship between energy and momentum. Therefore, it is necessary to introduce the operators for energy and momentum, which act on the wave function as follows:
+
+These operators allow us to express the energy and momentum in terms of derivatives of the wave function. With these operators, we construct the free Schrödinger equation for a non-relativistic particle:
+
+Here, ∇2 is the Laplacian operator, which describes spatial variations in the wave function. This equation connects the time evolution of the wave function (left-hand side) to the particle’s kinetic energy (right-hand side). The free Schrödinger equation describes particles on which no external forces act. To describe particles in the presence of a potential energy V(x), is needed to modify the Schrödinger equation in the following way:
+
+Here, the potential energy term V(x)ψ accounts for the interaction of the particle with its surroundings. This equation is the time-dependent Schrödinger equation. It describes how the wave function of a quantum system evolves over time.
+
+Time Evolution Term: On the left-hand side, we have the term iℏ ∂ψ/∂t . This term represents the change in the quantum state (the wave function ψ) with respect to time (t). The factor i is the imaginary unit, and ℏ is the reduced Planck constant. This part of the equation captures how the quantum state evolves with time.
+Kinetic Energy Term: The second term on the right-hand side, − ℏ2/2m·∇2ψ, represents the kinetic energy of the particle. - ∇2ψ is the Laplacian operator applied to the wave function ψ. It quantifies how the probability density of the particle is distributed in space. - ℏ2/2m is related to the kinetic energy of the particle.The factor ℏ2/2m is a constant that depends on the reduced Planck constant and the mass of the particle. It’s the quantum mechanical counterpart of the classical kinetic energy, capturing the energy associated with the particle’s motion.
+Potential Energy Term: The last term, V(x)ψ, represents the potential energy of the particle as a function of its position x. This part depends on the specific interactions and forces acting on the particle.
+
+There is an energy operator, which in quantum mechanics is called Hamiltonian. The Hamiltonian operator, is a fundamental concept in quantum mechanics. It represents the total energy of a quantum system. 
+
+Its form depends on the specific system being considered and includes both kinetic and potential energy terms. Acts on the wave function of a quantum system. When we apply the Hamiltonian operator to the wave function ψ(x, t), it yields the time derivative of the wave function multiplied by a complex constant (i.e., the energy of the system).
+
+This equation is a simplified form of the time-dependent Schrödinger equation for a non-relativistic particle. It is the so-called fundamental equation of quantum physics. The Schrödinger equation describes how the quantum state (the wave function) of a particle changes with time. It relates the time rate of change of the wave function to its spatial distribution and the potential energy. It was initially formulated by Erwin Schrödinger in 1926 and is a result of the quantization of classical mechanics. The equation is not derived from more fundamental principles but is postulated as a fundamental law that describes the behavior of quantum systems.
+
+Solving the Schrödinger equation yields the eigenstates (possible states) of the system and their associated eigenvalues (energy levels). In quantum mechanics, eigenstates are the allowed quantum states of a system, and eigenvalues correspond to the possible measurement outcomes of a particular observable. 
+The Schrödinger equation is used to describe the time evolution of quantum states in continuous-variable quantum mechanics, not the discrete states typically used in qubits. Measurement and the concept of eigenstates/eigenvalues are more about the properties of quantum systems. 
+
+Quantum Simulation: We can use IBM Qiskit to simulate the time evolution of quantum states for qubits. Qiskit includes quantum simulators that allows to simulate the behavior of quantum circuits and analyze the outcomes. While this simulation doesn't directly solve the Schrödinger equation, it does provide a way to understand and analyze quantum systems.
+Quantum Algorithms: IBM Qiskit enables to implement various quantum algorithms and quantum gates to find outcomes for experiments on quantum computers. While it won't be solving the Schrödinger equation directly, we can use quantum algorithms to model and analyze quantum systems.
+
+The Bloch sphere is a valuable visualization tool in quantum mechanics that helps us understand the time evolution of quantum states.  In the context of a Bloch sphere, the Hamiltonian operator corresponds to a rotation of the state vector. The direction and speed of the rotation are determined by the Hamiltonian.
+
+
+It provides a geometric and intuitive representation of quantum states. By visualizing the state's trajectory on the Bloch sphere, we can gain insights into how Hamiltonians, quantum gates, and other operations affect the evolution of quantum systems. In conclusion, we have established the fundamental principles of wave-particle duality in quantum physics and the Schrödinger equation, which plays a central role in describing the behavior of quantum particles.
+
+
+There is a lot of information here, and I did my best to organize in such a way that it was possible to get an idea about these concepts. As we've seen, waves are fundamental, and particles can be described in terms of wave functions, giving rise to the concept of wave functions in quantum mechanics. I hope you enjoy this lecture and let's keep moving forward on this path of learning about quantum mechanics and quantum computing.
+
+
+
+All the best and kind regards.
+
+
+
+
+
+                            0 comments
+                        
+
+                            7 views
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBM Community Home
+
+
+Browse
+
+Discussions
+Resources
+Groups
+
+
+Events
+
+IBM TechXchange Conference 2023
+IBM Community Webinars
+All IBM Community Events
+
+
+Participate
+
+Gamification Program
+Community Manager's Welcome
+Post to Forum
+Share a Resource
+
+Blogging on the Community
+All IBM Community Users
+
+
+Resources
+
+Community Front Porch
+IBM Champions
+ IBM Cloud Support 
+IBM Documentation
+IBM Support
+IBM Technology Zone
+IBM Training
+
+
+Marketplace
+
+Marketplace
+
+
+
+
+
+
+
+
+
+
+
+About Us
+
+IBM TechXchange Community offers a constant stream of freshly updated content including featured blogs and forums for discussion and collaboration; access to the latest white papers, webcasts, presentations, and research uniquely for members, by members.
+  
+
+
+Quick Links
+
+
+
+About Us
+Terms of Use
+
+
+Community Netiquette
+Sitemap
+FAQ
+
+
+
+
+Office
+
+If you need immediate assistance please contact the Community Management team.
+
+ support@communitysite.ibm.com Monday - Friday: 8AM - 5PM MT
+
+
+
+
+Copyright © 2024 IBM TechXchange Community. All Rights Reserved.All material, files, logos and trademarks within this site are properties of their respective organizations.
+
+
+
+
+
+
+
+
+
+AI and Data Science
+
+
+Topic areas
+
+AI and DS Skills 
+Decision Optimization 
+Embeddable AI 
+Global AI and Data Science 
+IBM Advanced Studies 
+SPSS Statistics 
+watsonx Assistant 
+Watson Discovery 
+
+
+User groups
+Events
+
+Upcoming AI Events
+
+IBM TechXchange Webinars
+
+All IBM TechXchange Community Events
+
+
+Participate
+
+Gamification Program
+Community Manager's Welcome
+Post to Forum
+Share a Resource
+Share Your Expertise
+Blogging on the Community
+ Connect with Data Science Users 
+All IBM TechXchange Community Users
+
+
+Resources
+
+IBM TechXchange Group
+AI Learning
+IBM Champions
+ IBM Cloud Support 
+IBM Documentation
+IBM Support
+IBM Support 101
+IBM Technology Zone
+IBM Training
+
+
+TechXchange Conference
+
+IBM TechXchange Conference 2024
+
+
+Marketplace
+
+Marketplace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by Higher Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+

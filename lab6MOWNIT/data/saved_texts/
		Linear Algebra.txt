@@ -1,0 +1,8677 @@
+
+
+
+
+
+		Linear Algebra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous  index
+  next 
+Linear Algebra for Quantum Mechanics
+Michael Fowler, UVa 
+Introduction
+Weâve seen that in quantum mechanics, the state of an
+electron in some potential is given by a wave function 
+
+
+ψ(
+
+
+x
+→
+
+,t
+)
+
+,
+and physical variables are represented by operators on this wave function, such
+as the momentum in the 
+
+x
+
+Â -direction 
+
+
+
+p
+x
+
+=−iℏ∂/∂x.
+
+Â The SchrÃ¶dinger wave equation is a linear equation, which means that if 
+
+
+
+ψ
+1
+
+
+
+Â and 
+
+
+
+ψ
+2
+
+
+
+Â are solutions, then so is 
+
+
+
+c
+1
+
+
+ψ
+1
+
++
+c
+2
+
+
+ψ
+2
+
+
+
+,
+where 
+
+
+
+c
+1
+
+,
+c
+2
+
+
+
+Â are arbitrary complex numbers.Â  
+This linearity of the sets of possible solutions is true
+generally in quantum mechanics, as is the representation of physical variables
+by operators on the wave functions.Â  The
+mathematical structure this describes, the linear set of possible states and
+sets of operators on those states, is in fact a linear algebra of operators acting on a vector space.Â  From now on,
+this is the language weâll be using most of the time.Â  To clarify, weâll give some definitions.
+What is a Vector Space?
+The prototypical vector space is of course the set of real
+vectors in ordinary three-dimensional space, these vectors can be represented
+by trios of real numbers 
+
+
+(
+
+
+v
+1
+
+,
+v
+2
+
+,
+v
+3
+
+
+)
+
+Â measuring the components in the 
+
+
+x,y
+
+Â and 
+
+z
+
+Â directions respectively.
+The basic properties
+of these vectors are: Â 
+
+
+•
+
+Â  any vector multiplied by a number is another
+vector in the space, 
+
+
+a(
+
+
+v
+1
+
+,
+v
+2
+
+,
+v
+3
+
+
+)=(
+
+a
+v
+1
+
+,a
+v
+2
+
+,a
+v
+3
+
+
+)
+
+;
+
+
+
+•
+
+Â Â  the sum of two vectors is another vector in
+the space, that given by just adding the corresponding components together: 
+
+
+(
+
+
+v
+1
+
++
+w
+1
+
+,
+v
+2
+
++
+w
+2
+
+,
+v
+3
+
++
+w
+3
+
+
+).
+
+Â Â 
+These two properties together are referred to as âclosureâ: adding vectors and multiplying
+them by numbers cannot get you out of the space.Â  
+
+
+•
+
+Â Â  A further property is that there is a unique
+null vector 
+
+
+(
+
+0,0,0
+)
+
+Â and each vector has an additive inverse 
+
+
+(
+
+−
+v
+1
+
+,−
+v
+2
+
+,−
+v
+3
+
+
+)
+
+Â which added to the original vector gives the
+null vector.
+Mathematicians have generalized the definition of a vector
+space: a general vector space has the properties weâve listed above for
+three-dimensional real vectors, but the operations of addition and
+multiplication by a number are generalized to more abstract operations between
+more general entities. The operators are, however, restricted to being
+commutative and associative.
+Notice that the list of necessary properties for a general
+vector space does not include that the vectors have a magnitude—that would
+be an additional requirement, giving what is called a normed vector space.Â  More
+about that later.
+To go from the familiar three-dimensional vector space to
+the vector spaces relevant to quantum mechanics, first the real numbers
+(components of the vector and possible multiplying factors) are to be generalized
+to complex numbers, and second the three-component vector goes an 
+
+n
+
+Â component vector. Â The consequent 
+
+n
+
+Â -dimensional complex space is sufficient to
+describe the quantum mechanics of angular momentum, an important subject.Â  But to describe the wave function of a
+particle in a box requires an infinite
+dimensional space, one dimension for each Fourier component, and to describe
+the wave function for a particle on an infinite line requires the set of all
+normalizable continuous differentiable functions on that line.Â  Fortunately, all these generalizations are to
+finite or infinite sets of complex numbers, so the mathematiciansâ vector space
+requirements of commutativity and associativity are always trivially
+satisfied.Â  
+We use Diracâs notation for vectors, 
+
+
+|1〉, |2〉
+
+Â and call them âketsâ, so, in his language, if 
+
+
+|1〉, |2〉
+
+Â belong to the space, so does 
+
+
+
+c
+1
+
+|1〉+
+c
+2
+
+ |2〉
+
+Â for arbitrary complex constants 
+
+
+
+c
+1
+
+,
+c
+2
+
+.
+
+Â Â Since our vectors are made up of complex
+numbers, multiplying any vector by zero gives the null vector, and the additive
+inverse is given by reversing the signs of all the numbers in the vector.
+Â Clearly, the set of
+solutions of SchrÃ¶dingerâs equation for an electron in a potential satisfies
+the requirements for a vector space:Â  
+
+
+ψ(
+
+
+x
+→
+
+,t
+)
+
+Â is just a complex number at each point in
+space, so only complex numbers are involved in forming 
+
+
+
+c
+1
+
+
+ψ
+1
+
++
+c
+2
+
+
+ψ
+2
+
+
+
+,
+and commutativity, associativity, etc., follow at once. 
+Vector Space Dimensionality
+The vectors 
+
+
+|1〉, |2〉, |3〉
+
+Â are linearly independent if 
+
+
+
+
+c
+1
+
+|1〉+
+c
+2
+
+ |2〉+
+c
+3
+
+ |3〉=0
+
+
+implies 
+
+
+
+
+c
+1
+
+=
+c
+2
+
+=
+c
+3
+
+=0.
+
+
+A vector space is 
+
+n
+
+-dimensional if the maximum number of
+linearly independent vectors in the space is 
+
+
+n.
+
+Â Â 
+Such a space is often called 
+
+
+
+V
+n
+
+(
+C
+),
+
+Â or 
+
+
+
+V
+n
+
+(
+R
+)
+
+Â if only real numbers are used. 
+Now, vector spaces with finite dimension 
+
+n
+
+Â are clearly insufficient for describing
+functions of a continuous variable 
+
+
+x.
+
+Â But they are well worth reviewing here: as
+weâve mentioned, they are fine for describing quantized angular momentum, and
+they serve as a natural introduction to the infinite-dimensional spaces needed
+to describe spatial wavefunctions.Â  
+A set of 
+
+n
+
+Â linearly independent vectors in 
+
+n
+
+-dimensional space is a basis: any
+vector can be written in a unique way as a sum over a basis:
+
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉
+.
+
+
+You can check the uniqueness by taking the difference
+between two supposedly distinct sums: it will be a linear relation between
+independent vectors, a contradiction.
+Since all vectors in the space can be written as linear sums
+over the elements of the basis, the sum of multiples of any two vectors has the
+form:
+
+
+
+a|V〉+b|W〉=
+∑ 
+(a
+v
+i
+
++b
+w
+i
+
+)|i〉
+.
+
+
+Inner Product Spaces
+The vector spaces of relevance in quantum mechanics also
+have an operation associating a number with a pair of vectors, a generalization
+of the dot product of two ordinary three-dimensional vectors, 
+
+
+
+
+
+a
+→
+
+.
+b
+→
+
+=
+∑ 
+
+a
+i
+
+
+b
+i
+
+
+.
+
+
+Following Dirac, we write the inner product of two ket
+vectors 
+
+
+|V〉,  |W〉
+
+Â as 
+
+
+〈
+W|V〉
+
+.Â  Dirac refers to this 
+
+
+〈
+ |〉
+
+Â form as a âbracketâ made up of a âbraâ and a
+âketâ. Â This means that each ket vector 
+
+
+|V〉
+
+Â has an associated bra 
+
+
+〈V|.
+
+Â Â For the case of a real 
+
+n
+
+-dimensional vector, 
+
+
+|V〉, 〈V|
+
+Â have identical components—but we require
+for the more general case that
+
+
+
+
+〈
+W|V〉=
+
+〈
+V|W〉
+∗
+
+
+
+
+where * denotes complex conjugate. This implies
+that for a ket 
+
+
+(
+
+
+v
+1
+
+,…,
+v
+n
+
+
+)
+
+Â the bra will be 
+
+
+(
+
+
+v
+1
+∗
+
+,…,
+v
+n
+∗
+
+
+)
+
+.Â  (Actually, bras are usually written as rows,
+kets as columns, so that the inner product follows the standard rules for
+matrix multiplication.)Â  Evidently for
+the 
+
+n
+
+Â -dimensional complex vector 
+
+
+〈
+V|V〉
+
+Â is real and positive except for the null
+vector:
+
+
+
+
+〈V|V〉=
+
+∑
+1
+n
+
+
+
+
+| 
+
+v
+i
+
+ |
+2
+
+
+.
+
+
+Â For the more general
+inner product spaces considered later we require 
+
+
+〈
+V|V〉
+
+Â to be positive, except for the null vector.Â  (These requirements do restrict the classes
+of vector spaces we are considering—no Lorentz metric, for example—but
+they are all satisfied by the spaces relevant to nonrelativistic quantum
+mechanics.)
+The norm of 
+
+
+|V〉
+
+Â is then defined by
+
+
+
+| V |=
+
+〈
+V|V〉
+
+.
+
+
+If 
+
+
+|V〉
+
+Â is a member of 
+
+
+
+V
+n
+
+(
+C
+),
+
+Â so is 
+
+
+a|V〉
+
+,
+for any complex number 
+
+
+a.
+
+Â Â Â 
+We require the inner product operation to commute with
+multiplication by a number, so
+
+
+
+〈W|(
+
+a|V〉
+)=a〈
+W|V〉.
+
+
+The complex conjugate of the right hand side is 
+
+
+
+a
+∗
+
+〈
+V|W〉.
+
+Â Â For consistency, the bra corresponding to the
+ketÂ  
+
+
+a|V〉
+
+Â must therefore be 
+
+
+〈V|
+a
+∗
+
+
+
+Â -- in any case obvious from the definition of
+the bra in 
+
+n
+
+Â complex dimensions given above. 
+It follows that if
+
+
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉
+,  |W〉=
+∑ 
+
+w
+i
+
+|i〉
+,  then 〈
+V|W〉=
+∑ 
+
+v
+i
+∗
+
+
+w
+j
+
+〈
+i|j〉.
+
+
+
+Constructing an Orthonormal Basis: the Gram-Schmidt Process
+To have something better resembling the standard dot product
+of ordinary three vectors, we need 
+
+
+〈
+i|j〉=
+δ
+
+ij
+
+,
+
+Â that is, we need to construct an orthonormal
+basis in the space.Â  There is a
+straightforward procedure for doing this called the Gram-Schmidt process. We
+begin with a linearly independent set of basis vectors, 
+
+
+|1〉, |2〉, |3〉,…
+
+Â .Â  
+We first normalize 
+
+
+|1〉
+
+Â by dividing it by its norm. Â Call the normalized vector 
+
+
+|I〉.
+
+Â Â Now 
+
+
+|2〉
+
+Â cannot be parallel to 
+
+
+|I〉,
+
+Â because the original basis was of linearly
+independent vectors, but 
+
+
+|2〉
+
+Â in general has a nonzero component parallel to
+
+
+
+|I〉,
+
+Â equal to 
+
+
+|I〉〈
+I|2〉,
+
+Â since 
+
+
+|I〉
+
+Â is normalized.Â 
+Therefore, the vector 
+
+
+|2〉−|I〉〈
+I|2〉
+
+Â is perpendicular to 
+
+
+|I〉,
+
+Â as is easily verified. Â It is also easy to compute the norm of this
+vector, and divide by it to get 
+
+
+|
+II〉,
+
+Â the second member of the orthonormal
+basis.Â  Next, we take 
+
+
+|3〉
+
+Â and subtract off its components in the
+directions 
+
+
+|I〉
+
+Â and 
+
+
+|
+II〉,
+
+Â normalize the remainder, and so on. 
+In an 
+
+n
+
+-dimensional space, having constructed an
+orthonormal basis with members 
+
+
+|i〉,
+
+Â any vector 
+
+
+|V〉
+
+Â can be written as a column vector, 
+
+
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉=(
+
+
+
+
+
+
+v
+1
+
+
+
+
+
+
+
+
+v
+2
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+v
+n
+
+
+
+
+
+)
+ , where |1〉=(
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+0
+
+
+
+) and so on.
+
+
+The corresponding bra is 
+
+
+〈V|=
+∑ 
+
+v
+i
+∗
+
+〈i|
+
+
+,
+which we write as a row vector with the elements complex conjugated, 
+
+
+〈V|=(
+
+
+v
+1
+∗
+
+,  
+v
+2
+∗
+
+,…
+v
+n
+∗
+
+
+)
+
+.
+Â This operation, going from columns to
+rows and taking the complex conjugate, is called taking the adjoint, and
+can also be applied to matrices, as we shall see shortly.
+The reason for representing the bra as a row is that the
+inner product of two vectors is then given by standard matrix multiplication:
+
+
+
+
+〈
+V|W〉=(
+v
+1
+∗
+
+,
+v
+2
+∗
+
+,...,
+v
+n
+∗
+
+)(
+
+
+
+
+
+
+w
+1
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+w
+n
+
+
+
+
+
+).
+
+
+(Of course, this only works with an orthonormal base.)
+The Schwartz Inequality
+The Schwartz inequality is the generalization to any inner
+product space of the result 
+
+
+|
+a
+→
+
+.
+b
+→
+
+
+|
+2
+
+  ≤  |
+a
+→
+
+
+|
+2
+
+|
+b
+→
+
+
+|
+2
+
+
+
+Â (or 
+
+
+
+
+cos
+2
+
+θ≤1
+
+Â ) for ordinary three-dimensional vectors.Â  The equality sign in that result only holds
+when the vectors are parallel.Â  To
+generalize to higher dimensions, one might just note that two vectors are in a
+two-dimensional subspace, but an illuminating way of understanding the
+inequality is to write the vector 
+
+
+a
+→
+
+
+Â as a sum of two components, one parallel to 
+
+
+b
+→
+
+
+Â and one perpendicular to 
+
+
+b
+→
+
+
+.Â  The component parallel to 
+
+
+b
+→
+
+
+Â is just 
+
+
+
+b
+→
+
+(
+
+
+a
+→
+
+⋅
+b
+→
+
+
+)/
+
+| 
+b
+→
+
+|
+2
+
+
+
+,
+so the component perpendicular to 
+
+
+b
+→
+
+
+Â is the vector 
+
+
+
+
+a
+→
+
+⊥
+
+=
+a
+→
+
+−
+b
+→
+
+(
+
+
+a
+→
+
+⋅
+b
+→
+
+
+)/
+
+| 
+b
+→
+
+|
+2
+
+
+
+.Â  Substituting this expression into 
+
+
+
+
+a
+→
+
+⊥
+
+⋅
+
+a
+→
+
+⊥
+
+≥0
+
+Â , the inequality follows.
+This same point can be made in a general inner product
+space:Â  if 
+
+
+|V〉,  |W〉
+
+Â are two vectors, then
+
+
+
+ |Z〉=|V〉−
+
+|W〉〈W|V〉
+
+|W
+|
+2
+
+
+
+
+
+
+is the component of 
+
+
+|V〉
+
+Â perpendicular to 
+
+
+|W〉
+
+,
+as is easily checked by taking its inner product with 
+
+
+|W〉
+
+.
+Then
+
+
+
+
+〈Z|Z〉≥0 gives immediately 
+
+| 
+〈
+V|W〉 |
+2
+
+≤
+
+| V |
+2
+
+
+
+| W |
+2
+
+.
+
+
+Linear Operators
+A linear operator 
+
+A
+
+Â takes any vector in a linear vector space to a
+vector in that space, 
+
+
+A|V〉=|
+V
+′
+
+〉,
+
+ and satisfies
+
+
+
+
+A(
+
+
+c
+1
+
+|
+
+V
+1
+
+〉+
+c
+2
+
+|
+
+V
+2
+
+〉
+)=
+c
+1
+
+A|
+
+V
+1
+
+〉+
+c
+2
+
+A|
+
+V
+2
+
+〉,
+
+
+with 
+
+
+
+c
+1
+
+,
+c
+2
+
+
+
+Â arbitrary complex constants.
+The identity operator 
+
+I
+
+Â is (obviously!) defined by:
+
+
+
+
+I|V〉= |V〉 for all |V〉.
+
+
+For an 
+
+n
+
+-dimensional vector space with an orthonormal
+basisÂ  
+
+
+|1〉,…,|n〉,
+
+Â since any vector in the space can be expressed
+as a sum 
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉
+
+
+,
+the linear operator is completely determined by its action on the basis vectors
+-- this is all we need to know. Itâs easy to find an expression for the
+identity operator in terms of bras and kets. 
+Taking the inner product of both sides of the equation 
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉
+
+
+Â with the bra 
+
+
+〈i|
+
+Â gives 
+
+
+〈
+i|V〉=
+v
+i
+
+,
+
+Â so 
+
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉
+=
+∑ 
+|i〉
+〈i|V〉.
+
+
+Since this is true for any vector in the space, it follows
+that that the identity operator is just
+
+
+
+
+I=
+
+∑
+1
+n
+
+
+|i〉〈i|
+ .
+
+
+Â This is an important
+result: it will reappear in many disguises. 
+To analyze the action of a general linear operator 
+
+
+A,
+
+Â we just need to know how it acts on each basis
+vector. Â Beginning with 
+
+
+A|1〉,
+
+Â this must be some sum over the basis vectors,
+and since they are orthonormal, the component in the 
+
+
+|i〉
+
+Â direction must be just 
+
+
+〈i|A|1〉.
+
+
+That is,
+
+
+
+
+A|1〉=
+
+∑
+1
+n
+
+
+|i〉〈i| 
+A|1〉=
+
+∑
+1
+n
+
+
+
+A
+
+ i1
+
+|i〉, writing 〈i|A|1〉=
+A
+
+ i1
+
+
+.
+
+
+So if the linear operator 
+
+A
+
+Â acting on 
+
+
+|V〉=
+∑ 
+
+v
+i
+
+|i〉
+
+
+Â gives 
+
+
+|
+V
+′
+
+〉=
+∑ 
+
+
+v
+′
+
+i
+
+|i〉
+
+
+,
+that is, 
+
+
+A|V〉=|
+V
+′
+
+〉,
+
+Â the linearity tells us that
+
+
+
+
+
+∑ 
+
+
+v
+′
+
+i
+
+|i〉
+=|
+V
+′
+
+〉=A|V〉=
+∑ 
+
+v
+j
+
+A|j〉=
+
+
+∑
+
+i,j
+
+
+
+v
+j
+
+|i〉〈i|A|j〉
+=
+
+∑
+
+i,j
+
+
+
+v
+j
+
+
+A
+
+ij
+
+|i〉
+
+
+
+where in the fourth step we just inserted the identity
+operator.
+Since the 
+
+
+|i〉
+
+Â âs are all orthogonal, the coefficient of a
+particular 
+
+
+|i〉
+
+Â on the left-hand side of the equation must be
+identical with the coefficient of the same 
+
+
+|i〉
+
+Â on the right-hand side. That is, 
+
+
+
+v
+i
+
+
+
+′
+
+=A
+ 
+
+ij
+
+
+v
+j
+
+.
+
+
+Therefore the operator A
+is simply equivalent to matrix
+multiplication:
+
+
+
+
+(
+
+
+
+
+
+
+v
+1
+
+
+
+′
+
+
+
+
+
+
+
+
+v
+2
+
+
+
+′
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+v
+n
+
+
+
+′
+
+
+
+
+
+)=(
+
+
+
+
+
+〈1|A|1〉
+
+
+
+〈1|A|2〉
+
+
+.
+
+
+.
+
+
+
+〈1|A|n〉
+
+
+
+
+
+〈2|A|1〉
+
+
+
+〈2|A|2〉
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+
+〈n|A|1〉
+
+
+
+〈n|A|2〉
+
+
+.
+
+
+.
+
+
+
+〈n|A|n〉
+
+
+
+)(
+
+
+
+
+
+
+v
+1
+
+
+
+
+
+
+
+
+v
+2
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+v
+n
+
+
+
+
+
+).
+
+
+Evidently, then, applying
+two linear operators one after the other is equivalent to successive matrix
+multiplication—and, therefore, since
+matrices do not in general commute, nor do linear operators. (Of course, if
+we hope to represent quantum variables as linear operators on a vector space,
+this has to be true: the momentum operator 
+
+
+p=−iℏd/dx
+
+Â certainly doesnât commute with 
+
+x
+
+!)
+Projection Operators
+It is important to note that a linear operator applied
+successively to the members of an orthonormal basis might give a new set of
+vectors which no longer span the entire
+space. Â To give an example, the
+linear operator 
+
+
+|1〉〈1|
+
+Â applied to any vector in the space picks out
+the vectorâs component in the 
+
+
+|1〉
+
+Â direction. Â Itâs called a projection operator.Â  The operator 
+
+
+(
+
+|1〉〈1|+|2〉〈2|
+)
+
+Â projects a vector into its components in the
+subspace spanned by the vectors 
+
+
+|1〉
+
+Â and 
+
+
+|2〉
+
+,
+and so on: if we extend the sum to be over the whole basis, we recover the
+identity operator.
+Exercise: Â prove
+that the 
+
+
+n×n
+
+Â matrix representation of the projection
+operator 
+
+
+(
+
+|1〉〈1|+|2〉〈2|
+)
+
+Â has all elements zero except the first two
+diagonal elements, which are equal to one.
+There can be no inverse
+operator to a nontrivial projection operator, since the information about
+components of the vector perpendicular to the projected subspace is lost. 
+The Adjoint Operator and Hermitian Matrices
+As weâve discussed, if a ket 
+
+
+|V〉
+
+Â in the 
+
+n
+
+Â -dimensional space is written as a column
+vector with 
+
+n
+
+Â (complex) components, the corresponding bra is
+a row vector having as elements the
+complex conjugates of the ket elements.Â  
+
+
+〈
+W|V〉=
+
+〈
+V|W〉
+∗
+
+
+
+Â then follows automatically from standard
+matrix multiplication rules, and on multiplying 
+
+
+|V〉
+
+Â by a complex number a to get 
+
+
+a|V〉
+
+Â Â (meaning that each element in the column of
+numbers is multiplied by 
+
+a
+
+Â ) the corresponding bra goes to 
+
+
+〈V|
+a
+∗
+
+=
+a
+∗
+
+〈V|.
+
+
+But suppose that instead of multiplying a ket by a number,
+we operate on it with a linear operator. What generates the parallel
+transformation among the bras?Â  In other
+words, if 
+
+
+A|V〉=|
+V
+′
+
+〉,
+
+Â what operator sends the bra 
+
+
+〈V|
+
+Â to 
+
+
+〈
+V
+′
+
+|
+
+?Â  It must be a linear operator, because 
+
+A
+
+Â is linear, that is, if under A 
+
+
+|
+
+V
+1
+
+〉→|
+
+
+V
+′
+
+1
+
+〉, |
+
+V
+2
+
+〉→|
+
+
+V
+′
+
+2
+
+〉
+
+Â and 
+
+
+|
+
+V
+3
+
+〉=|
+
+V
+1
+
+〉+|
+
+V
+2
+
+〉,
+
+Â then under 
+
+A
+
+Â 
+
+
+|
+
+V
+3
+
+〉 is required to go to |
+
+
+V
+′
+
+3
+
+〉=|
+
+
+V
+′
+
+1
+
+〉+|
+
+
+V
+′
+
+2
+
+〉.
+
+Â Â Consequently, under the parallel bra transformation we must have 
+
+
+〈
+
+V
+1
+
+|→〈
+
+
+V
+′
+
+1
+
+|, 〈
+
+V
+2
+
+|→〈
+
+
+V
+′
+
+2
+
+| and  〈
+
+V
+3
+
+|→〈
+
+
+V
+′
+
+3
+
+|, 
+
+
+
+—
+
+the bra
+transformation is necessarily also linear.Â 
+Recalling that the bra is an 
+
+n
+
+Â -element row
+vector, the most general linear transformation sending it to another bra is an 
+
+
+n×n
+
+Â matrix operating on the bra from the right. 
+This bra operator is called the adjoint of A, written 
+
+
+
+A
+†
+
+.
+
+Â Â That
+is, the ket 
+
+
+A|V〉
+
+Â has corresponding bra 
+
+
+〈V|
+A
+†
+
+.
+
+Â In an orthonormal basis, using the notation 
+
+
+〈
+Ai|
+
+Â to denote the bra 
+
+
+〈i|
+A
+†
+
+
+
+Â corresponding to the ket 
+
+
+A|i〉=|
+Ai〉,
+
+Â say,
+
+
+
+
+
+
+(
+
+
+A
+†
+
+
+)
+
+ij
+
+=〈i|
+A
+†
+
+|j〉=〈
+Ai|j〉=〈j|
+
+
+Ai〉
+∗
+
+=
+A
+
+ji
+∗
+
+.
+
+
+So the adjoint operator is the transpose complex
+conjugate. 
+Important: for a product
+of two operators (prove this!), 
+
+
+
+
+
+
+(AB)
+†
+
+=
+B
+†
+
+
+A
+†
+
+.
+
+
+Â An operator equal to its adjoint 
+
+
+A=
+A
+†
+
+
+
+Â is called Hermitian.Â  As we shall find in the next lecture,
+Hermitian operators are of central importance in quantum mechanics.Â  An operator equal to minus its adjoint, 
+
+
+A=−
+A
+†
+
+
+
+,
+is anti-Hermitian (sometimes termed skew
+Hermitian).Â  These two operator types are
+essentially generalizations of real and imaginary number: any operator can be
+expressed as a sum of a Hermitian operator and an anti-Hermitian operator, 
+
+
+
+A=
+
+1
+2
+
+
+(A+
+A
+†
+
+)+
+
+1
+2
+
+
+(A−
+A
+†
+
+).
+
+
+The definition of adjoint naturally extends to vectors
+and numbers: the adjoint of a ket is the corresponding bra, the adjoint of
+a number is its complex conjugate.Â  This
+is useful to bear in mind when taking the adjoint of an operator which may be
+partially constructed of vectors and numbers, such as projection-type
+operators.Â  The adjoint of a product of
+matrices, vectors and numbers is the product of the adjoints in reverse
+order. Â (Of course, for numbers the
+order doesnât matter.)
+Unitary Operators
+An operator is unitary if 
+
+
+
+U
+†
+
+U=1.
+
+Â Â This implies first that 
+
+U
+
+Â operating on any vector gives a vector having
+the same norm, since the new norm 
+
+
+〈V|
+U
+†
+
+U|V〉=〈V|V〉
+
+.Â  Furthermore, inner products are preserved, 
+
+
+〈W|
+U
+†
+
+U|V〉=〈W|V〉.
+
+Â Â Therefore, under a unitary transformation the
+original orthonormal basis in the space must go to another orthonormal basis.Â  
+Conversely, any transformation that takes one orthonormal
+basis into another one is a unitary transformation.Â  To see this, suppose that a linear
+transformation A sends the members of
+the orthonormal basis 
+
+
+(
+
+
+
+|1〉
+1
+
+,
+
+|2〉
+1
+
+,…,
+
+|n〉
+1
+
+
+)
+
+Â to the different orthonormal set 
+
+
+(
+
+
+
+|1〉
+2
+
+,
+
+|2〉
+2
+
+,…,
+
+|n〉
+2
+
+
+)
+
+,
+so 
+
+
+A
+
+|1〉
+1
+
+=
+
+|1〉
+2
+
+,
+
+Â etc.Â 
+Then the vector 
+
+
+|V〉=
+
+
+∑ 
+
+v
+i
+
+|i〉
+
+1
+
+
+
+Â will go to 
+
+
+|
+V
+′
+
+〉=A|V〉=
+∑ 
+
+v
+i
+
+
+
+|i〉
+2
+
+
+,
+
+Â having the same norm, 
+
+
+〈
+V
+′
+
+|
+V
+′
+
+〉=〈V|V〉=
+
+
+∑ 
+| 
+
+v
+i
+
+ |
+
+2
+
+
+
+.Â  A matrix elememt 
+
+
+〈
+W
+′
+
+|
+V
+′
+
+〉=〈W|V〉=
+∑ 
+
+w
+i
+
+*
+v
+i
+
+
+
+
+,
+but also 
+
+
+〈
+W
+′
+
+|
+V
+′
+
+〉=〈W|
+A
+†
+
+A|V〉
+
+.
+That is, 
+
+
+〈W|V〉=〈W|
+A
+†
+
+A|V〉
+
+Â for arbitrary
+kets 
+
+
+|V〉, |W〉
+
+.Â  This is only possible if 
+
+
+
+A
+†
+
+A=I
+
+,
+so 
+
+A
+
+Â is unitary.
+A unitary operation amounts to a rotation (possibly combined
+with a reflection) in the space.Â  Evidently,
+since 
+
+
+
+U
+†
+
+U=1,
+
+Â the adjoint 
+
+
+
+U
+†
+
+
+
+Â rotates the basis back: it is the inverse
+operation, and so 
+
+
+U
+U
+†
+
+=1
+
+Â also, that is, U and 
+
+
+
+U
+†
+
+
+
+Â commute. 
+Determinants
+We review in this section the determinant of a
+matrix, a function closely related to the operator properties of the matrix.
+Letâs start with 
+
+
+2×2
+
+Â matrices:
+
+
+
+
+A=(
+
+
+
+
+
+
+a
+
+11
+
+
+
+
+
+
+a
+
+12
+
+
+
+
+
+
+
+
+a
+
+21
+
+
+
+
+
+
+a
+
+22
+
+
+
+
+
+).
+
+
+The determinant of this matrix is defined by:
+
+
+
+
+detA= |A| =
+a
+
+11
+
+
+a
+
+22
+
+−
+a
+
+12
+
+
+a
+
+21
+
+.
+
+
+Writing the two rows of the matrix as vectors:
+
+
+
+
+
+
+
+a
+→
+
+1
+R
+
+=(
+
+
+a
+
+11
+
+,
+a
+
+12
+
+
+)
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+=(
+
+
+a
+
+21
+
+,
+a
+
+22
+
+
+)
+
+
+
+
+
+( 
+
+R
+
+Â denotes row), 
+
+
+detA= 
+
+a
+→
+
+1
+R
+
+×
+
+a
+→
+
+2
+R
+
+
+
+Â is just the area (with appropriate
+sign) of the parallelogram having the two row vectors as adjacent sides:
+
+This is zero if the two vectors are parallel (linearly
+dependent) and is not changed by adding any multiple of 
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+Â to 
+
+
+
+
+a
+→
+
+1
+R
+
+
+
+Â Â (because the new parallelogram has the same
+base and the same height as the original—check this by drawing). 
+Letâs go on to the more interesting case of 
+
+
+3×3
+
+Â matrices:
+
+
+
+
+A=(
+
+
+
+
+
+
+a
+
+11
+
+
+
+
+
+
+a
+
+12
+
+
+
+
+
+
+a
+
+13
+
+
+
+
+
+
+
+
+a
+
+21
+
+
+
+
+
+
+a
+
+22
+
+
+
+
+
+
+a
+
+23
+
+
+
+
+
+
+
+
+a
+
+31
+
+
+
+
+
+
+a
+
+32
+
+
+
+
+
+
+a
+
+33
+
+
+
+
+
+).
+
+
+The determinant of 
+
+A
+
+Â is defined as
+
+
+
+
+detA=
+ε
+
+ijk
+
+
+a
+
+1i
+
+
+a
+
+2j
+
+
+a
+
+3k
+
+
+
+
+where 
+
+
+
+ε
+
+ijk
+
+=0
+
+Â if any two are equal, +1 if 
+
+
+ijk=123,231 or 312
+
+Â (that is to say, an even permutation of 123)
+and 
+
+–
+
+1 if 
+
+
+ijk
+
+Â is an odd permutation of 
+
+
+123.
+
+Â Repeated suffixes, of course, imply summation
+here.
+Writing this out explicitly, 
+
+
+
+detA=
+a
+
+11
+
+
+a
+
+22
+
+
+a
+
+33
+
++
+a
+
+21
+
+
+a
+
+32
+
+
+a
+
+13
+
++
+a
+
+31
+
+
+a
+
+12
+
+
+a
+
+23
+
+−
+a
+
+11
+
+
+a
+
+32
+
+
+a
+
+23
+
+−
+a
+
+21
+
+
+a
+
+12
+
+
+a
+
+33
+
+−
+a
+
+31
+
+
+a
+
+22
+
+
+a
+
+13
+
+.
+
+
+Just as in two dimensions, itâs worth looking at this
+expression in terms of vectors representing the rows of the matrix
+
+
+
+
+
+
+
+
+a
+→
+
+1
+R
+
+=(
+a
+
+11
+
+,
+a
+
+12
+
+,
+a
+
+13
+
+)
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+=(
+a
+
+21
+
+,
+a
+
+22
+
+,
+a
+
+23
+
+)
+
+
+
+
+
+
+a
+→
+
+3
+R
+
+=(
+a
+
+31
+
+,
+a
+
+32
+
+,
+a
+
+33
+
+)
+
+
+
+
+
+so 
+
+
+
+
+A=(
+
+
+
+
+
+
+
+a
+→
+
+1
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+3
+R
+
+
+
+
+
+),   and we see that detA=  (
+
+a
+→
+
+1
+R
+
+×
+
+a
+→
+
+2
+R
+
+)⋅
+
+a
+→
+
+3
+R
+
+.
+
+
+This is the volume of the parallelopiped formed by the three
+vectors being adjacent sides (meeting at one corner, the origin).Â  
+
+This parallelepiped volume will of course be zero if the
+three vectors lie in a plane, and it is not changed if a multiple of one of the
+vectors is added to another of the vectors.Â 
+That is to say, the determinant of
+a matrix is not changed if a multiple of one row is added to another row.Â  This is because the determinant is linear in
+the elements of a single row, 
+
+
+
+
+det(
+
+
+
+
+
+
+
+a
+→
+
+1
+R
+
++λ
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+3
+R
+
+
+
+
+
+)=det(
+
+
+
+
+
+
+
+a
+→
+
+1
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+3
+R
+
+
+
+
+
+)+λdet(
+
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+3
+R
+
+
+
+
+
+)
+
+
+and the last term is zero because two rows are identical—so
+the triple vector product vanishes. 
+A more general way of stating this, applicable to larger
+determinants, is that for a determinant with two identical rows, the symmetry
+of the two rows, together with the antisymmetry of 
+
+
+
+ε
+
+ijk
+
+,
+
+Â ensures that the terms in the sum all cancel
+in pairs.
+Since the determinant is not altered by adding some multiple
+of one row to another, if the rows are linearly dependent, one row could be
+made identically zero by adding the right multiples of the other rows. Since
+every term in the expression for the determinant has one element from each row,
+the determinant would then be identically zero.Â 
+For the three-dimensional case, the linear dependence of the rows means
+the corresponding vectors lie in a plane, and the parallelepiped is flat. 
+The algebraic argument generalizes easily to 
+
+
+n×n
+
+Â determinants: they are identically zero if the rows are linearly dependent.Â  
+The generalization from 
+
+
+3×3 to n×n
+
+Â determinants is that 
+
+
+detA=
+ε
+
+ijk
+
+
+a
+
+1i
+
+
+a
+
+2j
+
+
+a
+
+3k
+
+
+
+Â becomes:
+
+
+
+
+detA=
+ε
+
+ijk...p
+
+
+a
+
+1i
+
+
+a
+
+2j
+
+
+a
+
+3k
+
+....
+a
+
+np
+
+
+
+
+where 
+
+
+ijk…p
+
+Â is summed over all permutations of 
+
+
+123…n,
+
+Â and the 
+
+ε
+
+Â symbol is zero if any two of its suffixes are
+equal, 
+
+
++1
+
+Â for an even permutation and 
+
+
+−1
+
+Â for an odd permutation. (Note: any permutation can be written as a product of swaps of
+neighbors.Â  Such a representation is in
+general not unique, but for a given permutation, all such representations will
+have either an odd number of elements or an even number.)
+An important theorem is that for a product of two matrices 
+
+
+A,B
+
+Â the determinant of the product is the product
+of the determinants, 
+
+
+detAB=detA×detB.
+
+Â Â This can be verified by brute force for 
+
+
+2×2
+
+Â matrices, and a proof in the general case can
+be found in any book on mathematical physics (for example, Byron and Fuller). 
+It can also be proved that if the rows are linearly independent, the determinant cannot be zero. Â 
+(Hereâs a proof:
+take an 
+
+
+n×n
+
+Â matrix with the 
+
+n
+
+Â row vectors linearly independent.Â  Now consider the components of those vectors
+in theÂ  
+
+
+n−1
+
+Â dimensional subspace perpendicular to 
+
+
+(
+
+1,0,…,0
+).
+
+Â Â These 
+
+n
+
+Â vectors, each with only 
+
+
+n−1
+
+Â components, must be linearly dependent, since
+there are more of them than the dimension of the space. So we can take some
+combination of the rows below the first row and subtract it from the first row
+to leave the first row 
+
+
+(
+
+a,0,…,0
+),
+
+Â Â and 
+
+a
+
+Â cannot be zero since we have a matrix with 
+
+n
+
+Â linearly independent rows. We can then
+subtract multiples of this first row from the other rows to get a determinant
+having zeros in the first column below the first row. Now look at the 
+
+
+(
+
+n−1
+)×(
+
+n−1
+)
+
+Â determinant to be multiplied by 
+
+
+a.
+
+Â Â Its rows must be linearly independent since
+those of the original matrix were.Â  Now
+proceed by induction.)
+To return to three dimensions, it is clear from the form of 
+
+
+
+
+detA=
+a
+
+11
+
+
+a
+
+22
+
+
+a
+
+33
+
++
+a
+
+21
+
+
+a
+
+32
+
+
+a
+
+13
+
++
+a
+
+31
+
+
+a
+
+12
+
+
+a
+
+23
+
+−
+a
+
+11
+
+
+a
+
+32
+
+
+a
+
+23
+
+−
+a
+
+21
+
+
+a
+
+12
+
+
+a
+
+33
+
+−
+a
+
+31
+
+
+a
+
+22
+
+
+a
+
+13
+
+
+
+
+that we could equally have taken the columns of 
+
+A
+
+Â as three vectors, 
+
+
+A=(
+
+a
+→
+
+1
+C
+
+,
+
+a
+→
+
+2
+C
+
+,
+
+a
+→
+
+3
+C
+
+)
+
+Â in an obvious notation, 
+
+
+detA= (
+
+a
+→
+
+1
+C
+
+×
+
+a
+→
+
+2
+C
+
+)⋅
+
+a
+→
+
+3
+C
+
+
+
+,
+and linear dependence among the columns will also ensure the vanishing
+of the determinant—so, in fact, linear dependence of the columns ensures
+linear dependence of the rows.Â  
+This, too, generalizes to 
+
+
+n×n
+
+:
+in the definition of determinantÂ  
+
+
+detA=
+ε
+
+ijk...p
+
+
+a
+
+1i
+
+
+a
+
+2j
+
+
+a
+
+3k
+
+....
+a
+
+np
+
+
+
+,
+the row suffix is fixed and the column suffix goes over all permissible
+permutations, with the appropriate sign—but the same terms would be
+generated by having the column
+suffixes kept in numerical order and allowing the row suffix to undergo the
+permutations.
+An Aside: Reciprocal Lattice Vectors
+It
+is perhaps worth mentioning how the inverse of a 
+
+
+3×3
+
+Â matrix operator can be understood in terms of
+vectors.Â  For a set of linearly
+independent vectors 
+
+
+(
+
+a
+→
+
+1
+
+,
+
+a
+→
+
+2
+
+,
+
+a
+→
+
+3
+
+)
+
+,
+a reciprocal set 
+
+
+(
+
+b
+→
+
+1
+
+,
+
+b
+→
+
+2
+
+,
+
+b
+→
+
+3
+
+)
+
+Â can be defined by 
+
+
+
+
+
+
+b
+→
+
+1
+
+=
+
+
+
+a
+→
+
+2
+
+×
+
+a
+→
+
+3
+
+
+
+
+
+a
+→
+
+1
+
+×
+
+a
+→
+
+2
+
+⋅
+
+a
+→
+
+3
+
+
+
+
+
+
+and the obvious cyclic definitions for the other two
+reciprocal vectors. We see immediately that 
+
+
+
+
+
+
+a
+→
+
+i
+
+⋅
+
+b
+→
+
+j
+
+=
+δ
+
+ij
+
+
+
+
+from which it follows that the inverse matrix to 
+
+
+
+
+A=(
+
+
+
+
+
+
+
+a
+→
+
+1
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+2
+R
+
+
+
+
+
+
+
+
+
+a
+→
+
+3
+R
+
+
+
+
+
+)  is B=(
+
+
+
+
+
+
+
+b
+→
+
+1
+C
+
+
+
+
+
+
+
+b
+→
+
+2
+C
+
+
+
+
+
+
+
+b
+→
+
+3
+C
+
+
+
+
+
+)
+
+.
+(These reciprocal vectors are important in x-ray crystallography, for example.Â  If a crystalline lattice has certain atoms at
+positions 
+
+
+
+n
+1
+
+
+
+a
+→
+
+1
+
++
+n
+2
+
+
+
+a
+→
+
+2
+
++
+n
+3
+
+
+
+a
+→
+
+3
+
+
+
+,
+where 
+
+
+
+n
+1
+
+,
+n
+2
+
+,
+n
+3
+
+
+
+Â Â are
+integers, the reciprocal vectors are the set of normals to possible planes of
+the atoms, and these planes of atoms are the important elements in the
+diffractive x-ray scattering.)
+Eigenkets and Eigenvalues
+If an operator 
+
+A
+
+Â operating on a ket 
+
+
+|V〉
+
+Â gives a multiple of the same ket,
+
+
+
+
+A|V〉 =λ|V〉
+
+
+then 
+
+
+|V〉
+
+Â is said to be an eigenket (or, just as
+often, eigenvector, or eigenstate!) of 
+
+A
+
+Â with eigenvalue 
+
+λ
+
+.
+Eigenkets and eigenvalues are of central importance in
+quantum mechanics: dynamical variables are operators, a physical measurement of
+a dynamical variable yields an eigenvalue of the operator, and forces the
+system into an eigenket.
+In this section, we shall show how to find the eigenvalues
+and corresponding eigenkets for an operator 
+
+
+A.
+
+Â Â Weâll
+use the notation 
+
+
+A|
+
+a
+i
+
+〉=
+a
+i
+
+|
+
+a
+i
+
+〉
+
+Â for the set of eigenkets 
+
+
+|
+
+a
+i
+
+〉
+
+Â with corresponding eigenvalues 
+
+
+
+a
+i
+
+.
+
+Â Â (Obviously, in the eigenvalue equation here
+the suffix 
+
+i
+
+Â is not summed over.)
+The first step in solving 
+
+
+A|V〉 =λ|V〉
+
+Â is to find the allowed eigenvalues 
+
+
+
+a
+i
+
+.
+
+Â Â 
+Writing the equation in matrix form,
+
+
+
+
+(
+
+
+
+
+
+
+A
+
+ 11
+
+−λ
+
+
+
+
+A
+
+ 12
+
+
+
+
+.
+
+
+.
+
+
+
+
+A
+
+ 1n
+
+
+
+
+
+
+
+
+A
+
+ 21
+
+
+
+
+
+
+A
+
+ 22
+
+−λ
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+
+
+A
+
+ n1
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+A
+
+ nn
+
+−λ
+
+
+
+)(
+
+
+
+
+
+
+v
+1
+
+
+
+
+
+
+
+
+v
+2
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+v
+n
+
+
+
+
+
+)=0.
+
+
+This equation is actually telling us that the columns of the matrix 
+
+
+A−λI
+
+Â are linearly dependent!Â  To see this, write the matrix as a row vector
+each element of which is one of its columns, and the equation becomes
+
+
+
+
+(
+
+M
+→
+
+1
+C
+
+,
+
+M
+→
+
+2
+C
+
+,...,
+
+M
+→
+
+n
+C
+
+)(
+
+
+
+
+
+
+v
+1
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+v
+n
+
+
+
+
+
+)=0
+
+
+which is to say
+
+
+
+
+
+v
+1
+
+
+
+M
+→
+
+1
+C
+
++
+v
+2
+
+
+
+M
+→
+
+2
+C
+
+=...+
+v
+n
+
+
+
+M
+→
+
+n
+C
+
+=0,
+
+
+the columns of the matrix are indeed a linearly dependent set.
+We know that means the determinant of the matrix 
+
+
+A−λI
+
+Â is zero, 
+
+
+
+| 
+
+
+
+
+
+A
+
+ 11
+
+−λ
+
+
+
+
+A
+
+ 12
+
+
+
+
+.
+
+
+.
+
+
+
+
+A
+
+ 1n
+
+
+
+
+
+
+
+
+A
+
+ 21
+
+
+
+
+
+
+A
+
+ 22
+
+−λ
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+
+
+A
+
+ n1
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+A
+
+ nn
+
+−λ
+
+
+ |=0.
+
+
+Evaluating the determinant using 
+
+
+detA=
+ε
+
+ijk...p
+
+
+a
+
+1i
+
+
+a
+
+2j
+
+
+a
+
+3k
+
+....
+a
+
+np
+
+
+
+Â gives an 
+
+
+
+n
+
+th
+
+
+
+Â order polynomial in 
+
+λ
+
+Â sometimes called the characteristic polynomial.Â 
+Any polynomial can be written in terms of its roots:
+
+
+
+
+C(λ−
+a
+1
+
+)(λ−
+a
+2
+
+)....(λ−
+a
+n
+
+)=0
+
+
+where the 
+
+
+
+a
+i
+
+
+
+Â âs are the roots of the polynomial, and C is an overall constant, which from
+inspection of the determinant we can see to be 
+
+
+
+
+(
+
+−1
+)
+n
+
+.
+
+Â (Itâs the coefficient of 
+
+
+
+λ
+n
+
+.
+
+Â )Â  The
+polynomial roots (which we donât yet know) are in fact the eigenvalues. Â For example, putting 
+
+
+λ=
+a
+1
+
+
+
+Â in the matrix, 
+
+
+det(
+
+A−
+a
+1
+
+I
+)=0,
+
+Â which means that 
+
+
+(
+
+A−
+a
+1
+
+I
+)|V〉=0
+
+Â has a nontrivial solution 
+
+
+|V〉,
+
+Â and this is our eigenvector 
+
+
+|
+
+a
+1
+
+〉.
+
+Â 
+Notice that the diagonal term in the determinant 
+
+
+(
+
+
+A
+
+11
+
+−λ
+)(
+
+
+A
+
+22
+
+−λ
+)…(
+
+
+A
+
+nn
+
+−λ
+)
+
+Â generates the leading two orders in the
+polynomial 
+
+
+
+
+(
+
+−1
+)
+n
+
+(
+
+
+λ
+n
+
+−(
+
+
+A
+
+11
+
++…+
+A
+
+nn
+
+
+)
+λ
+
+n−1
+
+
+)
+
+,
+(and some lower order terms too).Â  Equating
+the coefficient of 
+
+
+
+λ
+
+n−1
+
+
+
+Â here with that in 
+
+
+
+
+(
+
+−1
+)
+n
+
+(λ−
+a
+1
+
+)(λ−
+a
+2
+
+)....(λ−
+a
+n
+
+)
+
+,
+
+
+
+
+
+
+
+∑
+
+i=1
+n
+
+
+
+a
+i
+
+=
+
+
+∑
+
+i=1
+n
+
+
+
+A
+
+ ii
+
+= 
+Tr A.
+
+
+Putting 
+
+
+λ=0
+
+Â in both the determinantal and the polynomial
+representations (in other words, equating the 
+
+λ
+
+Â -independent terms), 
+
+
+
+
+
+
+∏
+
+i=1
+n
+
+
+
+a
+i
+
+
+=detA.
+
+
+So we can find both the sum and the product of the
+eigenvalues directly from the determinant, and for a 
+
+
+2×2
+
+Â matrix this is enough to solve the problem.
+For anything bigger, the method is to solve the polynomial
+equation 
+
+
+det(
+
+A−λI
+)=0
+
+Â to find the set of eigenvalues, then use them
+to calculate the corresponding eigenvectors.Â 
+This is done one at a time. 
+Labeling the first eigenvalue found as 
+
+
+
+a
+1
+
+,
+
+Â the corresponding equation for the components 
+
+
+
+ν
+i
+
+
+
+Â of the eigenvector 
+
+
+|
+
+a
+1
+
+〉
+
+Â is
+
+
+
+
+(
+
+
+
+
+
+
+A
+
+ 11
+
+−
+a
+1
+
+
+
+
+
+
+A
+
+ 12
+
+
+
+
+.
+
+
+.
+
+
+
+
+A
+
+ 1n
+
+
+
+
+
+
+
+
+A
+
+ 21
+
+
+
+
+
+
+A
+
+ 22
+
+−
+a
+1
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+
+
+A
+
+ n1
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+A
+
+ nn
+
+−
+a
+1
+
+
+
+
+
+)(
+
+
+
+
+
+
+v
+1
+
+
+
+
+
+
+
+
+v
+2
+
+
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+
+
+v
+n
+
+
+
+
+
+)=0.
+
+
+This looks like 
+
+n
+
+Â equations for the 
+
+n
+
+Â numbers 
+
+
+
+ν
+i
+
+,
+
+Â but it isnât: remember the rows are linearly
+dependent, so there are only 
+
+
+n−1
+
+Â independent equations.Â  However, thatâs enough to determine 
+the ratios of the vector componentsÂ  
+
+
+
+ν
+1
+
+,…,
+ν
+n
+
+
+
+Â then finally the eigenvector is normalized.Â  The process is then repeated for each eigenvalue.Â  (Extra care is needed if the polynomial has
+coincident roots—weâll discuss that case later.)
+Eigenvalues and Eigenstates of Hermitian Matrices
+For a Hermitian
+matrix, it is easy to establish that the eigenvalues are always real.Â  (Note:
+A basic postulate of Quantum Mechanics, discussed in the next lecture, is that
+physical observables are represented by Hermitian operators.)Â  Taking (in this section) 
+
+A
+
+Â to be hermitian, 
+
+
+A=
+A
+†
+
+,
+
+Â and labeling the eigenkets by the eigenvalue,
+that is, 
+
+
+
+
+A|
+
+a
+1
+
+〉=
+a
+1
+
+|
+
+a
+1
+
+〉
+
+
+the inner product
+with the bra 
+
+
+〈
+
+a
+1
+
+|
+
+Â gives 
+
+
+〈
+
+a
+1
+
+|A|
+
+a
+1
+
+〉=
+a
+1
+
+〈
+
+a
+1
+
+|
+
+a
+1
+
+〉.
+
+Â Â But the
+inner product of the adjoint equation
+(remembering 
+
+
+A=
+A
+†
+
+
+
+Â )
+
+
+
+
+〈
+
+a
+1
+
+|A=
+a
+1
+∗
+
+〈
+
+a
+1
+
+|
+
+
+with 
+
+
+|
+
+a
+1
+
+〉
+
+Â gives 
+
+
+〈
+
+a
+1
+
+|A|
+
+a
+1
+
+〉=
+a
+1
+∗
+
+〈
+
+a
+1
+
+|
+
+a
+1
+
+〉,
+
+Â so 
+
+
+
+a
+1
+
+=
+a
+1
+∗
+
+
+
+,
+and all the eigenvalues must be real.
+They certainly donât have to all be different: for example,
+the unit matrix 
+
+I
+
+Â is Hermitian, and all its eigenvalues are of
+course 
+
+
+1.
+
+Â But letâs first consider the case where they are all different. 
+Itâs easy to show that the eigenkets belonging to different
+eigenvalues are orthogonal.
+If
+
+
+
+
+
+
+A|
+
+a
+1
+
+〉 =
+a
+
+ 1
+
+|
+
+a
+1
+
+〉
+
+
+
+
+A|
+
+a
+2
+
+〉 =
+a
+2
+
+|
+
+a
+2
+
+〉,
+
+
+
+
+
+take the adjoint of the first equation and then the inner
+product with 
+
+
+|
+
+a
+2
+
+〉
+
+,
+and compare it with the inner product of the second equation with 
+
+
+〈
+
+a
+1
+
+|
+
+:
+
+
+
+
+〈
+
+a
+1
+
+|A|
+
+a
+2
+
+〉 =
+a
+1
+
+〈
+
+a
+1
+
+|
+
+a
+2
+
+〉 =
+a
+2
+
+〈
+
+a
+1
+
+|
+
+a
+2
+
+〉
+
+
+so 
+
+
+
+〈
+
+a
+1
+
+|
+a
+2
+
+〉=0
+
+Â unless the eigenvalues are equal. (If they are
+equal, they are referred to as degenerate
+eigenvalues.)Â Â  
+Letâs first consider the nondegenerate case:
+
+A
+
+Â has all eigenvalues distinct. TheÂ  eigenkets of 
+
+
+A,
+
+Â appropriately normalized, form an orthonormal
+basis in the space. 
+Write
+
+
+
+
+|
+
+a
+1
+
+〉=(
+
+
+
+
+
+
+v
+
+11
+
+
+
+
+
+
+
+
+v
+
+21
+
+
+
+
+
+
+⋮
+
+
+
+
+
+
+v
+
+n1
+
+
+
+
+
+), and consider the matrix V= (
+
+
+
+
+
+
+v
+
+11
+
+
+
+
+
+
+v
+
+12
+
+
+
+
+⋯
+
+
+
+
+v
+
+1n
+
+
+
+
+
+
+
+
+v
+
+21
+
+
+
+
+
+
+v
+
+22
+
+
+
+
+⋯
+
+
+
+
+v
+
+2n
+
+
+
+
+
+
+⋮
+
+
+⋮
+
+
+⋱
+
+
+⋮
+
+
+
+
+
+
+v
+
+n1
+
+
+
+
+
+
+v
+
+n2
+
+
+
+
+⋯
+
+
+
+
+v
+
+nn
+
+
+
+
+
+)=(
+
+
+
+
+
+|
+
+a
+1
+
+〉
+
+
+
+|
+
+a
+2
+
+〉
+
+
+⋯
+
+
+
+|
+
+a
+n
+
+〉
+
+
+
+).
+
+
+Now 
+
+
+
+
+AV=A(
+
+
+
+
+
+|
+
+a
+1
+
+〉
+
+
+
+|
+
+a
+2
+
+〉
+
+
+⋯
+
+
+
+|
+
+a
+n
+
+〉
+
+
+
+)=(
+
+
+a
+1
+
+
+
+
+
+|
+
+a
+1
+
+〉
+
+
+
+
+a
+2
+
+|
+
+a
+2
+
+〉
+
+
+⋯
+
+
+
+
+a
+n
+
+|
+
+a
+n
+
+〉
+
+
+
+)
+
+
+so
+
+
+
+
+
+V
+†
+
+AV=(
+
+
+
+
+
+〈
+
+a
+1
+
+|
+
+
+
+
+
+〈
+
+a
+2
+
+|
+
+
+
+
+⋮
+
+
+
+
+
+〈
+
+a
+n
+
+|
+
+
+
+)(
+
+
+a
+1
+
+
+
+
+
+|
+
+a
+1
+
+〉
+
+
+
+
+a
+2
+
+|
+
+a
+2
+
+〉
+
+
+⋯
+
+
+
+
+a
+n
+
+|
+
+a
+n
+
+〉
+
+
+
+)=(
+
+
+
+
+
+
+a
+1
+
+
+
+
+0
+
+
+⋯
+
+
+0
+
+
+
+
+0
+
+
+
+
+a
+2
+
+
+
+
+⋯
+
+
+0
+
+
+
+
+⋮
+
+
+⋮
+
+
+⋱
+
+
+⋮
+
+
+
+
+0
+
+
+0
+
+
+⋯
+
+
+
+
+a
+n
+
+
+
+
+
+).
+
+
+Note also that, obviously, 
+
+V
+
+Â is unitary:
+
+
+
+
+V
+†
+
+V=(
+
+
+
+
+
+〈
+
+a
+1
+
+|
+
+
+
+
+
+〈
+
+a
+2
+
+|
+
+
+
+
+⋮
+
+
+
+
+
+〈
+
+a
+n
+
+|
+
+
+
+)(
+
+
+
+
+
+|
+
+a
+1
+
+〉
+
+
+
+|
+
+a
+2
+
+〉
+
+
+⋯
+
+
+
+|
+
+a
+n
+
+〉
+
+
+
+)=(
+
+
+
+
+1
+
+
+0
+
+
+⋯
+
+
+0
+
+
+
+
+0
+
+
+1
+
+
+⋯
+
+
+0
+
+
+
+
+⋮
+
+
+⋮
+
+
+⋱
+
+
+⋮
+
+
+
+
+0
+
+
+0
+
+
+⋯
+
+
+1
+
+
+
+).
+
+
+ 
+We have established, then, that for a Hermitian matrix with
+distinct eigenvalues (nondegenerate case), the unitary matrix 
+
+V
+
+Â having columns identical to the normalized
+eigenkets of 
+
+A
+
+Â diagonalizes
+
+
+
+A,
+
+Â that is, 
+
+
+
+V
+†
+
+AV
+
+Â is diagonal.Â 
+Furthermore, its (diagonal) elements equal the corresponding eigenvalues
+of 
+
+
+A.
+
+Â 
+Another way of saying this is that the unitary matrix 
+
+V
+
+Â is the transformation from the original
+orthonormal basis in the space to the basis formed of the normalized eigenkets
+of 
+
+
+A.
+
+Â Â Â 
+Proof that the Eigenvectors of a Hermitian Matrix Span the Space
+Weâll now move on to the general case: what if some of the
+eigenvalues of 
+
+A
+
+Â are the same?Â 
+In this case, any linear combination of them is also an eigenvector with
+the same eigenvalue.Â  Assuming they form a basis in the subspace,
+the Gram Schmidt procedure can be used to make it orthonormal, and so part of
+an orthonormal basis of the whole space.
+However, we have not actually established that the
+eigenvectors do form a basis in a
+degenerate subspace. Â Could it be that
+(to take the simplest case) the two eigenvectors for the single eigenvalue turn
+out to be parallel?Â  This is actually the
+case for some 2Ã2 matrices—for example, 
+
+
+(
+
+
+
+
+1
+
+
+1
+
+
+
+
+0
+
+
+1
+
+
+
+)
+
+,
+we need to prove it is not true for
+Hermitian matrices, and nor are the analogous statements for higher-dimensional
+degenerate subspaces.Â  
+A clear presentation is given in Byron and Fuller, section
+4.7. Â We follow it here. The procedure is
+by induction from the 
+
+
+2×2
+
+Â case. Â The
+general 
+
+
+2×2
+
+Â Hermitian matrix has the form 
+
+
+
+
+(
+
+
+
+
+a
+
+
+b
+
+
+
+
+
+
+b
+∗
+
+
+
+
+c
+
+
+
+)
+
+
+where 
+
+
+a,c
+
+Â are real.Â 
+It is easy to check that if the eigenvalues are degenerate, this matrix
+becomes a real multiple of the identity, and so trivially has two orthonormal
+eigenvectors. Â Since we already know that
+if the eigenvalues of a 
+
+
+2×2
+
+Â Hermitian matrix are distinct it can be
+diagonalized by the unitary transformation formed from its orthonormal eigenvectors,
+we have established that any 
+
+
+2×2
+
+Â Hermitian matrix can be so diagonalized.
+To carry out the induction process, we now assume any 
+
+
+(
+
+n−1
+)×(
+
+n−1
+)
+
+Â Hermitian matrix can be diagonalized by a
+unitary transformation.Â  We need to prove
+this means itâs also true for an 
+
+
+n×n
+
+Â Â Hermitian matrix 
+
+
+A.
+
+Â Â (Recall
+a unitary transformation takes one complete orthonormal basis to another.Â  If it diagonalizes a Hermitian matrix, the
+new basis is necessarily the set of orthonormalized eigenvectors.Â  Hence, if the matrix can be diagonalized, the
+eigenvectors do span the 
+
+n
+
+Â -dimensional space.) 
+Choose an eigenvalue 
+
+
+
+a
+1
+
+
+
+Â of 
+
+
+A,
+
+Â with normalized eigenvector 
+
+
+|
+
+a
+1
+
+〉=
+
+(
+
+
+v
+
+11
+
+,
+v
+
+21
+
+,…,
+v
+
+n1
+
+
+)
+T
+
+.
+
+Â (We put in 
+
+T
+
+Â for transpose, to save the awkwardness of
+filling the page with a few column vectors.)Â 
+We construct a unitary operator 
+
+V
+
+Â by making this the first column, then filling
+in with 
+
+
+n−1
+
+Â other normalized vectors to construct, with 
+
+
+|
+
+a
+1
+
+〉
+
+,
+an 
+
+n
+
+Â -dimensional orthonormal basis. 
+Now, since 
+
+
+A|
+
+a
+1
+
+〉=
+a
+1
+
+|
+
+a
+1
+
+〉
+
+,
+the first column of the matrix 
+
+
+AV
+
+Â will just be 
+
+
+
+a
+1
+
+|
+
+a
+1
+
+〉
+
+,
+and the rows of the matrix 
+
+
+
+V
+†
+
+=
+V
+
+−1
+
+
+
+Â will be 
+
+
+〈
+
+a
+1
+
+|
+
+Â followed by 
+
+
+n−1
+
+Â normalized vectors orthogonal to it, so the
+first column of the matrix 
+
+
+
+V
+†
+
+AV
+
+Â will be 
+
+
+
+a
+1
+
+
+
+Â followed by zeros.Â  It is easy to check that 
+
+
+
+V
+†
+
+AV
+
+Â is Hermitian, since 
+
+A
+
+Â is, so its first row is also zero beyond the
+first diagonal term. 
+This establishes that for an 
+
+
+n×n
+
+Â Hermitian matrix, a unitary transformation
+exists to put it in the form:
+
+
+
+
+
+V
+†
+
+AV=(
+
+
+
+
+
+
+a
+1
+
+
+
+
+0
+
+
+.
+
+
+.
+
+
+0
+
+
+
+
+0
+
+
+
+
+M
+
+22
+
+
+
+
+.
+
+
+.
+
+
+
+
+M
+
+2n
+
+
+
+
+
+
+0
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+0
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+0
+
+
+
+
+M
+
+n2
+
+
+
+
+.
+
+
+.
+
+
+
+
+M
+
+nn
+
+
+
+
+
+).
+
+
+But we can now perform a second unitary transformation in
+the 
+
+
+(
+
+n−1
+)×(
+
+n−1
+)
+
+Â subspace orthogonal to 
+
+
+|
+
+a
+1
+
+〉
+
+Â (this of course leaves 
+
+
+|
+
+a
+1
+
+〉
+
+Â invariant), to complete the full diagonalization
+-- that is to say, the existence of the 
+
+
+(
+
+n−1
+)×(
+
+n−1
+)
+
+Â diagonalization, plus the argument above,
+guarantees the existence of the 
+
+
+n×n
+
+Â diagonalization: the induction is complete. 
+Diagonalizing a Hermitian Matrix
+As discussed above, a Hermitian matrix is diagonal in the
+orthonormal basis of its set of eigenvectors: 
+
+
+|
+
+a
+1
+
+〉,|
+
+a
+2
+
+〉,…,|
+
+a
+n
+
+〉
+
+,
+since
+Â 
+
+
+〈
+
+a
+i
+
+|A|
+
+a
+j
+
+〉=〈
+
+a
+i
+
+|
+a
+j
+
+|
+
+a
+j
+
+〉=
+a
+j
+
+〈
+
+a
+i
+
+|
+
+a
+j
+
+〉=
+a
+j
+
+
+δ
+
+ij
+
+.
+
+
+If we are given the matrix elements of 
+
+A
+
+Â in some other orthonormal basis, Â to diagonalize it we need to rotate from the
+initial orthonormal basis to one made up of the eigenkets of 
+
+
+A.
+
+Â 
+Denoting the initial orthonormal basis in the standard
+fashion
+
+
+
+|1〉=(
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+.
+
+
+
+
+0
+
+
+
+),    |2〉=(
+
+
+
+
+0
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+.
+
+
+
+
+0
+
+
+
+), |i〉 =(
+
+
+
+
+0
+
+
+
+
+⋮
+
+
+
+
+1
+
+
+
+
+⋮
+
+
+
+
+0
+
+
+
+)… (1 in 
+i
+
+th
+
+ place down), |n〉=(
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+.
+
+
+
+
+1
+
+
+
+).
+
+
+the elements of the matrix are 
+
+
+
+A
+
+ ij
+
+= 〈i|A|j〉
+
+.
+A transformation from one orthonormal basis to another is a unitary transformation, as discussed
+above, so we write it 
+
+
+
+|V〉 → |
+V
+′
+
+〉 =U|V〉.
+
+
+Under this transformation, the matrix element
+
+
+
+
+〈W|A|V〉 → 〈
+W
+′
+
+|A|
+V
+′
+
+〉 = 〈W|
+U
+†
+
+AU|V〉.
+
+
+So we can find the appropriate
+transformation matrix 
+
+U
+
+Â by requiring that 
+
+
+
+U
+†
+
+AU
+
+Â be diagonal with respect to the original set of basis vectors. Â (Transforming the operator in this way,
+leaving the vector space alone, is equivalent to rotating the vector space and
+leaving the operator alone.Â  Of course,
+in a system with more than one operator, the same transformation would have to
+be applied to all the operators).
+In fact, just as we discussed for the nondegenerate
+(distinct eigenvalues) case, the unitary matrix 
+
+U
+
+Â we need is just composed of the normalized
+eigenkets of the operator 
+
+
+A,
+
+Â Â 
+
+
+
+U=(
+
+|
+
+a
+1
+
+〉,|
+
+a
+2
+
+〉,...,|
+
+a
+n
+
+〉
+)
+
+
+and it follows as before that 
+
+
+
+
+
+
+(
+
+
+U
+†
+
+AU
+)
+
+ij
+
+=〈
+
+a
+i
+
+|
+a
+j
+
+|
+
+a
+j
+
+〉=
+δ
+
+ij
+
+
+a
+j
+
+, a diagonal matrix.
+
+
+(The repeated suffixes here are of course not summed over.)
+If some of the eigenvalues are the same, the Gram Schmidt
+procedure may be needed to generate an orthogonal set, as mentioned earlier. 
+Functions of Matrices
+The same unitary operator 
+
+U
+
+Â that diagonalizes an Hermitian matrix 
+
+A
+
+Â will also diagonalize 
+
+
+
+A
+2
+
+
+
+Â because
+
+
+
+
+
+U
+
+−1
+
+
+A
+2
+
+U=
+U
+
+−1
+
+AAU=
+U
+
+−1
+
+AU
+U
+
+−1
+
+AU
+
+
+so
+
+
+
+
+U
+†
+
+
+A
+2
+
+U=(
+
+
+
+
+
+
+a
+1
+2
+
+
+
+
+0
+
+
+0
+
+
+.
+
+
+0
+
+
+
+
+0
+
+
+
+
+a
+2
+2
+
+
+
+
+0
+
+
+.
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+
+
+a
+3
+2
+
+
+
+
+.
+
+
+0
+
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+0
+
+
+.
+
+
+.
+
+
+.
+
+
+
+
+a
+n
+2
+
+
+
+
+
+).
+
+
+Evidently, this same process works
+for any power of 
+
+
+A,
+
+Â and formally for any function of 
+
+A
+
+Â expressible as a power series, but of course
+convergence properties need to be considered, and this becomes trickier on
+going from finite matrices to operators on infinite spaces.Â  
+Commuting Hermitian Matrices
+From the above, the set of powers of
+an Hermitian matrix all commute with each other, and have a common set of
+eigenvectors (but not the same eigenvalues,
+obviously).Â  In fact it is not difficult
+to show that any two Hermitian matrices that commute with each other have the
+same set of eigenvectors (after possible Gram Schmidt rearrangements in
+degenerate subspaces). 
+If two 
+
+
+n×n
+
+Â Hermitian matrices 
+
+
+A,B
+
+Â commute, that is, 
+
+
+AB=BA,
+
+Â and 
+
+A
+
+Â has a nondegenerate set of eigenvectors
+
+
+
+A|
+
+a
+i
+
+〉 =
+a
+i
+
+|
+
+a
+i
+
+〉,
+
+Â then 
+
+
+AB|
+
+a
+i
+
+〉 =BA|
+
+a
+i
+
+〉 =B
+a
+i
+
+|
+
+a
+i
+
+〉=
+a
+i
+
+B|
+
+a
+i
+
+〉,
+
+Â that is, 
+
+
+B|
+
+a
+i
+
+〉
+
+Â is an eigenvector of 
+
+A
+
+Â with eigenvalue 
+
+
+
+a
+i
+
+.
+
+Â Â Since 
+
+A
+
+Â is nondegenerate, 
+
+
+B|
+
+a
+i
+
+〉
+
+Â must be some multiple of 
+
+
+|
+
+a
+i
+
+〉
+
+,
+and we conclude that 
+
+
+A,
+
+Â 
+
+
+A,B
+
+Â have the same set of eigenvectors. 
+Now suppose 
+
+A
+
+Â is degenerate, and consider the 
+
+
+m×m
+
+Â subspace 
+
+
+
+S
+
+
+a
+i
+
+
+
+
+
+Â spanned by the eigenvectors 
+
+
+|
+
+a
+i
+
+,1〉,|
+
+a
+i
+
+,2〉,…
+
+Â of 
+
+A
+
+Â having eigenvalue 
+
+
+
+a
+i
+
+.
+
+Â Â Applying the argument in the paragraph above,
+
+
+
+B|
+
+a
+i
+
+,1〉, B|
+
+a
+i
+
+,2〉,…
+
+Â must also lie in this subspace. Therefore, if
+we transform 
+
+B
+
+Â with the same unitary transformation that
+diagonalized 
+
+
+A,  B
+
+Â will not in general be diagonal in the
+subspace 
+
+
+
+S
+
+
+a
+i
+
+
+
+,
+
+Â but it will be what is termed block
+diagonal, in that if 
+
+B
+
+Â operates on any vector in 
+
+
+
+S
+
+
+a
+i
+
+
+
+
+
+Â it gives a vector in 
+
+
+
+S
+
+
+a
+i
+
+
+
+
+
+.
+
+
+
+B
+
+Â can
+be written as two diagonal blocks: one 
+
+
+m×m
+
+,
+one 
+
+
+(
+
+n−m
+)×(
+
+n−m
+),
+
+Â with zeroes outside these diagonal blocks, for
+example, for 
+
+
+m=2, n=5:
+
+Â 
+
+
+
+
+(
+
+
+
+
+
+
+
+
+
+
+b
+
+11
+
+
+
+
+
+
+b
+
+12
+
+
+
+
+
+
+
+
+b
+
+21
+
+
+
+
+
+
+b
+
+22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b
+
+33
+
+
+
+
+
+
+b
+
+34
+
+
+
+
+
+
+b
+
+35
+
+
+
+
+
+
+
+
+b
+
+43
+
+
+
+
+
+
+b
+
+44
+
+
+
+
+
+
+b
+
+45
+
+
+
+
+
+
+
+
+b
+
+53
+
+
+
+
+
+
+b
+
+54
+
+
+
+
+
+
+b
+
+55
+
+
+
+
+
+
+
+
+).
+
+
+And, in fact, if there is only one
+degenerate eigenvalue that second block will only have nonzero terms on the
+diagonal:
+
+
+
+(
+
+
+
+
+
+
+
+
+
+
+b
+
+11
+
+
+
+
+
+
+b
+
+12
+
+
+
+
+
+
+
+
+b
+
+21
+
+
+
+
+
+
+b
+
+22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b
+3
+
+
+
+
+0
+
+
+0
+
+
+
+
+0
+
+
+
+
+b
+4
+
+
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+
+
+b
+5
+
+
+
+
+
+
+
+
+).
+
+
+
+
+
+B
+
+Â  therefore
+operates on two subspaces, one 
+
+m
+
+Â -dimensional, one 
+
+
+(
+
+n−m
+)
+
+Â -dimensional, independently—a vector
+entirely in one subspace stays there.
+
+Â This means we can complete the diagonalization
+of 
+
+B
+
+Â with a unitary operator that only operates
+on the 
+
+
+m×m
+
+Â block 
+
+
+
+S
+
+
+a
+i
+
+
+
+
+
+.Â  Such an operator will also affect the
+eigenvectors of 
+
+
+A,
+
+Â but that doesnât matter, because all vectors
+in this subspace are eigenvectors of 
+
+A
+
+Â with the same eigenvalue, so as far as 
+
+A
+
+Â is concerned, we can choose any orthonormal
+basis we like—the basis vectors will still be eigenvectors. 
+
+This establishes that any two commuting
+Hermitian matrices can be diagonalized at the same time. Obviously, this can
+never be true of noncommuting
+matrices, since all diagonal matrices commute. 
+Diagonalizing a Unitary Matrix
+
+Any unitary matrix can be diagonalized by a unitary
+transformation.Â  To see this, recall that
+any matrix M can be written as a sum of a Hermitian matrix and an anti-Hermitian
+matrix, 
+
+
+
+M=
+
+M+
+M
+†
+
+
+2
+
++
+
+M−
+M
+†
+
+
+2
+
+=A+iB
+
+
+
+where both A, B are Hermitian.Â  This is the matrix analogue of writing an
+arbitrary complex number as a sum of real and imaginary parts.
+
+If 
+
+
+A,B
+
+Â commute, they can be simultaneously
+diagonalized (see the previous section), and therefore 
+
+M
+
+Â can be diagonalized.Â  Now, if a unitary
+matrix is expressed in this form 
+
+
+U=A+iB
+
+Â with 
+
+
+A,B
+
+Â Hermitian, it easily follows from 
+
+
+U
+U
+†
+
+=
+U
+†
+
+U=1
+
+Â that 
+
+
+A,B
+
+Â commute, so any unitary matrix 
+
+U
+
+Â can be diagonalized by a unitary
+transformation.Â  More generally, if a
+matrix 
+
+M
+
+Â commutes with its adjoint 
+
+
+
+M
+†
+
+
+
+,
+it can be diagonalized.
+
+(Note: it is not possible to diagonalize 
+
+M
+
+Â unless both 
+
+A
+
+Â and 
+
+B
+
+Â are simultaneously diagonalized.Â  This follows from 
+
+
+
+U
+†
+
+AU, 
+U
+†
+
+iBU
+
+Â being Hermitian and anti-Hermitian for any
+unitary operator 
+
+
+U,
+
+Â so their off-diagonal elements cannot cancel
+each other, they must all be zero if 
+
+M
+
+Â has been diagonalized by 
+
+
+U,
+
+Â in which case the two transformed matrices 
+
+
+
+U
+†
+
+AU, 
+U
+†
+
+iBU
+
+Â are diagonal, therefore commute, and so do the
+original matrices 
+
+
+A,B.
+
+Â )Â  
+
+It is worthwhile looking at a specific example, a simple
+rotation of one orthonormal basis into another in three dimensions.Â  Obviously, the axis through the origin about
+which the basis is rotated is an eigenvector of the transformation.Â  Itâs less clear what the other two
+eigenvectors might be—or, equivalently, what are the eigenvectors
+corresponding to a two dimensional rotation of basis in a plane?Â  The way to find out is to write down the
+matrix and diagonalize it. 
+
+The matrix
+
+
+
+
+U(θ)=(
+
+
+
+
+
+cosθ
+
+
+
+sinθ
+
+
+
+
+
+−sinθ
+
+
+
+cosθ
+
+
+
+).
+
+
+
+
+Note that the determinant is equal to unity. The eigenvalues
+are given by solving
+
+
+
+
+| 
+
+
+
+
+cosθ−λ
+
+
+
+sinθ
+
+
+
+
+
+−sinθ
+
+
+
+cosθ−λ
+
+
+ |=0  to give λ=
+e
+
+±iθ
+
+. 
+
+
+
+The corresponding eigenvectors satisfy
+
+
+
+(
+
+
+
+
+
+cosθ
+
+
+
+sinθ
+
+
+
+
+
+−sinθ
+
+
+
+cosθ
+
+
+
+)(
+
+
+
+
+
+
+u
+1
+±
+
+
+
+
+
+
+
+
+u
+2
+±
+
+
+
+
+
+)=
+e
+
+±iθ
+
+(
+
+
+
+
+
+
+u
+1
+±
+
+
+
+
+
+
+
+
+u
+2
+±
+
+
+
+
+
+). 
+
+
+
+
+The eigenvectors, normalized, are:
+
+
+
+
+(
+
+
+
+
+
+
+u
+1
+±
+
+
+
+
+
+
+
+
+u
+2
+±
+
+
+
+
+
+)=
+1
+
+
+2
+
+
+
+(
+
+
+
+
+1
+
+
+
+
+
+± i
+
+
+
+).
+
+
+
+Note that, in contrast to a Hermitian matrix, the
+eigenvalues of a unitary matrix do not have to be real. In fact, from 
+
+
+
+U
+†
+
+U=1
+
+,
+sandwiched between the bra and ket of an eigenvector, we see that any
+eigenvalue of a unitary matrix must have unit modulus—itâs a complex number
+on the unit circle.Â  With hindsight, we
+should have realized that one eigenvalue of a two-dimensional rotation had to
+be 
+
+
+
+e
+
+iθ
+
+
+
+,
+the product of two two-dimensional rotations is given be adding the angles of
+rotation, and a rotation through 
+
+π
+
+Â changes all signs, so has eigenvalue 
+
+
+−1.
+
+Â Note that the eigenvector itself is independent
+of the angle of rotation: in two dimensions, the rotations all commute, so they
+must have common eigenvectors. Successive rotation operators applied to the
+plus eigenvector add their angles, when applied to the minus eigenvector, all
+angles are subtracted.
+previous  index  next
+ 
+
+
+

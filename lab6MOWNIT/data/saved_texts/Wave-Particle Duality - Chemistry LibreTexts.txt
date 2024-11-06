@@ -1,0 +1,563 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wave-Particle Duality - Chemistry LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+2: Fundamentals of Quantum MechanicsQuantum Mechanics{ }{ Deriving_the_de_Broglie_Wavelength : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Deriving_the_Rayleigh-Jeans_Radiation_Law" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Deriving_the_Wien\'s_Displacement_Law_from_Planck\'s_Law" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Heisenberg\'s_Uncertainty_Principle" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Photons : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Quantum_FAQ : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Tunneling : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Wave-Particle_Duality" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "01._Waves_and_Particles" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02._Fundamental_Concepts_of_Quantum_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03._The_Tools_of_Quantum_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04._The_7_Postulates_of_Quantum_Mechanics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05.5:_Particle_in_Boxes" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "06._One_Dimensional_Harmonic_Oscillator" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "07._Angular_Momentum" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "09._The_Hydrogen_Atom" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Multi-electron_Atoms" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_Angular_Momenta_Coupling" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "11:_Molecules" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_Electron_Scattering" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "12:_Stationary_Perturbation_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "13:_Fine_and_Hyperfine_Structure" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "14:_Systems_of_Identical_Particles" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "15:_Time-dependent_Quantum_Dynamics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "16:_Molecular_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "17:_Quantum_Calculations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "Chapter_14.__Nuclear_Magnetic_Resonance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Gen_Chem_Quantum_Theory : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", Zeeman_Effect : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Fri, 28 Jul 2023 03:21:31 GMTWave-Particle Duality16981698Joshua Halpern{ }AnonymousAnonymous User2falsefalse[ "article:topic", "showtoc:no", "license:ccbyncsa", "licenseversion:40" ][ "article:topic", "showtoc:no", "license:ccbyncsa", "licenseversion:40" ]https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FSupplemental_Modules_(Physical_and_Theoretical_Chemistry)%2FQuantum_Mechanics%2F02._Fundamental_Concepts_of_Quantum_Mechanics%2FWave-Particle_Duality
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Physical & Theoretical Chemistry
+                            
+
+
+
+
+                                    Supplemental Modules (Physical and Theoretical Chemistry)
+                            
+
+
+
+
+                                    Quantum Mechanics
+                            
+
+
+
+
+                                    2: Fundamentals of Quantum Mechanics
+                            
+
+
+
+                            Wave-Particle Duality
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        Wave-Particle Duality
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID1698
+
+
+
+
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+Double Slit ExperimentBlack Body RadiationPhotoelectron EffectsPhotoelectric ChecklistWave-Particle DualityProlemsSolutionsOutside LinksReferencesContributors and Attributions
+
+
+
+The Wave-Particle Duality theory states that waves can exhibit particle-like properties while particles can exhibit wave-like properties. This definition opposes classical mechanics or Newtonian Physics.
+Double Slit Experiment
+In the 17thcentury, Newton demonstrated that, similar to wave, beams of light can also diffract and interfere with one another by shining white light into a prism to collect seven different colors and recombining them with a second prism to produce white light. This wave theory of light (classical physics) was confirmed by Young's double slit experiment in 1801 (figure 1).
+
+Figure 1
+
+This classical theory was also proven by Davisson and Germer in 1925, when they aimed a beam of electrons at nickel, and the diffraction of the electrons produced fringes (Figure 2A). Fringes are properties of waves, and the diffraction is explained using the interference properties of waves. The dark fringes are produced when the waves are in phase, and light fringes are produced when the waves are out of phase (Electromagnetic Radiation).
+
+Black Body Radiation
+Based on the classical theory, light's energy will follow Rayleigh-Jeans Law:
+\[ \rho = \dfrac{8 \pi T}{\lambda^4} \]
+where
+
+ρ is the radiant energy,
+λ is the wavelength,
+k is Boltzmann constant, and
+T is temperature
+
+According to this equation, radiance energy is continous and will increase to infinity if the wavelength gets very small. However, in 1899, Otto R. Lummer and Ernst Pringsheim discovered blackbody radiation which showed that radiant energy is discreet and has a max value. The energy doesn't go to infinity as the classical physics had predicted but declines after reaching a max value.
+Photoelectron Effects
+The first experiments towards Wave-Particle duality were done by German Physicist Max Planck (1858-1947). Using blackbody radiator (equal emitter and absorber of radiation at all wavelengths), Planck derived the equation for the smallest amount of energy that can be changed into light
+\[E=h \nu\]
+where h is Planck’s constant 6.626x10-34 J.S and v is the frequency.
+He also formulated the quantum theory by saying that light that was emitted had discrete levels of energy, and that energy that was radiated was quantized;
+E=nhv 
+(where n is an integer, and can be zero or a positive number).
+Quantization of energy states that there are discrete values or states, and energies in between the values of n are forbidden. Hence, he stated that if x number of particles were present with a certain frequency value, than energy would be
+E=xhv 
+Frequency is related to the wavelength where c=vλ or v=c/λ
+Replace v=c/λ into the above equation, we have
+E=xhc/λ
+In 1905, Einstein assumed that Planck’s discrete energies are packets of energy called photons. The total energy of a system is equal to the kinetic energy plus the potential energy, and as always the Law of Conservation of energy applies. Einstein explained that in the photoelectric effect energy each photon's energy is absorbed by one electrons in a given metal, and as a result the electron was able to eject if the photon's energy is equal or greater than the threshold energy (Figure 2). The threshold energy is the amount of energy needed to eject an electron, and is called work function Φ.
+Since E=hv
+we can rewrite the equation to show that the total energy is equal to Φ plus the kinetic energy
+E = Φ + KE = hv
+The photoelectric effect shows that light behaves like a photon or a particle packed with energy, in other words light waves behave like particles.
+
+Figure 2
+
+According to Particle theory of light, light energy will increase to a discreet and finite value unless λ goes to zero, which will never happen according to the Particle in a One-Dimensional Box theory. This helps explain the blackbody radiation observation.
+Photoelectric Checklist
+The number of electrons ejected from the metal increases as the intensity of the light increases. An electron that is not held strongly will have more kinetic energy. The threshold energy must be absorbed in order for an electron to be ejected. Due to conservation of energy, the kinetic energy (T) of the electron is dependent on the frequency of the wavelength of incident light. Remember, high frequencies have short wavelengths therefore photons with short wavelengths will be higher in energy. There is a linear relationship between kinetic energy of the ejected electron and frequency. After the work function energy is absorbed by the electron, the rest of the energy that was provided by the photon changes into kinetic energy T=1/2mv2, and hence the equation E=Φ+T=hv. An electron that only absorbs the threshold energy has no kinetic once it has traveled outside the metal.
+Wave-Particle Duality
+Since both particle and wave theories of light seem to explain a portion of light properties correctly, which is the correct one? In 1924, de Broglie (1892-1987) proposed an answer to this question. He assumed that all moving objects have wave-like properties. He combined Planck's constant and linear momentum
+E = hv = hc/λ
+so
+\[\lambda = \dfrac{hc}{E} \tag{1}\]
+and
+p = E/c = mv  
+(p is the momentum of the object, m is the object's mass, and v is the velocity of the object) so
+E = mvc
+Plug this into (1), we have
+λ = hc/mvc = h/mv
+This equation postulates that all moving object with a mass will have a wavelength which is called de Broglie wavelength, but these wavelengths are only seen with objects that have a very small mass. Since h is very small (6.626 x 10-34Js), any object that has a large mass will have its wavelength close to zero. That is why we cannot see a walking human's wavelength. This relationship was confirmed by the Davisson and Germer diffraction experiments, where the wavelengths of the electrons, that gave diffraction patterns were same as the predicted wavelength using de Broglie relationship.
+Prolems
+
+Find the energy of an electron with wavelength of 30 nm using Rayleigh-Jeans Law at T = 280K.
+Find the energy of the same electron using Planck law.
+Find the wavelength of an electron that travels at 10m/s (me = 9.10939 x 10-31kg).
+Find the wavelenth of a person who has the same speed as the electron in question 2 with a mass of 60 kg.
+How long does it take to melt 1g of ice if there are 3 x 105 photons stricking the ice from the sun light per second with a wavelength of 6 nm (energy to melt 1g of ice is 334 J).
+
+Solutions
+
+ρ = 8πkT/λ^4 = 8(3.14)(1.38 x 10-23mkg/s2K)(280K)/(30 X 10-9m)4 = 1.2 x 1011 J
+E = hc/λ = 6.626 x 10-34Js(3 x 108m/s)/(30 x 10-9m) = 6.626 x 10-17 J
+λ = h/(mv) = 6.626 x 10-34Js/[(9.109 x 10-31kg)(10 m/s)] = 7.27 x 10-5 m
+λ = h/(mv) = 6.626 x 10-34Js/[(60kg)(10 m/s)] = 1.1 x 10-36 m
+E = Xhc/λ
+
+or we can write n = λE/hc = 334J(6 x 10-9m)/[(6.626 x 10-34Js)(3 x 108)] = 1.01 x 1019 photons
+t = 1.01 x 1019photons/(3 x 105photons/s) = 3.37 x 1013 s
+Outside Links
+
+Professor Guo from UCD Chemistry sings the Duality blues.
+en.Wikipedia.org/wiki/Wave%E2...rticle_duality
+video about de Broglie's wavelength www.youtube.com/watch?v=lDYMu...eature=related
+
+References
+
+Atkins, Peter and Julio de Paula. Physical Chemistry for the Life Sciences. New York: W.H. Freeman and Company, 2006.
+Chang, Raymond. Physical Chemistry for the Biosciences. USA: University Science Books, 2005.
+Cutnell, John and Kenneth Johnson. Physics. 6th Edition.USA: John Wiley and Sons Inc, 2000.
+Serway, Raymond A. and Jewitt John W. Jr. Physics for Scientists and Engineers. Vol 4C. Ohio: Thomson, 2006.
+
+Contributors and Attributions
+
+Artika Singh, Tu Quach
+
+
+
+Wave-Particle Duality is shared under a CC BY-NC-SA  4.0  license and was authored, remixed, and/or curated by LibreTexts.
+
+
+
+
+
+
+
+
+Back to top
+
+
+Tunneling
+
+
+3: The Tools of Quantum Mechanics
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+License
+CC BY-NC-SA
+
+
+License Version
+4.0
+
+
+Show Page TOC
+no on page
+
+
+
+Tags
+
+
+
+            This page has no tags.
+    
+
+
+
+
+
+
+
+
+© Copyright 2024 Chemistry LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

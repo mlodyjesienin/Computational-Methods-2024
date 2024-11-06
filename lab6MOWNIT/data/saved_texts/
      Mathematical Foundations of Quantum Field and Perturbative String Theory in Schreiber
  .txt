@@ -1,0 +1,467 @@
+
+
+
+
+
+      Mathematical Foundations of Quantum Field and Perturbative String Theory in Schreiber
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schreiber
+      Mathematical Foundations of Quantum Field and Perturbative String Theory
+  
+
+Skip the Navigation Links | 
+
+Home Page |
+    All Pages |
+    Latest Revisions |
+    Authors |
+ 
+ 
+
+
+
+Contents
+
+This page contains preface, introduction, and content outline of the volume
+
+Hisham Sati, Urs Schreiber (eds.)
+Mathematical Foundations of Quantum Field and Perturbative String Theory
+ Proceedings of Symposia in Pure Mathematics, volume 83
+ AMS (2011)
+
+357 pp; hardcover, ISBN-10:0-8218-5195-0, ISBN-13:978-0-8218-5195-1, ams:pspum-83
+Contents
+
+
+Preface
+Introduction
+
+I. Cobordism representations
+
+(i) Topological case
+(ii) Conformal case
+(iii) Supergeometric case
+(iv) Boundary conditions and defects/domain walls
+(v) Holographic principle
+
+II. Systems of algebras of observables
+
+(i) Nets of algebras
+(ii) Boundaries and defects
+(iii) Higher chiral algebras
+
+III. Quantization from classical field theories
+
+(i) Path integral quantization
+(ii) Higher background gauge fields
+(iii) Quantum anomaly cancellation
+
+Outlook
+References
+
+Content outline
+
+I. Foundations of Quantum Field Theory
+
+1. Models for (∞,n)(\infty,n)-Categories and the Cobordism Hypothesis
+2. From operads to dendroidal sets
+3. Field theories with defects and the centre functor
+
+II. Quantization of Field Theories
+
+1. Homotopical Poisson reduction of gauge theories
+2. Orientifold précis
+
+III. Quantum two-dimensional Field Theories
+
+1. Surface operators in 3d TFT and 2d Rational CFT
+2. Conformal field theory and a new geometry
+3. Collapsing CFTs, spaces with non-negative Ricci curvature and nc geometry
+4. Supersymmetric field theories and generalized cohomology
+5. Topological modular forms and conformal nets
+
+
+
+
+Preface
+Conceptual progress in fundamental theoretical physics is linked with the search for suitable mathematical structures that model the physics in question. There are a number indications that today we are in a period where the fundamental mathematical nature of quantum field theory (QFT) and of the worldvolume aspects of string theory is being identified. It is not unlikely that future generations will think of the turn of the millennium and the beginning of the 21st century as the time when it was fully established that QFT in general and worldvolume theories in particular are precisely the representations of higher categories of cobordisms with structure or, dually, encoded by copresheaves of local algebras of observables, vertex operator algebras, factorization algebras and their siblings.
+While significant insights on these matters have been gained in the last several years, their full impact has possibly not yet received due attention, notably not among most of the theoretical but pure physicists for whom it should be of utmost relevance. At the same time, those who do appreciate the mathematical structures involved may wonder how it all fits into the big physical picture of quantum field and string theory.
+This volume is aimed at trying to improve on this situation by collecting original presentations as well as reviews and surveys of recent and substantial progress in the unravelling of mathematical structures underlying the very nature of quantum field and worldvolume string theory. All contributions have been carefully refereed.
+It is reassuring that some of the conferences on fundamental and mathematical physics these days begin to witness a new, more substantial interaction between theoretical physicists and mathematicians, where the latter no longer just extract the isolated remarkable conjectures that the black box \emph{string theory} has been producing over the decades, but finally hold in their hands a workable axiom system that allows one to genuinely consider core aspects of QFT in a formal manner. This book has grown out of the experience of such meetings.
+The editors express their thanks to the authors who kindly made their work available for this volume. We also acknowledge the hard work of the referees. We thank Sergei Gelfand, Christine Thivierge, and the dedicated staff at the American Mathematical Society for their effort in publishing this volume. We also thank Arthur Greenspoon for carefully proofreading the papers and for his input on the volume as a whole.
+Introduction
+by Hisham Sati and Urs Schreiber (arXiv:1109.0955)
+
+Abstract The contributions in this volume are intended to indicate core aspects of a firm and workable mathematical foundation for quantum field theory and perturbative string theory. Here we provide some motivational background, as well as the overall picture in which the various articles fit.
+
+The history of theoretical fundamental physics is the story of a search process for the suitable mathematical notions and structural concepts that naturally model the physical phenomena in question. It may be worthwhile to recall a few examples:
+
+
+the identification of symplectic geometry as the underlying structure of classical Hamiltonian mechanics;
+
+
+the identification of (semi-)Riemannian differential geometry as the underlying structure of gravity;
+
+
+the identification of group and representation theory as the underlying structure of the zoo of
+
+
+fundamental particles;
+
+the identification of Chern-Weil theory and differential cohomology as the underlying structure of gauge theories.
+
+All these examples exhibit the identification of the precise mathematical language that naturally captures the physics under investigation. While each of these languages upon its introduction into theoretical physics originally met with some skepticism or even hostility, we do know in retrospect that the modern insights and results in the respective areas of theoretical physics would have been literally unthinkable without usage of these languages. A famous historical example is the Wigner-Weyl approach and its hostile dismissal from mainstream physicists of the time (“Gruppenpest”); we now know that group theory and representation theory have become indispensible tools for every theoretical and mathematical physicist.
+Much time has passed since the last major such formalization success in theoretical physics. The rise of quantum field theory (QFT) in the middle of the last century and its stunning successes, despite its notorious lack of formal structural underpinnings, made theoretical physicists confident enough to attempt an attack on the next open structural question – that of the quantum theory of gauge forces including gravity – without much more of a structural guidance than the folklore of the path integral, however useful that had otherwise proven to be.
+While everyone involved readily admitted that nobody knew the full answer to
+\,\,\,\,\, What is string theory?
+it was maybe gradually forgotten that nobody even knew the full answer to
+\,\,\,\,\, What is quantum field theory?
+While a huge discussion ensued on the landscape moduli space of backgrounds for string theory, it was perhaps forgotten that nobody even had anything close to a full answer to
+\,\,\,\,\, What is a string theory background?
+or even to what should be a simpler question:
+\,\,\,\,\, What is a classical string theory background?
+which in turn is essentially the question:
+\,\,\,\,\, What is a full 2-dimensional σ\sigma-model conformal field theory?
+Most of the literature on 2-dimensional conformal field theory (2d CFT) describes just what is called chiral conformal field theory , formalized in terms of vertex operator algebras or local conformal nets. But this only captures the holomorphic and low-genus aspect of conformal field theory and is just one half of the data required for a full CFT, the remaining piece being the full solution of the sewing constraints that makes the theory well defined for all genera.
+With these questions – fundamental as they are for perturbative string theory – seemingly too hard to answer, a plethora of related model and toy model quantum field theoretic systems found attention instead. A range of topological (quantum) field theories (T(Q)FTs) either approximates the physically relevant CFTs as in the topological A-model and B-model, or encodes these holographically in their boundary theory as for Chern-Simons theory and its toy model, the Dijkgraaf-Witten theory.
+In this way a wealth of worldvolume QFTs appears that in some way or another is thought to encode information about string theory. Furthermore, in each case what matters really is the full worldvolume QFT: the rule that assigns correlators to all possible worldvolume cobordisms, because this is what is needed to even write down the corresponding second quantized perturbation series. However, despite this urgent necessity for understanding QFT on arbitrary cobordisms, the tools to study or even formulate this precisely were for a long time mainly unavailable. Nevertheless, proposals for how to make these questions accessible to the development of suitable mathematical machinery were already known.
+Early on it was suggested, based on topological examples, that the path integral and the state-propagation operators that it is supposed to yield are nothing but a representation of a category of cobordisms (At88). It was further noticed that this prescription is not restricted to TQFTs, and in fact CFTs were proposed to be axiomatized as representations of categories of conformal cobordisms (Se04).
+In parallel to this development, another school developed a dual picture, now known as local or algebraic quantum field theory (AQFT) (Ha92), where it is not the state-propagation – the Schrödinger picture – of QFT that is axiomatized and made accessible to high-powered machinery, but rather the assignment of algebras of observables – the Heisenberg picture of QFT.
+While these axiomatizations were known and thought of highly by a few select researchers who worked on them, they were mostly happily ignored by the quantum field theory and string theory community at large; and to a good degree rightly so: nobody should trust an axiom system that has not yet proven its worth by providing useful theorems and describing nontrivial examples of interest. But neither the study of cobordism representations nor that of systems of algebras of observables could for a long time – apart from a few isolated exceptions – claim to add much to the world-view of those who value formal structures in physics, but not a priori formal structures in mathematics. It is precisely this that is changing now.
+Major structural results have been proven about the axioms of functorial quantum field theory (FQFT) in the form of cobordism representations and dually those of local nets of algebras (AQFT) and factorization algebras. Furthermore, classes of physically interesting examples have been constructed, filling these axiom systems with life. We now provide a list of such results, which, while necessarily incomplete, may serve to give an impression of the status of the field, and serve to put the contributions of this book into perspective.
+I. Cobordism representations
+(i) Topological case
+The most foundational result in TQFT is arguably the formulation and proof (Lur09b) of the cobordism hypothesis (BaDo95) which classifies extended (meaning: “fully local”) nn-dimensional TQFT by the “fully dualizability”-structure on the “space” of states (an object in a symmetric monoidal (∞,n)-category) that it assigns to the point. (In this volume the contribution by Bergner surveys the formulation and proof of the cobordism hypothesis). This hugely facilitates the construction of interesting examples of extended nn-dimensional TQFTs. For instance
+
+recently it was understood that the state-sum constructions of 3d TQFTs from fusion categories (e.g. (BaKi00)) are subsumed by the cobordism hypothesis-theorem and the fact (DSS11) that fusion categories are the
+
+fully dualizable objects in the
+(∞,3)-category of
+monoidal categories with bimodule categories as morphisms;
+
+the Calabi-Yau A-∞-categories that Kontsevich conjectured (Ko95) encode the 2d TQFTs that participate in homological mirror symmetry have been understood to be the “almost fully dualizable” objects ( Calabi-Yau objects ) that classify extended open/closed 2-dimensional TQFTs on cobordisms with non-empty outgoing boundary with values in the (∞,1)(\infty,1)-category of chain complexes (“TCFTs” (Cos07a), (Lur09b));
+
+In this context crucial aspects of Witten‘s observation in (Wi92) have been made precise (Cos07b), relating Chern-Simons theory to the effective target space theory of the A- and B-model topological string, thus providing a rigorous handle on an example of the effective background theory induced by a string perturbation series over all genera.
+(ii) Conformal case
+A complete classification of rational full 2d CFTs on cobordisms of all genera has been obtained in terms of Frobenius algebra objects in modular tensor categories (FRS06). While the rational case is still “too simple” for the most interesting applications in string theory, its full solution shows that already here considerably more interesting structure is to be found than suggested by the naïve considerations in much of the physics literature. (The contributions by Kapustin-Saulina and by Kong in this volume discuss aspects of this.)
+(iii) Supergeometric case
+There is now a full proof available, starting from the axioms, that the partition function of a (2|1)(2|1)-dimensional supersymmetric 2d-QFT indeed is a modular form, as suggested by Witten‘s work (Wi86) on the partition function of the heterotic string and the index of the Dirac operator on loop space. (A formalization and proof of this fact in terms of supergeometric cobordism representations is described in the contribution by Stolz-Teichner to this volume.) This suggests a deep relationship between superstrings and the generalized cohomology theory called tmf (for topological modular forms ) – in a sense, the universal elliptic cohomology theory – which lifts the more familiar relation between superparticles (spinors) and K-theory to higher categorical dimension. (This is the content of the contribution by Douglas-Henriques in this volume.)
+(iv) Boundary conditions and defects/domain walls
+One simple kind of extra structure on cobordisms that is of profound importance is boundary labels and decompositions of cobordisms into domains, meeting at domain walls (“defects”). (The definition of QFT with defects is part of the content of the contribution by Davydov-Kong-Runkel to this volume). That cobordism representations with boundaries for the string encode D-branes on target space was originally amplified by Moore and Segal (MoSe06). Typically open-closed QFTs are entirely determined by their open sectors and boundary conditions, a fact that via (Cos07a) led to Lurie‘s proof of the cobordism hypothesis. (A survey of a list of results on presentation of 2d CFT by algebras of boundary data is in the contribution by Kong to this volume.)
+(v) Holographic principle
+A striking aspect of the classification of rational CFT mentioned above is that it proceeds – rigorously – by a version of the holographic principle . This states that under some conditions the partition function and correlators of an nn-dimensional QFT are encoded in the states of an (n+1)(n+1)-dimensional TQFT in codimension 1. The first example of this had been the holographic relation between 3-dimensional Chern-Simons theory and the 2-dimensional WZW CFT in the seminal work (Wi89), which marked the beginning of the investigation of TQFT in the first place. A grand example of the principle is the AdS/CFT conjecture, which states that type II string theory itself is holographically related to super Yang-Mills theory. While mathematical formalizations of AdS/CFT are not available to date, lower dimensional examples are finding precise formulations. (The contribution by Kapustin-Saulina in this volume discusses how the construction of rational 2d CFT by (FRS06) is naturally induced from applying the holographic principle to Chern-Simons theory with defects).
+One of the editors once suggested that, in the formalization by cobordism representations, holography corresponds to the fact that transformations between (n+1)(n+1)-functors are in components themselves essentially given by n-functors. A formalization of this observation for extended 2d QFT has been given in (SP10). (The contribution by Stolz-Teichner to this volume crucially uses transformations between higher dimensional QFTs to twist lower dimensional QFTs.)
+II. Systems of algebras of observables
+(i) Nets of algebras
+In the form of the Haag-Kastler axioms the description of QFT through its local algebras of observables had been given a clean mathematical formulation (HaMü06) a long time ago (HaKa64). This approach had long produced fundamental structural results about QFT, such as the PCT theorem and the spin-statistics theorem (cf. (StWi00)). Only recently has it finally been shown in detail (BDF09) how examples of AQFT nets can indeed be constructed along the lines of perturbation theory and Wilsonian effective field theory, thus connecting the major tools of practicing particle physicists with one of the major formal axiom systems. Using an operadic variant of Haag-Kastler nets in the case of Euclidean (“Wick rotated”) QFT – called factorization algebras – a similar discussion is sketched in (CoGw). At the same time, the original axioms have been found to naturally generalize from Minkowski spacetime to general (globally hyperbolic) curved and topologically nontrivial spacetimes (BFV01).
+(ii) Boundaries and defects
+The Haag-Kastler axioms had been most fruitful in the description of 2 dimensional and conformal field theory (“conformal nets”), where they serve to classify chiral 2d CFTs (KaLo03)(Ka03, construct integrable 2d QFTs (Le06) and obtain insights into boundary field theories (open strings) (LoRe04). Remarkably, the latter has recently allowed a rigorous re-examination (LoWi10) of old arguments about the background-independence of string field theory. (The contribution by Douglas-Henriques in this volume presents a modern version of the Haag-Kastler axioms for conformal nets and extends the discussion from boundary field theory to field theory with defects.)
+(iii) Higher chiral algebras
+The geometric reformulation of vertex operator algebras in terms of chiral algebras (BeDr04) has proven to be fruitful, in particular in its higher categorical generalizations (Lur11) by factorizable cosheaves of ∞\infty-algebras. While the classical AQFT school restricted attention to QFT over trivial topologies, it turns out that also topological QFTs can be described and constructed by local assignments of algebras “of observables”. In (Lur09b) nn-dimensional extended TQFTs are constructed from En-algebras – algebras over the little n-cubes operad – by a construction calledtopological chiral homology, which is a grand generalization of Hochschild homology over arbitrary topologies. (The contribution by Weiss in this volume discusses the theory of homotopy algebras over operads involved in these constructions.)
+This last work is currently perhaps the most formalized and direct bridge between the two axiom systems, the functorial and the algebraic one. This indicates the closure of a grand circle of ideas and makes the outline of a comprehensive fundamental formalization of full higher-genus QFT visible.
+III. Quantization from classical field theories
+While a realistic axiomatization is the basis for all mathematical progress in QFT, perhaps even more important in the long run for physics is that with the supposed outcome of the (path integral) quantization process thus identified precisely by axioms for QFT, it becomes possible to consider the nature of the quantization process itself. This is particularly relevant in applications of QFT as worldvolume theories in string theory, where one wishes to explicitly consider QFTs that arise as the quantization of sigma-models with specified gauge background fields. A good understanding of this quantization step is one of the links between the worldvolume theory and the target space theory and hence between the abstract algebraic description of the worldvolume QFT and the phenomenological interpretation of its correlators in its target space, ultimately connecting theory to experiment. We indicate some of the progress in mathematically understanding the process of quantization in general and of sigma-models in particular.
+(i) Path integral quantization
+It has been suggested (e.g. (Fre06) that the path integral is to be understood abstractly as a pull-push operation – an integral transform – acting on states in the form of certain cocycles, by first pulling them up to the space of worldvolume configurations along the map induced by the incoming boundary, and then pushing forward along the map induced by the outgoing boundary. This is fairly well understood for Dijkgraaf-Witten theory (FrQu93). In (FHLT10) it is claimed that at least for all the higher analogs of Dijkgraaf-Witten theory (such as the Yetter model (MaPo07)) a formal pull-push path integral quantization procedure exists in terms of colimits of n-categorical algebras, yielding fully extended TQFTs.
+A more geometric example for which pull-push quantization is well understood is Gromov-Witten theory (Ka06). More recently also Chas-Sullivan’s string topology operations have been understood this way, for strings on a single brane in (G007) and recently for arbitrary branes in (Ku11). In (BZFNa11) it is shown that such integral transforms exist on stable (∞,1)-categories of quasicoherent sheaves for all target spaces that are perfect derived algebraic stacks, each of them thus yielding a 2-dimensional TQFT from background geometry data.
+(ii) Higher background gauge fields
+Before even entering (path integral) quantization, there is a fair bit of mathematical subtleties involved in the very definition of the string‘s action functional in the term that describes the coupling to the higher background gauge fields, such as the Neveu-Schwarz (NS) B-field and the Ramond-Ramond (RR) fields. All of these are recently being understood systematically in terms of generalized differential cohomology (HS05).
+Early on it had been observed that the string’s coupling to theB-field is globally occurring via the higher dimensional analog of the line holonomy of a circle bundle: the surface holonomy (GaRe02)(FNSW09 of a circle 2-bundle with connection ([Sch11]Schreiber)): a bundle gerbe with connection, classified by degree-3 ordinary differential cohomology. More generally, on orientifold target space backgrounds it is the nonabelian (ℤ 2//U(1))(\mathbb{Z}_2//U(1))-surface holomomy (SchW05(Ni11) over unoriented surfaces (SSW05).
+After the idea had materialized that the RR fields have to be regarded in K-theory (MoWi00) (FrHo00) it eventually became clear (Fre01) that all the higher abelian background fields appearing in the effective supergravity theories of string theory are properly to be regarded as cocycles in generalized differential cohomology (HS05) – the RR-field being described by differential K-theory (BuSch11) – and even more generally in twisted such theories: the presence of the B-field makes the RR-fields live in twisted K-theory (cf. (BMRZ08).
+A perfectly clear picture of twisted generalized cohomology theory in terms of associated E∞-module spectrum ∞-bundles has been given in (ABG10). This article in particular identifies the twists of tmf-theory, which are expected (Sa10) (AnSa11) to play a role in M-theory in the higher analogy of twisted K-theory in string theory.
+(iii) Quantum anomaly cancellation
+The cancellation of the quantum anomaly of fermions on the superstring‘s worldvolume – the (differential) class of their Pfaffian line bundles on the bosonic configuration space – imposes subtle conditions on the background gauge fields on spacetime to which the string couples.
+By means of the machinery of generalized differential cohomology, recently () makes fully precise the old argument of Killingback about the worldsheet version of the celebrated Green-Schwarz anomaly cancellation (the effect that initiated the “First superstring revolution”), using a model for twisted differential string structures (SSS10) (FSS11) in terms of bundle gerbes, due to (Wa09). These differential string structures – controlled by the higher Lie and Chern-Weil theory of the smooth string 2-group (Hen08) (BCSS07) – are the higher superstring analogs in higher smooth geometry (Sch111) of the spin-bundles with connection that control the dynamics of spinning/superparticles.
+(In our volume the contribution by Distler-Freed-Moore presents what is to date the most accurate description of the conditions on the differential cohomology classes of the superstring’s background gauge fields for general orbifold and orientifold target spaces.)
+Outlook
+Taken together, all these developments should go a long way towards understanding the fundamental nature of QFT on arbitrary cobordisms and of the string perturbation series defined by such 2d QFTs. However, even in the light of all these developments, the reader accustomed to the prevailing physics literature may still complain that none of this progress in QFT on cobordisms of all genera yields a definition of what string theory really is. Of course this is true if by “string theory” one understands its non-perturbative definition. But this supposed non-perturbative definition of string theory is beyond reach at the moment. Marvelling – with a certain admiration of their audacity – at how ill-defined this is has made the community forget that something much more mundane, the perturbation series over CFT correlators that defines perturbative string theory , has been ill-defined all along: only the machinery of full CFT in terms of cobordism representations gives a precise meaning to what exactly it is that the string pertubation series is a series over. Perhaps it causes feelings of disappointment to be thrown back from the realm of speculations about non-perturbative string theory to just the perturbation series. But at least this time one lands on solid ground, which is the only ground that serves as a good jumping-off point for further speculation.
+In string theory it has been the tradition to speak of major conceptual insights into the theory as revolutions of the theory. The community speaks of a first and a second superstring revolution and a certain longing for the third one to arrive can be sensed. With a large part of the community busy attacking grand structures with arguably insufficient tools, it does not seem farfetched that when the third one does arrive, it will have come out of mathematics departments.1
+References
+
+(ABG10) M. Ando, A. Blumberg, and D. Gepner, Twists of K-theory and TMF, Superstrings, geometry, topology, and C *C^\ast-algebras, 27–63, Proc. Sympos. Pure Math., 81, Amer. Math. Soc., Providence, RI (2010). (arXiv:1002.3004)
+
+
+(AnSa11) M. Ando, H. Sati, M-brane charges and twisted tmf , in preparation.
+
+
+(At88) M. Atiyah, Topological quantum field theories , Inst. Hautes Études Sci. Publ. Math. 68 (1988), 175-186.
+
+
+(BCSS07) J. Baez, A. Crans, U. Schreiber, and D. Stevenson, From loop groups to 2-groups Homology, Homotopy Appl. 9 (2007), 101–135.
+
+
+(BaDo95) J. Baez and J. Dolan, Higher-dimensional algebra and topological quantum field theory , J. Math. Phys 36 (1995), 6073–6105.
+
+
+(BaKi00) B. Bakalov and A. Kirillov, Lectures on tensor categories and modular functors , University Lecture Series, Amer. Math. Soc., Providence, RI (2000).
+
+
+(BeDr04) A. Beilinson, V. Drinfeld, Chiral algebras , Amer. Math. Soc., Providence, RI (2004)
+
+
+(BZFNa11) D. Ben-Zvi, J. Francis, and D. Nadler, Integral transforms and Drinfeld centers in derived algebraic geometry , J. Amer. Math. Soc. 23 (2010), no. 4, 909–966.
+
+
+(BMRZ08) J. Brodzki, V. Mathai, J. Rosenberg, and R. J. Szabo, D-branes, RR-fields and duality on noncommutative manifolds , Commun. Math. Phys. 277 (2008), 643–706
+
+
+(BDF09) R. Brunetti, M. Dütsch, and K.Fredenhagen, Perturbative algebraic quantum field theory and the renormalization groups , Adv. Theor. Math. Physics 13 (2009), 1541–1599.
+
+
+(BFV01) R. Brunetti, K. Fredenhagen, and R. Verch, The generally covariant locality principle – a new paradigm for local quantum field theory , Commun. Math. Phys. 237 (2001), 31–68.
+
+
+
+(Bu09) U. Bunke, String structures and trivialisations of a Pfaffian line bundle , (arXiv:0909.0846)
+
+
+(BuSch11) U. Bunke and T. Schick, Differential K-theory: A survey , preprint, (arXiv:1011.6663)
+
+
+
+(CoKr00) A. Connes and D. Kreimer, Renormalization in quantum field theory and the Riemann-Hilbert problem I: the Hopf algebra structure of graphs and the main theorem , Commun. Math. Phys. 210 (2000), 249–273.
+
+
+
+(Cos07a) K. Costello, Topological conformal field theories and Calabi-Yau categories , Adv. Math. 210 (2007), 165–214. {Costello1}
+
+
+(Cos07b) K. Costello, Topological conformal field theories and gauge theories , Geom. Top. 11 (2007), 1539–1579
+
+
+
+(CoGw) K. Costello and O. Gwilliam, Factorization algebras in perturbative quantum field theory , prepring
+
+
+(DSS11) C. Douglas, C. Schommer-Pries, N. Snyder, The Structure of Fusion Categories via 3D TQFTs , preprint (2011) (slides)
+
+
+(Do10) M. R. Douglas, Spaces of quantum field theories , to appear in Open Access Journal of Physics: Conference Series, Institute of Physics Publishing, (arXiv:1005.2779)
+
+
+(FSS11) D. Fiorenza, U. Schreiber, and J. Stasheff, Cech Cocycles for Differential characteristic Classes – An infinity-Lie theoretic construction , preprint (arXiv:1011.4735)
+
+
+(Fre01) D. Freed, Dirac charge quantization and generalized differential cohomology , in Surv. Diff. Geom. VII , 129–194, Int. Press, Somerville, MA (2000).
+
+
+(Fre06) D. Freed, Twisted K-theory and the Verlinde ring Andrejewski Lecture, Leipzig (2006)
+
+
+(FrHo00) D. Freed and M. Hopkins, On Ramond-Ramond fields and K-theory , J. High Energy Phys. 5 (2000), 44.
+
+
+(FHLT10) D. Freed, M. Hopkins, J. Lurie, and M. Hopkins, Topological quantum field theories from compact Lie groups , A celebration of the mathematical legacy of Raoul Bott, 367–403, Amer. Math. Soc., Providence, RI (2010).
+
+
+(FrQu93) D. Freed and F. Quinn, Chern-Simons theory with finite gauge group , Commun. Math. Phys. 156 (1993), 435–472.
+
+
+(FrRe11) K. Fredenhagen and K. Rejzner, Batalin-Vilkovisky formalism in the functional approach to classical field theory , preprint, (arXiv:1101.5112)
+
+
+(FNSW09) J. Fuchs, T. Nikolaus, C. Schweigert, and K. Waldorf, Bundle gerbes and surface holonomy , Proceedings of the Fifth European Congress of Mathematics, Amsterdam (2008)
+
+
+(FRS06) J. Fuchs, I. Runkel, and C. Schweigert, Categorification and correlation functions in conformal field theory Proceedings of the ICM 2006, European Mathematical Society Publishing House (2007), (arXiv:math.CT/0602079)
+
+
+(GaRe02) C. Gaw\c{e}dzki and N. Reis, WZW branes and gerbes , Rev. Math. Phys. 14 (2002) 1281–1334.
+
+
+(Go07) V. Godin, Higher string topology operations , preprint, (arXiv:0711.4859)
+
+
+(Ha92) R. Haag, Local quantum physics – Fields, particles, algebras , Springer, Berlin (1992)
+
+
+(HaKa64) R. Haag, D. Kastler, An algebraic approach to quantum field theory , Journal of Mathematical Physics, 5 (1964) p. 848-861
+
+
+(HaMü06) H. Halvorson (with an appendix by M.~Müger), Algebraic quantum field theory , in Philosophy of Physics, North Holland (2006).
+
+
+(Hen08) A. Henriques, Integrating {L ∞L_\infty}-algebras , Compos. Math. 144 (2008), 1017–1045.
+
+
+(HS05) M. Hopkins and I. Singer, Quadratic functions in geometry, topology, and M-theory , J. Differential Geom. 70 (2005), 329–452.
+
+
+(Ka06)S. Katz, Enumerative geometry and string theory Amer. Math. Soc., Providence, RI (2006).
+
+
+(Ka03) Y. Kawahigashi, Classification of operator algebraic conformal field theories in dimensions one and two , Proceedings of XIV International Congress on Mathematical Physics, J.-C. Zambrini (ed.), World Scientific, Singapore (2006).
+
+
+(KaLo03) Y. Kawahigashi and R. Longo, Classification of Local Conformal Nets. Case c<1c \lt 1 Ann. Math. 160 (2004), 493–522.
+
+
+(Ko95) M. Kontsevich, Homological algebra of mirror symmetry , Proceedings of the International Congress of Mathematicians (Zürich, 1994), pages 120–139, Basel, Birkhäuser (1995).
+
+
+(Ku11) A. P. M. Kupers, String topology operations , MSc thesis, Utrecht University, The Netherlands (2011).
+
+
+(Le06) G. Lechner, Construction of quantum field theories with factorizing S-matrices , Commun. Math. Phys. 277 (2008), 821–860.
+
+
+(LoRe04) R. Longo,K.-H. Rehren, Local fields in boundary conformal QFT , Rev. Math. Phys. 16 (2004), 909–960.
+
+
+(LoWi10) R. Longo and E. Witten, An Algebraic construction of boundary quantum field theory , Commun. Math. Phys. 303 (2011), 213–232.
+
+
+(Lur09a) J. Lurie, Structured Spaces, preprint (arXiv:0905.0459)
+
+
+(Lur09b) J. Lurie On the Classification of Topological Field Theories Current developments in mathematics, 2008, 129–280, Int. Press, Somerville, MA (2009).
+
+
+(Lur11) J. Lurie, Higher Algebra , preprint (2011),
+
+
+(MaPo07) J. Martins and T. Porter, On Yetter invariants and an extension of the Dijkgraaf-Witten invariant to categorical groups , Theory Appl. Categ. 18 (2007), 118–150.
+
+
+(MoWi00) G. Moore and E. Witten, Self-duality, Ramond-Ramond fields, and K-theory , J. High Energy Phys. 0005 (2000) 032
+
+
+(MoSe06) G. Moore and G. Segal, D-branes and K-theory in 2D topological field theory preprint 2006, (arXiv:hep-th/0609042)
+
+
+(Ni11) T. Nikolaus, Higher categorical structures in QFT – General theory and applications to QFT PhD thesis, Hamburg University (2011).
+
+
+(Sa10) H. Sati, Geometric and topological structures related to M-branes Proc. Symp. Pure Math. 81 (2010), 181–236. (arXiv:1001.5020)
+
+
+
+(SSS10) H. Sati, U. Schreiber, and J. Stasheff, Twisted differential String- and Fivebrane structures , (arXiv:0910.4001)
+
+
+(Se04) G. Segal, The definition of conformal field theory in {Topology, Geometry and Quantum Field Theory}, 421–577, U. Tillmann (ed.), Cambridge University Press, Cambridge (2004).
+
+
+
+(SP10) C. Schommer-Pries, Topological defects and classifying local topological field theories in low dimensions preprint 2010, (slides)
+
+
+
+(Sch11) U. Schreiber, Differential cohomology in a cohesive topos , preprint 2011,
+
+
+(SSW05) U. Schreiber, C. Schweigert, and K. Waldorf, Unoriented WZW models and holonomy of bundle gerbes , Commun. Math. Phys. 274 (2007), 31–64.
+
+
+
+(SchW05) U. Schreiber and K. Waldorf, Connections on non-abelian gerbes and their holonomy , preprint, (arXiv:0808.1923)
+
+
+(StWi0) R. F. Streater and A. S. Wightman, PCT, Spin Statistics, and All That Princeton University Press, Princeton, NJ (2000)
+
+
+(Wa09) K.~Waldorf, String connections and Chern-Simons theory , preprint, (arXiv:0906.0117)
+
+
+(Wi86) E. Witten, The index of the Dirac operator In loop space , Elliptic curves and modular forms in algebraic topology (Princeton, NJ, 1986), 161–181, Lecture Notes in Math. 1326 , Springer, Berlin (1988).
+
+
+(Wi89) E.~Witten, Quantum field theory and the Jones polynomial Commun. Math. Phys. 121 (1989), 351–399.
+
+
+(Wi92) E.~Witten, Chern-Simons gauge theory as a string theory , The Floer memorial volume, 637–678, Prog. Math. 133 , Birkhäuser, Basel (1995). (arXiv:hep-th/9207094)
+
+Content outline
+We now outline the contents of the volume, highlighting how the various articles are related and emphasizing how they fit into the big picture that we have drawn above.
+I. Foundations of Quantum Field Theory
+1. Models for (∞,n)(\infty,n)-Categories and the Cobordism Hypothesis
+– by Julia Bergner (arXiv:1011.0110)
+The Schrödinger picture of extended topological quantum field theory of dimension nn is formalized as being an (∞,n)-functor on the (∞,n)-category of cobordisms of dimension nn. This article reviews the definition and construction of the ingredients of this statement, due to (Lur09b).
+This picture is the basis for the formulation of QFTs on cobordisms with structure. Contributions below discuss cobordisms with defect structure, with conformal structure and with flat Riemannian structure.
+2. From operads to dendroidal sets
+– by Ittay Weiss (arXiv:1012.4315)
+The higher algebra that appears in the algebraic description of QFT – by local nets of observables, factorization algebra or chiral algebras – is in general operadic. For instance the vertex operator algebras appearing in the description of CFT (see Liang Kong’s contribution below) are algebras over an operad of holomorphic punctured spheres.
+This article reviews the theory of operads and then discusses a powerful presentation in terms of dendroidal sets – the operadic analog of what simplicial sets are for (∞,1)-categories. This provides the homotopy theory for (∞,1)-operads, closely related to the traditional model by topological operads.
+3. Field theories with defects and the centre functor
+– by Alexei Davydov, Liang Kong and Ingo Runkel (arXiv:1107.0495)
+This article gives a detailed discussion of cobordism categories for cobordisms with defects/domain walls. An explicit construction of a lattice model of two-dimensional TQFT with defects is spelled out. The authors isolate a crucial aspect of the algebraic structure induced by defect TQFTs on their spaces of states: as opposed to the algebra of ordinary bulk states, that of defect states is in general non-commutative, but certain worldsheet topologies serve to naturally produce the centre of these algebras.
+Below in Surface operators in 3d TQFT topological field theories with defects are shown to induce, by a holographic principle, algebraic models for 2-dimensional CFT. In Topological modular forms and conformal nets conformal field theories with defects are considered.
+II. Quantization of Field Theories
+1. Homotopical Poisson reduction of gauge theories
+– by Frédéric Paugam (arXiv:1106.4955)
+The basic idea of quantization of a Lagrangian field theory is simple: one forms the covariant phase space given as the critical locus of the action functional, then forms the quotient by gauge transformations and constructs the canonical symplectic form. Finally, one applies deformation quantization or geometric quantization to the resulting symplectic manifold.
+However, to make this naïve picture work, care has to be taken to form both the intersection (critical locus) and the quotient (by symmetries) not naïvely but up to homotopy in derived geometry (Lur09a). The resulting derived covariant phase space is known in physics in terms of its Batalin-Vilkovisky–Becchi-Rouet-Stora-Tyutin (BV-BRST) complex. This article reviews the powerful description of variational calculus and the construction of the BV-BRST complex in terms of D-geometry (BeDr04) – the geometry over de Rham spaces – and uses this to analyze subtle finiteness conditions on the BV-construction.
+2. Orientifold précis
+– by Jacques Distler, Daniel Freed, and Gregory Moore (arXiv:0906.0795)
+The consistent quantization of the sigma model for the (super-)string famously requires the target space geometry to satisfy the Euler-Lagrange equations of an effective supergravity theory on target space. In addition there are subtle cohomological conditions for the cancellation of fermionic worldsheet anomalies.
+This article discusses the intricate conditions on the differential cohomology of the background fields – namely the Neveu-Schwarz B-field in ordinary differential cohomology (or a slight variant, which the authors discuss) and the RR-field in differential K-theory twisted by the BB-field – in particular if target space is allowed to be not just a smooth manifold but more generally an orbifold and even more generally an orientifold. Among other things, the result shows that the “landscape of string theory vacua” – roughly the moduli space of consistent perturbative string backgrounds (cf. Do10)– is more subtle an object than often assumed in the literature.
+III. Quantum two-dimensional Field Theories
+1. Surface operators in 3d TFT and 2d Rational CFT
+– by Anton Kapustin and Natalia Saulina (arXiv:1012.0911)
+Ever since Witten‘s work on 3-dimensional Chern-Simons theory it was known that by a holographic principle this theory induces a 2d CFT on 2-dimensional boundary surfaces. This article amplifies that if one thinks of the 3-d Chern-Simons TQFT as a topological QFT with defects, then the structures formed by codimension-0 defects bounded by codimension-1 defects naturally reproduce, holographically, the description of 2d CFT by Frobenius algebra object in modular tensor categories as given by the Fröhlich-Runkel-Schweigert (FRS) formalism.
+2. Conformal field theory and a new geometry
+– by Liang Kong (arXiv:1107.3649)
+Where the previous article has shown that the concept of TQFT together with the holographic principle naturally imply that 2-dimensional CFT is encoded by monoid objects in modular tensor categories, this article reviews a series of strong results about the details of this encoding. In view of these results and since every 2d CFT also induces an effective target space geometry – as described in more detail in the following contribution – the author amplifies the fact that stringy geometry is thus presented by a categorified version of the familiar duality between spaces and algebras: now for algebra objects internal to suitable monoidal categories.
+3. Collapsing CFTs, spaces with non-negative Ricci curvature and nc geometry
+– by Yan Soibelman (author’s pdf, author's pdf)
+The premise of perturbative string theory is that every suitable 2d (super-)CFT describes the quantum sigma model for a string propagating in some target space geometry, if only we understand this statement in a sufficiently general context of geometry, such as spectral noncommutative geometry. In this article the author analyzes the geometries induces from quantum strings in the point-particle limit (“collapse limit”) where only the lowest string excitations are relevant. In the limit the algebraic data of the SCFT produces a spectral triple, which had been shown by Alain Connes to encode generalized Riemannian geometry in terms of the spectrum of Hamiltonian operators. The author uses this to demonstrate compactness results about the resulting moduli space of “quantum Riemann spaces”.
+4. Supersymmetric field theories and generalized cohomology
+– by Stephan Stolz and Peter Teichner (arXiv:1108.0189)
+Ever since Witten‘s derivation of what is now called the Witten genus as the partition function of the heterotic superstring, there have been indications that superstring physics should be governed by the generalized cohomology theory called topological modular forms (tmf) in analogy to how super/spinning point particles are related to K-theory. In this article the authors discuss the latest status of their seminal program of understanding these cohomological phenomena from a systematic description of functorial 2d QFT with metric structure on the cobordisms.
+After noticing that key cohomological properties of the superstring depend only on supersymmetry and not actually on conformal invariance, the authors simplify to cobordisms with flat super-Riemannian structure, but equipped with maps into some auxiliary target space XX. A classification of such QFTs by generalized cohomology theories on XX is described: a relation between (1,1)-dimensional flat Riemannian field theories and K-theory and between (2,1)-dimensional flat Riemannian field theories and tmf.
+5. Topological modular forms and conformal nets
+– by Christopher Douglas and André Henriques (arXiv:1103.4187)
+Following in spirit the previous contribution, but working with the AQFT-description instead, the authors of this article describe a refinement of conformal nets, hence of 2d CFT, incorporating defects. Using this they obtain a tricategory of fermionic conformal nets (“spinning strings”) which constitutes a higher analog of the bicategory of Clifford algebras. Evidence is provided which shows that these categorified spinors are related to tmf in close analogy to how ordinary Clifford algebra is related to K-theory, providing a concrete incarnation of the principle by which string physics is categorified particle physics.
+
+See in this context for instance the opening and closing talks at the Strings2011 conference. ↩
+
+
+
+
+    Last revised on August  5, 2023 at 09:38:51.
+    See the history of this page for a list of all contributions to it.
+    
+
+
+EditDiscussPrevious revisionChanges from previous revisionHistory (74 revisions)
+Print
+Source
+
+ 
+ 
+
+

@@ -1,0 +1,805 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+						ELEMENTS OF THE GALOIS THEORY IN CRYPTOGRAPHIC APPLICATIONS IN THE NATIONAL SECURITY SYSTEM
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PL
+EN
+
+ 
+
+
+Latest Issue
+Archive
+About the Journal
+Scientific Council
+Editorial Office
+Contact
+Reviewers
+Ethical standards
+Journal ethical standards (COPE)
+Open Access Policy
+Procedure to protect the originality of the publication
+For Authors
+Editing Requirements
+Content Guidelines
+Review process
+For Reviewers
+ 
+
+
+
+
+
+
+ 
+ADVANCED SEARCH
+ 
+
+
+ 
+
+
+
+
+
+
+
+PL
+EN
+
+
+
+SEARCH
+
+
+
+
+
+
+
+
+ Latest Issue
+					
+
+
+
+						 Archive
+					
+
+
+
+						 About the Journal
+					
+
+Scientific Council
+Editorial Office
+Contact
+Reviewers
+Ethical standards
+Journal ethical standards (COPE)
+Open Access Policy
+Procedure to protect the originality of the publication
+
+
+
+
+						 For Authors
+					
+
+Editing Requirements
+Content Guidelines
+Review process
+
+
+
+
+						 For Reviewers
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Latest Issue
+							
+
+
+
+								Archive
+							
+
+
+
+								About the Journal
+							
+Scientific Council
+Editorial Office
+Contact
+Reviewers
+Ethical standards
+Journal ethical standards (COPE)
+Open Access Policy
+Procedure to protect the originality of the publication
+
+
+
+								For Authors
+							
+Editing Requirements
+Content Guidelines
+Review process
+
+
+
+
+								For Reviewers
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1/2016 vol. 9
+
+Stats
+
+CC BY-SA 4.0
+
+Get citation
+
+
+
+
+
+
+REVIEW PAPER
+
+
+ELEMENTS OF THE GALOIS THEORY IN CRYPTOGRAPHIC APPLICATIONS IN THE NATIONAL SECURITY SYSTEM
+
+
+
+
+
+Sławomir  WEREŃSKI
+
+
+    		1    		
+
+
+,
+ 
+
+
+
+Beata  SIEMIEŃSKA
+
+
+    		1    		
+
+
+ 
+
+ 
+
+ 
+More details
+Hide details
+
+
+
+
+1
+Uniwersytet Technologiczno-Humanistyczny w Radomiu
+ 
+
+
+
+
+ 
+Publication date: 2016-06-01
+ 
+
+
+
+
+
+
+
+ 
+SBN 2016;9(1): 359-387
+
+
+
+DOI: https://doi.org/10.37055/sbn/129834
+
+ 
+
+
+ 
+
+
+
+
+    				Article (PDF)
+
+
+
+
+References (31)
+
+ 
+
+KEYWORDS
+
+algebrasecurityalgebraic structurefinite fieldextended finite fieldGalois theorycryptography  
+
+ABSTRACT
+The work concerns the practical use of elements of the Galois theory in cryptographic applications in the aspect of national security. Therefore, the history of the birth of mathematics is presented, including the genesis of algebra and the meaning of this term. Then, a short description of the development of algebra in the abstract direction is presented and some elements of the classical Galois theory are discussed, which can be used in cryptographic implementations for the needs of national security and defense. Particular attention was paid to finite bodies and their extensions used to build encryption algorithms, and several WAT inventions based on solutions of this type were discussed.
+ 
+REFERENCES (31)
+
+
+
+1.
+
+Gawinecki J., Bora P., Jurkiewicz M., Zastosowanie krzywych eliptycznych do konstrukcjibezpiecznych algorytmów i protokołów kryptograficznych, XLIII KZM, Zakopane2014.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+2.
+
+Judson T.W., Abstract Algebra. Theory and Applications, Stephen F. Austin State University,2009.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+3.
+
+Kryptologia to nie biznes, to bezpieczeństwo, „Polska Zbrojna” nr 7 (807) lipiec 2013.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+4.
+
+Maj M., Siemieńska B., Kryptologia w aspekcie bezpieczeństwa państwa, WydawnictwoNaukowe Instytutu Technologii Eksploatacji Państwowego Instytutu Badawczego,Radom 2015.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+5.
+
+Misztal M., Prezentacja IMiK − projekty 2009-2014, WAT, Warszawa 2014.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+6.
+
+Mochnacki W., Kody korekcyjne i  kryptografia, Oficyna Wydawnicza PolitechnikiWrocławskiej, Wrocław 2000.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+7.
+
+Orkiszewski M., Wojciechowski T., Rawski M., System typu CoS do kryptoanalizyszyfrów opartych na krzywych eliptycznych, PAK, vol. 56, nr 7/2010, Politechnika Warszawska,Warszawa 2010.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+8.
+
+Siemieńska B., Podstawy teorii Galois, UTH, Radom 2015.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+9.
+
+Staszel A., Problemy społeczne, polityczne i  prawne. Zastosowanie metod matematycznychw  naukach społecznych, „Zeszyty Naukowe Uniwersytetu Ekonomicznegow Krakowie”, Kraków 2013, https://zeszyty-naukowe.uek.kr....
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+10.
+
+Szmidt J., Misztal M., Wstęp do kryptologii, WSISiZ, Warszawa 2004.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+11.
+
+Więsław W., Algebra w XX wieku. Rys historyczny, „Roczniki Polskiego TowarzystwaMatematycznego”, seria II: „Wiadomości Matematyczne” XL, Wrocław 2004.
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+12.
+
+http://e-handel.mm.com.pl/cryp...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+13.
+
+http://jaszczur.czn.uj.edu.pl/...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+14.
+
+http://jaszczur.czn.uj.edu.pl/....
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+15.
+
+http://jaszczur.czn.uj.edu.pl/...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+16.
+
+http://jknow.republika.pl/fizy...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+17.
+
+http://kierul.wordpress.com/20...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+18.
+
+http://slideplayer.pl/slide/42...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+19.
+
+http://www.gnosis.art.pl/e_gno...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+20.
+
+http://www.harcownik24.pl/2015...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+21.
+
+http://www.math.us.edu.pl/prac...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+22.
+
+http://www.math.us.edu.pl/prac...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+23.
+
+http://www.swiatmatematyki.pl/...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+24.
+
+https://pl.khanacademy.org/mat...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+25.
+
+https://www.google.pl/search?q...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+26.
+
+https://www.google.pl/search?q...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+27.
+
+http://www.gp24.pl/wiadomosci/...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+28.
+
+http://olsztyn.naszemiasto.pl/...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+29.
+
+https://www.cnbop.pl/wydawnict...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+30.
+
+https://repozytorium.umk.pl/bi...
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+31.
+
+www.google.pl/search?q=al-khwarizmi+algebra&tbm=isch&oq
+
+
+Google Scholar
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+		Submit your paper
+	
+
+
+			Archive		
+
+
+			For Authors		
+
+
+Share
+
+
+Send by email 
+
+
+
+
+
+
+
+
+
+
+
+
+ISSN:2082-2677 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2006-2024 Journal hosting platform by Bentus
+
+
+
+
+
+
+
+
+
+
+
+
+We process personal data collected when visiting the website. The function of obtaining information about users and their behavior is carried out by voluntarily entered information in forms and saving cookies in end devices. Data, including cookies, are used to provide services, improve the user experience and to analyze the traffic in accordance with the Privacy policy. Data are also collected and processed by Google Analytics tool (more).You can change cookies settings in your browser. Restricted use of cookies in the browser configuration may affect some functionalities of the website.
+
+
+
+		I agree
+	
+
+		I do not agree
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

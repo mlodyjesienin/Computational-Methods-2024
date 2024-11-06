@@ -1,0 +1,697 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2: Properties of Determinants - Mathematics LibreTexts
+
+
+
+     
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Table of Contents menu
+
+
+ 
+search Searchbuild_circle  Toolbarfact_check Homeworkcancel Exit Reader Mode
+
+
+ 
+
+
+school Campus Bookshelves
+menu_book Bookshelves
+perm_media Learning Objects
+
+
+login Login
+how_to_reg Request Instructor Account
+hub Instructor Commons
+
+
+
+
+Search
+
+Search this book 
+Submit Search
+
+ 
+
+
+x
+
+
+
+Text Color
+Reset
+ Bright Blues Gray Inverted
+
+
+
+
+
+Text Size
+Reset
++-
+ 
+
+
+
+
+
+
+Margin Size
+Reset
++-
+ 
+
+
+
+
+
+
+Font Type
+
+Enable Dyslexic Font  
+
+
+
+
+
+Downloads expand_more 
+
+
+Download Page (PDF) 
+Download Full Book (PDF) 
+
+
+
+Resources expand_more 
+
+
+Periodic Table 
+Physics Constants 
+Scientific Calculator
+
+
+
+Reference expand_more 
+
+
+Reference & Cite 
+
+
+
+Tools expand_more 
+
+
+
+
+
+Help expand_more 
+
+
+Get Help 
+Feedback 
+Readability 
+
+
+
+
+
+
+
+
+ 
+x
+
+selected template will load here
+
+
+
+
+
+
+
+Error
+
+
+This action is not available.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+chrome_reader_mode Enter Reader Mode
+
+
+
+
+3: DeterminantsA First Course in Linear Algebra (Kuttler){ }{ "3.01:_Basic_Techniques" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "3.02:_Properties_of_Determinants" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "3.03:_Finding_Determinants_using_Row_Operations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "3.04:_Applications_of_the_Determinant" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "3.E:_nExercises" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "01:_Systems_of_Equations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "02:_Matrices" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "03:_Determinants" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "04:_R" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "05:_Linear_Transformations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "06:_Complex_Numbers" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "07:_Spectral_Theory" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "08:_Some_Curvilinear_Coordinate_Systems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "09:_Vector_Spaces" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "10:_Some_Prerequisite_Topics" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass230_0.<PageSubPageProperty>b__1]()" }Sat, 17 Sep 2022 06:21:25 GMT3.2: Properties of Determinants1451114511admin{ }AnonymousAnonymous2falsefalse[ "article:topic", "Determinants", "Row Operations", "license:ccby", "showtoc:no", "authorname:kkuttler", "licenseversion:40", "source@https://lyryx.com/first-course-linear-algebra" ][ "article:topic", "Determinants", "Row Operations", "license:ccby", "showtoc:no", "authorname:kkuttler", "licenseversion:40", "source@https://lyryx.com/first-course-linear-algebra" ]https://math.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fmath.libretexts.org%2FBookshelves%2FLinear_Algebra%2FA_First_Course_in_Linear_Algebra_(Kuttler)%2F03%253A_Determinants%2F3.02%253A_Properties_of_Determinants
+
+
+
+
+
+
+
+
+
+
+
+
+Search site
+
+
+
+
+
+
+
+            Search
+        
+
+
+            Search
+        
+
+
+Go back to previous article
+
+
+
+
+
+
+
+Username
+
+
+
+Password
+
+
+Sign in
+
+
+
+
+
+Sign in
+
+
+
+                    Sign in
+                
+
+
+
+                    Forgot password
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Expand/collapse global hierarchy
+                
+
+
+
+
+                                    Home
+                            
+
+
+
+
+                                    Bookshelves
+                            
+
+
+
+
+                                    Linear Algebra
+                            
+
+
+
+
+                                    A First Course in Linear Algebra (Kuttler)
+                            
+
+
+
+
+                                    3: Determinants
+                            
+
+
+
+                            3.2: Properties of Determinants
+                        
+
+
+                    Expand/collapse global location
+                
+
+
+
+
+
+
+ 
+
+
+
+
+        3.2: Properties of Determinants
+
+
+
+Last updated
+
+
+
+
+
+
+Save as PDF
+
+
+
+
+
+
+Page ID14511
+
+
+
+
+Ken KuttlerBrigham Young University via Lyryx
+
+
+
+
+
+
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+
+
+
+
+
+Properties of Determinants I: ExamplesDefinition \(\PageIndex{1}\):  Row Operations Theorem \(\PageIndex{1}\):  Switching Rows Example \(\PageIndex{1}\):  Switching Two Rows SolutionTheorem \(\PageIndex{2}\):  Multiplying a Row by a Scalar Theorem \(\PageIndex{3}\):  Scalar Multiplication Example \(\PageIndex{2}\):  Multiplying a Row by 5 SolutionTheorem \(\PageIndex{4}\):  Adding a Multiple of a Row to Another Row Example \(\PageIndex{3}\):  Adding a Row to Another Row SolutionExample \(\PageIndex{4}\):  Multiple of a Row SolutionTheorem \(\PageIndex{5}\):  Determinant of a Product Example \(\PageIndex{5}\):  The Determinant of a Product SolutionTheorem \(\PageIndex{6}\):  Determinant of the Transpose Example \(\PageIndex{6}\):  Determinant of the Transpose SolutionTheorem \(\PageIndex{7}\):  Determinant of the Inverse Example \(\PageIndex{7}\):  Determinant of an Invertible Matrix SolutionProperties of Determinants II: Some Important ProofsExample \(\PageIndex{8}\):  Lemma \(\PageIndex{1}\):  Lemma \(\PageIndex{2}\):  Theorem \(\PageIndex{8}\):  Theorem \(\PageIndex{9}\):  Theorem \(\PageIndex{10}\):  Theorem \(\PageIndex{11}\):  
+
+
+
+Properties of Determinants I: Examples
+There are many important properties of determinants. Since many of these properties involve the row operations discussed in Chapter 1, we recall that definition now.
+
+Definition \(\PageIndex{1}\):  Row Operations 
+The row operations consist of the following
+
+Switch two rows.
+Multiply a row by a nonzero number.
+Replace a row by a multiple of another row added to itself.
+
+
+We will now consider the effect of row operations on the determinant of a matrix. In future sections, we will see that using the following properties can greatly assist in finding determinants. This section will use the theorems as motivation to provide various examples of the usefulness of the properties.
+The first theorem explains the affect on the determinant of a matrix when two rows are switched.
+
+Theorem \(\PageIndex{1}\):  Switching Rows 
+Let \(A\) be an \(n\times n\) matrix and let \(B\) be a matrix which results from switching two rows of \(A.\) Then \(\det \left( B\right) = - \det \left( A\right) .\)
+
+When we switch two rows of a matrix, the determinant is multiplied by \(-1\). Consider the following example.
+
+Example \(\PageIndex{1}\):  Switching Two Rows 
+Let \(A=\left[ \begin{array}{rr} 1 & 2 \\ 3 & 4 \end{array} \right]\) and let \(B=\left[ \begin{array}{rr} 3 & 4 \\ 1 & 2 \end{array} \right]\). Knowing that \(\det \left( A \right) =-2\), find \(\det \left( B \right)\).
+Solution
+By Definition 3.1.1, \(\det \left(A\right) = 1 \times 4 - 3 \times 2 = -2\). Notice that the rows of \(B\) are the rows of \(A\) but switched. By Theorem \(\PageIndex{1}\) since two rows of \(A\) have been switched, \(\det \left(B\right) = - \det \left(A\right) = - \left(-2\right) = 2\). You can verify this using Definition 3.1.1.
+
+The next theorem demonstrates the effect on the determinant of a matrix when we multiply a row by a scalar.
+
+Theorem \(\PageIndex{2}\):  Multiplying a Row by a Scalar 
+Let \(A\) be an \(n\times n\) matrix and let \(B\) be a matrix which results from multiplying some row of \(A\) by a scalar \(k\). Then \(\det \left( B\right) = k \det \left( A\right)\).
+
+Notice that this theorem is true when we multiply one row of the matrix by \(k\). If we were to multiply two rows of \(A\) by \(k\) to obtain \(B\), we would have \(\det \left(B\right) = k^2 \det \left(A\right)\). Suppose we were to multiply all \(n\) rows of \(A\) by \(k\) to obtain the matrix \(B\), so that \(B = kA\). Then, \(\det \left(B\right) = k^n \det \left(A\right)\). This gives the next theorem.
+
+Theorem \(\PageIndex{3}\):  Scalar Multiplication 
+Let \(A\) and \(B\) be \(n \times n\) matrices and \(k\) a scalar, such that \(B = kA\). Then \(\det(B) = k^n \det(A)\).
+
+Consider the following example.
+
+Example \(\PageIndex{2}\):  Multiplying a Row by 5 
+Let \(A=\left[ \begin{array}{rr} 1 & 2 \\ 3 & 4 \end{array} \right] ,\ B=\left[ \begin{array}{rr} 5 & 10 \\ 3 & 4 \end{array} \right] .\) Knowing that \(\det \left( A \right) =-2\), find \(\det \left( B \right)\).
+Solution
+By Definition 3.1.1, \(\det \left( A\right) =-2.\) We can also compute \(\det \left(B\right)\) using Definition 3.1.1, and we see that \(\det \left(B\right) = -10\).
+Now, let’s compute \(\det \left(B\right)\) using Theorem \(\PageIndex{2}\) and see if we obtain the same answer. Notice that the first row of \(B\) is \(5\) times the first row of \(A\), while the second row of \(B\) is equal to the second row of \(A\). By Theorem \(\PageIndex{2}\), \(\det \left( B \right) = 5 \times \det \left( A \right) = 5 \times -2 = -10.\)
+You can see that this matches our answer above.
+
+Finally, consider the next theorem for the last row operation, that of adding a multiple of a row to another row.
+
+Theorem \(\PageIndex{4}\):  Adding a Multiple of a Row to Another Row 
+Let \(A\) be an \(n\times n\) matrix and let \(B\) be a matrix which results from adding a multiple of a row to another row. Then \(\det \left( A\right) =\det \left( B \right)\).
+
+Therefore, when we add a multiple of a row to another row, the determinant of the matrix is unchanged. Note that if a matrix \(A\) contains a row which is a multiple of another row, \(\det \left(A\right)\) will equal \(0\). To see this, suppose the first row of \(A\) is equal to \(-1\) times the second row. By Theorem \(\PageIndex{4}\), we can add the first row to the second row, and the determinant will be unchanged. However, this row operation will result in a row of zeros. Using Laplace Expansion along the row of zeros, we find that the determinant is \(0\).
+Consider the following example.
+
+Example \(\PageIndex{3}\):  Adding a Row to Another Row 
+Let \(A=\left[ \begin{array}{rr} 1 & 2 \\ 3 & 4 \end{array} \right]\) and let \(B=\left[ \begin{array}{rr} 1 & 2 \\ 5 & 8 \end{array} \right] .\) Find \(\det \left(B\right)\).
+Solution
+By Definition 3.1.1, \(\det \left(A\right) = -2\). Notice that the second row of \(B\) is two times the first row of \(A\) added to the second row. By Theorem \(\PageIndex{1}\), \(\det \left( B\right) = \det \left( A \right) =-2\). As usual, you can verify this answer using Definition 3.1.1.
+
+
+Example \(\PageIndex{4}\):  Multiple of a Row 
+Let \(A = \left[ \begin{array}{rr} 1 & 2 \\ 2 & 4 \end{array} \right]\). Show that \(\det \left( A \right) = 0\).
+Solution
+Using Definition 3.1.1, the determinant is given by \[\det \left( A \right) = 1 \times 4 - 2 \times 2 = 0\nonumber \]
+However notice that the second row is equal to \(2\) times the first row. Then by the discussion above following Theorem \(\PageIndex{4}\) the determinant will equal \(0\).
+
+Until now, our focus has primarily been on row operations. However, we can carry out the same operations with columns, rather than rows. The three operations outlined in Definition \(\PageIndex{1}\) can be done with columns instead of rows. In this case, in Theorems \(\PageIndex{1}\), \(\PageIndex{2}\), and \(\PageIndex{4}\) you can replace the word, "row" with the word "column".
+There are several other major properties of determinants which do not involve row (or column) operations. The first is the determinant of a product of matrices.
+
+Theorem \(\PageIndex{5}\):  Determinant of a Product 
+Let \(A\) and \(B\) be two \(n\times n\) matrices. Then \[\det \left( AB\right) =\det \left( A\right) \det \left( B\right)\nonumber \]
+
+In order to find the determinant of a product of matrices, we can simply take the product of the determinants.
+Consider the following example.
+
+Example \(\PageIndex{5}\):  The Determinant of a Product 
+Compare \(\det \left( AB\right)\) and \(\det \left( A\right) \det \left( B\right)\) for \[A=\left[ \begin{array}{rr} 1 & 2 \\ -3 & 2 \end{array} \right] ,B=\left[ \begin{array}{rr} 3 & 2 \\ 4 & 1 \end{array} \right]\nonumber \]
+Solution
+First compute \(AB\), which is given by \[AB=\left[ \begin{array}{rr} 1 & 2 \\ -3 & 2 \end{array} \right] \left[ \begin{array}{rr} 3 & 2 \\ 4 & 1 \end{array} \right] = \left[ \begin{array}{rr} 11 & 4 \\ -1 & -4 \end{array} \right]\nonumber \] and so by Definition 3.1.1 \[\det \left( AB\right) =\det \left[ \begin{array}{rr} 11 & 4 \\ -1 & -4 \end{array} \right] = -40\nonumber \]
+Now \[\det \left( A\right) =\det \left[ \begin{array}{rr} 1 & 2 \\ -3 & 2 \end{array} \right] = 8\nonumber \] and \[\det \left( B\right) =\det \left[ \begin{array}{rr} 3 & 2 \\ 4 & 1 \end{array} \right] = -5\nonumber \]
+Computing \(\det \left(A\right) \times \det \left(B\right)\) we have \(8 \times -5 = -40\). This is the same answer as above and you can see that \(\det \left( A\right) \det \left( B\right) =8\times \left( -5\right) =-40 = \det \left(AB\right)\).
+
+Consider the next important property.
+
+Theorem \(\PageIndex{6}\):  Determinant of the Transpose 
+Let \(A\) be a matrix where \(A^T\) is the transpose of \(A\). Then, \[\det\left(A^T\right) = \det \left( A \right)\nonumber \]
+
+This theorem is illustrated in the following example.
+
+Example \(\PageIndex{6}\):  Determinant of the Transpose 
+Let \[A = \left[ \begin{array}{rr} 2 & 5 \\ 4 & 3 \end{array} \right]\nonumber \] Find \(\det \left(A^T\right)\).
+Solution
+First, note that \[A^{T} = \left[ \begin{array}{rr} 2 & 4 \\ 5 & 3 \end{array} \right]\nonumber \]
+Using Definition 3.1.1, we can compute \(\det \left(A\right)\) and \(\det \left(A^T\right)\). It follows that \(\det \left(A\right) = 2 \times 3 - 4 \times 5 = -14\) and \(\det \left(A^T\right) = 2 \times 3 - 5 \times 4 = -14\). Hence, \(\det \left(A\right) = \det \left(A^T\right)\).
+
+The following provides an essential property of the determinant, as well as a useful way to determine if a matrix is invertible.
+
+Theorem \(\PageIndex{7}\):  Determinant of the Inverse 
+Let \(A\) be an \(n \times n\) matrix. Then \(A\) is invertible if and only if \(\det(A) \neq 0\). If this is true, it follows that \[\det(A^{-1}) = \frac{1}{\det(A)}\nonumber \]
+
+Consider the following example.
+
+Example \(\PageIndex{7}\):  Determinant of an Invertible Matrix 
+Let \(A = \left[ \begin{array}{rr} 3 & 6 \\ 2 & 4 \end{array} \right], B = \left[ \begin{array}{rr} 2 & 3 \\ 5 & 1 \end{array} \right]\). For each matrix, determine if it is invertible. If so, find the determinant of the inverse.
+Solution
+Consider the matrix \(A\) first. Using Definition 3.1.1 we can find the determinant as follows: \[\det \left( A \right) = 3 \times 4 - 2 \times 6 = 12 - 12 = 0\nonumber \] By Theorem \(\PageIndex{7}\) \(A\) is not invertible.
+Now consider the matrix \(B\). Again by Definition 3.1.1 we have \[\det \left( B \right) = 2 \times 1 - 5 \times 3 = 2 - 15 = -13\nonumber \] By Theorem \(\PageIndex{7}\) \(B\) is invertible and the determinant of the inverse is given by \[\begin{aligned} \det \left( A^{-1} \right) &= \frac{1}{\det(A)} \\ &= \frac{1}{-13} \\ &= -\frac{1}{13}\end{aligned}\]
+
+Properties of Determinants II: Some Important Proofs
+This section includes some important proofs on determinants and cofactors.
+First we recall the definition of a determinant. If \(A=\left[ a_{ij} \right]\) is an \(n\times n\) matrix, then \(\det A\) is defined by computing the expansion along the first row: \[\label{E1} \det A=\sum_{i=1}^n a_{1,i} \mathrm{cof}(A)_{1,i}.\] If \(n=1\) then \(\det A=a_{1,1}\).
+The following example is straightforward and strongly recommended as a means for getting used to definitions.
+
+Example \(\PageIndex{8}\):  
+(1) Let \(E_{ij}\) be the elementary matrix obtained by interchanging \(i\)th and \(j\)th rows of \(I\). Then \(\det E_{ij}=-1\).
+(2) Let \(E_{ik}\) be the elementary matrix obtained by multiplying the \(i\)th row of \(I\) by \(k\). Then \(\det E_{ik}=k\).
+(3) Let \(E_{ijk}\) be the elementary matrix obtained by multiplying \(i\)th row of \(I\) by \(k\) and adding it to its \(j\)th row. Then \(\det E_{ijk}=1\).
+(4) If \(C\) and \(B\) are such that \(CB\) is defined and the \(i\)th row of \(C\) consists of zeros, then the \(i\)th row of \(CB\) consists of zeros.
+(5) If \(E\) is an elementary matrix, then \(\det E=\det E^T\).
+
+Many of the proofs in section use the Principle of Mathematical Induction. This concept is discussed in Appendix A.2 and is reviewed here for convenience. First we check that the assertion is true for \(n=2\) (the case \(n=1\) is either completely trivial or meaningless).
+Next, we assume that the assertion is true for \(n-1\) (where \(n\geq 3\)) and prove it for \(n\). Once this is accomplished, by the Principle of Mathematical Induction we can conclude that the statement is true for all \(n\times n\) matrices for every \(n\geq 2\).
+If \(A\) is an \(n\times n\) matrix and \(1\leq j \leq n\), then the matrix obtained by removing \(1\)st column and \(j\)th row from \(A\) is an \(n-1\times n-1\) matrix (we shall denote this matrix by \(A(j)\) below). Since these matrices are used in computation of cofactors \(\mathrm{cof}(A)_{1,i}\), for \(1\leq i\neq n\), the inductive assumption applies to these matrices.
+Consider the following lemma.
+
+Lemma \(\PageIndex{1}\):  
+If \(A\) is an \(n\times n\) matrix such that one of its rows consists of zeros, then \(\det A=0\).
+
+Proof
+
+We will prove this lemma using Mathematical Induction.
+If \(n=2\) this is easy (check!).
+Let \(n\geq 3\) be such that every matrix of size \(n-1\times n-1\) with a row consisting of zeros has determinant equal to zero. Let \(i\) be such that the \(i\)th row of \(A\) consists of zeros. Then we have \(a_{ij}=0\) for \(1\leq j\leq n\).
+Fix \(j\in \{1,2, \dots ,n\}\) such that \(j\neq i\). Then matrix \(A(j)\) used in computation of \(\mathrm{cof}(A)_{1,j}\) has a row consisting of zeros, and by our inductive assumption \(\mathrm{cof}(A)_{1,j}=0\).
+On the other hand, if \(j=i\) then \(a_{1,j}=0\). Therefore \(a_{1,j}\mathrm{cof}(A)_{1,j}=0\) for all \(j\) and by \(\eqref{E1}\) we have \[\det A=\sum_{j=1}^n a_{1,j} \mathrm{cof}(A)_{1,j}=0\nonumber \] as each of the summands is equal to 0.
+
+
+
+
+Lemma \(\PageIndex{2}\):  
+Assume \(A\), \(B\) and \(C\) are \(n\times n\) matrices that for some \(1\leq i\leq n\) satisfy the following.
+
+\(j\)th rows of all three matrices are identical, for \(j\neq i\).
+Each entry in the \(j\)th row of \(A\) is the sum of the corresponding entries in \(j\)th rows of \(B\) and \(C\).
+
+Then \(\det A=\det B+\det C\).
+
+Proof
+
+This is not difficult to check for \(n=2\) (do check it!).
+Now assume that the statement of Lemma is true for \(n-1\times n-1\) matrices and fix \(A,B\) and \(C\) as in the statement. The assumptions state that we have \(a_{l,j}=b_{l,j}=c_{l,j}\) for \(j\neq i\) and for \(1\leq l\leq n\) and \(a_{l,i}=b_{l,i}+c_{l,i}\) for all \(1\leq l\leq n\). Therefore \(A(i)=B(i)=C(i)\), and \(A(j)\) has the property that its \(i\)th row is the sum of \(i\)th rows of \(B(j)\) and \(C(j)\) for \(j\neq i\) while the other rows of all three matrices are identical. Therefore by our inductive assumption we have \(\mathrm{cof}(A)_{1j}=\mathrm{cof}(B)_{1j}+\mathrm{cof}(C)_{1j}\) for \(j\neq i\).
+By \(\eqref{E1}\) we have (using all equalities established above) \[\begin{aligned} \det A&=\sum_{l=1}^n a_{1,l} \mathrm{cof}(A)_{1,l}\\ &=\sum_{l\neq i} a_{1,l}(\mathrm{cof}(B)_{1,l}+\mathrm{cof}(C)_{1,l})+ (b_{1,i}+c_{1,i})\mathrm{cof}(A)_{1,i}\\ &= \det B+\det C\end{aligned}\] This proves that the assertion is true for all \(n\) and completes the proof.
+
+
+
+
+Theorem \(\PageIndex{8}\):  
+Let \(A\) and \(B\) be \(n\times n\) matrices.
+
+If \(A\) is obtained by interchanging \(i\)th and \(j\)th rows of \(B\) (with \(i\neq j\)), then \(\det A=-\det B\).
+If \(A\) is obtained by multiplying \(i\)th row of \(B\) by \(k\) then \(\det A=k\det B\).
+If two rows of \(A\) are identical then \(\det A=0\).
+If \(A\) is obtained by multiplying \(i\)th row of \(B\) by \(k\) and adding it to \(j\)th row of \(B\) (\(i\neq j\)) then \(\det A=\det B\).
+
+
+Proof
+
+We prove all statements by induction. The case \(n=2\) is easily checked directly (and it is strongly suggested that you do check it).
+We assume \(n\geq 3\) and (1)–(4) are true for all matrices of size \(n-1\times n-1\).
+(1) We prove the case when \(j=i+1\), i.e., we are interchanging two consecutive rows.
+Let \(l\in \{1, \dots, n\}\setminus \{i,j\}\). Then \(A(l)\) is obtained from \(B(l)\) by interchanging two of its rows (draw a picture) and by our assumption \[\label{E2} \mathrm{cof}(A)_{1,l}=-\mathrm{cof}(B)_{1,l}.\]
+Now consider \(a_{1,i} \mathrm{cof}(A)_{1,l}\). We have that \(a_{1,i}=b_{1,j}\) and also that \(A(i)=B(j)\). Since \(j=i+1\), we have \[(-1)^{1+j}=(-1)^{1+i+1}=-(-1)^{1+i}\nonumber \] and therefore \(a_{1i}\mathrm{cof}(A)_{1i}=-b_{1j} \mathrm{cof}(B)_{1j}\) and \(a_{1j}\mathrm{cof}(A)_{1j}=-b_{1i} \mathrm{cof}(B)_{1i}\). Putting this together with \(\eqref{E2}\) into \(\eqref{E1}\) we see that if in the formula for \(\det A\) we change the sign of each of the summands we obtain the formula for \(\det B\). \[\det A=\sum_{l=1}^n a_{1l}\mathrm{cof}(A)_{1l} =-\sum_{l=1}^n b_{1l} B_{1l} =\det B.\nonumber \]
+We have therefore proved the case of (1) when \(j=i+1\). In order to prove the general case, one needs the following fact. If \(i<j\), then in order to interchange \(i\)th and \(j\)th row one can proceed by interchanging two adjacent rows \(2(j-i)+1\) times: First swap \(i\)th and \(i+1\)st, then \(i+1\)st and \(i+2\)nd, and so on. After one interchanges \(j-1\)st and \(j\)th row, we have \(i\)th row in position of \(j\)th and \(l\)th row in position of \(l-1\)st for \(i+1\leq l\leq j\). Then proceed backwards swapping adjacent rows until everything is in place.
+Since \(2(j-i)+1\) is an odd number \((-1)^{2(j-i)+1}=-1\) and we have that \(\det A=-\det B\).
+(2) This is like (1)… but much easier. Assume that (2) is true for all \(n-1\times n-1\) matrices. We have that \(a_{ji}=k b_{ji}\) for \(1\leq j\leq n\). In particular \(a_{1i}=kb_{1i}\), and for \(l\neq i\) matrix \(A(l)\) is obtained from \(B(l)\) by multiplying one of its rows by \(k\). Therefore \(\mathrm{cof}(A)_{1l}=k\mathrm{cof}(B)_{1l}\) for \(l\neq i\), and for all \(l\) we have \(a_{1l} \mathrm{cof}(A)_{1l}=k b_{1l}\mathrm{cof}(B)_{1l}\). By \(\eqref{E1}\), we have \(\det A=k\det B\).
+(3) This is a consequence of (1). If two rows of \(A\) are identical, then \(A\) is equal to the matrix obtained by interchanging those two rows and therefore by (1) \(\det A=-\det A\). This implies \(\det A=0\).
+(4) Assume (4) is true for all \(n-1\times n-1\) matrices and fix \(A\) and \(B\) such that \(A\) is obtained by multiplying \(i\)th row of \(B\) by \(k\) and adding it to \(j\)th row of \(B\) (\(i\neq j\)) then \(\det A=\det B\). If \(k=0\) then \(A=B\) and there is nothing to prove, so we may assume \(k\neq 0\).
+Let \(C\) be the matrix obtained by replacing the \(j\)th row of \(B\) by the \(i\)th row of \(B\) multiplied by \(k\). By Lemma \(\PageIndex{2}\), we have that \[\det A=\det B+\det C\nonumber \] and we ‘only’ need to show that \(\det C=0\). But \(i\)th and \(j\)th rows of \(C\) are proportional. If \(D\) is obtained by multiplying the \(j\)th row of \(C\) by \(\frac 1k\) then by (2) we have \(\det C=\frac 1k\det D\) (recall that \(k\neq 0\)!). But \(i\)th and \(j\)th rows of \(D\) are identical, hence by (3) we have \(\det D=0\) and therefore \(\det C=0\).
+
+
+
+
+Theorem \(\PageIndex{9}\):  
+Let \(A\) and \(B\) be two \(n\times n\) matrices. Then \[\det \left( AB\right) =\det \left( A\right) \det \left( B\right)\nonumber \]
+
+Proof
+
+If \(A\) is an elementary matrix of either type, then multiplying by \(A\) on the left has the same effect as performing the corresponding elementary row operation. Therefore the equality \(\det (AB) =\det A\det B\) in this case follows by Example \(\PageIndex{8}\) and Theorem \(\PageIndex{8}\).
+If \(C\) is the reduced row-echelon form of \(A\) then we can write \(A=E_1\cdot E_2\cdot\dots\cdot E_m\cdot C\) for some elementary matrices \(E_1,\dots, E_m\).
+Now we consider two cases.
+Assume first that \(C=I\). Then \(A=E_1\cdot E_2\cdot \dots\cdot E_m\) and \(AB= E_1\cdot E_2\cdot \dots\cdot E_m B\). By applying the above equality \(m\) times, and then \(m-1\) times, we have that \[\begin{aligned} \det AB&=\det E_1\det E_2\cdot \det E_m\cdot \det B\\ &=\det (E_1\cdot E_2\cdot\dots\cdot E_m) \det B\\ &=\det A\det B. \end{aligned}\]
+Now assume \(C\neq I\). Since it is in reduced row-echelon form, its last row consists of zeros and by (4) of Example \(\PageIndex{8}\) the last row of \(CB\) consists of zeros. By Lemma \(\PageIndex{1}\) we have \(\det C=\det (CB)=0\) and therefore \[\det A=\det (E_1\cdot E_2\cdot E_m)\cdot \det (C) = \det (E_1\cdot E_2\cdot E_m)\cdot 0=0\nonumber \] and also \[\det AB=\det (E_1\cdot E_2\cdot E_m)\cdot \det (C B) =\det (E_1\cdot E_2\cdot\dots\cdot E_m) 0 =0\nonumber \] hence \(\det AB=0=\det A \det B\).
+
+
+
+The same ‘machine’ used in the previous proof will be used again.
+
+Theorem \(\PageIndex{10}\):  
+Let \(A\) be a matrix where \(A^T\) is the transpose of \(A\). Then, \[\det\left(A^T\right) = \det \left( A \right)\nonumber \]
+
+Proof
+
+Note first that the conclusion is true if \(A\) is elementary by (5) of Example \(\PageIndex{8}\).
+Let \(C\) be the reduced row-echelon form of \(A\). Then we can write \(A= E_1\cdot E_2\cdot \dots\cdot E_m C\). Then \(A^T=C^T\cdot E_m^T\cdot \dots \cdot E_2^T\cdot E_1\). By Theorem \(\PageIndex{9}\) we have \[\det (A^T)=\det (C^T)\cdot \det (E_m^T)\cdot \dots \cdot \det (E_2^T)\cdot \det(E_1).\nonumber \] By (5) of Example \(\PageIndex{8}\) we have that \(\det E_j=\det E_j^T\) for all \(j\). Also, \(\det C\) is either 0 or 1 (depending on whether \(C=I\) or not) and in either case \(\det C=\det C^T\). Therefore \(\det A=\det A^T\).
+
+
+
+The above discussions allow us to now prove Theorem 3.1.1. It is restated below.
+
+Theorem \(\PageIndex{11}\):  
+Expanding an \(n\times n\) matrix along any row or column always gives the same result, which is the determinant.
+
+Proof
+
+We first show that the determinant can be computed along any row. The case \(n=1\) does not apply and thus let \(n \geq 2\).
+Let \(A\)be an \(n\times n\) matrix and fix \(j>1\). We need to prove that \[\det A=\sum_{i=1}^n a_{j,i} \mathrm{cof}(A)_{j,i}.\nonumber \] Let us prove the case when \(j=2\).
+Let \(B\) be the matrix obtained from \(A\) by interchanging its \(1\)st and \(2\)nd rows. Then by Theorem \(\PageIndex{8}\) we have \[\det A=-\det B.\nonumber\] Now we have \[\det B=\sum_{i=1}^n b_{1,i} \mathrm{cof}(B)_{1,i}.\nonumber \] Since \(B\) is obtained by interchanging the \(1\)st and \(2\)nd rows of \(A\) we have that \(b_{1,i}=a_{2,i}\) for all \(i\) and one can see that \(minor(B)_{1,i}=minor(A)_{2,i}\).
+Further, \[\mathrm{cof}(B)_{1,i}=(-1)^{1+i} minor B_{1,i}=- (-1)^{2+i} minor (A)_{2,i} = - \mathrm{cof}(A)_{2,i}\nonumber \] hence \(\det B=-\sum_{i=1}^n a_{2,i} \mathrm{cof}(A)_{2,i}\), and therefore \(\det A=-\det B= \sum_{i=1}^n a_{2,i} \mathrm{cof}(A)_{2,i}\) as desired.
+The case when \(j>2\) is very similar; we still have \(minor(B)_{1,i}=minor (A)_{j,i}\) but checking that \(\det B=-\sum_{i=1}^n a_{j,i} \mathrm{cof}(A)_{j,i}\) is slightly more involved.
+Now the cofactor expansion along column \(j\) of \(A\) is equal to the cofactor expansion along row \(j\) of \(A^T\), which is by the above result just proved equal to the cofactor expansion along row 1 of \(A^T\), which is equal to the cofactor expansion along column \(1\) of \(A\). Thus the cofactor cofactor along any column yields the same result.
+Finally, since \(\det A=\det A^T\) by Theorem \(\PageIndex{10}\), we conclude that the cofactor expansion along row \(1\) of \(A\) is equal to the cofactor expansion along row \(1\) of \(A^T\), which is equal to the cofactor expansion along column \(1\) of \(A\). Thus the proof is complete.
+
+
+
+
+
+This page titled 3.2: Properties of Determinants is shared under a CC BY  4.0  license and was authored, remixed, and/or curated by Ken Kuttler (Lyryx)  via source content that was edited to the style and standards of the LibreTexts platform; a detailed edit history is available upon request.
+
+
+
+
+
+
+
+
+Back to top
+
+
+3.1: Basic Techniques
+
+
+3.3: Finding Determinants using Row Operations
+
+
+
+
+Was this article helpful?YesNo
+Recommended articles
+
+
+
+
+ 
+Article type
+Section or Page
+
+
+Author
+Ken Kuttler
+
+
+License
+CC BY
+
+
+License Version
+4.0
+
+
+Show Page TOC
+no
+
+
+
+Tags
+
+
+ Determinants
+ Row Operations
+ source@https://lyryx.com/first-course-linear-algebra
+
+
+
+
+
+
+
+
+
+
+© Copyright 2024 Mathematics LibreTexts
+
+   Powered by CXone Expert
+   ®
+
+
+
+
+
+
+
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal. Accessibility Statement For more information contact us at info@libretexts.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

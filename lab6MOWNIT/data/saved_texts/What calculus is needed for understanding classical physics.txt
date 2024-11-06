@@ -1,0 +1,1158 @@
+
+
+
+
+
+
+
+
+What calculus is needed for understanding classical physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insights Blog
+
+
+
+-- Browse All Articles --
+Physics Articles
+Physics Tutorials
+Physics Guides
+Physics FAQ
+Math Articles
+Math Tutorials
+Math Guides
+Math FAQ
+Education Articles
+Education Guides
+Bio/Chem Articles
+Technology Guides
+Computer Science Tutorials
+
+
+
+
+
+
+Forums
+
+
+
+Science and Math Textbooks
+STEM Educators and Teaching
+STEM Academic Advising
+STEM Career Guidance
+
+
+
+
+
+
+Trending
+
+
+
+
+Featured Threads
+
+
+
+
+
+
+
+
+Log in
+
+
+Register
+
+
+
+
+
+What's new
+
+
+
+Search
+
+
+
+Search
+
+
+
+
+Everywhere
+Threads
+This forum
+This thread
+
+
+
+
+Search titles only
+
+
+
+
+
+
+By:
+
+
+
+
+
+Search
+Advanced search…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Science and Math Textbooks
+
+
+
+
+STEM Educators and Teaching
+
+
+
+
+STEM Academic Advising
+
+
+
+
+STEM Career Guidance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Log in
+
+
+
+
+
+Register
+
+
+
+
+Navigation
+
+More options
+
+Contact us
+
+
+Close Menu
+
+
+
+
+
+
+JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+
+
+
+
+
+
+
+Forums
+
+
+
+
+
+Science Education and Careers
+
+
+
+
+
+STEM Academic Advising
+
+
+
+
+
+
+
+
+What calculus is needed for understanding classical physics
+
+
+
+
+
+
+
+
+
+Thread starter
+Quantum Velocity
+
+
+
+Start date
+May 9, 2017
+
+
+
+
+
+Tags
+
+
+
+
+Calculus
+
+
+Classical
+
+
+Classical physics
+
+
+Physics
+
+
+
+
+
+
+
+
+
+In summary, calculus is a branch of mathematics that deals with the study of change and is essential for understanding classical physics. It involves the use of limits, derivatives, and integrals to analyze and solve problems related to rates of change and accumulation. The main concepts of calculus used in classical physics are derivatives, integrals, and differential equations. While a basic understanding of calculus is necessary to fully comprehend and apply the principles of classical physics, one does not need to be an expert in calculus. Some specific calculus techniques that are particularly useful for classical physics include the chain rule, product rule, and integration by parts. These techniques allow for the manipulation and simplification of equations, making problem-solving more efficient and accurate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 9, 2017
+
+
+
+
+
+
+
+
+
+#1
+
+
+
+
+
+
+
+
+Quantum Velocity
+
+
+
+
+
+73
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey guy, I'm a just new in physics and i want to self-teaching it. But i don't know what calculus i need for classical mechanic. Pleas help!
+And if you suggest me a book can you pleas help to send me a link (and the book must be in pdf pleas)
+
+Thank
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics news on Phys.org
+
+New technique could help build quantum computers of the future
+A strikingly natural coincidence: Researchers find heating gallium nitride and magnesium forms a superlattice
+New plasma escape mechanism could protect fusion vessels from excessive heat
+
+
+
+
+
+
+
+
+
+May 9, 2017
+
+
+
+
+
+
+
+
+
+#2
+
+
+
+
+
+
+
+
+
+DrClaude
+
+
+ Mentor
+
+
+
+
+
+
+8,417
+
+
+
+5,547
+
+
+
+
+
+
+
+
+
+
+
+The Khan Academy is a good free resource: https://www.khanacademy.org/math/calculus-home
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 9, 2017
+
+
+
+
+
+
+
+
+
+#3
+
+
+
+
+
+
+
+
+
+Quantum Velocity
+
+
+
+
+
+73
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 10, 2017
+
+
+
+
+
+
+
+
+
+#4
+
+
+
+
+
+
+
+
+
+gleem
+
+
+ Science Advisor
+
+
+ Education Advisor
+
+
+
+
+
+
+2,457
+
+
+
+1,909
+
+
+
+
+
+
+
+
+
+
+
+For classical mechanics differential equation is more relevant and not covered in the Calculus until the very end.
+https://www.khanacademy.org/math/differential-equations
+
+but can be perused after the introduction to differential Calculus.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related to What calculus is needed for understanding classical physics
+
+What is calculus?Calculus is a branch of mathematics that deals with the study of change. It involves the use of limits, derivatives, and integrals to analyze and solve problems related to rates of change and accumulation.Why is calculus important for understanding classical physics?Calculus is essential for understanding classical physics because it provides a mathematical framework for analyzing and describing the motion of objects and the forces acting on them. Calculus is used to calculate quantities such as velocity, acceleration, and momentum, which are crucial in classical physics.What are the main concepts of calculus that are used in classical physics?The main concepts of calculus used in classical physics include derivatives, integrals, and differential equations. Derivatives are used to calculate rates of change and slopes of curves, while integrals are used to calculate the total change or accumulation of a quantity over a given interval. Differential equations are used to describe the relationship between a quantity and its rate of change.Do I need to be an expert in calculus to understand classical physics?No, you do not need to be an expert in calculus to understand classical physics. However, a basic understanding of calculus concepts is necessary to fully comprehend and apply the principles and equations of classical physics. With practice and application, the concepts of calculus can become more intuitive to understand.Are there any specific calculus techniques that are particularly useful for classical physics?Yes, there are several calculus techniques that are particularly useful for classical physics. These include the chain rule, product rule, and integration by parts. These techniques allow for the manipulation and simplification of equations in classical physics, making problem-solving more efficient and accurate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post reply
+
+
+
+
+Insert quotes…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Similar threads
+
+
+
+
+
+Is this a good self-study program?
+
+
+
+Apr 4, 2024
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+16
+
+
+Views
+707
+
+
+
+
+
+
+Introduction to Modern Astrophysics -- What are the prerequisites?
+
+
+
+Sep 27, 2023
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+2
+
+
+Views
+1K
+
+
+
+
+
+
+Courses
+Algebra or Calculus based physics to start with?
+
+
+
+Jan 1, 2024
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+5
+
+
+Views
+955
+
+
+
+
+
+
+Looking for Online Calculus-based Physics Courses with Lab Component
+
+
+
+Mar 27, 2024
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+2
+
+
+Views
+698
+
+
+
+
+
+
+Studying
+What is the order to learn physics?
+
+
+
+Jun 7, 2017
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+1
+
+
+Views
+2K
+
+
+
+
+
+
+Self-teaching Physics 1, 2, and 3 using MIT Open Courseware
+
+
+
+Jul 30, 2023
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+20
+
+
+Views
+2K
+
+
+
+
+
+
+Studying
+Do I need to learn more math as a physics autodidact?
+
+
+
+May 12, 2022
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+3
+
+
+Views
+1K
+
+
+
+
+
+
+Studying
+Modern physics after quantum mechanics
+
+
+
+Jun 18, 2021
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+5
+
+
+Views
+1K
+
+
+
+
+
+
+Calculus, it's personal for me
+
+
+
+Oct 21, 2023
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+4
+
+
+Views
+1K
+
+
+
+
+
+
+Studying
+Should I first study the math or math and physics at the same time?
+
+
+
+Sep 25, 2023
+STEM Academic Advising
+
+
+
+
+
+
+
+Replies
+9
+
+
+Views
+3K
+
+
+
+
+
+
+
+
+
+Share:
+
+
+
+Share
+
+
+
+
+
+
+
+
+Forums
+
+
+
+
+
+Science Education and Careers
+
+
+
+
+
+STEM Academic Advising
+
+
+
+
+
+
+
+
+
+
+
+Hot Threads
+
+
+
+
+
+Good textbook(s) for self-studying Quantum Physics
+
+
+
+
+
+
+
+
+Expressing Neurodivergency Obstacle in Grad School Personal Statements
+
+
+
+
+
+
+
+
+Schools Which University should I go to for my undergrad in physics?
+
+
+
+
+
+
+
+
+Other What's the point of a thesis?
+
+
+
+
+
+
+
+
+Admissions Need advice for Low GPA / Good Research / HEPth PhD application
+
+
+
+
+
+
+
+
+
+Recent Insights
+
+
+
+
+
+Insights Views On Complex Numbers
+
+
+
+
+
+
+
+
+Insights Addition of Velocities (Velocity Composition) in Special Relativity
+
+
+
+
+
+
+
+
+Insights Schrödinger’s Cat and the Qbit
+
+
+
+
+
+
+
+
+Insights The Slinky Drop Experiment Analysed
+
+
+
+
+
+
+
+
+Insights How to Solve a Multi-Atwood Machine Assembly
+
+
+
+
+
+
+
+
+Insights The Lambert W Function in Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Change width
+
+
+
+
+
+Contact
+About
+Terms
+Privacy
+Help
+RSS
+
+
+
+
+
+
+
+
+
+2024 © Physics Forums, All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+Back
+
+
+Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

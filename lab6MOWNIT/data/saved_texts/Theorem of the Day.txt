@@ -1,0 +1,129 @@
+
+
+
+
+Theorem of the Day
+
+
+
+
+
+
+
+
+
+
+ 
+Theorem 
+        of the Day  
+ 
+ 
+
+
+
+
+
+
+ Home
+  
+Resources Centre
+  
+Gallery Shop
+   
+Acknowledgements 
+ 
+ 
+
+
+ Other listings
+
+ Subject Listings 
+
+ Complete Theorem Listing 
+
+ Alphabetical Theorem List 
+
+ Index 
+                  of Mathematicians   
+
+ Theorems 
+                  by Women Mathematicians   
+
+
+
+
+Theorem of the Day 
+      is maintained by Robin Whitty. Comments or suggestions are welcomed by me.
+	  "Theorem of the Day" is registered as a UK Trademark, no. 00003123351. All text and images and 
+    associated .pdf files © Robin Whitty, 2005–2024, except where otherwise 
+    acknowledged. See FAQ 
+    for more.
+	Website terms and conditions
+
+
+
+
+
+
+ Theorems from Number Theory (MSC2010: 11)   
+This is a subset of the complete theorem list  for the convenience of those who are looking for a particular result in number theory. 
+        
+
+Numbers in brackets are those from the complete listing.
+
+  Euclid's Infinity of Primes (4)
+  The Chinese Remainder Theorem (5)
+  The Fundamental Theorem of Arithmetic (7)
+  Fermat's Last Theorem (9)
+ Lagrange's Four Squares Theorem (11)
+ Fermat's Little Theorem (13)
+  Brun's Theorem (21)
+  Gauss's Law of Quadratic Reciprocity (29)
+ The Green–Tao Theorem on Primes in Arithmetic Progression (32)
+  The Prime Number Theorem (33)
+  The DPRM Theorem (43)
+  Germain's Theorem (59)
+  The Three-Distance Theorem (78)
+  The Fifteen Theorem (79)
+  The Lutz–Nagell Theorem (81)
+  Lamé's Theorem (87)
+  Khinchin's Theorem on Continued Fractions (91)
+ The Hardy–Ramanujan Asymptotic Partition Formula (115)
+  Catalan's Conjecture (Mihăilescu's Theorem)  (118)
+  The Lucas–Lehmer Test  (127)
+ The Euclid–Euler Theorem  (128)
+  Wallis's Product  (137)
+ Vaughan Pratt's Theorem  (138)
+ The Short Prime Gaps Theorem  (151)
+ Euler's Partition Identity  (153)
+ The Lecture Hall Partition Theorem  (156)
+ Quadratic Nonresidue is Zero-Knowledge Provable  (161)
+ The Andrews-Garvan-Dyson Crank (172)
+ The Ramanujan Partition Congruences  (173)
+ The Bungers–Lehmer Theorem on Cyclotomic Coefficients  (175)
+ Wilson's Theorem (194)
+ The Robin–Lagarias Theorem (197)
+ Fermat's Two-Squares Theorem  (199)
+ The Friedlander–Iwaniec Theorem  (202)
+ Euler's Continued Fraction Correspondence (203)
+ The Eratosthenes–Legendre Sieve (207)
+The Basel Problem  (210)
+Willans' Formula  (211)
+Faulhaber's Formula  (222)
+Wolstenholme's Theorem  (226)
+The Riemann Explicit Formula (232)
+Euler's Even Zeta Formula (238)
+The Large Prime Gaps Theorem (241)
+ A Theorem of Anderson, Cameron and Preece on Groups of Units (243)
+Euler's Product Formula for ζ(s)  (246)
+A Theorem about Gaussian Moats (248)
+Bézout's Identity (249)      
+Euclid's Pythagorean Formula (261)
+The Polygonal Number Theorem (262)
+Tunnell's Theorem (264)
+
+
+
+
+
+

@@ -1,0 +1,391 @@
+
+
+
+
+
+
+
+      Sophie Germain  (1776 - 1831) - Biography - MacTutor History of Mathematics
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+ MacTutor
+              
+
+
+
+
+
+
+
+
+
+Home
+Biographies
+History Topics
+Map
+Curves
+Search
+
+
+
+
+
+
+
+Marie-Sophie Germain
+
+
+
+
+
+Quick Info
+Born
+
+      1 April 1776   Paris, France 
+
+Died
+
+      27 June 1831  Paris, France
+    
+
+Summary
+Sophie Germain made a major contributions to number theory (in particular, the theory of primes), acoustics and elasticity.
+
+
+
+
+
+      View ten larger pictures
+
+
+
+
+
+Biography
+Marie-Sophie Germain was the middle daughter of Ambroise-FranÃ§ois Germain (1726-1821), a prosperous merchant, goldsmith and jeweller who later became a silk-merchant, and Marie-Madeleine Gruguelu (?-1823) the daughter of the goldsmith Jean Gruguelu who was a friend of philosophers and political economists. Ambroise-FranÃ§ois was elected aÂ deputy to the National Assembly in 1789 and later became a director of the Bank of France. Sophie's elder sister was Marie-Madeleine Germain (born 29 May 1770) and her younger sister was AngÃ©lique-Ambroise Germain (born 1779). Marie-Madeleine Germain married the notary Charles Lherbette (1752-1836) in 1790 and they had one son Amand-Jacques Lherbette (1791-1864) who became a lawyer, sportsman and politician. AngÃ©lique-Ambroise Germain married the doctor Rene-Claude Geoffroy (1767-1831) in 1809 and, after his death in 1831, she married another medical man Joachim-Henri Dutochet (1776-1847), a leading botanist and physiologist, in 1833. We have given some details of Sophie's sisters because she did not marry and, as a consequence, her sisters and their families played a large part in her life.
+
+
+Sophie's home at 336 rue St Denis, where she was born, was a meeting place for those interested in liberal reforms and she was exposed to political and philosophical discussions during her early years. The year 1789 saw the outbreak of the French Revolution when in May of that year France became a constitutional monarchy followed by the storming of the Bastille on 14 July. Sophie's father was elected a deputy of the Third Estate for the city of Paris, then the National Assembly, and became very involved in the political events. Sophie was thirteen years old at this time and up until then she had been educated at home. With Paris in chaos and normal life suspended, she decided that she would go to her father's library, which was extensive, and pass the time reading books.
+
+
+Sophie, thirteen years old when the Revolution broke out, looked through her father's books, coming across Ãtienne Montucla's Histoire des MathÃ©matiques â(History of mathematics).  She read Montucla's account of Archimedes' passion for mathematics:-
+[Archimedes] would forget to eat and drink. His servant would have to remember his meal times for him and would almost have to force him to satisfy these human needs.
+She read about Archimedes' death at the hands of a Roman soldier because he would not stop doing mathematics. She was moved by this story and decided that she too must become a mathematician. Here was something which would let her become so involved that she would escape from the chaos of the Revolution going on around her. She told her parents she wanted to become a mathematician but they were totally opposed to her ideas, telling her that it was no occupation for a girl.
+
+
+Sophie pursued her studies in her father's library, however, beginning with reading the first volume of Ãtienne BÃ©zout's Cours complet de mathÃ©matiques Ã  l'usage de la marine et de l'artillerie â(Complete course in mathematics for use in the navy and artillery) (1770) which covered arithmetic. She came across a book by Jacques Antoine-Joseph Cousin (1739-1800) on the calculus, namely LeÃ§ons de calcul diffÃ©rentiel et de calcul intÃ©gral â(Lessons on differential and integral calculus ) (1777), which she found fascinating. In order to move on to reading more advanced texts on calculus, she taught herself Latin and Greek. She read Newton and Euler at night while wrapped in blankets as her parents slept - they had taken away her fire, her light and her clothes in an attempt to force her away from her books. Eventually her parents lessened their opposition to her studies, after waking up one morning, seeing Sophie was not in her bed, and finding her asleep in the library which was so cold that the ink had frozen solid in the ink well. Although Germain neither married nor obtained a professional position, her father continued to support her financially throughout her life. She continued to study the differential and integral calculus over the following years with the horrific events around her during the Reign of Terror in 1793-94 only helping her concentrate on her studies.
+
+
+The Ãcole Centrale des Travaux PublicsÂ was founded in 1794 by Lazare Carnot and Gaspard Monge. In the following year it was renamed the Ãcole Polytechnique. Sophie Germain was eighteen years old when the Ãcole opened and at exactly the right age to begin a university education. There was no way, however, a girl could become a student. This did not stop Germain who obtained lecture notes for many courses from Ãcole Polytechnique including Antoine-FranÃ§ois Fourcroy's chemistry course and Joseph-Louis Lagrange's analysis course. At the end of Lagrange's lecture course he invited his students to send him their written observations. Using the pseudonym M LeBlanc, Germain submitted a paper whose originality and insight made Lagrange look for its author. We note that the pseudonym "M LeBlanc" was not a made-up name but rather it was the name of the student Antoine-August LeBlanc who had attended the Ãcole. He was not very gifted mathematically and had quickly given up his studies at the Ãcole Polytechnique.
+
+
+When Lagrange discovered "M LeBlanc" who had submitted a paper to him was a woman, his respect for her work remained and he became her sponsor and mathematical counsellor. Her education was, however, disorganised and haphazard and she never received the professional training which she wanted. Lagrange certainly made his colleagues aware that Germain was a girl with mathematical talent and several of them wrote to her. Monge, for example, wrote to her about problems associated with a lever when infinitesimal changes in the position of a weight occur. Others discussed certain mathematical paradoxes with her. There was, however, no attempt to provide structured learning although Jacques Antoine-Joseph Cousin did offer to meet with her. It is worth noting that, since Germain was an unmarried woman, there were social difficulties in her meeting with men.
+
+
+Not everyone treated her with the respect she felt she deserved. One case was JÃ©rÃ´me Lalande who visited Germain in 1797. She started to talk to him about Laplace's Exposition du systÃ¨me du monde â(Explanation of the system of the world) which had only been published in the previous year. Lalande told her that she should not be reading such works, rather she should be reading the second edition of his book Astronomie des dames â(Astronomy for ladies) (1795). This "astronomy for ladies" does not contain a single mathematical equation and Germain felt insulted by his suggestion. Lalande sent her a letter of apology on 4 November 1797 but she never forgave him.
+
+
+Another who offended her was the Hellenist, Anase de Villoisson. He did this by praising her in a poem he had written and we know how displeased she was from Villoisson's letter of apology written to her on 14 July 1802 (see [35]):-
+Mademoiselle:
+
+I dare to take the liberty to offer you, adjoined to this, a sample of the new edition of my unfortunate work with corrections and additions which I have told you about. M Paugens, Mademoiselle, had inserted it in the third issue of his 'BibliothÃ¨que FranÃ§aise' before I became suspicious that the homage of the truth would shock your modesty, which is as rare as your talent. I repeat with my excuses and lively and eternal regret on my word of honour that I should never have permitted myself to speak of you, Mademoiselle, in writing, and that my admiration will always be silent and enchained by the desire to obtain pardon for an error, or for an involuntary fault, and by the deep respect which I have vowed to your mother and sister. I have the honour to be, Mademoiselle,
+
+Your humble and obedient servant,
+
+Anase de Villoisson.
+Germain wrote to Legendre about problems suggested by his 1798 Essai sur le ThÃ©orie des Nombres â(Essay on the theory of numbers), and the subsequent correspondence between the two became virtually a collaboration. Legendre included some of her discoveries in a supplement to the second edition of the ThÃ©orie. Several of her letters were later published in her Oeuvres Philosophique de Sophie Germain â(Philosophical works of Sophie Germain).
+
+
+However, Germain's most famous correspondence was with Gauss. She had developed a thorough understanding of the methods presented in his 1801 Disquisitiones Arithmeticae â(Investigations in arithmetic). Between 1804 and 1809 she wrote a dozen letters to him, initially adopting again the pseudonym "M LeBlanc" because she feared being ignored because she was a woman. After receiving her first letter, Gauss wrote to the astronomer Heinrich Wilhelm Matthias Olbers (1758-1840) (see, for example, [7]):-
+I recently had the pleasure of receiving a letter from LeBlanc, a young mathematician in Paris, who made himself enthusiastically familiar with higher mathematics and showed how deeply he penetrated into my 'Disquisitiones Arithmeticae'.
+During their correspondence, Gauss gave her number theory proofs high praise, an evaluation he repeated in letters to his colleagues. Germain's true identity was revealed to Gauss only after the 1806 French occupation of his hometown of Braunschweig. Recalling Archimedes' fate and fearing for Gauss's safety, she contacted a French general who was a friend of her family. Gauss knew neither the general nor Sophie Germain and, after he made enquiries, she was forced to reveal her identity, writing to him [4]:-
+I am not as completely unknown to you as you might believe, but that fearing the ridicule attached to a female scientist, I have previously taken the name of M LeBlanc in communicating to you. ... I hope that the information that I have today confided to you will not deprive me of the honour you have accorded me under a borrowed name ...
+When Gauss received this letter, he gave her even more praise. He writes:-
+But how to describe to you my admiration and astonishment at seeing my esteemed correspondent M LeBlanc metamorphose himself into this illustrious personage [Sophie Germain] who gives such a brilliant example of what I would find it difficult to believe. A taste for the abstract sciences in general and above all the mysteries of numbers is excessively rare; one is astonished at it; the enchanting charms of this sublime science reveal themselves only to those who have the courage to go deeply into it ... Indeed nothing could prove to me in so flattering and less equivocal manner that the attractions of this science, which has enriched my life with so many joys, are not chimerical, as the predilection with which you have honoured it.
+We mentioned above that Sophie's younger sister AngÃ©lique-Ambroise Germain married the doctor Rene-Claude Geoffroy in 1809. He had a fine town house at 4 Rue du Braque in Paris and, some time after the marriage, the whole Germain family moved into that home. Let us also note that Sophie became close to her nephew, Amand-Jacques Lherbette, the son of her elder sister. She named Lherbette as her literary executor, and indeed after her death he would publish some of her unfinished work.
+
+
+In 1808, the German physicist Ernst Florens Friedrich Chladni (1756-1827) had visited Paris where he had conducted experiments on vibrating plates, exhibiting the so-called Chladni figures.
+
+You can see some Chladni figures at THIS LINK.
+
+
+ The Institut de France set a prize competition with the following challenge:-
+... formulate a mathematical theory of elastic surfaces and indicate just how it agrees with empirical evidence.
+A deadline of two years for all entries was set.
+
+
+Most mathematicians did not attempt to solve the problem, because Lagrange had said that the mathematical methods available were inadequate to solve it. Germain, however, spent the next decade attempting to derive a theory of elasticity, competing and collaborating with some of the most eminent mathematicians and physicists.
+
+
+In fact, Germain was the only entrant in the contest in 1811, but her work did not win the award. She had not derived her hypothesis from principles of physics, nor could she have done so at the time because she had not had training in analysis and the calculus of variations. Her work did spark new insights, however. Lagrange, who was one of the judges in the contest, corrected the errors in Germain's calculations and came up with an equation that he believed might describe Chladni's patterns.
+
+
+The contest deadline was extended by two years, and again Germain submitted the only entry. She demonstrated that Lagrange's equation did yield Chladni's patterns in several cases, but could not give a satisfactory derivation of Lagrange's equation from physical principles. For this work she received an honourable mention.
+
+
+Germain's third attempt in the re-opened contest of 1815 was deemed worthy of the prize of a medal of one kilogram of gold, although deficiencies in its mathematical rigour remained. To public disappointment, she did not appear as anticipated at the award ceremony. Though this was the high point in her scientific career, it has been suggested that [4]:-
+... she thought the judges did not fully appreciate her work ...
+and that
+... the scientific community did not show the respect that seemed due to her.
+Certainly Poisson, her chief rival on the subject of elasticity and also a judge of the contest, sent a laconic and formal acknowledgement of her work, avoided any serious discussion with her and ignored her in public.
+
+
+As one biographer phrases it:-
+Although it was Germain who first attempted to solve a difficult problem, when others of more training, ability and contact built upon her work, and elasticity became an important scientific topic, she was closed out. Women were simply not taken seriously.
+Germain attempted to extend her research, in a paper submitted in 1825 to a commission of the Institut de France, whose members included Poisson, Gaspard de Prony and Laplace. The work suffered from a number of deficiencies, but rather than reporting them to the author, the commission simply ignored the paper. It was recovered from de Prony's papers and published in 1880.
+
+
+Among her work done during this period is work on Fermat's Last Theorem and a theorem which has become known as Germain's Theorem. This was to remain the most important result related to Fermat's Last Theorem from 1738 until the contributions of Kummer in 1840. She wrote to Gauss on 12 May 1819 [4]:-
+Although I have laboured for some time on the theory of vibrating surfaces (to which I have much to add if I had the satisfaction of making some experiments on cylindrical surfaces I have in mind), I have never ceased to think of the theory of numbers. ... A long time before our Academy proposed as the subject of a prize the proof of the impossibility of Fermat's equation, this challenge ... has often tormented me.
+Larry Riddle writes in [30]:-
+In this letter she laid out her grand plan to prove Fermat's Last Theorem. Her goal was to prove that for each odd prime exponent ppp, there are an infinite number of auxiliary primes of the form 2Np+12Np + 12Np+1 such that the set of non-zero pppth power residues xpmodââ(2Np+1)x^{p} \mod (2Np + 1)xpmod(2Np+1) does not contain any consecutive integers. If there were a solution to xp+yp=zpx^{p} + y^{p} = z^{p}xp+yp=zp, then Germain observes that any such auxiliary prime would have to necessarily divide one of the numbers x,yx, yx,y, or zzz. Her letter and manuscripts found in various libraries showed her analysis for the primes ppp less than 100 and for auxiliary primes with NNN from 1 to 10.  ... However, as Germain admitted to Gauss, she was unable to establish the existence of an infinite number of auxiliary primes even for a single prime exponent. Indeed, Germain's grand plan was doomed to failure as it was later shown that for each odd prime ppp there are only a finite number of auxiliary primes that satisfy the non-consecutive pppth power residue condition. Germain, herself, eventually proved in a letter to Adrien-Marie Legendre that for p=3p = 3p=3, the auxiliary primes 7 and 13 were the only ones that worked. Nevertheless, this was the first time anyone had devised a plan to prove Fermat's Last Theorem for infinitely many prime exponents rather than on a case by case basis.
+Andrea Del Centina re-evaluates Germain's work on Fermat's Last Theorem in [18] and concludes:-
+A revaluation of Germain's work on Fermat's Last Theorem is necessary. Not only did she develop the theorem attributed to her independently from Legendre, in fact she did part of the additional work commonly credited to him, but she also proved (or nearly proved) results that were rediscovered many years later. After almost 200 years, her ideas were still central. In 1985, using a generalisation of her method, Adleman and Heath-Brown [The first case of Fermat's last theorem, 1985] and, independently, Fouvry [ThÃ©orÃ¨me de Brun-Titchmarsh. Application au thÃ©orÃ¨me de Fermat â(The Brun-Titchmarsh theorem: Application to Fermat's theorem), 1985], proved that the first case of Fermat's Last Theorem holds for infinitely many exponents.
+Germain continued to work in mathematics and philosophy until her death. Before her death, she outlined a philosophical essay which was published posthumously as ConsidÃ©rations gÃ©nÃ©rales sur l'Ã©tat des sciences et des lettres â(General Comments on the State of Science and Letters) in the Oeuvres philosophiques. Her paper was highly praised by August Comte. Amy Dahan DalmÃ©dico writes in [16]:-
+In the essay, she tried to identify the intellectual process in all human activities. She believed the intellectual universe is filled with analogies. The human spirit recognises these analogies, which then leads to the discovery of natural phenomena and the laws of the universe. We should recognise the analogies between the life of Sophie Germain and our own, and they should lead us to strive for excellence in the face of prejudice.
+In [21] Jesse A Fernandez Martinez notes how Germain anticipated August Comte:-
+Comte's indebtedness to Condorcet and to Saint-Simon has frequently been mentioned. It is only recently that it has been discovered how distinctly he was anticipated in the main features of his system by Sophie Germain. DÃ¼hring, in his Critical History of Philosophy from Its Beginnings to the Present Time (3rd ed., Leipzig, 1878), says, after giving a full abstract of her work: "One sees from the above that the Positivism which, without the use of the word, one finds in the writings of Sophie Germain, contains the essential features of that which has hitherto been associated with the name of Auguste Comte."
+She was stricken with breast cancer in 1829 but, undeterred by that and the fighting of the 1830 revolution, she completed papers on number theory and on the curvature of surfaces (1831).
+
+
+Germain died in June 1831 at 13 rue de Savoie in Paris, which still stands today and has a commemorative plaque. Her death certificate listed her not as mathematician or scientist, but 'rentier' (property holder). In [35] the author quotes from H J Monans, Woman in Science (1913):-
+And yet, strange as it may seem, when the state official came to make out the death certificate of this eminent associate and co-worker of the most illustrious members of the French Academy of Science, he designated her as a rentiere-annuitant - not as a mathematicienne. Nor is this all. When the Eiffel Tower was erected in which the engineers were obliged to give special attention to the elasticity of the materials used, there were inscribed on this lofty structure the names of seventy-two savants. But one will not find in this list the name of that daughter of genius, whose researches contributed so much toward establishing the theory of the elasticity of metals, Sophie Germain. Was she excluded from this list for the same reason that Agnesi was ineligible in the French Academy - because she was a woman? It would seem so. If such, indeed, was the case, more is the shame for those who were responsible for such ingratitude toward one who had deserved so well of science, and who by her achievements had won the enviable place in the hall of fame.
+Germain was buried at the CimetiÃ¨re du PÃ¨re Lachaise.
+
+You can see a picture of her grave  at THIS LINK.
+
+
+
+
+
+
+
+Quotations by Sophie Germain  Other Mathematicians born in France  A Poster of Sophie Germain
+
+
+
+
+
+References (show)
+
+
+
+
+
+E A Kramer, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+
+ See THIS LINK.
+Biography in Encyclopaedia Britannica.
+
+http://www.britannica.com/biography/Sophie-Germain
+G Biedenkapp, Sophie Germain, ein weiblicher Denker (Jena, 1910).
+L L Bucciarelli, Sophie Germain : an essay in the history of the theory of elasticity (Dordrecht - Boston, Mass., 1980).
+L-L Daniloff, The Work of Sophie Germain and Niels Henrik Abel on Fermat's Last Theorem (Master's Thesis, University of Oslo, 2017).
+K Flanders, Sophie Germain and the struggles of women mathematicians during the French Revolution (Honors Thesis, Appalachian University, 2018).
+A M Hill, Sophie Germain: A Mathematical Biography (University of Oregon, 1995).
+U Klens, Mathematikerinnen im 18. Jahrhundert: Maria Gaetana Agnesi, Gabrielle-Emilie du ChÃ¢telet, Sophie Germain (Pfaffenweiler, 1994).
+D Musielak, Prime Mystery: The Life and Mathematics of Sophie Germain (Author House, 2015).
+D Musielak, Sophie Germain: Revolutionary Mathematician (Springer, 2020).
+M Alic, The Mathematical Contributions of Sophie Germain, in M Alic, Hypatia's Heritage (The Women's Press Limited, London, 1986), 148-157.
+G L Alexanderson, About the cover: Sophie Germain and a problem in number theory, Bull. Amer. Math. Soc. (N.S.) 49 (2) (2012), 327-331.
+R Boice, Sophie Germain, Mathematical and social Sciences, University of Colorado Denver (2008).
+
+http://www-math.ucdenver.edu/~wcherowi/courses/m4010/s08/rbgermain.pdf
+J Boucard, Arithmetic and Memorial Practices by and Around Sophie Germain in the 19th Century, in EvaÂ Kaufholz-Soldat and Nicola M RÂ Oswald (eds.), Against all the odds: Women's Ways to Mathematical Research Since 1800 (Springer, 2020), 185-230.
+A Dahan-DalmÃ©dico, MÃ©canique et thÃ©orie des surfaces: les travaux de Sophie Germain, Historia Math. 14 (4) (1987), 347-365.
+A Dahan-DalmÃ©dico, Sophie Germain, Scientific American 265 (1991), 117-122.
+A Del Centina, Letters of Sophie Germain preserved in Florence, Historia Math. 32 (1) (2005), 60-75.
+A Del Centina, Unpublished manuscripts of Sophie Germain and a revaluation of her work on Fermat's last theorem, Arch. Hist. Exact Sci. 62 (4) (2008), 349-392.
+A Del Centina and A Fiocca, The correspondence between Sophie Germain and Carl Friedrich Gauss, Arch. Hist. Exact Sci. 66 (6) (2012), 585-700.
+A Del Centina and A Fiocca, On the correspondence of Sophie Germain, in Maria Teresa Borgato, Erwin Neuenschwander and IrÃ¨ne Passeron (eds.), Mathematical Correspondences and Critical Editions (BirkhÃ¤user, 2018), 147-166.
+J A Fernandez Martinez, Sophie Germain, The Scientific Monthly 63 (4) (1946), 257-260.
+M W Gray, Sophie Germain (1776-1831), in L S Grinstein and P J Campbell (eds.), Women of Mathematics (Greenwood, Westport, CT, 1987), 47-56.
+M W Gray,  Sophie Germain, A Bicentennial Appreciation,Â AWM NewsletterÂ 6 (6) (1976), 10-14.
+N Hall, M Jones and G Jones, The life and work of Sophie Germain, Math. Semesterber. 51 (1) (2004), 1-6.
+Harlor, Sophie Germain: MathÃ©maticienne et Philosophe, Revue des Deux Mondes (1829-1971) (1 September 1953), 134-145.
+R Laubenbacher and D Pengelley, "Voici ce que j'ai trouvÃ©:" Sophie Germain's grand plan to prove Fermat's last theorem, Historia Math. 37 (4) (2010), 641-692.
+G Leibrock, Meine Freundin Sophie: Carl Friedrich GauÃ' Brieffreundschaft mit Sophie Germain, Gauss-Ges. GÃ¶ttingen Mitt. No. 38 (2001), 17-28.
+N Mackinnon, Sophie Germain: or Was Gauss a feminist?, The Mathematical Gazette 74 (470) (1990), 346-351.
+G Micheli, The philosophical works of Sophie Germain (Italian), in Scienza e filosofia (Garzanti, Milan, 1985), 712-729.
+L Riddle, Sophie Germain and Fermat's Last Theorem, Biographies of Women Mathematicians, Agnes Scott College (2009).
+
+https://www.agnesscott.edu/lriddle/women/germain-FLT/SGandFLT.htm
+J H Sampson, Sophie Germain and the Theory of Numbers, Archive for History of Exact Science 41 (2) (1990), 157-161.
+S M Smith and G Lleuad, Sophie Germain (1776-1831), in Charlene Morrow and Teri Perl (eds.), Notable Women in Mathematics (Greenwood, Westport, CT, 1998), 62-66.
+E Strickland, Sophie Germain on a French stamp, Eur. Math. Soc. Newsl. No. 100 (2016), 8.
+H Stupuy, Notice sur la vie et les oeuvres de Sophie Germain, Oeuvres philosophiques de Sophie Germain (Paris, 1879), 1-92.
+
+See THIS LINK
+M Thomas a Kempis, An Appreciation of Sophie Germain, National Mathematics Magazine 14 (2) (1939), 81-90.
+C Truesdell, Sophie Germain: fame earned by stubborn error, Boll. Storia Sci. Mat. 11 (2) (1991), 3-24.
+S Yates, Sophie Germain primes, in George M Rassias (ed.), The Mathematical Heritage of C F Gauss (World Scientific, 1991), 882-886.
+
+
+
+
+
+
+Additional Resources (show)
+
+
+
+
+Other pages about Sophie Germain:
+
+Dubreil-Jacotin on Sophie Germain
+Hippolyte Stupuy's Obituary of Sophie Germain
+Chladni figures
+Sophie Germain's grave
+Heinz Klaus Strick biography
+Miller's postage stamps
+
+
+
+Other websites about Sophie Germain:
+
+Dictionary of Scientific Biography
+Encyclopaedia Britannica
+Agnes Scott College
+PBS
+San Diego
+Sci Hi blog
+Mathematical Genealogy Project
+zbMATH entry
+
+
+
+
+
+
+
+      Honours
+      (show)
+
+
+
+
+
+Honours awarded to Sophie Germain
+
+Paris street names Rue Sophie Germain (14th Arrondissement) Planetary features Crater Germain on Venus Popular biographies list Number 72
+
+
+
+
+
+
+
+      Cross-references
+      (show)
+
+
+
+
+
+
+History Topics: Fermat's last theorem
+Societies: Women in Mathematics Association
+Student Projects: Sofia Kovalevskaya: Chapter 6
+Other: 12th May
+Other: 18th April
+Other: 2009 Most popular biographies
+Other: 21st November
+Other: 30th April
+Other: 8th January
+Other: Jeff Miller's postage stamps
+Other: Most popular biographies â 2024
+Other: Popular biographies 2018
+
+
+
+
+
+
+    Written by J J O'Connor and E F Robertson
+
+    Last Update November 2020
+  
+
+
+
+
+
+
+
+            DJF/JOC/EFR
+Copyright information
+Accessibility statement
+
+
+School of Mathematics and Statistics
+
+University of St Andrews, Scotland
+
+
+
+
+
+
+
+
+            If you have comments, or spot errors, we are always pleased to
+            hear from you.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+

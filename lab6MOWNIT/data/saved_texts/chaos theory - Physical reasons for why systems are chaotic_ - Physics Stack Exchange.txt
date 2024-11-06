@@ -1,0 +1,1529 @@
+
+
+
+
+chaos theory - Physical reasons for why systems are chaotic? - Physics Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Physics
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Physics Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+Teams
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+        
+Explore Teams
+Create a free Team
+
+
+
+
+Teams
+
+
+
+
+
+
+
+            Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+            Explore Teams
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+Physical reasons for why systems are chaotic?
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+2 years, 6 months ago
+
+
+Modified
+2 years, 6 months ago
+
+
+Viewed
+                        607 times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Are there any reasons why a system would exhibit chaotic behavior? Or is this something only found through numerical modelling or experimental testing?
+For example, the simple forced, damped pendulum or the duffing oscillator. Were these experimented on and it was found that they were sensitive to initial conditions, and then examined further to prove the 3 chaotic properties and finally deemed to be chaotic? Or is there something physical about them that gives away a possibility to chaos?
+If it is the former, how would we determine chaotic systems? Just trial and error until all 3 properties are proven?
+
+
+
+
+chaos-theory
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            asked Dec 9, 2021 at 0:51
+
+
+
+
+
+
+t-osut-osu
+
+4544 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+One doesn't need to study actual physical systems in order to encounter chaos. The chaos is in the solutions to certain types of differential equation. The physical systems that you mention happen to obey those kinds of differential equation.
+$\endgroup$
+
+– Solomon Slow
+
+Dec 9, 2021 at 2:08
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+So far as I know, sensitivity to initial conditions is empirically quantifiable. Figure it has to be if the math implies chaos and the the empirical measurements correspond to the math. Here's some examples from nuclear physics: annualreviews.org/doi/pdf/10.1146/annurev.ns.38.120188.002225
+$\endgroup$
+
+– R. Romero
+
+Dec 9, 2021 at 2:36
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Related: Why are we sure that integrals of motion don't exist in a chaotic system?
+$\endgroup$
+
+– Qmechanic
+♦ 
+Dec 9, 2021 at 4:08
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I'd say what's remarkable is that there are some systems without chaos.
+$\endgroup$
+
+– Connor Behan
+
+Dec 9, 2021 at 13:03
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        4 Answers
+                                    4
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+There is a bit to disentangle here, so this may seem like a somewhat roundabout answer, but we will get to your questions eventually:
+First of all, chaos is a property of deterministic and bounded dynamical systems, which in turn are mathematical constructs. The general mechanisms of chaos in such systems are generally well understood, but are nothing that I can explain within the scope of this answer. Moreover, for such systems, chaos is the norm, more specifically the non-chaotic regions of parameter space become increasingly small with increasing complexity of the system. So, in some sense the interesting question is rather why some (mathematical model) systems are not chaotic and why we can derive valuable insights from those. There are some necessary ingredients required for chaos¹, but these can be found in every real system.
+All definitions of chaos employ criteria that are inherently mathematical, in particular employing infinitesimal or infinite quantities. As such, they cannot be applied to natural systems. The one aspect of chaos that most definitions agree upon is the sensitivity to initial conditions, which can be determined for natural (and simulated) systems in good approximation (see this answer of mine for some details). Other properties like topological transitivity and dense periodical orbits are not reasonably accessible in nature at all. Rigorously proving chaos in nature is as impossible as proving whether the ratio of the proton and electron mass is a rational number.
+With that as a background, let’s turn to your specific questions:
+
+Are there any reasons why a system would exhibit chaotic behavior?
+
+As elaborated above, chaos is more or less the default. Rather, there are reasons why chaos may be absent in a model.
+
+Or is this something only found through numerical modelling or experimental testing?
+
+For some mathematical models, chaoticity according to some definition was rigorously proven. For most model systems, it is shown numerically (and not rigorously). For natural systems, you can only show the sensitivity to initial conditions experimentally, either by reproducing initial conditions and observe their divergence (example by me) or analysing data from the system. Alternatively, it may satisfy you to create a model for the system that explains the relevant observed behaviour and show that this model is chaotic. After all, showing chaos for its own sake is pretty pointless in nature, as you will always find always find chaos if you look closely enough, and the question is rather how to best describe the relevant properties of the system.
+
+Were these […] examined […] to prove the 3 chaotic properties and finally deemed to be chaotic?
+
+I am not exactly sure what three properties you are referring to, but as elaborated above only sensitivity to initial conditions is usually experimentally accessible.
+
+¹ three dynamical variables (in continuous-time systems, which real physical systems are), non-linearities
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 13, 2021 at 19:31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Dec 9, 2021 at 11:47
+
+
+
+
+
+
+WrzlprmftWrzlprmft
+
+6,29522 gold badges2626 silver badges4646 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+4
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+Would you suggest that the "cannot be applied to natural systems" aspects are any more so than any other model? That is: the model produces mathematical regions where the model does not map reality, but there are no physical regions that correspond to the mathematical regions where we find nonphysical results like infinities. And there are levels of detail where the model may not map reality, but there are no measurements that could distinguish reality from a set of similar models differing by an amount corresponding to measurement error, from which one is probabilistically selected?
+$\endgroup$
+
+– g s
+
+Dec 9, 2021 at 16:25
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@gs: Sorry, but I fail to understand what you are referring to. I only said that the defining criteria of chaos “cannot be applied to natural systems”; I did not speak about models in this way. For example for compute a Lyapunov exponent according to the mathematical definition, you would need to produce infinitely many infinitesimal state changes and observe their effects over an infinite period of time. And topological transitivity and dense periodical orbits are even worse.
+$\endgroup$
+
+– Wrzlprmft
+
+Dec 9, 2021 at 21:10
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+@Wrzlprmft thank you for your response. Reminding me that these are all mathematical constructs has helped a lot. I took some time over the weekend to think of any remaining questions I have. I was wondering when you said that 3 dynamical variables and non-linearities are required for chaos. Where does that leave, e.g., the logistics map or the forced, damped pendulum because aren't there only 2 dynamic variables in their equations?
+$\endgroup$
+
+– t-osu
+
+Dec 13, 2021 at 19:10
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+[…] when you said that 3 dynamical variables and non-linearities are required for chaos. Where does that leave, e.g., the logistics map or the forced, damped pendulum because aren't there only 2 dynamic variables in their equations? – I could have been more precise there (also see my edit). Three dynamical variables are necessary in a continuous-time autonomous system. This excludes the logistic map (because it is not a continuous-time system). The forced, damped pendulum is not autonomous as it is, well, forced, which effectively adds another dynamical variable (the phase of the forcing).
+$\endgroup$
+
+– Wrzlprmft
+
+Dec 13, 2021 at 19:34
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+You model the system with differential equations and evaluate the differential equations (without necessarily needing to use computer simulation or experimentation, although both, especially simulation, are powerful tools). By so doing you predict under what conditions the system will exhibit chaotic behavior and what the characteristics of the chaotic behavior will be.
+I don't think the "how do we determine" question is answerable in a short forum post, even to someone with a math or physics degree. The answer is most of a university math course or textbook on nonlinear dynamical systems. The prerequisites of such a class would be the calculus sequence, differential equations, and linear algebra.
+As with any course there are plenty of options. The one I've read is S. H. Strogatz's book Nonlinear Dynamics and Chaos, and I found it unusually clear and easy to read for a math textbook. Cornell has a lecture series by the author, following the book, available for free on youtube. I haven't listened to them, so I don't know how well Strogatz lectures, but the book was excellent and having a lecture series to go along with a book helps.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Dec 9, 2021 at 3:42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Dec 9, 2021 at 3:36
+
+
+
+
+
+
+g sg s
+
+13.9k22 gold badges2121 silver badges4343 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+In a chaotic system, if you start with two initial states that are nearly identical, they will diverge from each other exponentially. Soon they will be in completely different states.
+Note that this implies the system will have no stable repetitive paths through its state space.
+Consider the example of the frictionless billiard table. Two initial states have a ball strike another in slightly different spots. They reflect at slightly different angles. They hit the next ball in spots that are further separated, and their angle of reflection is increased. Soon one ball will miss the next ball entirely.
+I do not know why exponential separation is required, as opposed to polynomial. If the system evolves long enough, exponential separation will always be larger. But it seems that polynomial would be enough to ensure that the system does not repeat itself.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 9, 2021 at 4:56
+
+
+
+
+
+
+mmesser314mmesser314
+
+40k55 gold badges5050 silver badges132132 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+I do not know why exponential separation is required, as opposed to polynomial – I am not aware of anybody requiring exponential separation as such, however exponential separation is what dynamical systems happen to do (barring pathological examples). See this answer of mine.
+$\endgroup$
+
+– Wrzlprmft
+
+Dec 9, 2021 at 10:53
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+For an initially periodic system to exhibit chaotic behavior generally requires that each cycle uses as its initial conditions the final conditions of the previous cycle and that those differences between subsequent states are nonlinearly proportional to the present state of the system.
+The "cumulativity" criterion means that differences between the initial and subsequent states will grow with time, and the nonlinearity means that the system evolution will exhibit distortion in the sense that the output signal will progressively contain more and more things that weren't originally present in the initial input signal.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Dec 9, 2021 at 5:35
+
+
+
+
+
+
+niels nielsenniels nielsen
+
+94.5k1818 gold badges133133 silver badges244244 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to Physics Stack Exchange!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged chaos-theory or ask your own question.                                
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+45
+
+Why are we sure that integrals of motion don't exist in a chaotic system?
+
+
+
+0
+
+Is there a mathematical way to determine if a force, phenomena or physical entity is in a state of chaos?
+
+
+
+
+Related
+
+
+
+13
+
+Are all aperiodic systems chaotic?
+
+
+
+0
+
+Are there chaotic maps that commute?
+
+
+
+13
+
+How do we know chaotic systems are actually chaotic and not periodic?
+
+
+
+4
+
+Are chaotic systems examples of complex systems?
+
+
+
+12
+
+Are chaotic systems the same as dissipative systems in inverse time?
+
+
+
+0
+
+How to Interpret Solutions to Simple Chaotic Systems
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    What changes the velocity perpendicular to radius in an elliptical orbit?
+                
+
+
+
+                    Why is finding a mathematical basis for the fine-structure constant meaningful?
+                
+
+
+
+                    Story about a future gang initiation - but there's a twist
+                
+
+
+
+                    How big can a chicken get?
+                
+
+
+
+                    Why are we abbreviating Player's Handbook to PHB?
+                
+
+
+
+                    How to cut a large piece of marble 1” thick
+                
+
+
+
+                    What's the difference between cryogenic and Liquid propellant?
+                
+
+
+
+                    Are usb-c through hole shell stakes connected to GND or are they just there for fastening purposes only?
+                
+
+
+
+                    Conveying function definition and a verb corresponding to map
+                
+
+
+
+                    Why does Mars have a jagged light curve?
+                
+
+
+
+                    Is it known that the the sequence 7n+1 would diverge starting with 7?
+                
+
+
+
+                    Cut out rotated rectangle shape
+                
+
+
+
+                    Why is array access not an infix operator?
+                
+
+
+
+                    Meaning of にしておく here
+                
+
+
+
+                    Yosemite national park availability
+                
+
+
+
+                    Password protect directory listing only and not the files themselves
+                
+
+
+
+                    How much of an advantage is it to have high acceleration in space combat
+                
+
+
+
+                    Is there a phrase like "etymologically related" but for food?
+                
+
+
+
+                    Does speeding turn an accident into manslaughter?
+                
+
+
+
+                    Do reflective warning triangles blow away in wind storms?
+                
+
+
+
+                    Smallest Harmonic number greater than N
+                
+
+
+
+                    Are there statements so self-evident that writing a proof for them is meaningless? Is this an example of one?
+                
+
+
+
+                    MOSFET driver: Totem Pole or NPN Self-Biasing Turn-Off Circuit
+                
+
+
+
+                    Is it possible to retract an acceptance for a full time lecturer position? (Michigan)
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

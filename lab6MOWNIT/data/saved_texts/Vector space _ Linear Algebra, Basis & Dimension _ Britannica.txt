@@ -1,0 +1,771 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vector space | Linear Algebra, Basis & Dimension | Britannica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+
+
+
+
+Search Britannica
+
+
+
+
+
+Click here to search
+
+
+
+
+
+
+
+
+   Subscribe
+
+
+
+   Subscribe
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Home
+Games & Quizzes
+History & Society
+Science & Tech
+Biographies
+Animals & Nature
+Geography & Travel
+Arts & Culture
+Money
+Videos
+On This Day
+One Good Fact
+Dictionary
+New Articles
+
+History & Society
+
+Lifestyles & Social Issues
+Philosophy & Religion
+Politics, Law & Government
+World History
+
+Science & Tech
+
+Health & Medicine
+Science
+Technology
+
+Biographies
+
+Browse Biographies
+
+Animals & Nature
+
+Birds, Reptiles & Other Vertebrates
+Bugs, Mollusks & Other Invertebrates
+Environment
+Fossils & Geologic Time
+Mammals
+Plants
+
+Geography & Travel
+
+Geography & Travel
+
+Arts & Culture
+
+Entertainment & Pop Culture
+Literature
+Sports & Recreation
+Visual Arts
+
+
+Companions
+Demystified
+Image Galleries
+Infographics
+Lists
+Podcasts
+Spotlights
+Summaries
+The Forum
+Top Questions
+#WTFact
+
+
+100 Women
+Britannica Kids
+Saving Earth
+Space Next 50
+Student Center
+
+
+
+
+
+
+
+
+
+
+				Home
+				Games & Quizzes
+				History & Society
+				Science & Tech
+				Biographies
+				Animals & Nature
+				Geography & Travel
+				Arts & Culture
+				Money
+				Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				vector space
+
+
+
+
+
+
+
+
+                    Table of Contents
+                
+
+                            Introduction
+                        
+
+				References & Edit History
+
+				Related Topics
+
+
+
+                        Quizzes
+                    
+
+
+
+
+
+
+
+Numbers and Mathematics
+
+
+
+
+
+                        Discover
+                    
+
+
+
+
+
+
+
+How Did the Rainbow Flag Become a Symbol of LGBTQ Pride?
+
+
+
+
+
+
+
+
+
+6 Animals That Eat Their Mates
+
+
+
+
+
+
+
+
+
+Inventors and Inventions of the Industrial Revolution
+
+
+
+
+
+
+
+
+
+Does Ball Lightning Exist?
+
+
+
+
+
+
+
+
+
+Why Was Nazi Germany Called the Third Reich?
+
+
+
+
+
+
+
+
+
+Estimated Battle Casualties During the Normandy Invasion on June 6, 1944
+
+
+
+
+
+
+
+
+
+The Top COVID-19 Vaccine Myths Spreading Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			Contents
+		
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+				Science
+
+
+
+				Mathematics
+
+
+
+
+
+
+
+
+
+
+vector space
+
+
+mathematics
+
+
+
+
+	
+    
+            Actions
+        
+
+
+
+
+	
+			
+			Cite
+		
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+
+
+	
+            
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/vector-space
+
+
+
+
+
+
+	
+                        Give Feedback
+                    
+
+
+
+
+	
+                        External Websites
+                    
+
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                        External Websites
+                    
+
+
+University of Toronto - Department of Mathematics - What is a Vector Space?
+Wolfram MathWorld - Vector Space
+Indiana University Pressbooks - Vector Spaces
+HWS Department of Mathematics and Computer Science - Vector Spaces
+University College London - Vector spaces
+University of Manheim - Department of Economics - Vector Spaces
+Auburn University - Vector space
+Mathematics LibreTexts - Vector Spaces
+
+
+
+
+
+
+
+
+
+	
+    
+                    Print
+        
+
+
+	
+    
+            Cite
+        
+
+
+
+verifiedCite
+		
+
+			While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+		
+Select Citation Style
+
+MLA
+APA
+Chicago Manual of Style
+
+
+
+
+
+
+Copy Citation
+
+
+
+
+
+	
+    
+            Share
+        
+
+
+
+
+	
+            Share
+        
+Share to social media
+
+Facebook
+Twitter
+
+URL
+https://www.britannica.com/science/vector-space
+
+
+
+
+	
+    
+            Feedback
+        
+
+
+
+
+
+
+	
+                    External Websites
+                
+
+
+
+
+			Feedback
+		
+
+
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			
+
+Feedback Type
+
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+
+
+Your Feedback
+
+Submit Feedback
+
+
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+
+
+
+
+
+
+                    External Websites
+                
+
+
+University of Toronto - Department of Mathematics - What is a Vector Space?
+Wolfram MathWorld - Vector Space
+Indiana University Pressbooks - Vector Spaces
+HWS Department of Mathematics and Computer Science - Vector Spaces
+University College London - Vector spaces
+University of Manheim - Department of Economics - Vector Spaces
+Auburn University - Vector space
+Mathematics LibreTexts - Vector Spaces
+
+
+
+
+
+
+
+
+			
+				Written and fact-checked by
+				
+
+
+The Editors of Encyclopaedia Britannica
+Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.
+
+
+
+
+  The Editors of Encyclopaedia Britannica
+
+
+					Last Updated: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 22, 2024
+•
+Article History
+
+
+
+
+	
+			Table of Contents
+		
+
+
+
+
+Related Topics: 
+Hilbert space
+inner product space
+inner product
+coordinate vector
+Banach space
+
+
+(Show more)
+
+
+
+
+
+					See all related content →
+
+vector space,  a set of multidimensional quantities, known as vectors, together with a set of one-dimensional quantities, known as scalars, such that vectors can be added together and vectors can be multiplied by scalars while preserving the ordinary arithmetic properties (associativity, commutativity, distributivity, and so forth). Vector spaces are fundamental to linear algebra and appear throughout mathematics and physics.The idea of a vector space developed from the notion of ordinary two- and three-dimensional spaces as collections of vectors {u, v, w, …} with an associated field of real numbers {a, b, c, …}. Vector spaces as abstract algebraic entities were first defined by the Italian mathematician Giuseppe Peano in 1888. Peano called his vector spaces “linear systems” because he correctly saw that one can obtain any vector in the space from a linear combination of finitely many vectors and scalars—av + bw + … + cz. A set of vectors that can generate every vector in the space through such linear combinations is known as a spanning set. The dimension of a vector space is the number of vectors in the smallest spanning set. (For example, the unit vector in the x-direction together with the unit vector in the y-direction suffice to generate any vector in the two-dimensional Euclidean plane when combined with the real numbers.)
+
+
+Britannica Quiz
+Numbers and Mathematics
+
+
+The linearity of vector spaces has made these abstract objects important in diverse areas such as statistics, physics, and economics, where the vectors may indicate probabilities, forces, or investment strategies and where the vector space includes all allowable states. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

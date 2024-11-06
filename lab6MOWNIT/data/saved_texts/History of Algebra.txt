@@ -1,0 +1,146 @@
+
+
+History of Algebra
+
+
+
+
+
+
+
+History of Algebra
+Algebra -> 
+History
+-> History of Algebra     
+
+
+
+ Log On
+
+
+
+
+
+
+
+
+
+
+
+In Depth Wikipedia article on Algebra
+In Depth WikiBook on Algebra
+
+
+The history of algebra began in ancient Egypt
+and Babylon, where people learned to solve
+linear (ax = b) and quadratic (ax2 +
+bx = c) equations, as well as indeterminate
+equations such as x2 + y2 =
+z2, whereby several unknowns are involved. The
+ancient Babylonians solved arbitrary quadratic equations by
+essentially the same procedures taught today. They also could solve
+some indeterminate equations.The Alexandrian mathematicians
+Hero of Alexandria and Diophantus continued the
+traditions of Egypt and Babylon, but Diophantus's book
+Arithmetica is on a much higher level and gives many surprising
+solutions to difficult indeterminate equations. This ancient knowledge
+of solutions of equations in turn found a home early in the Islamic
+world, where it was known as the "science of restoration and
+balancing." (The Arabic word for restoration, al-jabru, is the
+root of the word algebra.) In the 9th century, the Arab
+mathematician al-Khwarizmi wrote one of the
+first Arabic algebras, a systematic expos� of the basic theory of
+equations, with both examples and proofs. By the end of the 9th
+century, the Egyptian mathematician Abu Kamil had stated and proved
+the basic laws and identities of algebra and solved such complicated
+problems as finding x, y, and z such that x +
+y + z = 10, x2 + y2
+= z2, and xz =
+y2.Ancient civilizations wrote out algebraic
+expressions using only occasional abbreviations, but by medieval times
+Islamic mathematicians were able to talk about arbitrarily high powers
+of the unknown x, and work out the basic algebra of polynomials
+(without yet using modern symbolism). This included the ability to
+multiply, divide, and find square roots of polynomials as well as a
+knowledge of the binomial theorem. The Persian mathematician,
+astronomer, and poet Omar Khayyam showed how to
+express roots of cubic equations by line segments obtained by
+intersecting conic sections, but he could not find a formula for the
+roots. A Latin translation of Al-Khwarizmi's Algebra appeared
+in the 12th century. In the early 13th century, the great Italian
+mathematician Leonardo Fibonacci achieved a
+close approximation to the solution of the cubic equation x3 + 2x2 +
+cx = d. Because Fibonacci had traveled in Islamic lands,
+he probably used an Arabic method of successive
+approximations.Early in the 16th century, the Italian
+mathematicians Scipione del Ferro, Niccol� Tartaglia, and Gerolamo Cardano solved the general cubic equation in terms of the constants
+appearing in the equation. Cardano's pupil, Ludovico Ferrari, soon
+found an exact solution to equations of the fourth degree (see quartic equation), and as a
+result, mathematicians for the next several centuries tried to find a
+formula for the roots of equations of degree five, or higher. Early in
+the 19th century, however, the Norwegian mathematician Niels Abel and the French mathematician Evariste Galois proved that no such formula exists.An
+important development in algebra in the 16th century was the
+introduction of symbols for the unknown and for algebraic powers and
+operations. As a result of this development, Book III of La
+g�ometrie (1637), written by the French philosopher and
+mathematician Ren� Descartes, looks much like a
+modern algebra text. Descartes's most significant contribution to
+mathematics, however, was his discovery of analytic geometry, which reduces the solution of geometric problems to
+the solution of algebraic ones. His geometry text also contained the
+essentials of a course on the theory of equations, including his
+so-called rule of signs for counting the number of what
+Descartes called the "true" (positive) and "false" (negative) roots of
+an equation. Work continued through the 18th century on the theory of
+equations, but not until 1799 was the proof published, by the German
+mathematician Carl Friedrich Gauss, showing that every polynomial
+equation has at least one root in the complex plane (see 
+Number: Complex Numbers).By the time of
+Gauss, algebra had entered its modern phase. Attention shifted from
+solving polynomial equations to studying the structure of abstract
+mathematical systems whose axioms were based on the behavior of
+mathematical objects, such as complex numbers, that mathematicians
+encountered when studying polynomial equations. Two examples of such
+systems are algebraic groups (see  Group) and quaternions, which
+share some of the properties of number systems but also depart from
+them in important ways. Groups began as systems of permutations and
+combinations of roots of polynomials, but they became one of the chief
+unifying concepts of 19th-century mathematics. Important contributions
+to their study were made by the French mathematicians Galois and
+Augustin Cauchy, the British mathematician Arthur Cayley, and the
+Norwegian mathematicians Niels Abel and Sophus Lie. Quaternions were discovered by British mathematician and
+astronomer William Rowan Hamilton, who extended the arithmetic of
+complex numbers to quaternions while complex numbers are of the form
+a + bi, quaternions are of the form a + bi
++ cj + dk.Immediately after Hamilton's
+discovery, the German mathematician Hermann Grassmann began
+investigating vectors. Despite its abstract character, American
+physicist
+J. W. Gibbs recognized in vector algebra a system of great utility for
+physicists, just as Hamilton had recognized the usefulness of
+quaternions. The widespread influence of this abstract approach led
+George Boole to write The Laws of Thought (1854), an algebraic
+treatment of basic logic. Since that time, modern algebra—also
+called abstract algebra—has continued to develop. Important new
+results have been discovered, and the subject has found applications
+in all branches of mathematics and in many of the sciences as
+well. Main page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

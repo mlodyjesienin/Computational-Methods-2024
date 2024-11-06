@@ -1,0 +1,1596 @@
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Differential Topology: Basics, Applications | Vaia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Find Study Materials                                                                    
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                            Explanations                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Textbooks                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Exams                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Magazine                                                                                                                                                                    
+
+
+
+
+
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Computer Science
+
+
+Engineering
+
+
+English
+
+
+English literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+
+Biology
+
+
+Business Studies
+
+
+Combined Science
+
+
+Chemistry
+
+
+Economics
+
+
+English
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Math
+
+
+Physics
+
+
+Psychology
+
+Textbook Solutions
+
+
+Exams
+
+
+Read our Magazine
+
+
+
+
+
+
+
+
+
+
+                                Create Study Materials                                                                    
+
+
+
+
+
+Create Study Materials
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+Open in App
+
+
+
+Log In
+Start studying!
+
+
+
+
+Open in App
+Log out
+
+
+
+
+
+
+
+Find Study Materials for
+
+
+
+																																			Explanations																	                                                                
+
+
+
+
+																																			Textbooks																	                                                                
+
+
+
+
+																																			Exams																	                                                                
+
+
+
+
+																																			Magazine																	                                                                
+
+
+
+
+
+
+Main menu
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Computer Science
+
+
+Engineering
+
+
+English
+
+
+English literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+
+Biology
+
+
+Business Studies
+
+
+Combined Science
+
+
+Chemistry
+
+
+Economics
+
+
+English
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Math
+
+
+Physics
+
+
+Psychology
+
+Textbook Solutions
+
+
+Exams
+
+
+Read our Magazine
+
+
+Create Study Materials
+
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math
+
+
+
+
+
+Geometry
+
+
+
+
+Differential topology
+
+
+
+
+Differential topology
+Differential topology, a pivotal branch of mathematics, delves into the study of differentiable functions on differentiable manifolds, shaping the understanding of intricate geometric structures. It stands at the crossroads of geometry and calculus, offering insights into the smooth properties and transformations of spaces. This field's exploration of smooth manifolds and mappings provides a profound comprehension of continuous shapes, crucial for advancements in mathematical and physical theories.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Create learning materials about Differential topology with our free learning app!							
+
+
+
+
+
+									Instand access to millions of learning materials								
+
+
+
+
+									Flashcards, notes, mock-exams and more								
+
+
+
+
+									Everything you need to ace your exams								
+
+
+								Create a free account							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applied Mathematics
+
+
+Calculus
+
+
+Decision Maths
+
+
+Discrete Mathematics
+
+
+Geometry
+
+
+
+
+
+
+
+
+
+2 Dimensional Figures
+
+
+3 Dimensional Vectors
+
+
+3-Dimensional Figures
+
+
+Affine geometry
+
+
+Altitude
+
+
+Analytic geometry
+
+
+Angles in Circles
+
+
+Arc Measures
+
+
+Area and Volume
+
+
+Area of Circles
+
+
+Area of Circular Sector
+
+
+Area of Parallelograms
+
+
+Area of Plane Figures
+
+
+Area of Rectangles
+
+
+Area of Regular Polygons
+
+
+Area of Rhombus
+
+
+Area of Trapezoid
+
+
+Area of a Kite
+
+
+Birational geometry
+
+
+Complex geometry
+
+
+Composition
+
+
+Computational geometry
+
+
+Conformal geometry
+
+
+Congruence Transformations
+
+
+Congruent Triangles
+
+
+Convex geometry
+
+
+Convexity in Polygons
+
+
+Coordinate Systems
+
+
+Differential geometry
+
+
+Differential topology
+
+
+Dilations
+
+
+Discrete geometry
+
+
+Distance and Midpoints
+
+
+Equation Of Circles
+
+
+Equilateral Triangles
+
+
+Ergodic theory
+
+
+Euclidean geometry
+
+
+Figures
+
+
+Finsler geometry
+
+
+Fractal geometry
+
+
+Fundamentals of Geometry
+
+
+Galois geometry
+
+
+Geodesy
+
+
+Geometric Inequalities
+
+
+Geometric Mean
+
+
+Geometric Probability
+
+
+Geometric analysis
+
+
+Geometric function theory
+
+
+Geometric topology
+
+
+Glide Reflections
+
+
+HL ASA and AAS
+
+
+Harmonic analysis
+
+
+Hodge theory
+
+
+Hyperbolic geometry
+
+
+Identity Map
+
+
+Inscribed Angles
+
+
+Integral geometry
+
+
+Inversive geometry
+
+
+Isometry
+
+
+Isosceles Triangles
+
+
+Kähler manifolds
+
+
+Law of Cosines
+
+
+Law of Sines
+
+
+Linear Measure and Precision
+
+
+Manifolds
+
+
+Mathematical Physics
+
+
+Median
+
+
+Metric geometry
+
+
+Minimal surfaces
+
+
+Mirror symmetry
+
+
+Moduli spaces
+
+
+Morse theory
+
+
+Möbius transformations
+
+
+Non-Euclidean geometry
+
+
+Parallel Lines Theorem
+
+
+Parallelograms
+
+
+Perpendicular Bisector
+
+
+Plane Geometry
+
+
+Poisson geometry
+
+
+Polygons
+
+
+Projections
+
+
+Projective geometry
+
+
+Properties of Chords
+
+
+Proportionality Theorems
+
+
+Pythagoras Theorem
+
+
+Quantum geometry
+
+
+Quaternionic analysis
+
+
+Rectangle
+
+
+Reflection in Geometry
+
+
+Regular Polygon
+
+
+Rhombuses
+
+
+Ricci flow
+
+
+Right Triangles
+
+
+Rotations
+
+
+SSS and SAS
+
+
+Sasaki geometry
+
+
+Segment Length
+
+
+Similarity
+
+
+Similarity Transformations
+
+
+Simplicial complexes
+
+
+Special quadrilaterals
+
+
+Spherical geometry
+
+
+Squares
+
+
+Sub-Riemannian geometry
+
+
+Surface Area of Cone
+
+
+Surface Area of Cylinder
+
+
+Surface Area of Prism
+
+
+Surface Area of Sphere
+
+
+Surface Area of a Solid
+
+
+Surface of Pyramids
+
+
+Symmetry
+
+
+Symplectic geometry
+
+
+Toric geometry
+
+
+Transformation groups
+
+
+Translations
+
+
+Trapezoids
+
+
+Triangle Inequalities
+
+
+Triangles
+
+
+Twistor theory
+
+
+Using Similar Polygons
+
+
+Vector Addition
+
+
+Vector Product
+
+
+Vector bundles
+
+
+Volume of Cone
+
+
+Volume of Cylinder
+
+
+Volume of Pyramid
+
+
+Volume of Solid
+
+
+Volume of Sphere
+
+
+Volume of prisms
+
+
+Vortex dynamics
+
+
+Weyl geometry
+
+
+What is Point Slope Form
+
+
+
+
+Logic and Functions
+
+
+Mechanics Maths
+
+
+Probability and Statistics
+
+
+Pure Maths
+
+
+Statistics
+
+
+Theoretical and Mathematical Physics
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Table of contents                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding Differential TopologyDifferential topology is a fascinating branch of mathematics that melds the study of geometric shapes with the smoothness conditions found in calculus. This field provides powerful tools for understanding the manifold structure of spaces encountered in various scientific domains, including physics and engineering.What is Differential Geometry and Topology?Differential geometry and topology are closely related fields that focus on the properties of spaces that are invariant under continuous transformations. The former deals with curves, surfaces, and their generalisations in higher dimensions, focusing on geometric properties and structures that depend intimately on the concept of smoothness. On the other hand, topology delves into the very nature of space, studying properties that remain unaffected by continuous deformation, such as stretching or bending, without tearing.The bridge between these two disciplines is built by examining structures called manifolds, which are spaces that locally resemble Euclidean space. Differential topology specifically studies these manifolds by employing concepts from calculus, further enriched by the insight provided by algebraic topology. A manifold is a topological space that at each point resembles Euclidean space, allowing the use of calculus and other tools of analysis to study its properties.Basics of Differential Forms in Algebraic TopologyDifferential forms provide a powerful language for discussing calculus on manifolds, playing a critical role in both differential geometry and algebraic topology. These forms are algebraic expressions that can be integrated over paths, surfaces, and higher-dimensional objects in manifolds, allowing mathematicians to encapsulate physical and geometric concepts such as flow and curvature.A differential form of degree k is an object that can be integrated over a k-dimensional surface within a manifold. The beauty of differential forms lies in their ability to generalise the concept of integration beyond the familiar settings of one-dimensional lines and two-dimensional surfaces to higher dimensions in a very natural way. Consider the 1-form \(dx\), which can be integrated along a path in a manifold to measure the displacement along the x-axis. Similarly, a 2-form like \(dx \wedge dy\), which represents the wedge product between \(dx\) and \(dy\), can be used to compute the area spanned by vectors in a two-dimensional plane. An Overview of Smooth Manifolds in Differential TopologyAt the heart of differential topology are smooth manifolds, which are manifolds capable of supporting calculus operations. These structures are pivotal for physicists and engineers alike, offering a mathematically rigorous way to model the continuum of space-time or the shape of objects in 3D space.A smooth manifold is defined by its ability to have smooth transitions between local neighbourhoods, which essentially means that one can define differentiable functions on the manifold that behave nicely under transformation. This smoothness criterion allows for the use of differential calculus to explore the manifold's properties. Key concepts studied on smooth manifolds include differential equations, vector fields, and tensor fields, which are essential for understanding physical phenomena in a curved space-time context. A smooth manifold is a manifold equipped with a globally defined differential structure, allowing for the computation of derivatives and ensuring a consistent framework for calculus.Differential Topology ExamplesDifferential topology amalgamates principles from calculus and topology to analyse the properties of differentiable functions on manifolds. Through this fusion, new insights into the structure and behaviour of complex geometric spaces are acquired. Illustrative examples are key to unlocking a comprehensive understanding of this discipline.Exploring Simple Differential Topology ExamplesDifferential topology focuses on the way shapes can be smoothly deformed and these transformations provide a treasure trove of interesting examples. Let's look at some simplified instances that shed light on these concepts. Consider a coffee cup and a doughnut. At first glance, they seem entirely dissimilar. However, from a differential topology perspective, both objects are equivalent because one can be smoothly transformed into the other without cutting or gluing. This transformation emphasises that both have a single hole, illustrating the concept of homeomorphism. A homeomorphism is a continuous transformation between shapes that preserves topological properties.Another example is the Möbius strip, a surface with only one side and one boundary component. Creating a Möbius strip by giving a strip of paper a half-twist and then joining the ends showcases how differential topology can give rise to objects with unique properties.How Differential Forms Influence TopologyDifferential forms are mathematical tools that significantly enrich the study of topology. They allow for the integration and differentiation of functions over curves, surfaces, and general manifolds, facilitating a deeper understanding of the geometry involved.Differential forms can be used to define the concept of the exterior derivative, which generalises the notion of differentiation to higher dimensions. This is instrumental in formulating and solving problems in physics and engineering, such as calculating the flow of a fluid across a surface or the rate at which heat leaves a body.The key advantage of differential forms is their ability to operate independently of a chosen coordinate system, providing a global perspective on local geometrical and physical properties. To illustrate, consider the differential form \(dx + 3dy\) over a 2-dimensional plane. Integrating this form over a curve that encloses an area can provide the total change of a function as one moves along the curve, showcasing the power of differential forms in analysing geometrical properties. Differential forms and their integrals are fundamental in defining and understanding the concepts of curl and divergence in vector calculus.Topology from the Differentiable ViewpointExploring the realm of mathematics through the lens of differential topology unveils a unique perspective on how shapes and spaces are structured and analysed. By focusing on the differentiable properties of manifolds, this field bridges the gap between pure mathematical theory and practical applications in physics and engineering.The Role of Smooth Manifolds in Understanding SpacesSmooth manifolds serve as the cornerstone for the study of differential topology. They represent a class of spaces that, while potentially complex and high-dimensional, locally resemble the familiar Euclidean space. This resemblance allows for the use of calculus tools to explore and understand their geometric properties. A smooth manifold is a mathematical space that can be locally approximated by Euclidean spaces in a way that allows for continuous and differentiable functions to be defined. The surface of a sphere, such as the earth's surface, is a classic example of a smooth manifold. Despite being a curved 2-dimensional surface, locally it behaves like a plane, thereby allowing for smooth functions to map the surface into Euclidean space. Understanding the role of smooth manifolds is pivotal not just in pure mathematics but also in physics where they model spacetime, in engineering for designing aerodynamic bodies, and in computer graphics for simulating realistic surfaces.The Intersection between Differential Forms and Topological StructuresDifferential forms are mathematical constructs that extend the concept of functions to include differentiation and integration over paths, surfaces, and volumes. They are instrumental in expressing physical laws and principles in the language of differential topology, illustrating the deep connection between mathematics and the physical world. A differential form is an algebraic construct used in calculus on manifolds, enabling the generalisation of the concepts of gradients, divergences, and curls to higher dimensions. A simple example of a differential form is the 1-form \(dx\), which represents an infinitesimal displacement in the x-direction. When integrated over a curve, it calculates the total displacement along that curve, showcasing how differential forms quantify changes over spaces. Differential forms play a crucial role in modern physics, particularly in electromagnetism and general relativity. For instance, Maxwell's equations can be elegantly expressed using differential forms, highlighting their ubiquity and power in translating physical concepts into mathematical language.The wedge product is an operation used with differential forms to combine them, creating new forms that capture interactions between different dimensions and directions.Applications of Differential Geometry and TopologyDifferential geometry and topology, two interconnected branches of mathematics, have profound applications across various fields, including physics, engineering, and technology. Their utility lies in the ability to model and solve complex problems by examining the properties of spaces and shapes through the lens of calculus and continuous transformations.Practical Implications in Physics and EngineeringThe application of differential geometry and topology in physics and engineering is wide-ranging. These mathematical frameworks provide essential tools for modelling physical phenomena, designing complex engineering systems, and solving problems in ways that are both innovative and efficient.In physics, the theory of general relativity, which describes the gravitational force as a curvature of spacetime, is a quintessential example of differential geometry application. The equations envision spacetime as a smooth manifold, employing the geometric properties of this manifold to detail the interactions between mass and energy. Similarly, in fluid dynamics, differential topology aids in understanding vortex lines and the flow of fluids. These concepts are crucial for designing engines and aircraft, optimising fluid flows in pipelines, and even predicting weather patterns. An application in engineering can be seen in the design of bridges and buildings, which must account for forces and stresses to prevent failure. By using techniques from differential geometry, engineers can simulate and analyse the structural behavior of complex shapes under various conditions, ensuring safety and durability. Innovative Applications in Modern TechnologyThe influence of differential geometry and topology extends into the realm of modern technology. Their principles underpin many of the advancements in computer science, especially in the areas of graphics, robotics, and data analysis. In computer graphics, differential geometry assists in rendering realistic three-dimensional objects and animations by understanding the curvature and bending of surfaces. Topological data analysis, another application, uses concepts from topology to extract meaningful structures and patterns from high-dimensional data sets, significantly impacting machine learning and network analysis. Robotics is another field revolutionised by these mathematical disciplines. Differential topology, for instance, contributes to the development of algorithms that allow robots to navigate and adapt to their environments effectively. By considering the topology of the space in which a robot moves, developers can ensure smoother, more versatile motion control, which is paramount for tasks ranging from assembly line work to exploration in unpredictable terrains.Differential geometry's analysis of curved space and topology's exploration of properties preserved under continuous transformations provide vital tools for technological innovation, from the smallest microchips to the vastness of space exploration.
+Differential topology - Key takeaways
+
+Differential topology merges geometric shapes with calculus, helping to understand manifolds in scientific fields such as physics and engineering.
+Differential geometry focuses on smooth, curved structures like curves and surfaces, while topology studies properties stable under continuous deformations.
+A manifold is a space that locally resembles Euclidean space, which is essential in both differential geometry and topology to use calculus tools.
+Differential forms are algebraic expressions that generalise the concept of integration and are central to algebraic topology's calculus on manifolds.
+Smooth manifolds allow for calculus operations and are key in understanding complex spaces, with applications in physics, engineering, and technology.
+
+
+
+
+
+
+
+
+
+
+
+Learn with 0 Differential topology flashcards in the free Vaia app
+We have 14,000 flashcards about Dynamic Landscapes.
+
+
+
+
+
+
+
+
+				Sign up with Email			
+Already have an account?				Log in
+
+
+
+
+
+Frequently Asked Questions about Differential topology		
+
+What is the basic concept of differential topology?
+Differential topology is the branch of mathematics that studies the geometric properties and structures of differentiable manifolds, which are spaces that locally resemble Euclidean space and allow for calculus operations. It focuses on how these shapes can be transformed smoothly into each other.
+How does differential topology differ from differential geometry?
+Differential topology focuses on the qualitative, global properties of differentiable manifolds without emphasising metrics, whereas differential geometry incorporates the study of geometric structures on manifolds that involve a metric, such as curvature, thereby having a more analytical approach.
+What are the fundamental theorems in differential topology?
+In differential topology, the fundamental theorems include the Stokes' Theorem, the Poincaré-Hopf Index Theorem, and the Whitney Embedding Theorem. These underpin many crucial aspects of the field, such as the study of differentiable manifolds and the behaviour of vector fields.
+What are the applications of differential topology in physics?
+Differential topology finds applications in physics in areas such as general relativity, where the topology of spacetime plays a crucial role, and in quantum field theory, particularly in the study of anomalies and the topology of gauge fields. It also underpins the mathematical framework of string theory and the analysis of phase spaces in classical mechanics.
+What skills are necessary to begin studying differential topology?
+To start studying differential topology, one needs a solid foundation in calculus and linear algebra, familiarity with the basics of general topology, and a good grasp of differential calculus on manifolds. An understanding of algebraic topology can also be beneficial.
+
+
+
+
+		Discover learning materials with the free Vaia app	
+
+
+
+
+
+
+
+
+
+Sign up for free
+
+
+
+
+
+
+
+				About Vaia			
+
+
+			Vaia is a globally recognized educational technology company, offering a holistic learning platform designed for students of all ages and educational levels. Our platform provides learning support for a wide range of subjects, including STEM, Social Sciences, and Languages and also helps students to successfully master various tests and exams worldwide, such as GCSE, A Level, SAT, ACT, Abitur, and more. We offer an extensive library of learning materials, including interactive flashcards, comprehensive textbook solutions, and detailed explanations. The cutting-edge technology and tools we provide help students create their own learning materials. StudySmarter’s content is not only expert-verified but also regularly updated to ensure accuracy and relevance.		
+
+			Learn more		
+
+
+
+
+
+
+
+
+
+
+
+
+						Vaia Editorial Team					
+
+						Team Differential topology Teachers					
+
+
+
+
+
+
+
+
+11 minutes reading time						
+
+
+
+
+
+
+						Checked by Vaia Editorial Team 
+
+
+
+
+			Save Explanation		
+
+
+
+
+
+
+
+
+
+
+
+
+					Study anywhere. Anytime.Across all devices.				
+
+					Sign-up for free				
+
+
+
+
+
+Explore our app and discover over 50 million learning materials for free.
+
+		Sign up for free	
+
+
+
+
+
+
+
+
+
+
+
+
+
+94% of Vaia users achieve better grades with our free platform.	
+
+		Download now!	
+
+
+
+
+
+
+
+
+
+
+
+Create a free account to save this explanation.
+Save explanations to your personalised space and access them anytime, anywhere!
+
+
+
+
+
+
+                Sign up with Email
+
+
+
+
+
+                Sign up with Apple
+By signing up, you agree to the Terms and Conditions and the Privacy Policy of Vaia.
+Already have an account? Log in
+
+
+
+
+
+Sign up to highlight and take notes. It’s 100% free.	
+
+
+
+                Get Started Free            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join over 22 million students in learning with our Vaia App
+
+
+The first learning app that truly has everything you need to ace your exams in one place
+
+
+
+
+
+Flashcards & Quizzes
+
+
+
+
+
+AI Study Assistant
+
+
+
+
+
+Study Planner
+
+
+
+
+
+
+
+
+
+Mock-Exams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart Note-Taking
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Sign up with Email					
+Already have an account? Log in						
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English (US)	                                
+
+
+
+ English (UK)
+ Spanish
+ German
+ French
+ Italian
+
+
+
+
+
+
+
+
+
+Company
+
+Newsroom
+Magazine
+About Us
+People
+
+
+
+
+
+Product
+
+Exams
+Textbook Solutions
+Explanations
+
+
+
+
+
+Help
+
+Honor Code
+Cancel Premium
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+© 2024 Vaia
+
+Terms
+Transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. AcceptPrivacy & Cookies Policy
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+SAVE & ACCEPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

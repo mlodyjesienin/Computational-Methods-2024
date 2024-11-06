@@ -1,0 +1,146 @@
+
+
+
+
+
+The Fourier Transform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Scientist and Engineer's Guide toDigital Signal ProcessingBy Steven W. Smith, Ph.D.
+
+HomeThe Book by ChaptersAbout the Book
+
+Copyright and permissible use
+What is DSP?
+8 good reasons for learning DSP
+Comments by reviewers
+Errata
+Free Software and Teaching Aids
+Differences Between Editions
+
+Steven W. SmithBlogContact
+
+
+
+
+
+
+
+
+Book Search
+
+
+
+
+
+
+
+
+
+Download this chapter in PDF format
+Chapter13.pdf
+
+
+
+
+Table of contents
+
+1: The Breadth and Depth of DSPThe Roots of DSPTelecommunicationsAudio ProcessingEcho LocationImage Processing2: Statistics, Probability and NoiseSignal and Graph TerminologyMean and Standard DeviationSignal vs. Underlying ProcessThe Histogram, Pmf and PdfThe Normal DistributionDigital Noise GenerationPrecision and Accuracy3: ADC and DACQuantizationThe Sampling TheoremDigital-to-Analog ConversionAnalog Filters for Data ConversionSelecting The Antialias FilterMultirate Data ConversionSingle Bit Data Conversion4: DSP SoftwareComputer NumbersFixed Point (Integers)Floating Point (Real Numbers)Number PrecisionExecution Speed: Program LanguageExecution Speed: HardwareExecution Speed: Programming Tips5: Linear SystemsSignals and SystemsRequirements for LinearityStatic Linearity and Sinusoidal FidelityExamples of Linear and Nonlinear SystemsSpecial Properties of LinearitySuperposition: the Foundation of DSPCommon DecompositionsAlternatives to Linearity6: ConvolutionThe Delta Function and Impulse ResponseConvolutionThe Input Side AlgorithmThe Output Side AlgorithmThe Sum of Weighted Inputs7: Properties of ConvolutionCommon Impulse ResponsesMathematical PropertiesCorrelationSpeed8: The Discrete Fourier TransformThe Family of Fourier TransformNotation and Format of the Real DFTThe Frequency Domain's Independent VariableDFT Basis FunctionsSynthesis, Calculating the Inverse DFTAnalysis, Calculating the DFTDualityPolar NotationPolar Nuisances9: Applications of the DFTSpectral Analysis of SignalsFrequency Response of SystemsConvolution via the Frequency Domain10: Fourier Transform PropertiesLinearity of the Fourier TransformCharacteristics of the PhasePeriodic Nature of the DFTCompression and Expansion, Multirate methodsMultiplying Signals (Amplitude Modulation)The Discrete Time Fourier TransformParseval's Relation11: Fourier Transform PairsDelta Function PairsThe Sinc FunctionOther Transform PairsGibbs EffectHarmonicsChirp Signals12: The Fast Fourier TransformReal DFT Using the Complex DFTHow the FFT worksFFT ProgramsSpeed and Precision ComparisonsFurther Speed Increases13: Continuous Signal ProcessingThe Delta FunctionConvolutionThe Fourier TransformThe Fourier Series14: Introduction to Digital FiltersFilter BasicsHow Information is Represented in SignalsTime Domain ParametersFrequency Domain ParametersHigh-Pass, Band-Pass and Band-Reject FiltersFilter Classification15: Moving Average FiltersImplementation by ConvolutionNoise Reduction vs. Step ResponseFrequency ResponseRelatives of the Moving Average FilterRecursive Implementation16: Windowed-Sinc FiltersStrategy of the Windowed-SincDesigning the FilterExamples of Windowed-Sinc FiltersPushing it to the Limit17: Custom FiltersArbitrary Frequency ResponseDeconvolutionOptimal Filters18: FFT ConvolutionThe Overlap-Add MethodFFT ConvolutionSpeed Improvements19: Recursive FiltersThe Recursive MethodSingle Pole Recursive FiltersNarrow-band FiltersPhase ResponseUsing Integers20: Chebyshev FiltersThe Chebyshev and Butterworth ResponsesDesigning the FilterStep Response OvershootStability21: Filter ComparisonMatch #1: Analog vs. Digital FiltersMatch #2: Windowed-Sinc vs. ChebyshevMatch #3: Moving Average vs. Single Pole22: Audio ProcessingHuman HearingTimbreSound Quality vs. Data RateHigh Fidelity AudioCompandingSpeech Synthesis and RecognitionNonlinear Audio Processing23: Image Formation & DisplayDigital Image StructureCameras and EyesTelevision Video SignalsOther Image Acquisition and DisplayBrightness and Contrast AdjustmentsGrayscale TransformsWarping24: Linear Image ProcessingConvolution3x3 Edge ModificationConvolution by SeparabilityExample of a Large PSF: Illumination FlatteningFourier Image AnalysisFFT ConvolutionA Closer Look at Image Convolution25: Special Imaging TechniquesSpatial ResolutionSample Spacing and Sampling ApertureSignal-to-Noise RatioMorphological Image ProcessingComputed Tomography26: Neural Networks (and more!)Target DetectionNeural Network ArchitectureWhy Does it Work?Training the Neural NetworkEvaluating the ResultsRecursive Filter Design27: Data CompressionData Compression StrategiesRun-Length EncodingHuffman EncodingDelta EncodingLZW CompressionJPEG (Transform Compression)MPEG28: Digital Signal ProcessorsHow DSPs are Different from Other MicroprocessorsCircular BufferingArchitecture of the Digital Signal ProcessorFixed versus Floating PointC versus AssemblyHow Fast are DSPs?The Digital Signal Processor Market29: Getting Started with DSPsThe ADSP-2106x familyThe SHARC EZ-KIT LiteDesign Example: An FIR Audio FilterAnalog Measurements on a DSP SystemAnother Look at Fixed versus Floating PointAdvanced Software Tools30: Complex NumbersThe Complex Number SystemPolar NotationUsing Complex Numbers by SubstitutionComplex Representation of SinusoidsComplex Representation of SystemsElectrical Circuit Analysis31: The Complex Fourier TransformThe Real DFTMathematical EquivalenceThe Complex DFTThe Family of Fourier TransformsWhy the Complex Fourier Transform is Used32: The Laplace TransformThe Nature of the s-DomainStrategy of the Laplace TransformAnalysis of Electric CircuitsThe Importance of Poles and ZerosFilter Design in the s-Domain33: The z-TransformThe Nature of the z-DomainAnalysis of Recursive SystemsCascade and Parallel StagesSpectral InversionGain ChangesChebyshev-Butterworth Filter DesignThe Best and Worst of DSP34: Explaining Benford's LawFrank Benford's DiscoveryHomomorphic ProcessingThe Ones Scaling TestWriting Benford's Law as a ConvolutionSolving in the Frequency DomainSolving Mystery #1Solving Mystery #2More on Following Benford's lawAnalysis of the Log-Normal DistributionThe Power of Signal Processing
+
+
+
+
+How to order your own hardcover copy
+				Wouldn't you rather have a bound book instead of 640 loose pages?
+				Your laser printer will thank you!
+Order from Amazon.com.
+
+
+
+
+
+
+Chapter 13 - Continuous Signal Processing / The Fourier TransformChapter 13: Continuous Signal ProcessingThe Fourier TransformThe Fourier Transform for continuous signals is divided into two categories,
+one for signals that are periodic, and one for signals that are aperiodic.  Periodic
+signals use a version of the Fourier Transform called the Fourier Series, and are
+discussed in the next section.  The Fourier Transform used with aperiodic
+signals is simply called the Fourier Transform.  This chapter  describes these
+Fourier techniques using only real mathematics, just as the last several chapters
+have done for discrete signals.  The more powerful use of complex mathematics
+will be reserved for Chapter 29.  
+Figure 13-8 shows an example of a continuous aperiodic signal and its
+frequency spectrum.  The time domain signal extends from negative infinity to
+positive infinity, while each of the frequency domain signals extends from zero
+to positive infinity.   This frequency spectrum is shown in rectangular form (real
+and imaginary parts); however, the polar form (magnitude and phase) is also
+used with continuous signals.  Just as in the discrete case, the synthesis
+equation describes a recipe for constructing the time domain signal using the
+data in the frequency domain.  In mathematical form:
+
+In words, the time domain signal is formed by adding (with the use of an
+integral) an infinite number of scaled sine and cosine waves.  The real part of
+the frequency domain consists of the scaling factors for the cosine waves, while
+the imaginary part consists of the scaling factors for the sine waves.  Just as
+with discrete signals, the synthesis equation is usually written with negative sine
+waves.  Although the negative sign has no significance in this discussion, it is
+necessary to make the notation compatible with the complex mathematics
+described in Chapter 29.  The key point to remember is that some authors put
+this negative sign in the equation, while others do not. Also notice that
+frequency is represented by the symbol, ω, a lower case 
+
+Greek omega.  As you recall, this notation is called the natural frequency, and
+has the units of radians per second.  That is, ω = 2πf, where f is the frequency in  cycles per second (hertz).   The natural frequency notation is favored by
+mathematicians and others doing signal processing by solving equations,
+because there are usually fewer symbols to write. 
+The analysis equations for continuous signals follow the same strategy as the
+discrete case: correlation with sine and cosine waves.  The equations are:
+
+As an example of using the analysis equations, we will find the frequency
+response of the RC low-pass filter.   This is done by taking the Fourier
+transform of its impulse response, previously shown in Fig. 13-4, and  described
+by:
+
+The frequency response is found by plugging the impulse response into the
+analysis equations.  First, the real part:
+
+Using this same approach, the imaginary part of the frequency response is
+calculated to be:
+
+Just as with discrete signals, the rectangular representation of the frequency
+domain is great for mathematical manipulation, but difficult for human
+understanding.  The situation can be remedied by converting into polar notation
+with the standard relations: MagH(ω) = [ReH(ω2) + ImH(ω2)]1/2 and Phase H(ω) = arctan[ReH(ω)/ImH(ω)].  Working through the algebra provides
+the frequency response of the RC low-pass filter as magnitude and phase (i.e.,
+polar form):
+
+Figure 13-9 shows graphs of these curves for a cutoff frequency of 1000 hertz
+(i.e., α = 2π1000).
+Next Section: The Fourier Series
+
+
+
+
+
+
+Home | The Book by Chapters | About the Book | Steven W. Smith | Blog | Contact
+
+	Copyright Â© 1997-2011 by California Technical Publishing
+
+
+
+
+

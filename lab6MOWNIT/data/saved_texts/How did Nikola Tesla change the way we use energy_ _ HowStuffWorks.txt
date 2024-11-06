@@ -1,0 +1,773 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How did Nikola Tesla change the way we use energy? | HowStuffWorks
+
+
+
+
+ 
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HowStuffWorks
+
+
+
+Science
+Tech
+Home & Garden
+Auto
+Culture
+
+								More More
+
+
+
+
+Health
+Money
+Animals
+Lifestyle
+Entertainment
+Quizzes
+Coupons
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+Submit Search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close Search
+
+
+
+
+
+
+Science
+Tech
+Home & Garden
+Auto
+Culture
+Health
+Money
+Animals
+Lifestyle
+Entertainment
+
+
+Quizzes
+Coupons
+
+
+
+
+
+
+
+
+
+Submit Search
+
+
+
+
+
+
+
+Sign up for our Newsletter!
+
+
+
+
+Mobile Newsletter banner close
+
+
+
+
+
+
+
+
+
+
+
+
+​
+
+
+
+
+HowStuffWorks Newsletter
+
+
+Mobile Newsletter chat close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat dots
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat dots
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat dots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat avatar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Newsletter chat subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement  
+
+
+
+
+
+
+ HowStuffWorks
+
+
+
+ Science
+
+
+
+ Physical Science
+
+
+
+ History of Physical Science
+
+
+
+
+
+
+
+
+How did Nikola Tesla change the way we use energy?
+
+
+
+
+					By: William Harris
+
+
+
+
+
+
+
+
+
+
+Share Content on Facebook
+
+
+
+
+
+
+
+Share Content on LinkedIn
+
+
+
+
+
+
+
+Share Content on Flipboard
+
+
+
+
+
+
+
+Share Content on Reddit
+
+
+
+
+
+
+
+
+
+
+Share Content via Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											An engraving shows inventor Nikola Tesla delivering a lecture to the French Physical Society and The International Society of Electricians in the 1880s. 
+										
+				Kean Collection/Getty Images
+			
+
+
+
+When you flip a switch and a lamp bathes the room in light, you probably don't give much thought to how it works -- or to the people who made it all possible. If you were forced to acknowledge the genius behind the lamp, you might name Thomas Alva Edison, the inventor of the incandescent light bulb. But just as influential -- perhaps more so -- was a visionary named Nikola Tesla.
+Tesla arrived in the United States in 1884, at the age of 28, and by 1887 had filed for a series of patents that described everything necessary to generate electricity using alternating current, or AC. To understand the significance of these inventions, you have to understand what the field of electrical generation was like at the end of the 19th century. It was a war of currents -- with Tesla acting as one general and Edison acting as the opposing general.
+
+
+Advertisement  
+
+
+
+
+
+
+
+The State of Electricity in 1885
+Edison unveiled his electric incandescent lamp to the public in January 1880. Soon thereafter, his newly devised power system was installed in the First District of New York City. When Edison flipped the switch during a public demonstration of the system in 1881, electric lights twinkled on -- and unleashed an unprecedented demand for this brand-new technology. Although Edison's early installations called for underground wiring, demand was so great that parts of the city received their electricity on exposed wires hung from wooden crossbeams. By 1885, avoiding electrical hazards had become an everyday part of city life, so much so that Brooklyn named its baseball team the Dodgers because its residents commonly dodged shocks from electrically powered trolley tracks [source: PBS].
+
+
+
+
+
+
+
+				""
+			
+
+											Elihu Thomson demonstrates an electric welder at the New York State Fair powered by a Thomson/Houston dynamo.
+										
+				Hulton Archive/Getty Images
+			
+
+
+
+The Edison system used direct current, or DC. Direct current always flows in one direction and is created by DC generators. Edison was a staunch supporter of DC, but it had limitations. The biggest was the fact that DC was difficult to transmit economically over long distances. Edison knew that alternating current didn't have this limitation, yet he didn't think AC a feasible solution for commercial power systems. Elihu Thomson, one of the principals of Thomson-Houston and a competitor of Edison, believed otherwise. In 1885, Thomson sketched a basic AC system that relied on high-voltage transmission lines to carry power far from where it was generated. Thomson's sketch also indicated the need for a technology to step down the voltage at the point of use. Known as a transformer, this technology would not be fully developed for commercial use until Westinghouse Electric Company did so in 1886.
+Even with the development of the transformer and several successful tests of AC power systems, there was an important missing link. That link was the AC motor. On the next page, we'll look at how Tesla made the connection.
+ 
+
+
+
+
+
+Advertisement  
+
+
+  
+Contents
+
+
+Tesla's Spark of Genius
+
+
+AC/DC
+
+
+How did Nikola Tesla change the way we use energy?: Author's Note
+
+
+Nikola Tesla Change the Way We Use Energy: Cheat Sheet
+
+
+
+
+
+
+
+
+Tesla's Spark of Genius
+ 
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											Generators inside the Hoover Dam produce alternating current for Arizona, Nevada and California.
+										
+				David McNew/Getty Images
+			
+
+
+
+While Edison toiled to commercialize his electric lamp, Tesla worked through a problem that had intrigued him since he was a student at the Joanneum Polytechnic School in Graz, Austria. While a student there, Tesla saw a demonstration of a Gramme dynamo. A dynamo is a generator that uses a commutator -- contacts mounted on the machine's shaft -- to produce direct current instead of alternating current. Tesla mentioned to his instructor that it might be possible to do away with the commutator, which sparked horribly as the dynamo operated. This suggestion brought ridicule from his teacher, but it captured Tesla's imagination.
+In 1881, Tesla had an inspired idea: What if one were to change the magnetic field in the stator of a dynamo instead of altering the magnetic poles of the rotor? This was a revolutionary concept that turned convention on its head. In a traditional dynamo, the stationary stator provides a constant magnetic field, while a set of rotating windings -- the rotor -- turns within that field. Tesla saw that if this arrangement were reversed, the commutator could be eliminated.
+
+
+Advertisement  
+
+Of course, bringing this idea to reality would take years of work. Tesla began in 1882 while employed at Continental Edison Company in Paris. During the day, he would install incandescent lighting systems based on Edison's DC power system. In his spare time, he would experiment with AC motor designs. This went on for two years, until Tesla transferred to the Edison Machine Works in New York City. By some accounts, Tesla described his ideas about AC to the famed American inventor, but Edison showed no interest. Instead, he had Tesla make improvements to existing DC generation plants. Tesla did so, only to be disappointed when Edison failed to pay him properly. Tesla quit, and the paths of the two men diverged permanently.
+After digging ditches and getting caught in a bad business deal, Tesla finally received financial backing from Charles Peck, an attorney, and Alfred S. Brown, a superintendent at Western Union. Peck and Brown helped Tesla establish a laboratory just a few blocks away from Edison's lab in Manhattan, and encouraged the young engineer to perfect his AC motor. Tesla did just that, building what would become known as a polyphase induction motor. The term polyphase refers to a motor based on multiple alternating currents, not just one. The term induction refers to the process whereby the rotating stator magnets induce current flow in the rotor. Tesla's original motor was a two-phase version that featured a stator with two pairs of magnets, one pair for each of two phases of AC.
+In 1887, Tesla filed for seven U.S. patents describing a complete AC system based on his induction motor and including generators, transformers, transmission lines and lighting. A few months later, Tesla delivered a lecture about his revolutionary new system to the American Institute of Electrical Engineers. The lecture caused a sensation and, despite an anti-AC campaign initiated by Edison, convinced many experts that an AC power system was more than just feasible -- it was far superior to DC.
+To bring a good idea to market, it takes some clout. In this case, the clout came from an inventor who made a fortune in the railroad industry. Read more about his support of Tesla's work on the next page.
+­
+
+
+Advertisement  
+
+
+
+
+
+
+
+AC/DC
+ 
+
+
+
+
+
+
+
+
+
+				""
+			
+
+											Thomas A. Edison stands next to his original electric dynamo.
+										
+				U.S. Library of Congress/Science Faction/Getty Images
+			
+
+
+
+George Westinghouse, whose own electric company was struggling to work out the details of a successful AC power system, heard about Tesla's 1888 lecture and immediately was intrigued. When Peck and Brown approached Westinghouse about commercializing Tesla's inventions, the entrepreneur responsible for the railroad air brake made a generous offer. He agreed to pay $25,000 in cash, as well as $50,000 in notes and a small royalty for each horsepower of electricity originating from the motor.
+Westinghouse carried Tesla's inventions back to Pittsburgh, Penn., where he hoped to use the technology to power the city's streetcars. Tesla followed, and as an employee of the Westinghouse Electric Company, consulted on the implementation. The project didn't proceed smoothly, and Tesla frequently battled with Westinghouse engineers. Eventually, however, everyone pulled together to come up with just the right formula: an AC system based on three-phase, 60-cycle current. Today, almost all power companies in the United States and Canada supply 60-cycle current, which means the AC completes 60 changes of direction in one second. This is known as the frequency of the system.
+
+
+Advertisement  
+
+By the early 1890s, Edison and the supporters of DC felt genuinely threatened. They continued to make claims that AC was dangerous and pointed to a disastrous electrocution attempt in 1890 as evidence. But they suffered a severe blow in 1893, when Westinghouse won the bid to illuminate the Chicago World's Fair. His competition was General Electric (GE), the company formed by the merger between Edison General Electric and Thomson-Houston. GE was the leading torchbearer for DC-based power. Westinghouse won the bid on cost, but when President Grover Cleveland flipped a switch to light 100,000 incandescent lamps across the fairgrounds, very few doubted the superiority of AC power.
+Westinghouse mollified many remaining doubters in 1895 by designing a hydroelectric plant at Niagara Falls that incorporated all of the advances made in AC. At first, the plant only supplied power to Buffalo, New York. But it wasn't long before power was being transmitted to New York City, helping to cement Broadway as the Great White Way in the public imagination.
+By this time, Tesla had withdrawn from the day-to-day details of power plants and practical implementations of AC. He had moved back to New York City, where he opened a new lab in which he could explore other ideas, machines and devices. Many of these inventions were not related to power generation or electricity. But his impact on the field of electrical engineering was enormous. In fact, it can be said that Tesla's AC motor and polyphase AC system won the war of currents because they form the basis of all modern power generation and distribution. However, direct current -- Edison's baby -- didn't disappear completely. It still operates automobile electrical systems, locomotives and some types of motors.
+For more information on electricity and other illuminating ideas, visit the links on the next page. 
+
+
+Advertisement  
+
+
+
+
+
+
+
+How did Nikola Tesla change the way we use energy?: Author's Note
+ 
+
+When I was a kid, "Schoolhouse Rock" sang its lessons from the TV every Saturday morning. Remember the one about Mother Necessity? The one about America's great inventors: Eli Whitney, Samuel Morse, Alexander Graham Bell and, of course, Thomas Edison. Funny that Nikola Tesla didn't make an appearance. Then again, one thing that strikes you as you read about Tesla and the great electricity wars of the late 19th century is just how ruthless the major players could be. After all, there was a lot at stake, like who was going to get rich from wiring the entire nation. Edison may have been a great inventor, but he wasn't always nice, and he didn't always play fair. In many ways, he tried to muscle Tesla out of the way to make sure his model of DC power generation -- and his reputation -- remained firmly planted in the public's mind.
+The other thing that struck me as I wrote about this time in American history was not the coming light, but the darkness. Before engineers wired New York City and incandescent bulbs blazed from every corner, the streets must have been dark, dark places, even with gas lamps. A late-night walk at the turn of the century would have brought a touch of fear to even the bravest souls. And only when the lights finally came on could the great Gotham become what it always aspired to be -- The City That Never Sleeps.
+
+
+Advertisement  
+
+Sources
+
+Carlson, W. Bernard. "Inventor of Dreams." Scientific American. March 2005.Cheney, Margaret. "Tesla: Man Out of Time." Simon & Schuster. New York. 1981.Encyclopedia Britannica 2005. "Tesla, Nikola." CD-ROM, 2005.General Electric. "Thomas Edison & GE."                  http://www.ge.com/company/history/edison.htmlKlein, Maury. "The Power Makers: Steam, Electricity, and the Men Who Invented Modern America." Bloomsbury Press. New York. 2008.PBS. "Tesla: Master of Lightning"                  http://www.pbs.org/tesla/World Book 2005. "electric current."World Book 2005. "Tesla, Nikola."
+
+
+
+Advertisement  
+
+
+
+
+
+
+
+Nikola Tesla Change the Way We Use Energy: Cheat Sheet
+ 
+
+Stuff You Need to Know:
+
+In the late 19th century, two competing systems existed to generate electricity: direct current (DC) and alternating current (AC).Thomas Edison was a staunch supporter of DC power generation, but it could not be transmitted economically over long distances.Nikola Tesla, who immigrated to the United States in 1884, believed in AC power generation.
+Tesla invented the polyphase induction motor and, with it, ushered in what some have called the Second Industrial Revolution.
+Just three years after arriving in America, Tesla filed for seven U.S. patents describing a complete AC system based on his induction motor.
+
+Now, test your knowledge with these quizzes!
+
+The Fabulous Faraday Cage QuizFact or Fiction: Energy EfficiencyUltimate Alternative Energy Quiz
+Brainiacs: Albert Einstein Quiz
+
+Check out these image galleries!
+
+Renewing the Grid PicturesNuclear Power Pictures
+
+
+
+Advertisement  
+
+
+
+
+
+Frequently Answered Questions
+How did Nikola Tesla impact the world today?
+
+Nikola Tesla was an inventor who created the AC induction motor and developed alternating current. His work laid the foundation for modern electrical engineering and power generation.Why was Nikola Tesla so important?
+
+Nikola Tesla was an important inventor and electrical engineer. He is best known for his development of the alternating current (AC) electrical system.
+
+
+
+
+​
+
+
+
+		Cite This!
+	
+
+Please copy/paste the following text to properly cite this HowStuffWorks.com article:
+
+
+
+
+
+
+
+Copy
+
+
+
+				William Harris
+				"How did Nikola Tesla change the way we use energy?"
+				1 January 1970.HowStuffWorks.com. <https://science.howstuffworks.com/nikola-tesla.htm>
+				12 June 2024
+				
+
+
+
+
+
+
+
+
+						Close
+					
+
+
+
+
+
+
+
+
+
+Citation
+
+
+
+
+
+
+ 
+
+
+More Awesome Stuff
+
+
+
+
+
+
+
+
+
+				""
+			
+
+Up Next
+How Electricity Works
+Explore More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				""
+			
+
+You May Like
+How Light Works
+Explore More
+
+
+
+
+
+
+
+Advertisement  
+
+
+Advertisement  
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+Advertisement  
+
+
+
+Advertisement  
+
+
+
+Advertisement  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

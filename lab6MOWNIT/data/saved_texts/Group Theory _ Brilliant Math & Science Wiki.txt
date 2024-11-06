@@ -1,0 +1,770 @@
+
+
+
+
+
+
+
+Group Theory | Brilliant Math & Science Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+          Home
+        
+
+
+
+
+
+
+
+
+
+          Courses
+        
+
+
+
+
+                    Sign up
+            
+
+                    Log in
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                The best way to learn math and computer science.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+Group Theory
+
+
+
+
+
+
+                        Sign up with Facebook
+or
+
+                        Sign up manually
+
+
+
+                    Already have an account?
+                    
+                            Log in here.
+                    
+
+
+
+
+
+
+                Brian Yao,
+        
+    
+        
+                Patrick Corn,
+        
+    
+        
+                Владимир Петров,
+        
+    
+
+    
+        and
+        
+
+                7 others
+            
+
+
+
+                                Christopher Williams
+                        
+
+
+
+                                Andrew Ellinor
+                        
+
+
+
+                                Prasun Biswas
+                        
+
+
+
+                                Eli Ross
+                        
+
+
+
+                                Jimin Khim
+                        
+
+
+
+                                Andrew Hayes
+                        
+
+
+
+                                Calvin Lin
+                        
+
+
+
+    
+
+    contributed
+
+
+            
+
+
+
+Group theory is the study of groups. Groups are sets equipped with an operation (like multiplication, addition, or composition) that satisfies certain basic properties. As the building blocks of abstract algebra, groups are so general and fundamental that they arise in nearly every branch of mathematics and the sciences. For example:  
+
+
+
+Symmetry groups appear in the study of combinatorics overview and algebraic number theory, as well as physics and chemistry. For example, Burnside's lemma can be used to count combinatorial objects associated with symmetry groups.
+
+
+Image source: Wikipedia
+The molecule \( \ce{CCl_4} \) has tetrahedral shape; its symmetry group has 24 elements. Chemists use symmetry groups to classify molecules and predict many of their chemical properties.
+Elliptic curve groups are studied in algebraic geometry and number theory, and are widely used in modern cryptography.    
+
+
+
+Points on an elliptic curve can be "added" using the rules above. The resulting group structure is the subject of much contemporary research. It can be used to classify solutions to the curve equation; also, the difficulty of certain computational problems related to the group makes it useful in cryptography.
+Fundamental groups are used in topology, for instance, in knot theory, as invariants that help to decide when two knots are the same.
+
+
+ 
+Every knot has an associated knot group. The knot groups of these three knots are different from each other, so none of these knots can be tangled or untangled into the others without cutting and pasting.
+
+
+
+Contents
+
+
+Definition
+
+
+Examples
+
+
+Group Properties and Definitions
+
+
+Isomorphisms
+
+
+Products
+
+
+Exercises
+
+
+
+
+
+
+Definition
+
+
+
+A group is a set \(G\) together with an operation that takes two elements of \( G\) and combines them to produce a third element of \( G \). The operation must also satisfy certain properties.
+More formally, the group operation is a function \(G\times G \rightarrow G \), which is denoted by \( (x,y) \mapsto x * y \), satisfying the following properties (also known as the group axioms).
+
+Group Axioms:
+  \[\]
+  1) Associativity: For any \(x, y, z \in G \), we have \( (x *y)*z = x*(y*z) \). 
+2) Identity: There exists an \( e \in G \) such that \( e * x = x * e = x \) for any \(x \in G \). We say that \(e\) is an identity element of \(G\).
+3) Inverse: For any \(x \in G\), there exists a \(y \in G\) such that \(x * y = e = y * x  \). We say that \(y\) is an inverse of \(x\).
+
+Note that the definition of the operation as a function implies 
+
+4) Closure: For any \(x, y \in G \), \(x*y \) is also in \(G\). 
+
+Many definitions include this as a fourth "axiom" for emphasis. One common construction of groups is as subsets \( H \) of a known group \( G \), with the same operation as in \( G \). In this case, closure is important to check: for \( a,b \) in \(H \), \( a*b \) is an element of \( G \) that may or may not lie in \( H \).
+
+
+
+
+
+Examples
+
+
+
+To specify a group, we have to state what the set is, along with the group operation. The following are common examples of groups:
+
+1) \( \mathbb{Z} \), the set of integers, with the group operation of addition.   
+2) \( \mathbb{R}^\times \), the set of non-zero real numbers, with the group operation of multiplication.   
+3) \( \mathbb{Z}_n\), the set of integers \( \{0, 1, \ldots, n-1\} \), with group operation of addition modulo \(n\).   
+4) \( \mathbb{Z}_n ^\times \), the set of integers \( \{ 1 \leq a \leq n-1: \gcd(a,n)=1 \} \), with group operation of multiplication modulo \(n\).
+5) \( S_n\), the set of bijective functions \( [n] \rightarrow [n] \), where \( [n] = \{1, 2, \ldots, n \} \), with the group operation of function composition. 
+
+Here is what is involved in checking the axioms explicitly for example 1.
+
+Closure: The sum of two integers is an integer. \((\)So addition is an operation on \( \mathbb Z.) \)
+Associativity: It is well known that addition of integers is indeed associative.      
+Identity: For all integers \( a \), \( 0+a = a+0 = a \). So \( 0 \) is an identity element for \( \mathbb Z \) under addition.   
+Inverses: For all integers \( a \), \( a + (-a) = (-a)+a = 0 \). So \( -a \) is an additive inverse for \( a \).
+
+
+
+
+
+
+Group Properties and Definitions
+
+
+
+This section contains some basic properties and definitions of terms that are used to describe groups and their elements.
+The associativity condition implies that it makes sense to drop the parentheses altogether and speak of the product of \(n\) elements of \(G\), \(a_1 * a_2 * \cdots * a_n\), since it does not matter how the parentheses are arranged. When the operation is clear, this product is often written without the \( * \) sign, as \(a_1a_2\cdots a_n\). However, the order of the elements matters, since it is generally not true that \(xy = yx\) for all \(x,y \in G \).
+ 
+The group \( G \) is abelian if for any \(x, y \in G\), \(xy = yx \).
+
+Note that the first four groups in the examples above are abelian, but \( S_n \) is not abelian for \( n \ge 3 \) (see the worked examples below).
+ 
+Let \(x\in G\) be an element with an inverse \(y \). For any \(m \in \mathbb{Z}\), define
+\[ x^m = \begin{cases}
+x*x*\cdots *x ~~(m \mbox{ terms}) & \mbox{if } m > 0 \\
+e & \mbox{if } m = 0 \\
+y * y * \cdots * y ~~(m \mbox{ terms}) & \mbox{if } m < 0.
+\end{cases} \] 
+
+It is routine, but rather tedious, to show that the exponential laws of integers similarly hold.
+
+For any \(g \in G\) and \(m, n \in \mathbb{Z} \), we have \( g^{m+n} = g^m g^n \) and \( \left( g^m \right)^n =g^{mn} \).
+
+Since groups are sets with restrictions, it is natural to consider subsets of groups. If \(H \subseteq G\) for a group \(G\) and \(H\) is also a group, then we call \(H\) a subgroup of \(G\).
+
+The order of a finite group \(G\) is the number of elements in \(G\), denoted by \( \lvert G \rvert\). 
+The order of an element \(g \in G\) is the smallest positive integer \(k\) such that \(g^k = e_G\).
+ 
+An important result relating the order of a group with the orders of its subgroups is Lagrange's theorem.
+It is useful to understand that we can usually describe a group without listing out all of its elements. This is because we generally start with a set of elements, and then apply the group operation to all pairs of elements until we cannot create any more distinct elements. If a set of such elements \(X\) (and their inverses) can be used with a group operation \(\ast\) to create a group \(G\), we say that \(G\) is generated by \(X\). If the smallest such \(X\) is finite, then we say \(G\) is finitely generated. If the smallest such \(X\) consists of only one element, we say that \(G\) is cyclic. Some examples are as follows:
+
+\(\mathbb{Z}\) is cyclic, since it is generated by \({1}\). This is because \(1 + 1 = 2\), \(2 + 1 = 3\), and so on, generating all positive integers. Similarly, \((-1) + (-1) = -2\), \((-2) + (-1) = -3\), and so on, generating all negative integers (here, -1 is the inverse of 1). And of course, \((-1) + 1 = 0\), giving us the identity. Therefore, we have generated all the elements of \(\mathbb{Z}\) using one element. By the same reasoning, all \(\mathbb{Z}_n\) are cyclic.
+\(\mathbb{Q}\) is not finitely generated.
+\(\mathbb{Z}_8^\times\) is generated by the elements \(\{3,5,7\}\). Note that all of these elements have order 2, and the group itself is the set of generators along with the identity.
+The symmetric group \(S_n\) is generated by the set of all the 2-cycles (transpositions) in \(S_n\). This is proven by showing that every cycle \((n_1n_2 \dots n_k)\) can be written as a product of transpositions \((n_1n_2)(n_1n_3)\dots(n_1n_k)\).
+
+
+
+
+
+
+Isomorphisms
+
+
+
+In abstract algebra, we say that two mathematical objects are isomorphic if they have the same structure. An isomorphism is a mapping between two such objects which preserves the structure of the objects. Isomorphisms therefore naturally appear in group theory, and can be defined as follows:
+
+An isomorphism \(\phi : G \rightarrow H\) between two groups \(G\) and \(H\) (with group operations \(\ast_G\) and \(\ast_H\), respectively) is a mapping which satisfies the following conditions:
+
+\(\phi\) is a bijection.
+For every \(x,y \in G\), we have \(\phi(x \ast_G y) = \phi(x) \ast_H \phi(y).\)
+
+Two groups \(G\) and \(H\) are isomorphic (\(G \cong H\)) if and only if there exists an isomorphism between them.
+
+From the definition, taking isomorphic groups \(G \cong H\) with isomorphism \(\phi : G \rightarrow H\), the following statements hold:
+
+Isomorphisms map identity elements to identity elements. This follows since if \(\phi(g) = h\), then \(\phi(g) = \phi(g \ast_G e_G) = \phi(g) \ast_H \phi(e_G) = h \ast_H \phi(e_G) = h = h \ast_H e_H\), giving us \(\phi(e_G) = e_H\) by left-multiplying by \(h^{-1}\) on the equality \(h \ast_H \phi(e_G) = h \ast_H e_H\).
+Isomorphisms map inverses to inverses. That is, for \(x \in G\), \(\phi(x^{-1}) = \phi(x)^{-1}\). This follows since for \(x \in G\), using the fact that isomorphisms send identities to identities, \(\phi(e_G) = \phi(x \ast_G x^{-1}) = \phi(x) \ast_H \phi(x^{-1}) = e_H\). Left-multiplying by \(\phi(x)^{-1}\) gives us the desired equality \(\phi(x^{-1}) = \phi(x)^{-1}\).
+\(|G| = |H|\) since \(\phi\) is a bijection. 
+The inverse of an isomorphism is an isomorphism, and a composition of isomorphisms is an isomorphism.
+
+Isomorphisms are useful for classifying groups of the same order, as well as for identifying groups which are identical in structure, even if they appear in different contexts. Some examples involving isomorphisms are as follows: 
+
+\(\mathbb{Z}_4 \cong 2\mathbb{Z}_4,\) where \(2\mathbb{Z}_4 = \{0, 2, 4, 6\}\) whose operation is addition modulo 8.
+\(\mathbb{Z}_4 \cong R\), where \(R\) is the group of plane rotational symmetries of a swastika symbol. \(R = \{e,r,r^2,r^3\}\), where \(r\) is a rotation by \(\frac{\pi}2 \, (90^\circ)\) about an axis perpendicular to the plane containing the symbol through its center.
+\(\mathbb{Z}_8^\times \cong C\), where \(C\) is the group of plane symmetries of a chessboard. \(C = \{e,r,q_1,q_2\}\), where \(r\) is a rotation by \(\pi\) about an axis perpendicular to the board through its center, and \(q_1,q_2\) are reflections across planes perpendicular to the board passing through opposite corners of the board.
+
+
+
+
+
+
+Products
+
+
+
+We can take products of groups to create more groups. The most straightforward way of doing this is the direct product.
+
+The direct product \(G \times H\) of groups \(G\) and \(H\) (with operations \(\ast_G\) and \(\ast_H\), respectively) is a group containing the elements \(\{(g,h) | g \in G \wedge h \in H\},\) where the group operation \(\ast_{GH}\) is defined as
+\[(g_1,h_1) \ast_{GH} (g_2,h_2) = (g_1 \ast_G g_2, h_1 \ast_H h_2).\]
+
+It is easy to verify that \(G \times H\) is a group, since the identity is \((e_G,e_H)\), the inverse of \((g,h)\) is \((g^{-1},h^{-1})\), and associativity and closure follow directly from the associativity and closure of \(G\) and \(H\).
+There is a useful theorem for showing that a group is isomorphic to a direct product (of its subgroups):
+
+Let \(G\) be a group with subgroups \(H\) and \(K\), where \(HK = G\) \((\)that is, every \(g \in G\) can be written as \(hk\) for some \(h \in H\) and \(k \in K).\) In addition, suppose every element of \(H\) commutes with every element of \(K\), and \(H \cap K = \{e\}\). Then, \(G \cong H \times K\).
+
+
+(See here for reference.)
+Define a mapping \(\phi : H \times K \rightarrow G\) given by \(\phi : (h,k) \mapsto hk\). Then, we have 
+\[\begin{split}\phi\big((h_1,k_1)(h_2,k_2)\big) 
+& = \phi\big((h_1h_2,k_1k_2)\big) \\ 
+& = h_1h_2k_1k_2 \\ 
+& = h_1k_1h_2k_2 \\ 
+& = \phi\big((h_1,h_2)\big)\phi\big((k_1,k_2)\big),\end{split}\]
+so \(\phi\) preserves the operation.
+If \(\phi\big((h_1,k_1)\big) = \phi\big((h_2,k_2)\big)\), then \(h_1k_1 = h_2k_2\), or \(h_2^{-1}h_1 = k_2k_1^{-1}\). Note that the left side belongs to \(H\) by closure, and the right side belongs to \(K\). Since both sides are equal, they must belong to \(H \cap K\), and thus are equal to the identity. This gives us \(h_1 = h_2\) and \(k_1 = k_2\), so \(\phi\) is injective.
+Since any \(g \in G\) can be written in the form \(hk\) for \(h \in H\) and \(k \in K\), \(\phi\) is surjective. Therefore, by definition, \(\phi\) is an isomorphism, so \(G \cong H \times K\). \(_\square\) 
+
+Some examples of direct products are as follows:
+
+\(\mathbb{Z}_2 \times \mathbb{Z}_2\) is commonly called Klein's group or \(V_4\), and consists of the elements \(\{(0,0),(0,1),(1,0),(1,1)\}\). Note that \(\mathbb{Z}_2 \times \mathbb{Z}_2 \cong \mathbb{Z}_8^\times\) but \(\mathbb{Z}_2 \times \mathbb{Z}_2 \not \cong \mathbb{Z}_4\).
+The \(n\)-dimensional coordinate plane is essentially the direct product \(\underbrace{\mathbb{R} \times \dots \times \mathbb{R} }_{n \text{ copies of } \mathbb{R}}\).
+We have \(\mathbb{Z}_{mn} \cong \mathbb{Z}_m \times \mathbb{Z}_n\) if and only if \(m\) and \(n\) are relatively prime. Note that this is equivalent to the statement that \(\mathbb{Z}_m \times \mathbb{Z}_n\) is cyclic.
+
+
+
+
+
+
+Exercises
+
+
+
+
+Let \(G\) be a group. Then prove that the identity element \( e \in G\) is unique. Also, prove that every element \( x \in G\)  has a unique inverse, which we shall denote by \( x^{-1} \).
+
+Let \(e\) and \(e'\) be identities. Then by definition, we get \(e' = e * e' = e\). 
+Similarly, let \(y\) and \(y'\) be inverses of \(x\). Then 
+\[ y=y*e=y*(x*y')=(y*x)*y' =e*y' =y'.\ _\square\]
+Note that the inverse of the inverse of \( x \) is precisely \( x \) itself. In symbolic form, we get \((x^{−1})^{−1} = x.\) Furthermore, we can show that \( (x^m)^{-1} = x^{-m} \).
+
+
+Which of the following are groups?
+(a) The set \( S \) of nonzero integers, with operation given by multiplication. 
+(b) The set of rotations and reflections of a square which preserve the square's shape, with operation given by composition. 
+(c) The set of invertible \( 2 \times 2 \) matrices with real entries, with operation given by matrix multiplication. 
+(d) The set \( \mathbb Z\) of integers, with operation given by \( x*y = (x+y)(1+xy) \). 
+(e) The set \( T \) of nonzero real numbers of the form \( a+b\sqrt{2} \), where \( a \) and \( b \) are rational numbers, with operation given by multiplication.
+
+(a) This is not a group because most integers don't have multiplicative inverses. For instance, there is no integer \( n \) such that \( 2n=1 \). Since \( 1 \) is the only possible identity element, axiom 3) is not satisfied because \( 2 \) doesn't have a multiplicative inverse in \( S \).   
+(b) This is indeed a group. It is called the dihedral group \( D_4 \), with eight elements: the identity (which does nothing); rotations by \( 90 \), \( 180 \), and \( 270 \) degrees; and reflections across the four axes of symmetry. Here is a representation of the elements of \( D_4 \), based on how they rotate the capital letter F.
+
+
+
+(c) This is a group. Note that the invertible requirement is necessary to satisfy axiom 3).    
+(d) This is not a group. The only axiom that fails is associativity. You can check, for instance, that \( 1*(2*2) = 441 \) and \( (1*2)*2 = 209 \).     
+(e) This is a group. Multiplication of real numbers is associative and has identity \( 1 = 1+0\sqrt{2} \), so the only thing to check is that everything in \( T \) has a multiplicative inverse in \( T \). To see this, write
+\[
+\frac1{a+b\sqrt{2}} = \frac{a-b\sqrt{2}}{a^2-2b^2} = \frac{a}{a^2-2b^2} + \frac{-b}{a^2-2b^2}\sqrt{2},
+\]
+which is in \( T \). \((\)Something to consider: why is the denominator \( a^2-2b^2 \) nonzero?\()\) \(_\square\)
+Note that the group in (e) is abelian, but the groups in (b) and (c) are not.
+
+
+If \(x, y \in G \) have inverses \( x^{-1}\) and \(y^{-1} \) respectively, what is the inverse of \( xy?\)
+
+The inverse of the product \(x * y\) is given by \(y^{−1} * x^{−1}\). Indeed, we have \((x * y)*(y^{−1}*x^{−1})=x(y*y^{−1})x^{−1} =xex^{−1} =e\) and, likewise, \((y^{−1}*x^{−1})*(x*y)=e\).
+A simple way to remember this property is to think about how you wear your socks and shoes. You first put on your socks (\(x\)), and then you put on your shoes \( (y) \). At the end of the day, you have to take off your shoes \( (y^{-1} ) \), and then take off your socks \( ( x^{-1}) \). Hence \( (xy)^{-1} = y^{-1} x^{-1} \). Trying to take off your socks while your shoes are on is going to be very difficult. \(_\square\)
+
+
+[Cancellation Law]  
+Let \(G\) be a group. If \(g, h, h' \in G \) and \(gh = gh'\), then \(h=h'\).  Likewise, if \( g, g', h \in G\) and \(gh = g'h\), then \(g = g'\).
+
+For the first statement, the equation \(gh = gh'\) gives \(g^{−1}(gh) = g^{−1}(gh')\), so \((g^{−1}g)h = (g^{−1}g)h' \) and thus \(h = h'\).  For the second statement, multiply \(h^{−1}\) on the right. 
+It is important to be careful with the order of the elements in these expressions. For example, the expression \( ghg^{-1} \) is not necessarily equal to \( h \) if \( G \) is not abelian. \(_\square\)
+
+
+Show that \( S_n \) is not abelian if \( n \ge 3\).
+
+Let \( \sigma \) be the permutation that switches \( 1\) and \( 2\) and fixes everything else. Let \( \tau \) be the permutation that switches \( 1\) and \( 3 \) and fixes everything else. Then \( (\sigma \circ \tau)(1) = 3 \) and \( (\tau \circ \sigma)(1) = 2 \), so \( \sigma \circ \tau\ne \tau \circ \sigma \).
+In fact, \( \sigma \circ \tau \) and \( \tau \circ \sigma\) are both 3-cycles: they cycle the elements \(1,2,3 \) around and leave the rest fixed. That is, \( \sigma \circ \tau \) sends \( 1 \mapsto 3 \mapsto 2 \mapsto 1 \), and \( \tau \circ \sigma \) sends \( 1 \mapsto 2 \mapsto 3 \mapsto 1\). \(_\square\)
+
+
+What is the order of each of the 5 groups listed above?
+
+1) \( \mathbb{Z} \): There are infinitely many elements. (In fact, there are countably many elements.) 
+2) \( \mathbb{R}^\times \): There are infinitely many elements.   (In fact, there are uncountably many elements.) 
+3) \( \mathbb{Z}_n\): There are \(n\) elements. 
+4) \( \mathbb{Z}_n ^\times \): There are \(\phi(n)\) elements. 
+5) \( S_n\): There are \(n!\) elements. \(_\square\)
+ 
+
+Show that \(\mathbb{Q} \not \cong \mathbb{Z}\), where \(\mathbb{Q}\) is the group of all rational numbers under the operation of addition.
+
+Suppose there exists an isomorphism \(\phi : \mathbb{Q} \rightarrow \mathbb{Z}\). Since \(\phi\) is a bijection, there exists \(x \in \mathbb{Q}\) such that \(\phi(x) = 1\). Take 
+\[\phi(x) = \phi\left(\frac{x}{2} + \frac{x}{2}\right) = \phi\left(\frac{x}{2}\right) + \phi\left(\frac{x}{2}\right) = 1,\]
+which gives us \(\phi\big(\frac{x}{2}\big) = \frac{1}{2} \notin \mathbb{Z}\), a contradiction. Therefore, no isomorphism \(\phi\) exists, so \(\mathbb{Q} \not \cong \mathbb{Z}\). \(_\square\)
+ 
+
+Classify all groups of order 4 up to isomorphism.
+
+Let \(G\) be a group with order \(|G| = 4\). Then, we know by Lagrange's theorem that non-identity elements of \(G\) can have orders 2 or 4.
+
+If \(G\) contains an element of order 4, then \(G\) is cyclic and therefore isomorphic to \(\mathbb{Z}_4\).
+If \(G\) does not contain an element of order 4, the only other possibility is that all 3  non-identity elements have order 2. If we let \(G = \{e,b_1,b_2,b_3\}\), we consider the value of \(b_1b_2\). If \(b_1b_2 = e\), then \(b_1 = b_2\), a contradiction. If \(b_1b_2 = b_1\) or \(b_1b_2 = b_2\), then we conclude one of \(b_1\) and \(b_2\) is the identity, again a contradiction. So, we must have \(b_1b_2 = b_3\). Then, we define a mapping \(\phi : G \rightarrow \mathbb{Z}_2 \times \mathbb{Z}_2\): \[\begin{align} & \phi : e \rightarrow (0,0) \\ & \phi : b_1 \rightarrow (0,1) \\ & \phi : b_2 \rightarrow (1,0) \\ & \phi : b_3 \rightarrow (1,1), \end{align}\] giving us an isomorphism from \(G\) to \(\mathbb{Z}_2 \times \mathbb{Z}_2\).
+
+Therefore, every group \(G\) of order 4 is isomorphic to either \(\mathbb{Z}_4\) or \(\mathbb{Z}_2 \times \mathbb{Z}_2\). \(_\square\)
+
+
+
+
+
+
+
+
+        Select one or more
+    
+
+
+
+
+
+
+\[x\]
+
+
+
+
+
+
+
+
+\[n\]
+
+
+
+
+
+
+
+
+\[x^n\]
+
+
+
+
+
+
+
+
+\[n!\]
+
+
+
+
+
+
+
+
+\[x^{n!}\]
+
+
+
+
+
+
+
+
+\[e_G\]
+
+
+
+
+
+
+
+
+\[2016\]
+
+
+
+
+
+
+Let \((G,\circ)\) be a finite abelian group of order \(n\), say \(G=\{a_i\}_{i=1}^{i=n}\), where \(n\) is a positive integer. Also, let \(x=a_1\circ a_2\circ\cdots\circ a_{n-1}\circ a_n\).
+What is the value of \(x^{2016}?\)
+Details and Assumptions:
+
+\(e_G\) denotes the identity element of the group \((G,\circ)\). 
+\(x^n=\underbrace{x\circ x\circ\cdots\circ x\circ x}_{n\textrm{ times}}\).
+
+
+
+
+
+
+
+
+
+
+
+
+Cite as:
+                Group Theory.
+                Brilliant.org.
+                Retrieved from
+                https://brilliant.org/wiki/group-theory-introduction/
+
+
+
+
+
+
+
+
+
+
+Join Brilliant
+The best way to learn math and computer science.
+
+Sign up
+
+
+
+
+
+
+
+
+
+                Sign up to read all wikis and quizzes in math, science, and engineering topics.
+            
+
+
+
+Log in with Google
+        
+
+
+  Log in with Facebook
+        
+
+
+        
+            Log in with email
+        
+
+
+
+
+Join using Google
+        
+
+
+  Join using Facebook
+        
+
+
+        
+            Join using email
+        
+
+
+
+
+
+
+
+
+Reset password
+              New user?
+                
+                
+                    
+
+
+        
+            Sign up
+        
+
+
+
+
+Existing user?
+                
+                
+                    
+
+
+        
+            Log in
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+Problem Loading...
+Note Loading...
+Set Loading...
+
+
+
+
+
+
+

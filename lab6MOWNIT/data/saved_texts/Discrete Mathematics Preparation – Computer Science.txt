@@ -1,0 +1,955 @@
+
+
+
+
+
+
+
+
+
+
+Discrete Mathematics Preparation – Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+Go to Williams College Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Search
+Williams Search Box
+
+
+Type in your search terms and press enter or navigate down for suggested search results.
+
+
+
+
+Menu
+
+
+
+
+
+
+use tab and shift-tab to navigate once expanded
+
+
+
+
+Megamenu Global
+
+
+
+
+
+
+Academics
+
+
+
+Areas of Study
+
+
+Course Catalog
+
+
+Faculty
+
+
+Graduate Programs
+
+
+Pathways for Inclusive Excellence
+
+
+Study Away
+
+
+Tutorials
+
+
+Winter Study
+
+
+
+
+
+Admission & Aid
+
+
+
+Admission & Aid
+
+
+Affordability
+
+
+Apply
+
+
+Financial Aid
+
+
+Tours
+
+
+
+
+
+Alumni & Families
+
+
+
+Alumni
+
+
+Parents & Families
+
+
+Ways to Give
+
+
+Make a Gift
+
+
+
+
+
+Life on Campus
+
+
+
+Activities
+
+
+Bookstore
+
+
+Dining
+
+
+Health Services
+
+
+Housing
+
+
+Religion & Spirituality
+
+
+
+
+
+
+
+
+
+
+Megamenu Featured
+
+
+
+
+
+
+Diversity & Equity
+
+
+
+
+Experiential Learning & Community Engagement
+
+
+
+
+Sustainability
+
+
+
+
+Arts
+
+
+
+
+Athletics
+
+
+
+
+Career Exploration Center
+
+
+
+
+Libraries
+
+
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Megamenu Social
+
+
+
+
+
+
+Facebook
+
+
+
+
+Instagram
+
+
+
+
+X (Twitter)
+
+
+
+
+YouTube
+
+
+
+
+Flickr
+
+
+
+
+LinkedIn
+
+
+
+
+Threads
+
+
+
+
+Feeds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+
+Williams » Computer Science » Discrete Mathematics Preparation
+
+
+
+
+
+
+
+
+Discrete Mathematics Preparation
+
+Discrete Mathematics
+Discrete mathematics is foundational material for computer science: Many areas of computer science require the ability to work with concepts from discrete mathematics, specifically material from such areas as set theory, logic, graph theory, combinatorics, and probability theory.
+The material in discrete mathematics is pervasive in the areas of data structures and algorithms but appears elsewhere in computer science as well. For example, an ability to create and understand a proof is important in virtually every area of computer science, including (to name just a few) formal specification, verification, databases, and cryptography.  Graph theory concepts are used in networks, operating systems, and compilers. Set theory concepts are used in software engineering and in databases.  Probability theory is used in artificial intelligence, machine learning, networking, and a number of computing applications.
+This document reflects the Williams Computer Science Department’s perspective on the core discrete mathematics material that students should know for further study in the CS major. It borrows heavily from the ACM/IEEE-CS Computer Science Curricula 2013 report, as well as from the syllabus of Math 200 – Discrete Mathematics as taught at Williams by Prof. Mihai Stoicu.
+Note that this document is intended to be a high-level guide to the types of concepts and level of understanding expected for passing the Discrete Mathematics proficiency exam.  It should not be taken as an exhaustive list of material that might appear on the exam.  Students should be comfortable solving problems in the areas described in this document. These topics map roughly to the following sections of the text Discrete Mathematics with Graph Theory, Third Edition, by Goodaire and Parmenter, copies of which can be found on reserve at the Schow library.
+
+Chapters 0–3: all sections
+Chapter 4: Sections 4.3, 4.4
+Chapters 5–7: all sections
+Chapter 8: Sections 8.1, 8.2
+Chapters 9–10: all sections
+Chapter 12: Sections 12.1–12.3
+
+ 
+Sets, Relations, and Functions
+Topics:
+
+Sets
+
+Methods for describing a set, e.g., listing elements, set builder notation
+Venn diagrams
+Union, intersection, set difference, complement
+Cartesian product
+Power sets
+Cardinality of finite sets
+
+
+Relations
+
+Reflexivity, symmetry, antisymmetry, transitivity
+Equivalence relations, partial orders
+
+
+Functions
+
+Domain, target, and range/image of a function
+Surjections, injections, bijections
+Inverses
+Composition
+
+
+
+ 
+Learning Outcomes:
+
+Define, as well as explain with examples, the basic terminology of functions, relations, and sets.
+Perform the operations associated with sets, functions, and relations.
+Relate practical examples to the appropriate set, function, or relation model, and interpret the associated operations and terminology in context.
+
+ 
+Basic Logic
+Topics:
+
+Propositional logic
+Logical connectives
+Truth tables
+Disjunctive normal form
+Validity of a well-formed formula
+Propositional inference rules (e.g., modus ponens, modus tollens)
+Universal and existential quantifiers and their negations
+
+ 
+Learning Outcomes:
+
+Convert logical statements from informal language to propositional (and quantified) logic expressions.
+Apply formal methods of symbolic propositional logic, such as calculating validity of formulae and computing normal forms.
+Use the rules of inference to construct proofs in propositional logic.
+
+ 
+Proof Techniques
+Topics:
+
+Notions of implication, double implication, equivalence, converse, inverse, contrapositive, negation, and contradiction
+The structure of mathematical proofs
+Direct proofs
+Disproving by counterexample
+Proof by contrapositive
+Proof by contradiction
+Induction over natural numbers
+Weak and strong induction (i.e., First and Second Principle of Induction)
+Recursive mathematical definitions
+Well orderings
+
+ 
+Learning Outcomes:
+
+Identify the proof technique used in a given proof.
+Outline the basic structure of each proof technique described in this unit.
+Apply each of the proof techniques correctly in the construction of a sound argument.
+Determine which type of proof is best for a given problem.
+Explain the parallel between ideas of mathematical induction to recursion and recursively defined sequences.
+Explain the relationship between weak and strong induction and give examples of the appropriate use of each.
+State the well-ordering principle and its relationship to mathematical induction.
+
+ 
+Basics of Counting
+Topics:
+
+Counting arguments
+
+Set cardinality and counting
+Sum and product rules
+Inclusion-exclusion principle
+Arithmetic and geometric progressions
+
+
+The pigeonhole principle
+Permutations and combinations
+
+Basic definitions
+The binomial theorem
+
+
+Solving recurrence relations
+
+An example of a simple recurrence relation, such as Fibonacci numbers
+Other examples, showing a variety of solutions
+
+
+Basic modular arithmetic
+
+ 
+Learning Outcomes:
+
+Apply counting arguments, including sum and product rules, inclusion-exclusion principle and arithmetic/geometric progressions.
+Apply the pigeonhole principle in the context of a formal proof.
+Compute permutations and combinations of a set, and interpret the meaning in the context of the particular application.
+Map real-world applications to appropriate counting formalisms, such as determining the number of ways to arrange people around a table, subject to constraints on the seating arrangement, or the number of ways to determine certain hands in cards (e.g., a full house).
+Solve a variety of basic recurrence relations.
+Analyze a problem to determine underlying recurrence relations.
+Perform computations involving modular arithmetic.
+
+ 
+Discrete Probability
+Topics:
+
+Finite probability space, events
+Properties of events
+Conditional probability, Bayes’ theorem
+Independence
+
+ 
+Learning Outcomes:
+
+Calculate probabilities of events for elementary problems such as games of chance.
+Differentiate between dependent and independent events.
+Make a probabilistic inference in a real-world problem using Bayes’ theorem to determine the probability of a hypothesis given evidence.
+
+ 
+Measuring Algorithm Complexity
+Topics:
+
+Asymptotic growth of functions, including Big-Oh notation and its meaning
+
+ 
+Learning Outcomes:
+
+Be able to meaningfully compare the asymptotic growths of pairs of functions.
+
+ 
+Graphs and Trees
+Topics:
+
+Trees
+
+Properties
+Traversal strategies
+
+
+Undirected graphs
+Directed graphs
+Weighted graphs
+Spanning trees/forests
+Graph isomorphism
+
+ 
+Learning Outcomes:
+
+Illustrate by example the basic terminology of graph theory, and some of the properties and special cases of each type of graph/tree.
+Be able to prove elementary results about graphs and trees, such as:
+
+In any graph, the sum of the degrees of the vertices equals twice the number of edges.
+In any tree, the number of edges is one less than the number of vertices.
+
+
+Model a variety of real-world problems in computer science using appropriate forms of graphs and trees, such as representing a network topology or the organization of a hierarchical file system.
+
+ 
+
+
+
+
+Print this page
+
+
+
+
+Discrete Mathematics Proficiency Exam Logistics
+Fall 2017
+
+
+
+
+
+Section Menu
+
+
+
+
+
+
+Computer Science MENU
+
+
+
+
+
+Computer Science
+
+
+
+
+
+
+Advising and Majors Information
+
+
+
+
+Curriculum
+
+
+
+Choosing Your First Computer Science Class
+
+
+Departmental Mission Statement
+
+
+Learning Goals
+
+
+CS Major
+
+
+Courses
+
+
+Computer Science CSCI 136 Placement Exam
+
+
+Required Proficiency in Discrete Mathematics
+
+
+Non-Major
+
+
+Summer Internships
+
+
+Graduate School
+
+
+
+
+
+2023-2024 Course Info
+
+
+
+Current Courses
+
+
+Course Websites
+
+
+Honors Deadlines
+
+
+Course Schedule
+
+
+Computer Science Wait List Form
+
+
+
+
+
+Research
+
+
+
+Student Research
+
+
+Research Applications
+
+
+Honors Thesis
+
+
+
+
+
+People
+
+
+
+Alumni
+
+
+Faculty
+
+
+Jeannie Albrecht (Chair)
+
+
+Daniel Barowy
+
+
+James Bern
+
+
+Rohit Bhattacharya
+
+
+Stephen Freund
+
+
+Mark Hopkins
+
+
+Iris Howley
+
+
+William Jannen
+
+
+Katie Keith
+
+
+Samuel McCauley
+
+
+Kelly Shaw (on leave)
+
+
+Shikha Singh
+
+
+Aaron Williams
+
+
+
+
+Staff
+
+
+Lida Doret
+
+
+Kelsey Gura
+
+
+Lauren Vining-Barsotti
+
+
+
+
+Student Groups
+
+
+CoSSAC
+
+
+Women in Computer Science
+
+
+UnICS
+
+
+
+
+Emeriti and Affiliates
+
+
+Duane Bailey (Faculty Emeritus)
+
+
+Kim Bruce (Faculty Emeritus)
+
+
+Andrea Danyluk (Faculty Emeritus)
+
+
+William Lenhart (Faculty Emeritus)
+
+
+Tom Murtagh (Faculty Emeritus)
+
+
+Brent Heeringa (Affiliate)
+
+
+
+
+
+
+
+Resources
+
+
+
+Honor Code & Usage
+
+
+System Resources
+
+
+Study Away Guidelines
+
+
+Teaching Assistants/Tutors
+
+
+TA Guidelines
+
+
+TA / Tutor Application
+
+
+
+
+Computer Science Wait List Form
+
+
+Major Planning Sheets
+
+
+
+
+
+Colloquium
+
+
+
+
+Class of 1960s Speakers
+
+
+
+
+News & Events
+
+
+
+
+
+
+
+
+
+AnnouncementsNow accepting applications for Fall 2024 Teaching Assistants. Apply here: https://csci.williams.edu/tatutor-application/
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+
+
+
+
+Williamstown, MA 01267
+USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Williams College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to top
+Privacy Policy
+Accessibility
+Comment Form
+Log In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

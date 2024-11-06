@@ -1,0 +1,1188 @@
+
+
+
+
+reference request - Foundations of topology - MathOverflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            MathOverflow
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            MathOverflow Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+
+
+
+
+
+
+ Questions
+
+
+
+
+
+
+ Tags
+
+
+
+
+
+
+
+ Users
+
+
+
+
+
+
+ Unanswered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foundations of topology
+
+
+
+        Ask Question
+    
+
+
+
+
+
+Asked
+8 years, 2 months ago
+
+
+Modified
+1 year, 10 months ago
+
+
+Viewed
+                        2k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+            17
+        
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+I recently went to a talk of Oleg Viro where he expressed his dissatisfaction with current foundations of differential topology parallel to what has been discussed here. 
+Also some time ago I read about Grothendieck's "Denunciation of so-called “general” topology" with interesting comments also made here:
+
+According to Winfried Scharlau's book, Grothendieck described his work
+  in a letter to Jun-Ichi Yamashita as: "some altogether different
+  foundations of 'topology', starting with the 'geometrical objects' or
+  'figures', rather than starting with a set of 'points' and some kind
+  of notion of 'limit' or equivalently) 'neighbourhoods'. Like the
+  language of topoi (and unlike 'tame topology'), it is a kind of
+  topology 'without points' - a direct approach to 'shape'. ...
+  appropriate for dealing with finite spaces...
+
+So I am wondering what progress has been made here and in what directions. Does there currently exist an approach to the foundations of general topology that is not based on a notion of "points", in the spirit of Grothendieck's denunciation?
+
+
+
+
+reference-requestgn.general-topologytopos-theorybig-picture
+
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this question
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Jun 29, 2017 at 5:06
+
+
+
+
+
+
+Matthieu FG
+
+5566 bronze badges
+
+
+
+
+
+
+
+
+            asked Apr 13, 2016 at 2:03
+
+
+
+
+
+
+BananeenBananeen
+
+1,1801111 silver badges2121 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+5
+
+
+
+
+
+
+9
+
+
+
+
+$\begingroup$
+I don't know- it seems a decent enough question to me (although it could certainly use some rewriting; I've given it a try). The question is: "What approaches are there to the foundations of topology that are not based on the concept of "points"?". Voting to reopen.
+$\endgroup$
+
+– Daniel Moskovich
+
+Apr 18, 2016 at 8:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+The theory of o-minimal structures can be interpeted as progress in this general direction; see related question here.
+$\endgroup$
+
+– Mikhail Katz
+
+Apr 18, 2016 at 10:04
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@DanielMoskovich I don't know what the OP really intended. But as he was talking about CW complexes instead of arbitrary topological spaces, it seems that your edit shifted the question considerably from the realm of algebraic-topology-oriented topology to (completely) general topology. To me this looks like a different question that you might want to ask separately.
+$\endgroup$
+
+– Sebastian Goette
+
+Apr 18, 2016 at 10:26
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+To make my point more precise - some branches of modern topology are described using model categories, $\infty$-categories and the like. I am surely not the right person to write such an answer, but maybe somebody else wants to. I am voting to reopen, and I leave it to somebody else to roll back to the original question and give an answer if he/she likes.
+$\endgroup$
+
+– Sebastian Goette
+
+Apr 18, 2016 at 10:31
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+I don't know enough about Grothendieck's program to be able to tell whether the more accurate description of it is to develop foundations of topology "without CW complexes" or rather "without points", as in the current version of the question. Could some experts comment? @ToddTrimble?
+$\endgroup$
+
+– Mikhail Katz
+
+Apr 18, 2016 at 10:41
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        2 Answers
+                                    2
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            14
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+Reading section 5 in Grothendieck's essay Esquisse d'un programme it becomes clear that with regard to topology Grothendieck was bothered by some artificial foundational problems introduced by the fact that the foundations of topology were created by analysts rather than by geometers and topologists. Specifically he refers to phenomena such as space-filling curves which he thinks should be ruled out at the foundational level by a more careful choice of definitions of the basic objects we work with.
+The basic model is Hironaka's semianalytic sets (or what Grothendieck proposes to call piecewise analytic sets) where such phenomena do not occur, and which on the other hand is sufficiently rich to accomodate various constructions in geometry and topology, such as coning, stratification, etc.  What Grothendieck seeks to do is provide an axiomatisation that would be more or less satisfied by Hironaka's proposal, but that would be realizable in other models as well.  Notes Grothendieck:
+This situation, like so often already in the history of our science,
+simply reveals the almost insurmountable inertia of the mind, burdened by
+a heavy weight of conditioning, which makes it difficult to take a real look
+at a foundational question, thus at the context in which we live, breathe,
+work – accepting it, rather, as immutable data.
+My conclusion is that Grothendieck's proposal in this context does not necessarily amount to a search for a foundation not based on points.  Rather the idea is to get away from the continuous category with its odd phenomena that are viewed by Grothendieck as being a function of inadequate foundations rather than intrinsic mathematical merit. Not an uncommon phenomenon I must say.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+edited Apr 18, 2016 at 13:31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            answered Apr 18, 2016 at 13:16
+
+
+
+
+
+
+Mikhail KatzMikhail Katz
+
+15.7k22 gold badges5252 silver badges123123 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+11
+
+
+
+
+
+
+6
+
+
+
+
+$\begingroup$
+I'll have to look more closely at Section 5 (it has been a very long time), but I wonder whether Grothendieck's opinion about the oddness and/or merit of space filling curves and like objects would have been affected by the nearly contemporaneous paper "Group Invariant Peano Curves" (by Cannon and Thurston, circulated around the same time although not published for many years after). Works like that one, and other issues closely related to hyperbolic manifolds (after Thurston) and hyperbolic groups (after Gromov) have exhibited the naturality of phenomena previously regarded as odd.
+$\endgroup$
+
+– Lee Mosher
+
+Apr 18, 2016 at 13:34
+
+
+
+
+
+
+4
+
+
+
+
+$\begingroup$
+@Lee, what you write about Cannon-Thurston possibly providing an answer to Grothendieck's concerns is fascinating and completely new to me. Perhaps you could formulate this as a separate answer?
+$\endgroup$
+
+– Mikhail Katz
+
+Apr 18, 2016 at 13:45
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+More generally, o-minimal structures (of which analytic sets are a particular case) constitute an adequate formalism of the tame geometry/topology advocated by Grothendieck.
+$\endgroup$
+
+– ACL
+
+Apr 18, 2016 at 14:21
+
+
+
+
+
+
+1
+
+
+
+
+$\begingroup$
+@ACL, could you comment more fully on this? To what extent does it address G's concern about forming the collection of morphisms?
+$\endgroup$
+
+– Mikhail Katz
+
+Apr 18, 2016 at 14:43
+
+
+
+
+
+
+2
+
+
+
+
+$\begingroup$
+After taking a quick look at Section 5, I think I'll just leave my comment as it is, without turning it into an answer. The trouble is that any answer I could form along those lines would not be an answer to the question asked, but would instead be about how point-based topology has been flourishing quite nicely since the 1970's.
+$\endgroup$
+
+– Lee Mosher
+
+Apr 18, 2016 at 15:12
+
+
+
+
+
+
+
+
+
+
+ | 
+Show 6 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\begingroup$
+
+There are different ways to respond to Grothendieck's challenge, depending on how exactly you interpret what he is looking for. As mentioned by ACL in a comment, the theory of o-minimality provides one way to formalize the concept of "tameness" that Grothendieck sought. This approach is discussed in some detail by Norbert A'Campo, Lizhen Ji, and Athanase Papadopoulos in their paper, On Grothendieck's tame topology.  See also Brian Tyrell's 2017 thesis, An analysis of tame topology using o-minimality.
+But another take on the question is to focus on Grothendieck's remark that he favors an axiomatic approach, and that "once this necessary foundational work has been completed, there will appear not one “tame theory”,
+but a vast infinity." This remark brings to mind something called synthetic mathematics, in which mathematical objects are not built up from a set-theoretic "substrate" but are studied axiomatically.  Examples include homotopy type theory and synthetic differential geometry, which can be developed without ever building a "model," and which in fact admit many different "models."
+A related idea is that topology traditionally combines two ostensibly distinct concepts: cohesion (or neighborliness) and shape, and that we might be better off developing these concepts separately rather than combining them. I listened to a talk by Emily Riehl (Elements of ∞-Category Theory, 17 Feb 2021), in which she made some interesting comments along these lines (here and here).  The Brouwer fixed-point theorem is is vacuous if you regard homotopically equivalent spaces as the same; by contrast, the computation of the higher homotopy groups of spheres is arguably a question about homotopy types and not about point sets. You could interpret Grothendieck as calling for a separation between these two "kinds of topology," because if you commingle them then sometimes the definitions from point-set topology can introduce annoying technicalities that are irrelevant to the questions Grothendieck was primarily interested in.  According to Riehl, condensed mathematics and the closely related theory of pyknotic sets develop this idea further.  Fittingly, they build on the concept of a Grothendieck topology but take it further.
+
+
+
+
+
+
+
+
+Share
+
+
+Cite
+
+
+Improve this answer
+
+
+
+                        Follow
+                        
+
+
+
+
+
+
+
+
+
+
+            answered Aug 9, 2022 at 23:27
+
+
+
+
+
+
+Timothy ChowTimothy Chow
+
+79.5k2525 gold badges352352 silver badges571571 bronze badges
+
+
+
+
+
+
+$\endgroup$
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                    Your Answer
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for contributing an answer to MathOverflow!Please be sure to answer the question. Provide details and share your research!But avoid …Asking for help, clarification, or responding to other answers.Making statements based on opinion; back them up with references or personal experience.Use MathJax to format equations. MathJax reference.To learn more, see our tips on writing great answers.
+
+
+
+
+
+
+Draft saved
+Draft discarded
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up or log in
+
+
+ Sign up using Google
+                        
+
+ Sign up using Facebook
+                            
+
+ Sign up using Email and Password
+                        
+
+
+
+Submit
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+
+Post as a guest
+
+
+Name
+
+
+
+
+
+
+
+
+
+Email
+Required, but never shown
+
+
+
+
+
+
+
+
+
+
+
+                                            Post Your Answer
+                                        
+
+                                            Discard
+                                        
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged reference-requestgn.general-topologytopos-theorybig-picture or ask your own question.                                
+
+
+
+
+
+Linked
+
+
+
+63
+
+How much of differential geometry can be developed entirely without atlases?
+
+
+
+53
+
+Grothendieck's manuscript on topology
+
+
+
+16
+
+What is the precise relationship between o-minimal theory and Grothendieck's "Esquisse d'un programme"?
+
+
+
+3
+
+Do Peano curves provide a counterargument to Grothendieck's critique?
+
+
+
+3
+
+Can one push a path out of an algebraic set with control on length?
+
+
+
+
+Related
+
+
+
+7
+
+Generalising Gelfand's spectral theory
+
+
+
+53
+
+Grothendieck's manuscript on topology
+
+
+
+36
+
+"Softness" vs "rigidity" in Geometry 
+
+
+
+29
+
+What is the dimension of the mathematical universe?
+
+
+
+20
+
+Several questions about Gauss's mathematical conception of braids
+
+
+
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MathOverflow
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2024.6.11.10735
+
+
+
+
+
+
+
+
+
+
+
+

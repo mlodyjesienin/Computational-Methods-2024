@@ -1,0 +1,233 @@
+
+
+
+
+
+
+Department of Computer Science and Technology – Course pages 2023–24: Advanced Topics in Category Theory
+
+
+
+
+
+
+
+
+
+skip to primary navigationskip to content
+
+
+Study at Cambridge
+
+About the University
+
+Research at Cambridge
+Search site
+
+
+
+
+
+
+
+HomeStudy at Cambridge
+Undergraduate
+
+
+Courses
+
+
+Applying
+
+
+Events and open days
+
+
+Fees and finance
+
+
+Student blogs and videos
+
+
+
+Graduate
+
+
+Why Cambridge
+
+
+Course directory
+
+
+How to apply
+Fees and funding
+Frequently asked questions
+
+
+International students
+
+Continuing education
+
+Executive and professional education
+
+Courses in education
+About the University
+How the University and Colleges work
+
+History
+
+Visiting the University
+
+Term dates and calendars
+
+Map
+
+For media
+
+Video and audio
+
+Find an expert
+
+Publications
+
+Global Cambridge
+
+News
+
+Events
+
+Public engagement
+
+Jobs
+
+Give to Cambridge
+Research at Cambridge
+For staff
+
+For current students
+
+For alumni
+
+For business
+
+Colleges & departments
+
+Libraries & facilities
+
+Museums & collections
+
+Email & phone search
+Computer LaboratoryTeachingCourses 2023–24Advanced Topics in Category TheoryDepartment of Computer Science and TechnologyMasters
+         
+      Course pages 2023–24Computer LaboratoryTeachingCourses 2023–24MastersAdvanced Topics in Category TheoryAdvanced Graphics and Image ProcessingAdvanced Topics in Computer ArchitectureAdvanced topics in programming languagesCategory TheoryComputer Security: Principles and FoundationsDigital Signal ProcessingIntroduction to Computational SemanticsIntroduction to Natural Language Syntax and ParsingIntroduction to networking and systems measurementsLarge-scale data processing and optimisationMachine Learning and the Physical WorldMachine Learning for Language ProcessingMachine Visual PerceptionMobile, Wearable Systems and Machine LearningMulticore Semantics and ProgrammingNetwork ArchitecturesOverview of Natural Language ProcessingPractical Research in Human-centred AIPrinciples of Machine Learning SystemsAdvanced Operating SystemsAdvanced Topics in Computer SystemsAdvanced topics in machine learningAffective ComputingCybercrimeDiscourse and PragmaticsDistributed Ledger Technologies: Foundations and ApplicationsFederated Learning: Theory and PracticeGeometric Deep LearningMobile HealthTheories of Socio-digital Design for Human Centred AITheory of Deep LearningTopics in Logic and ComplexityUnderstanding Networked-Systems PerformanceAdvanced Topics in Category Theory
+SyllabusCourse materialsAssessmentRecordings
+Principal lecturer: Dr Jamie Vicary
+Taken by: MPhil ACS, Part III
+Code: L118
+Term: Lent
+Hours: 16
+Prerequisites: Category Theory
+Moodle, timetable
+Teaching
+The teaching style will be lecture-based, but supported by a
+  practical component where students will learn to use a proof
+  assistant for higher category theory, and build a small portfolio
+  of proofs. Towards the end of the course we will explore some of
+  the exciting computer science research literature on monoidal and
+  higher categories, and students will choose a paper and present
+  it to the class.
+Aims
+The module will introduce advanced topics in category theory.
+  The aim is to train students to engage and start modern research
+  on the mathematical foundations of higher categories, the
+  graphical calculus, monoids and representations, type theories,
+  and their applications in theoretical computer science, both
+  classical and quantum.
+Objectives
+On completion of this module, students should:
+
+Be familiar with the techniques of compositional category
+    theory.
+Have a strong understanding of basic categorical semantic
+    models.
+Begun exploring current research in monoidal categories and
+    higher structures.
+
+Syllabus
+Part 1, lecture course:
+  The first part of the course introduces concepts from monoidal
+  categories and higher categories, and explores their application
+  in computer science.
+  ‐ Monoidal categories and the graphical calculus
+  ‐ The proof assistant homotopy.io
+  ‐ Coherence theorems and higher category theory
+  ‐ Linearity, superposition, duality, quantum entanglement
+  ‐ Monoids, Frobenius algebras and bialgebras
+  ‐ Type theory for higher category theory
+Part 2, exploring the research frontier:
+  In the second part of the course, students choose a research
+  paper to study, and give a presentation to the class.
+  There is a nice varied literature related to the topics of the
+  course, and the lecturer will supply a list of suggested
+  papers. 
+Classes
+There will be four exercise sheets for homework, with
+  accompanying classes by a teaching assistant to go over
+  them.
+Assessment
+
+Problem sheets (50%)
+Class presentation (20%)
+Practical portfolio (30%)
+
+Reading List
+Chris Heunen and Jamie Vicary, “Category for Quantum Theory:
+  An Introduction”, Oxford University Press
+
+© 2024 Department of Computer Science and Technology, University of CambridgeInformation provided by Dr Jamie Vicary – edit page
+University A-Z
+
+Contact the University
+
+Accessibility
+
+Freedom of information
+
+Terms and conditions
+Study at Cambridge
+Undergraduate
+
+Graduate
+
+International students
+
+Continuing education
+
+Executive and professional education
+
+Courses in education
+About the University
+How the University and Colleges work
+
+Visiting the University
+
+Map
+
+News
+
+Events
+
+Jobs
+
+Give to Cambridge
+Research at Cambridge
+News
+
+Features
+
+Discussion
+
+Spotlight on...
+
+About research at Cambridge
+

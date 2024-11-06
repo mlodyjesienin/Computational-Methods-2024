@@ -1,0 +1,820 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faraday and the Electromagnetic Theory of Light | OpenMind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Click Enter        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Themes
+
+
+Discover
+
+
+
+
+
+
+Economy
+
+
+Humanities
+
+
+Science
+
+
+Technology
+
+
+
+
+Multimedia
+
+
+OpenMind books
+
+
+Authors
+
+
+Scientific anniversaries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es
+
+
+En
+
+
+
+
+
+
+Leave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economy
+
+
+Humanities
+
+
+Science
+
+
+Technology
+
+
+
+
+
+
+
+
+
+Leading Figures
+
+
+
+15 April 2020
+The Man Who Discovered that Handwashing Saves Lives
+
+
+
+
+
+Leading Figures
+
+
+
+08 February 2024
+Women Scientists who Inspire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multimedia
+
+
+OpenMind books
+
+
+ Authors
+
+
+Scientific anniversaries
+
+
+
+
+
+
+
+
+
+Environment
+
+
+
+
+
+
+17 January 2020
+The Extinction of the Dinosaurs
+
+
+
+
+
+Featured author
+
+
+
+
+Victoria Robinson
+
+
+                                                    University of York, UK                                                
+
+
+
+Latest book
+
+Sustainability Notes nÂº3: The Search for Alternatives to Fossil Fuels
+
+See more books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+Created by Materia for  OpenMind
+Recommended by Materia
+
+
+
+
+
+OpenMind
+                    
+
+
+
+
+
+
+
+
+
+THEMES
+
+
+DISCOVER
+
+
+
+
+
+
+Search                         
+
+
+
+
+Es
+
+
+En
+
+
+
+
+
+
+Leave
+
+
+
+
+
+
+
+
+
+
+
+  7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+Faraday and the Electromagnetic Theory of Light    
+
+
+
+			Science        
+
+			Leading Figures        
+
+
+	24 August 2015
+
+Faraday and the Electromagnetic Theory of Light
+
+Energy | Innovation | Physics | Technology 
+
+
+
+
+
+
+
+
+
+
+
+Augusto BelÃ©ndez
+
+
+
+              Professor of Applied Physics            
+
+
+
+Estimated reading time
+Time
+
+  7  
+to read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Faraday (22 September 1791Â â 25 August 1867) is probably best known for his discovery of electromagnetic induction, his contributions to electrical engineering and electrochemistry or due to the fact that he was responsible for introducing the concept of field in physics to describe electromagnetic interaction. But perhaps it is not so well known that he also made fundamental contributions to the electromagnetic theory of light.
+In 1845, just 170 years ago, Faraday discovered that a magnetic field influenced polarized light – a phenomenon known as the magneto-optical effect or Faraday effect. To be precise, he found that the plane of vibration of a beam of linearly polarized light incident on a piece of glass rotated when a magnetic field was applied in the direction of propagation of the beam. This was one of the first indications that electromagnetism and light were related. The following year, in May 1846, Faraday published the article Thoughts on Ray Vibrations, a prophetic publication in which he speculated that light could be a vibration of the electric and magnetic lines of force.
+Michael Faraday (1791-1867) / Credits: Wikipedia
+Faradayâs case is not common in the history of physics: although his training was very basic, the laws of electricity and magnetism are due much more to Faradayâs experimental discoveries than to any other scientist. He discovered electromagnetic induction, which led to the invention of the dynamo, the forerunner to the electric generator. He explained electrolysis in terms of electrical forces and also introduced concepts such as field and lines of force, which not only were fundamental to understanding electrical and magnetic interactions but also formed the basis of further advances in physics.
+Michael Faraday was born in South London to a humble family. The only basic formal education he received was in reading, writing and arithmetic as a child. He left school when he was thirteen and started working in a bookbinding shop. His passion for science was awakened by the description of electricity he read in a copy of the EncyclopÃ¦dia Britannica he was binding, after which he started experimenting in an improvised laboratory. Faraday was hired the 1st of marcha 1813 as Humphry Davyâs laboratory assistant at the Royal Institution in London, where he was elected a member in 1824 and where he worked until his death in 1867, first as Davyâs assistant, then as his collaborator, and finally, after Davyâs death, as his succesor. Faraday made such an impression on Davy that when the latter was asked about his greatest discovery, Davy answered: âMy greatest discovery was Michael Faradayâ. In 1833 he became the first Fullerian Professor of Chemistry at the Royal Institution. Faraday is also recognized as a great popularizer of science. In 1826 Faraday established the Friday Evening Discourses at the Royal Institution, which are a channel of communication between scientists and laymen. The following year he launched the Christmas Lectures for young people -now broadcast on national television every year-, a series whose objective is to present science to the general public. Faraday himself gave many of these lectures. Both of them continue to this day.
+Michael Faraday delivering a Christmas Lecture at the Royal Institution in 1856 / Credits: Wikipedia
+Faraday made his first discovery of electromagnetism in 1821. He repeated Oerstedâs experiment placing a small magnet around a current-carrying wire and verified that the force exerted by the current on the magnet was circular. As he explained years later, the wire was surrounded by an infinite series of circular concentric lines of force, which he termed the magnetic field of the current. He took the work of Oersted and AmpÃ¨re on the magnetic properties of electrical currents as a starting point and in 1831 achieved an electrical current from a changing magnetic field, a phenomenon known as electromagnetic induction. He found that when an electrical current was passed through a coil, another very short current was generated in a nearby coil. This discovery marked a decisive milestone in the progress not only of science but also of society, and is used today to generate electricity on a large scale in power stations. This phenomenon reveals something new about electric and magnetic fields. Unlike electrostatic fields generated by electric charges at rest whose circulation along a closed path is zero (a conservative field), the circulation of electric fields created by magnetic fields is along a closed path other than zero. This circulation, which corresponds to the induced electromotive force, is equal to the rate of change of the magnetic flux passing through a surface whose boundary is a wire loop (Faradayâs law of induction). Faraday invented the first electric motor, the first electrical transformer, the first electric generator and the first dynamo, so Faraday can be called, without any doubt, the father of electrical engineering.
+Faraday abandoned the fluid theory to explain electricity and magnetism and introduced the concepts of field and field lines, moving away from the mechanistic explanation of natural phenomena like Newtonâs actions-at-a-distance. Faradayâs introduction of the concept of field into physics is perhaps his most important contribution and was described by Einstein as the great change in physics because it provided electricity, magnetism and optics with a common framework of physical theories. However, Faradayâs lines of force were not accepted until several years later when James Clerk Maxwell entered the picture.
+As noted at the beginning of this article, another and perhaps less known effect discovered by Faraday was the influence of a magnetic field on polarized light, a phenomenon known as the Faraday effect or magneto-optical effect. Faradayâs inquisitive mind was not content to simply discover the relationship between electricity and magnetism. He also wanted to determine whether magnetic fields had an effect on optical phenomena. He believed in the unity of all the forces of nature, and in particular of light, electricity and magnetism. On September 13, 1845 he found that the plane of polarization of linearly polarized light is rotated when this light travels through a material to which a strong magnetic field is applied in the direction of propagation of the light. Faraday wrote in paragraph #7504 of his Dairy:
+
+âToday worked with lines of magnetic force, passing them across different bodies (transparent in different directions) and at the same time passing a polarized ray of light through them (â¦) there was an effect produced on the polarized ray, and thus magnetic force and light were proved to have relation to each otherâ.
+
+This was certainly the first clear indication that magnetic force and light were related to each other and it also showed that light is related to electricity and magnetism. In relation to this phenomenon Faraday also wrote in the same paragraph:
+
+âThis fact will most likely prove exceedingly fertile and of great value in the investigation of both conditions of natural forceâ.
+
+He was not wrong. This effect is one of the cornerstones of the electromagnetic theory of light.
+Polarization rotation due to the Effect Faraday / Credits: Adapted from Wikipedia
+In a Royal Institutionâs Friday Evening Discourse delivered on April 1846, Faraday speculated that light might be some form of disturbance propagating along the field lines. The truth is that on this particular Friday it was Charles Wheatstone who was scheduled to give a talk on his chronoscope. However, at the last minute, Wheatstone had an attack of stage fright and so Faraday delivered Wheatstoneâs talk. Since he finished ahead of time, he filled in the remaining minutes by revealing his thoughts on the nature of light. Faradayâs discourse was published the same year in the Philosophical Magazine under the title Thoughts on Ray-Vibrations. Faraday even dared to question the existence of the luminiferous aether âa scientific heresy at that timeâ, which was supposed to be the medium for light propagation as so elegantly Fresnel had described in his wave theory of light. He proposed that the light could be not the result of aether vibrations, but vibrations of the physical lines of force. Faraday tried to leave out the aether, but he kept the vibrations. In an almost apologetic tone, Faraday finishes his paper stating:
+
+âI think it likely that I have made many mistakes in the preceding pages, for even to myself, my ideas on this point appear only as the shadow of a speculationâ.
+
+However, this idea of Faradayâs was received with considerable scepticism and rejected by everyone until Maxwellâs article titled A Dynamical Theory of the Electromagnetic Field was published in 1865. In this paper, Maxwell not only describes his seminal electromagnetic theory of light âone of the milestones commemorated in this International Year of Light 2015â but also attributes the ideas which eventually formed the basis of his theory to Faradayâs thoughts on ray vibrations. On page 466 of his paper, and with the modesty that always characterized Maxwell, he refers to Faradayâs 1846 paper as follows:
+âThe conception of the propagation of transverse magnetic disturbances to the exclusion of normal ones is distinctly set forth by Professor Faraday in his âThoughts on Ray Vibrationsâ. The electromagnetic theory of light, as proposed by him [Faraday], is the same in substance as that which I have begun to develop in this paper, except that in 1846 there were no data to calculate the velocity of propagationâ.
+And on page 461 of his 1865 paper Maxwell also refers to the magneto-optical effect, stating:
+âFaraday discovered that when a plane polarized ray transverses a transparent diamagnetic medium in the direction of the lines of magnetic force produced by magnets or currents in the neighbourhood, the plane of polarization is caused to rotateâ.
+In all Michael Faraday is cited six times and mentioned three times in Maxwellâs 1865 paper. However, this is not surprising considering that a large amount of Maxwellâs work is based on Faradayâs work and Maxwell mathematically modelled most of Faradayâs discoveries on electromagnetism into the theory that we know today.
+The electromagnetic waves about whose existence Faraday speculated in 1846 with his thoughts on ray vibrations, and which were mathematically predicted by Maxwell in 1865, were finally produced in a laboratory by Hertz in 1888. The rest is history. It is clear that Maxwell opened the door to twentieth century physics, but it is no less clear that Faraday gave Maxwell some of the keys he used.
+In 1676 Newton sent a letter to his rival Hooke in which he wrote: âIf I have seen further, it is by standing on the shoulders of Giantsâ (*). Two hundred and fifty years later, during one of Einsteinâs visits to Cambridge, UK, someone remarked: âYou have done great things, but you stand on Newtonâs shouldersâ. Einstein replied: âNo, I stand on Maxwellâs shouldersâ. If someone had said the same to Maxwell, he would probably have said that he stood on Faradayâs shoulders.
+(*) Although this sentence is interpreted by some authors as a sarcastic remark directed at Hookeâs hunchback appearance, nowadays the phrase is usually used in a positive way. Now Newtonâs comment is a claim how science is a series of incremental advances reach of which is built on those previously reached (see, for example, Stephen Hawkingâs book titled On the Shoulders of Giants).
+Augusto BelÃ©ndez
+Full Professor of Applied Physics at the University of Alicante (Spain) and member of the Spanish Royal Physics Society
+Bibliography
+
+A. DÃ­az-HellÃ­n, Faraday: El gran cambio en la FÃ­sica (NÃ­vola. Madrid, 2001).
+OrdÃ³Ã±ez, V. Navarro and J. M. SÃ¡nchez Ron, Historia de la ciencia (Espasa Calpe. Madrid, 2013).
+Forbes and B. Mahon, Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics (Prometheus Books. New York, 2014).
+Zajonc, Catching the Light: The Entwined History of Light and Mind (Oxford University Press. New York, 1995)
+Hawking, On the Shoulders of Giants: The Great Works of Physics and Astronomy (Running Press. Philadelphia, 2002)
+Mansuripur, Classical Optics and its Applications (Cambridge University Press. Cambridge, 2002)
+
+Â 
+
+
+
+
+
+
+
+    Related publications  
+
+
+Dennis Gabor, âFather of Holographyâ
+
+
+2015, the Year of Light
+
+
+Thomas Young and the Wave Nature of Light
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+More about Science
+
+Bioscience
+Environment
+Leading Figures
+Mathematics
+Physics
+Research
+Scientific Insights
+
+
+
+
+
+More publications about Augusto BelÃ©ndez
+
+Physics
+
+The Eclipse to Confirm the General Theory of Relativity
+
+Leading Figures
+
+Sommerfeld: the Eternal Nobel Candidate
+
+Physics
+
+AndrÃ©-Marie AmpÃ¨re, "the Newton of Electricity"
+
+
+
+
+
+
+Comments on this publication
+
+
+
+Login to comment
+Log in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for collaborating with the OpenMind community! Your comment will be published after validation.
+
+
+
+
+
+Oops!, 
+It seems that there has been an error in the communication.
+Please, try again later.
+
+
+
+
+
+
+
+Name cannot be empty
+
+
+
+
+Write a comment hereâ¦* 
+(500 words maximum)
+
+This field cannot be empty, Please enter your comment.
+
+
+
+
+
+ *Your comment will be reviewed before being published
+
+
+
+
+
+Captcha must be solved
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for collaborating with the OpenMind community! Your comment will be published after validation.
+
+
+
+
+
+Oops!, 
+It seems that there has been an error in the communication.
+Please, try again later.
+
+
+
+
+
+
+Name cannot be empty
+
+
+
+
+Write a comment hereâ¦* 
+(500 words maximum)
+
+This field cannot be empty, Please enter your comment.
+
+
+
+
+
+ *Your comment will be reviewed before being published
+
+
+
+
+
+Captcha must be solved
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next article
+
+
+digital-world
+
+
+
+Big Data Special: Interview with Philip Evans
+
+
+
+
+        Ventana al Conocimiento (Knowledge Window)      
+
+
+
+
+
+Start
+Faraday and the Electromagnetic Theory of Light
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you want to stay up to date with our new publications?
+Receive the OpenMind newsletter with all the latest contents published on our website
+Find out more here
+
+
+
+
+
+
+
+
+OpenMind BooksThe Search for Alternatives to Fossil Fuels
+View all books
+About OpenMindAbout us
+Authors
+Contact Us
+FAQs
+Connect with usFacebook
+Twitter
+YouTube
+LinkedIn
+NewsletterKeep up to date with our newsletter
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sharing Knowledge for a Better Future
+
+
+
+
+Â© Copyright 2024
+
+BBVA Group
+Legal Notice
+Cookies Policy
+Personal Data Protection Policy
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

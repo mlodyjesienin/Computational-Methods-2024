@@ -1,0 +1,1014 @@
+
+
+
+
+Infinity symbol - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+History
+
+
+
+
+
+
+
+
+2
+Usage
+
+
+
+
+Toggle Usage subsection
+
+
+
+
+
+2.1
+Mathematics
+
+
+
+
+
+
+
+
+2.2
+Other technical uses
+
+
+
+
+
+
+
+
+2.3
+Symbolism and literary uses
+
+
+
+
+
+
+
+
+2.4
+Graphic design
+
+
+
+
+
+
+
+
+
+
+3
+Encoding
+
+
+
+
+
+
+
+
+4
+See also
+
+
+
+
+
+
+
+
+5
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Infinity symbol
+
+
+
+21 languages
+
+
+
+
+العربيةБеларуская (тарашкевіца)BoarischDeutschEestiEspañolفارسیFrançais한국어ՀայերենBahasa IndonesiaעבריתBahasa Melayu日本語PortuguêsРусскийSimple EnglishSvenskaதமிழ்TürkçeУкраїнська
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+Mathematical symbol representing infinity
+
+
+"∞" redirects here. For other uses, see infinity (disambiguation) and infinity sign (disambiguation).
+
+
+
+
+∞
+
+
+{\displaystyle \infty }
+
+Infinity symbolIn UnicodeU+221E ∞ INFINITY (&infin;)Different fromDifferent fromU+267E ♾ PERMANENT PAPER SIGNU+26AD ⚭ MARRIAGE SYMBOL
+U+221D ∝ PROPORTIONAL TO
+The infinity symbol (∞) is a mathematical symbol representing the concept of infinity. This symbol is also called a lemniscate,[1] after the lemniscate curves of a similar shape studied in algebraic geometry,[2] or "lazy eight", in the terminology of livestock branding.[3]
+This symbol was first used mathematically by John Wallis in the 17th century, although it has a longer history of other uses. In mathematics, it often refers to infinite processes (potential infinity) rather than infinite values (actual infinity). It has other related technical meanings, such as the use of long-lasting paper in bookbinding, and has been used for its symbolic value of the infinite in modern mysticism and literature. It is a common element of graphic design, for instance in corporate logos as well as in older designs such as the Métis flag.
+Both the infinity symbol itself and several variations of the symbol are available in various character encodings.
+
+
+History[edit]
+First known usage of the infinity symbol, by John Wallis in 1655
+John Wallis introduced the infinity symbol 
+
+
+
+∞
+
+
+{\displaystyle \infty }
+
+ to mathematical literature.The 
+
+
+
+∞
+
+
+{\displaystyle \infty }
+
+ symbol in several typefaces
+The lemniscate has been a common decorative motif since ancient times; for instance it is commonly seen on Viking Age combs.[4]
+The English mathematician John Wallis is credited with introducing the infinity symbol with its mathematical meaning in 1655, in his De sectionibus conicis.[5][6][7] Wallis did not explain his choice of this symbol. It has been conjectured to be a variant form of a Roman numeral, but which Roman numeral is unclear. One theory proposes that the infinity symbol was based on the numeral for 100 million, which resembled the same symbol enclosed within a rectangular frame.[8] Another proposes instead that it was based on the notation CIↃ used to represent 1,000.[9] Instead of a Roman numeral, it may alternatively be derived from a variant of ω, the lower-case form of omega, the last letter in the Greek alphabet.[9]
+Perhaps in some cases because of typographic limitations, other symbols resembling the infinity sign have been used for the same meaning.[7] One paper by Leonhard Euler was typeset with an open letterform more closely resembling a reflected and sideways S than a lemniscate (something like S),[10] and even "O–O" has been used as a stand-in for the infinity symbol itself.[7]
+
+Usage[edit]
+Mathematics[edit]
+In mathematics, the infinity symbol is typically used to represent a potential infinity.[11] For instance, in mathematical expressions with summations and limits such as
+
+
+
+
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+1
+
+2
+
+n
+
+
+
+
+=
+
+lim
+
+x
+→
+∞
+
+
+
+
+
+
+2
+
+x
+
+
+−
+1
+
+
+2
+
+x
+−
+1
+
+
+
+
+=
+2
+,
+
+
+{\displaystyle \sum _{n=0}^{\infty }{\frac {1}{2^{n}}}=\lim _{x\to \infty }{\frac {2^{x}-1}{2^{x-1}}}=2,}
+
+
+the infinity sign is conventionally interpreted as meaning that the variable grows arbitrarily large towards infinity, rather than actually taking an infinite value, although other interpretations are possible.[12]
+When quantifying actual infinity, infinite entities taken as objects per se, other notations are typically used. For example, 
+
+
+
+
+ℵ
+
+0
+
+
+
+
+{\displaystyle \aleph _{0}}
+
+ (aleph-nought) denotes the cardinal number representing the size of the set of natural numbers, and 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+ (omega) denotes the smallest ordinal number which is larger than all natural numbers.
+The infinity symbol may also be used to represent a point at infinity, especially when there is only one such point under consideration. This usage includes, in particular, the infinite point of a projective line,[13] and the point added to a topological space to form its one-point compactification.[14]
+
+Other technical uses[edit]
+Side view of a camera lens, showing infinity symbol on the focal length indicator
+In areas other than mathematics, the infinity symbol may take on other related meanings. For instance, it has been used in bookbinding to indicate that a book is printed on acid-free paper and will therefore be long-lasting.[15] On cameras and their lenses, the infinity symbol indicates that the lens's focal length is set to an infinite distance, and is "probably one of the oldest symbols to be used on cameras".[16]
+
+Symbolism and literary uses[edit]
+The infinity symbol appears on several cards of the Rider–Waite tarot deck.[17]
+In modern mysticism, the infinity symbol has become identified with a variation of the ouroboros, an ancient image of a snake eating its own tail that has also come to symbolize the infinite, and the ouroboros is sometimes drawn in figure-eight form to reflect this identification—rather than in its more traditional circular form.[18]
+In the works of Vladimir Nabokov, including The Gift and Pale Fire, the figure-eight shape is used symbolically to refer to the Möbius strip and the infinite, as is the case in these books' descriptions of the shapes of bicycle tire tracks and of the outlines of half-remembered people. Nabokov's poem after which he entitled Pale Fire explicitly refers to "the miracle of the lemniscate".[19] Other authors whose works use this shape with its symbolic meaning of the infinite include James Joyce, in Ulysses,[20] and David Foster Wallace, in Infinite Jest.[21]
+
+Graphic design[edit]
+The well-known shape and meaning of the infinity symbol have made it a common typographic element of graphic design. For instance, the Métis flag, used by the Canadian Métis people since the early 19th century, is based around this symbol.[22] Different theories have been put forward for the meaning of the symbol on this flag, including the hope for an infinite future for Métis culture and its mix of European and First Nations traditions,[23][24] but also evoking the geometric shapes of Métic dances,[25], Celtic knots,[26] or Plains First Nations Sign Language.[27]
+A rainbow-coloured infinity symbol is also used by the autism rights movement, as a way to symbolize the infinite variation of the people in the movement and of human cognition.[28] The Bakelite company took up this symbol in its corporate logo to refer to the wide range of varied applications of the synthetic material they produced.[29] Versions of this symbol have been used in other trademarks, corporate logos, and emblems including those of Fujitsu,[30] Cell Press,[31] and the 2022 FIFA World Cup.[32]
+
+Encoding[edit]
+The symbol is encoded in Unicode at U+221E ∞ INFINITY[33] and in LaTeX as \infty: 
+
+
+
+∞
+
+
+{\displaystyle \infty }
+
+.[34] An encircled version is encoded for use as a symbol for acid-free paper.
+
+
+Character information
+
+
+Preview
+∞
+♾
+
+
+Unicode name
+
+INFINITY
+
+PERMANENT PAPER SIGN
+
+
+Encodings
+decimal
+hex
+dec
+hex
+
+
+Unicode
+8734
+U+221E
+9854
+U+267E
+
+
+UTF-8
+226 136 158
+E2 88 9E
+226 153 190
+E2 99 BE
+
+
+GB 18030
+161 222
+A1 DE
+129 55 174 56
+81 37 AE 38
+
+
+Numeric character reference
+&#8734;
+&#x221E;
+&#9854;
+&#x267E;
+
+
+Named character reference
+&infin;
+
+
+
+OEM-437 (Alt Code)[35]
+236
+EC
+
+
+
+
+Mac OS Roman[36]
+176
+B0
+
+
+
+
+Symbol Font encoding[37]
+165
+A5
+
+
+
+
+Shift JIS[38]
+129 135
+81 87
+
+
+
+
+EUC-JP[39]
+161 231
+A1 E7
+
+
+
+
+EUC-KR[40] / UHC[41]
+161 196
+A1 C4
+
+
+
+
+EUC-KPS-9566[42]
+162 172
+A2 AC
+
+
+
+
+Big5[43]
+161 219
+A1 DB
+
+
+
+
+LaTeX[34]
+\infty
+\acidfree
+
+
+CLDR text-to-speech name[44]
+infinity sign
+infinity
+
+The Unicode set of symbols also includes several variant forms of the infinity symbol that are less frequently available in fonts in the block Miscellaneous Mathematical Symbols-B.[45]
+
+
+Character information
+
+
+Preview
+⧜
+⧝
+⧞
+
+
+Unicode name
+
+INCOMPLETE INFINITY
+
+TIE OVER INFINITY
+
+INFINITY NEGATED WITH VERTICAL BAR
+
+
+Encodings
+decimal
+hex
+dec
+hex
+dec
+hex
+
+
+Unicode
+10716
+U+29DC
+10717
+U+29DD
+10718
+U+29DE
+
+
+UTF-8
+226 167 156
+E2 A7 9C
+226 167 157
+E2 A7 9D
+226 167 158
+E2 A7 9E
+
+
+Numeric character reference
+&#10716;
+&#x29DC;
+&#10717;
+&#x29DD;
+&#10718;
+&#x29DE;
+
+
+Named character reference
+&iinfin;
+&infintie;
+&nvinfin;
+
+
+LaTeX[34]
+\iinfin
+\tieinfty
+\nvinfty
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Infinity symbols.
+
+Aleph number
+History of mathematical notation
+Lazy Eight (disambiguation)
+References[edit]
+
+
+^ Rucker, Rudy (1982). Infinity and the Mind: The science and philosophy of the infinite. Boston, Massachusetts: Birkhäuser. p. 1. ISBN 3-7643-3034-1. MR 0658492.
+
+^ Erickson, Martin J. (2011). "1.1 Lemniscate". Beautiful Mathematics. MAA Spectrum. Mathematical Association of America. pp. 1–3. ISBN 978-0-88385-576-8.
+
+^ Humez, Alexander; Humez, Nicholas D.; Maguire, Joseph (1993). Zero to Lazy Eight: The Romance of Numbers. Simon and Schuster. p. 18. ISBN 978-0-671-74281-2.
+
+^ van Riel, Sjoerd (2017). "Viking Age Combs: Local Products or Objects of Trade?". Lund Archaeological Review. 23: 163–178. See p. 172: "Within this type the lemniscate (∞) is a commonly used motif."
+
+^ Wallis, John (1655). "Pars Prima". De Sectionibus Conicis, Nova Methodo Expositis, Tractatus (in Latin). pp. 4.
+
+^ Scott, Joseph Frederick (1981). The mathematical work of John Wallis, D.D., F.R.S., (1616-1703) (2nd ed.). American Mathematical Society. p. 24. ISBN 0-8284-0314-7.
+
+^ a b c Cajori, Florian (1929). "Signs for infinity and transfinite numbers". A History of Mathematical Notations, Volume II: Notations Mainly in Higher Mathematics. Open Court. pp. 44–48.
+
+^ Maor, Eli (1991). To Infinity and Beyond: A Cultural History of the Infinite. Princeton, New Jersey: Princeton University Press. p. 7. ISBN 0-691-02511-8. MR 1129467.
+
+^ a b Clegg, Brian (2003). "Chapter 6: Labelling the infinite". A Brief History of Infinity: The Quest to Think the Unthinkable. Constable & Robinson Ltd. ISBN 978-1-84119-650-3.
+
+^ Cajori (1929) displays this symbol incorrectly, as a turned S without reflection. It can be seen as Euler used it on page 174 of Euler, Leonhard (1744). "Variae observationes circa series infinitas" (PDF). Commentarii Academiae Scientiarum Petropolitanae (in Latin). 9: 160–188.
+
+^ Barrow, John D. (2008). "Infinity: Where God Divides by Zero". Cosmic Imagery: Key Images in the History of Science. W. W. Norton & Company. pp. 339–340. ISBN 978-0-393-06177-2.
+
+^ Shipman, Barbara A. (April 2013). "Convergence and the Cauchy property of sequences in the setting of actual infinity". PRIMUS. 23 (5): 441–458. doi:10.1080/10511970.2012.753963. S2CID 120023303.
+
+^ Perrin, Daniel (2007). Algebraic Geometry: An Introduction. Springer. p. 28. ISBN 978-1-84800-056-8.
+
+^ Aliprantis, Charalambos D.; Border, Kim C. (2006). Infinite Dimensional Analysis: A Hitchhiker's Guide (3rd ed.). Springer. pp. 56–57. ISBN 978-3-540-29587-7.
+
+^ Zboray, Ronald J.; Zboray, Mary Saracino (2000). A Handbook for the Study of Book History in the United States. Center for the Book, Library of Congress. p. 49. ISBN 978-0-8444-1015-9.
+
+^ Crist, Brian; Aurello, David N. (October 1990). "Development of camera symbols for consumers". Proceedings of the Human Factors Society Annual Meeting. 34 (5): 489–493. doi:10.1177/154193129003400512.
+
+^ Armson, Morandir (June 2011). "The transitory tarot: an examination of tarot cards, the 21st century New Age and theosophical thought". Literature & Aesthetics. 21 (1): 196–212. See in particular p. 203: "Reincarnation is symbolised in a number of cards within the Waite-Smith tarot deck. The primary symbols of reincarnation used are the infinity symbol or lemniscate, the wheel and the circle."
+
+^ O'Flaherty, Wendy Doniger (1986). Dreams, Illusion, and Other Realities. University of Chicago Press. p. 243. ISBN 978-0-226-61855-5. The book also features this image on its cover.
+
+^ Toker, Leona (1989). Nabokov: The Mystery of Literary Structures. Cornell University Press. p. 159. ISBN 978-0-8014-2211-9.
+
+^ Bahun, Sanja (2012). "'These heavy sands are language tide and wind have silted here': Tidal voicing and the poetics of home in James Joyce's Ulysses". In Kim, Rina; Westall, Claire (eds.). Cross-Gendered Literary Voices: Appropriating, Resisting, Embracing. Palgrave Macmillan. pp. 57–73. doi:10.1057/9781137020758_4.
+
+^ Natalini, Roberto (2013). "David Foster Wallace and the mathematics of infinity". In Boswell, Marshall; Burn, Stephen J. (eds.). A Companion to David Foster Wallace Studies. American Literature Readings in the 21st Century. Palgrave Macmillan. pp. 43–57. doi:10.1057/9781137078346_3.
+
+^ Healy, Donald T.; Orenski, Peter J. (2003). Native American Flags. University of Oklahoma Press. p. 284. ISBN 978-0-8061-3556-4.
+
+^ Gaudry, Adam (Spring 2018). "Communing with the Dead: The "New Métis," Métis Identity Appropriation, and the Displacement of Living Métis Culture". American Indian Quarterly. 42 (2): 162–190. doi:10.5250/amerindiquar.42.2.0162. JSTOR 10.5250/amerindiquar.42.2.0162. S2CID 165232342.
+
+^ "The Métis flag". Gabriel Dumont Institute(Métis Culture & Heritage Resource Centre). Archived from the original on 2013-07-24.
+
+^ Racette, Calvin (1987). Flags of the Métis (PDF). Gabriel Dumont Institute. ISBN 0-920915-18-3.
+
+^ Darren R., Préfontaine (2007). "Flying the Flag, Editor's note". New Breed Magazine (Winter 2007): 6. Retrieved 2020-08-26.
+
+^ Barkwell, Lawrence J. "The Metis Infinity Flag". Virtual Museum of Métis History and Culture. Gabriel Dumont Institute. Retrieved 2020-07-15.
+
+^ Gross, Liza (September 2016). "In search of autism's roots". PLOS Biology. 14 (9): e2000958. doi:10.1371/journal.pbio.2000958. PMC 5045192. PMID 27690292.
+
+^ Crespy, Daniel; Bozonnet, Marianne; Meier, Martin (April 2008). "100 years of Bakelite, the material of a 1000 uses". Angewandte Chemie. 47 (18): 3322–3328. doi:10.1002/anie.200704281. PMID 18318037.
+
+^ Rivkin, Steve; Sutherland, Fraser (2005). The Making of a Name: The Inside Story of the Brands We Buy. Oxford University Press. p. 130. ISBN 978-0-19-988340-0.
+
+^ Willmes, Claudia Gisela (January 2021). "Science that inspires". Trends in Molecular Medicine. 27 (1): 1. doi:10.1016/j.molmed.2020.11.001. PMID 33308981. S2CID 229179025.
+
+^ "Qatar 2022: Football World Cup logo unveiled". Al Jazeera. September 3, 2019.
+
+^ "Unicode Character "∞" (U+221E)". Unicode. Compart AG. Retrieved 2019-11-15.
+
+^ a b c Pakin, Scott (May 5, 2021). "Table 294: stix Infinities". The Comprehensive LATEX Symbol List. CTAN. p. 118. Retrieved 2022-02-19.
+
+^ Steele, Shawn (April 24, 1996). "cp437_DOSLatinUS to Unicode table". Unicode Consortium. Retrieved 2022-02-19.
+
+^ "Map (external version) from Mac OS Roman character set to Unicode 2.1 and later". Apple Inc. April 5, 2005. Retrieved 2022-02-19 – via Unicode Consortium.
+
+^ "Map (external version) from Mac OS Symbol character set to Unicode 4.0 and later". Apple Inc. April 5, 2005. Retrieved 2022-02-19 – via Unicode Consortium.
+
+^ "Shift-JIS to Unicode". Unicode Consortium. December 2, 2015. Retrieved 2022-02-19.
+
+^ "EUC-JP-2007". International Components for Unicode. Unicode Consortium. Retrieved 2022-02-19 – via GitHub.
+
+^ "IBM-970". International Components for Unicode. Unicode Consortium. May 9, 2007. Retrieved 2022-02-19 – via GitHub.
+
+^ Steele, Shawn (January 7, 2000). "cp949 to Unicode table". Unicode Consortium. Retrieved 2022-02-19.
+
+^ "KPS 9566-2003 to Unicode". Unicode Consortium. April 27, 2011. Retrieved 2022-02-19.
+
+^ van Kesteren, Anne. "big5". Encoding Standard. WHATWG.
+
+^ Unicode, Inc. "Annotations". Common Locale Data Repository – via GitHub.
+
+^ "Miscellaneous Mathematical Symbols-B" (PDF). Unicode Consortium. Archived (PDF) from the original on 2018-11-12. Retrieved 2022-02-19.
+
+
+vteInfinity (∞)History
+Ananta (infinite)
+Apeiron
+Controversy over Cantor's theory
+Galileo's paradox
+Hilbert's paradox of the Grand Hotel
+Infinity (philosophy)
+Paradoxes of infinity
+Paradoxes of set theory
+Branches of mathematics
+Complex analysis
+Internal set theory
+Nonstandard analysis
+Set theory
+Synthetic differential geometry
+Formalizations of infinity
+0.999...
+Absolute infinite
+Actual infinity
+Aleph number
+Beth number
+Cardinal numbers
+Cardinality of the continuum
+Dedekind-infinite set
+Directed infinity
+Division by zero (Complex infinity)
+Epsilon number
+Gimel function
+Hilbert space
+Hyperreal numbers
+Infinite set
+Infinitesimal
+Ordinal numbers
+Point at infinity
+Regular cardinal
+Sphere at infinity (Kleinian group)
+Supertask
+Surreal numbers
+Transfinite numbers
+Geometries
+Differential geometry of surfaces
+Möbius plane
+Möbius transformation
+Riemannian manifold
+Mathematicians
+Georg Cantor
+David Hilbert
+Gottfried Wilhelm Leibniz
+August Ferdinand Möbius
+Bernhard Riemann
+Abraham Robinson
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Infinity_symbol&oldid=1224329140"
+Categories: Mathematical symbolsInfinityHidden categories: CS1 Latin-language sources (la)Good articlesArticles with short descriptionShort description is different from WikidataUse mdy dates from February 2022Pages using multiple image with auto scaled imagesCommons category link is on Wikidata
+
+
+
+
+
+
+ This page was last edited on 17 May 2024, at 18:32 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

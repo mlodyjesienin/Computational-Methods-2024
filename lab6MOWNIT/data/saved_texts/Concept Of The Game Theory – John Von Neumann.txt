@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concept Of The Game Theory – John Von Neumann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+≡ Menu
+Home
+List of Theories
+Glossary
+Privacy Policy
+Opt-out preferences
+
+
+Communication Theory
+All About Theories for Communication.
+
+
+
+
+
+
+
+
+
+
+
+Concept Of The Game Theory – John Von Neumann
+
+
+in
+Economics
+
+
+
+
+
+
+
+
+
+Game theory refers to a theoretical framework for creating social situations among different sets of players. It is also known as a science of strategy or a branch of mathematics that includes techniques to evaluate situations in which players make decisions that are related to each other. Since these decisions can be interrelated, the players have to consider each other’s possible decisions or strategies.
+
+Background
+Mathematician John von Neumann and Economist Oskar Morgenstern introduced the theory in the 1940s. The basis of this theory was to solve the problems of economics. They admitted that the mathematics developed for the physical sciences was not fit for economics. They noticed that economics is much like a game, wherein players wait for each other’s moves, so it requires a new kind of mathematics, which they called game theory.
+Mathematician John Nash further expanded the work of Neumann and Morgenstern. He gave the concept of Nash equilibrium. It refers to a set of strategies that each player has. This strategy does not allow any member to change their plan of action after knowing other players’ plans. It means that a player should stick to their chosen strategy even after knowing the other player’s strategy or plan.
+After this equilibrium is applied, the player cannot change his/her strategy. As the player knows the opponent’s strategy here, he/she will not change course, as there is no incentive or prize to change. All members of the game are satisfied with their plan of action; hence an equilibrium is achieved.
+For example, when a tie is achieved in the game and the scores of both parties are the same, equilibrium seems to have occurred.
+Shapley value is another concept used in game theory. It is a solution to a game and involves distributing gains or rewards equally among players of a team or group. This concept works in cases where the contribution of players is unequal but they are working cooperatively to achieve the rewards or gains. Equal contributors get equal pay or gains. People who do not contribute at all, do not receive gains.
+For example, a company wants to market their product. They use Facebook marketing, email marketing and Instagram marketing to advertise their product. All these marketing options are players and the incentive they receive according to their work is their reward. They are all part of the same party as they are selling the same product through different mediums.
+Terms of Game Theory
+Neumann and Morgenstern described the terms or components involved in game theory in their book, ‘The theory of games and economic behaviour.’
+Game: A game can be defined as any set of situations that have occurred due to the actions of players. This game includes the identities of players and their strategies. It also includes how these strategies impact the overall game.
+Strategy: Strategy can be defined as a plan of action that a player might take, based on the circumstances of the game.
+Players: Players are the decision-makers within a game.
+Information set: The information set refers to the information available to a player at a given point during the game.
+Payoff: Payoff is the payout (money/ compensation of any kind) that a player receives after reaching a particular outcome.
+Equilibrium: Equilibrium refers to an outcome or a result when two players have made their decisions. It refers to a balanced situation wherein 2 people have made an informed decision.
+Examples of Games
+1. The Prisoner’s Dilemma:
+This is the most popular example of game theory. It is a situation in which 2 opponents want to put their interests first. In doing so, they do not reach a productive outcome. Both individuals find themselves in a worse state due to their inability to find a cooperative solution.
+It is a situation wherein the two opponents are separated. They need to find a way to communicate and cooperate to win a desirable outcome. A relevant example of a prisoner’s dilemma is the competition between companies, such as Apple and Samsung. Both of them are strong opponents but they do not seem to communicate well for a cooperative outcome. Both want to win individually.
+The Tragedy Of The Commons
+The tragedy of the commons is the situation wherein everyone wants to consume resources as quickly as possible, which leads to the reduction of that resource. Instead of consuming in extremes, people could conserve, develop, and consume mindfully to not deplete the resource. It would be to everyone’s benefit as well.
+For example, water is an essential resource. People seem to be over-utilizing this resource, leading to its scarcity in some regions. If people use it mindfully, everyone would be able to access it more easily.
+How Does An Individual Contribution To A Business, Dividing Gain Or Loss Equally?
+An individual can divide gains or losses equally using the Shapley value. All the gains or rewards are divided equally among equal contributors. Individuals who contribute in equal or balanced amounts receive equal incentives. If an individual does not contribute even the bare minimum, he or she does not receive the gains. The losses are also divided in the same manner as gains.
+How Is The Tragedy Of The Commons Applied In The Economy?
+The tragedy of the commons can be applied to understand problems related to the economy. When individuals choose personal gain over collective good, it can lead to the neglection of society’s well-being. Individuals over-use resources for themselves, which leads to scarcity of that resource.
+For example, petroleum usage has increased tremendously over the years. When the resource becomes scarce, it becomes costlier and some people cannot afford it, leading to an imbalance in society. Hence, the tragedy of the commons is an essential struggle in the economy.
+2. Volunteer’s Dilemma:
+This game involves an individual who has to perform a certain chore or a job for the collective interest/ good. The worst outcome here is if nobody volunteers to perform that chore or job. If no one volunteers, it results in a volunteer’s dilemma. Collective interest is not achieved.
+For example, Getsy is the building secretary and has asked people to donate for repairing a broken electric system in the building. Nobody comes forward, in the hope that the other person will raise their hand first.
+3. Dictator Game:
+This game involves 2 players. One player must decide how to divide a cash incentive between the two of them. The other player cannot give any input on the other’s decision. Studies found that 50% of players keep the money to themselves, 45% give the other player a smaller share and only 5% of players equally divide the cash prize.
+4. Centipede Game:
+This game involves 2 players and a gradually increasing money stash. The players can alternatively take the money stash. The player who chooses to take the money stash gets a larger amount of money and the player who doesn’t choose to take the money stash receives a smaller amount.
+For example, getting into a committed relationship is like a centipede game, especially in this generation. It is an uncertain feeling as one does not know what the other person wants exactly from the relationship. It is unpredictable, just like a centipede game.
+Game Types
+1. Zero-Sum And Non-Zero-Sum Games:
+In a zero-sum game, only one player wins and gets an advantage over another. It can also be called a competitive game. It is mostly a non-cooperative game.
+Examples of zero-sum games include chess, poker, snakes and ladder etc. Simply put, one person wins and the other loses.
+On the other hand, in a non-zero-sum game, one player’s win does not necessarily lead to another player’s loss. It can be competitive or non-competitive. It is mostly cooperative.
+Examples of a non-zero-sum game include the prisoner’s dilemma, the stock market, etc.
+2. Cooperative And Non-Cooperative Games:
+In cooperative games, payoffs are known. It is more of a game between a coalition of players (group) than between solo individuals. These games are played due to some external forces such as contract law.
+For example, cricket is a cooperative game played between 2 or more teams.
+On the other hand, non-cooperative games involve individuals that deal with each other to achieve their own specific goals. There is no external authority or force here, this game occurs due to an individual’s own decisions. Individuals do not form groups or coalitions here, they play on their own.
+For example, chess, cards or ludo is a non-cooperative game played between individuals, not groups.
+3. Symmetric And Asymmetric Games:
+Symmetric games are games in which all the players use the same strategies. They are mostly short-term games. In long term games, players would have more options for strategies. The outcomes of symmetric games depend on strategies, not on players. For example, prisoner’s dilemma.
+On the other hand, asymmetric games are games in which players use different strategies. In these games, a strategy that is helpful to one player may prove disastrous to use for another player.
+For example, different people use different strategies for a start-up. Some people will be successful, but some people will not be successful, just like in an asymmetric game.
+4. Simultaneous and Sequential games:
+Simultaneous games are games in which players adopt simultaneous strategies or moves. In these games, the players are not aware of the moves of other players. They are not aware of the strategies that other players may use. For example, the popular game of rock, paper, and scissors.
+On the other hand, sequential games are games in which individuals are aware of the strategies or moves that the other players might apply. For example, chess, and tic-tac-toe.
+Applications Of Game Theory
+
+Game theory helps to highlight a problem or situation and lets us interpret the problem and possible outcomes in a different light.
+It was originally used in the field of economics to understand behaviours of consumers, firms and markets.
+It is used as an analysis tool for research in operations, economics and finance.
+It is also used in evaluating concepts in retail marketing, insurance, military and energy resource production.
+The use of game theory has expanded to areas of social sciences, such as psychology, sociology and politics.
+Researchers have used game theory in the field of economics and philosophy to understand good or appropriate behaviour.
+
+Criticism Of Game Theory
+The theory assumes that humans are perpetually interested in themselves and always act rationally. It states that we always tend to be rational decision makers, focusing on our incentives. However, humans are social beings and tend to cooperate for collective welfare.
+People have also found game theory to be complicated and difficult to understand. Finding the Nash equilibrium, unclear rules or hidden information can be difficult to interpret. Game theory cannot possibly take all strategies into account as well.
+
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Posts:Malthusian Theory of Population | Thomas Malthus
+
+
+
+{ 0 comments… add one }
+
+
+Cancel reply
+Leave a Comment
+
+Name *
+
+
+
+Email *
+
+
+
+Website
+
+
+
+Comment
+
+
+
+
+
+
+
+ 
+
+
+
+Next post: How Nudge Theory Influences The Behaviour
+Previous post: Verbal Vs Non-Verbal Communication With Examples
+
+
+
+
+Search
+
+
+
+
+
+
+
+Categories
+
+Advertising, Public relations, Marketing and Consumer Behavior
+
+Business Communication
+
+Communication / General
+
+Communication Barriers
+
+Communication in Practice
+
+Communication Models
+
+Cultural Communication
+
+Development Communication
+
+Economics
+
+Group Communication
+
+Intercultural Communication
+
+Interpersonal Communication
+
+Mass Communication
+
+Organisational Communication
+
+Political Communication
+
+Psychology, Behavioral And Social Science
+
+Technical Communication
+
+Visual Communication
+
+
+ 
+
+
+
+Communication Theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manage Cookie Consent
+
+
+
+
+
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+
+
+
+
+Functional
+
+
+
+Functional
+
+								Always active							
+
+
+
+
+
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+
+
+
+
+Preferences
+
+
+Preferences
+
+
+
+
+
+
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+
+
+
+
+Statistics
+
+
+Statistics
+
+
+
+
+
+
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+
+
+
+
+Marketing
+
+
+Marketing
+
+
+
+
+
+
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+
+
+
+
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+
+
+
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+
+
+{title}
+{title}
+{title}
+
+
+
+Manage consent
+ 
+
+
+
+
+
+
+
+
+
+

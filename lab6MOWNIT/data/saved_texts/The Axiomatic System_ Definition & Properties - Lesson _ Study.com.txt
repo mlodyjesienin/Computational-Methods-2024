@@ -1,0 +1,4078 @@
+
+
+
+
+The Axiomatic System: Definition & Properties - Lesson | Study.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for Teachers
+for Schools
+for Working Scholars®
+for College Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+Sign Up
+
+Menu
+					
+
+
+
+
+
+
+
+
+
+
+									Plans
+							
+
+
+
+									Subjects
+							
+
+
+
+
+
+Art
+
+
+Business
+
+
+Computer Science
+
+
+Education & Teaching
+
+
+English
+
+
+Health & Medicine
+
+
+History
+
+
+Humanities
+
+
+Math
+
+
+Psychology
+
+
+Science
+
+
+Social Science
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Art
+							
+
+
+
+									Architecture 
+
+
+
+
+									Art History 
+
+
+
+
+									Design 
+
+
+
+
+									Performing Arts 
+
+
+
+
+									Visual Arts 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business
+							
+
+
+
+									Accounting 
+
+
+
+
+									Business Administration 
+
+
+
+
+									Business Communication 
+
+
+
+
+									Business Ethics 
+
+
+
+
+									Business Intelligence 
+
+
+
+
+									Business Law 
+
+
+
+
+									Economics 
+
+
+
+
+									Finance 
+
+
+
+
+									Healthcare Administration 
+
+
+
+
+									Human Resources 
+
+
+
+
+									Information Technology 
+
+
+
+
+									International Business 
+
+
+
+
+									Operations Management 
+
+
+
+
+									Real Estate 
+
+
+
+
+									Sales & Marketing 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Computer Science
+							
+
+
+
+									Computer Engineering 
+
+
+
+
+									Computer Programming 
+
+
+
+
+									Cybersecurity 
+
+
+
+
+									Data Science 
+
+
+
+
+									Software 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Education & Teaching
+							
+
+
+
+									Education Law & Policy 
+
+
+
+
+									Pedagogy & Teaching Strategies 
+
+
+
+
+									Special & Specialized Education 
+
+
+
+
+									Student Support in Education 
+
+
+
+
+									Teaching English Language Learners 
+
+
+
+
+
+
+							 
+						
+
+
+
+									English
+							
+
+
+
+									Grammar 
+
+
+
+
+									Literature 
+
+
+
+
+									Public Speaking 
+
+
+
+
+									Reading 
+
+
+
+
+									Vocabulary 
+
+
+
+
+									Writing & Composition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Health & Medicine
+							
+
+
+
+									Counseling & Therapy 
+
+
+
+
+									Health 
+
+
+
+
+									Medicine 
+
+
+
+
+									Nursing 
+
+
+
+
+									Nutrition 
+
+
+
+
+
+
+							 
+						
+
+
+
+									History
+							
+
+
+
+									US History 
+
+
+
+
+									World History 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities
+							
+
+
+
+									Communication 
+
+
+
+
+									Ethics 
+
+
+
+
+									Foreign Languages 
+
+
+
+
+									Philosophy 
+
+
+
+
+									Religious Studies 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math
+							
+
+
+
+									Algebra 
+
+
+
+
+									Basic Math 
+
+
+
+
+									Calculus 
+
+
+
+
+									Geometry 
+
+
+
+
+									Statistics 
+
+
+
+
+									Trigonometry 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Psychology
+							
+
+
+
+									Clinical & Abnormal Psychology 
+
+
+
+
+									Cognitive Science 
+
+
+
+
+									Developmental Psychology 
+
+
+
+
+									Educational Psychology 
+
+
+
+
+									Organizational Psychology 
+
+
+
+
+									Social Psychology 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science
+							
+
+
+
+									Anatomy & Physiology 
+
+
+
+
+									Astronomy 
+
+
+
+
+									Biology 
+
+
+
+
+									Chemistry 
+
+
+
+
+									Earth Science 
+
+
+
+
+									Engineering 
+
+
+
+
+									Environmental Science 
+
+
+
+
+									Physics 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Social Science
+							
+
+
+
+									Anthropology 
+
+
+
+
+									Criminal Justice 
+
+
+
+
+									Geography 
+
+
+
+
+									Law 
+
+
+
+
+									Linguistics 
+
+
+
+
+									Political Science 
+
+
+
+
+									Sociology 
+
+
+
+
+
+
+
+									Courses
+							
+
+
+
+
+
+By Subject
+
+
+By Education Level
+
+
+Adult Education
+
+
+Transferable Credit
+
+
+
+
+
+
+
+							By Subject
+						
+
+
+
+									Arts 
+
+
+
+
+									Business 
+
+
+
+
+									Computer Science 
+
+
+
+
+									Education & Teaching 
+
+
+
+
+									English (ELA) 
+
+
+
+
+									Foreign Language 
+
+
+
+
+									Health & Medicine 
+
+
+
+
+									History 
+
+
+
+
+									Humanities 
+
+
+
+
+									Math 
+
+
+
+
+									Psychology 
+
+
+
+
+									Science 
+
+
+
+
+									Social Science 
+
+
+
+
+
+
+							By Education Level
+						
+
+
+
+									Elementary School 
+
+
+
+
+									Middle School 
+
+
+
+
+									High School 
+
+
+
+
+									College 
+
+
+
+
+									Graduate and Post-Grad 
+
+
+
+
+
+
+
+									Test Prep
+							
+
+
+
+
+
+Teacher Certification Exams
+
+
+Nursing Exams
+
+
+Allied Health & Medicine Exams
+
+
+Real Estate Exams
+
+
+All Test Prep
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Teacher Certification Exams
+							
+
+
+
+									Praxis 
+
+
+
+
+									FTCE 
+
+
+
+
+									TExES 
+
+
+
+
+									CSET & CBEST 
+
+
+
+
+									More Teacher Certification Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Nursing Exams
+							
+
+
+
+									NCLEX 
+
+
+
+
+									HESI 
+
+
+
+
+									More Nursing Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Allied Health & Medicine Exams
+							
+
+
+
+									ASCP 
+
+
+
+
+									CNA 
+
+
+
+
+									CNS 
+
+
+
+
+									More Medical Test Prep 
+
+
+
+
+
+
+							 
+						
+
+
+
+									Real Estate Exams
+							
+
+
+
+									Real Estate Sales 
+
+
+
+
+									Real Estate Brokers 
+
+
+
+
+									Real Estate Appraisals 
+
+
+
+
+
+
+
+									Teach
+							
+
+
+
+
+
+Teaching Resources and Curriculum
+
+
+Skills Practice
+
+
+Lesson Plans
+
+
+Teacher Certification
+
+
+Teacher Professional Development
+
+
+
+
+
+
+
+
+									Tutoring
+							
+
+
+
+
+
+Math Tutoring
+
+
+Science Tutoring
+
+
+Business Tutoring
+
+
+Humanities Tutoring
+
+
+
+
+
+
+
+							 
+						
+
+
+
+									Math Tutoring
+							
+
+
+
+									Algebra  Tutoring
+
+
+
+
+									Calculus  Tutoring
+
+
+
+
+									Geometry  Tutoring
+
+
+
+
+									Pre-calculus  Tutoring
+
+
+
+
+									Statistics  Tutoring
+
+
+
+
+									Trigonometry  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Science Tutoring
+							
+
+
+
+									Biology  Tutoring
+
+
+
+
+									Chemistry  Tutoring
+
+
+
+
+									Physics  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Business Tutoring
+							
+
+
+
+									Accounting  Tutoring
+
+
+
+
+									Economics  Tutoring
+
+
+
+
+									Finance  Tutoring
+
+
+
+
+
+
+							 
+						
+
+
+
+									Humanities Tutoring
+							
+
+
+
+									History  Tutoring
+
+
+
+
+									Literature  Tutoring
+
+
+
+
+									Writing  Tutoring
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright
+
+
+
+
+
+
+
+
+
+
+ Math Courses
+			
+			/
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+		
+			
+Geometry: High School
+Course
+
+
+
+
+		The Axiomatic System: Definition & Properties
+	
+
+
+
+
+Lesson Transcript
+
+
+
+Instructor
+
+Yuanxin (Amy) Yang Alcocer
+
+Show bio
+Amy has a master's degree in secondary education and has been teaching math for over 9 years. Amy has worked with students at all levels from those with special needs to those that are gifted.
+
+
+
+
+
+Cite this lesson
+
+
+
+
+
+
+
+
+
+							In mathematics, the axiomatic system refers to the statements and rules used to develop and prove theorems. Explore the definition and properties of the axiomatic system, including consistency, independence, and completeness. Understand how an axiom compares to an axiomatic system.
+						
+					
+
+
+
+
+
+		Create an account
+		
+
+
+
+
+Table of ContentsThe Axiomatic System Consistency Independence Completeness Lesson Summary Learning OutcomesShow 
+
+
+
+
+
+The Axiomatic System
+
+
+
+What exactly is an axiomatic system? I know it sounds like a big word for a complicated system, but it's actually not all that complicated. Defined, an axiomatic system is a set of axioms used to derive theorems. What this means is that for every theorem in math, there exists an axiomatic system that contains all the axioms needed to prove that theorem. An axiom is a statement that is considered true and does not require a proof. It is considered the starting point of reasoning. Axioms are used to prove other statements. They are basic truths. For example, the statement that all right angles are equal to each other is an axiom and does not require a proof. We know that all right angles are equal to each other and we do not argue that point. Instead, we use this information to prove other things. A collection of these basic, true statements forms an axiomatic system. The subject that you are studying right now, geometry, is actually based on an axiomatic system known as Euclidean geometry. This system has only five axioms or basic truths that form the basis for all the theorems that you are learning. Everything can be traced back to these five axioms. What are they? Let me tell you. 1. A straight line can be drawn from any one point to any other point. 2. A line segment can be extended infinitely in both directions. 3. A circle can be described with a center and radius. 4. All right angles are equal to each other. 5. If a line intersecting two lines forms interior angles less than 90 degrees, then the two lines will intersect on the same side as the angles that are less than 90 degrees. The fifth axiom is also known as the parallel postulate. Axiomatic systems also have three different properties. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An error occurred trying to load this video.
+Try refreshing the page, or contact customer support.
+
+
+
+
+
+You must cCreate an account to continue watching
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+
+							 Create Your Account To Continue Watching
+As a member, you'll also get unlimited access to over 88,000
+						lessons in math, English, science, history, and more. Plus, get practice tests, quizzes, and personalized coaching to help you
+						succeed.
+
+						Get unlimited access to over 88,000 lessons.
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+							
+								 
+								 
+									  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		It only takes a few minutes to setup and you can cancel any time.
+	
+	
+
+
+								 
+							
+                        
+
+Already registered? Log in here for
+						access
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+
+
+
+
+Coming up next:
+					Euclid's Axiomatic Geometry: Developments & Postulates
+			
+
+You're on a roll. Keep up the good work!
+
+
+						Take Quiz
+					
+
+Watch Next Lesson
+
+
+
+ Replay
+		
+
+
+
+
+
+
+Just checking in. Are you still watching?
+Yes! Keep playing. 
+
+
+
+
+
+	Your next lesson will play in
+	10 seconds
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        0:01 The Axiomatic System
+
+
+                        2:11 Consistency
+
+
+                        2:55 Independence
+
+
+                        3:44 Completeness
+
+
+                        4:16 Lesson Summary
+
+
+
+
+
+
+View Video Only
+
+ Save
+
+
+ Timeline
+				
+
+124K views
+
+
+
+
+
+
+
+
+									Video
+							
+
+
+
+									Quiz
+								
+
+
+
+									Course
+								
+
+
+
+									Video Only
+								
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+							124K
+							views
+
+
+
+
+
+
+Consistency
+
+
+
+The first property is called consistency. When an axiomatic system is consistent, then the system will NOT be able to prove both a statement and its negation. The consistent system will prove either the statement or its negative, but not both. If it did, then it would contradict itself. For example, if an axiomatic system was able to prove the statement 'squares are made from two triangles' as well as the statement 'squares are not made from two triangles,' then the system is not consistent. The system actually contradicts itself. You can't rely on the system. Because of this, this property is a requirement for an axiomatic system. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+Independence
+
+
+
+The next property is independence. The axioms in an axiomatic system are said to be independent if the axiom cannot be derived from the other axioms in the system. If you can use some of the axioms to prove another axiom in the system, then the system is not independent because one of the statements depends on the other statements. Look back at the five axioms of Euclidean geometry, for example, and you will see that this particular axiomatic system is independent since none of the five axioms can be proved by the other four. An axiomatic system does not have to be independent. It can be either dependent or independent, so this property, unlike the property for consistency, is not a requirement for an axiomatic system. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Completeness
+
+
+
+The third property is that of completeness. A complete axiomatic system is a system where for any statement, either the statement or its negative can be proved using the system. If there is any statement the system cannot prove or disprove, then the system is not complete. As you can see, this is a pretty big property to fill. This is why completeness is also not a required property. This property is a tough one to fulfill for any axiomatic system. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Lesson Summary
+
+
+
+So, what have we learned? We've learned that an axiomatic system is a set of axioms used to derive theorems where an axiom is a statement that is considered true and does not require a proof, a basic truth. Euclidean geometry with its five axioms makes up an axiomatic system. The three properties of axiomatic systems are consistency, independence, and completeness. A consistent system is a system that will not be able to prove both a statement and its negation. A consistent system will not contradict itself. An independent axiom in a system is an axiom that cannot be derived or proved from the other axioms in the system. A complete system is a system that can prove or disprove any statement. Out of the three properties, only the property of consistency is a requirement of axiomatic systems. 
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+Learning Outcomes
+
+
+
+When this has been thoroughly studied, you might be able to: 
+
+Compare an axiom to an axiomatic system 
+Remember the properties of an axiomatic system
+
+
+
+
+
+
+
+								
+									
+									
+										To unlock this lesson you must be a Study.com Member.
+									
+								
+								
+								
+Create your account
+
+
+
+
+
+
+
+
+
+
+
+
+Register to view this lesson
+Are you a student or a teacher?
+
+
+				I am a student
+			
+
+ I am a teacher
+			
+
+
+
+Unlock Your Education
+See for yourself why 30 million people use Study.com
+Become a Study.com member and start learning now.
+Become a Member
+Already a member? Log In
+
+ Back
+					
+
+
+Resources created by teachers for teachers
+Over 30,000 video lessons
+		& teaching resources‐all
+		in one place.
+	
+
+
+
+
+
+
+Video lessons
+
+
+
+
+
+Quizzes & Worksheets
+
+
+
+
+
+Classroom Integration
+
+
+
+
+
+Lesson Plans
+
+
+
+I would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.
+
+
+
+			Jennifer B.
+		
+
+				Teacher
+				
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+		Try it now
+	
+
+
+
+
+ Back
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author X.
+Teacher
+Mountain View, CA
+
+
+
+
+									Create an account
+								
+
+
+
+
+
+									I highly recommend you use this site! It helped me pass my exam and the test questions are very similar to the practice
+									quizzes on Study.com. This website helped me pass!
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommended Lessons and Courses for You
+
+
+Related Lessons
+
+
+Related Courses
+
+
+
+
+
+
+
+
+									Recommended Lessons for You
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Undefined Terms in Geometry | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Elliptic Geometry | Definition & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry Definition, History & Branches
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Betweenness of Points: Definition & Problems
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Euclid's Parallel Postulate | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Comparing Triangles with the Hinge Theorem
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Postulates & Theorems in Math | Definition, Difference & Example
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Euclidean & Non-Euclidean Geometry | Similarities & Difference
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Postulate in Math | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Euclidean Geometry | Definition, History & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Hyperbolic Geometry  | Overview & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Theorems of Inequality
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Direct & Indirect Proof | Definition, Difference & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra vs Geometry | Similarities & Connections
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Ruler Postulate Definition, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Proof | Definition, Parts & Example
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transitive Property of Equality | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Direct Proof Definition, Induction & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Proving Congruent Triangles | Definition, Proofs & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Theorem | Meaning, Types & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									Related Courses
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Common Core Math - Geometry: High School Standards
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry Proofs: Help & Tutorials
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Fundamental Geometry
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NY Regents Exam - Geometry: Test Prep & Practice
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+McDougal Littell Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Prentice Hall Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Amsco Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NY Regents Exam - Geometry: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Homeschool Curriculum
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Honors Geometry Textbook
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+AP EAMCET E & AM (Engineering, Agriculture & Medical) Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+UPSEE Paper 4: Study Guide & Test Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAS Mathematics - Paper G & H: Test Prep & Practice
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GRE Quantitative Reasoning: Study Guide & Test Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Social Studies: Civics & Government, US History, Economics, Geography & World
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Science: Life, Physical and Chemical
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Start today. Try it now
+		
+
+
+
+
+
+
+
+
+Geometry: High School
+
+
+14 chapters |
+				
+					
+					
+						145 lessons
+						
+					
+				
+			
+
+
+
+
+
+
+Ch 1. 
+              High School Geometry: Foundations of Geometry
+
+
+
+
+
+
+							Geometry Definition, History & Branches
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:36
+						 
+
+
+
+							Inductive vs. Deductive Reasoning in Geometry | Definition & Uses
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:59
+						 
+
+
+
+							Thales & Pythagoras: Early Contributions to Geometry
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:14
+						 
+
+
+
+							The Axiomatic System: Definition & Properties
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:17
+						 
+
+
+
+
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:58
+						 
+Next Lesson
+
+
+
+
+
+
+Euclid's Axiomatic Geometry: Developments & Postulates
+
+
+
+
+							Undefined Terms in Geometry | Definition & Examples
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:23
+						 
+
+
+
+							Properties and Postulates of Geometric Figures
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+4:53
+						 
+
+
+
+							Algebraic Laws and Geometric Postulates
+					
+
+							  
+
+
+
+
+
+
+
+
+
+
+5:37
+						 
+
+
+
+
+
+
+
+Ch 2. 
+									
+										High School Geometry: Logic in...
+
+
+
+
+
+
+
+
+
+
+Ch 3. 
+									
+										High School Geometry: Introduction to...
+
+
+
+
+
+
+
+
+
+
+Ch 4. 
+									
+										High School Geometry: Properties of...
+
+
+
+
+
+
+
+
+
+
+Ch 5. 
+									
+										High School Geometry: Triangles,...
+
+
+
+
+
+
+
+
+
+
+Ch 6. 
+									
+										High School Geometry: Parallel Lines...
+
+
+
+
+
+
+
+
+
+
+Ch 7. 
+									
+										High School Geometry: Similar...
+
+
+
+
+
+
+
+
+
+
+Ch 8. 
+									
+										High School Geometry:...
+
+
+
+
+
+
+
+
+
+
+Ch 9. 
+									
+										High School Geometry: Circular Arcs and...
+
+
+
+
+
+
+
+
+
+
+Ch 10. 
+									
+										High School Geometry: Conic...
+
+
+
+
+
+
+
+
+
+
+Ch 11. 
+									
+										High School Geometry: Geometric...
+
+
+
+
+
+
+
+
+
+
+Ch 12. 
+									
+										High School Geometry: Analytical...
+
+
+
+
+
+
+
+
+
+
+Ch 13. 
+									
+										High School Geometry:...
+
+
+
+
+
+
+
+
+
+
+Ch 14. 
+									
+										High School Geometry: Introduction to...
+
+
+
+
+
+
+
+
+
+
+
+
+The Axiomatic System: Definition & Properties Related Study Materials
+
+
+
+
+
+
+
+
+				Related Lessons
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Undefined Terms in Geometry | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Elliptic Geometry | Definition & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry Definition, History & Branches
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Betweenness of Points: Definition & Problems
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Euclid's Parallel Postulate | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Comparing Triangles with the Hinge Theorem
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Postulates & Theorems in Math | Definition, Difference & Example
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Euclidean & Non-Euclidean Geometry | Similarities & Difference
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Postulate in Math | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Euclidean Geometry | Definition, History & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Hyperbolic Geometry  | Overview & Applications
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Theorems of Inequality
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Direct & Indirect Proof | Definition, Difference & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Algebra vs Geometry | Similarities & Connections
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Ruler Postulate Definition, Formula & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Proof | Definition, Parts & Example
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transitive Property of Equality | Definition & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Direct Proof Definition, Induction & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Proving Congruent Triangles | Definition, Proofs & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Theorem | Meaning, Types & Examples
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Related Courses
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Common Core Math - Geometry: High School Standards
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry Proofs: Help & Tutorials
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Fundamental Geometry
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NY Regents Exam - Geometry: Test Prep & Practice
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+McDougal Littell Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Prentice Hall Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Amsco Geometry: Online Textbook Help
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NY Regents Exam - Geometry: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Help and Review
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Homework Help Resource
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Tutoring Solution
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High School Geometry: Homeschool Curriculum
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Honors Geometry Textbook
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+AP EAMCET E & AM (Engineering, Agriculture & Medical) Study Guide
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+UPSEE Paper 4: Study Guide & Test Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAS Mathematics - Paper G & H: Test Prep & Practice
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GRE Quantitative Reasoning: Study Guide & Test Prep
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Social Studies: Civics & Government, US History, Economics, Geography & World
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+GED Science: Life, Physical and Chemical
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Topics
+
+
+
+
+
+
+Browse by Courses
+High School Trigonometry Textbook
+College Algebra Remediation
+Geometry: Credit Recovery
+High School Algebra I: Homework Help Resource
+Calculus: Tutoring Solution
+NY Regents Exam - Geometry: Test Prep & Practice
+CAHSEE Math Exam: Test Prep & Study Guide
+TExES Mathematics 7-12 (235) Prep
+Math 103: Precalculus
+GED Math: Quantitative, Arithmetic & Algebraic Problem Solving
+WEST Middle Grades Mathematics (203): Practice & Study Guide
+AEPA Middle Grades Mathematics (NT203): Practice & Study Guide
+ORELA Mathematics: Practice & Study Guide
+GACE Mathematics (522) Prep
+Introduction to Statistics Textbook
+
+
+
+
+
+
+Browse by Lessons
+How to Show 10 to the 2nd Power: Steps & Tutorial
+How to Write 1000 in Scientific Notation
+Cartesian Plane | Definition, History & Quadrants
+Converting 12 Liters to Milliliters: Steps & Tutorial
+Converting 162 Meters to Feet: How-To & Tutorial
+Converting 1 Pound to Ounces: Steps & Tutorial
+Area Method: Slope & Examples
+Mathematical Terminology, Concepts & Notation
+X-Axis | Definition & Overview
+Y-Coordinates Overview & Examples
+How to Find the Volume of a Box
+Solving Systems of Linear Equations: Methods & Examples
+Math 104: Calculus Formulas & Properties
+Practice Problem Set for Foundations of Linear Equations
+Practice Problem Set for Matrices and Absolute Values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Create an account to start this course today
+			
+
+						  
+							  Used by over 30 million students worldwide
+						  
+						  
+                
+
+
+				  Create an account
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like this lesson
+
+
+
+Share
+
+
+
+
+Explore our library of over 88,000 lessons
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Browse
+
+
+						Browse by subject
+					
+
+
+College Courses
+
+Business
+English
+Foreign Language
+History
+Humanities
+Math
+Science
+Social Science
+See All College Courses
+
+
+
+High School Courses
+
+AP
+Common Core
+GED
+
+High School
+See All High School Courses
+
+
+
+Other Courses
+
+College & Career Guidance Courses
+College Placement Exams
+Entrance Exams
+General Test Prep
+K-8 Courses
+Skills Courses
+Teacher Certification Exams
+See All Other Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade to enroll
+×
+
+
+Upgrade to Premium to enroll in Geometry: High School
+Enrolling in a course lets you earn progress by passing quizzes and exams.
+
+
+
+
+Track course progress
+
+
+
+
+Take quizzes and exams
+
+
+
+
+Earn certificates of completion
+
+
+
+			You will also be able to:
+			
+Create a Goal
+Create custom courses
+Get your questions answered
+
+
+
+
+Upgrade to Premium to add all these features to your account!
+
+			Upgrade Now
+		
+Upgrade to Premium to add all these features to your account!
+
+
+
+
+
+
+
+
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars® Solutions
+Online tutoring
+
+
+
+About Us
+
+Blog
+Careers
+Teach For Us
+Press Center
+Ambassador
+Scholarships
+
+
+
+
+
+Support
+
+FAQ
+Site Feedback
+
+
+
+Download the app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working Scholars® Bringing Tuition-Free College to the Community
+
+
+
+
+
+
+
+
+©  Copyright 2024 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		
+
+
+
+
+
+Terms of Use  
+Privacy Policy  
+DMCA Notice  
+ADA Compliance  
+Honor Code For Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+

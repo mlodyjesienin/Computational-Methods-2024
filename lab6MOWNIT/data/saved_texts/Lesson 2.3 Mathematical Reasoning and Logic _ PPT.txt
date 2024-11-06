@@ -1,0 +1,728 @@
+Lesson 2.3 Mathematical Reasoning and Logic | PPTSubmit SearchUploadLesson 2.3 Mathematical Reasoning and Logic•Download as PPTX, PDF•0 likes•27 viewsAI-enhanced descriptionLLanceAdrianBengalanFollowThis document discusses inductive and deductive reasoning. It provides examples of each type of reasoning and how they differ. Inductive reasoning involves examining specific examples to reach a general conclusion, while deductive reasoning starts with a general statement and uses logical principles to reach a specific conclusion. The document also provides examples of logic puzzles and how deductive reasoning can be used to solve them by organizing the clues and data provided.Read lessRead moreEducationReportShareReportShare1 of 22Download nowRecommendedReasoning Reasoning lovelyya2553 Mathematics  Reasoning  Problem Solving and ReasoningProblem Solving and ReasoningLiwayway Memije-Cruz  Problem solving is  the process of finding solutions to difficult or complex issues ,w hile reasoning is the action of thinking about something in a logical, sensible way.
+Probability of Simple and Compound EventsProbability of Simple and Compound EventsJoey Valdriz A presentation on probability of simple and compound eventsprobabilityofsimpleandcompoundevents-190217133041.pptxprobabilityofsimpleandcompoundevents-190217133041.pptxFelix Jones Banares probability of simple and compound events. Solve problems involving simple and compound events
+DLL-M8- November 4-8,2019.docxDLL-M8- November 4-8,2019.docxIan Salinas DLL1.1 patterns & inductive reasoning1.1 patterns & inductive reasoningvickihoover GeometryตัวจริงตัวจริงNittaya Noinan 3  PROBABILITY TOPICSFigure 3.1 Meteor showers are rare, .docx3  PROBABILITY TOPICSFigure 3.1 Meteor showers are rare, .docxtamicawaysmith 3 | PROBABILITY TOPICS
+
+Figure 3.1 Meteor showers are rare, but the probability of them occurring can be calculated. (credit: Navicore/flickr)
+
+Introduction
+
+Chapter Objectives
+
+By the end of this chapter, the student should be able to:
+
+• Understand and use the terminology of probability.
+• Determine whether two events are mutually exclusive and whether two events are independent.
+• Calculate probabilities using the Addition Rules and Multiplication Rules.
+• Construct and interpret Contingency Tables.
+• Construct and interpret Venn Diagrams.
+• Construct and interpret Tree Diagrams.
+
+It is often necessary to "guess" about the outcome of an event in order to make a decision. Politicians study polls to guess
+their likelihood of winning an election. Teachers choose a particular course of study based on what they think students can
+comprehend. Doctors choose the treatments needed for various diseases based on their assessment of likely results. You
+may have visited a casino where people play games chosen because of the belief that the likelihood of winning is good. You
+may have chosen your course of study based on the probable availability of jobs.
+
+You have, more than likely, used probability. In fact, you probably have an intuitive sense of probability. Probability deals
+with the chance of an event occurring. Whenever you weigh the odds of whether or not to do your homework or to study
+for an exam, you are using probability. In this chapter, you will learn how to solve probability problems using a systematic
+approach.
+
+Your instructor will survey your class. Count the number of students in the class today.
+
+• Raise your hand if you have any change in your pocket or purse. Record the number of raised hands.
+
+CHAPTER 3 | PROBABILITY TOPICS 163
+
+
+
+• Raise your hand if you rode a bus within the past month. Record the number of raised hands.
+
+• Raise your hand if you answered "yes" to BOTH of the first two questions. Record the number of raised hands.
+
+Use the class data as estimates of the following probabilities. P(change) means the probability that a randomly chosen
+person in your class has change in his/her pocket or purse. P(bus) means the probability that a randomly chosen person
+in your class rode a bus within the last month and so on. Discuss your answers.
+
+• Find P(change).
+
+• Find P(bus).
+
+• Find P(change AND bus). Find the probability that a randomly chosen student in your class has change in his/her
+pocket or purse and rode a bus within the last month.
+
+• Find P(change|bus). Find the probability that a randomly chosen student has change given that he or she rode a
+bus within the last month. Count all the students that rode a bus. From the group of students who rode a bus,
+count those who have change. The probability is equal to those who have change and rode a bus divided by those
+who rode a bus.
+
+3.1 | Terminology
+Probability is a measure that is associated with how certain we are of outcomes of a particular experiment or activity.
+An e ...RecommendedReasoning Reasoning lovelyya2553 Mathematics  Reasoning  Problem Solving and ReasoningProblem Solving and ReasoningLiwayway Memije-Cruz  Problem solving is  the process of finding solutions to difficult or complex issues ,w hile reasoning is the action of thinking about something in a logical, sensible way.
+Probability of Simple and Compound EventsProbability of Simple and Compound EventsJoey Valdriz A presentation on probability of simple and compound eventsprobabilityofsimpleandcompoundevents-190217133041.pptxprobabilityofsimpleandcompoundevents-190217133041.pptxFelix Jones Banares probability of simple and compound events. Solve problems involving simple and compound events
+DLL-M8- November 4-8,2019.docxDLL-M8- November 4-8,2019.docxIan Salinas DLL1.1 patterns & inductive reasoning1.1 patterns & inductive reasoningvickihoover GeometryตัวจริงตัวจริงNittaya Noinan 3  PROBABILITY TOPICSFigure 3.1 Meteor showers are rare, .docx3  PROBABILITY TOPICSFigure 3.1 Meteor showers are rare, .docxtamicawaysmith 3 | PROBABILITY TOPICS
+
+Figure 3.1 Meteor showers are rare, but the probability of them occurring can be calculated. (credit: Navicore/flickr)
+
+Introduction
+
+Chapter Objectives
+
+By the end of this chapter, the student should be able to:
+
+• Understand and use the terminology of probability.
+• Determine whether two events are mutually exclusive and whether two events are independent.
+• Calculate probabilities using the Addition Rules and Multiplication Rules.
+• Construct and interpret Contingency Tables.
+• Construct and interpret Venn Diagrams.
+• Construct and interpret Tree Diagrams.
+
+It is often necessary to "guess" about the outcome of an event in order to make a decision. Politicians study polls to guess
+their likelihood of winning an election. Teachers choose a particular course of study based on what they think students can
+comprehend. Doctors choose the treatments needed for various diseases based on their assessment of likely results. You
+may have visited a casino where people play games chosen because of the belief that the likelihood of winning is good. You
+may have chosen your course of study based on the probable availability of jobs.
+
+You have, more than likely, used probability. In fact, you probably have an intuitive sense of probability. Probability deals
+with the chance of an event occurring. Whenever you weigh the odds of whether or not to do your homework or to study
+for an exam, you are using probability. In this chapter, you will learn how to solve probability problems using a systematic
+approach.
+
+Your instructor will survey your class. Count the number of students in the class today.
+
+• Raise your hand if you have any change in your pocket or purse. Record the number of raised hands.
+
+CHAPTER 3 | PROBABILITY TOPICS 163
+
+
+
+• Raise your hand if you rode a bus within the past month. Record the number of raised hands.
+
+• Raise your hand if you answered "yes" to BOTH of the first two questions. Record the number of raised hands.
+
+Use the class data as estimates of the following probabilities. P(change) means the probability that a randomly chosen
+person in your class has change in his/her pocket or purse. P(bus) means the probability that a randomly chosen person
+in your class rode a bus within the last month and so on. Discuss your answers.
+
+• Find P(change).
+
+• Find P(bus).
+
+• Find P(change AND bus). Find the probability that a randomly chosen student in your class has change in his/her
+pocket or purse and rode a bus within the last month.
+
+• Find P(change|bus). Find the probability that a randomly chosen student has change given that he or she rode a
+bus within the last month. Count all the students that rode a bus. From the group of students who rode a bus,
+count those who have change. The probability is equal to those who have change and rode a bus divided by those
+who rode a bus.
+
+3.1 | Terminology
+Probability is a measure that is associated with how certain we are of outcomes of a particular experiment or activity.
+An e ...G8 MATHEMATICS REASONING MATHEMATICS.docxG8 MATHEMATICS REASONING MATHEMATICS.docxJelineDeo Lesson PlanBeauty and Applicability of Mathematics.pptxBeauty and Applicability of Mathematics.pptxAamirShehzad83 Beauty and Applicability of MathematicsInductive and Deductive Reasoning.pptxInductive and Deductive Reasoning.pptxDesirrieLepasana This lesson aims to introduce to you the world of reasoning and logic. Reasoning is one vital skill in studying Mathematics and its vast landscape for learning. Even in real world setting, one can use reasoning to prove or 
+disprove concepts or information. As learner of this lesson, you are expected 
+to achieve the minimum competency for this topic which is to use inductive 
+or deductive reasoning in an argument.Probability Grade 10 Third Quarter LessonsProbability Grade 10 Third Quarter LessonsJoseMangaJr1 Grade 10 Probability - The Basics Workshop 1Probability - The Basics Workshop 1Angela Lee The first of two workshops I've created for children in my class about probability.  This is used as a rotation activity after I have done some teaching on it first.Deductive and Inductive Reasoning with VizziniDeductive and Inductive Reasoning with VizziniJessamyn Morisette A presentation on inductive and deductive reasoning with a sample from The Princess Bride.Ideas for teaching chance, data and interpretation of dataIdeas for teaching chance, data and interpretation of dataJoanne Villis These activities have been designed specifically for Year 3 students according to the Australian Curriculum guidelines. However, they can be adapted to meet other standards or year levels. Recreational mathematics magazine  number 2 september_2014Recreational mathematics magazine  number 2 september_2014Θανάσης Δρούγας .The University of Maine at Augusta            Name ______.docxThe University of Maine at Augusta            Name ______.docxchristalgrieg The University of Maine at Augusta            Name: ________________________   
+
+Mathematics Department                             Date: _________________________  
+
+MAT 280 F16                                                 Location:______________________ 
+
+
+ MAT 280 
+
+Exam 1 Chapter 1.1-1.6 
+
+
+Please answer the following questions. Part credit is possible if the work indicates an understanding of 
+
+the objective under investigation.  Students may use their laptops, tablets, textbooks, notes, calculators 
+
+and scrap paper.  If used, scrap paper should be turned in with the exam.   Students may not use smart 
+
+phones.    If available homework should be turned in with the exam. 
+
+Time:  2:45  If staff is available, extra time is permitted. 
+
+
+
+1. Find a proposition with the given truth table.  
+
+p q ? 
+
+T T F 
+
+T F T 
+
+F T T 
+
+F F T 
+
+
+2.   Write the truth table for the proposition    (r   q)   (p → r).  Use as many columns as necessary.         
+
+Label each column. 
+
+
+
+
+
+
+
+
+
+
+
+
+p Ans: p  q  r            
+
+T T T      
+
+T T F      
+
+T F T      
+
+T F F      
+
+F T T      
+
+F T F      
+
+F F T      
+
+F F F      
+
+
+
+
+
+Name: ________________________   
+
+ 
+3.  Find a proposition using only pq and the connective V  with the given truth table.  
+
+p
+ 
+
+q
+ ? 
+
+T T F 
+
+T F F 
+
+F T F 
+
+F F T 
+
+
+
+4. Determine whether  p  (q  r) is equivalent to q   (p   r).    Use as many columns as necessary.   
+
+Label each used column.   Credit will only be when a completed truth table accompanies the answer.  
+
+
+
+
+
+
+
+p Ans: p q r         
+
+T T T         
+
+T T F         
+
+T F T         
+
+T F F         
+
+F T T         
+
+F T F         
+
+F F T         
+
+F F F         
+
+
+
+Name: ________________________   
+
+
+5.  Write a proposition equivalent to  ( p  q)   using only pq and the connective .  .  Support your 
+
+answer with a truth table.   If necessary, insert columns in the truth table below to support your 
+
+answer 
+
+  p    
+q
+
+
+T T     
+
+T F     
+
+F T     
+
+F F     
+
+
+
+
+6.  Prove that q  p  and its contrapositive are logically equivalent.  If they are not equivalent, explain 
+
+why.  Do the same for its inverse. 
+
+  p    
+q
+
+         p    
+q
+
+
+T T     T T     
+
+T F     T F     
+
+F T     F T     
+
+F F     F F     
+
+
+
+
+7.    In the questions below write the statement in the form “If …, then ….” 
+
+a. Whenever the temperature drops below 35 degrees, children should wear boots 
+
+during recess. 
+
+
+          b. You have completed your program’s requirements only if you are eligible to graduate. 
+
+
+
+Name: ________________________   
+
+
+8. Write the contrapositive, converse, and inverse of the following:                                                                           
+
+                                        If I have a valid passport, I will be able to travel to Cuba. 
+
+. 
+
+a.  Contrapositive: 
+
+
+
+b. Converse: 
+
+
+
+c. Inverse: 
+
+
+
+9. How many rows are required to show the truth table for the following compound proposition? 
+
+(q  r  ) → (p    s)  ...scientific investigation hypothesis and problem.pptxscientific investigation hypothesis and problem.pptxKAYJOANNELIWANAGAN steps of scientific method(7) Lesson 9.2(7) Lesson 9.2wzuri (7) Lesson 9.2Random variableRandom variableLeamel Sarita Statistics and Probability grade 11Course Design Best PracticesCourse Design Best PracticesKeitaro Matsuoka 1.	Think “Relevant ==> Simple ==> Intricate.”
+2.	Visualize “mastery blocks.”
+3.	Generate comprehensive examples.
+4.	Assessment.
+5.	End with lead to next topic.DLL_WEEK3_LC39-40.docxDLL_WEEK3_LC39-40.docxnestthecasidsid2 dddLAILA BALINADO COT 2.pptxLAILA BALINADO COT 2.pptxLailaVispoBalinado education(7) Lesson 9.7(7) Lesson 9.7wzuri (7) Lesson 9.7inductive-and-deductive-reasoning-ppt.pptxinductive-and-deductive-reasoning-ppt.pptxDystopianSh types of reasoningProbability distribution of a random variable moduleProbability distribution of a random variable moduleMelody01082019 This is a module 1 for Statistics and Probability for Grade 11COT4  Lesson Plan Grade 8COT4  Lesson Plan Grade 8RoselynOntolan Probabilityjohn-michaels-lp-editedmee.docxjohn-michaels-lp-editedmee.docxJohnMichaelPerez9 practice guideA Strategic Approach: GenAI in EducationA Strategic Approach: GenAI in EducationPeter Windle Artificial Intelligence (AI) technologies such as Generative AI, Image Generators and Large Language Models have had a dramatic impact on teaching, learning and assessment over the past 18 months. The most immediate threat AI posed was to Academic Integrity with Higher Education Institutes (HEIs) focusing their efforts on combating the use of GenAI in assessment. Guidelines were developed for staff and students, policies put in place too. Innovative educators have forged paths in the use of Generative AI for teaching, learning and assessments leading to pockets of transformation springing up across HEIs, often with little or no top-down guidance, support or direction.
+
+This Gasta posits a strategic approach to integrating AI into HEIs to prepare staff, students and the curriculum for an evolving world and workplace. We will highlight the advantages of working with these technologies beyond the realm of teaching, learning and assessment by considering prompt engineering skills, industry impact, curriculum changes, and the need for staff upskilling. In contrast, not engaging strategically with Generative AI poses risks, including falling behind peers, missed opportunities and failing to ensure our graduates remain employable. The rapid evolution of AI technologies necessitates a proactive and strategic approach if we are to remain relevant.The basics of sentences session 5pptx.pptxThe basics of sentences session 5pptx.pptxheathfieldcps1 PieMore Related ContentSimilar to Lesson 2.3 Mathematical Reasoning and LogicG8 MATHEMATICS REASONING MATHEMATICS.docxG8 MATHEMATICS REASONING MATHEMATICS.docxJelineDeo Lesson PlanBeauty and Applicability of Mathematics.pptxBeauty and Applicability of Mathematics.pptxAamirShehzad83 Beauty and Applicability of MathematicsInductive and Deductive Reasoning.pptxInductive and Deductive Reasoning.pptxDesirrieLepasana This lesson aims to introduce to you the world of reasoning and logic. Reasoning is one vital skill in studying Mathematics and its vast landscape for learning. Even in real world setting, one can use reasoning to prove or 
+disprove concepts or information. As learner of this lesson, you are expected 
+to achieve the minimum competency for this topic which is to use inductive 
+or deductive reasoning in an argument.Probability Grade 10 Third Quarter LessonsProbability Grade 10 Third Quarter LessonsJoseMangaJr1 Grade 10 Probability - The Basics Workshop 1Probability - The Basics Workshop 1Angela Lee The first of two workshops I've created for children in my class about probability.  This is used as a rotation activity after I have done some teaching on it first.Deductive and Inductive Reasoning with VizziniDeductive and Inductive Reasoning with VizziniJessamyn Morisette A presentation on inductive and deductive reasoning with a sample from The Princess Bride.Ideas for teaching chance, data and interpretation of dataIdeas for teaching chance, data and interpretation of dataJoanne Villis These activities have been designed specifically for Year 3 students according to the Australian Curriculum guidelines. However, they can be adapted to meet other standards or year levels. Recreational mathematics magazine  number 2 september_2014Recreational mathematics magazine  number 2 september_2014Θανάσης Δρούγας .The University of Maine at Augusta            Name ______.docxThe University of Maine at Augusta            Name ______.docxchristalgrieg The University of Maine at Augusta            Name: ________________________   
+
+Mathematics Department                             Date: _________________________  
+
+MAT 280 F16                                                 Location:______________________ 
+
+
+ MAT 280 
+
+Exam 1 Chapter 1.1-1.6 
+
+
+Please answer the following questions. Part credit is possible if the work indicates an understanding of 
+
+the objective under investigation.  Students may use their laptops, tablets, textbooks, notes, calculators 
+
+and scrap paper.  If used, scrap paper should be turned in with the exam.   Students may not use smart 
+
+phones.    If available homework should be turned in with the exam. 
+
+Time:  2:45  If staff is available, extra time is permitted. 
+
+
+
+1. Find a proposition with the given truth table.  
+
+p q ? 
+
+T T F 
+
+T F T 
+
+F T T 
+
+F F T 
+
+
+2.   Write the truth table for the proposition    (r   q)   (p → r).  Use as many columns as necessary.         
+
+Label each column. 
+
+
+
+
+
+
+
+
+
+
+
+
+p Ans: p  q  r            
+
+T T T      
+
+T T F      
+
+T F T      
+
+T F F      
+
+F T T      
+
+F T F      
+
+F F T      
+
+F F F      
+
+
+
+
+
+Name: ________________________   
+
+ 
+3.  Find a proposition using only pq and the connective V  with the given truth table.  
+
+p
+ 
+
+q
+ ? 
+
+T T F 
+
+T F F 
+
+F T F 
+
+F F T 
+
+
+
+4. Determine whether  p  (q  r) is equivalent to q   (p   r).    Use as many columns as necessary.   
+
+Label each used column.   Credit will only be when a completed truth table accompanies the answer.  
+
+
+
+
+
+
+
+p Ans: p q r         
+
+T T T         
+
+T T F         
+
+T F T         
+
+T F F         
+
+F T T         
+
+F T F         
+
+F F T         
+
+F F F         
+
+
+
+Name: ________________________   
+
+
+5.  Write a proposition equivalent to  ( p  q)   using only pq and the connective .  .  Support your 
+
+answer with a truth table.   If necessary, insert columns in the truth table below to support your 
+
+answer 
+
+  p    
+q
+
+
+T T     
+
+T F     
+
+F T     
+
+F F     
+
+
+
+
+6.  Prove that q  p  and its contrapositive are logically equivalent.  If they are not equivalent, explain 
+
+why.  Do the same for its inverse. 
+
+  p    
+q
+
+         p    
+q
+
+
+T T     T T     
+
+T F     T F     
+
+F T     F T     
+
+F F     F F     
+
+
+
+
+7.    In the questions below write the statement in the form “If …, then ….” 
+
+a. Whenever the temperature drops below 35 degrees, children should wear boots 
+
+during recess. 
+
+
+          b. You have completed your program’s requirements only if you are eligible to graduate. 
+
+
+
+Name: ________________________   
+
+
+8. Write the contrapositive, converse, and inverse of the following:                                                                           
+
+                                        If I have a valid passport, I will be able to travel to Cuba. 
+
+. 
+
+a.  Contrapositive: 
+
+
+
+b. Converse: 
+
+
+
+c. Inverse: 
+
+
+
+9. How many rows are required to show the truth table for the following compound proposition? 
+
+(q  r  ) → (p    s)  ...scientific investigation hypothesis and problem.pptxscientific investigation hypothesis and problem.pptxKAYJOANNELIWANAGAN steps of scientific method(7) Lesson 9.2(7) Lesson 9.2wzuri (7) Lesson 9.2Random variableRandom variableLeamel Sarita Statistics and Probability grade 11Course Design Best PracticesCourse Design Best PracticesKeitaro Matsuoka 1.	Think “Relevant ==> Simple ==> Intricate.”
+2.	Visualize “mastery blocks.”
+3.	Generate comprehensive examples.
+4.	Assessment.
+5.	End with lead to next topic.DLL_WEEK3_LC39-40.docxDLL_WEEK3_LC39-40.docxnestthecasidsid2 dddLAILA BALINADO COT 2.pptxLAILA BALINADO COT 2.pptxLailaVispoBalinado education(7) Lesson 9.7(7) Lesson 9.7wzuri (7) Lesson 9.7inductive-and-deductive-reasoning-ppt.pptxinductive-and-deductive-reasoning-ppt.pptxDystopianSh types of reasoningProbability distribution of a random variable moduleProbability distribution of a random variable moduleMelody01082019 This is a module 1 for Statistics and Probability for Grade 11COT4  Lesson Plan Grade 8COT4  Lesson Plan Grade 8RoselynOntolan Probabilityjohn-michaels-lp-editedmee.docxjohn-michaels-lp-editedmee.docxJohnMichaelPerez9 practice guideSimilar to Lesson 2.3 Mathematical Reasoning and Logic (20)G8 MATHEMATICS REASONING MATHEMATICS.docxG8 MATHEMATICS REASONING MATHEMATICS.docx Beauty and Applicability of Mathematics.pptxBeauty and Applicability of Mathematics.pptx Inductive and Deductive Reasoning.pptxInductive and Deductive Reasoning.pptx Probability Grade 10 Third Quarter LessonsProbability Grade 10 Third Quarter Lessons Probability - The Basics Workshop 1Probability - The Basics Workshop 1 Deductive and Inductive Reasoning with VizziniDeductive and Inductive Reasoning with Vizzini Ideas for teaching chance, data and interpretation of dataIdeas for teaching chance, data and interpretation of data Recreational mathematics magazine  number 2 september_2014Recreational mathematics magazine  number 2 september_2014 The University of Maine at Augusta            Name ______.docxThe University of Maine at Augusta            Name ______.docx scientific investigation hypothesis and problem.pptxscientific investigation hypothesis and problem.pptx (7) Lesson 9.2(7) Lesson 9.2 Random variableRandom variable Course Design Best PracticesCourse Design Best Practices DLL_WEEK3_LC39-40.docxDLL_WEEK3_LC39-40.docx LAILA BALINADO COT 2.pptxLAILA BALINADO COT 2.pptx (7) Lesson 9.7(7) Lesson 9.7 inductive-and-deductive-reasoning-ppt.pptxinductive-and-deductive-reasoning-ppt.pptx Probability distribution of a random variable moduleProbability distribution of a random variable module COT4  Lesson Plan Grade 8COT4  Lesson Plan Grade 8 john-michaels-lp-editedmee.docxjohn-michaels-lp-editedmee.docx Recently uploadedA Strategic Approach: GenAI in EducationA Strategic Approach: GenAI in EducationPeter Windle Artificial Intelligence (AI) technologies such as Generative AI, Image Generators and Large Language Models have had a dramatic impact on teaching, learning and assessment over the past 18 months. The most immediate threat AI posed was to Academic Integrity with Higher Education Institutes (HEIs) focusing their efforts on combating the use of GenAI in assessment. Guidelines were developed for staff and students, policies put in place too. Innovative educators have forged paths in the use of Generative AI for teaching, learning and assessments leading to pockets of transformation springing up across HEIs, often with little or no top-down guidance, support or direction.
+
+This Gasta posits a strategic approach to integrating AI into HEIs to prepare staff, students and the curriculum for an evolving world and workplace. We will highlight the advantages of working with these technologies beyond the realm of teaching, learning and assessment by considering prompt engineering skills, industry impact, curriculum changes, and the need for staff upskilling. In contrast, not engaging strategically with Generative AI poses risks, including falling behind peers, missed opportunities and failing to ensure our graduates remain employable. The rapid evolution of AI technologies necessitates a proactive and strategic approach if we are to remain relevant.The basics of sentences session 5pptx.pptxThe basics of sentences session 5pptx.pptxheathfieldcps1 PieChapter 4 - Islamic Financial Institutions in Malaysia.pptxChapter 4 - Islamic Financial Institutions in Malaysia.pptxMohd Adib Abd Muin, Senior Lecturer at Universiti Utara Malaysia This slide is special for master students (MIBS & MIFB) in UUM. Also useful for readers who are interested in the topic of contemporary Islamic banking.
+
+Fresher’s Quiz 2023 at GMC Nizamabad.pptxFresher’s Quiz 2023 at GMC Nizamabad.pptxSriSurya50 General quiz conducted for freshers ,2k23 batch at Government Medical College,Nizamabad
+
+Contact:srisuryab199@gmail.com"Protectable subject matters, Protection in biotechnology, Protection of othe..."Protectable subject matters, Protection in biotechnology, Protection of othe...SACHIN R KONDAGURI Protectable subject matters, Protection in biotechnology, Protection of other biological materials, Ownership and period of protectionExecutive Directors Chat  Leveraging AI for Diversity, Equity, and InclusionExecutive Directors Chat  Leveraging AI for Diversity, Equity, and InclusionTechSoup  Let’s explore the intersection of technology and equity in the final session of our DEI series. Discover how AI tools, like ChatGPT, can be used to support and enhance your nonprofit's DEI initiatives. Participants will gain insights into practical AI applications and get tips for leveraging technology to advance their DEI goals.Pride Month Slides 2024 David Douglas School DistrictPride Month Slides 2024 David Douglas School DistrictDavid Douglas School District  Pride Month Slides DDSDYour Skill Boost Masterclass: Strategies for Effective UpskillingYour Skill Boost Masterclass: Strategies for Effective UpskillingExcellence Foundation for South Sudan Strategies for Effective Upskilling is a presentation by Chinwendu Peace in a Your Skill Boost Masterclass organisation by the Excellence Foundation for South Sudan on 08th and 09th June 2024 from 1 PM to 3 PM on each day.clinical examination of hip joint (1).pdfclinical examination of hip joint (1).pdfPriyankaranawat4 described clinical examination all orthopeadic conditions . CACJapan - GROUP Presentation 1- Wk 4.pdfCACJapan - GROUP Presentation 1- Wk 4.pdfcamakaiclarkmusic Macroeconomics- Movie Location
+This will be used as part of your Personal Professional Portfolio once graded.
+Objective:
+Prepare a presentation or a paper using research, basic comparative analysis, data organization and application of economic information. You will make an informed assessment of an economic climate outside of the United States to accomplish an entertainment industry objective.Digital Artifact 1 - 10VCD Environments UnitDigital Artifact 1 - 10VCD Environments Unitchanes7 Digital Artifact 1 - 10VCD Environments Unit - NGV Pavilion Concept DesignExploiting Artificial Intelligence for Empowering Researchers and Faculty, In...Exploiting Artificial Intelligence for Empowering Researchers and Faculty, In...Dr. Vinod Kumar Kanvaria Exploiting Artificial Intelligence for Empowering Researchers and Faculty,
+International FDP on Fundamentals of Research in Social Sciences
+at Integral University, Lucknow, 06.06.2024
+By Dr. Vinod Kumar KanvariaMASS MEDIA STUDIES-835-CLASS XI Resource Material.pdfMASS MEDIA STUDIES-835-CLASS XI Resource Material.pdfgoswamiyash170123 mass media studies
+CBSE
+Full Book
+for class 11th
+PIMS Job Advertisement 2024.pdf IslamabadPIMS Job Advertisement 2024.pdf IslamabadAyyanKhan40 advasitment of Punjab Assignment_4_ArianaBusciglio Marvel(1).docxAssignment_4_ArianaBusciglio Marvel(1).docxArianaBusciglio Market Analysis Marvel entertainment.June 3, 2024 Anti-Semitism Letter Sent to MIT President Kornbluth and MIT Cor...June 3, 2024 Anti-Semitism Letter Sent to MIT President Kornbluth and MIT Cor...Levi Shapiro Letter from the Congress of the United States regarding Anti-Semitism sent June 3rd to MIT President Sally Kornbluth, MIT Corp Chair, Mark Gorenberg
+
+Dear Dr. Kornbluth and Mr. Gorenberg,
+The US House of Representatives is deeply concerned by ongoing and pervasive acts of antisemitic 
+harassment and intimidation at the Massachusetts Institute of Technology (MIT). Failing to act decisively to ensure a safe learning environment for all students would be a grave dereliction of your responsibilities as President of MIT and Chair of the MIT Corporation. 
+This Congress will not stand idly by and allow an environment hostile to Jewish students to persist. The House believes that your institution is in violation of Title VI of the Civil Rights Act, and the inability or 
+unwillingness to rectify this violation through action requires accountability.
+Postsecondary education is a unique opportunity for students to learn and have their ideas and beliefs challenged. However, universities receiving hundreds of millions of federal funds annually have denied 
+students that opportunity and have been hijacked to become venues for the promotion of terrorism, antisemitic harassment and intimidation, unlawful encampments, and in some cases, assaults and riots. 
+The House of Representatives will not countenance the use of federal funds to indoctrinate students into hateful, antisemitic, anti-American supporters of terrorism. Investigations into campus antisemitism by the Committee on Education and the Workforce and the Committee on Ways and Means have been expanded into a Congress-wide probe across all relevant jurisdictions to address this national crisis. The undersigned Committees will conduct oversight into the use of federal funds at MIT and its learning environment under authorities granted to each Committee.
+• The Committee on Education and the Workforce has been investigating your institution since December 7, 2023. The Committee has broad jurisdiction over postsecondary education, including its compliance with Title VI of the Civil Rights Act, campus safety concerns over disruptions to the learning environment, and the awarding of federal student aid under the Higher Education Act.
+• The Committee on Oversight and Accountability is investigating the sources of funding and other support flowing to groups espousing pro-Hamas propaganda and engaged in antisemitic harassment and intimidation of students. The Committee on Oversight and Accountability is the principal oversight committee of the US House of Representatives and has broad authority to investigate “any matter” at “any time” under House Rule X.
+• The Committee on Ways and Means has been investigating several universities since November 15, 2023, when the Committee held a hearing entitled From Ivory Towers to Dark Corners: Investigating the Nexus Between Antisemitism, Tax-Exempt Universities, and Terror Financing. The Committee followed the hearing with letters to those institutions on January 10, 202বাংলাদেশ অর্থনৈতিক সমীক্ষা (Economic Review) ২০২৪ UJS App.pdfবাংলাদেশ অর্থনৈতিক সমীক্ষা (Economic Review) ২০২৪ UJS App.pdfeBook.com.bd (প্রয়োজনীয় বাংলা বই) বাংলাদেশের অর্থনৈতিক সমীক্ষা ২০২৪ [Bangladesh Economic Review 2024 Bangla.pdf] কম্পিউটার , ট্যাব ও স্মার্ট ফোন ভার্সন সহ সম্পূর্ণ বাংলা ই-বুক বা pdf বই " সুচিপত্র ...বুকমার্ক মেনু 🔖 ও হাইপার লিংক মেনু 📝👆 যুক্ত ..
+ আমাদের সবার জন্য খুব খুব গুরুত্বপূর্ণ একটি বই ..বিসিএস, ব্যাংক, ইউনিভার্সিটি ভর্তি ও যে কোন প্রতিযোগিতা মূলক পরীক্ষার জন্য এর খুব ইম্পরট্যান্ট একটি বিষয় ...তাছাড়া বাংলাদেশের সাম্প্রতিক যে কোন ডাটা বা তথ্য এই বইতে পাবেন ...
+তাই একজন নাগরিক হিসাবে এই তথ্য গুলো আপনার জানা প্রয়োজন ...। 
+বিসিএস ও ব্যাংক এর লিখিত পরীক্ষা ...+এছাড়া মাধ্যমিক ও উচ্চমাধ্যমিকের স্টুডেন্টদের জন্য অনেক কাজে আসবে ...Pollock and Snow "DEIA in the Scholarly Landscape, Session One: Setting Expec...Pollock and Snow "DEIA in the Scholarly Landscape, Session One: Setting Expec...National Information Standards Organization (NISO) This presentation was provided by Steph Pollock of The American Psychological Association’s Journals Program, and Damita Snow, of The American Society of Civil Engineers (ASCE), for the initial session of NISO's 2024 Training Series "DEIA in the Scholarly Landscape." Session One: 'Setting Expectations: a DEIA Primer,' was held June 6, 2024.Lapbook sobre os Regimes Totalitários.pdfLapbook sobre os Regimes Totalitários.pdfJean Carlos Nunes Paixão Lapbook sobre o Totalitarismo.MATATAG CURRICULUM: ASSESSING THE READINESS OF ELEM. PUBLIC SCHOOL TEACHERS I...MATATAG CURRICULUM: ASSESSING THE READINESS OF ELEM. PUBLIC SCHOOL TEACHERS I...NelTorrente In this research, it concludes that while the readiness of teachers in Caloocan City to implement the MATATAG Curriculum is generally positive, targeted efforts in professional development, resource distribution, support networks, and comprehensive preparation can address the existing gaps and ensure successful curriculum implementation.Recently uploaded (20)A Strategic Approach: GenAI in EducationA Strategic Approach: GenAI in Education The basics of sentences session 5pptx.pptxThe basics of sentences session 5pptx.pptx Chapter 4 - Islamic Financial Institutions in Malaysia.pptxChapter 4 - Islamic Financial Institutions in Malaysia.pptx Fresher’s Quiz 2023 at GMC Nizamabad.pptxFresher’s Quiz 2023 at GMC Nizamabad.pptx "Protectable subject matters, Protection in biotechnology, Protection of othe..."Protectable subject matters, Protection in biotechnology, Protection of othe... Executive Directors Chat  Leveraging AI for Diversity, Equity, and InclusionExecutive Directors Chat  Leveraging AI for Diversity, Equity, and Inclusion Pride Month Slides 2024 David Douglas School DistrictPride Month Slides 2024 David Douglas School District Your Skill Boost Masterclass: Strategies for Effective UpskillingYour Skill Boost Masterclass: Strategies for Effective Upskilling clinical examination of hip joint (1).pdfclinical examination of hip joint (1).pdf CACJapan - GROUP Presentation 1- Wk 4.pdfCACJapan - GROUP Presentation 1- Wk 4.pdf Digital Artifact 1 - 10VCD Environments UnitDigital Artifact 1 - 10VCD Environments Unit Exploiting Artificial Intelligence for Empowering Researchers and Faculty, In...Exploiting Artificial Intelligence for Empowering Researchers and Faculty, In... MASS MEDIA STUDIES-835-CLASS XI Resource Material.pdfMASS MEDIA STUDIES-835-CLASS XI Resource Material.pdf PIMS Job Advertisement 2024.pdf IslamabadPIMS Job Advertisement 2024.pdf Islamabad Assignment_4_ArianaBusciglio Marvel(1).docxAssignment_4_ArianaBusciglio Marvel(1).docx June 3, 2024 Anti-Semitism Letter Sent to MIT President Kornbluth and MIT Cor...June 3, 2024 Anti-Semitism Letter Sent to MIT President Kornbluth and MIT Cor... বাংলাদেশ অর্থনৈতিক সমীক্ষা (Economic Review) ২০২৪ UJS App.pdfবাংলাদেশ অর্থনৈতিক সমীক্ষা (Economic Review) ২০২৪ UJS App.pdf Pollock and Snow "DEIA in the Scholarly Landscape, Session One: Setting Expec...Pollock and Snow "DEIA in the Scholarly Landscape, Session One: Setting Expec... Lapbook sobre os Regimes Totalitários.pdfLapbook sobre os Regimes Totalitários.pdf MATATAG CURRICULUM: ASSESSING THE READINESS OF ELEM. PUBLIC SCHOOL TEACHERS I...MATATAG CURRICULUM: ASSESSING THE READINESS OF ELEM. PUBLIC SCHOOL TEACHERS I... Lesson 2.3 Mathematical Reasoning and Logic1. 2. Learning Outcomes:
+At the  end of this lesson, the students will be able to:
+1. Analyze problems using different types of reasoning.
+2. Apply different types of reasoning to justify
+statements and arguments made about mathematics
+and mathematical concepts.
+ 3. 4. INDUCTIVE REASONING
+It is  the process of reaching a
+general conclusion by
+examining specific examples.
+ 5. INDUCTIVE REASONING
+The conclusion  formed by using
+inductive reasoning is often
+called a conjecture, since it may
+or may not be correct.
+ 6. Example 1:
+Use inductive  reasoning to predict the next number in
+each item.
+1. 2,8,14,20,26, _____
+2. 1,2,5,10,17,26, _____
+ 7. Example 2:
+A. Every  sports car I have ever seen is red. Thus, all
+sports cars are red.
+B. The coin I pulled from the bag is a 5-peso coin.
+Another 5-peso coin is drawn from the bag. A third
+coin from the bag is again a 5-peso coin. Therefore,
+all the coins in the bag are 5-peso coins.
+ 8. Example 3:
+Consider the  following. Pick a number. Multiply the
+number by 4, add 8 to the product, divide the sum by 2,
+and subtract 5. Complete the above procedure for
+several different numbers. Use inductive reasoning to
+make a conjecture about the relationship between the
+size of the resulting number and the size of the original
+number.
+ 9. Solution:
+Suppose we start  with seven as the original number. Then
+repeat the process for different numbers. The procedure yields
+the following:
+We conjecture that the given procedure produces a number
+that is one less than twice the original number.
+ 10. Remarks:
+When we use  inductive reasoning, we have no
+guarantee that our conclusion is correct. Just because
+a pattern is true for a few cases, it does not mean the
+pattern will continue. A statement is a true statement
+provided that it is valid in all cases. If we can find one
+case for which a statement is not valid, called a
+counterexample, then it is a false statement.
+ 11. DEDUCTIVE REASONING
+It is  the process of reaching a
+conclusion by applying
+general assumptions, procedures,
+or principles.
+ 12. DEDUCTIVE REASONING
+Deduction starts  out with a general
+statement, or hypothesis, and
+examines the possibilities to reach a
+specific, logical conclusion.
+ 13. Example 1:
+1. All  men are mortal. Kahwi is a man. Therefore,
+Kahwi is mortal.
+2. Corresponding parts of congruent triangles are
+congruent. Triangle ABC is congruent to triangle
+DEF. Angle B and angle E are corresponding angles.
+Thus, angle B is congruent to angle E.
+ 14. GENERALITIES
+SPECIFIC
+CASES
+DEDUCTIVE INDUCTIVE
+  15. Determine if each  of the following statement
+uses inductive or deductive reasoning.
+1. Teacher Erica is an enthusiastic and passionate teacher.
+Therefore, all teachers are enthusiastic and passionate.
+2. All dogs are animals. Dhai is a dog. Thus, Dhai is an
+animal.
+3. I got low score on the first long exam. I just recently took
+the second long exam and I got low score. Therefore, I will
+also get a low score on the third long exam.
+IR
+DR
+IR
+ 16. Determine if each  of the following statement
+uses inductive or deductive reasoning.
+4. My classmates are disrespectful toward our instructor.
+Hence, all students are disrespectful.
+5. Last Wednesday it was raining. Today is Wednesday and it
+is raining. Therefore, on the next Wednesday, it will also rain.
+6. For any right triangle, the Pythagorean Theorem holds.
+ABC is a right triangle, therefore for ABC the Pythagorean
+Theorem holds.
+7. All basketball players in your school are tall, so all
+basketball players must be tall.
+IR
+IR
+DR
+IR
+ 17. A logic puzzle  is a puzzle deriving from the
+mathematics field of deduction.
+Logic puzzles can be solved by using deductive
+reasoning and by organizing the data in a
+given situation.
+ 18. A logic puzzle  is basically a description of an
+event or any situation. Using the clues
+provided, one has to piece together what
+actually happened. This involves clear and
+logical thinking, hence the term “logic” puzzles.
+ 19. Example 1
+Three musicians  appeared at a concert. Their last names were Benton, Lanier, and
+Rosario. Each plays only one of the following instruments: guitar, piano, or saxophone.
+1. Benton and the guitar player arrived at the concert together.
+2. The saxophone player performed before Benton.
+3. Rosario wished the guitar player good luck.
+Who played each instrument?
+Guitar Piano Saxophone
+Benton
+Lanier
+Rosario
+ 20. Example 2
+You have  a basket containing ten apples. You have 10 friends,
+who each desire an apple. You give each of your friends, one
+apple. Now all your friends have one apple each, yet there is an
+apple remaining in the basket. How?
+Solution:
+✎You give an apple to your first nine friends, and a basket with an apple
+to your tenth friend. Each friend has an apple, and one of them has it
+in a basket.
+✎ Alternative answer: one friend already had an apple and put it in the
+basket.
+ 21. Example 3
+A census-taker  knocks on a door, and asks the woman inside
+how many children she has and how old they are. “I have three
+daughters, their ages are whole numbers, and the product of
+their ages is 36,” says the mother. “That’s not enough
+information”, responds the census-taker. “I’d tell you the sum of
+their ages, but you’d still be stumped.” “I wish you’d tell me
+something more.” “Okay, my oldest daughter Annie likes dogs.”
+What are the ages of the three daughters (Zeitz, 2007)?
+ 22. Solution:
+After the first  reading, it seems impossible- there isn’t enough information to
+determine the ages. The product of the ages is 36, so there are only a few possible
+triples of ages. Here is a table of all the possibilities
+Age 1, 1,36 1, 2,18 1, 3, 12 1, 4, 9 1, 6, 6 2, 2, 9 2, 3, 6 3, 3, 4
+Sum 38 21 16 14 13 13 11 10
+Now we see what is going on. The mother’s second statement (“I’d tell you the
+sum of their ages, but you’d still be stumped.) gives valuable information. It tells
+that the ages are either 1,6,6 or 2,2,9, for in all other cases, knowledge of the sum
+would tell unambiguously what the ages are. The final clue now makes sense, it
+tells that there is an oldest daughter, eliminating 1, 6,6. The daughters are thus 2,
+2, and 9 years old.
+ Editor's NotesReasoning is a process based on experience and principles that allow one to arrive at a conclusion.Reasoning is a process based on experience and principles that allow one to arrive at a conclusion.We make generalizations from the part to the whole. If we are not careful, it can lead to erroneous or mistake conclusions:Conjecture- estimation or guessEach successive number is 6 larger than the preceding number.It is not enough that the deduction is logically sound; the assumption (1) must also be true. Consider the following: "1) All cats are red. 2) Kitty is a cat, therefore Kitty is red." It is logically valid but leads to a non-valid conclusion because not 'all cats are red'.In mathematics, deductive reasoning makes use of definitions, axioms, theorems and rules and inference.Download nowAboutSupportTermsPrivacyCopyrightCookie PreferencesDo not sell or share my personal informationEverandEnglishCurrent LanguageEnglishEspañolPortuguesFrançaisDeutsche© 2024 SlideShare from Scribd 

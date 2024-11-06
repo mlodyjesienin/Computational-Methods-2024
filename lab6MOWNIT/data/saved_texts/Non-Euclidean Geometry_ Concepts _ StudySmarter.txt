@@ -1,0 +1,1454 @@
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non-Euclidean Geometry: Concepts | StudySmarter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Find Study Materials                                                                     
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                            Explanations                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Exams                                                                                                                                                                    
+
+
+
+
+                                                                                                                                                                            Magazine                                                                                                                                                                    
+
+
+
+
+
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Engineering
+
+
+English
+
+
+English Literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+Exams
+
+
+Read our Magazine
+
+
+
+
+
+
+
+
+
+
+                                Create Study Materials                                                                    
+
+
+
+
+
+Create Study Materials
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+Open in App
+
+
+
+Log In
+Start studying!
+
+
+
+
+Open in App
+Log out
+
+
+
+
+
+
+
+Find Study Materials for
+
+
+
+																																			Explanations																	                                                                
+
+
+
+
+																																			Exams																	                                                                
+
+
+
+
+																																			Magazine																	                                                                
+
+
+
+
+
+
+Main menu
+
+
+
+Biology
+
+
+Business Studies
+
+
+Chemistry
+
+
+Combined Science
+
+
+Engineering
+
+
+English
+
+
+English Literature
+
+
+Environmental Science
+
+
+Geography
+
+
+History
+
+
+Human Geography
+
+
+Law
+
+
+Macroeconomics
+
+
+Marketing
+
+
+Math
+
+
+Microeconomics
+
+
+Nursing
+
+
+Physics
+
+
+Politics
+
+
+Psychology
+
+
+Social Studies
+
+Browse all subjects
+
+
+Exams
+
+
+Read our Magazine
+
+
+Create Study Materials
+
+
+
+
+Flashcards
+Create and find the best flashcards.
+
+
+
+
+
+
+Notes
+Create notes faster than ever before.
+
+
+
+
+
+
+Study Sets
+Everything you need for your studies in one place.
+
+
+
+
+
+
+Study Plans
+Stop procrastinating with our smart planner features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math
+
+
+
+
+
+Geometry
+
+
+
+
+Non-Euclidean geometry
+
+
+
+
+Non-Euclidean geometry
+Non-Euclidean geometry, a revolutionary branch of mathematics, diverges fundamentally from the traditional Euclidean geometry by challenging the parallel postulate. It encompasses two main types: hyperbolic and elliptical geometries, each presenting a unique perspective on space and structure. By understanding these differences, students can unlock a deeper appreciation for the complexities and beauty inherent in mathematical frameworks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Create learning materials about Non-Euclidean geometry with our free learning app!							
+
+
+
+
+
+									Instand access to millions of learning materials								
+
+
+
+
+									Flashcards, notes, mock-exams and more								
+
+
+
+
+									Everything you need to ace your exams								
+
+
+								Create a free account							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applied Mathematics
+
+
+Calculus
+
+
+Decision Maths
+
+
+Discrete Mathematics
+
+
+Geometry
+
+
+
+
+
+
+
+
+
+2 Dimensional Figures
+
+
+3 Dimensional Vectors
+
+
+3-Dimensional Figures
+
+
+Affine geometry
+
+
+Altitude
+
+
+Analytic geometry
+
+
+Angles in Circles
+
+
+Arc Measures
+
+
+Area and Volume
+
+
+Area of Circles
+
+
+Area of Circular Sector
+
+
+Area of Parallelograms
+
+
+Area of Plane Figures
+
+
+Area of Rectangles
+
+
+Area of Regular Polygons
+
+
+Area of Rhombus
+
+
+Area of Trapezoid
+
+
+Area of a Kite
+
+
+Birational geometry
+
+
+Complex geometry
+
+
+Composition
+
+
+Computational geometry
+
+
+Conformal geometry
+
+
+Congruence Transformations
+
+
+Congruent Triangles
+
+
+Convex geometry
+
+
+Convexity in Polygons
+
+
+Coordinate Systems
+
+
+Differential geometry
+
+
+Differential topology
+
+
+Dilations
+
+
+Discrete geometry
+
+
+Distance and Midpoints
+
+
+Equation Of Circles
+
+
+Equilateral Triangles
+
+
+Ergodic theory
+
+
+Euclidean geometry
+
+
+Figures
+
+
+Finsler geometry
+
+
+Fractal geometry
+
+
+Fundamentals of Geometry
+
+
+Galois geometry
+
+
+Geodesy
+
+
+Geometric Inequalities
+
+
+Geometric Mean
+
+
+Geometric Probability
+
+
+Geometric analysis
+
+
+Geometric function theory
+
+
+Geometric topology
+
+
+Glide Reflections
+
+
+HL ASA and AAS
+
+
+Harmonic analysis
+
+
+Hodge theory
+
+
+Hyperbolic geometry
+
+
+Identity Map
+
+
+Inscribed Angles
+
+
+Integral geometry
+
+
+Inversive geometry
+
+
+Isometry
+
+
+Isosceles Triangles
+
+
+Kähler manifolds
+
+
+Law of Cosines
+
+
+Law of Sines
+
+
+Linear Measure and Precision
+
+
+Manifolds
+
+
+Mathematical Physics
+
+
+Median
+
+
+Metric geometry
+
+
+Minimal surfaces
+
+
+Mirror symmetry
+
+
+Moduli spaces
+
+
+Morse theory
+
+
+Möbius transformations
+
+
+Non-Euclidean geometry
+
+
+Parallel Lines Theorem
+
+
+Parallelograms
+
+
+Perpendicular Bisector
+
+
+Plane Geometry
+
+
+Poisson geometry
+
+
+Polygons
+
+
+Projections
+
+
+Projective geometry
+
+
+Properties of Chords
+
+
+Proportionality Theorems
+
+
+Pythagoras Theorem
+
+
+Quantum geometry
+
+
+Quaternionic analysis
+
+
+Rectangle
+
+
+Reflection in Geometry
+
+
+Regular Polygon
+
+
+Rhombuses
+
+
+Ricci flow
+
+
+Right Triangles
+
+
+Rotations
+
+
+SSS and SAS
+
+
+Sasaki geometry
+
+
+Segment Length
+
+
+Similarity
+
+
+Similarity Transformations
+
+
+Simplicial complexes
+
+
+Special quadrilaterals
+
+
+Spherical geometry
+
+
+Squares
+
+
+Sub-Riemannian geometry
+
+
+Surface Area of Cone
+
+
+Surface Area of Cylinder
+
+
+Surface Area of Prism
+
+
+Surface Area of Sphere
+
+
+Surface Area of a Solid
+
+
+Surface of Pyramids
+
+
+Symmetry
+
+
+Symplectic geometry
+
+
+Toric geometry
+
+
+Transformation groups
+
+
+Translations
+
+
+Trapezoids
+
+
+Triangle Inequalities
+
+
+Triangles
+
+
+Twistor theory
+
+
+Using Similar Polygons
+
+
+Vector Addition
+
+
+Vector Product
+
+
+Vector bundles
+
+
+Volume of Cone
+
+
+Volume of Cylinder
+
+
+Volume of Pyramid
+
+
+Volume of Solid
+
+
+Volume of Sphere
+
+
+Volume of prisms
+
+
+Vortex dynamics
+
+
+Weyl geometry
+
+
+What is Point Slope Form
+
+
+
+
+Logic and Functions
+
+
+Mechanics Maths
+
+
+Probability and Statistics
+
+
+Pure Maths
+
+
+Statistics
+
+
+Theoretical and Mathematical Physics
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Table of contents                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Non-Euclidean Geometry?Non-Euclidean geometry represents a break from centuries-old traditions. Contrary to what you might expect, this area of mathematics does not simply expand upon Euclidean principles but offers a completely new way of understanding space and shapes. Dive into the world of Non-Euclidean geometry, and you'll find yourself exploring curves and spaces that behave in ways you never thought possible.Non-Euclidean Geometry Meaning and BasicsInitially, geometry was synonymous with the rules outlined by the Greek mathematician Euclid. His postulates formed the backbone of geometric understanding for over two millennia. However, the advent of Non-Euclidean geometry challenged these foundational beliefs by introducing concepts and spaces that do not adhere to Euclidean postulates, especially the fifth postulate concerning parallel lines.Understanding Non-Euclidean geometry requires embracing spaces where the shortest distance between two points isn't necessarily a straight line, and where angles in a triangle might not add up to 180 degrees. The key lies in how this form of geometry relaxes Euclid's parallel postulate, leading to the development of two primary types of Non-Euclidean geometry: hyperbolic and elliptical (or spherical) geometry. Hyperbolic Geometry: A type of Non-Euclidean geometry where the parallel postulate is replaced with the notion that through any point not on a given line, there are an infinite number of lines that do not intersect the given line.Elliptical Geometry: Another type of Non-Euclidean geometry which asserts that no parallels exist; every line will eventually intersect another if extended far enough, as seen on the surface of a sphere. Type of GeometryCharacteristicsEuclideanParallel lines remain equidistant and never intersect; sum of triangle angles equals 180 degrees.HyperbolicMultiple parallels to a given line through a point; triangle angles sum less than 180 degrees.EllipticalNo parallel lines; triangle angles sum more than 180 degrees. From Euclidean to Non-Euclidean: The Shift in PerspectiveThe transition from Euclidean to Non-Euclidean geometry didn't happen overnight. It was a revolutionary shift in perspective that took centuries to unfold. The acknowledgement that Euclidean geometry was not the sole framework for understanding space led to significant advancements in mathematics and physics, influencing how we perceive the universe.This shift began in earnest with figures like Gauss, Lobachevsky, and Riemann, who courageously questioned Euclid's fifth postulate. Their work laid the foundation for modern geometry and profoundly impacted other fields, such as relativity theory in physics.Understanding the implications of these new geometries offers a fascinating perspective on the flexibility of space and the nature of the universe. It highlights how our perception of reality is deeply influenced by the mathematical models we employ.Postulates that seemed untouchable for centuries were eventually questioned, exemplifying the importance of challenging established beliefs in science.The theory of relativity, developed by Albert Einstein, is a prime example of Non-Euclidean geometry's impact beyond mathematics. Space and time, according to relativity, curve in the presence of mass and energy, a concept fundamentally rooted in Non-Euclidean geometric principles. This revolutionary idea dramatically altered our understanding of gravity, space, and time, demonstrating the profound connection between abstract mathematical concepts and the physical universe.Applications of Non-Euclidean GeometryNon-Euclidean geometry finds its place not just within the abstract realms of mathematics but also has important applications in modern science and technology. Through its distinctive approach to understanding space, it provides essential insights and tools that are crucial for various scientific fields. Let's explore how this intriguing branch of geometry shapes the world around us.Practical Uses in Modern Science and TechnologyNon-Euclidean geometry plays a pivotal role in several areas of science and technology. One of the field's most groundbreaking applications is in General Relativity, where the geometry of curved space-time is a fundamental aspect. Additionally, it is heavily employed in navigation systems, particularly in calculating the shortest routes on a curved Earth surface using Global Positioning Systems (GPS). Furthermore, the field of computer graphics benefits from Non-Euclidean geometry in simulating realistic three-dimensional spaces. General Relativity: Uses hyperbolic geometry to explain how massive objects distort space-time.GPS Technology: Employs spherical geometry principles to compute locations and distances on Earth's surface.Computer Graphics: Utilises complex geometric models to render three-dimensional environments accurately. Many of today's technological advances wouldn't be possible without understanding and utilising the principles of Non-Euclidean geometry.How Non-Euclidean Geometry Shapes Our UniverseThe influence of Non-Euclidean geometry extends beyond practical applications into our fundamental understanding of the universe. In astrophysics and cosmology, theories about the shape and expansion of the universe heavily rely on Non-Euclidean concepts. It provides a framework for understanding the curvatures of space itself, which is pivotal in theories that describe the universe's origins, evolution, and large-scale structure.By employing models based on Non-Euclidean geometry, scientists can better predict cosmic phenomena and understand the fabric of space-time. This is critical in studying black holes, gravitational waves, and the cosmic microwave background radiation.One of the most intriguing aspects of employing Non-Euclidean geometry in cosmology is its implication on the shape of the universe. According to current models, the universe could be open, closed, or flat, each geometry leading to different conclusions about the fate of the universe. Understanding these spatial properties requires a deep grasp of Non-Euclidean principles, showcasing how abstract mathematical concepts have a profound effect in deciphering the cosmos.Non-Euclidean Geometry ExamplesExploring Non-Euclidean geometry uncovers a fascinating world beyond the familiar flat surfaces encountered in Euclidean geometry. This branch of mathematics reveals how space can be understood in radically different ways, challenging our intuitions and enriching our perspective on the structure of the universe.Understanding Through Visual ExamplesNon-Euclidean geometry, with its elliptical and hyperbolic structures, can be challenging to grasp without visual aids. Fortunately, the beauty of mathematics lies in its ability to illustrate complex ideas through simple, yet powerful representations. Below, find visual examples aimed at providing a clearer understanding of this fascinating geometry. Hyperbolic Plane: Imagine a surface that resembles a saddle. This is a visual representation of a hyperbolic plane, where parallel lines diverge, and the angles in a triangle sum to less than 180 degrees.Spherical Geometry: Picture the Earth's surface. Here, the shortest distance between two points is an arc rather than a straight line. This embodies spherical geometry, where parallel lines do not exist and triangle angles sum to more than 180 degrees. Escher's artwork, especially 'Circle Limit' series, provides stunning illustrations of hyperbolic geometry, capturing its endless, yet bounded nature.Real World Examples of Non-Euclidean GeometryWhile the concept of Non-Euclidean geometry might seem abstract, its applications pervade the real world, influencing technology, science, and even our understanding of the universe's very fabric. GPS Technology: Utilises the principles of spherical geometry to accurately calculate positions on the Earth's surface.General Relativity: Einstein's theory integrates Non-Euclidean geometry to describe the curvature of space-time around massive objects.Architecture: Innovative architectural designs often incorporate hyperbolic and spherical geometries to create visually stunning and structurally sound buildings.  GPS Technology: A system that determines the precise position of something on Earth through satellites, ground stations, and receivers, using principles of spherical geometry.General Relativity: A theory of gravitation developed by Albert Einstein, which describes gravity as a property of the curvature of space and time.The study of the universe's curvature is an intriguing application of Non-Euclidean geometry. Cosmologists use principles of hyperbolic and spherical geometries to understand the universe's shape, its expansion rate, and the distribution of galaxies. This dialogue between abstract mathematical theories and observational cosmology underlines the profound connection between geometry and the cosmos, revealing the universe's fabric to be dynamically curved rather than statically flat.Diving Deeper: Riemannian Geometry IntroductionRiemannian Geometry serves as a profound exploration into spaces and surfaces that aren't flat, providing a broader understanding of Non-Euclidean geometry. This area of study takes you beyond the familiar confines of flat spaces, diving into the intricate world of curved and complex structures.Non-Euclidean Geometry and Parallel Lines: A New ApproachTraditional Euclidean geometry posits that through a given point not on a line, there is exactly one line parallel to the given line. However, Non-Euclidean geometry challenges this view, leading to intriguing possibilities. Specifically, in certain spaces, the conventional rules about parallel lines do not apply, showcasing a radically different geometric landscape.In hyperbolic geometry, for instance, through a given point not on a line, there are infinitely many lines that never intersect the given line, contradicting Euclid's parallel postulate. Meanwhile, elliptical geometry posits that no parallel lines exist; all lines eventually meet. These concepts form the backbone of Riemannian Geometry, expanding our understanding of space itself. Riemannian Geometry: A branch of mathematics concerning the study of curved spaces, where the ideas of angle, length, and curvature are defined in a way that extends Euclidean and Non-Euclidean geometries. In Hyperbolic Geometry, the sum of angles in a triangle is always less than 180 degrees, highlighted by the formula \[\sum\theta < 180^\circ\].In Elliptical Geometry, any two lines will eventually intersect, negating the concept of parallel lines found in Euclidean geometry. Riemannian Geometry can be visualised through the shapes of spheres, doughnuts, and even saddle surfaces, each representing different curvature properties.The Role of Riemannian Geometry in Non-Euclidean TheoryRiemannian Geometry is integral to the development of Non-Euclidean geometry, providing the mathematical framework to explore and understand spaces of constant and variable curvature. Its significance lies in its ability to describe the geometric properties of spaces that are not necessarily flat, offering a powerful tool for understanding the shape and structure of the universe.Georg Friedrich Bernhard Riemann, the founder of Riemannian Geometry, introduced the concept of a 'manifold'—a multidimensional space that might curve differently at every point. This advancement laid the groundwork for Einstein's theory of General Relativity, where the gravity is interpreted as the curvature of the space-time fabric.Riemann's introduction of the Riemann curvature tensor, \[R_{ijkl}\], provides a precise measure of the curvature of a space at a point, representing a fundamental object in Riemannian Geometry. It encapsulates how much the geometry deviates from being flat, encompassing both the shape of the space and how it bends. This complex but fascinating concept showcases the depth of Riemannian Geometry's role in understanding the underlying structure of our universe and the spaces we encounter.
+Non-Euclidean geometry - Key takeaways
+
+Non-Euclidean Geometry: A branch of mathematics that challenges Euclidean principles, exploring spaces where traditional rules about shapes and lines, such as the parallel postulate, do not apply.
+Hyperbolic Geometry: A type of Non-Euclidean geometry that allows infinite parallel lines through a point off a given line, leading to triangles with angles summing to less than 180 degrees.
+Elliptical (Spherical) Geometry: Another form of Non-Euclidean geometry where no parallel lines exist, as all lines eventually intersect, influencing the angle sum of a triangle to be more than 180 degrees.
+Riemannian Geometry Introduction: An extension of Non-Euclidean geometry dealing with curved spaces, providing definitions for angles, lengths, and curvature that extend traditional geometric concepts.
+Applications of Non-Euclidean Geometry: Foundational in modern science and technology fields such as General Relativity, GPS technology, and computer graphics, influencing our understanding of space-time and the universe's structure.
+
+
+
+
+
+
+
+
+
+
+
+Learn with 0 Non-Euclidean geometry flashcards in the free StudySmarter app
+We have 14,000 flashcards about Dynamic Landscapes.
+
+
+
+
+
+
+
+
+				Sign up with Email			
+Already have an account?				Log in
+
+
+
+
+
+Frequently Asked Questions about Non-Euclidean geometry		
+
+What is the difference between Euclidean and non-Euclidean geometry?
+Euclidean geometry, based on Euclid's postulates, describes flat surfaces where parallel lines never meet, and angles in a triangle sum to 180 degrees. Non-Euclidean geometry explores curved surfaces, allowing parallel lines to converge or diverge, and triangle angles to sum differently, challenging traditional geometric concepts.
+What are the primary types of non-Euclidean geometry?
+The primary types of non-Euclidean geometry are hyperbolic geometry and elliptic geometry. Hyperbolic geometry operates under the premise that the parallel postulate doesn't hold, leading to multiple parallel lines through a point not on a line. Elliptic geometry, conversely, denies the existence of any parallel lines.
+How does non-Euclidean geometry relate to the theory of relativity?
+Non-Euclidean geometry is fundamental to the theory of relativity, as it describes the curved spacetime around massive objects. This curvature, predicted by Einstein's equations, deviates from the flat geometry of Euclidean space, enabling the accurate description of the behaviour of time, light, and gravity in the universe.
+How did the discovery of non-Euclidean geometry impact the study of mathematics?
+The discovery of non-Euclidean geometry profoundly impacted mathematics by challenging the universality of Euclidean postulates, thereby expanding the scope of geometric study. It paved the way for the exploration of curved spaces, profoundly influencing the development of modern physics, specifically in the theory of relativity.
+Can you provide examples of how non-Euclidean geometry is applied in real-world contexts?
+Non-Euclidean geometry is applied in GPS technology to accurately compute locations on Earth, in general relativity to describe the shape of space around massive objects, and in computer graphics for realistic rendering of scenes involving reflections and curved surfaces. It's also used in architecture for designing complex structures.
+
+
+
+
+		Discover learning materials with the free StudySmarter app	
+
+
+
+
+
+
+
+
+
+Sign up for free
+
+
+
+
+
+
+
+				About StudySmarter			
+
+
+			StudySmarter is a globally recognized educational technology company, offering a holistic learning platform designed for students of all ages and educational levels. Our platform provides learning support for a wide range of subjects, including STEM, Social Sciences, and Languages and also helps students to successfully master various tests and exams worldwide, such as GCSE, A Level, SAT, ACT, Abitur, and more. We offer an extensive library of learning materials, including interactive flashcards, comprehensive textbook solutions, and detailed explanations. The cutting-edge technology and tools we provide help students create their own learning materials. StudySmarter’s content is not only expert-verified but also regularly updated to ensure accuracy and relevance.		
+
+			Learn more		
+
+
+
+
+
+
+
+
+
+
+
+
+						StudySmarter Editorial Team					
+
+						Team Non-Euclidean geometry Teachers					
+
+
+
+
+
+
+
+
+11 minutes reading time						
+
+
+
+
+
+
+						Checked by StudySmarter Editorial Team 
+
+
+
+
+			Save Explanation		
+
+
+
+
+
+
+
+
+
+
+
+
+					Study anywhere. Anytime.Across all devices.				
+
+					Sign-up for free				
+
+
+
+
+
+Explore our app and discover over 50 million learning materials for free.
+
+		Sign up for free	
+
+
+
+
+
+
+
+
+
+
+
+
+
+94% of StudySmarter users achieve better grades with our free platform.	
+
+		Download now!	
+
+
+
+
+
+
+
+
+
+
+
+Create a free account to save this explanation.
+Save explanations to your personalised space and access them anytime, anywhere!
+
+
+
+
+
+
+                Sign up with Email
+
+
+
+
+
+                Sign up with Apple
+By signing up, you agree to the  Terms and Conditions and the Privacy Policy of StudySmarter.
+Already have an account? Log in
+
+
+
+
+
+Sign up to highlight and take notes. It’s 100% free.	
+
+
+
+                Get Started Free            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join over 22 million students in learning with our StudySmarter App
+
+
+The first learning app that truly has everything you need to ace your exams in one place
+
+
+
+
+
+Flashcards & Quizzes
+
+
+
+
+
+AI Study Assistant
+
+
+
+
+
+Study Planner
+
+
+
+
+
+
+
+
+
+Mock-Exams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart Note-Taking
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Sign up with Email					
+Already have an account? Log in						
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English (UK)	                                
+
+
+
+ English (US)
+ German
+ French
+ Spanish
+ Italian
+
+
+
+
+
+
+
+
+
+Company
+
+Career
+About Us
+
+
+
+
+
+Product
+
+Exams
+Explanations
+For Companies
+Magazine
+
+
+
+
+
+Help
+
+Contact
+Help Center
+Cancel Premium
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+© 2024 StudySmarter GmbH
+
+Terms
+Privacy
+Transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

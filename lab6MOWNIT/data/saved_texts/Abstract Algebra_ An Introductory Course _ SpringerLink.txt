@@ -1,0 +1,1110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract Algebra: An Introductory Course | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+Menu
+
+
+
+
+                            Find a journal
+                        
+
+                            Publish with us
+                        
+
+                            Track your research
+                        
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Abstract Algebra
+        
+An Introductory Course
+
+Textbook
+© 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+Authors:
+
+
+
+Gregory T. Lee
+0
+
+
+
+
+
+
+Gregory T. Lee
+
+
+
+                                    
+                                        Department of Mathematical Sciences, Lakehead University, Thunder Bay, Canada
+
+
+
+
+
+View author publications
+
+You can also search for this author in
+                                    
+PubMed
+ 
+Google Scholar
+
+
+
+
+
+
+
+
+
+Provides a gentle, yet thorough, introduction to abstract algebra
+Includes careful proofs of theorems and numerous worked examples
+Written in an informal, readable style
+
+
+
+
+
+
+
+
+
+Part of the book series:
+Springer Undergraduate Mathematics Series (SUMS)
+                    
+
+
+
+
+
+
+
+
+
+2.18m Accesses
+
+
+
+
+4 
+Citations
+
+
+
+
+
+22
+                    
+Altmetric
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    This is a preview of subscription content, log in via an institution
+
+
+ to check access.
+                            
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 28.88 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 37.44 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                        
+
+
+
+
+
+
+
+
+
+Search within this book
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Table of contents (14 chapters)
+
+
+
+
+
+
+Front Matter
+Pages i-xi
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+Preliminaries
+
+
+
+
+Front Matter
+Pages 1-1
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Relations and Functions
+
+
+Gregory T. Lee
+
+Pages 3-13
+
+
+
+
+
+
+
+
+The Integers and Modular Arithmetic
+
+
+Gregory T. Lee
+
+Pages 15-31
+
+
+
+
+
+
+
+
+
+
+
+Groups
+
+
+
+
+Front Matter
+Pages 33-33
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Introduction to Groups
+
+
+Gregory T. Lee
+
+Pages 35-60
+
+
+
+
+
+
+
+
+Factor Groups and Homomorphisms
+
+
+Gregory T. Lee
+
+Pages 61-84
+
+
+
+
+
+
+
+
+Direct Products and the Classification of Finite Abelian Groups
+
+
+Gregory T. Lee
+
+Pages 85-99
+
+
+
+
+
+
+
+
+Symmetric and Alternating Groups
+
+
+Gregory T. Lee
+
+Pages 101-113
+
+
+
+
+
+
+
+
+The Sylow Theorems
+
+
+Gregory T. Lee
+
+Pages 115-132
+
+
+
+
+
+
+
+
+
+
+
+Rings
+
+
+
+
+Front Matter
+Pages 133-133
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Introduction to Rings
+
+
+Gregory T. Lee
+
+Pages 135-148
+
+
+
+
+
+
+
+
+Ideals, Factor Rings and Homomorphisms
+
+
+Gregory T. Lee
+
+Pages 149-170
+
+
+
+
+
+
+
+
+Special Types of Domains
+
+
+Gregory T. Lee
+
+Pages 171-188
+
+
+
+
+
+
+
+
+
+
+
+Fields and Polynomials
+
+
+
+
+Front Matter
+Pages 189-189
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Irreducible Polynomials
+
+
+Gregory T. Lee
+
+Pages 191-205
+
+
+
+
+
+
+
+
+Vector Spaces and Field Extensions
+
+
+Gregory T. Lee
+
+Pages 207-229
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+
+Front Matter
+Pages 231-231
+
+
+
+Download chapter PDF
+            
+
+
+
+
+
+
+
+
+
+
+Public Key Cryptography
+
+
+Gregory T. Lee
+
+Pages 233-239
+
+
+
+
+
+
+
+
+Straightedge and Compass Constructions
+
+
+Gregory T. Lee
+
+Pages 241-252
+
+
+
+
+
+
+
+
+
+
+
+
+ 1 
+
+
+ 2 
+
+
+
+
+Next page
+
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+
+abstract algebra
+
+
+
+
+algebra
+
+
+
+
+groups
+
+
+
+
+rings
+
+
+
+
+fields
+
+
+
+
+construction of finite fields
+
+
+
+
+polynomials
+
+
+
+
+MSC (2010) 20-01, 16-01, 12-01
+
+
+
+
+
+
+About this book
+
+This carefully written textbook offers a thorough introduction to abstract algebra, covering the fundamentals of groups, rings and fields.  
+The first two chapters present preliminary topics such as properties of the integers and equivalence relations. The author then explores the first major algebraic structure, the group, progressing as far as the Sylow theorems and the classification of finite abelian groups. An introduction to ring theory follows, leading to a discussion of fields and polynomials that includes sections on splitting fields and the construction of finite fields. The final part contains applications to public key cryptography as well as classical straightedge and compass constructions.
+
+Explaining key topics at a gentle pace, this book is aimed at undergraduate students. It assumes no prior knowledge of the subject and contains over 500 exercises, half of which have detailed solutions provided.
+
+
+
+Reviews
+
+                    “The book is very clearly written. The author successfully presents the material in an appealing way. A big number of examples enriches the text and enlightens the key topics. Exercises of different level are included at the end of each chapter and solutions to approximately half of the exercises are included at the very end of the book. In summary … the book can definitely be recommended as text book for a first introduction to abstract algebra.” (C. Fuchs, Internationale Mathematische Nachrichten IMN, Vol. 73 (240), April, 2019)“The book provides the reader with valuable technical information regarding the introductory notions and main results of abstract algebra. The author presents concepts, theorems and applications in a very clear and fluent way within the manuscript. Thus, ‘Abstract Algebra. An Introductory Course’ is obviously a well written document with respect to the field of abstract algebra.” (Diana Maimut, zbMATH 1401.00003, 2019)
+
+
+
+Authors and Affiliations
+
+
+
+
+                                        Department of Mathematical Sciences, Lakehead University, Thunder Bay, Canada
+                                    
+
+                                    
+                                        Gregory T. Lee
+                                    
+                                
+
+
+
+
+
+About the author
+
+                    Gregory T. Lee is a professor at Lakehead University specializing in group rings, a branch of abstract algebra. He has published numerous papers on the subject, as well as a monograph with Springer.
+                
+
+
+Bibliographic Information
+
+
+
+Book Title: Abstract Algebra
+Book Subtitle: An Introductory Course
+Authors: Gregory T. Lee
+Series Title: 
+
+Springer Undergraduate Mathematics Series
+
+DOI: https://doi.org/10.1007/978-3-319-77649-1
+Publisher: Springer Cham
+eBook Packages: 
+
+Mathematics and Statistics, Mathematics and Statistics (R0)
+
+Copyright Information: Springer International Publishing AG, part of Springer Nature 2018
+Softcover ISBN: 978-3-319-77648-4Published: 26 April 2018
+eBook ISBN: 978-3-319-77649-1Published: 13 April 2018
+Series ISSN: 
+ 1615-2085 
+Series E-ISSN: 
+ 2197-4144 
+Edition Number: 1
+Number of Pages: XI, 301
+Number of Illustrations: 7 b/w illustrations
+Topics: 
+
+Group Theory and Generalizations, 
+Associative Rings and Algebras, 
+Field Theory and Polynomials
+
+
+
+
+
+
+Publish with us
+
+
+Policies and ethics
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+
+
+Access this book
+
+
+Log in via an institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBook  EUR 28.88 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook 
+       
+
+
+
+
+
+
+
+Softcover Book  EUR 37.44 
+ Price includes VAT (Poland) 
+
+
+
+    
+
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book 
+       
+
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+
+ Licence this eBook for your library 
+
+
+
+ Learn about institutional subscriptions 
+
+
+
+
+
+
+
+
+
+
+Other ways to access
+
+Licence this eBook for your library
+                            
+
+
+
+
+Institutional subscriptions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search by keyword or author
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Navigation
+
+
+
+                        Find a journal
+                    
+
+
+
+                        Publish with us
+                    
+
+
+
+                        Track your research
+                    
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Books A-Z
+
+
+
+Publish with us
+
+Publish your research
+Open access publishing
+
+
+
+Products and services
+
+Our products
+Librarians
+Societies
+Partners and advertisers
+
+
+
+Our imprints
+
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+
+
+
+
+
+
+
+
+Your privacy choices/Manage cookies
+
+
+Your US state privacy rights
+
+
+Accessibility statement
+
+
+Terms and conditions
+
+
+Privacy policy
+
+
+Help and support
+
+
+
+
+
+185.48.129.39
+
+Not affiliated
+
+
+
+
+© 2024 Springer Nature
+
+
+
+
+
+
+
+
+
