@@ -10,8 +10,8 @@ Some tasks are significantly larger and more detailed, often including reports a
 ### Laboratory 2: Solving Linear Systems
 Using Gaussian Elimination & LU Decomposition to solve linear systems. Additionally, this lab includes solving an electric circuit (treated as a graph) by finding electric currents using Kirchhoff's and Ohm's Laws and reducing dependent equations.
 
-- [Instructions (Polish)](/lab2mownit/lab2_instructions.pdf)
-- [Notebook with Solutions (Polish)](/lab2mownit/lab2_mownit_zielinski.ipynb)
+- [Instructions (Polish)](lab2MOWNIT/lab2_instructions.pdf)
+- [Notebook with Solutions (Polish)](lab2MOWNIT/lab2_mownit_zielinski.ipynb)
 
 <div style="text-align: center;">
     <img src="lab2MOWNIT/images/erdos-renyi.png" alt="Example graph" width="350"/>
@@ -20,10 +20,10 @@ Using Gaussian Elimination & LU Decomposition to solve linear systems. Additiona
 ### Laboratory 4: Simulated Annealing Metaheuristic
 Applying the Simulated Annealing metaheuristic to solve various optimization problems.
 
-- [Instructions (Polish)](/lab4mownit/lab4_instructions.pdf)
+- [Instructions (Polish)](lab4MOWNIT/tasks_instructions/lab4.pdf)
 
 #### Task 1: Traveling Salesman Problem
-- [Notebook with Solutions (English)](/lab4mownit/task1/TSP.ipynb)
+- [Notebook with Solutions (English)](lab4MOWNIT/task1/TSP.ipynb)
 
 <div style="text-align: center;">
     <img src="lab4MOWNIT/task1/resources/normal_arbitrary.gif" alt="Traveling Salesman Example" width="350"/>
