@@ -86,7 +86,3 @@ Exploring the Power and Reversed Power methods for spectral decomposition.
 - [Instructions](lab7MOWNIT/lab7_instructions.pdf)
 - [Power Method Notebook](lab7MOWNIT/power_method.ipynb)
 - [Reversed Power Method Notebook](lab7MOWNIT/reversed_power_method.ipynb)
-
----
-
-This format is structured to be more visually appealing and readable. Feel free to paste this updated version into your README file.
